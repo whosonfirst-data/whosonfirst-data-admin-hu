@@ -1,0 +1,113 @@
+{
+  "id": 85901039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14703793.484616,
+    "geom:bbox":"18.400701,47.578308,18.400701,47.578308",
+    "geom:latitude":47.578308,
+    "geom:longitude":18.400701,
+    "gn:latitude":47.57245,
+    "gn:longitude":18.41646,
+    "iso:country":"HU",
+    "lbl:latitude":47.578308,
+    "lbl:longitude":18.400701,
+    "mps:latitude":47.574166,
+    "mps:longitude":18.399344,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Alsogalla"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3galla"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f3galla"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3044082,
+    "qs:gn_nam_loc":"Tatab\u00e1nya, Tatab\u00e1nya, Tatab\u00e1nya, HU",
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Als\u00f3galla",
+    "qs:local_max":73,
+    "qs:local_sum":126,
+    "qs:localhoods":2,
+    "qs:name":"Als\u00f3galla",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Tatab\u00e1nya",
+    "qs:name_adm2":"Tatab\u00e1nya",
+    "qs:name_local":"Tatab\u00e1nya",
+    "qs:photo_max":19,
+    "qs:photo_sum":53,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043626,
+    "qs:woe_adm2":12593536,
+    "qs:woe_lau":0,
+    "qs:woe_local":816298,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684885,
+        102191581,
+        85633237,
+        404227479,
+        101751707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056211,
+        "gp:id":802562,
+        "qs:id":1348485,
+        "qs_pg:id":1348485
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2f15319a890edcc8264bfea61269feab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751707,
+            "macroregion_id":404227479,
+            "neighbourhood_id":85901039,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":85901039,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932423,
+    "wof:name":"Als\u00f3galla",
+    "wof:parent_id":101751707,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.400701,
+    47.578308,
+    18.400701,
+    47.578308
+],
+  "geometry": {"coordinates":[18.400701,47.578308],"type":"Point"}
+}

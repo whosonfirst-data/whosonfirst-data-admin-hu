@@ -1,0 +1,68 @@
+{
+  "id": 1226516311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47317,46.53749,18.47317,46.53749",
+    "geom:latitude":46.53749,
+    "geom:longitude":18.47317,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Szakadat",
+    "gn:country_code":"HU",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044981,
+    "gn:latitude":46.53749,
+    "gn:longitude":18.47317,
+    "gn:modification_date":"2011-02-11",
+    "gn:name":"Szakad\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044981,
+        "wk:page":"Szakad%C3%A1t"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"875c2f2ac4727df5f9d0ab02939e360b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226516311,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1226516311,
+    "wof:lastmodified":1537563370,
+    "wof:name":"Szakadat",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47317,
+    46.53749000000001,
+    18.47317,
+    46.53749000000001
+],
+  "geometry": {"coordinates":[18.47317,46.53749000000001],"type":"Point"}
+}

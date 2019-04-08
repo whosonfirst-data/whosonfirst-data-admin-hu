@@ -1,0 +1,66 @@
+{
+  "id": 1108940421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0286465609,47.5239871225,19.0286465609,47.5239871225",
+    "geom:latitude":47.523987,
+    "geom:longitude":19.028647,
+    "iso:country":"HU",
+    "lbl:latitude":47.523987,
+    "lbl:longitude":19.028647,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "Szeml\u0151hegy"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361735,
+    "wof:geomhash":"80e6831e5a75be34093b7205ad11bc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940421,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940421,
+    "wof:lastmodified":1497292355,
+    "wof:name":"Szemlohegy",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02864656092771,
+    47.52398712249488,
+    19.02864656092771,
+    47.52398712249488
+],
+  "geometry": {"coordinates":[19.02864656092771,47.52398712249488],"type":"Point"}
+}

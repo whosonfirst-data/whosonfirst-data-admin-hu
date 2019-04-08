@@ -1,0 +1,71 @@
+{
+  "id": 1259583743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25,48.45,21.25,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":21.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goncruszka",
+    "gn:country_code":"HU",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720492,
+    "gn:latitude":48.45,
+    "gn:longitude":21.25,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"G\u00f6ncruszka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6ncruszka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720492,
+        "wk:page":"G%C3%B6ncruszka"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d764cce6d86df947c7710daccb3ce3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259583743,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1259583743,
+    "wof:lastmodified":1537626183,
+    "wof:name":"Goncruszka",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25,
+    48.45,
+    21.25,
+    48.45
+],
+  "geometry": {"coordinates":[21.25,48.45],"type":"Point"}
+}

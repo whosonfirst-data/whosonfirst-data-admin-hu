@@ -1,0 +1,71 @@
+{
+  "id": 1293170489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2,47.71667,19.2,47.71667",
+    "geom:latitude":47.71667,
+    "geom:longitude":19.2,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Csoeroeg",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053911,
+    "gn:latitude":47.71667,
+    "gn:longitude":19.2,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Cs\u00f6r\u00f6g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cs\u00f6r\u00f6gtelep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053911
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"93e43c7a3d240b87a66828fc31f0d8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293170489,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1293170489,
+    "wof:lastmodified":1537626253,
+    "wof:name":"Csoeroeg",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.2,
+    47.71667,
+    19.2,
+    47.71667
+],
+  "geometry": {"coordinates":[19.2,47.71667],"type":"Point"}
+}

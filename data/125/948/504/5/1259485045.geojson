@@ -1,0 +1,73 @@
+{
+  "id": 1259485045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5,46.8,21.5,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":21.5,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ujszalonta",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":714424,
+    "gn:latitude":46.8,
+    "gn:longitude":21.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00dajszalonta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagy-Szalonta",
+        "\u00dajszalonta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684875,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714424,
+        "wk:page":"%C3%9Ajszalonta"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ad67f4e722ed794efcce901b927ec20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259485045,
+            "macroregion_id":404227487,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":1259485045,
+    "wof:lastmodified":1537626164,
+    "wof:name":"Ujszalonta",
+    "wof:parent_id":85684875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5,
+    46.8,
+    21.5,
+    46.8
+],
+  "geometry": {"coordinates":[21.5,46.8],"type":"Point"}
+}

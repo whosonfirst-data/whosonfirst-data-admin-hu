@@ -1,0 +1,72 @@
+{
+  "id": 1243468105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13333,46.33333,19.13333,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":19.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dohanytelep",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053606,
+    "gn:latitude":46.33333,
+    "gn:longitude":19.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doh\u00e1nytelep",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doh\u00e1nyos Telep",
+        "Doh\u00e1nytelep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053606
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5d352b3eaa5fb62e1ed7f92878f523f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243468105,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1243468105,
+    "wof:lastmodified":1537626251,
+    "wof:name":"Dohanytelep",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13333,
+    46.33333,
+    19.13333,
+    46.33333
+],
+  "geometry": {"coordinates":[19.13333,46.33333],"type":"Point"}
+}

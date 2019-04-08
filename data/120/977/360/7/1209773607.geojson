@@ -1,0 +1,72 @@
+{
+  "id": 1209773607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06341,46.50129,17.06341,46.50129",
+    "geom:latitude":46.50129,
+    "geom:longitude":17.06341,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kisrecse",
+    "gn:country_code":"HU",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049771,
+    "gn:latitude":46.50129,
+    "gn:longitude":17.06341,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kisr\u00e9cse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisr\u00f3cse",
+        "Kisr\u00e9cse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049771,
+        "wk:page":"Kisr%C3%A9cse"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"af60df7ca3ce512ce84f692b0278d4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1209773607,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1209773607,
+    "wof:lastmodified":1537626232,
+    "wof:name":"Kisrecse",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06341,
+    46.50129,
+    17.06341,
+    46.50129
+],
+  "geometry": {"coordinates":[17.06341,46.50129],"type":"Point"}
+}

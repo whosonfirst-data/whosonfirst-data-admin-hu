@@ -1,0 +1,71 @@
+{
+  "id": 1259673467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27105,47.55609,17.27105,47.55609",
+    "geom:latitude":47.55609,
+    "geom:longitude":17.27105,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pasztori",
+    "gn:country_code":"HU",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046579,
+    "gn:latitude":47.55609,
+    "gn:longitude":17.27105,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"P\u00e1sztori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e1sztori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046579,
+        "wk:page":"P%C3%A1sztori"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"43c066b0244288fc442ae42efbef6331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259673467,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1259673467,
+    "wof:lastmodified":1537626219,
+    "wof:name":"Pasztori",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27105,
+    47.55609000000001,
+    17.27105,
+    47.55609000000001
+],
+  "geometry": {"coordinates":[17.27105,47.55609000000001],"type":"Point"}
+}

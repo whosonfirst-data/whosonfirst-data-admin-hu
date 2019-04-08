@@ -1,0 +1,71 @@
+{
+  "id": 1343771039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72424,46.18288,17.72424,46.18288",
+    "geom:latitude":46.18288,
+    "geom:longitude":17.72424,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vasarosbec",
+    "gn:country_code":"HU",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043081,
+    "gn:latitude":46.18288,
+    "gn:longitude":17.72424,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00e1s\u00e1rosb\u00e9c",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e1s\u00e1rosb\u00e9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043081,
+        "wk:page":"V%C3%A1s%C3%A1rosb%C3%A9c"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"929ab5b4119205be00ada2a81f6168cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343771039,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1343771039,
+    "wof:lastmodified":1537626204,
+    "wof:name":"Vasarosbec",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72423999999999,
+    46.18288,
+    17.72423999999999,
+    46.18288
+],
+  "geometry": {"coordinates":[17.72423999999999,46.18288],"type":"Point"}
+}

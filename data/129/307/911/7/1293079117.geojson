@@ -1,0 +1,67 @@
+{
+  "id": 1293079117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31667,47.7,20.31667,47.7",
+    "geom:latitude":47.7,
+    "geom:longitude":20.31667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kisebbtanya",
+    "gn:country_code":"HU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":718993,
+    "gn:latitude":47.7,
+    "gn:longitude":20.31667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Kisebbtanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718993
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4a3404480d07bf6be17bfa56e2920876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293079117,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1293079117,
+    "wof:lastmodified":1536878088,
+    "wof:name":"Kisebbtanya",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31667,
+    47.7,
+    20.31667,
+    47.7
+],
+  "geometry": {"coordinates":[20.31667,47.7],"type":"Point"}
+}

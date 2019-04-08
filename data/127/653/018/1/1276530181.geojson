@@ -1,0 +1,71 @@
+{
+  "id": 1276530181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84197,48.03275,18.84197,48.03275",
+    "geom:latitude":48.03275,
+    "geom:longitude":18.84197,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tesa",
+    "gn:country_code":"HU",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043952,
+    "gn:latitude":48.03275,
+    "gn:longitude":18.84197,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"T\u00e9sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "T\u00e9sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043952,
+        "wk:page":"T%C3%A9sa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b24c708d002dec98d98df47a7a9b90b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276530181,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1276530181,
+    "wof:lastmodified":1537563367,
+    "wof:name":"Tesa",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84197,
+    48.03275,
+    18.84197,
+    48.03275
+],
+  "geometry": {"coordinates":[18.84197,48.03275],"type":"Point"}
+}

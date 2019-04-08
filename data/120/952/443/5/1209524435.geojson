@@ -1,0 +1,65 @@
+{
+  "id": 1209524435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89562,46.11994,17.89562,46.11994",
+    "geom:latitude":46.11994,
+    "geom:longitude":17.89562,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Almaskeresztur",
+    "gn:country_code":"HU",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056285,
+    "gn:latitude":46.11994,
+    "gn:longitude":17.89562,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alm\u00e1skereszt\u00far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alm\u00e1skereszt\u00far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056285,
+        "wk:page":"Alm%C3%A1skereszt%C3%BAr"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"9c444511e9d791e0313747ae75a058f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209524435
+        }
+    ],
+    "wof:id":1209524435,
+    "wof:lastmodified":1537626276,
+    "wof:name":"Almaskeresztur",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89562,
+    46.11994,
+    17.89562,
+    46.11994
+],
+  "geometry": {"coordinates":[17.89562,46.11994],"type":"Point"}
+}

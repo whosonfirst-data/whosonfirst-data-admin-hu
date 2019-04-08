@@ -1,0 +1,67 @@
+{
+  "id": 1293172327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83812,46.20511,17.83812,46.20511",
+    "geom:latitude":46.20511,
+    "geom:longitude":17.83812,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Antalszallas",
+    "gn:country_code":"HU",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055924,
+    "gn:latitude":46.20511,
+    "gn:longitude":17.83812,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Antalsz\u00e1ll\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055924
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f1735a6c47a3fa70575fe4571f029363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293172327,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1293172327,
+    "wof:lastmodified":1536744283,
+    "wof:name":"Antalszallas",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83812,
+    46.20511,
+    17.83812,
+    46.20511
+],
+  "geometry": {"coordinates":[17.83812,46.20511],"type":"Point"}
+}

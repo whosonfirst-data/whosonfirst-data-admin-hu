@@ -1,0 +1,71 @@
+{
+  "id": 1242945583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17675,47.13122,19.17675,47.13122",
+    "geom:latitude":47.13122,
+    "geom:longitude":19.17675,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Aporkaitanya",
+    "gn:country_code":"HU",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055898,
+    "gn:latitude":47.13122,
+    "gn:longitude":19.17675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c1porkaitanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c1porkai \u0170rb\u0151-tanya",
+        "\u00c1porkaitanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055898
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6b066d281198c6779ad33bd93dd3bd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242945583,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1242945583,
+    "wof:lastmodified":1537626273,
+    "wof:name":"Aporkaitanya",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17675,
+    47.13122,
+    19.17675,
+    47.13122
+],
+  "geometry": {"coordinates":[19.17675,47.13122],"type":"Point"}
+}

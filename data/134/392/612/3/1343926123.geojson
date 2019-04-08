@@ -1,0 +1,73 @@
+{
+  "id": 1343926123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10894,46.70072,17.10894,46.70072",
+    "geom:latitude":46.70072,
+    "geom:longitude":17.10894,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Esztergalyhorvati",
+    "gn:country_code":"HU",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053164,
+    "gn:latitude":46.70072,
+    "gn:longitude":17.10894,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Eszterg\u00e1lyhorv\u00e1ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagyhorv\u00e1ti",
+        "Eszterg\u00e1ly",
+        "Eszterg\u00e1lyhorv\u00e1ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053164,
+        "wk:page":"Eszterg%C3%A1lyhorv%C3%A1ti"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2c975af0d204b39da561feec9ad08425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343926123,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1343926123,
+    "wof:lastmodified":1537626247,
+    "wof:name":"Esztergalyhorvati",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10894,
+    46.70072,
+    17.10894,
+    46.70072
+],
+  "geometry": {"coordinates":[17.10894,46.70072],"type":"Point"}
+}

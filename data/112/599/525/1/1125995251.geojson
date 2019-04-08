@@ -1,0 +1,102 @@
+{
+  "id": 1125995251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13333,48.33333,21.13333,48.33333",
+    "geom:latitude":48.33333,
+    "geom:longitude":21.13333,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6886,
+    "gn:population":6886,
+    "iso:country":"HU",
+    "lbl:latitude":48.33333,
+    "lbl:longitude":21.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u0447"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043d\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Gib\u00e1rt"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u5947"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":721159,
+    "qs_pg:gn_pop":6886,
+    "qs_pg:name":"Aba\u00fajdevecser",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Borsod-Aba\u00faj-Zempl\u00e9n",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275632,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":55848157,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Borsod-Aba\u00faj-Zempl\u00e9n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721159,
+        "gp:id":55848157,
+        "qs_pg:id":275632
+    },
+    "wof:country":"HU",
+    "wof:created":1497299285,
+    "wof:geomhash":"1ea32fc902bb20e8fb752710a23e33af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125995251,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1125995251,
+    "wof:lastmodified":1509405699,
+    "wof:name":"Aba\u00fajdevecser",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:population":6886,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13333,
+    48.33333,
+    21.13333,
+    48.33333
+],
+  "geometry": {"coordinates":[21.13333,48.33333],"type":"Point"}
+}

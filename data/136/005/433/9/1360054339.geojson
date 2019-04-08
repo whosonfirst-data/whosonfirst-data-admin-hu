@@ -1,0 +1,71 @@
+{
+  "id": 1360054339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70382,46.99151,16.70382,46.99151",
+    "geom:latitude":46.99151,
+    "geom:longitude":16.70382,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Doborhegy",
+    "gn:country_code":"HU",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053637,
+    "gn:latitude":46.99151,
+    "gn:longitude":16.70382,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00f6b\u00f6rhegy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053637,
+        "wk:page":"D%C3%B6b%C3%B6rhegy"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f8076d9bd51a2de68024e093e3eb1292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1360054339,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1360054339,
+    "wof:lastmodified":1537626251,
+    "wof:name":"Doborhegy",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70382,
+    46.99151,
+    16.70382,
+    46.99151
+],
+  "geometry": {"coordinates":[16.70382,46.99151],"type":"Point"}
+}

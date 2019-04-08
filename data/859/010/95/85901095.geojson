@@ -1,0 +1,104 @@
+{
+  "id": 85901095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8528085.587673,
+    "geom:bbox":"22.072579,48.229117,22.072579,48.229117",
+    "geom:latitude":48.229117,
+    "geom:longitude":22.072579,
+    "iso:country":"HU",
+    "lbl:latitude":48.229117,
+    "lbl:longitude":22.072579,
+    "mps:latitude":48.233309,
+    "mps:longitude":22.073791,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Farkashegy"
+    ],
+    "name:unk_x_variant":[
+        "Farkashegy"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":718739,
+    "qs:gn_nam_loc":"Kisv\u00e1rda, Kisv\u00e1rda, Szabolcs-Szatm\u00e1r-Bereg, HU",
+    "qs:gn_namadm1":"18",
+    "qs:id":0,
+    "qs:local_max":42,
+    "qs:local_sum":42,
+    "qs:localhoods":1,
+    "qs:name":"Farkashegy",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szabolcs-Szatm\u00e1r-Bereg",
+    "qs:name_adm2":"Kisv\u00e1rda",
+    "qs:name_local":"Kisv\u00e1rda",
+    "qs:photo_max":25,
+    "qs:photo_sum":42,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577925,
+    "qs:woe_adm2":12594690,
+    "qs:woe_lau":0,
+    "qs:woe_local":810092,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684915,
+        102191581,
+        85633237,
+        404227483,
+        101782321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":806123
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5976699de9ca88500f121a6217820298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101782321,
+            "macroregion_id":404227483,
+            "neighbourhood_id":85901095,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":85901095,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932432,
+    "wof:name":"Farkashegy",
+    "wof:parent_id":101782321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.072579,
+    48.229117,
+    22.072579,
+    48.229117
+],
+  "geometry": {"coordinates":[22.072579,48.229117],"type":"Point"}
+}

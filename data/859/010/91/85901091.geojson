@@ -1,0 +1,184 @@
+{
+  "id": 85901091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1365740.621677,
+    "geom:bbox":"19.1097179441,47.5157202388,19.1271972656,47.528329253",
+    "geom:latitude":47.521754,
+    "geom:longitude":19.11893,
+    "gn:latitude":47.50207,
+    "gn:longitude":19.07218,
+    "iso:country":"HU",
+    "lbl:latitude":47.501725,
+    "lbl:longitude":19.070723,
+    "mps:latitude":47.521766,
+    "mps:longitude":19.119804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u4e3d\u838e\u767d\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:deu_x_preferred":[
+        "VII. Budapester Bezirk"
+    ],
+    "name:deu_x_variant":[
+        "Elisabethstadt"
+    ],
+    "name:dut_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:eng_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:epo_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:fra_x_preferred":[
+        "7e arrondissement de Budapest"
+    ],
+    "name:fre_x_preferred":[
+        "7e arrondissement de Budapest"
+    ],
+    "name:ger_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:hun_x_colloquial":[
+        "Erzsebetvaros"
+    ],
+    "name:hun_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:hun_x_variant":[
+        "VII. ker\u00fclet",
+        "Erzsebetvaros",
+        "Budapest VII. ker\u00fclet",
+        "Budapest VII. ker\u00fclete"
+    ],
+    "name:ita_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:pol_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:ron_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:rum_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0436\u0435\u0431\u0435\u0442\u0432\u0430\u0440\u043e\u0448"
+    ],
+    "name:slk_x_preferred":[
+        "VII. obvod"
+    ],
+    "name:slo_x_preferred":[
+        "VII. obvod"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 VII \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u0436\u0435\u0431\u0435\u0442\u0432\u0430\u0440\u043e\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn VII"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u4e3d\u838e\u767d\u57ce"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3054643,
+    "qs:gn_namadm1":"16",
+    "qs:gn_name":"Erzs\u00e9betv\u00e1ros",
+    "qs:local_max":25522,
+    "qs:local_sum":154909,
+    "qs:localhoods":67,
+    "qs:name":"Erzs\u00e9betv\u00e1ros",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Budapest",
+    "qs:name_adm2":"Budapest XIV.",
+    "qs:name_local":"Budapest",
+    "qs:photo_max":30,
+    "qs:photo_sum":76,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577915,
+    "qs:woe_adm2":12595037,
+    "qs:woe_lau":0,
+    "qs:woe_local":804365,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":229,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053176,
+        "gp:id":806007,
+        "qs:id":211564,
+        "qs_pg:id":211564,
+        "wd:id":"Q284541",
+        "wk:page":"Erzs\u00e9betv\u00e1ros"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5ac34b7d2ed2aee67802f6456e143b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901091,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85901091,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1536864510,
+    "wof:name":"Erzs\u00e9betv\u00e1ros",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10971794414593,
+    47.51572023875779,
+    19.12719726562511,
+    47.52832925300002
+],
+  "geometry": {"coordinates":[[[19.12170410158132,47.52832918742509],[19.12295643817697,47.52647449380028],[19.12719726562511,47.52647449380028],[19.12719726561437,47.52461999689997],[19.12719726561676,47.52091047850006],[19.12719726561676,47.52091041292512],[19.12719726560977,47.51720069779999],[19.12719726561818,47.51720063222534],[19.12170410157501,47.51720063222534],[19.11721076680425,47.51720063222534],[19.11621093750011,47.51572023875779],[19.113464355475,47.51707581087688],[19.11071777342511,47.51572023879483],[19.10971794414593,47.51720063222534],[19.10971795890754,47.51720069779999],[19.11013551883036,47.51905560457529],[19.10971796627479,47.52091041292512],[19.11071777340737,47.52239093061748],[19.11071777341817,47.52461993132512],[19.11071777340976,47.52461999689997],[19.11621093750011,47.52461999689997],[19.11621093750011,47.52832918742509],[19.11621093750011,47.52832925300002],[19.12170410160013,47.52832925300002],[19.12170410158132,47.52832918742509]]],"type":"Polygon"}
+}

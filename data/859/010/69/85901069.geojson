@@ -1,0 +1,104 @@
+{
+  "id": 85901069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6187152.686574,
+    "geom:bbox":"19.684051,46.92248,19.684051,46.92248",
+    "geom:latitude":46.92248,
+    "geom:longitude":19.684051,
+    "iso:country":"HU",
+    "lbl:latitude":46.92248,
+    "lbl:longitude":19.684051,
+    "mps:latitude":46.918815,
+    "mps:longitude":19.672602,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Budaihegy"
+    ],
+    "name:unk_x_variant":[
+        "Budaihegy"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3050434,
+    "qs:gn_nam_loc":"Kecskem\u00e9t, Kecskem\u00e9t, Kecskem\u00e9t, HU",
+    "qs:gn_namadm1":"01",
+    "qs:id":0,
+    "qs:local_max":791,
+    "qs:local_sum":1301,
+    "qs:localhoods":4,
+    "qs:name":"Budaihegy",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Kecskem\u00e9t",
+    "qs:name_adm2":"Kecskem\u00e9t",
+    "qs:name_local":"Kecskem\u00e9t",
+    "qs:photo_max":33,
+    "qs:photo_sum":43,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043634,
+    "qs:woe_adm2":12593496,
+    "qs:woe_lau":0,
+    "qs:woe_local":809168,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684859,
+        102191581,
+        85633237,
+        404227487,
+        101751685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":804358
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"0e6198ba70971a343aafa9e837311012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751685,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901069,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":85901069,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932427,
+    "wof:name":"Budaihegy",
+    "wof:parent_id":101751685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.684051,
+    46.92248,
+    19.684051,
+    46.92248
+],
+  "geometry": {"coordinates":[19.684051,46.92248],"type":"Point"}
+}

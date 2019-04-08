@@ -1,0 +1,71 @@
+{
+  "id": 1344063205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.08066,48.35739,22.08066,48.35739",
+    "geom:latitude":48.35739,
+    "geom:longitude":22.08066,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zemplenagard",
+    "gn:country_code":"HU",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713907,
+    "gn:latitude":48.35739,
+    "gn:longitude":22.08066,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zempl\u00e9nag\u00e1rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zempl\u00e9nag\u00e1rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713907,
+        "wk:page":"Zempl%C3%A9nag%C3%A1rd"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d73fa5d1af47cd5562b7a14fb5e5a8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344063205,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1344063205,
+    "wof:lastmodified":1537626163,
+    "wof:name":"Zemplenagard",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.08066,
+    48.35739,
+    22.08066,
+    48.35739
+],
+  "geometry": {"coordinates":[22.08066,48.35739],"type":"Point"}
+}

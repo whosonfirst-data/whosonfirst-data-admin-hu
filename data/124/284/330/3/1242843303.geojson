@@ -1,0 +1,68 @@
+{
+  "id": 1242843303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45093,46.96245,16.45093,46.96245",
+    "geom:latitude":46.96245,
+    "geom:longitude":16.45093,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gasztony",
+    "gn:country_code":"HU",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052369,
+    "gn:latitude":46.96245,
+    "gn:longitude":16.45093,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gasztony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052369,
+        "wk:page":"Gasztony"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b48cc9597408680a9c1f8c6402051343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242843303,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1242843303,
+    "wof:lastmodified":1537563392,
+    "wof:name":"Gasztony",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45093,
+    46.96245,
+    16.45093,
+    46.96245
+],
+  "geometry": {"coordinates":[16.45093,46.96245],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209571667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5,47.35,17.5,47.35",
+    "geom:latitude":47.35,
+    "geom:longitude":17.5,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Baroczhegyi-ujmajor",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055334,
+    "gn:latitude":47.35,
+    "gn:longitude":17.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e1r\u00f3czhegyi-\u00fajmajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar\u00f3chegyi-\u00famajor",
+        "B\u00e1r\u00f3czhegyi-\u00fajmajor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055334
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1ba0d815f85be1ba8adf0b89c5acda21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209571667
+        }
+    ],
+    "wof:id":1209571667,
+    "wof:lastmodified":1537626268,
+    "wof:name":"Baroczhegyi-ujmajor",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5,
+    47.35,
+    17.5,
+    47.35
+],
+  "geometry": {"coordinates":[17.5,47.35],"type":"Point"}
+}

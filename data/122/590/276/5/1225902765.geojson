@@ -1,0 +1,71 @@
+{
+  "id": 1225902765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51988,46.93388,16.51988,46.93388",
+    "geom:latitude":46.93388,
+    "geom:longitude":16.51988,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Felsomarac",
+    "gn:country_code":"HU",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052812,
+    "gn:latitude":46.93388,
+    "gn:longitude":16.51988,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fels\u0151mar\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fels\u0151mar\u00e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052812,
+        "wk:page":"Fels%C5%91mar%C3%A1c"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b155a64f6fac56223be675550796f31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225902765,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1225902765,
+    "wof:lastmodified":1537626246,
+    "wof:name":"Felsomarac",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51988,
+    46.93388,
+    16.51988,
+    46.93388
+],
+  "geometry": {"coordinates":[16.51988,46.93388],"type":"Point"}
+}

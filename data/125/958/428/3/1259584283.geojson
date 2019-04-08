@@ -1,0 +1,71 @@
+{
+  "id": 1259584283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86667,48.5,20.86667,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":20.86667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Debrete",
+    "gn:country_code":"HU",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721462,
+    "gn:latitude":48.5,
+    "gn:longitude":20.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Debr\u00e9te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Debr\u00e9te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721462,
+        "wk:page":"Debr%C3%A9te"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b4e7401c905f11ba4166a340a371f774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259584283,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1259584283,
+    "wof:lastmodified":1537626189,
+    "wof:name":"Debrete",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86667000000001,
+    48.5,
+    20.86667000000001,
+    48.5
+],
+  "geometry": {"coordinates":[20.86667000000001,48.5],"type":"Point"}
+}

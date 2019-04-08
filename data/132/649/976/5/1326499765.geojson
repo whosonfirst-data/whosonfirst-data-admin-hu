@@ -1,0 +1,71 @@
+{
+  "id": 1326499765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36219,47.0999,19.36219,47.0999",
+    "geom:latitude":47.0999,
+    "geom:longitude":19.36219,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Alsoessopuszta",
+    "gn:country_code":"HU",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056221,
+    "gn:latitude":47.0999,
+    "gn:longitude":19.36219,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Als\u00f3ess\u0151puszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Als\u00f3 Ess\u0151i-major",
+        "Als\u00f3ess\u0151puszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056221
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"101ba90505a3ce35ceb6095a6bccc68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1326499765,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1326499765,
+    "wof:lastmodified":1537626276,
+    "wof:name":"Alsoessopuszta",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36219,
+    47.0999,
+    19.36219,
+    47.0999
+],
+  "geometry": {"coordinates":[19.36219,47.0999],"type":"Point"}
+}

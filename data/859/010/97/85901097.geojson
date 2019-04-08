@@ -1,0 +1,113 @@
+{
+  "id": 85901097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13934174.842972,
+    "geom:bbox":"19.929309,47.783487,19.929309,47.783487",
+    "geom:latitude":47.783487,
+    "geom:longitude":19.929309,
+    "gn:latitude":47.78333,
+    "gn:longitude":19.93333,
+    "iso:country":"HU",
+    "lbl:latitude":47.783487,
+    "lbl:longitude":19.929309,
+    "mps:latitude":47.780275,
+    "mps:longitude":19.925252,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Farkasmaly"
+    ],
+    "name:hun_x_preferred":[
+        "Farkasm\u00e1ly"
+    ],
+    "name:unk_x_variant":[
+        "Farkasm\u00e1ly"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3052040,
+    "qs:gn_nam_loc":"Gy\u00f6ngy\u00f6s, Gy\u00f6ngy\u00f6s, Heves, HU",
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Farkasm\u00e1ly",
+    "qs:local_max":299,
+    "qs:local_sum":299,
+    "qs:localhoods":1,
+    "qs:name":"Farkasm\u00e1ly",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Heves",
+    "qs:name_adm2":"Gy\u00f6ngy\u00f6s",
+    "qs:name_local":"Gy\u00f6ngy\u00f6s",
+    "qs:photo_max":118,
+    "qs:photo_sum":299,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577920,
+    "qs:woe_adm2":12594853,
+    "qs:woe_lau":0,
+    "qs:woe_local":807370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684909,
+        102191581,
+        85633237,
+        404227477,
+        101784709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053085,
+        "gp:id":806129,
+        "qs:id":1083291,
+        "qs_pg:id":1083291
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"28188d3a5a81e0e20151a4d0abba6f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784709,
+            "macroregion_id":404227477,
+            "neighbourhood_id":85901097,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":85901097,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932433,
+    "wof:name":"Farkasm\u00e1ly",
+    "wof:parent_id":101784709,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.929309,
+    47.783487,
+    19.929309,
+    47.783487
+],
+  "geometry": {"coordinates":[19.929309,47.783487],"type":"Point"}
+}

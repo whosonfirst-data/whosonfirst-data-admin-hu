@@ -1,0 +1,115 @@
+{
+  "id": 101833415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:bbox":"20.6475281918,48.276980975,20.6641111935,48.2885754595",
+    "geom:latitude":48.282736,
+    "geom:longitude":20.655435,
+    "iso:country":"HU",
+    "lbl:latitude":48.281801,
+    "lbl:longitude":20.655309,
+    "mps:latitude":48.281801,
+    "mps:longitude":20.655309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "M\u00facsony"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00facsony"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00facsony"
+    ],
+    "name:hun_x_colloquial":[
+        "Szuhakallo"
+    ],
+    "name:hun_x_preferred":[
+        "Szuhak\u00e1ll\u00f3",
+        "M\u00facsony"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00facsony"
+    ],
+    "name:msa_x_preferred":[
+        "Szuhak\u00e1ll\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00facsony"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00facsony"
+    ],
+    "name:ron_x_preferred":[
+        "Szuhak\u00e1ll\u00f3"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00facsony"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"Szuhak\u00e1ll\u00f3",
+    "qs:la_lc":"*HU50535041111",
+    "qs:level":"locality",
+    "qs:loc":"Szuhak\u00e1ll\u00f3",
+    "qs:loc_alt":"Szuhakallo",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164b384-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":715044,
+        "gp:id":816114,
+        "qs:id":966260,
+        "wd:id":"Q2418639",
+        "wk:page":"Szuhak\u00e1ll\u00f3"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"23135ec03aa849f3346d0c1bc53456eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101833415,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":101833415,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527642922,
+    "wof:name":"Szuhak\u00e1ll\u00f3",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.647528191822,
+    48.27698097500343,
+    20.66411119345952,
+    48.2885754594771
+],
+  "geometry": {"coordinates":[[[20.66402500188684,48.28598619024302],[20.65822814011369,48.27698097500343],[20.65802206731416,48.27700097469369],[20.65821133095659,48.27788994536638],[20.647528191822,48.27892609550736],[20.64771728100192,48.27981508641903],[20.64905271803309,48.27968562141814],[20.65018756792199,48.28501953401724],[20.64885199366722,48.28514901480492],[20.64941946418725,48.28781596801502],[20.65075510706725,48.28768647933248],[20.65094430370431,48.2885754594771],[20.65227996323711,48.28844595204566],[20.65209074372365,48.28755697453323],[20.65342637415586,48.28742745361745],[20.65304791476598,48.28564950141617],[20.65705463146804,48.28526085776701],[20.6572439255512,48.28614982637612],[20.65857950820651,48.28602024362823],[20.65876883362927,48.28690920878978],[20.66411119345952,48.28639070610473],[20.66402500188684,48.28598619024302]]],"type":"Polygon"}
+}

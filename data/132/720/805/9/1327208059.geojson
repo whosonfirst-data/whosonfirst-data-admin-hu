@@ -1,0 +1,71 @@
+{
+  "id": 1327208059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79895,46.61476,18.79895,46.61476",
+    "geom:latitude":46.61476,
+    "geom:longitude":18.79895,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Biritopuszta",
+    "gn:country_code":"HU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054998,
+    "gn:latitude":46.61476,
+    "gn:longitude":18.79895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Birit\u00f3puszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birit\u00f3",
+        "Birit\u00f3puszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054998
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b6b339d523c1afda5f7c68a83253b24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327208059,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1327208059,
+    "wof:lastmodified":1537626265,
+    "wof:name":"Biritopuszta",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79895,
+    46.61476,
+    18.79895,
+    46.61476
+],
+  "geometry": {"coordinates":[18.79895,46.61476],"type":"Point"}
+}

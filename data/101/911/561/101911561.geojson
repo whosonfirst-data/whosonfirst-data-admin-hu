@@ -1,0 +1,99 @@
+{
+  "id": 101911561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"19.9124965872,47.908779859,19.9277281813,47.9178797178",
+    "geom:latitude":47.91373,
+    "geom:longitude":19.920649,
+    "iso:country":"HU",
+    "lbl:latitude":47.913853,
+    "lbl:longitude":19.921399,
+    "mps:latitude":47.913853,
+    "mps:longitude":19.921399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "name:fra_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "name:hun_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "name:lmo_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "name:nno_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "name:spa_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "name:swe_x_preferred":[
+        "Galya-tet\u0151"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"1\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"Szuha",
+    "qs:la_lc":"*HU51242022819",
+    "qs:level":"locality",
+    "qs:loc":"Galyatet\u0151",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052403,
+        "gp:id":806941,
+        "qs:id":1152995,
+        "qs_pg:id":1152995,
+        "wd:id":"Q747656"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"995fd3c4ea9b4e6caed53e1ef6e29d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101911561,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101911561,
+    "wof:lastmodified":1527715543,
+    "wof:name":"Galyatet\u0151",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91249658723615,
+    47.90877985903569,
+    19.92772818134534,
+    47.91787971775881
+],
+  "geometry": {"coordinates":[[[19.91567414045812,47.91775926283611],[19.91549992413962,47.91686867010822],[19.92346484140614,47.91614561865129],[19.92363919333138,47.9170361968205],[19.92496668223902,47.91691562973904],[19.92409488709961,47.91246274331661],[19.92542225733115,47.91234217235098],[19.92524789895219,47.91145159517947],[19.92657524090146,47.91133101062081],[19.92640086767676,47.91044043510522],[19.92772818134534,47.91031983695405],[19.92755379327713,47.90942926309458],[19.9248992054367,47.90967043852197],[19.92472487029909,47.90877985903569],[19.92339759044046,47.90890042029304],[19.923571902986,47.90979100220613],[19.92091728102872,47.91003208151517],[19.92109155613366,47.91092266751002],[19.91976421403416,47.91104318556086],[19.91993847428853,47.91193377321071],[19.91861110390977,47.9120542776667],[19.91895960245751,47.91383545550514],[19.91497732163663,47.9141968873011],[19.91515151472947,47.91508748234099],[19.91249658723615,47.91532836161235],[19.91284490624162,47.91710955908007],[19.91417241803208,47.91698912260563],[19.91434661174787,47.91787971775881],[19.91567414045812,47.91775926283611]]],"type":"Polygon"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1108940407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0363141063,47.5064030054,19.0363141063,47.5064030054",
+    "geom:latitude":47.506403,
+    "geom:longitude":19.036314,
+    "iso:country":"HU",
+    "lbl:latitude":47.506403,
+    "lbl:longitude":19.036314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Waterstad"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00edziv\u00e1ros"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00edziv\u00e1ros"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00edziv\u00e1ros"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00edziv\u00e1ros"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00edziv\u00e1ros"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1415725"
+    },
+    "wof:country":"HU",
+    "wof:created":1491361727,
+    "wof:geomhash":"91dd95b00ff471f3cf895669a2a81849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940407,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940407,
+    "wof:lastmodified":1514448436,
+    "wof:name":"Vizivaros",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03631410628955,
+    47.50640300544964,
+    19.03631410628955,
+    47.50640300544964
+],
+  "geometry": {"coordinates":[19.03631410628955,47.50640300544964],"type":"Point"}
+}

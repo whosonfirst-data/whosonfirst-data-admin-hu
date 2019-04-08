@@ -1,0 +1,124 @@
+{
+  "id": 101789363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1296591.092601,
+    "geom:bbox":"17.6888032146,46.9746541738,17.7071096681,46.9899036402",
+    "geom:latitude":46.982466,
+    "geom:longitude":17.6987,
+    "iso:country":"HU",
+    "lbl:latitude":46.981581,
+    "lbl:longitude":17.696273,
+    "mps:latitude":46.981581,
+    "mps:longitude":17.696273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:fra_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:hun_x_colloquial":[
+        "Nagyvazsony",
+        "Nemesleanyfalu"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:hun_x_variant":[
+        "Nemesle\u00e1nyfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:msa_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:nld_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:ron_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:sco_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:slk_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:slv_x_preferred":[
+        "Nagyv\u00e1zsony"
+    ],
+    "name:unk_x_variant":[
+        "Nemesle\u00e1nyfalu"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Veszpr\u00e9m",
+    "qs:a1r":"0K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Nagyv\u00e1zsony",
+    "qs:la_lc":"*HU21949081919",
+    "qs:level":"locality",
+    "qs:loc":"Nagyv\u00e1zsony",
+    "qs:loc_alt":"Nagyvazsony",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1163feee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3047478,
+        "gp:id":812663,
+        "qs:id":1167229,
+        "qs_pg:id":1167229,
+        "wd:id":"Q1079847",
+        "wk:page":"Nagyv\u00e1zsony"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"dd371a96fb2fee8c30cbf1a16f7be08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101789363,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":101789363,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1535390527,
+    "wof:name":"Nagyv\u00e1zsony",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6888032146148,
+    46.9746541737575,
+    17.7071096680817,
+    46.9899036402077
+],
+  "geometry": {"coordinates":[[[17.7000539319963,46.984963284742],[17.6996590131341,46.9822790522579],[17.704889641205,46.9819055083401],[17.7047579253492,46.9810107701946],[17.7060655499048,46.980917346569],[17.7058020916102,46.9791278719545],[17.7071096680817,46.9790344362114],[17.7065827329232,46.9754554863367],[17.7052752441872,46.9755489147297],[17.7051435467393,46.9746541737575],[17.7038360757266,46.9747475845223],[17.7040994325209,46.9765370694744],[17.6949467105775,46.9771905283768],[17.6950782440737,46.9780852827053],[17.6911555200764,46.9783651051428],[17.6912869935168,46.979259864309],[17.6899793885087,46.9793531087034],[17.6901108457637,46.9802478690382],[17.6888032146148,46.9803410994733],[17.6889346556825,46.9812358609766],[17.6902423087715,46.9811426287077],[17.6907682183388,46.9847216607337],[17.6920759549934,46.9846284053339],[17.6922074687154,46.9855231598431],[17.69351522311,46.9854298868136],[17.6941729877991,46.9899036402077],[17.7059435755938,46.9890633895283],[17.7056800574011,46.9872739232266],[17.7069878355456,46.9871804867361],[17.7067242965311,46.9853910214472],[17.7041088238058,46.9855778712813],[17.7039771068336,46.9846831339626],[17.7000539319963,46.984963284742]],[[17.7000539319963,46.984963284742],[17.7004489027125,46.9876475112353],[17.696525492497,46.9879275363888],[17.6961307192841,46.9852432933696],[17.7000539319963,46.984963284742]]],"type":"Polygon"}
+}

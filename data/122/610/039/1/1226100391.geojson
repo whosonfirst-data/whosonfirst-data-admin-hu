@@ -1,0 +1,67 @@
+{
+  "id": 1226100391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43333,47.1,17.43333,47.1",
+    "geom:latitude":47.1,
+    "geom:longitude":17.43333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Balaczaidulo",
+    "gn:country_code":"HU",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055603,
+    "gn:latitude":47.1,
+    "gn:longitude":17.43333,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Bal\u00e1czaid\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055603
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"430424069308136789bd312111a1e3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226100391,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1226100391,
+    "wof:lastmodified":1536645908,
+    "wof:name":"Balaczaidulo",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43333,
+    47.1,
+    17.43333,
+    47.1
+],
+  "geometry": {"coordinates":[17.43333,47.1],"type":"Point"}
+}

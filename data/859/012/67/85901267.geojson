@@ -1,0 +1,113 @@
+{
+  "id": 85901267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8071998.791462,
+    "geom:bbox":"19.698736,46.88409,19.698736,46.88409",
+    "geom:latitude":46.88409,
+    "geom:longitude":19.698736,
+    "gn:latitude":46.88333,
+    "gn:longitude":19.7,
+    "iso:country":"HU",
+    "lbl:latitude":46.88409,
+    "lbl:longitude":19.698736,
+    "mps:latitude":46.885467,
+    "mps:longitude":19.704104,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Rendorfalu"
+    ],
+    "name:hun_x_preferred":[
+        "Rend\u0151rfalu"
+    ],
+    "name:unk_x_variant":[
+        "Rend\u0151rfalu"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3050434,
+    "qs:gn_nam_loc":"Kecskem\u00e9t, Kecskem\u00e9t, Kecskem\u00e9t, HU",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Rend\u0151rfalu",
+    "qs:local_max":791,
+    "qs:local_sum":1301,
+    "qs:localhoods":4,
+    "qs:name":"Rend\u0151rfalu",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Kecskem\u00e9t",
+    "qs:name_adm2":"Kecskem\u00e9t",
+    "qs:name_local":"Kecskem\u00e9t",
+    "qs:photo_max":10,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043634,
+    "qs:woe_adm2":12593496,
+    "qs:woe_lau":0,
+    "qs:woe_local":809168,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684859,
+        102191581,
+        85633237,
+        404227487,
+        101751685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045890,
+        "gp:id":814353,
+        "qs:id":57301,
+        "qs_pg:id":57301
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3a4027cf5b7ca5a3e8c597acbb280a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751685,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901267,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":85901267,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932464,
+    "wof:name":"Rend\u0151rfalu",
+    "wof:parent_id":101751685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.698736,
+    46.88409,
+    19.698736,
+    46.88409
+],
+  "geometry": {"coordinates":[19.698736,46.88409],"type":"Point"}
+}

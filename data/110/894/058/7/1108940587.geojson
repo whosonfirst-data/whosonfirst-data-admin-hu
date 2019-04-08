@@ -1,0 +1,66 @@
+{
+  "id": 1108940587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0696021251,47.558379874,19.0696021251,47.558379874",
+    "geom:latitude":47.55838,
+    "geom:longitude":19.069602,
+    "iso:country":"HU",
+    "lbl:latitude":47.55838,
+    "lbl:longitude":19.069602,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "N\u00e9psziget"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361852,
+    "wof:geomhash":"8b5fb952acd15c04c2408eb117f9c525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940587,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940587,
+    "wof:lastmodified":1497292356,
+    "wof:name":"Nepsziget",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06960212505252,
+    47.55837987402077,
+    19.06960212505252,
+    47.55837987402077
+],
+  "geometry": {"coordinates":[19.06960212505252,47.55837987402077],"type":"Point"}
+}

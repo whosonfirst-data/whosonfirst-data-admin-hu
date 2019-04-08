@@ -1,0 +1,71 @@
+{
+  "id": 1226820641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49423,46.56956,17.49423,46.56956",
+    "geom:latitude":46.56956,
+    "geom:longitude":17.49423,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Csomend",
+    "gn:country_code":"HU",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053975,
+    "gn:latitude":46.56956,
+    "gn:longitude":17.49423,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cs\u00f6mend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cs\u00f6mend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053975,
+        "wk:page":"Cs%C3%B6mend"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c8af9ed4f1d811304003cd55cab27898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226820641,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1226820641,
+    "wof:lastmodified":1537626254,
+    "wof:name":"Csomend",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49423,
+    46.56956,
+    17.49423,
+    46.56956
+],
+  "geometry": {"coordinates":[17.49423,46.56956],"type":"Point"}
+}

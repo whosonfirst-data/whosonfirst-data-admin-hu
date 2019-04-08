@@ -1,0 +1,72 @@
+{
+  "id": 1360196291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95,46.58333,20.95,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":20.95,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Szalaymajor",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715548,
+    "gn:latitude":46.58333,
+    "gn:longitude":20.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szalaymajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szalay-tanya",
+        "Szalaymajor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684875,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715548
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4381a95e267d01062ff2991abf6eeb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1360196291,
+            "macroregion_id":404227487,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":1360196291,
+    "wof:lastmodified":1537626168,
+    "wof:name":"Szalaymajor",
+    "wof:parent_id":85684875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95,
+    46.58333,
+    20.95,
+    46.58333
+],
+  "geometry": {"coordinates":[20.95,46.58333],"type":"Point"}
+}

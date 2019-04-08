@@ -1,0 +1,125 @@
+{
+  "id": 101783489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1166649.992375,
+    "geom:bbox":"19.4796765065,48.0361991968,19.4984941875,48.0492226337",
+    "geom:latitude":48.042663,
+    "geom:longitude":19.48981,
+    "iso:country":"HU",
+    "lbl:latitude":48.04129,
+    "lbl:longitude":19.488242,
+    "mps:latitude":48.04129,
+    "mps:longitude":19.488242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6c83\u5c14\u6c99\u5c3c"
+    ],
+    "name:dut_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:eng_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:epo_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:fre_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:hun_x_colloquial":[
+        "Varsany"
+    ],
+    "name:hun_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:may_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:nan_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:pol_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:rum_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:slo_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:slv_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "name:vie_x_preferred":[
+        "Vars\u00e1ny"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*N\u00f3gr\u00e1d",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Vars\u00e1ny",
+    "qs:la_lc":"*HU51242062949",
+    "qs:level":"locality",
+    "qs:loc":"Vars\u00e1ny",
+    "qs:loc_alt":"Varsany",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164f7a4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3043092,
+        "gp:id":817524,
+        "qs:id":939846,
+        "wd:id":"Q639495"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ae8ebf726816b7e02b94a77a8af8d665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101783489,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":101783489,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527688502,
+    "wof:name":"Vars\u00e1ny",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.47967650646524,
+    48.03619919677465,
+    19.49849418752376,
+    48.04922263373368
+],
+  "geometry": {"coordinates":[[[19.49733004913594,48.04910719798102],[19.49716249207563,48.04821590259417],[19.49849418752376,48.04810045308557],[19.49765640018791,48.0436439768481],[19.49632481886164,48.04375941468231],[19.49548733241897,48.03930290847256],[19.49681879964771,48.0391874823099],[19.49665130195024,48.03829618120585],[19.49265695225688,48.03864240443073],[19.49232211616118,48.03685978602493],[19.48965928020834,48.03709051174064],[19.48949191898799,48.03619919677465],[19.48816051560351,48.03631453317001],[19.48832785400793,48.03720585046801],[19.48433354252143,48.03755177012783],[19.48450081993644,48.03844309368895],[19.48316934899634,48.03855837039856],[19.4835038805677,48.04034101998917],[19.48217235850888,48.04045628527251],[19.48233961266249,48.04134761130223],[19.47967650646524,48.04157809826432],[19.48001094585698,48.04336075745334],[19.48134254734208,48.04324551735567],[19.48184433084464,48.04591949366682],[19.48317599532697,48.04580423048628],[19.48334329424267,48.0466955521307],[19.48600665241668,48.04646497283534],[19.48583930784702,48.04557365585458],[19.48983423550482,48.04522767323067],[19.49016906906712,48.04701029246564],[19.49150074630262,48.0468949280779],[19.49183565538976,48.04867753972093],[19.49583079113717,48.04833133601187],[19.49599832536984,48.04922263373368],[19.49733004913594,48.04910719798102]]],"type":"Polygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 85901223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6533485.155332,
+    "geom:bbox":"20.746242,48.062872,20.746242,48.062872",
+    "geom:latitude":48.062872,
+    "geom:longitude":20.746242,
+    "gn:latitude":48.06667,
+    "gn:longitude":20.76667,
+    "iso:country":"HU",
+    "lbl:latitude":48.062872,
+    "lbl:longitude":20.746242,
+    "mps:latitude":48.06256,
+    "mps:longitude":20.74544,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Nagykokoeto",
+        "Nagykokoto"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyk\u0151k\u00f6t\u0151"
+    ],
+    "name:unk_x_variant":[
+        "Nagyk\u0151k\u00f6t\u0151"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":717582,
+    "qs:gn_nam_loc":"Miskolc, Miskolc, Miskolc, HU",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Nagyk\u0151k\u00f6t\u0151",
+    "qs:local_max":59,
+    "qs:local_sum":154,
+    "qs:localhoods":3,
+    "qs:name":"Nagyk\u0151k\u00f6t\u0151",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Miskolc",
+    "qs:name_adm2":"Miskolc",
+    "qs:name_local":"Miskolc",
+    "qs:photo_max":22,
+    "qs:photo_sum":42,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043619,
+    "qs:woe_adm2":12593345,
+    "qs:woe_lau":0,
+    "qs:woe_local":812036,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684919,
+        102191581,
+        85633237,
+        404227477,
+        101751725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717256,
+        "gp:id":812444,
+        "qs:id":983555,
+        "qs_pg:id":983555
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a359001f5e8eb22addd9ac63d0dca5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751725,
+            "macroregion_id":404227477,
+            "neighbourhood_id":85901223,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":85901223,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932460,
+    "wof:name":"Nagyk\u0151k\u00f6t\u0151",
+    "wof:parent_id":101751725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.746242,
+    48.062872,
+    20.746242,
+    48.062872
+],
+  "geometry": {"coordinates":[20.746242,48.062872],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326498505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.046,46.62467,17.046,46.62467",
+    "geom:latitude":46.62467,
+    "geom:longitude":17.046,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kerecseny",
+    "gn:country_code":"HU",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050318,
+    "gn:latitude":46.62467,
+    "gn:longitude":17.046,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kerecseny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050318,
+        "wk:page":"Kerecseny"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"957cfbafa3d590d449500263af51ccfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1326498505,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1326498505,
+    "wof:lastmodified":1537563387,
+    "wof:name":"Kerecseny",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.046,
+    46.62467,
+    17.046,
+    46.62467
+],
+  "geometry": {"coordinates":[17.046,46.62467],"type":"Point"}
+}

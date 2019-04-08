@@ -1,0 +1,67 @@
+{
+  "id": 1293358965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38953,46.98453,17.38953,46.98453",
+    "geom:latitude":46.98453,
+    "geom:longitude":17.38953,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Deakipuszta",
+    "gn:country_code":"HU",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053774,
+    "gn:latitude":46.98453,
+    "gn:longitude":17.38953,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"De\u00e1kipuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053774
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"20ec817403ab11a76cffaeb6d128557a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293358965,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1293358965,
+    "wof:lastmodified":1536972041,
+    "wof:name":"Deakipuszta",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38953,
+    46.98453,
+    17.38953,
+    46.98453
+],
+  "geometry": {"coordinates":[17.38953,46.98453],"type":"Point"}
+}

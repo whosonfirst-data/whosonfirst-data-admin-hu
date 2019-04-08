@@ -1,0 +1,67 @@
+{
+  "id": 1242830647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32533,46.96939,17.32533,46.96939",
+    "geom:latitude":46.96939,
+    "geom:longitude":17.32533,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bardiotag",
+    "gn:country_code":"HU",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055359,
+    "gn:latitude":46.96939,
+    "gn:longitude":17.32533,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"B\u00e1rdi\u00f3tag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055359
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6b7c050cfb1541ae8000950e8843c98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242830647,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1242830647,
+    "wof:lastmodified":1536699620,
+    "wof:name":"Bardiotag",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32532999999999,
+    46.96939,
+    17.32532999999999,
+    46.96939
+],
+  "geometry": {"coordinates":[17.32532999999999,46.96939],"type":"Point"}
+}

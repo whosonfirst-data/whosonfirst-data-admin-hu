@@ -1,0 +1,124 @@
+{
+  "id": 101785973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:area_square_m":1256508.606893,
+    "geom:bbox":"20.1740028352,47.6343081,20.2027081698,47.6475380392",
+    "geom:latitude":47.641774,
+    "geom:longitude":20.188439,
+    "iso:country":"HU",
+    "lbl:latitude":47.643189,
+    "lbl:longitude":20.184633,
+    "mps:latitude":47.643189,
+    "mps:longitude":20.184633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u535a\u63aa\u7eb3\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:eng_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:epo_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:fre_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:hun_x_colloquial":[
+        "Boconad"
+    ],
+    "name:hun_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:ita_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:may_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:nan_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:rum_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:slo_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:slv_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "name:vie_x_preferred":[
+        "Bocon\u00e1d"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Bocon\u00e1d",
+    "qs:la_lc":"*HU51040022235",
+    "qs:level":"locality",
+    "qs:loc":"Bocon\u00e1d",
+    "qs:loc_alt":"Boconad",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1162943c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":722224,
+        "gp:id":804005,
+        "qs:id":1092879,
+        "qs_pg:id":1092879,
+        "wd:id":"Q634641"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b0ed3c8d915f630bd8d71de7b87e4746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101785973,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101785973,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514447900,
+    "wof:name":"Bocon\u00e1d",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17400283523494,
+    47.63430809999289,
+    20.2027081697795,
+    47.64753803916858
+],
+  "geometry": {"coordinates":[[[20.18915300360015,47.64412560994901],[20.19707285470554,47.64338328910833],[20.19742820609264,47.64516368479286],[20.2027081697795,47.64466846622236],[20.20146395440486,47.63843713642621],[20.19882429547431,47.63868474292792],[20.19900197249979,47.63957494026192],[20.19108272425876,47.64031739274822],[20.19090518068532,47.63942718059178],[20.18826542977484,47.63967453252968],[20.18791045511631,47.63789409592334],[20.1865906155279,47.63801774308894],[20.18676807669618,47.63890796426335],[20.18148857193887,47.63940240369271],[20.18095647885053,47.63673170814087],[20.17963665503549,47.63685527082009],[20.17945932857782,47.63596503489259],[20.1781395212646,47.63608857919519],[20.17778493632045,47.63430809999289],[20.17514539344302,47.63455513100473],[20.17532263751986,47.63544537593975],[20.17400283523494,47.63556887004643],[20.17418006489703,47.63645911664219],[20.1768197082132,47.63621210758788],[20.17735157762127,47.63888282775326],[20.17867145740206,47.63875929196206],[20.17955817425184,47.64321046381093],[20.17823818323723,47.64333401193522],[20.17841552785495,47.64422424635791],[20.18105554864201,47.64397712926245],[20.18176518346047,47.64753803916858],[20.1870455121267,47.647043574534],[20.18686800266022,47.64615335813846],[20.18950808801196,47.6459060352787],[20.18915300360015,47.64412560994901]]],"type":"Polygon"}
+}

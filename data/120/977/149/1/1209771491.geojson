@@ -1,0 +1,71 @@
+{
+  "id": 1209771491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94646,46.60393,16.94646,46.60393",
+    "geom:latitude":46.60393,
+    "geom:longitude":16.94646,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Poloskefo",
+    "gn:country_code":"HU",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046236,
+    "gn:latitude":46.60393,
+    "gn:longitude":16.94646,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"P\u00f6l\u00f6skef\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00f6l\u00f6skef\u0151"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046236,
+        "wk:page":"P%C3%B6l%C3%B6skef%C5%91"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c2f62fc5250f590df354633fe2f16247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1209771491,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1209771491,
+    "wof:lastmodified":1537626217,
+    "wof:name":"Poloskefo",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94646,
+    46.60393,
+    16.94646,
+    46.60393
+],
+  "geometry": {"coordinates":[16.94646,46.60393],"type":"Point"}
+}

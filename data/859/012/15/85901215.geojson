@@ -1,0 +1,126 @@
+{
+  "id": 85901215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000478,
+    "geom:area_square_m":3989824.235684,
+    "geom:bbox":"19.1769545,47.4893688174,19.212566179,47.511635371",
+    "geom:latitude":47.499486,
+    "geom:longitude":19.193197,
+    "gn:latitude":47.50949,
+    "gn:longitude":19.21128,
+    "iso:country":"HU",
+    "lbl:latitude":47.512485,
+    "lbl:longitude":19.202078,
+    "mps:latitude":47.499274,
+    "mps:longitude":19.18819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Imre B\u00e1r\u00e1ny"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00e1ty\u00e1sf\u00f6ld"
+    ],
+    "name:epo_x_preferred":[
+        "Imre B\u00e1r\u00e1ny"
+    ],
+    "name:hun_x_colloquial":[
+        "Matyasfoeld",
+        "Matyasfold"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1ty\u00e1sf\u00f6ld"
+    ],
+    "name:hun_x_variant":[
+        "B\u00e1r\u00e1ny Imre"
+    ],
+    "name:unk_x_variant":[
+        "Matiasfold",
+        "M\u00e1ty\u00e1sf\u00f6ld"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3054643,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"M\u00e1ty\u00e1sf\u00f6ld",
+    "qs:local_max":25522,
+    "qs:local_sum":154909,
+    "qs:localhoods":67,
+    "qs:name":"M\u00e1ty\u00e1sf\u00f6ld",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Budapest",
+    "qs:name_adm2":"Budapest XVI.",
+    "qs:name_local":"Budapest",
+    "qs:photo_max":74,
+    "qs:photo_sum":185,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577915,
+    "qs:woe_adm2":12593831,
+    "qs:woe_lau":0,
+    "qs:woe_local":804365,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048274,
+        "gp:id":811737,
+        "qs:id":1167218,
+        "qs_pg:id":1167218
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5885782e45b4b21cb6a1075d8092b70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901215,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85901215,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1536864510,
+    "wof:name":"Matyasfold",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17695450003106,
+    47.48936881742505,
+    19.21256617898115,
+    47.51163537100031
+],
+  "geometry": {"coordinates":[[[19.18762207030034,47.51163537100031],[19.19012842638017,47.5097800216251],[19.19060887827266,47.5097800216251],[19.19311519007874,47.50606978190005],[19.19311523440001,47.50606978190005],[19.19860839840004,47.50606978190005],[19.20410156250006,47.50606978190005],[19.20410156250023,47.5060697163254],[19.20523162862662,47.50439681343151],[19.21256617898115,47.49974359208922],[19.21256169462168,47.49973991187061],[19.21253612430417,47.49948029208004],[19.21196706682525,47.49760436097661],[19.2110429676232,47.49587549297],[19.20979933931204,47.49436012748818],[19.20828397383048,47.49311649917711],[19.20809753471036,47.49301684539115],[19.2063075084402,47.49317268328822],[19.20215619174286,47.49276309321358],[19.20136967610927,47.49308056550045],[19.19436916561318,47.49308056550045],[19.1931152786845,47.49122488820008],[19.19311523440007,47.49122482266183],[19.19186112588369,47.48936881742505],[19.18762207030034,47.48936881742505],[19.18338301471698,47.48936881742505],[19.18212890620003,47.49122482266246],[19.182128861916,47.49122488820008],[19.17962095513099,47.49493643952538],[19.17695450003106,47.49690960589585],[19.17938232420033,47.5005032746753],[19.17938232420033,47.5020037905639],[19.1821289062168,47.50606971631608],[19.1821289062147,47.50606978190005],[19.18212890621476,47.50963414617341],[19.18212890620003,47.50978034950008],[19.18229349753238,47.50978034950212],[19.18438182496072,47.51163537100031],[19.18762207030034,47.51163537100031]]],"type":"Polygon"}
+}

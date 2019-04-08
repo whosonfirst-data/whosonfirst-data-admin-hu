@@ -1,0 +1,119 @@
+{
+  "id": 1126022493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63333,48.1,20.63333,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":20.63333,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":48.1,
+    "lbl:longitude":20.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0644\u0627\u0641\u0648\u0631\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "name:eng_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "name:fin_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "name:hun_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "name:nan_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0628\u0634\u0627\u0631 \u0644\u06cc\u0644\u0627\u0641\u0648\u0631\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043b\u043b\u0430\u0444\u044e\u0440\u0435\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":718085,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lillaf\u00fcred",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Miskolc",
+    "qs_pg:photos":479,
+    "qs_pg:photos_1k":97,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":479,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":313054,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":811154,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Miskolc",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718085,
+        "gp:id":811154,
+        "qs_pg:id":313054,
+        "wd:id":"Q1042839"
+    },
+    "wof:country":"HU",
+    "wof:created":1497300920,
+    "wof:geomhash":"bf0278ce0e3b4a95d9dedf001fac1199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1126022493,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1126022493,
+    "wof:lastmodified":1514448160,
+    "wof:name":"Lillaf\u00fcred",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63333,
+    48.1,
+    20.63333,
+    48.1
+],
+  "geometry": {"coordinates":[20.63333,48.1],"type":"Point"}
+}

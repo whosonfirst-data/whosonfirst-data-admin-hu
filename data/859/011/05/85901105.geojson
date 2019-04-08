@@ -1,0 +1,120 @@
+{
+  "id": 85901105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9761041.557701,
+    "geom:bbox":"20.152514,46.25502,20.152514,46.25502",
+    "geom:latitude":46.25502,
+    "geom:longitude":20.152514,
+    "gn:latitude":46.25947,
+    "gn:longitude":20.1594,
+    "iso:country":"HU",
+    "lbl:latitude":46.25502,
+    "lbl:longitude":20.152514,
+    "mps:latitude":46.266919,
+    "mps:longitude":20.168366,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:hun_x_colloquial":[
+        "Felsovaros",
+        "Felsovarosi Feketefoeldek",
+        "Felsovarosi Feketefoldek",
+        "Felsovarosi Valyogvetotelep"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151v\u00e1ros"
+    ],
+    "name:hun_x_variant":[
+        "Fels\u0151v\u00e1rosi Feketef\u00f6ldek",
+        "Fels\u0151v\u00e1rosi V\u00e1lyogvet\u0151telep"
+    ],
+    "name:unk_x_variant":[
+        "Fels\u0151v\u00e1ros"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":715429,
+    "qs:gn_nam_loc":"Szeged, Szeged, Szeged, HU",
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"Fels\u0151v\u00e1ros",
+    "qs:local_max":1293,
+    "qs:local_sum":3309,
+    "qs:localhoods":5,
+    "qs:name":"Fels\u0151v\u00e1ros",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szeged",
+    "qs:name_adm2":"Szeged",
+    "qs:name_local":"Szeged",
+    "qs:photo_max":338,
+    "qs:photo_sum":1293,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":57,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043624,
+    "qs:woe_adm2":12593409,
+    "qs:woe_lau":0,
+    "qs:woe_local":815498,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101751681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720858,
+        "gp:id":806533,
+        "qs:id":1083292,
+        "qs_pg:id":1083292
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b699d17ea6afdf6053686d4e478a6001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751681,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901105,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":85901105,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932435,
+    "wof:name":"Fels\u0151v\u00e1ros",
+    "wof:parent_id":101751681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.152514,
+    46.25502,
+    20.152514,
+    46.25502
+],
+  "geometry": {"coordinates":[20.152514,46.25502],"type":"Point"}
+}

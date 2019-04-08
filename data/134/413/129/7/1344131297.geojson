@@ -1,0 +1,73 @@
+{
+  "id": 1344131297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81667,47.45,20.81667,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":20.81667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Homokkert",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":719922,
+    "gn:latitude":47.45,
+    "gn:longitude":20.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Homokkert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6reg-Homokkert",
+        "\u00daj-Homokkert",
+        "Homokkert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":719922
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"48aab038463388fb25adb02ee9fd4bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344131297,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1344131297,
+    "wof:lastmodified":1537626182,
+    "wof:name":"Homokkert",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81667,
+    47.45,
+    20.81667,
+    47.45
+],
+  "geometry": {"coordinates":[20.81667,47.45],"type":"Point"}
+}

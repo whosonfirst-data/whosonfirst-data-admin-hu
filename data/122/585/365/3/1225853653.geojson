@@ -1,0 +1,68 @@
+{
+  "id": 1225853653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00611,45.94667,18.00611,45.94667",
+    "geom:latitude":45.94667,
+    "geom:longitude":18.00611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kisasszonyfa",
+    "gn:country_code":"HU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050119,
+    "gn:latitude":45.94667,
+    "gn:longitude":18.00611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kisasszonyfa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050119,
+        "wk:page":"Kisasszonyfa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"9a343450734280b8de8bfb3d77bdeb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225853653,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1225853653,
+    "wof:lastmodified":1537563386,
+    "wof:name":"Kisasszonyfa",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00611,
+    45.94667000000001,
+    18.00611,
+    45.94667000000001
+],
+  "geometry": {"coordinates":[18.00611,45.94667000000001],"type":"Point"}
+}

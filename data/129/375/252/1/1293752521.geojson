@@ -1,0 +1,72 @@
+{
+  "id": 1293752521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36405,46.95056,16.36405,46.95056",
+    "geom:latitude":46.95056,
+    "geom:longitude":16.36405,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Csorotnek",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053905,
+    "gn:latitude":46.95056,
+    "gn:longitude":16.36405,
+    "gn:modification_date":"2008-08-03",
+    "gn:name":"Cs\u00f6r\u00f6tnek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceretnek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053905,
+        "wk:page":"Cs%C3%B6r%C3%B6tnek"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4393ad81231e1072b80246791cde9d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293752521,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1293752521,
+    "wof:lastmodified":1537626253,
+    "wof:name":"Csorotnek",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36405,
+    46.95056,
+    16.36405,
+    46.95056
+],
+  "geometry": {"coordinates":[16.36405,46.95056],"type":"Point"}
+}

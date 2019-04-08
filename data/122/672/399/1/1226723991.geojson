@@ -1,0 +1,67 @@
+{
+  "id": 1226723991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76667,46.28333,18.76667,46.28333",
+    "geom:latitude":46.28333,
+    "geom:longitude":18.76667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kozsegkert",
+    "gn:country_code":"HU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049198,
+    "gn:latitude":46.28333,
+    "gn:longitude":18.76667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"K\u00f6zs\u00e9gkert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049198
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a46b01c02d13cbd5f9d1dd7b5e14179c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226723991,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1226723991,
+    "wof:lastmodified":1536746704,
+    "wof:name":"Kozsegkert",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76667,
+    46.28333,
+    18.76667,
+    46.28333
+],
+  "geometry": {"coordinates":[18.76667,46.28333],"type":"Point"}
+}

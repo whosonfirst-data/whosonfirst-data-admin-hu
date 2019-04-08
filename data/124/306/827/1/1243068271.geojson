@@ -1,0 +1,71 @@
+{
+  "id": 1243068271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,48.25,21.6,48.25",
+    "geom:latitude":48.25,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Balazsdulo",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722668,
+    "gn:latitude":48.25,
+    "gn:longitude":21.6,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Bal\u00e1zsd\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u00e1zslapos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722668
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"0b39a8494287bac965b03a1e0f951bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243068271,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1243068271,
+    "wof:lastmodified":1537626197,
+    "wof:name":"Balazsdulo",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    48.25,
+    21.6,
+    48.25
+],
+  "geometry": {"coordinates":[21.6,48.25],"type":"Point"}
+}

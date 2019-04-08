@@ -1,0 +1,117 @@
+{
+  "id": 101784723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000206,
+    "geom:area_square_m":1715203.703679,
+    "geom:bbox":"20.4663125094,47.7131237462,20.4874127953,47.7282475415",
+    "geom:latitude":47.719774,
+    "geom:longitude":20.476121,
+    "iso:country":"HU",
+    "lbl:latitude":47.719368,
+    "lbl:longitude":20.476121,
+    "mps:latitude":47.719368,
+    "mps:longitude":20.476121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8fc8\u6cfd\u5854\u5c14\u5361\u5c3c"
+    ],
+    "name:cze_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:dut_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:eng_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:epo_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:fre_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:hun_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:may_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:nan_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:rum_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:slo_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:slv_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:vie_x_preferred":[
+        "Mez\u0151t\u00e1rk\u00e1ny"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Mez\u0151t\u00e1rk\u00e1ny",
+    "qs:la_lc":"*HU51040033166",
+    "qs:level":"locality",
+    "qs:loc":"Mez\u0151t\u00e1rk\u00e1ny",
+    "qs:loc_alt":"Mezotarkany",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717638,
+        "gp:id":811936,
+        "qs:id":915118,
+        "wd:id":"Q1176591"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"31fbb58a7292ee1923db161cc154b732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784723,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101784723,
+    "wof:lastmodified":1514448181,
+    "wof:name":"Mez\u0151t\u00e1rk\u00e1ny",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46631250940106,
+    47.71312374619885,
+    20.48741279531157,
+    47.72824754154522
+],
+  "geometry": {"coordinates":[[[20.47247062469091,47.726976604203],[20.47228772198605,47.72608698515722],[20.47625222025897,47.72570553795572],[20.47606925879398,47.72481592571552],[20.48135508431437,47.72430711666232],[20.48117204181801,47.72341751377445],[20.48381487441628,47.72316301878686],[20.48363179545629,47.72227342016402],[20.48627455975901,47.72201886656927],[20.48609144434033,47.72112927221178],[20.48741279531157,47.72100197407445],[20.48613105811108,47.71477480826405],[20.48348866204026,47.7150293529786],[20.48330563363589,47.7141397494679],[20.47934206184516,47.71452143949313],[20.47915910833592,47.71363182752413],[20.4751955499824,47.71401336662291],[20.47501267136562,47.71312374619885],[20.47237031402966,47.71337802090414],[20.47255314810747,47.71426764641285],[20.46858950084976,47.71464894668173],[20.46877227619501,47.71553857899073],[20.4674510263207,47.71566564977661],[20.46763378747289,47.71655528380188],[20.46631250940106,47.71668234120597],[20.46686077450778,47.71935124595757],[20.46818211940598,47.7192241809301],[20.46891334178338,47.72278269889074],[20.46759190777016,47.72290977408448],[20.46777471128917,47.72379940405523],[20.46645324906774,47.72392646586519],[20.46700164127049,47.72659535845713],[20.4683231703421,47.72646828902197],[20.46868885012935,47.72824754154522],[20.47001041784364,47.72812045109879],[20.46982755162207,47.72723082779169],[20.47247062469091,47.726976604203]]],"type":"Polygon"}
+}

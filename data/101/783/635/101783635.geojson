@@ -1,0 +1,124 @@
+{
+  "id": 101783635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":887424.486196,
+    "geom:bbox":"20.5223220852,48.163711944,20.5394348001,48.1773004685",
+    "geom:latitude":48.17041,
+    "geom:longitude":20.530448,
+    "iso:country":"HU",
+    "lbl:latitude":48.170144,
+    "lbl:longitude":20.527726,
+    "mps:latitude":48.170144,
+    "mps:longitude":20.527726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9676\u5c14\u591a\u7459"
+    ],
+    "name:cze_x_preferred":[
+        "Tardona"
+    ],
+    "name:dut_x_preferred":[
+        "Tardona"
+    ],
+    "name:eng_x_preferred":[
+        "Tardona"
+    ],
+    "name:epo_x_preferred":[
+        "Tardona"
+    ],
+    "name:fre_x_preferred":[
+        "Tardona"
+    ],
+    "name:ger_x_preferred":[
+        "Tardona"
+    ],
+    "name:hun_x_preferred":[
+        "Tardona"
+    ],
+    "name:nan_x_preferred":[
+        "Tardona"
+    ],
+    "name:pol_x_preferred":[
+        "Tardona"
+    ],
+    "name:rum_x_preferred":[
+        "Tardona"
+    ],
+    "name:slo_x_preferred":[
+        "Tardona"
+    ],
+    "name:slv_x_preferred":[
+        "Tardona"
+    ],
+    "name:vie_x_preferred":[
+        "Tardona"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Tardona",
+    "qs:la_lc":"*HU50535041478",
+    "qs:level":"locality",
+    "qs:loc":"Tardona",
+    "qs:loc_alt":"Tardona",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164bcd0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":714967,
+        "gp:id":816245,
+        "qs:id":506130,
+        "qs_pg:id":506130,
+        "wd:id":"Q249425"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1d9b6c55f4522d5a8a1932df532eb56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101783635,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":101783635,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514448373,
+    "wof:name":"Tardona",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52232208519155,
+    48.1637119439564,
+    20.53943480014522,
+    48.17730046854513
+],
+  "geometry": {"coordinates":[[[20.5361822040278,48.17717240875817],[20.53562262616981,48.17450461203828],[20.53828846668279,48.17424845978616],[20.53810191183777,48.17335919778492],[20.53943480014522,48.17323110013132],[20.53850203695163,48.16878479096181],[20.53183810341221,48.16942505354768],[20.53146528404289,48.16764649827252],[20.53013252451899,48.16777449736173],[20.52957342613291,48.16510665060292],[20.52690802532834,48.1653625849861],[20.5267217213534,48.16447329593109],[20.52538903454717,48.16460123641173],[20.52520276164609,48.1637119439564],[20.52387009149226,48.16383986576659],[20.52424260008229,48.16561845505134],[20.52290987829531,48.16574636596465],[20.52365490415019,48.16930354519889],[20.52232208519155,48.16943145039642],[20.52269460245265,48.17121004034709],[20.52402746694861,48.17108212996669],[20.52440006299986,48.17286071150187],[20.52573296692555,48.17273277985561],[20.5259193001944,48.17362206681884],[20.53258384197824,48.1729821543916],[20.53332971367365,48.17653924229472],[20.53466269477161,48.17641120118583],[20.53484920627511,48.17730046854513],[20.5361822040278,48.17717240875817]]],"type":"Polygon"}
+}

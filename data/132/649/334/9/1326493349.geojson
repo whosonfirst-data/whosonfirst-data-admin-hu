@@ -1,0 +1,72 @@
+{
+  "id": 1326493349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85,47.98333,21.85,47.98333",
+    "geom:latitude":47.98333,
+    "geom:longitude":21.85,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hajnalhago",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720264,
+    "gn:latitude":47.98333,
+    "gn:longitude":21.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hajnalh\u00e1g\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajnalh\u00e1g\u00f3 Tanya",
+        "Hajnalh\u00e1g\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720264
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"8b60b31a581b16d44dcc0897a011ab2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1326493349,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1326493349,
+    "wof:lastmodified":1537626183,
+    "wof:name":"Hajnalhago",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85,
+    47.98333,
+    21.85,
+    47.98333
+],
+  "geometry": {"coordinates":[21.85,47.98333],"type":"Point"}
+}

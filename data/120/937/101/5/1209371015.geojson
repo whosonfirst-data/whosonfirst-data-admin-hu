@@ -1,0 +1,66 @@
+{
+  "id": 1209371015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,46.81667,17.63333,46.81667",
+    "geom:latitude":46.81667,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Csaszta",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054346,
+    "gn:latitude":46.81667,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cs\u00e1szta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cs\u00e1sztai F\u00fcrd\u0151",
+        "Cs\u00e1szta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054346
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6dee96e31aed021d170caa1b1c59241d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209371015
+        }
+    ],
+    "wof:id":1209371015,
+    "wof:lastmodified":1537626258,
+    "wof:name":"Csaszta",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    46.81667,
+    17.63332999999999,
+    46.81667
+],
+  "geometry": {"coordinates":[17.63332999999999,46.81667],"type":"Point"}
+}

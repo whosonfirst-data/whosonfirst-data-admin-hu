@@ -1,0 +1,89 @@
+{
+  "id": 101910893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":708158.750333,
+    "geom:bbox":"17.4902027079,46.8809920978,17.5032581262,46.894327496",
+    "geom:latitude":46.886657,
+    "geom:longitude":17.496846,
+    "iso:country":"HU",
+    "lbl:latitude":46.886461,
+    "lbl:longitude":17.496401,
+    "mps:latitude":46.886461,
+    "mps:longitude":17.496401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Diszel"
+    ],
+    "name:eng_x_preferred":[
+        "Diszel"
+    ],
+    "name:hun_x_preferred":[
+        "Diszel"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Veszpr\u00e9m",
+    "qs:a1r":"0K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"Tapolca",
+    "qs:la_lc":"*HU21949062943",
+    "qs:level":"locality",
+    "qs:loc":"Diszel",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1065,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053663,
+        "gp:id":805470,
+        "qs:id":492839,
+        "qs_pg:id":492839,
+        "wd:id":"Q673329",
+        "wk:page":"Diszel"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"21ce7e59e869feb776103d049b691c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101910893,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":101910893,
+    "wof:lastmodified":1527715928,
+    "wof:name":"Diszel",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49020270793915,
+    46.8809920977908,
+    17.50325812620383,
+    46.89432749598575
+],
+  "geometry": {"coordinates":[[[17.50074811527742,46.89414567851111],[17.50049232467234,46.89235552667759],[17.49918659215041,46.89244643973171],[17.49867516547482,46.88886612101965],[17.50259208836633,46.88859335595703],[17.50195260272267,46.88411796949561],[17.50325812620383,46.88402702519267],[17.50313022397546,46.8831319477062],[17.49790819303178,46.88349562317762],[17.49778038383675,46.88260053789639],[17.4951693876294,46.88278227746218],[17.49491387343255,46.8809920977908],[17.49230294837207,46.88117376715888],[17.49255837512311,46.88296395395878],[17.49125286276001,46.88305476855601],[17.4915082681029,46.88484495628336],[17.49020270793915,46.88493575867614],[17.49033039711429,46.885830853333],[17.49163597914327,46.8857400491587],[17.49201914574536,46.88842532383154],[17.49332478930165,46.88833449854241],[17.49345254453272,46.88922958700016],[17.49475820588259,46.88913874415914],[17.495013776831,46.89092891553298],[17.49631947784428,46.8908380533565],[17.49644729356498,46.89173313627242],[17.49775301237219,46.89164225654235],[17.49813655866416,46.89432749598575],[17.50074811527742,46.89414567851111]]],"type":"Polygon"}
+}

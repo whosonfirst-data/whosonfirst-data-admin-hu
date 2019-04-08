@@ -1,0 +1,65 @@
+{
+  "id": 1209571259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68204,46.62254,16.68204,46.62254",
+    "geom:latitude":46.62254,
+    "geom:longitude":16.68204,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ortahaza",
+    "gn:country_code":"HU",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046869,
+    "gn:latitude":46.62254,
+    "gn:longitude":16.68204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ortah\u00e1za",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortah\u00e1za"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046869,
+        "wk:page":"Ortah%C3%A1za"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a622f55a127af886731878bb8d687d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209571259
+        }
+    ],
+    "wof:id":1209571259,
+    "wof:lastmodified":1537626220,
+    "wof:name":"Ortahaza",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68204,
+    46.62254,
+    16.68204,
+    46.62254
+],
+  "geometry": {"coordinates":[16.68204,46.62254],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259451323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5,46.76667,16.5,46.76667",
+    "geom:latitude":46.76667,
+    "geom:longitude":16.5,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kerkafalva",
+    "gn:country_code":"HU",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050260,
+    "gn:latitude":46.76667,
+    "gn:longitude":16.5,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kerkafalva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050260,
+        "wk:page":"Kerkafalva"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"8970446d6e4692afe6765fe4e313bca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259451323,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1259451323,
+    "wof:lastmodified":1537563386,
+    "wof:name":"Kerkafalva",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5,
+    46.76667,
+    16.5,
+    46.76667
+],
+  "geometry": {"coordinates":[16.5,46.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343928713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35,48.0,19.35,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":19.35,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dolinkapuszta",
+    "gn:country_code":"HU",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053600,
+    "gn:latitude":48.0,
+    "gn:longitude":19.35,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Dolinkapuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053600
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1c96c432bcdfeff9f1d37b99b7d13340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343928713,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":1343928713,
+    "wof:lastmodified":1537063096,
+    "wof:name":"Dolinkapuszta",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35,
+    48.0,
+    19.35,
+    48.0
+],
+  "geometry": {"coordinates":[19.35,48.0],"type":"Point"}
+}

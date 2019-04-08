@@ -1,0 +1,104 @@
+{
+  "id": 85901195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7022037.398412,
+    "geom:bbox":"18.424449,47.557309,18.424449,47.557309",
+    "geom:latitude":47.557309,
+    "geom:longitude":18.424449,
+    "iso:country":"HU",
+    "lbl:latitude":47.557309,
+    "lbl:longitude":18.424449,
+    "mps:latitude":47.56029,
+    "mps:longitude":18.431087,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Labanctanya"
+    ],
+    "name:unk_x_variant":[
+        "Labanctanya"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3044082,
+    "qs:gn_nam_loc":"Tatab\u00e1nya, Tatab\u00e1nya, Tatab\u00e1nya, HU",
+    "qs:gn_namadm1":"12",
+    "qs:id":0,
+    "qs:local_max":73,
+    "qs:local_sum":126,
+    "qs:localhoods":2,
+    "qs:name":"Labanctanya",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Tatab\u00e1nya",
+    "qs:name_adm2":"Tatab\u00e1nya",
+    "qs:name_local":"Tatab\u00e1nya",
+    "qs:photo_max":33,
+    "qs:photo_sum":73,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043626,
+    "qs:woe_adm2":12593536,
+    "qs:woe_lau":0,
+    "qs:woe_local":816298,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684885,
+        102191581,
+        85633237,
+        404227479,
+        101751707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":810847
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ae705f92e786025b9924c85c146c0648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751707,
+            "macroregion_id":404227479,
+            "neighbourhood_id":85901195,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":85901195,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932454,
+    "wof:name":"Labanctanya",
+    "wof:parent_id":101751707,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.424449,
+    47.557309,
+    18.424449,
+    47.557309
+],
+  "geometry": {"coordinates":[18.424449,47.557309],"type":"Point"}
+}

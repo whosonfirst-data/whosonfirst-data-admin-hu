@@ -1,0 +1,63 @@
+{
+  "id": 1108940479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9671059263,47.5508350043,18.9671059263,47.5508350043",
+    "geom:latitude":47.550835,
+    "geom:longitude":18.967106,
+    "iso:country":"HU",
+    "lbl:latitude":47.550835,
+    "lbl:longitude":18.967106,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85684881,
+        102191581,
+        85633237,
+        404227489,
+        101751703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361776,
+    "wof:geomhash":"cb62f8e33e21d6ef9a5d3404b63c7b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940479,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940479,
+    "wof:lastmodified":1492123555,
+    "wof:name":"Harsakalja",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96710592632591,
+    47.55083500425356,
+    18.96710592632591,
+    47.55083500425356
+],
+  "geometry": {"coordinates":[18.96710592632591,47.55083500425356],"type":"Point"}
+}

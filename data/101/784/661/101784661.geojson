@@ -1,0 +1,122 @@
+{
+  "id": 101784661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":707985.37827,
+    "geom:bbox":"20.2820749441,47.9292860257,20.2986056352,47.9416042357",
+    "geom:latitude":47.935139,
+    "geom:longitude":20.290016,
+    "iso:country":"HU",
+    "lbl:latitude":47.93625,
+    "lbl:longitude":20.288514,
+    "mps:latitude":47.93625,
+    "mps:longitude":20.288514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u827e\u76d6\u5c14\u9c8d\u514b\u9676"
+    ],
+    "name:dut_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:eng_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:epo_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:fre_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:hun_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:ita_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:may_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:nan_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:rum_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:slo_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:slv_x_preferred":[
+        "Egerbakta"
+    ],
+    "name:vie_x_preferred":[
+        "Egerbakta"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"Egerbakta",
+    "qs:la_lc":"*HU51040011282",
+    "qs:level":"locality",
+    "qs:loc":"Egerbakta",
+    "qs:loc_alt":"Egerbakta",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1162e4be-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":721238,
+        "gp:id":805749,
+        "qs:id":211563,
+        "qs_pg:id":211563,
+        "wd:id":"Q987824"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"88760196fd8cdd1f4b9f792e06e87086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784661,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101784661,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514447994,
+    "wof:name":"Egerbakta",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28207494408787,
+    47.9292860256902,
+    20.29860563522755,
+    47.94160423573277
+],
+  "geometry": {"coordinates":[[[20.28678021827363,47.94147928185976],[20.28659937778173,47.94058940894979],[20.29058148812612,47.94021445880708],[20.29021969591179,47.93843472568796],[20.29154700911567,47.9383097153177],[20.29100431340919,47.93564011719224],[20.29498601464741,47.93526501267269],[20.29480506450153,47.93437515258273],[20.2961322638958,47.93425008824124],[20.2959512992403,47.93336022986847],[20.29860563522755,47.93311005819419],[20.29806265421826,47.93044049338141],[20.29142710818275,47.93106576473951],[20.29106538647807,47.9292860256902],[20.2897383046635,47.92941102690492],[20.28991913895436,47.9303008993457],[20.28859202869762,47.93042588706862],[20.28877284847562,47.93131576122522],[20.28744570977608,47.93144073545528],[20.28780732833462,47.93322048640101],[20.28648013864279,47.93334544965359],[20.28666093742123,47.93423532644255],[20.28533371928302,47.93436027620101],[20.28569529583376,47.93614003241152],[20.28436802669614,47.93626497119061],[20.28472959026811,47.93804472923466],[20.28207494408787,47.93829456882105],[20.28225569281057,47.93918445167446],[20.2835830414046,47.93905953737192],[20.28394460805714,47.9408392956521],[20.2852719958687,47.94071436030697],[20.28545281380212,47.94160423573277],[20.28678021827363,47.94147928185976]]],"type":"Polygon"}
+}

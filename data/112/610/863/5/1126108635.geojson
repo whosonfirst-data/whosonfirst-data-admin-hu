@@ -1,0 +1,93 @@
+{
+  "id": 1126108635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48333,46.21667,20.48333,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":20.48333,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":46.21667,
+    "lbl:longitude":20.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Habtat\u00f3 Ugar"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":720305,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Habtat\u00f3",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Csongr\u00e1d",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":505969,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":807499,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Csongr\u00e1d",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101790461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720305,
+        "gp:id":807499,
+        "qs_pg:id":505969
+    },
+    "wof:country":"HU",
+    "wof:created":1497317709,
+    "wof:geomhash":"bc78b31da8953e2b7aaca0a521fa9488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790461,
+            "macroregion_id":404227487,
+            "neighbourhood_id":1126108635,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":1126108635,
+    "wof:lastmodified":1509412497,
+    "wof:name":"Habtat\u00f3",
+    "wof:parent_id":101790461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48333,
+    46.21667,
+    20.48333,
+    46.21667
+],
+  "geometry": {"coordinates":[20.48333,46.21667],"type":"Point"}
+}

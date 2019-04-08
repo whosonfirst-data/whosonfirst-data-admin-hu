@@ -1,0 +1,71 @@
+{
+  "id": 1242983497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47639,46.01045,18.47639,46.01045",
+    "geom:latitude":46.01045,
+    "geom:longitude":18.47639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Monyorod",
+    "gn:country_code":"HU",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047930,
+    "gn:latitude":46.01045,
+    "gn:longitude":18.47639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Monyor\u00f3d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monyor\u00f3d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047930,
+        "wk:page":"Monyor%C3%B3d"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7b6633110a04aea503b7984aed1cd45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242983497,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1242983497,
+    "wof:lastmodified":1537626225,
+    "wof:name":"Monyorod",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47639,
+    46.01045,
+    18.47639,
+    46.01045
+],
+  "geometry": {"coordinates":[18.47639,46.01045],"type":"Point"}
+}

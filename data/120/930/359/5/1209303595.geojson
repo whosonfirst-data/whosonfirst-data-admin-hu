@@ -1,0 +1,61 @@
+{
+  "id": 1209303595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45,47.15,21.45,47.15",
+    "geom:latitude":47.15,
+    "geom:longitude":21.45,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zsoldos",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":713848,
+    "gn:latitude":47.15,
+    "gn:longitude":21.45,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Zsoldos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713848
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c10ed8410f69d2c3e7290e8bb09d76ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209303595
+        }
+    ],
+    "wof:id":1209303595,
+    "wof:lastmodified":1536291271,
+    "wof:name":"Zsoldos",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45,
+    47.15,
+    21.45,
+    47.15
+],
+  "geometry": {"coordinates":[21.45,47.15],"type":"Point"}
+}

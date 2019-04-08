@@ -1,0 +1,113 @@
+{
+  "id": 85901183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1329067.417779,
+    "geom:bbox":"18.201599,46.094185,18.201599,46.094185",
+    "geom:latitude":46.094185,
+    "geom:longitude":18.201599,
+    "iso:country":"HU",
+    "lbl:latitude":46.094185,
+    "lbl:longitude":18.201599,
+    "mps:latitude":46.094186,
+    "mps:longitude":18.199422,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:hun_x_colloquial":[
+        "Koezepdeindol",
+        "Koezepdeindoldulo",
+        "Kozepdeindol",
+        "Kozepdeindoldulo"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9pdeindol"
+    ],
+    "name:hun_x_variant":[
+        "K\u00f6z\u00e9pdeindold\u016fl\u0151"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6z\u00e9pdeindol"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3046526,
+    "qs:gn_nam_loc":"P\u00e9cs, P\u00e9cs, P\u00e9cs, HU",
+    "qs:gn_namadm1":"02",
+    "qs:id":0,
+    "qs:local_max":3122,
+    "qs:local_sum":3543,
+    "qs:localhoods":7,
+    "qs:name":"K\u00f6z\u00e9pdeindol",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"P\u00e9cs",
+    "qs:name_adm2":"P\u00e9cs",
+    "qs:name_local":"P\u00e9cs",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043625,
+    "qs:woe_adm2":12593545,
+    "qs:woe_lau":0,
+    "qs:woe_local":813653,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684839,
+        102191581,
+        85633237,
+        404227491,
+        101751663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":810575
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d443e20d5fda35515f2502cd57e5296f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751663,
+            "macroregion_id":404227491,
+            "neighbourhood_id":85901183,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":85901183,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932451,
+    "wof:name":"K\u00f6z\u00e9pdeindol",
+    "wof:parent_id":101751663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.201599,
+    46.094185,
+    18.201599,
+    46.094185
+],
+  "geometry": {"coordinates":[18.201599,46.094185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242733789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71902,46.83823,16.71902,46.83823",
+    "geom:latitude":46.83823,
+    "geom:longitude":16.71902,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bode",
+    "gn:country_code":"HU",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054936,
+    "gn:latitude":46.83823,
+    "gn:longitude":16.71902,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"B\u00f6de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054936,
+        "wk:page":"B%C3%B6de"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"0616ab0cfa78f1c65c54833f397b4f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242733789,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1242733789,
+    "wof:lastmodified":1537626264,
+    "wof:name":"Bode",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71902,
+    46.83823,
+    16.71902,
+    46.83823
+],
+  "geometry": {"coordinates":[16.71902,46.83823],"type":"Point"}
+}

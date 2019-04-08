@@ -1,0 +1,114 @@
+{
+  "id": 85901313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22778688.597697,
+    "geom:bbox":"18.054262,46.906503,18.054262,46.906503",
+    "geom:latitude":46.906503,
+    "geom:longitude":18.054262,
+    "gn:latitude":46.88333,
+    "gn:longitude":18.06667,
+    "iso:country":"HU",
+    "lbl:latitude":46.906503,
+    "lbl:longitude":18.054262,
+    "mps:latitude":46.90196,
+    "mps:longitude":18.054411,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Toerekihegy",
+        "Torekihegy"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f6rekihegy"
+    ],
+    "name:unk_x_variant":[
+        "T\u00f6rekihegy"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3045332,
+    "qs:gn_nam_loc":"Si\u00f3fok, Si\u00f3fok, Somogy, HU",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"T\u00f6rekihegy",
+    "qs:local_max":146,
+    "qs:local_sum":146,
+    "qs:localhoods":1,
+    "qs:name":"T\u00f6rekihegy",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Somogy",
+    "qs:name_adm2":"Si\u00f3fok",
+    "qs:name_local":"Si\u00f3fok",
+    "qs:photo_max":27,
+    "qs:photo_sum":146,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577924,
+    "qs:woe_adm2":12594025,
+    "qs:woe_lau":0,
+    "qs:woe_local":814934,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684845,
+        102191581,
+        85633237,
+        404227491,
+        101834385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043796,
+        "gp:id":816707,
+        "qs:id":229068,
+        "qs_pg:id":229068
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"21dfdb51c6351806d337950f2816afc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101834385,
+            "macroregion_id":404227491,
+            "neighbourhood_id":85901313,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":85901313,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932473,
+    "wof:name":"T\u00f6rekihegy",
+    "wof:parent_id":101834385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.054262,
+    46.906503,
+    18.054262,
+    46.906503
+],
+  "geometry": {"coordinates":[18.054262,46.906503],"type":"Point"}
+}

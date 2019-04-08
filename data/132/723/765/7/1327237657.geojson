@@ -1,0 +1,68 @@
+{
+  "id": 1327237657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0,48.5,21.0,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":21.0,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Perecse",
+    "gn:country_code":"HU",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":716482,
+    "gn:latitude":48.5,
+    "gn:longitude":21.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Perecse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":716482,
+        "wk:page":"Perecse"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"879af72bdebf2dfdd4ef83804b2b0907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327237657,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1327237657,
+    "wof:lastmodified":1537563351,
+    "wof:name":"Perecse",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0,
+    48.5,
+    21.0,
+    48.5
+],
+  "geometry": {"coordinates":[21.0,48.5],"type":"Point"}
+}

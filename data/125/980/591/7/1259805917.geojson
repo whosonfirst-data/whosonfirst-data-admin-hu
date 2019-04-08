@@ -1,0 +1,72 @@
+{
+  "id": 1259805917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3,47.26667,18.3,47.26667",
+    "geom:latitude":47.26667,
+    "geom:longitude":18.3,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cicemalom",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054524,
+    "gn:latitude":47.26667,
+    "gn:longitude":18.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cicemalom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cicmalom",
+        "Cicemalom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054524
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4c7e8626c0ef42ff6516d64058fcf8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259805917,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1259805917,
+    "wof:lastmodified":1537626260,
+    "wof:name":"Cicemalom",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3,
+    47.26667,
+    18.3,
+    47.26667
+],
+  "geometry": {"coordinates":[18.3,47.26667],"type":"Point"}
+}

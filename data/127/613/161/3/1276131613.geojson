@@ -1,0 +1,71 @@
+{
+  "id": 1276131613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.94377,45.83816,17.94377,45.83816",
+    "geom:latitude":45.83816,
+    "geom:longitude":17.94377,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Luzsok",
+    "gn:country_code":"HU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048670,
+    "gn:latitude":45.83816,
+    "gn:longitude":17.94377,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"L\u00fazsok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fazsok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048670,
+        "wk:page":"L%C3%BAzsok"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1b27f688202fe382cd1c5788a79f1f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276131613,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1276131613,
+    "wof:lastmodified":1537626228,
+    "wof:name":"Luzsok",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.94377,
+    45.83816,
+    17.94377,
+    45.83816
+],
+  "geometry": {"coordinates":[17.94377,45.83816],"type":"Point"}
+}

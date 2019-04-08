@@ -1,0 +1,67 @@
+{
+  "id": 1343872597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.54695,46.60185,19.54695,46.60185",
+    "geom:latitude":46.60185,
+    "geom:longitude":19.54695,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Szentimrebocsa",
+    "gn:country_code":"HU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044642,
+    "gn:latitude":46.60185,
+    "gn:longitude":19.54695,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Szentimreb\u00f3csa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044642
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"24e0b5a02587f117457a844c6142247e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343872597,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1343872597,
+    "wof:lastmodified":1536648688,
+    "wof:name":"Szentimrebocsa",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.54695,
+    46.60185,
+    19.54695,
+    46.60185
+],
+  "geometry": {"coordinates":[19.54695,46.60185],"type":"Point"}
+}

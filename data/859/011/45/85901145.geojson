@@ -1,0 +1,104 @@
+{
+  "id": 85901145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11130459.85421,
+    "geom:bbox":"17.62895,47.69772,17.62895,47.69772",
+    "geom:latitude":47.69772,
+    "geom:longitude":17.62895,
+    "iso:country":"HU",
+    "lbl:latitude":47.69772,
+    "lbl:longitude":17.62895,
+    "mps:latitude":47.701043,
+    "mps:longitude":17.622774,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Kisbacsa"
+    ],
+    "name:hun_x_preferred":[
+        "Kisb\u00e1csa"
+    ],
+    "name:unk_x_variant":[
+        "Kisb\u00e1csa"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":673,
+    "qs:local_sum":1488,
+    "qs:localhoods":3,
+    "qs:name":"Kisb\u00e1csa",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Gy\u00f4r",
+    "qs:name_adm2":"Gy\u00f4r",
+    "qs:name_local":"Gy\u0151r",
+    "qs:photo_max":103,
+    "qs:photo_sum":335,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043629,
+    "qs:woe_adm2":12593895,
+    "qs:woe_lau":0,
+    "qs:woe_local":807392,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684895,
+        102191581,
+        85633237,
+        404227481,
+        101751711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":809560
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1fc754aae8f9ebe63f8098ab2df45923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751711,
+            "macroregion_id":404227481,
+            "neighbourhood_id":85901145,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":85901145,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932441,
+    "wof:name":"Kisb\u00e1csa",
+    "wof:parent_id":101751711,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62895,
+    47.69772,
+    17.62895,
+    47.69772
+],
+  "geometry": {"coordinates":[17.62895,47.69772],"type":"Point"}
+}

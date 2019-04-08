@@ -1,0 +1,71 @@
+{
+  "id": 1259566777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63419,48.08419,19.63419,48.08419",
+    "geom:latitude":48.08419,
+    "geom:longitude":19.63419,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Fulevolgytanya",
+    "gn:country_code":"HU",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052508,
+    "gn:latitude":48.08419,
+    "gn:longitude":19.63419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00fclev\u00f6lgytanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00fclev\u00f6lgy-puszta",
+        "F\u00fclev\u00f6lgytanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052508
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"013064bdec2f12daed08d81cdfbbe2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259566777,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":1259566777,
+    "wof:lastmodified":1537626244,
+    "wof:name":"Fulevolgytanya",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63419,
+    48.08419,
+    19.63419,
+    48.08419
+],
+  "geometry": {"coordinates":[19.63419,48.08419],"type":"Point"}
+}

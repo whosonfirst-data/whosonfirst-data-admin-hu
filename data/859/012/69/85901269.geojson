@@ -1,0 +1,126 @@
+{
+  "id": 85901269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14711505.534822,
+    "geom:bbox":"20.13222,46.260741,20.13222,46.260741",
+    "geom:latitude":46.260741,
+    "geom:longitude":20.13222,
+    "gn:latitude":46.26955,
+    "gn:longitude":20.13966,
+    "iso:country":"HU",
+    "lbl:latitude":46.260741,
+    "lbl:longitude":20.13222,
+    "mps:latitude":46.268142,
+    "mps:longitude":20.131308,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:fra_x_preferred":[
+        "R\u00e1k\u00f3czi \u00fat"
+    ],
+    "name:hun_x_colloquial":[
+        "Rokus",
+        "Rokusi Feketefoeldek",
+        "Rokusi Feketefoldek"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00f3kus",
+        "R\u00e1k\u00f3czi \u00fat"
+    ],
+    "name:hun_x_variant":[
+        "R\u00f3kusi Feketef\u00f6ldek"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00e1k\u00f3czi \u00fat"
+    ],
+    "name:unk_x_variant":[
+        "R\u00f3kusi Feketef\u00f6ldek",
+        "R\u00f3kus"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":715429,
+    "qs:gn_nam_loc":"Szeged, Szeged, Szeged, HU",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"R\u00f3kus",
+    "qs:local_max":1293,
+    "qs:local_sum":3309,
+    "qs:localhoods":5,
+    "qs:name":"R\u00f3kus",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szeged",
+    "qs:name_adm2":"Szeged",
+    "qs:name_local":"Szeged",
+    "qs:photo_max":116,
+    "qs:photo_sum":648,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":51,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043624,
+    "qs:woe_adm2":12593409,
+    "qs:woe_lau":0,
+    "qs:woe_local":815498,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101751681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":716049,
+        "gp:id":814483,
+        "qs:id":313098,
+        "qs_pg:id":313098
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a42f770fa66f4abd2f3c00b83dc7d581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751681,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901269,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":85901269,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932464,
+    "wof:name":"R\u00f3kus",
+    "wof:parent_id":101751681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13222,
+    46.260741,
+    20.13222,
+    46.260741
+],
+  "geometry": {"coordinates":[20.13222,46.260741],"type":"Point"}
+}

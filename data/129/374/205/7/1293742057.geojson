@@ -1,0 +1,68 @@
+{
+  "id": 1293742057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2706,47.31027,17.2706,47.31027",
+    "geom:latitude":47.31027,
+    "geom:longitude":17.2706,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Marcalgergelyi",
+    "gn:country_code":"HU",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048457,
+    "gn:latitude":47.31027,
+    "gn:longitude":17.2706,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marcalgergelyi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048457,
+        "wk:page":"Marcalgergelyi"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3a4438dccfc5d9880937818be79c2193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293742057,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1293742057,
+    "wof:lastmodified":1537563381,
+    "wof:name":"Marcalgergelyi",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2706,
+    47.31027,
+    17.2706,
+    47.31027
+],
+  "geometry": {"coordinates":[17.2706,47.31027],"type":"Point"}
+}

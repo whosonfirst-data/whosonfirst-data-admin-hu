@@ -1,0 +1,68 @@
+{
+  "id": 1327033183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7137,46.1137,17.7137,46.1137",
+    "geom:latitude":46.1137,
+    "geom:longitude":17.7137,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Somogyhatvan",
+    "gn:country_code":"HU",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045233,
+    "gn:latitude":46.1137,
+    "gn:longitude":17.7137,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Somogyhatvan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045233,
+        "wk:page":"Somogyhatvan"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"10e56c0ff6604ffdef84c6a96582fb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327033183,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1327033183,
+    "wof:lastmodified":1537563371,
+    "wof:name":"Somogyhatvan",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7137,
+    46.1137,
+    17.7137,
+    46.1137
+],
+  "geometry": {"coordinates":[17.7137,46.1137],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226624321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.26667,47.55,20.26667,47.55",
+    "geom:latitude":47.55,
+    "geom:longitude":20.26667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Butelektanya",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721953,
+    "gn:latitude":47.55,
+    "gn:longitude":20.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fatelektanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fatelek",
+        "B\u00fatelektanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721953
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1c5109e415121c10a91e8f4b1ec69c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226624321,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1226624321,
+    "wof:lastmodified":1537626192,
+    "wof:name":"Butelektanya",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.26667,
+    47.55,
+    20.26667,
+    47.55
+],
+  "geometry": {"coordinates":[20.26667,47.55],"type":"Point"}
+}

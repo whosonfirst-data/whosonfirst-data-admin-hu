@@ -1,0 +1,104 @@
+{
+  "id": 85901225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10066946.431093,
+    "geom:bbox":"19.691478,47.668639,19.691478,47.668639",
+    "geom:latitude":47.668639,
+    "geom:longitude":19.691478,
+    "iso:country":"HU",
+    "lbl:latitude":47.668639,
+    "lbl:longitude":19.691478,
+    "mps:latitude":47.669761,
+    "mps:longitude":19.702035,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Nagytelek"
+    ],
+    "name:unk_x_variant":[
+        "Nagytelek"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3051621,
+    "qs:gn_nam_loc":"Hatvan, Hatvan, Heves, HU",
+    "qs:gn_namadm1":"11",
+    "qs:id":0,
+    "qs:local_max":116,
+    "qs:local_sum":128,
+    "qs:localhoods":2,
+    "qs:name":"Nagytelek",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Heves",
+    "qs:name_adm2":"Hatvan",
+    "qs:name_local":"Hatvan",
+    "qs:photo_max":36,
+    "qs:photo_sum":116,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577920,
+    "qs:woe_adm2":12594046,
+    "qs:woe_lau":0,
+    "qs:woe_local":807787,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684909,
+        102191581,
+        85633237,
+        404227477,
+        101785963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":812640
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"43d320ad0cc1344b1046b4fcc198e87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101785963,
+            "macroregion_id":404227477,
+            "neighbourhood_id":85901225,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":85901225,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932460,
+    "wof:name":"Nagytelek",
+    "wof:parent_id":101785963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.691478,
+    47.668639,
+    19.691478,
+    47.668639
+],
+  "geometry": {"coordinates":[19.691478,47.668639],"type":"Point"}
+}

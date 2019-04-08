@@ -1,0 +1,144 @@
+{
+  "id": 101784677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":837634.492333,
+    "geom:bbox":"20.136790834,47.8460899855,20.1547311758,47.8565258266",
+    "geom:latitude":47.851101,
+    "geom:longitude":20.14588,
+    "iso:country":"HU",
+    "lbl:latitude":47.852972,
+    "lbl:longitude":20.147239,
+    "mps:latitude":47.852972,
+    "mps:longitude":20.147239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57fa\u4ec0\u7eb3\u7459"
+    ],
+    "name:dut_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:eng_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:epo_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:fra_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:fre_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:ger_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:hun_x_colloquial":[
+        "Kisnana"
+    ],
+    "name:hun_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:ita_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:may_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:msa_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:nan_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:nld_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:ron_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:rum_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00e1 N\u00e1na"
+    ],
+    "name:slo_x_preferred":[
+        "Mal\u00e1 N\u00e1na"
+    ],
+    "name:slv_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "name:vie_x_preferred":[
+        "Kisn\u00e1na"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Kisn\u00e1na",
+    "qs:la_lc":"*HU51040041250",
+    "qs:level":"locality",
+    "qs:loc":"Kisn\u00e1na",
+    "qs:loc_alt":"Kisnana",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":391,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"116389fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":718865,
+        "gp:id":809888,
+        "qs:id":894586,
+        "qs_pg:id":894586,
+        "wd:id":"Q980033",
+        "wk:page":"Kisn\u00e1na"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"be85ab095c2d133973990010b1b63c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784677,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101784677,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527688544,
+    "wof:name":"Kisn\u00e1na",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13679083397733,
+    47.84608998548794,
+    20.1547311757555,
+    47.85652582655513
+],
+  "geometry": {"coordinates":[[[20.15067573889826,47.85627929014822],[20.15014176820819,47.8536087521731],[20.15279258863768,47.85336216667213],[20.15225855409733,47.85069163642697],[20.15358388816685,47.85056832712593],[20.15340586996331,47.8496781512693],[20.1547311757555,47.84955482845868],[20.15419710108125,47.84688430356346],[20.14757085139576,47.84750072060297],[20.1481045888566,47.85017128264451],[20.14280321508301,47.85066415822632],[20.14209194063335,47.84710336765312],[20.14341720283039,47.8469801826368],[20.14323938145588,47.84608998548794],[20.13793838786904,47.84658261973993],[20.13811611931993,47.84747282678381],[20.13679083397733,47.8475959478543],[20.13696855082924,47.84848615657972],[20.13829385865449,47.84836303303615],[20.13900489484212,47.85192385013016],[20.13767949707562,47.85204698356745],[20.13821278955515,47.85471759549887],[20.13953825478762,47.85459445464011],[20.13936046025191,47.85370425392824],[20.1433367537503,47.85333474284181],[20.14369248564526,47.85511512862706],[20.14501795020897,47.85499192133722],[20.14519585048288,47.85588211056671],[20.14784680721414,47.85563564306909],[20.1480247603613,47.85652582655513],[20.15067573889826,47.85627929014822]]],"type":"Polygon"}
+}

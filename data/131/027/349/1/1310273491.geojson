@@ -1,0 +1,71 @@
+{
+  "id": 1310273491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74189,47.44285,17.74189,47.44285",
+    "geom:latitude":47.44285,
+    "geom:longitude":17.74189,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bertalanffypuszta",
+    "gn:country_code":"HU",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055073,
+    "gn:latitude":47.44285,
+    "gn:longitude":17.74189,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bertalanffypuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bertalanffymajor",
+        "Bertalanffypuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055073
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"96bcbab5156404a86ea9de1ffaadf54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310273491,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1310273491,
+    "wof:lastmodified":1537626266,
+    "wof:name":"Bertalanffypuszta",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74188999999999,
+    47.44285,
+    17.74188999999999,
+    47.44285
+],
+  "geometry": {"coordinates":[17.74188999999999,47.44285],"type":"Point"}
+}

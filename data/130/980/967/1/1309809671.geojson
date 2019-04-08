@@ -1,0 +1,68 @@
+{
+  "id": 1309809671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5,48.55,21.5,48.55",
+    "geom:latitude":48.55,
+    "geom:longitude":21.5,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pusztafalu",
+    "gn:country_code":"HU",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":716286,
+    "gn:latitude":48.55,
+    "gn:longitude":21.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pusztafalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":716286,
+        "wk:page":"Pusztafalu"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cf9647193f876006b91eadf0b1d87f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309809671,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1309809671,
+    "wof:lastmodified":1537563351,
+    "wof:name":"Pusztafalu",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5,
+    48.55,
+    21.5,
+    48.55
+],
+  "geometry": {"coordinates":[21.5,48.55],"type":"Point"}
+}

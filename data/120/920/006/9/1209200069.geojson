@@ -1,0 +1,61 @@
+{
+  "id": 1209200069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3359,47.07277,18.3359,47.07277",
+    "geom:latitude":47.07277,
+    "geom:longitude":18.3359,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Alsosomlyo",
+    "gn:country_code":"HU",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056064,
+    "gn:latitude":47.07277,
+    "gn:longitude":18.3359,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Als\u00f3somly\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056064
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7e344560769e28263f5395f936f822da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209200069
+        }
+    ],
+    "wof:id":1209200069,
+    "wof:lastmodified":1536294641,
+    "wof:name":"Alsosomlyo",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3359,
+    47.07277,
+    18.3359,
+    47.07277
+],
+  "geometry": {"coordinates":[18.3359,47.07277],"type":"Point"}
+}

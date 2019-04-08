@@ -1,0 +1,63 @@
+{
+  "id": 1108940593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2198631259,47.52338337,19.2198631259,47.52338337",
+    "geom:latitude":47.523383,
+    "geom:longitude":19.219863,
+    "iso:country":"HU",
+    "lbl:latitude":47.523383,
+    "lbl:longitude":19.219863,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85684881,
+        102191581,
+        85633237,
+        404227489,
+        101751703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361854,
+    "wof:geomhash":"0574ea4da43355b7f579d76adbac08af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940593,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940593,
+    "wof:lastmodified":1492123560,
+    "wof:name":"Cinkota",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21986312594918,
+    47.52338337002181,
+    19.21986312594918,
+    47.52338337002181
+],
+  "geometry": {"coordinates":[19.21986312594918,47.52338337002181],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209185655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08188,46.29425,17.08188,46.29425",
+    "geom:latitude":46.29425,
+    "geom:longitude":17.08188,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Csurgonagymarton",
+    "gn:country_code":"HU",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053857,
+    "gn:latitude":46.29425,
+    "gn:longitude":17.08188,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Csurg\u00f3nagymarton",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053857,
+        "wk:page":"Csurg%C3%B3nagymarton"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f6cc833e92da7d29bb35101c53184cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209185655
+        }
+    ],
+    "wof:id":1209185655,
+    "wof:lastmodified":1537626253,
+    "wof:name":"Csurgonagymarton",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08188,
+    46.29425,
+    17.08188,
+    46.29425
+],
+  "geometry": {"coordinates":[17.08188,46.29425],"type":"Point"}
+}

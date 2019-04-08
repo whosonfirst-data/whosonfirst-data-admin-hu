@@ -1,0 +1,71 @@
+{
+  "id": 1193143247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.98333,48.36667,20.98333,48.36667",
+    "geom:latitude":48.36667,
+    "geom:longitude":20.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abaujszolnok",
+    "gn:country_code":"HU",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":723033,
+    "gn:latitude":48.36667,
+    "gn:longitude":20.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aba\u00fajszolnok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aba\u00fajszolnok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":723033,
+        "wk:page":"Aba%C3%BAjszolnok"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"58cb61c427e03c9e87162c1edfdfe70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1193143247,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1193143247,
+    "wof:lastmodified":1537626199,
+    "wof:name":"Abaujszolnok",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.98333,
+    48.36667,
+    20.98333,
+    48.36667
+],
+  "geometry": {"coordinates":[20.98333,48.36667],"type":"Point"}
+}

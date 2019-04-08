@@ -1,0 +1,138 @@
+{
+  "id": 101784701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00017,
+    "geom:area_square_m":1416012.270535,
+    "geom:bbox":"19.7519688422,47.7943710201,19.7708179945,47.8119488245",
+    "geom:latitude":47.803049,
+    "geom:longitude":19.761527,
+    "iso:country":"HU",
+    "lbl:latitude":47.802538,
+    "lbl:longitude":19.761385,
+    "mps:latitude":47.802538,
+    "mps:longitude":19.761385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:chi_x_preferred":[
+        "\u53d9\u5947"
+    ],
+    "name:deu_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:dut_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:eng_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:epo_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:fra_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:fre_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:ger_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:hun_x_preferred":[
+        "Bajza J\u00f3zsef"
+    ],
+    "name:ita_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:may_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:nan_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:pol_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:ron_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:rum_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0437\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:slv_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:spa_x_preferred":[
+        "J\u00f3zsef Bajza"
+    ],
+    "name:vie_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Sz\u00fccsi",
+    "qs:la_lc":"*HU51040040998",
+    "qs:level":"locality",
+    "qs:loc":"Sz\u00fccsi",
+    "qs:loc_alt":"Szucsi",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044265,
+        "gp:id":816099,
+        "qs:id":255472,
+        "wd:id":"Q636462"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e297904ffe03a916e6c231250bb9e124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784701,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101784701,
+    "wof:lastmodified":1514448359,
+    "wof:name":"Sz\u00fccsi",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75196884218497,
+    47.79437102005795,
+    19.77081799450377,
+    47.81194882450995
+],
+  "geometry": {"coordinates":[[[19.77081799450377,47.80393391521761],[19.76962051710655,47.79769746657746],[19.76829579143322,47.79781611171808],[19.7677827680979,47.79514332939834],[19.76645810434627,47.79526195140852],[19.76628713422622,47.79437102005795],[19.76363783502558,47.79460821135694],[19.76380876015793,47.79549914746775],[19.76248407972327,47.79561772151663],[19.7626549899399,47.79650865924259],[19.76133028144966,47.79662721968367],[19.76150117674842,47.79751815902483],[19.76017644020186,47.7976367058576],[19.76034732058156,47.79852764681362],[19.75769778581503,47.79876469727236],[19.75786862877351,47.79965564222255],[19.75654383055303,47.79977414584761],[19.75671465858687,47.80066509241249],[19.75538983230729,47.8007835824269],[19.75556064541473,47.80167453060665],[19.75423579107508,47.80179300700956],[19.75491902924568,47.80535680160591],[19.75359407932717,47.80547527153169],[19.75410651997959,47.80814811659855],[19.75278149697556,47.80826657766795],[19.75329393828429,47.81093942300129],[19.75196884218497,47.81105787521307],[19.75213964859415,47.81194882450995],[19.75611498775601,47.81159341275873],[19.75594411380496,47.81070247059813],[19.75991933537767,47.81034692204634],[19.75974840147012,47.80945598626141],[19.76107344169162,47.8093374404724],[19.76090249285556,47.80844650630365],[19.7635525115893,47.80820937150992],[19.76321054662998,47.80642751040341],[19.76453550263551,47.80630892378042],[19.7643645090248,47.80541799446183],[19.7670143593316,47.80518077800559],[19.76684332829518,47.80428985268503],[19.77081799450377,47.80393391521761]]],"type":"Polygon"}
+}

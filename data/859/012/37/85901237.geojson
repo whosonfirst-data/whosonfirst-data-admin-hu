@@ -1,0 +1,110 @@
+{
+  "id": 85901237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12000829.562728,
+    "geom:bbox":"19.447549,47.344236,19.447549,47.344236",
+    "geom:latitude":47.344236,
+    "geom:longitude":19.447549,
+    "gn:latitude":47.35,
+    "gn:longitude":19.45,
+    "iso:country":"HU",
+    "lbl:latitude":47.344236,
+    "lbl:longitude":19.447549,
+    "mps:latitude":47.34682,
+    "mps:longitude":19.446872,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Paplapos"
+    ],
+    "name:unk_x_variant":[
+        "Paplapos"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3047942,
+    "qs:gn_nam_loc":"Monor, Monor, Pest, HU",
+    "qs:gn_namadm1":"16",
+    "qs:gn_name":"Paplapos",
+    "qs:local_max":22,
+    "qs:local_sum":22,
+    "qs:localhoods":1,
+    "qs:name":"Paplapos",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Pest",
+    "qs:name_adm2":"Monor",
+    "qs:name_local":"Monor",
+    "qs:photo_max":7,
+    "qs:photo_sum":22,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577923,
+    "qs:woe_adm2":12593358,
+    "qs:woe_lau":0,
+    "qs:woe_local":812111,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684899,
+        102191581,
+        85633237,
+        404227489,
+        101788273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046655,
+        "gp:id":813504,
+        "qs:id":936907,
+        "qs_pg:id":936907
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e7f8d27e2e30d8da60ac5c7ecceaefd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101788273,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901237,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":85901237,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932462,
+    "wof:name":"Paplapos",
+    "wof:parent_id":101788273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.447549,
+    47.344236,
+    19.447549,
+    47.344236
+],
+  "geometry": {"coordinates":[19.447549,47.344236],"type":"Point"}
+}

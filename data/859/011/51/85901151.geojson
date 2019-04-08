@@ -1,0 +1,111 @@
+{
+  "id": 85901151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7190192.396264,
+    "geom:bbox":"20.00885,47.191423,20.00885,47.191423",
+    "geom:latitude":47.191423,
+    "geom:longitude":20.00885,
+    "iso:country":"HU",
+    "lbl:latitude":47.191423,
+    "lbl:longitude":20.00885,
+    "mps:latitude":47.187846,
+    "mps:longitude":20.00398,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Kismihalyto",
+        "Kismihalytodulo"
+    ],
+    "name:hun_x_preferred":[
+        "Kismih\u00e1lyt\u00f3d\u016fl\u0151"
+    ],
+    "name:hun_x_variant":[
+        "Kismih\u00e1lyt\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Kismih\u00e1lyt\u00f3d\u016fl\u0151"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":723030,
+    "qs:gn_nam_loc":"Abony, Abony, Pest, HU",
+    "qs:gn_namadm1":"16",
+    "qs:id":0,
+    "qs:local_max":24,
+    "qs:local_sum":24,
+    "qs:localhoods":1,
+    "qs:name":"Kismih\u00e1lyt\u00f3d\u016fl\u0151",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Pest",
+    "qs:name_adm2":"Abony",
+    "qs:name_local":"Abony",
+    "qs:photo_max":17,
+    "qs:photo_sum":24,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577923,
+    "qs:woe_adm2":12593287,
+    "qs:woe_lau":0,
+    "qs:woe_local":802296,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684899,
+        102191581,
+        85633237,
+        404227489,
+        101788327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":809881
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c8cdcdd421617a22ce947cb7bcab2109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101788327,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901151,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":85901151,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932444,
+    "wof:name":"Kismih\u00e1lyt\u00f3d\u016fl\u0151",
+    "wof:parent_id":101788327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00885,
+    47.191423,
+    20.00885,
+    47.191423
+],
+  "geometry": {"coordinates":[20.00885,47.191423],"type":"Point"}
+}

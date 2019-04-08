@@ -1,0 +1,72 @@
+{
+  "id": 1209884431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68605,46.64344,16.68605,46.64344",
+    "geom:latitude":46.64344,
+    "geom:longitude":16.68605,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zebecke",
+    "gn:country_code":"HU",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042558,
+    "gn:latitude":46.64344,
+    "gn:longitude":16.68605,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zebecke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zebeczke",
+        "Zebecke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042558,
+        "wk:page":"Zebecke"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"79a008871d466d43b0a5774e9e2e3e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1209884431,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1209884431,
+    "wof:lastmodified":1537626201,
+    "wof:name":"Zebecke",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68605,
+    46.64344000000001,
+    16.68605,
+    46.64344000000001
+],
+  "geometry": {"coordinates":[16.68605,46.64344000000001],"type":"Point"}
+}

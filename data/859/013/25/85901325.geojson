@@ -1,0 +1,123 @@
+{
+  "id": 85901325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10921447.878148,
+    "geom:bbox":"20.180861,46.245082,20.180861,46.245082",
+    "geom:latitude":46.245082,
+    "geom:longitude":20.180861,
+    "gn:latitude":46.24754,
+    "gn:longitude":20.16571,
+    "iso:country":"HU",
+    "lbl:latitude":46.245082,
+    "lbl:longitude":20.180861,
+    "mps:latitude":46.242249,
+    "mps:longitude":20.188255,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:epo_x_preferred":[
+        "S\u00e1ndor Cs\u00f6rg\u0151"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e1ndor Cs\u00f6rg\u0151"
+    ],
+    "name:hun_x_colloquial":[
+        "Ujszeged"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajszeged",
+        "Cs\u00f6rg\u0151 S\u00e1ndor"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e1ndor Cs\u00f6rg\u0151"
+    ],
+    "name:unk_x_variant":[
+        "\u00dajszeged"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":715429,
+    "qs:gn_nam_loc":"Szeged, Szeged, Szeged, HU",
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"\u00dajszeged",
+    "qs:local_max":1293,
+    "qs:local_sum":3309,
+    "qs:localhoods":5,
+    "qs:name":"\u00dajszeged",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szeged",
+    "qs:name_adm2":"Szeged",
+    "qs:name_local":"Szeged",
+    "qs:photo_max":7,
+    "qs:photo_sum":48,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043624,
+    "qs:woe_adm2":12593409,
+    "qs:woe_lau":0,
+    "qs:woe_local":815498,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101751681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714419,
+        "gp:id":817112,
+        "qs:id":1167267,
+        "qs_pg:id":1167267
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"24277a1a744a5357a948e0e61a890367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751681,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901325,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":85901325,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932476,
+    "wof:name":"\u00dajszeged",
+    "wof:parent_id":101751681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.180861,
+    46.245082,
+    20.180861,
+    46.245082
+],
+  "geometry": {"coordinates":[20.180861,46.245082],"type":"Point"}
+}

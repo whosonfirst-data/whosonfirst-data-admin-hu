@@ -1,0 +1,112 @@
+{
+  "id": 85901107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9936633.03129,
+    "geom:bbox":"19.860128,48.142537,19.860128,48.142537",
+    "geom:latitude":48.142537,
+    "geom:longitude":19.860128,
+    "gn:latitude":48.13333,
+    "gn:longitude":19.86667,
+    "iso:country":"HU",
+    "lbl:latitude":48.142537,
+    "lbl:longitude":19.860128,
+    "mps:latitude":48.140834,
+    "mps:longitude":19.861299,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Fenykopuszta"
+    ],
+    "name:hun_x_preferred":[
+        "F\u00e9nyk\u0151puszta"
+    ],
+    "name:unk_x_variant":[
+        "F\u00e9nyk\u0151puszta"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3045643,
+    "qs:gn_nam_loc":"Salg\u00f3tarj\u00e1n, Salg\u00f3tarj\u00e1n, Salg\u00f3tarj\u00e1n, HU",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"F\u00e9nyk\u0151puszta",
+    "qs:local_max":43,
+    "qs:local_sum":70,
+    "qs:localhoods":2,
+    "qs:name":"F\u00e9nyk\u0151puszta",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Salg\u00f3tarj\u00e1n",
+    "qs:name_adm2":"Salg\u00f3tarj\u00e1n",
+    "qs:name_local":"Salg\u00f3tarj\u00e1n",
+    "qs:photo_max":9,
+    "qs:photo_sum":27,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043635,
+    "qs:woe_adm2":12593466,
+    "qs:woe_lau":0,
+    "qs:woe_local":814636,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684913,
+        102191581,
+        85633237,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052687,
+        "gp:id":806559,
+        "qs:id":266729,
+        "qs_pg:id":266729
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"75a9d4183df6ac8ba2bc80c78cef83eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":-1,
+            "macroregion_id":404227477,
+            "neighbourhood_id":85901107,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":85901107,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932435,
+    "wof:name":"F\u00e9nyk\u0151puszta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.860128,
+    48.142537,
+    19.860128,
+    48.142537
+],
+  "geometry": {"coordinates":[19.860128,48.142537],"type":"Point"}
+}

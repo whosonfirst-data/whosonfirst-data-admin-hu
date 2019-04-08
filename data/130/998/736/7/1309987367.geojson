@@ -1,0 +1,72 @@
+{
+  "id": 1309987367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1,47.78333,20.1,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":20.1,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jokuttanya",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":719599,
+    "gn:latitude":47.78333,
+    "gn:longitude":20.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"J\u00f3k\u00fattanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00f3k\u00fati Sz\u0151l\u0151-telep",
+        "J\u00f3k\u00fattanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":719599
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"df00ba77d3c56f0ad318fed2dc14667f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309987367,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1309987367,
+    "wof:lastmodified":1537626180,
+    "wof:name":"Jokuttanya",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1,
+    47.78333,
+    20.1,
+    47.78333
+],
+  "geometry": {"coordinates":[20.1,47.78333],"type":"Point"}
+}

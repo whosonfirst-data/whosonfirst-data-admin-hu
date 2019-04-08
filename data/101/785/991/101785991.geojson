@@ -1,0 +1,114 @@
+{
+  "id": 101785991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1027123.060377,
+    "geom:bbox":"19.4808398455,47.7446760316,19.496234644,47.7558344033",
+    "geom:latitude":47.750266,
+    "geom:longitude":19.488526,
+    "iso:country":"HU",
+    "lbl:latitude":47.750032,
+    "lbl:longitude":19.488526,
+    "mps:latitude":47.750032,
+    "mps:longitude":19.488526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:epo_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062f\u06a9\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:hun_x_colloquial":[
+        "Kallo"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00e1ll\u00f3",
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub108\uc9c0\uce7c\ub85c"
+    ],
+    "name:msa_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "Nagyk\u00e1ll\u00f3"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*N\u00f3gr\u00e1d",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"K\u00e1ll\u00f3",
+    "qs:la_lc":"*HU51242030864",
+    "qs:level":"locality",
+    "qs:loc":"K\u00e1ll\u00f3",
+    "qs:loc_alt":"Kallo",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11635c64-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3050732,
+        "gp:id":808830,
+        "qs:id":966171,
+        "wk:page":"Nagyk\u00e1ll\u00f3"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f5ccc2e3a201b5417b3e153f7c18bcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101785991,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":101785991,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1513814015,
+    "wof:name":"K\u00e1ll\u00f3",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48083984545127,
+    47.74467603164152,
+    19.49623464403726,
+    47.7558344032567
+],
+  "geometry": {"coordinates":[[[19.48812380094336,47.7545973163937],[19.49342034921892,47.75413626130427],[19.49358635728453,47.75502770852631],[19.49623464403726,47.75479708044111],[19.49523843606852,47.74944841366624],[19.493914430362,47.74956372182658],[19.49325052884654,47.74599791980103],[19.4958983549422,47.74576730599347],[19.49573235297731,47.744875858245],[19.48778894489169,47.74556749400398],[19.48762308520838,47.74467603164152],[19.48365137583897,47.74502162682211],[19.4839829676186,47.74680456465967],[19.48265900873582,47.74691973570566],[19.48282479315651,47.74781120581531],[19.48150080639272,47.74792636318659],[19.4821639275832,47.75149224540792],[19.48083984545127,47.75160739603103],[19.48117140514296,47.75339033728824],[19.48249553227055,47.75327518204642],[19.48266134563931,47.75416664924745],[19.48398548987478,47.75405147570973],[19.48431718366385,47.7558344032567],[19.48828971901412,47.75548877286269],[19.48812380094336,47.7545973163937]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226322921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8,47.78333,18.8,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":18.8,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Farikuti Dulo",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053104,
+    "gn:latitude":47.78333,
+    "gn:longitude":18.8,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"F\u00e1rik\u00fati D\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e1ri K\u00fat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684885,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053104
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ba950cbbc1daf63361f8b63311c34ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226322921,
+            "macroregion_id":404227479,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":1226322921,
+    "wof:lastmodified":1537626247,
+    "wof:name":"Farikuti Dulo",
+    "wof:parent_id":85684885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.8,
+    47.78333,
+    18.8,
+    47.78333
+],
+  "geometry": {"coordinates":[18.8,47.78333],"type":"Point"}
+}

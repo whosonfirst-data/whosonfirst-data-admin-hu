@@ -1,0 +1,71 @@
+{
+  "id": 1259541755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81339,47.24378,16.81339,47.24378",
+    "geom:latitude":47.24378,
+    "geom:longitude":16.81339,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bogotmajor",
+    "gn:country_code":"HU",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054883,
+    "gn:latitude":47.24378,
+    "gn:longitude":16.81339,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00f6g\u00f6tmajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6g\u00f6timajor",
+        "B\u00f6g\u00f6tmajor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054883
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cfb6b2aa64fa84b0ea6dd156b3a419ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259541755,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1259541755,
+    "wof:lastmodified":1537626264,
+    "wof:name":"Bogotmajor",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81339,
+    47.24378,
+    16.81339,
+    47.24378
+],
+  "geometry": {"coordinates":[16.81339,47.24378],"type":"Point"}
+}

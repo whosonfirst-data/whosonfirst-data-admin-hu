@@ -1,0 +1,110 @@
+{
+  "id": 85901055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19243040.161444,
+    "geom:bbox":"18.699914,46.345163,18.699914,46.345163",
+    "geom:latitude":46.345163,
+    "geom:longitude":18.699914,
+    "gn:latitude":46.35,
+    "gn:longitude":18.7,
+    "iso:country":"HU",
+    "lbl:latitude":46.345163,
+    "lbl:longitude":18.699914,
+    "mps:latitude":46.342249,
+    "mps:longitude":18.697045,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Bartina"
+    ],
+    "name:unk_x_variant":[
+        "Bartina"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3044760,
+    "qs:gn_nam_loc":"Szeksz\u00e1rd, Szeksz\u00e1rd, Szeksz\u00e1rd, HU",
+    "qs:gn_namadm1":"21",
+    "qs:gn_name":"Bartina",
+    "qs:local_max":116,
+    "qs:local_sum":116,
+    "qs:localhoods":1,
+    "qs:name":"Bartina",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szeksz\u00e1rd",
+    "qs:name_adm2":"Szeksz\u00e1rd",
+    "qs:name_local":"Szeksz\u00e1rd",
+    "qs:photo_max":30,
+    "qs:photo_sum":116,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043632,
+    "qs:woe_adm2":12593330,
+    "qs:woe_lau":0,
+    "qs:woe_local":815544,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684841,
+        102191581,
+        85633237,
+        404227491,
+        101790295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055312,
+        "gp:id":803538,
+        "qs:id":1348525,
+        "qs_pg:id":1348525
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"972f637e410fc98237c73c43914add6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790295,
+            "macroregion_id":404227491,
+            "neighbourhood_id":85901055,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":85901055,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932425,
+    "wof:name":"Bartina",
+    "wof:parent_id":101790295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.699914,
+    46.345163,
+    18.699914,
+    46.345163
+],
+  "geometry": {"coordinates":[18.699914,46.345163],"type":"Point"}
+}

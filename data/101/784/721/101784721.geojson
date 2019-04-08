@@ -1,0 +1,121 @@
+{
+  "id": 101784721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":907459.403294,
+    "geom:bbox":"20.4104498918,47.7140014924,20.4246218099,47.7289958779",
+    "geom:latitude":47.720713,
+    "geom:longitude":20.417071,
+    "iso:country":"HU",
+    "lbl:latitude":47.719855,
+    "lbl:longitude":20.417071,
+    "mps:latitude":47.719855,
+    "mps:longitude":20.417071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u591a\u5c14\u66fc\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:eng_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:epo_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:fre_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:hun_x_colloquial":[
+        "Dormand"
+    ],
+    "name:hun_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:ita_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:may_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:nan_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:rum_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:slo_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:slv_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "name:vie_x_preferred":[
+        "Dorm\u00e1nd"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"F\u00fczesabony",
+    "qs:la_lc":"*HU51040030327",
+    "qs:level":"locality",
+    "qs:loc":"Dorm\u00e1nd",
+    "qs:loc_alt":"Dormand",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1162d758-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":721290,
+        "gp:id":805596,
+        "qs:id":939466,
+        "wd:id":"Q909120"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e8340253eba4bf60517e0968632656bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784721,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101784721,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514447980,
+    "wof:name":"Dorm\u00e1nd",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41044989178226,
+    47.71400149241197,
+    20.42462180994391,
+    47.72899587785298
+],
+  "geometry": {"coordinates":[[[20.41623329965358,47.72874301254831],[20.41568752105582,47.72607382348917],[20.41833075524715,47.72582090964431],[20.41796685389721,47.72404145629127],[20.41928841755788,47.72391498053554],[20.41892450380681,47.7221355289617],[20.42288902564547,47.72175602130937],[20.4223430147668,47.71908686056844],[20.42366444338438,47.71896033375538],[20.4233004317955,47.71718089421904],[20.42462180994391,47.71705435654167],[20.42425778597578,47.71527491878271],[20.42293645239135,47.71540145139875],[20.42275447475714,47.71451172875726],[20.41879050545538,47.71489122346418],[20.41860860270742,47.71400149241197],[20.41728729009361,47.71412795626827],[20.41746917055985,47.71501768984967],[20.41614782976819,47.71514414030969],[20.41632969599323,47.71603387559958],[20.41500832702309,47.71616031266291],[20.41519017900436,47.71705004966111],[20.41386878185443,47.7171764733273],[20.41423246536601,47.71895594992026],[20.41291101774908,47.7190823627169],[20.41309284927689,47.71997210231183],[20.41044989178226,47.72022488518058],[20.41172262552891,47.7264530747866],[20.41304426326911,47.72632667361688],[20.41358990808914,47.72899587785298],[20.41623329965358,47.72874301254831]]],"type":"Polygon"}
+}

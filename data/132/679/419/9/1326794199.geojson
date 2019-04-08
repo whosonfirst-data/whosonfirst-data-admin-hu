@@ -1,0 +1,71 @@
+{
+  "id": 1326794199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46419,46.48927,17.46419,46.48927",
+    "geom:latitude":46.48927,
+    "geom:longitude":17.46419,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Busvar",
+    "gn:country_code":"HU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054559,
+    "gn:latitude":46.48927,
+    "gn:longitude":17.46419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fasv\u00e1r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fasv\u00e1ri \u0150rh\u00e1z",
+        "B\u00fasv\u00e1r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054559
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"39b6d11d6cdbdf4c92333c19031d0725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1326794199,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1326794199,
+    "wof:lastmodified":1537626261,
+    "wof:name":"Busvar",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46419,
+    46.48927,
+    17.46419,
+    46.48927
+],
+  "geometry": {"coordinates":[17.46419,46.48927],"type":"Point"}
+}

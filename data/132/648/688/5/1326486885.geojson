@@ -1,0 +1,71 @@
+{
+  "id": 1326486885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06514,47.20807,17.06514,47.20807",
+    "geom:latitude":47.20807,
+    "geom:longitude":17.06514,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Vasarosmiske",
+    "gn:country_code":"HU",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043077,
+    "gn:latitude":47.20807,
+    "gn:longitude":17.06514,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"V\u00e1s\u00e1rosmiske",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043077,
+        "wk:page":"V%C3%A1s%C3%A1rosmiske"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"99f235dc43b4aa1ed558a425deb3d67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1326486885,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1326486885,
+    "wof:lastmodified":1537626204,
+    "wof:name":"Vasarosmiske",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06514,
+    47.20807,
+    17.06514,
+    47.20807
+],
+  "geometry": {"coordinates":[17.06514,47.20807],"type":"Point"}
+}

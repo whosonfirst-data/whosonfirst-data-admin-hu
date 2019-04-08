@@ -1,0 +1,122 @@
+{
+  "id": 101790439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:bbox":"19.6760258465,46.3219250206,19.693903665,46.3345738287",
+    "geom:latitude":46.328399,
+    "geom:longitude":19.685134,
+    "iso:country":"HU",
+    "lbl:latitude":46.329161,
+    "lbl:longitude":19.684525,
+    "mps:latitude":46.329161,
+    "mps:longitude":19.684525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:fra_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:hrv_x_preferred":[
+        "Mirge\u0161"
+    ],
+    "name:hun_x_colloquial":[
+        "Pustomerges",
+        "Puszfamerges",
+        "Pusztamerges"
+    ],
+    "name:hun_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:hun_x_variant":[
+        "Pustom\u00e9rges",
+        "Puszfam\u00e9rges"
+    ],
+    "name:ita_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:msa_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:nld_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:ron_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:slk_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:slv_x_preferred":[
+        "Pusztam\u00e9rges"
+    ],
+    "name:unk_x_variant":[
+        "Pustom\u00e9rges"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Csongr\u00e1d",
+    "qs:a1r":"0D\u00e9l-Alf\u00f6ld",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Pusztam\u00e9rges",
+    "qs:la_lc":"*HU70636050635",
+    "qs:level":"locality",
+    "qs:loc":"Pusztam\u00e9rges",
+    "qs:loc_alt":"Pusztamerges",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11644eee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3046095,
+        "gp:id":814105,
+        "qs:id":1144083,
+        "wd:id":"Q979243",
+        "wk:page":"Pusztam\u00e9rges"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"36267330b7a3aef05c08a68d16bb9485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790439,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":101790439,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527641597,
+    "wof:name":"Pusztam\u00e9rges",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.67602584647858,
+    46.32192502060047,
+    19.69390366504723,
+    46.33457382869545
+],
+  "geometry": {"coordinates":[[[19.68344251879682,46.33433963709422],[19.68328023281782,46.33344774491883],[19.6845689346278,46.3333306281346],[19.68440663467214,46.33243873738297],[19.68698398111508,46.33220446184941],[19.68682164622231,46.3313125747768],[19.68811029085634,46.33119541602849],[19.68794794199079,46.33030353037975],[19.68923656058007,46.33018635839619],[19.68907419774382,46.32929447417177],[19.69165137774905,46.32906008824455],[19.69148897998588,46.3281682077004],[19.69277754140256,46.32805099375781],[19.69261512967302,46.32715911463811],[19.69390366504723,46.32704188746243],[19.69341640893583,46.32436625188052],[19.69212793642441,46.3244834722874],[19.69196555265364,46.32359158983985],[19.69067709600984,46.32370879250254],[19.69035239133655,46.32192502060047],[19.68906397151238,46.32204220326406],[19.6892262994038,46.3229340918864],[19.68664940260419,46.32316841525932],[19.68681169557652,46.32406030755982],[19.68423473654224,46.32429457348803],[19.68439699459122,46.3251864694659],[19.68310848649776,46.32530358145095],[19.68327073057475,46.3261954788515],[19.68069365723392,46.32642966086109],[19.68085586637994,46.32732156193799],[19.67827873080478,46.32755568649526],[19.67844090501609,46.32844759124799],[19.67715230865065,46.32856463254427],[19.67731446888274,46.32945653871911],[19.67602584647858,46.32957356677747],[19.67635014596038,46.33135738114146],[19.67763881028782,46.33124034857735],[19.67780099146194,46.33213225226052],[19.6790896716721,46.33201520195155],[19.6794140968932,46.33379900231938],[19.68070281394984,46.3336819320113],[19.68086505799982,46.33457382869545],[19.68344251879682,46.33433963709422]]],"type":"Polygon"}
+}

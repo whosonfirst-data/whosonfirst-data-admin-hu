@@ -1,0 +1,66 @@
+{
+  "id": 1209580399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1537,46.90407,20.1537,46.90407",
+    "geom:latitude":46.90407,
+    "geom:longitude":20.1537,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tiszainoka",
+    "gn:country_code":"HU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":714761,
+    "gn:latitude":46.90407,
+    "gn:longitude":20.1537,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiszainoka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiszamoka",
+        "Tiszainoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714761,
+        "wk:page":"Tiszainoka"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e70f2c57206187adce10949438cfe74c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209580399
+        }
+    ],
+    "wof:id":1209580399,
+    "wof:lastmodified":1537626165,
+    "wof:name":"Tiszainoka",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1537,
+    46.90407,
+    20.1537,
+    46.90407
+],
+  "geometry": {"coordinates":[20.1537,46.90407],"type":"Point"}
+}

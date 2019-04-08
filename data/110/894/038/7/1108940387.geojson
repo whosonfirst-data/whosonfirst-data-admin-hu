@@ -1,0 +1,115 @@
+{
+  "id": 1108940387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9963742058,47.5008946846,18.9963742058,47.5008946846",
+    "geom:latitude":47.500895,
+    "geom:longitude":18.996374,
+    "iso:country":"HU",
+    "lbl:latitude":47.500895,
+    "lbl:longitude":18.996374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:chi_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e8c\u533a"
+    ],
+    "name:dut_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:eng_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:epo_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:fre_x_preferred":[
+        "12e arrondissement de Budapest"
+    ],
+    "name:ger_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8/\u05d4\u05d2\u05d5\u05d5\u05d9\u05d3\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Hegyvid\u00e9kLL"
+    ],
+    "name:hun_x_variant":[
+        "XII. ker\u00fclet",
+        "Budapest XII. ker\u00fclete"
+    ],
+    "name:ita_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:pol_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:rum_x_preferred":[
+        "Hegyvid\u00e9k"
+    ],
+    "name:slo_x_preferred":[
+        "XII. obvod"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 XII \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442/\u0425\u0435\u0491\u0456\u0432\u0456\u0434\u0435\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn XII"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q974038"
+    },
+    "wof:country":"HU",
+    "wof:created":1491361717,
+    "wof:geomhash":"9f6712f96e6e034040cd2ca6b1088b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940387,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940387,
+    "wof:lastmodified":1514448061,
+    "wof:name":"Hegyvidek",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99637420582275,
+    47.50089468460747,
+    18.99637420582275,
+    47.50089468460747
+],
+  "geometry": {"coordinates":[18.99637420582275,47.50089468460747],"type":"Point"}
+}

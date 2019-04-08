@@ -1,0 +1,83 @@
+{
+  "id": 1126094169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01667,47.65,19.01667,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":19.01667,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":4861,
+    "gn:population":4861,
+    "iso:country":"HU",
+    "lbl:latitude":47.65,
+    "lbl:longitude":19.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Nagykov\u00e1csi Part"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3047646,
+    "qs_pg:gn_pop":4861,
+    "qs_pg:name":"Nagykov\u00e1csi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1042858,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85684899,
+        102191581,
+        85633237,
+        404227489,
+        101754533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047646,
+        "qs_pg:id":1042858
+    },
+    "wof:country":"HU",
+    "wof:created":1497314794,
+    "wof:geomhash":"9aa9492651ae57b00547b5ca52af442d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101754533,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1126094169,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1126094169,
+    "wof:lastmodified":1509411801,
+    "wof:name":"Nagykov\u00e1csi",
+    "wof:parent_id":101754533,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4861,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01667,
+    47.65,
+    19.01667,
+    47.65
+],
+  "geometry": {"coordinates":[19.01667,47.65],"type":"Point"}
+}

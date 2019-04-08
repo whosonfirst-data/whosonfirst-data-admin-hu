@@ -1,0 +1,67 @@
+{
+  "id": 1310090887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41667,47.08333,18.41667,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":18.41667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Langtanya",
+    "gn:country_code":"HU",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048971,
+    "gn:latitude":47.08333,
+    "gn:longitude":18.41667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"L\u00e1ngtanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048971
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7e8780a0df8bd97e5b9bc7e32952ea4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310090887,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1310090887,
+    "wof:lastmodified":1537016910,
+    "wof:name":"Langtanya",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41667,
+    47.08333,
+    18.41667,
+    47.08333
+],
+  "geometry": {"coordinates":[18.41667,47.08333],"type":"Point"}
+}

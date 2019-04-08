@@ -1,0 +1,113 @@
+{
+  "id": 85901155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":13695456.996979,
+    "geom:bbox":"20.151672,46.711751,20.151672,46.711751",
+    "geom:latitude":46.711751,
+    "geom:longitude":20.151672,
+    "gn:latitude":46.71667,
+    "gn:longitude":20.15,
+    "iso:country":"HU",
+    "lbl:latitude":46.711751,
+    "lbl:longitude":20.151672,
+    "mps:latitude":46.709254,
+    "mps:longitude":20.150762,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Kisret"
+    ],
+    "name:hun_x_preferred":[
+        "Kisr\u00e9t"
+    ],
+    "name:unk_x_variant":[
+        "Kisr\u00e9t"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":721592,
+    "qs:gn_nam_loc":"Csongr\u00e1d, Csongr\u00e1d, Csongr\u00e1d, HU",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Kisr\u00e9t",
+    "qs:local_max":57,
+    "qs:local_sum":57,
+    "qs:localhoods":1,
+    "qs:name":"Kisr\u00e9t",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Csongr\u00e1d",
+    "qs:name_adm2":"Csongr\u00e1d",
+    "qs:name_local":"Csongr\u00e1d",
+    "qs:photo_max":11,
+    "qs:photo_sum":57,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577916,
+    "qs:woe_adm2":12593814,
+    "qs:woe_lau":0,
+    "qs:woe_local":805118,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101789219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718836,
+        "gp:id":809953,
+        "qs:id":983544,
+        "qs_pg:id":983544
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"9065405ad3086bd094b437b733e21d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101789219,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901155,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":85901155,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932444,
+    "wof:name":"Kisr\u00e9t",
+    "wof:parent_id":101789219,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.151672,
+    46.711751,
+    20.151672,
+    46.711751
+],
+  "geometry": {"coordinates":[20.151672,46.711751],"type":"Point"}
+}

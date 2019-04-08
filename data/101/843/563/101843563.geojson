@@ -1,0 +1,124 @@
+{
+  "id": 101843563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":548418.290818,
+    "geom:bbox":"20.048343509,48.0753639771,20.0662733597,48.0868680072",
+    "geom:latitude":48.080263,
+    "geom:longitude":20.054483,
+    "iso:country":"HU",
+    "lbl:latitude":48.080165,
+    "lbl:longitude":20.053125,
+    "mps:latitude":48.080165,
+    "mps:longitude":20.053125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4f0a\u4ec0\u6ed5\u8fc8\u6cfd\u8036"
+    ],
+    "name:cze_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:dut_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:eng_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:epo_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:fre_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:ger_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:hun_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:ita_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:may_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:nan_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:rum_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:slo_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:slv_x_preferred":[
+        "Istenmezeje"
+    ],
+    "name:vie_x_preferred":[
+        "Istenmezeje"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Istenmezeje",
+    "qs:la_lc":"*HU51040061007",
+    "qs:level":"locality",
+    "qs:loc":"Istenmezeje",
+    "qs:loc_alt":"Istenmezeje",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11634c60-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":719739,
+        "gp:id":808388,
+        "qs:id":1269696,
+        "wd:id":"Q577047"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6b8d0bb0265234b64a88aca2d43a84d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101843563,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101843563,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514448083,
+    "wof:name":"Istenmezeje",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04834350901388,
+    48.07536397708327,
+    20.06627335969574,
+    48.0868680072029
+],
+  "geometry": {"coordinates":[[[20.06511969861674,48.07815700327507],[20.06494200558416,48.07726677200361],[20.06627335969574,48.07714443700269],[20.0659179518882,48.07536397708327],[20.06458664328176,48.07548630713637],[20.06476432047259,48.07637653995732],[20.06343298329466,48.07649885641246],[20.06361064565237,48.07738909093212],[20.05961653094619,48.07775595128243],[20.05943893685139,48.07686570934356],[20.05544483805869,48.0772324176221],[20.05526732014454,48.07634216749318],[20.05393596500551,48.07646436896897],[20.05375847775946,48.0755741155948],[20.05242713956193,48.07569629852719],[20.05295955677178,48.07836706374098],[20.04896530250028,48.07873353833605],[20.04967502977104,48.0822945774384],[20.04834350901388,48.08241671336998],[20.04923073229133,48.0868680072029],[20.05056236687403,48.08674585891799],[20.05038488362726,48.08585560416839],[20.05171648962835,48.08573344227818],[20.05153899152947,48.08484318922649],[20.05420214055505,48.0845988221605],[20.05366955716181,48.08192807319381],[20.05500105466308,48.08180587296289],[20.05482351993447,48.08091562423181],[20.05615498885982,48.08079341039809],[20.05597743928672,48.07990316336503],[20.05997174288819,48.07953643283713],[20.05979413295802,48.07864619244691],[20.06511969861674,48.07815700327507]]],"type":"Polygon"}
+}

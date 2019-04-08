@@ -1,0 +1,122 @@
+{
+  "id": 101789519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:bbox":"19.0788773348,47.1097266142,19.1011259337,47.1179793647",
+    "geom:latitude":47.113907,
+    "geom:longitude":19.087986,
+    "iso:country":"HU",
+    "lbl:latitude":47.113491,
+    "lbl:longitude":19.084109,
+    "mps:latitude":47.113491,
+    "mps:longitude":19.084109,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Apaj"
+    ],
+    "name:epo_x_preferred":[
+        "Apaj"
+    ],
+    "name:fra_x_preferred":[
+        "Apaj"
+    ],
+    "name:hun_x_preferred":[
+        "Apaj"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u0561\u0575"
+    ],
+    "name:ita_x_preferred":[
+        "Apaj"
+    ],
+    "name:msa_x_preferred":[
+        "Apaj"
+    ],
+    "name:nld_x_preferred":[
+        "Apaj"
+    ],
+    "name:ron_x_preferred":[
+        "Apaj"
+    ],
+    "name:slk_x_preferred":[
+        "Apaj"
+    ],
+    "name:slv_x_preferred":[
+        "Apaj"
+    ],
+    "name:vie_x_preferred":[
+        "Apaj"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Apaj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u4fdd\u4f0a"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Pest",
+    "qs:a1r":"0K\u00f6z\u00e9p-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"D\u00f6ms\u00f6d",
+    "qs:la_lc":"*HU11343072964",
+    "qs:level":"locality",
+    "qs:loc":"Apaj",
+    "qs:loc_alt":"Apaj",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":271,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11625fa8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3055914,
+        "gp:id":802876,
+        "qs:id":216285,
+        "wd:id":"Q773290",
+        "wk:page":"Apaj"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4ac2781bfdbdd13fb0397eda617adf9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101789519,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":101789519,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527715897,
+    "wof:name":"Apaj",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07887733477293,
+    47.10972661421067,
+    19.101125933719,
+    47.11797936472084
+],
+  "geometry": {"coordinates":[[[19.08588883881714,47.11786921595342],[19.08573294906074,47.1169767237559],[19.08704174889601,47.11686656137664],[19.08672994611186,47.11508157907741],[19.09196492057998,47.11464078910734],[19.09212090604524,47.11553327194594],[19.09604715010403,47.11520250724533],[19.09620320801196,47.11609498281734],[19.09882072282608,47.11587438976278],[19.09913294662653,47.11765932996536],[19.10044174028394,47.11754900541814],[19.09981723253816,47.11397913070994],[19.101125933719,47.11386879907673],[19.10096980200132,47.11297633069944],[19.09442635549493,47.11352782019014],[19.09427033994899,47.1126353401973],[19.09165297013499,47.1128558211833],[19.09149700515394,47.11196333609746],[19.08887965911504,47.11218374961709],[19.08856783710291,47.11039876851322],[19.08595055857995,47.11061911022716],[19.08579470154331,47.10972661421067],[19.08186881196156,47.1100570019193],[19.08202460339675,47.11094950444487],[19.08071594169883,47.11105960428972],[19.08087171808529,47.11195210823598],[19.07956302953431,47.11206219446893],[19.08018611579405,47.11563221144695],[19.07887733477293,47.11574229057413],[19.07903310151357,47.11663479511725],[19.08034190440844,47.11652471382087],[19.08049769984382,47.11741721544666],[19.08442414423729,47.11708687035264],[19.08458001211909,47.11797936472084],[19.08588883881714,47.11786921595342]]],"type":"Polygon"}
+}

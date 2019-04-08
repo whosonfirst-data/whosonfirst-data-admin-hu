@@ -1,0 +1,91 @@
+{
+  "id": 1125887181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28976,46.67269,17.28976,46.67269",
+    "geom:latitude":46.67269,
+    "geom:longitude":17.28976,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":46.67269,
+    "lbl:longitude":17.28976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Batty\u00e1nyimajor"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3055283,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Batty\u00e1npuszta",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Somogy",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":910516,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":803578,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Somogy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055283,
+        "gp:id":803578,
+        "qs_pg:id":910516
+    },
+    "wof:country":"HU",
+    "wof:created":1497295135,
+    "wof:geomhash":"9e230c8d084f1f1f6320d6e6133d1464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125887181,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1125887181,
+    "wof:lastmodified":1509398588,
+    "wof:name":"Batty\u00e1npuszta",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28976,
+    46.67269,
+    17.28976,
+    46.67269
+],
+  "geometry": {"coordinates":[17.28976,46.67269],"type":"Point"}
+}

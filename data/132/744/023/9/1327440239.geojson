@@ -1,0 +1,68 @@
+{
+  "id": 1327440239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17769,45.90237,18.17769,45.90237",
+    "geom:latitude":45.90237,
+    "geom:longitude":18.17769,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Szava",
+    "gn:country_code":"HU",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044825,
+    "gn:latitude":45.90237,
+    "gn:longitude":18.17769,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044825,
+        "wk:page":"Szava"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"396b79050c2514a015e63f82394dbe64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327440239,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1327440239,
+    "wof:lastmodified":1537563369,
+    "wof:name":"Szava",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17769,
+    45.90237,
+    18.17769,
+    45.90237
+],
+  "geometry": {"coordinates":[18.17769,45.90237],"type":"Point"}
+}

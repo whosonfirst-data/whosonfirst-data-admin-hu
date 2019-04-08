@@ -1,0 +1,74 @@
+{
+  "id": 1343932349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85,47.38333,20.85,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":20.85,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Berekfurdo",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722341,
+    "gn:latitude":47.38333,
+    "gn:longitude":20.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Berekf\u00fcrd\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karcagigy\u00f3gyf\u00fcrd\u0151",
+        "Berekf\u00fcrd\u0151telep",
+        "Berekf\u00fcrd\u0151"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722341,
+        "wk:page":"Berekf%C3%BCrd%C5%91"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2c8cb38db35cd0932481390c2334c051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343932349,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1343932349,
+    "wof:lastmodified":1537626195,
+    "wof:name":"Berekfurdo",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85,
+    47.38333,
+    20.85,
+    47.38333
+],
+  "geometry": {"coordinates":[20.85,47.38333],"type":"Point"}
+}

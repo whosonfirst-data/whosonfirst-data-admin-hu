@@ -1,0 +1,113 @@
+{
+  "id": 85901101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11491796.990728,
+    "geom:bbox":"20.259596,46.653756,20.259596,46.653756",
+    "geom:latitude":46.653756,
+    "geom:longitude":20.259596,
+    "gn:latitude":46.65,
+    "gn:longitude":20.26667,
+    "iso:country":"HU",
+    "lbl:latitude":46.653756,
+    "lbl:longitude":20.259596,
+    "mps:latitude":46.657416,
+    "mps:longitude":20.263396,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Felsoret"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151r\u00e9t"
+    ],
+    "name:unk_x_variant":[
+        "Fels\u0151r\u00e9t"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":715338,
+    "qs:gn_nam_loc":"Szentes, Szentes, Csongr\u00e1d, HU",
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Fels\u0151r\u00e9t",
+    "qs:local_max":417,
+    "qs:local_sum":419,
+    "qs:localhoods":2,
+    "qs:name":"Fels\u0151r\u00e9t",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Csongr\u00e1d",
+    "qs:name_adm2":"Szentes",
+    "qs:name_local":"Szentes",
+    "qs:photo_max":62,
+    "qs:photo_sum":417,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577916,
+    "qs:woe_adm2":12593635,
+    "qs:woe_lau":0,
+    "qs:woe_local":815625,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101790385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720874,
+        "gp:id":806464,
+        "qs:id":211567,
+        "qs_pg:id":211567
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a3aa182edf14780707aa8a49b6b41341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790385,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901101,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":85901101,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932434,
+    "wof:name":"Fels\u0151r\u00e9t",
+    "wof:parent_id":101790385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.259596,
+    46.653756,
+    20.259596,
+    46.653756
+],
+  "geometry": {"coordinates":[20.259596,46.653756],"type":"Point"}
+}

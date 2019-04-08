@@ -1,0 +1,71 @@
+{
+  "id": 1309712459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03385,48.37519,22.03385,48.37519",
+    "geom:latitude":48.37519,
+    "geom:longitude":22.03385,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Damoc",
+    "gn:country_code":"HU",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721507,
+    "gn:latitude":48.37519,
+    "gn:longitude":22.03385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e1m\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e1m\u00f3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721507,
+        "wk:page":"D%C3%A1m%C3%B3c"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bed85831762c48f889ca2908f26e3d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309712459,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1309712459,
+    "wof:lastmodified":1537626189,
+    "wof:name":"Damoc",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03385,
+    48.37519,
+    22.03385,
+    48.37519
+],
+  "geometry": {"coordinates":[22.03385,48.37519],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343351243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98138,47.55804,16.98138,47.55804",
+    "geom:latitude":47.55804,
+    "geom:longitude":16.98138,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Csermajor",
+    "gn:country_code":"HU",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054179,
+    "gn:latitude":47.55804,
+    "gn:longitude":16.98138,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Csermajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054179
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2c89cd6db91cb77ff83ed79d74fcb507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343351243,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1343351243,
+    "wof:lastmodified":1536904035,
+    "wof:name":"Csermajor",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98138,
+    47.55804000000001,
+    16.98138,
+    47.55804000000001
+],
+  "geometry": {"coordinates":[16.98138,47.55804000000001],"type":"Point"}
+}

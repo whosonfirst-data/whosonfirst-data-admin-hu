@@ -1,0 +1,141 @@
+{
+  "id": 101790587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000219,
+    "geom:area_square_m":1865334.03426,
+    "geom:bbox":"20.8919756615,46.4512462046,20.9153746618,46.4711117448",
+    "geom:latitude":46.460024,
+    "geom:longitude":20.90276,
+    "iso:country":"HU",
+    "lbl:latitude":46.460286,
+    "lbl:longitude":20.900811,
+    "mps:latitude":46.460286,
+    "mps:longitude":20.900811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7459\u5409\u73ed\u6d77\u6770\u4ec0"
+    ],
+    "name:dut_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:eng_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:epo_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:fra_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:fre_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:hun_x_colloquial":[
+        "Nagybanhegyes"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:ita_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:may_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:msa_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:nan_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:nld_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:pol_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:ron_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:rum_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:slk_x_preferred":[
+        "Slovensk\u00fd B\u00e1nhede\u0161"
+    ],
+    "name:slo_x_preferred":[
+        "Slovensk\u00fd B\u00e1nhede\u0161"
+    ],
+    "name:slv_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "name:vie_x_preferred":[
+        "Nagyb\u00e1nhegyes"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*B\u00e9k\u00e9s",
+    "qs:a1r":"0D\u00e9l-Alf\u00f6ld",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Nagyb\u00e1nhegyes",
+    "qs:la_lc":"*HU70434022602",
+    "qs:level":"locality",
+    "qs:loc":"Nagyb\u00e1nhegyes",
+    "qs:loc_alt":"Nagybanhegyes",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684875,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1163ea8a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":717434,
+        "gp:id":812276,
+        "qs:id":915122,
+        "wd:id":"Q772661",
+        "wk:page":"Nagyb\u00e1nhegyes"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c19d59b06d4f5881e417b6a99377ec3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790587,
+            "macroregion_id":404227487,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":101790587,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527641599,
+    "wof:name":"Nagyb\u00e1nhegyes",
+    "wof:parent_id":85684875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.89197566146646,
+    46.4512462046456,
+    20.91537466180876,
+    46.47111174480227
+],
+  "geometry": {"coordinates":[[[20.8998897061195,46.47097993967424],[20.89970637676072,46.47009046486681],[20.90099603184495,46.46995864680355],[20.90044602848189,46.46729022449585],[20.90302519611691,46.46702655719207],[20.90284183568963,46.46613708633618],[20.90413139000611,46.46600523201312],[20.90394801659437,46.46511576278067],[20.90523754428455,46.46498389552488],[20.90468740878561,46.46231548994001],[20.90726632166547,46.46205172426033],[20.90708291720654,46.46116225897879],[20.90966176534459,46.4608984364898],[20.90947832703614,46.46000897537471],[20.91076772160932,46.45987704346362],[20.91058427032618,46.45898758397232],[20.91316300048197,46.45872367881861],[20.91279603812939,46.45694476725015],[20.91537466180876,46.45668081038332],[20.91482415231263,46.45401245139266],[20.91353490594645,46.4541444299299],[20.91335143944133,46.45325497254822],[20.91206220818998,46.45338693307104],[20.91187877044553,46.45249747222562],[20.91058955430975,46.45262941473464],[20.91040614532341,46.45173995042603],[20.90653852502578,46.4521356775013],[20.906355186523,46.4512462046456],[20.90248757711089,46.45164178486061],[20.90303742850716,46.45431022354285],[20.90174815128489,46.45444206029629],[20.90193142999465,46.45533154055926],[20.89806350126463,46.4557269656114],[20.8982467252556,46.45661645257746],[20.89566803565049,46.45687999699771],[20.89585122578677,46.45776948812522],[20.89456185150033,46.45790123966589],[20.89529460741369,46.46145920514869],[20.89400514389001,46.46159095137557],[20.89418833170834,46.46248044298966],[20.89289884156597,46.46261217628182],[20.89326519910668,46.46439116183518],[20.89197566146646,46.46452288473176],[20.89234200879372,46.46630187169217],[20.89363158819447,46.46617014371577],[20.89399800883211,46.46794912192371],[20.89528762425226,46.46781737339074],[20.89547086728652,46.46870685857704],[20.89676049784441,46.46857509202664],[20.89712704935022,46.47035405456268],[20.89841671592887,46.47022226745344],[20.89860002440344,46.47111174480227],[20.8998897061195,46.47097993967424]]],"type":"Polygon"}
+}

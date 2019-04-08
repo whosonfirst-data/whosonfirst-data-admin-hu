@@ -1,0 +1,71 @@
+{
+  "id": 1242648915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52409,46.61626,17.52409,46.61626",
+    "geom:latitude":46.61626,
+    "geom:longitude":17.52409,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Taska",
+    "gn:country_code":"HU",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044094,
+    "gn:latitude":46.61626,
+    "gn:longitude":17.52409,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e1ska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e1ska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044094,
+        "wk:page":"T%C3%A1ska"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"881ff165725ff4909ca4752e6b6f8ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242648915,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1242648915,
+    "wof:lastmodified":1537626207,
+    "wof:name":"Taska",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52409,
+    46.61626,
+    17.52409,
+    46.61626
+],
+  "geometry": {"coordinates":[17.52409,46.61626],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260046195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46429,48.12372,21.46429,48.12372",
+    "geom:latitude":48.12372,
+    "geom:longitude":21.46429,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Orhegytanya",
+    "gn:country_code":"HU",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":716753,
+    "gn:latitude":48.12372,
+    "gn:longitude":21.46429,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"\u0150rhegytanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":716753
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2e483cedaec10d6efd6fdfe8cbfda21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260046195,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1260046195,
+    "wof:lastmodified":1537040176,
+    "wof:name":"Orhegytanya",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46429,
+    48.12372,
+    21.46429,
+    48.12372
+],
+  "geometry": {"coordinates":[21.46429,48.12372],"type":"Point"}
+}

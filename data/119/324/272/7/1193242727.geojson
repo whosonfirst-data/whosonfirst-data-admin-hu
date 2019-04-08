@@ -1,0 +1,72 @@
+{
+  "id": 1193242727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38333,46.38333,18.38333,46.38333",
+    "geom:latitude":46.38333,
+    "geom:longitude":18.38333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Celpuszta",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054531,
+    "gn:latitude":46.38333,
+    "gn:longitude":18.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"C\u00e9lpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00e9l",
+        "C\u00e9lpuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054531
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"dcbf4cfbb7a1f8e9a25784c265c30628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1193242727,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1193242727,
+    "wof:lastmodified":1537626260,
+    "wof:name":"Celpuszta",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38333,
+    46.38333,
+    18.38333,
+    46.38333
+],
+  "geometry": {"coordinates":[18.38333,46.38333],"type":"Point"}
+}

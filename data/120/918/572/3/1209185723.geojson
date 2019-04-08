@@ -1,0 +1,61 @@
+{
+  "id": 1209185723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95,46.53333,17.95,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":17.95,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vincetanya",
+    "gn:country_code":"HU",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042852,
+    "gn:latitude":46.53333,
+    "gn:longitude":17.95,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Vincetanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042852
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5931aade0c0b3ecd1c7d8a1de8a1ecc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209185723
+        }
+    ],
+    "wof:id":1209185723,
+    "wof:lastmodified":1536295108,
+    "wof:name":"Vincetanya",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95,
+    46.53333,
+    17.95,
+    46.53333
+],
+  "geometry": {"coordinates":[17.95,46.53333],"type":"Point"}
+}

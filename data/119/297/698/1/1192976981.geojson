@@ -1,0 +1,67 @@
+{
+  "id": 1192976981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05,47.33333,17.05,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":17.05,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Lorinctanya",
+    "gn:country_code":"HU",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048721,
+    "gn:latitude":47.33333,
+    "gn:longitude":17.05,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"L\u0151rinctanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048721
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"54cc746efa9189f0572a8f35827f1bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1192976981,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1192976981,
+    "wof:lastmodified":1536372222,
+    "wof:name":"Lorinctanya",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05,
+    47.33333,
+    17.05,
+    47.33333
+],
+  "geometry": {"coordinates":[17.05,47.33333],"type":"Point"}
+}

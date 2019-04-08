@@ -1,0 +1,67 @@
+{
+  "id": 1276718037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.60535,47.42165,16.60535,47.42165",
+    "geom:latitude":47.42165,
+    "geom:longitude":16.60535,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kocsis Tanya",
+    "gn:country_code":"HU",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8521522,
+    "gn:latitude":47.42165,
+    "gn:longitude":16.60535,
+    "gn:modification_date":"2013-04-25",
+    "gn:name":"Kocsis Tanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521522
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ba2f72cdc3cc0e7328cc602daabf2ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276718037,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1276718037,
+    "wof:lastmodified":1536760683,
+    "wof:name":"Kocsis Tanya",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.60535,
+    47.42165,
+    16.60535,
+    47.42165
+],
+  "geometry": {"coordinates":[16.60535,47.42165],"type":"Point"}
+}

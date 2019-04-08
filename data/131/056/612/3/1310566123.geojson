@@ -1,0 +1,71 @@
+{
+  "id": 1310566123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70353,47.54657,19.70353,47.54657",
+    "geom:latitude":47.54657,
+    "geom:longitude":19.70353,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Csonthalom",
+    "gn:country_code":"HU",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053945,
+    "gn:latitude":47.54657,
+    "gn:longitude":19.70353,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csonthalom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csonthalomd\u016fl\u0151",
+        "Csonthalom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053945
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4dbf693796e3e5428b1ded59a257c79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310566123,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1310566123,
+    "wof:lastmodified":1537626254,
+    "wof:name":"Csonthalom",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70353,
+    47.54657,
+    19.70353,
+    47.54657
+],
+  "geometry": {"coordinates":[19.70353,47.54657],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243557601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83333,46.05,18.83333,46.05",
+    "geom:latitude":46.05,
+    "geom:longitude":18.83333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Csanadikert",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054407,
+    "gn:latitude":46.05,
+    "gn:longitude":18.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csan\u00e1dikert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csan\u00e1dikert Major",
+        "Csan\u00e1dikert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054407
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b296a8d71f9f172153ebd709b69a1824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243557601,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1243557601,
+    "wof:lastmodified":1537626259,
+    "wof:name":"Csanadikert",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83333,
+    46.05,
+    18.83333,
+    46.05
+],
+  "geometry": {"coordinates":[18.83333,46.05],"type":"Point"}
+}

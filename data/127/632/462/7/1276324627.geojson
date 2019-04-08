@@ -1,0 +1,67 @@
+{
+  "id": 1276324627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68333,46.8,18.68333,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":18.68333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vantsaypuszta",
+    "gn:country_code":"HU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043200,
+    "gn:latitude":46.8,
+    "gn:longitude":18.68333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Vantsaypuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043200
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"852fabf11d0dc5d66a94395fadfa7fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276324627,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1276324627,
+    "wof:lastmodified":1536790771,
+    "wof:name":"Vantsaypuszta",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68333,
+    46.8,
+    18.68333,
+    46.8
+],
+  "geometry": {"coordinates":[18.68333,46.8],"type":"Point"}
+}

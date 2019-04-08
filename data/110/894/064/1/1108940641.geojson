@@ -1,0 +1,66 @@
+{
+  "id": 1108940641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1309997084,47.4703032988,19.1309997084,47.4703032988",
+    "geom:latitude":47.470303,
+    "geom:longitude":19.131,
+    "iso:country":"HU",
+    "lbl:latitude":47.470303,
+    "lbl:longitude":19.131,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "K\u00fatt\u00f3"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361889,
+    "wof:geomhash":"23c6b3bff2e3e00881e3773a28c8f2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940641,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940641,
+    "wof:lastmodified":1497292355,
+    "wof:name":"Kutto",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1309997084349,
+    47.47030329881577,
+    19.1309997084349,
+    47.47030329881577
+],
+  "geometry": {"coordinates":[19.1309997084349,47.47030329881577],"type":"Point"}
+}

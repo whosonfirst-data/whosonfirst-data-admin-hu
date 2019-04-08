@@ -1,0 +1,71 @@
+{
+  "id": 1193252495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52913,46.46681,18.52913,46.46681",
+    "geom:latitude":46.46681,
+    "geom:longitude":18.52913,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Felsonana",
+    "gn:country_code":"HU",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052798,
+    "gn:latitude":46.46681,
+    "gn:longitude":18.52913,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Fels\u0151n\u00e1na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fels\u0151n\u00e1na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052798,
+        "wk:page":"Fels%C5%91n%C3%A1na"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"fc6206d843af14a3b65531f37fde1a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1193252495,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1193252495,
+    "wof:lastmodified":1537626246,
+    "wof:name":"Felsonana",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52913,
+    46.46681,
+    18.52913,
+    46.46681
+],
+  "geometry": {"coordinates":[18.52913,46.46681],"type":"Point"}
+}

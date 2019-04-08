@@ -1,0 +1,71 @@
+{
+  "id": 1226351143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79027,45.8756,17.79027,45.8756",
+    "geom:latitude":45.8756,
+    "geom:longitude":17.79027,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bogdasa",
+    "gn:country_code":"HU",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054891,
+    "gn:latitude":45.8756,
+    "gn:longitude":17.79027,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bogd\u00e1sa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogd\u00e1sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054891,
+        "wk:page":"Bogd%C3%A1sa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b5e9e653739e97d0ba15e093f904fb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226351143,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1226351143,
+    "wof:lastmodified":1537626264,
+    "wof:name":"Bogdasa",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79027,
+    45.8756,
+    17.79027,
+    45.8756
+],
+  "geometry": {"coordinates":[17.79027,45.8756],"type":"Point"}
+}

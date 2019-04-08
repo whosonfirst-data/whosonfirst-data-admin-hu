@@ -1,0 +1,71 @@
+{
+  "id": 1226152077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46115,46.07352,18.46115,46.07352",
+    "geom:latitude":46.07352,
+    "geom:longitude":18.46115,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Szello",
+    "gn:country_code":"HU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044731,
+    "gn:latitude":46.07352,
+    "gn:longitude":18.46115,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szell\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szell\u0151"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044731,
+        "wk:page":"Szell%C5%91"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e1d62bdfb0b0eff566f1bc5c6d3d6877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226152077,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1226152077,
+    "wof:lastmodified":1537626210,
+    "wof:name":"Szello",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46115,
+    46.07352,
+    18.46115,
+    46.07352
+],
+  "geometry": {"coordinates":[18.46115,46.07352],"type":"Point"}
+}

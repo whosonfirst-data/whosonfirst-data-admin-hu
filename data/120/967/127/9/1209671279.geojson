@@ -1,0 +1,65 @@
+{
+  "id": 1209671279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84243,46.75693,16.84243,46.75693",
+    "geom:latitude":46.75693,
+    "geom:longitude":16.84243,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Sarhida",
+    "gn:country_code":"HU",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045550,
+    "gn:latitude":46.75693,
+    "gn:longitude":16.84243,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e1rhida",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e1rhida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045550,
+        "wk:page":"S%C3%A1rhida"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7237488e004391530700ca68322c5eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209671279
+        }
+    ],
+    "wof:id":1209671279,
+    "wof:lastmodified":1537626214,
+    "wof:name":"Sarhida",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84243,
+    46.75693,
+    16.84243,
+    46.75693
+],
+  "geometry": {"coordinates":[16.84243,46.75693],"type":"Point"}
+}

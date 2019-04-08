@@ -1,0 +1,64 @@
+{
+  "id": 1209080211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75,46.75,18.75,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":18.75,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hard",
+    "gn:country_code":"HU",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049259,
+    "gn:latitude":46.75,
+    "gn:longitude":18.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6z\u00e9phard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049259
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d7d1a0c84cf811e9536ba416507e2fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209080211
+        }
+    ],
+    "wof:id":1209080211,
+    "wof:lastmodified":1537626230,
+    "wof:name":"Hard",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75,
+    46.75,
+    18.75,
+    46.75
+],
+  "geometry": {"coordinates":[18.75,46.75],"type":"Point"}
+}

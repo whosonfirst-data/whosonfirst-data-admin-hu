@@ -1,0 +1,71 @@
+{
+  "id": 1327015293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93288,46.96737,18.93288,46.96737",
+    "geom:latitude":46.96737,
+    "geom:longitude":18.93288,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"dunaujvaros",
+    "gn:country_code":"HU",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3047474,
+    "gn:latitude":46.96737,
+    "gn:longitude":18.93288,
+    "gn:modification_date":"2008-03-09",
+    "gn:name":"duna\u00fajv\u00e1ros",
+    "gn:population":3949,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047474,
+        "wk:page":"Duna%C3%BAjv%C3%A1ros"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d7a8bcf55f37a926389b3ff8a2e78a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327015293,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1327015293,
+    "wof:lastmodified":1537563378,
+    "wof:name":"dunaujvaros",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:population":3949,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93288,
+    46.96737,
+    18.93288,
+    46.96737
+],
+  "geometry": {"coordinates":[18.93288,46.96737],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226398781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80367,47.42425,16.80367,47.42425",
+    "geom:latitude":47.42425,
+    "geom:longitude":16.80367,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Iklanbereny",
+    "gn:country_code":"HU",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3051184,
+    "gn:latitude":47.42425,
+    "gn:longitude":16.80367,
+    "gn:modification_date":"2012-10-29",
+    "gn:name":"Iklanber\u00e9ny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Biernja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3051184,
+        "wk:page":"Iklanber%C3%A9ny"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"823f0b99163a6027cf0c7e117e4f8320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226398781,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1226398781,
+    "wof:lastmodified":1537626239,
+    "wof:name":"Iklanbereny",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80367,
+    47.42425,
+    16.80367,
+    47.42425
+],
+  "geometry": {"coordinates":[16.80367,47.42425],"type":"Point"}
+}

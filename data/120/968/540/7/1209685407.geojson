@@ -1,0 +1,61 @@
+{
+  "id": 1209685407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65428,47.46572,19.65428,47.46572",
+    "geom:latitude":47.46572,
+    "geom:longitude":19.65428,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rakottyas",
+    "gn:country_code":"HU",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045957,
+    "gn:latitude":47.46572,
+    "gn:longitude":19.65428,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rakotty\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045957
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"83888ab7455fc9a6cfc554a093cb1007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209685407
+        }
+    ],
+    "wof:id":1209685407,
+    "wof:lastmodified":1536279428,
+    "wof:name":"Rakottyas",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65428,
+    47.46572000000001,
+    19.65428,
+    47.46572000000001
+],
+  "geometry": {"coordinates":[19.65428,47.46572000000001],"type":"Point"}
+}

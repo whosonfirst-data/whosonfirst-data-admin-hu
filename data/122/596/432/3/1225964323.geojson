@@ -1,0 +1,67 @@
+{
+  "id": 1225964323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4105,46.75476,18.4105,46.75476",
+    "geom:latitude":46.75476,
+    "geom:longitude":18.4105,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kulapuszta",
+    "gn:country_code":"HU",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049165,
+    "gn:latitude":46.75476,
+    "gn:longitude":18.4105,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kulapuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049165
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"10279904caf17418ab4991a62ceaaaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225964323,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1225964323,
+    "wof:lastmodified":1536841502,
+    "wof:name":"Kulapuszta",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4105,
+    46.75476,
+    18.4105,
+    46.75476
+],
+  "geometry": {"coordinates":[18.4105,46.75476],"type":"Point"}
+}

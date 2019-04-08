@@ -1,0 +1,71 @@
+{
+  "id": 1327300133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60979,47.90769,22.60979,47.90769",
+    "geom:latitude":47.90769,
+    "geom:longitude":22.60979,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Szamossalyi",
+    "gn:country_code":"HU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715519,
+    "gn:latitude":47.90769,
+    "gn:longitude":22.60979,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szamoss\u00e1lyi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szamoss\u00e1lyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715519,
+        "wk:page":"Szamoss%C3%A1lyi"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5b9e0d61d69af90680c16c40af67c2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327300133,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1327300133,
+    "wof:lastmodified":1537626168,
+    "wof:name":"Szamossalyi",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60979,
+    47.90769,
+    22.60979,
+    47.90769
+],
+  "geometry": {"coordinates":[22.60979,47.90769],"type":"Point"}
+}

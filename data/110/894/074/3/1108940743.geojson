@@ -1,0 +1,63 @@
+{
+  "id": 1108940743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2225238786,47.4418468547,19.2225238786,47.4418468547",
+    "geom:latitude":47.441847,
+    "geom:longitude":19.222524,
+    "iso:country":"HU",
+    "lbl:latitude":47.441847,
+    "lbl:longitude":19.222524,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85684881,
+        102191581,
+        85633237,
+        404227489,
+        101751703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361953,
+    "wof:geomhash":"c5d78c3c228628319265265e3667fbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940743,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940743,
+    "wof:lastmodified":1492123567,
+    "wof:name":"Ferihegy",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22252387863067,
+    47.44184685470906,
+    19.22252387863067,
+    47.44184685470906
+],
+  "geometry": {"coordinates":[19.22252387863067,47.44184685470906],"type":"Point"}
+}

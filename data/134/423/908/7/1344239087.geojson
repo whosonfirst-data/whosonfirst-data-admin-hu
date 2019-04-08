@@ -1,0 +1,70 @@
+{
+  "id": 1344239087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92859,47.89172,18.92859,47.89172",
+    "geom:latitude":47.89172,
+    "geom:longitude":18.92859,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kisinoci turistahaz",
+    "gn:country_code":"HU",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3048184,
+    "gn:latitude":47.89172,
+    "gn:longitude":18.92859,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Kisin\u00f3ci turistah\u00e1z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisin\u00f3ci Mened\u00e9kh\u00e1z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048184
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ea6d3df8135c47b25851594db69bea86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344239087,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1344239087,
+    "wof:lastmodified":1537626226,
+    "wof:name":"Kisinoci turistahaz",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92859,
+    47.89172,
+    18.92859,
+    47.89172
+],
+  "geometry": {"coordinates":[18.92859,47.89172],"type":"Point"}
+}

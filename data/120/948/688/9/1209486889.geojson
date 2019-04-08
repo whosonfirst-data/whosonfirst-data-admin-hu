@@ -1,0 +1,65 @@
+{
+  "id": 1209486889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58457,46.35982,17.58457,46.35982",
+    "geom:latitude":46.35982,
+    "geom:longitude":17.58457,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lokpuszta",
+    "gn:country_code":"HU",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048734,
+    "gn:latitude":46.35982,
+    "gn:longitude":17.58457,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00f3kpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitkafalui Tany\u00e1k",
+        "L\u00f3kpuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048734
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"86e8819a7bb0015ed3cab4ecaf70b40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209486889
+        }
+    ],
+    "wof:id":1209486889,
+    "wof:lastmodified":1537626229,
+    "wof:name":"Lokpuszta",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58457000000001,
+    46.35982,
+    17.58457000000001,
+    46.35982
+],
+  "geometry": {"coordinates":[17.58457000000001,46.35982],"type":"Point"}
+}

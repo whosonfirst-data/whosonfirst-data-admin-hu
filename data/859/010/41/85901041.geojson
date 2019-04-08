@@ -1,0 +1,122 @@
+{
+  "id": 85901041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15214945.512056,
+    "geom:bbox":"20.143048,46.235633,20.143048,46.235633",
+    "geom:latitude":46.235633,
+    "geom:longitude":20.143048,
+    "gn:latitude":46.23333,
+    "gn:longitude":20.13333,
+    "iso:country":"HU",
+    "lbl:latitude":46.235633,
+    "lbl:longitude":20.143048,
+    "mps:latitude":46.230225,
+    "mps:longitude":20.131993,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:hun_x_colloquial":[
+        "Alsovaros",
+        "Alsovarosi Feketefoeldek",
+        "Alsovarosi Feketefoldek",
+        "Alsovarosi Godrok",
+        "Alsovarosi Goedroek"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3v\u00e1ros"
+    ],
+    "name:hun_x_variant":[
+        "Als\u00f3v\u00e1rosi Feketef\u00f6ldek",
+        "Als\u00f3v\u00e1rosi G\u00f6dr\u00f6k"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f3v\u00e1rosi G\u00f6dr\u00f6k",
+        "Als\u00f3v\u00e1ros"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":715429,
+    "qs:gn_nam_loc":"Szeged, Szeged, Szeged, HU",
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"Als\u00f3v\u00e1ros",
+    "qs:local_max":1293,
+    "qs:local_sum":3309,
+    "qs:localhoods":5,
+    "qs:name":"Als\u00f3v\u00e1ros",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szeged",
+    "qs:name_adm2":"Szeged",
+    "qs:name_local":"Szeged",
+    "qs:photo_max":219,
+    "qs:photo_sum":785,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043624,
+    "qs:woe_adm2":12593409,
+    "qs:woe_lau":0,
+    "qs:woe_local":815498,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684855,
+        102191581,
+        85633237,
+        404227487,
+        101751681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722884,
+        "gp:id":802765,
+        "qs:id":1083279,
+        "qs_pg:id":1083279
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"97f34893206b9f91f48fc96b013731b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751681,
+            "macroregion_id":404227487,
+            "neighbourhood_id":85901041,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":85901041,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932423,
+    "wof:name":"Als\u00f3v\u00e1ros",
+    "wof:parent_id":101751681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.143048,
+    46.235633,
+    20.143048,
+    46.235633
+],
+  "geometry": {"coordinates":[20.143048,46.235633],"type":"Point"}
+}

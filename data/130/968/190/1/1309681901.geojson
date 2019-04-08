@@ -1,0 +1,67 @@
+{
+  "id": 1309681901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.37382,47.57343,19.37382,47.57343",
+    "geom:latitude":47.57343,
+    "geom:longitude":19.37382,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baromfitenyesztotelep",
+    "gn:country_code":"HU",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055328,
+    "gn:latitude":47.57343,
+    "gn:longitude":19.37382,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Baromfiteny\u00e9szt\u0151telep",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055328
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ae82db116cb41d1933e385c313da23ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309681901,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1309681901,
+    "wof:lastmodified":1536610255,
+    "wof:name":"Baromfitenyesztotelep",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.37382,
+    47.57343,
+    19.37382,
+    47.57343
+],
+  "geometry": {"coordinates":[19.37382,47.57343],"type":"Point"}
+}

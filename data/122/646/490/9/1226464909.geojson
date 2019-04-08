@@ -1,0 +1,67 @@
+{
+  "id": 1226464909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65,47.21667,18.65,47.21667",
+    "geom:latitude":47.21667,
+    "geom:longitude":18.65,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kastely",
+    "gn:country_code":"HU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050514,
+    "gn:latitude":47.21667,
+    "gn:longitude":18.65,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Kast\u00e9ly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050514
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"84f167617d0ea6f270b8766f9beaa584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226464909,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1226464909,
+    "wof:lastmodified":1536615561,
+    "wof:name":"Kastely",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65,
+    47.21667,
+    18.65,
+    47.21667
+],
+  "geometry": {"coordinates":[18.65,47.21667],"type":"Point"}
+}

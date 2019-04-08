@@ -1,0 +1,71 @@
+{
+  "id": 1310009199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40743,46.10124,18.40743,46.10124",
+    "geom:latitude":46.10124,
+    "geom:longitude":18.40743,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Szilagy",
+    "gn:country_code":"HU",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044454,
+    "gn:latitude":46.10124,
+    "gn:longitude":18.40743,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Szil\u00e1gy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szil\u00e1gy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044454,
+        "wk:page":"Szil%C3%A1gy_%28village%29"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ee590a0a1e5baad1dea843d5d97e5887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310009199,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1310009199,
+    "wof:lastmodified":1537626208,
+    "wof:name":"Szilagy",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40743,
+    46.10124,
+    18.40743,
+    46.10124
+],
+  "geometry": {"coordinates":[18.40743,46.10124],"type":"Point"}
+}

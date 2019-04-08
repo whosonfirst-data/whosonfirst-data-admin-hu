@@ -1,0 +1,66 @@
+{
+  "id": 1209403817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71667,47.56667,21.71667,47.56667",
+    "geom:latitude":47.56667,
+    "geom:longitude":21.71667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Csukasdulo",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721540,
+    "gn:latitude":47.56667,
+    "gn:longitude":21.71667,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Csuk\u00e1sd\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csuk\u00e1s Tanya",
+        "Csuk\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721540
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"84e0dae17176422440f9f60ca31c5768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209403817
+        }
+    ],
+    "wof:id":1209403817,
+    "wof:lastmodified":1537626189,
+    "wof:name":"Csukasdulo",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71667,
+    47.56667,
+    21.71667,
+    47.56667
+],
+  "geometry": {"coordinates":[21.71667,47.56667],"type":"Point"}
+}

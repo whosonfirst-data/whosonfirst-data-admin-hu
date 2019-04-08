@@ -1,0 +1,67 @@
+{
+  "id": 1276294879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9,47.9,21.9,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":21.9,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Csikoslapos",
+    "gn:country_code":"HU",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721661,
+    "gn:latitude":47.9,
+    "gn:longitude":21.9,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Csik\u00f3slapos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721661
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"76190e679b97b79cbd2e6bb3e47a4201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276294879,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1276294879,
+    "wof:lastmodified":1536829318,
+    "wof:name":"Csikoslapos",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9,
+    47.9,
+    21.9,
+    47.9
+],
+  "geometry": {"coordinates":[21.9,47.9],"type":"Point"}
+}

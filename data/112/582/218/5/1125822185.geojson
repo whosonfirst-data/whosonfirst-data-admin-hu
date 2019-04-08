@@ -1,0 +1,91 @@
+{
+  "id": 1125822185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84502,47.69332,16.84502,47.69332",
+    "geom:latitude":47.69332,
+    "geom:longitude":16.84502,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":47.69332,
+    "lbl:longitude":16.84502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mexik\u00f3puszta"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3048205,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fertoujlak",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Gy\u0151r-Moson-Sopron",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":9568,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":22528282,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Gy\u0151r-Moson-Sopron",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048205,
+        "gp:id":22528282,
+        "qs_pg:id":9568
+    },
+    "wof:country":"HU",
+    "wof:created":1497292117,
+    "wof:geomhash":"b0d5d6b76e49ff18af6b070b2bad72cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125822185,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1125822185,
+    "wof:lastmodified":1509394158,
+    "wof:name":"Fertoujlak",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84502,
+    47.69332,
+    16.84502,
+    47.69332
+],
+  "geometry": {"coordinates":[16.84502,47.69332],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343520133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34249,46.7603,16.34249,46.7603",
+    "geom:latitude":46.7603,
+    "geom:longitude":16.34249,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Magyarszombatfa",
+    "gn:country_code":"HU",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048571,
+    "gn:latitude":46.7603,
+    "gn:longitude":16.34249,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Magyarszombatfa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6d\u00f6rh\u00e1za",
+        "Magyarszombatfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048571,
+        "wk:page":"Magyarszombatfa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e00c03ac7cd784d9fe4ca82444412362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343520133,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1343520133,
+    "wof:lastmodified":1537626228,
+    "wof:name":"Magyarszombatfa",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34249,
+    46.7603,
+    16.34249,
+    46.7603
+],
+  "geometry": {"coordinates":[16.34249,46.7603],"type":"Point"}
+}

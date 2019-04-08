@@ -1,0 +1,67 @@
+{
+  "id": 1243268141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98344,46.61815,19.98344,46.61815",
+    "geom:latitude":46.61815,
+    "geom:longitude":19.98344,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aranyhegy",
+    "gn:country_code":"HU",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722829,
+    "gn:latitude":46.61815,
+    "gn:longitude":19.98344,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Aranyhegy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722829
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d653eb73fd0615a3a3b1761b2d25cc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243268141,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1243268141,
+    "wof:lastmodified":1537059896,
+    "wof:name":"Aranyhegy",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98344,
+    46.61815,
+    19.98344,
+    46.61815
+],
+  "geometry": {"coordinates":[19.98344,46.61815],"type":"Point"}
+}

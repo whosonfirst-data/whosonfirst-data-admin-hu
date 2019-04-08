@@ -1,0 +1,154 @@
+{
+  "id": 101790535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":817975.333328,
+    "geom:bbox":"19.531657354,46.3454592464,19.5479298285,46.3570570219",
+    "geom:latitude":46.351106,
+    "geom:longitude":19.540193,
+    "iso:country":"HU",
+    "lbl:latitude":46.351142,
+    "lbl:longitude":19.540193,
+    "mps:latitude":46.351142,
+    "mps:longitude":19.540193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9c8d\u6d1b\u9676\u8428\u62c9\u4ec0"
+    ],
+    "name:dut_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:epo_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:fra_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:fre_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:hrv_x_preferred":[
+        "Blato"
+    ],
+    "name:hun_x_colloquial":[
+        "Babo Tanya",
+        "Balotaszallas"
+    ],
+    "name:hun_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:hun_x_variant":[
+        "Bab\u00f3 Tanya"
+    ],
+    "name:ita_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:may_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:msa_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:nan_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:nld_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:ron_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:rum_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:slk_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:slo_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:slv_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u043e\u0442\u0430\u0441\u0430\u043b\u0430\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Bab\u00f3 Tanya"
+    ],
+    "name:vie_x_preferred":[
+        "Balotasz\u00e1ll\u00e1s"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*B\u00e1cs-Kiskun",
+    "qs:a1r":"0D\u00e9l-Alf\u00f6ld",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Balotasz\u00e1ll\u00e1s",
+    "qs:la_lc":"*HU70333072593",
+    "qs:level":"locality",
+    "qs:loc":"Balotasz\u00e1ll\u00e1s",
+    "qs:loc_alt":"Balotaszallas",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11627a92-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3055484,
+        "gp:id":803328,
+        "qs:id":939403,
+        "wd:id":"Q789735",
+        "wk:page":"Balotasz\u00e1ll\u00e1s"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"68b3bc8079aa447d55e024dd888517f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790535,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":101790535,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527641596,
+    "wof:name":"Balotasz\u00e1ll\u00e1s",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.53165735402206,
+    46.34545924642208,
+    19.54792982849767,
+    46.35705702193417
+],
+  "geometry": {"coordinates":[[[19.54341233143521,46.35694159866677],[19.54309223083635,46.35515733897512],[19.54567116024344,46.35492645481997],[19.54551107826984,46.35403432819334],[19.5468005144387,46.35391886508245],[19.54664041835383,46.35302673986058],[19.54792982849767,46.35291126346965],[19.54744951860499,46.35023488955835],[19.54616017147441,46.35035035927496],[19.54600010297179,46.34945823077288],[19.5447107718274,46.34957368276167],[19.54439069750816,46.34778941884883],[19.54181210417994,46.34802026742057],[19.54149214143405,46.34623599133351],[19.5402028792501,46.34635138791845],[19.54004292921235,46.34545924642208],[19.53746443180603,46.34568998863892],[19.53794417658111,46.34836642400381],[19.53278686961011,46.34882774906566],[19.53294671429586,46.34971990143544],[19.53165735402206,46.34983519616247],[19.53213686637309,46.35251165502177],[19.53471570794841,46.3522810367341],[19.53487560118555,46.35317318360586],[19.53616503546311,46.35305784898242],[19.53632495659673,46.35394999281255],[19.53761440686912,46.35383464046157],[19.53777435590075,46.35472678124984],[19.54035328342081,46.35449602558583],[19.54051328136086,46.35538816110846],[19.5418027586071,46.35527275779469],[19.54212281718623,46.35705702193417],[19.54341233143521,46.35694159866677]]],"type":"Polygon"}
+}

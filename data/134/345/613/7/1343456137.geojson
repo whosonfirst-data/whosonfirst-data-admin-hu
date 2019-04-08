@@ -1,0 +1,67 @@
+{
+  "id": 1343456137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43333,46.3,20.43333,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":20.43333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kereklapos",
+    "gn:country_code":"HU",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":719189,
+    "gn:latitude":46.3,
+    "gn:longitude":20.43333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Kereklapos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":719189
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"62945d77a55ffc10eae09ced9ec7af34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343456137,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":1343456137,
+    "wof:lastmodified":1536752413,
+    "wof:name":"Kereklapos",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43333,
+    46.3,
+    20.43333,
+    46.3
+],
+  "geometry": {"coordinates":[20.43333,46.3],"type":"Point"}
+}

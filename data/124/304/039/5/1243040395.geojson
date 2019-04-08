@@ -1,0 +1,67 @@
+{
+  "id": 1243040395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86667,48.0,18.86667,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":18.86667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dodipuszta",
+    "gn:country_code":"HU",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053613,
+    "gn:latitude":48.0,
+    "gn:longitude":18.86667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"D\u00f3dipuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053613
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ca26821139cbb8cc342bda08c083df5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243040395,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1243040395,
+    "wof:lastmodified":1536893697,
+    "wof:name":"Dodipuszta",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86667000000001,
+    48.0,
+    18.86667000000001,
+    48.0
+],
+  "geometry": {"coordinates":[18.86667000000001,48.0],"type":"Point"}
+}

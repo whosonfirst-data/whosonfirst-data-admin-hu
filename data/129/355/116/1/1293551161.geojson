@@ -1,0 +1,67 @@
+{
+  "id": 1293551161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25,46.98333,20.25,46.98333",
+    "geom:latitude":46.98333,
+    "geom:longitude":20.25,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tiszaparti Szollok",
+    "gn:country_code":"HU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":714725,
+    "gn:latitude":46.98333,
+    "gn:longitude":20.25,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Tiszaparti Sz\u0151ll\u0151k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714725
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f1d27177808004a02ca669e9c710fe93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293551161,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1293551161,
+    "wof:lastmodified":1536695699,
+    "wof:name":"Tiszaparti Szollok",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25,
+    46.98333,
+    20.25,
+    46.98333
+],
+  "geometry": {"coordinates":[20.25,46.98333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327030339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4,48.31667,21.4,48.31667",
+    "geom:latitude":48.31667,
+    "geom:longitude":21.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Szollomajtanya",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715143,
+    "gn:latitude":48.31667,
+    "gn:longitude":21.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sz\u0151ll\u0151m\u00e1jtanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sz\u0151l\u0151m\u00e1j-tanya",
+        "Sz\u0151ll\u0151m\u00e1jtanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715143
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d20c8cbd930c03d5cf4647e918682e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327030339,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1327030339,
+    "wof:lastmodified":1537626167,
+    "wof:name":"Szollomajtanya",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4,
+    48.31667,
+    21.4,
+    48.31667
+],
+  "geometry": {"coordinates":[21.4,48.31667],"type":"Point"}
+}

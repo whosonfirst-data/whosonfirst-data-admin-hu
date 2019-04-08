@@ -1,0 +1,65 @@
+{
+  "id": 1209327643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4475,45.9125,18.4475,45.9125",
+    "geom:latitude":45.9125,
+    "geom:longitude":18.4475,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kisbudmer",
+    "gn:country_code":"HU",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050073,
+    "gn:latitude":45.9125,
+    "gn:longitude":18.4475,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kisbudm\u00e9r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisbudm\u00e9r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050073,
+        "wk:page":"Kisbudm%C3%A9r"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e92c9e421ae5b03dd0e00760626d0b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209327643
+        }
+    ],
+    "wof:id":1209327643,
+    "wof:lastmodified":1537626233,
+    "wof:name":"Kisbudmer",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4475,
+    45.9125,
+    18.4475,
+    45.9125
+],
+  "geometry": {"coordinates":[18.4475,45.9125],"type":"Point"}
+}

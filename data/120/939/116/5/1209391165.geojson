@@ -1,0 +1,65 @@
+{
+  "id": 1209391165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96447,46.46111,17.96447,46.46111",
+    "geom:latitude":46.46111,
+    "geom:longitude":17.96447,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bussu",
+    "gn:country_code":"HU",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054561,
+    "gn:latitude":46.46111,
+    "gn:longitude":17.96447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fcss\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fcss\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054561,
+        "wk:page":"B%C3%BCss%C3%BC"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f1874c3d3b08d7e0b0d5c147f09053ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209391165
+        }
+    ],
+    "wof:id":1209391165,
+    "wof:lastmodified":1537626261,
+    "wof:name":"Bussu",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96447000000001,
+    46.46111,
+    17.96447000000001,
+    46.46111
+],
+  "geometry": {"coordinates":[17.96447000000001,46.46111],"type":"Point"}
+}

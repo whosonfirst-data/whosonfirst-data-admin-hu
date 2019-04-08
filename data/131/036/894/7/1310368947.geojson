@@ -1,0 +1,71 @@
+{
+  "id": 1310368947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51218,46.09669,17.51218,46.09669",
+    "geom:latitude":46.09669,
+    "geom:longitude":17.51218,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Csertelek",
+    "gn:country_code":"HU",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054160,
+    "gn:latitude":46.09669,
+    "gn:longitude":17.51218,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csertelek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csertelek-puszta",
+        "Csertelek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054160
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e09320f54332c96d4e05a88755b9b43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310368947,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1310368947,
+    "wof:lastmodified":1537626256,
+    "wof:name":"Csertelek",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51217999999999,
+    46.09669,
+    17.51217999999999,
+    46.09669
+],
+  "geometry": {"coordinates":[17.51217999999999,46.09669],"type":"Point"}
+}

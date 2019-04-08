@@ -1,0 +1,61 @@
+{
+  "id": 1209621395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83333,47.96667,20.83333,47.96667",
+    "geom:latitude":47.96667,
+    "geom:longitude":20.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Alsonyeki Tanyak",
+    "gn:country_code":"HU",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722914,
+    "gn:latitude":47.96667,
+    "gn:longitude":20.83333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Als\u00f3ny\u00e9ki Tany\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722914
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6cd95ba442b39b8e0509d5bd0499d080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209621395
+        }
+    ],
+    "wof:id":1209621395,
+    "wof:lastmodified":1536281506,
+    "wof:name":"Alsonyeki Tanyak",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83333,
+    47.96667,
+    20.83333,
+    47.96667
+],
+  "geometry": {"coordinates":[20.83333,47.96667],"type":"Point"}
+}

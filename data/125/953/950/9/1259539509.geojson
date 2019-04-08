@@ -1,0 +1,71 @@
+{
+  "id": 1259539509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83143,46.38517,16.83143,46.38517",
+    "geom:latitude":46.38517,
+    "geom:longitude":16.83143,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Molnari",
+    "gn:country_code":"HU",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047953,
+    "gn:latitude":46.38517,
+    "gn:longitude":16.83143,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Moln\u00e1ri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moln\u00e1ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047953,
+        "wk:page":"Moln%C3%A1ri"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"41b76c5b79e6956838e8b70056c2b6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259539509,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1259539509,
+    "wof:lastmodified":1537626225,
+    "wof:name":"Molnari",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83142999999999,
+    46.38517,
+    16.83142999999999,
+    46.38517
+],
+  "geometry": {"coordinates":[16.83142999999999,46.38517],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101910881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:bbox":"19.8657441778,47.9227872352,19.884047427,47.9290218097",
+    "geom:latitude":47.926366,
+    "geom:longitude":19.87528,
+    "iso:country":"HU",
+    "lbl:latitude":47.927062,
+    "lbl:longitude":19.872992,
+    "mps:latitude":47.927062,
+    "mps:longitude":19.872992,
+    "mz:hierarchy_label":1,
+    "name:unk_x_variant":[
+        "Fiskalit\u00e1shuta"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"9\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"B\u00e1tonyterenye",
+    "qs:la_lc":"*HU51242023353",
+    "qs:level":"locality",
+    "qs:loc":"M\u00e1traszentl\u00e1szl\u00f3",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048285,
+        "gp:id":811729,
+        "qs:id":223940,
+        "qs_pg:id":223940
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"27b4e96fb7f758a2b40f441d2877888c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101910881,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101910881,
+    "wof:lastmodified":1497292710,
+    "wof:name":"M\u00e1traszentl\u00e1szl\u00f3",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8657441777807,
+    47.92278723521326,
+    19.88404742701516,
+    47.92902180970935
+],
+  "geometry": {"coordinates":[[[19.88404742701516,47.92878167358788],[19.88369999348362,47.92700038009934],[19.88237216459163,47.92712045133732],[19.88185114006268,47.92444849809306],[19.88317890110119,47.92432843411012],[19.88300521908241,47.92343778391171],[19.88034973657045,47.92367789101479],[19.880176107502,47.92278723521326],[19.87884838036257,47.92290726230709],[19.87902198681519,47.92379792052611],[19.87769423139434,47.92391793401021],[19.87786782294688,47.92480859387911],[19.8699010357779,47.92552835270732],[19.86972757993567,47.92463767834175],[19.8657441777807,47.92499733413382],[19.86626436485062,47.92766937666312],[19.86759223909286,47.92754950018372],[19.86776567282385,47.92844017707984],[19.87174932945402,47.92808044422213],[19.87192283876675,47.92897111310583],[19.87457862678662,47.9287312062234],[19.87440507222868,47.92784054217225],[19.87971648980329,47.92736054572896],[19.87989013484702,47.92825120011173],[19.88121799769567,47.92813115851197],[19.88139167308088,47.92902180970935],[19.88404742701516,47.92878167358788]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276963521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30704,47.72117,17.30704,47.72117",
+    "geom:latitude":47.72117,
+    "geom:longitude":17.30704,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tarnokreti",
+    "gn:country_code":"HU",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044100,
+    "gn:latitude":47.72117,
+    "gn:longitude":17.30704,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"T\u00e1rnokr\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e1rnokr\u00e9ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044100,
+        "wk:page":"T%C3%A1rnokr%C3%A9ti"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"297a9a58c28a351f754e904a6203afa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276963521,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1276963521,
+    "wof:lastmodified":1537626207,
+    "wof:name":"Tarnokreti",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30704,
+    47.72117,
+    17.30704,
+    47.72117
+],
+  "geometry": {"coordinates":[17.30704,47.72117],"type":"Point"}
+}

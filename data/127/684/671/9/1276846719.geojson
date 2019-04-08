@@ -1,0 +1,67 @@
+{
+  "id": 1276846719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25,46.43333,17.25,46.43333",
+    "geom:latitude":46.43333,
+    "geom:longitude":17.25,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Otelek",
+    "gn:country_code":"HU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046832,
+    "gn:latitude":46.43333,
+    "gn:longitude":17.25,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"\u00d3telek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046832
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1f60cdcdde2765f8a3796cc884236d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276846719,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1276846719,
+    "wof:lastmodified":1537082400,
+    "wof:name":"Otelek",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25,
+    46.43333,
+    17.25,
+    46.43333
+],
+  "geometry": {"coordinates":[17.25,46.43333],"type":"Point"}
+}

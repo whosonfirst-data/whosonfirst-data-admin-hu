@@ -1,0 +1,127 @@
+{
+  "id": 101844921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000106,
+    "geom:area_square_m":887616.656099,
+    "geom:bbox":"16.5196867339,47.2354475737,16.5399845498,47.2447262493",
+    "geom:latitude":47.240613,
+    "geom:longitude":16.530098,
+    "iso:country":"HU",
+    "lbl:latitude":47.240401,
+    "lbl:longitude":16.530252,
+    "mps:latitude":47.240401,
+    "mps:longitude":16.530252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:chi_x_preferred":[
+        "\u6258\u7f57\u5c3c"
+    ],
+    "name:dut_x_preferred":[
+        "Torony"
+    ],
+    "name:eng_x_preferred":[
+        "Torony"
+    ],
+    "name:epo_x_preferred":[
+        "Torony"
+    ],
+    "name:fre_x_preferred":[
+        "Torony"
+    ],
+    "name:hun_x_colloquial":[
+        "Ondod"
+    ],
+    "name:hun_x_preferred":[
+        "Torony"
+    ],
+    "name:hun_x_variant":[
+        "Ond\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Torony"
+    ],
+    "name:may_x_preferred":[
+        "Torony"
+    ],
+    "name:nan_x_preferred":[
+        "Torony"
+    ],
+    "name:rum_x_preferred":[
+        "Torony"
+    ],
+    "name:slo_x_preferred":[
+        "Torony"
+    ],
+    "name:slv_x_preferred":[
+        "Torony"
+    ],
+    "name:vie_x_preferred":[
+        "Torony"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Vas",
+    "qs:a1r":"0Nyugat-Dun\u00e1nt\u00fal",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Torony",
+    "qs:la_lc":"*HU31848082987",
+    "qs:level":"locality",
+    "qs:loc":"Torony",
+    "qs:loc_alt":"Torony",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":11,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164ddf0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3043760,
+        "gp:id":816751,
+        "qs:id":917638,
+        "wd:id":"Q520799",
+        "wk:page":"Torony"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5c32265964ef0b8993f795afb00e6872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101844921,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":101844921,
+    "wof:lastmodified":1534985950,
+    "wof:name":"Torony",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[
+        1175612747
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51968673392497,
+    47.23544757365823,
+    16.53998454984156,
+    47.24472624925818
+],
+  "geometry": {"coordinates":[[[16.52968386236012,47.24448855595051],[16.52957132202783,47.24359238508464],[16.53746580044123,47.24311657791196],[16.53757847501703,47.24401273933432],[16.53889423108399,47.2439333808249],[16.53866884215245,47.24214106054285],[16.53998454984156,47.24206168925855],[16.53975913603341,47.24026936977759],[16.53712780650477,47.24042809012167],[16.5367898572481,47.23773959704585],[16.5354742541416,47.23781892860853],[16.53536163668315,47.23692276150086],[16.53141487268772,47.2371606559268],[16.53130232728967,47.23626448351143],[16.52998675440114,47.23634374823371],[16.52987423632788,47.23544757365823],[16.52855868217853,47.23552682088518],[16.52867117788639,47.23642299703283],[16.52735559774521,47.23650222990892],[16.52758055929718,47.2382945835879],[16.51968673392497,47.23876966530605],[16.51979908791702,47.23966585069297],[16.52111475690731,47.23958670864641],[16.52122713822206,47.24048289187647],[16.5225428259613,47.24040373233458],[16.52288006674041,47.24309227379234],[16.52156431188229,47.2431714380474],[16.52167671300856,47.24406761893158],[16.52562403383428,47.24383007367487],[16.52573650704193,47.24472624925818],[16.52968386236012,47.24448855595051]]],"type":"Polygon"}
+}

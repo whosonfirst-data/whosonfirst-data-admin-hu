@@ -1,0 +1,71 @@
+{
+  "id": 1226505631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54627,47.93367,22.54627,47.93367",
+    "geom:latitude":47.93367,
+    "geom:longitude":22.54627,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cegenydanyad",
+    "gn:country_code":"HU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721939,
+    "gn:latitude":47.93367,
+    "gn:longitude":22.54627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"C\u00e9g\u00e9nyd\u00e1ny\u00e1d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00e9g\u00e9nyd\u00e1ny\u00e1d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721939,
+        "wk:page":"C%C3%A9g%C3%A9nyd%C3%A1ny%C3%A1d"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d86d88f72f7b9f7b12f1f3cb38abc7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226505631,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1226505631,
+    "wof:lastmodified":1537626192,
+    "wof:name":"Cegenydanyad",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54627,
+    47.93367,
+    22.54627,
+    47.93367
+],
+  "geometry": {"coordinates":[22.54627,47.93367],"type":"Point"}
+}

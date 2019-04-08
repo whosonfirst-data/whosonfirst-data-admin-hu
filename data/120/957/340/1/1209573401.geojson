@@ -1,0 +1,66 @@
+{
+  "id": 1209573401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0,46.63333,17.0,46.63333",
+    "geom:latitude":46.63333,
+    "geom:longitude":17.0,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Csadepuszta",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054453,
+    "gn:latitude":46.63333,
+    "gn:longitude":17.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cs\u00e1d\u00e9puszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cs\u00e1d\u00e9-major",
+        "Cs\u00e1d\u00e9puszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054453
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d6aca604f97538f8662a432b74f7950e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209573401
+        }
+    ],
+    "wof:id":1209573401,
+    "wof:lastmodified":1537626260,
+    "wof:name":"Csadepuszta",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0,
+    46.63333,
+    17.0,
+    46.63333
+],
+  "geometry": {"coordinates":[17.0,46.63333],"type":"Point"}
+}

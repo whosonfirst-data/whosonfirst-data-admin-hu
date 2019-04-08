@@ -1,0 +1,63 @@
+{
+  "id": 1108940695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.2266437538,47.4298677174,19.2266437538,47.4298677174",
+    "geom:latitude":47.429868,
+    "geom:longitude":19.226644,
+    "iso:country":"HU",
+    "lbl:latitude":47.429868,
+    "lbl:longitude":19.226644,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85684881,
+        102191581,
+        85633237,
+        404227489,
+        101751703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361928,
+    "wof:geomhash":"826d22b225a8ffc495389df8df45a8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940695,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940695,
+    "wof:lastmodified":1492123565,
+    "wof:name":"Ganztelep",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.22664375375048,
+    47.42986771738567,
+    19.22664375375048,
+    47.42986771738567
+],
+  "geometry": {"coordinates":[19.22664375375048,47.42986771738567],"type":"Point"}
+}

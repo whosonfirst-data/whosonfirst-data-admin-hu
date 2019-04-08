@@ -1,0 +1,71 @@
+{
+  "id": 1343978015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.53502,47.45,18.53502,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":18.53502,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bodmer",
+    "gn:country_code":"HU",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054927,
+    "gn:latitude":47.45,
+    "gn:longitude":18.53502,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bodm\u00e9r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodm\u00e9r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054927,
+        "wk:page":"Bodm%C3%A9r"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cced8d1a6c41a077f13072f069fb1946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343978015,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1343978015,
+    "wof:lastmodified":1537626264,
+    "wof:name":"Bodmer",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.53502000000001,
+    47.45,
+    18.53502000000001,
+    47.45
+],
+  "geometry": {"coordinates":[18.53502000000001,47.45],"type":"Point"}
+}

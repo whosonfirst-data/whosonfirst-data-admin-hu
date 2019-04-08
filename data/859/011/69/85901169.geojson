@@ -1,0 +1,113 @@
+{
+  "id": 85901169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18383881.538384,
+    "geom:bbox":"17.246338,46.764122,17.246338,46.764122",
+    "geom:latitude":46.764122,
+    "geom:longitude":17.246338,
+    "gn:latitude":46.76667,
+    "gn:longitude":17.25,
+    "iso:country":"HU",
+    "lbl:latitude":46.764122,
+    "lbl:longitude":17.246338,
+    "mps:latitude":46.766203,
+    "mps:longitude":17.243788,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Kofejto"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0151fejt\u0151"
+    ],
+    "name:unk_x_variant":[
+        "K\u0151fejt\u0151"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3050212,
+    "qs:gn_nam_loc":"Keszthely, Keszthely, Zala, HU",
+    "qs:gn_namadm1":"24",
+    "qs:gn_name":"K\u0151fejt\u0151",
+    "qs:local_max":1190,
+    "qs:local_sum":1236,
+    "qs:localhoods":2,
+    "qs:name":"K\u0151fejt\u0151",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Zala",
+    "qs:name_adm2":"Keszthely",
+    "qs:name_local":"Keszthely",
+    "qs:photo_max":95,
+    "qs:photo_sum":1190,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":62,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577930,
+    "qs:woe_adm2":12593591,
+    "qs:woe_lau":0,
+    "qs:woe_local":809430,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684849,
+        102191581,
+        85633237,
+        404227481,
+        101834413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049610,
+        "gp:id":810191,
+        "qs:id":1167206,
+        "qs_pg:id":1167206
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"65be48d53a4f91199ae2c6781de05d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101834413,
+            "macroregion_id":404227481,
+            "neighbourhood_id":85901169,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":85901169,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932447,
+    "wof:name":"K\u0151fejt\u0151",
+    "wof:parent_id":101834413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.246338,
+    46.764122,
+    17.246338,
+    46.764122
+],
+  "geometry": {"coordinates":[17.246338,46.764122],"type":"Point"}
+}

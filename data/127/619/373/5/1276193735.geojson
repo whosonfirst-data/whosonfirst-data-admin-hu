@@ -1,0 +1,75 @@
+{
+  "id": 1276193735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55533,46.52182,16.55533,46.52182",
+    "geom:latitude":46.52182,
+    "geom:longitude":16.55533,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Tornyiszentmiklos",
+    "gn:country_code":"HU",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043781,
+    "gn:latitude":46.52182,
+    "gn:longitude":16.55533,
+    "gn:modification_date":"2018-05-24",
+    "gn:name":"Tornyiszentmikl\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:und_x_variant":[
+        "Kerka Szent Mikl\u00f3s",
+        "\u0422\u043e\u0440\u043d\u0438\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043781,
+        "wk:page":"Tornyiszentmikl%C3%B3s"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"38bc2b93ef26d6de9bcf77b946fca8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276193735,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1276193735,
+    "wof:lastmodified":1537626206,
+    "wof:name":"Tornyiszentmiklos",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55533,
+    46.52182,
+    16.55533,
+    46.52182
+],
+  "geometry": {"coordinates":[16.55533,46.52182],"type":"Point"}
+}

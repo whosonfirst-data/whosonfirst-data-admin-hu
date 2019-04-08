@@ -1,0 +1,67 @@
+{
+  "id": 1259359009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21832,47.79775,22.21832,47.79775",
+    "geom:latitude":47.79775,
+    "geom:longitude":22.21832,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Csonkastanya",
+    "gn:country_code":"HU",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721578,
+    "gn:latitude":47.79775,
+    "gn:longitude":22.21832,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Csonk\u00e1stanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721578
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"8fc493c55531953da99d51320e735b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259359009,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1259359009,
+    "wof:lastmodified":1537035993,
+    "wof:name":"Csonkastanya",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21832,
+    47.79775,
+    22.21832,
+    47.79775
+],
+  "geometry": {"coordinates":[22.21832,47.79775],"type":"Point"}
+}

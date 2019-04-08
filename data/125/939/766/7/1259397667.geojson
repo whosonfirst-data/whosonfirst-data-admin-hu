@@ -1,0 +1,67 @@
+{
+  "id": 1259397667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.19742,46.24487,20.19742,46.24487",
+    "geom:latitude":46.24487,
+    "geom:longitude":20.19742,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Marospart",
+    "gn:country_code":"HU",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":717803,
+    "gn:latitude":46.24487,
+    "gn:longitude":20.19742,
+    "gn:modification_date":"2008-03-16",
+    "gn:name":"Marospart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717803
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"eda7385443bb6134b46a7ed1491190fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259397667,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":1259397667,
+    "wof:lastmodified":1536981146,
+    "wof:name":"Marospart",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.19742,
+    46.24487,
+    20.19742,
+    46.24487
+],
+  "geometry": {"coordinates":[20.19742,46.24487],"type":"Point"}
+}

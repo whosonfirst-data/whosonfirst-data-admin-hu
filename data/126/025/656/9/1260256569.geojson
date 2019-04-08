@@ -1,0 +1,71 @@
+{
+  "id": 1260256569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13334,46.61135,18.13334,46.61135",
+    "geom:latitude":46.61135,
+    "geom:longitude":18.13334,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Erteny",
+    "gn:country_code":"HU",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053197,
+    "gn:latitude":46.61135,
+    "gn:longitude":18.13334,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u00c9rt\u00e9ny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c9rt\u00e9ny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053197,
+        "wk:page":"%C3%89rt%C3%A9ny"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bc6cbc527d94c4b59409523eeabb8ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260256569,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1260256569,
+    "wof:lastmodified":1537626248,
+    "wof:name":"Erteny",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13334,
+    46.61135,
+    18.13334,
+    46.61135
+],
+  "geometry": {"coordinates":[18.13334,46.61135],"type":"Point"}
+}

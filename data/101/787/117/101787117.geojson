@@ -1,0 +1,120 @@
+{
+  "id": 101787117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000191,
+    "geom:area_square_m":1595667.114838,
+    "geom:bbox":"21.6198060804,47.3953518586,21.6372516205,47.4171713635",
+    "geom:latitude":47.406535,
+    "geom:longitude":21.628735,
+    "gn:population":2322,
+    "iso:country":"HU",
+    "lbl:latitude":47.406308,
+    "lbl:longitude":21.630321,
+    "mps:latitude":47.406308,
+    "mps:longitude":21.630321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:hun_x_colloquial":[
+        "Sarand"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:slk_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "name:slv_x_preferred":[
+        "S\u00e1r\u00e1nd"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Hajd\u00fa-Bihar",
+    "qs:a1r":"0\u00c9szak-Alf\u00f6ld",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Mikep\u00e9rcs",
+    "qs:la_lc":"*HU60939082421",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e1r\u00e1nd",
+    "qs:loc_alt":"Sarand",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11646bf4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":715904,
+        "gp:id":814703,
+        "qs:id":261849,
+        "qs_pg:id":261849,
+        "wd:id":"Q1185440"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6b061327e630b631a5a37d5e17e09ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101787117,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":101787117,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527715847,
+    "wof:name":"S\u00e1r\u00e1nd",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:population":2322,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61980608039192,
+    47.39535185858273,
+    21.63725162053066,
+    47.41717136346989
+],
+  "geometry": {"coordinates":[[[21.62837194461855,47.4167485484673],[21.62756756417207,47.41319901561889],[21.63150098396852,47.41277609228871],[21.63129984575914,47.41188871509479],[21.63392204995478,47.41160669302064],[21.6335197131495,47.40983194697117],[21.63614180471751,47.4095498730448],[21.63594060612803,47.40866250418941],[21.63725162053066,47.40852144638859],[21.63684920639025,47.40674671143762],[21.63553823539058,47.4068877636596],[21.63292368469411,47.39535185858273],[21.63161298928179,47.39549285880594],[21.63181403402388,47.39638024454649],[21.62919258048362,47.39666220332532],[21.6293935906491,47.39754959370055],[21.62808283252059,47.39769055225543],[21.62828382979734,47.39857794447806],[21.62435145167007,47.39900073401265],[21.62575822351113,47.40521251179115],[21.62444726602865,47.40535342964262],[21.62464824694962,47.40624082549914],[21.62071527072936,47.40666349290564],[21.62111712876208,47.40843829852031],[21.61980608039192,47.40857916172439],[21.62000700090681,47.40946656591012],[21.62131807098314,47.40932569992009],[21.62232291415859,47.4137626928441],[21.62363408633348,47.41362179716822],[21.62443820623946,47.41717136346989],[21.62837194461855,47.4167485484673]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125374173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.293901,48.076716,19.293901,48.076716",
+    "geom:latitude":48.076716,
+    "geom:longitude":19.293901,
+    "gn:gn_country":null,
+    "iso:country":"HU",
+    "lbl:latitude":48.076716,
+    "lbl:longitude":19.293901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Slovenske Darmoty",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Banskobystricky",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":991243,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":29401552,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Banskobystricky",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29401552,
+        "qs_pg:id":991243
+    },
+    "wof:country":"HU",
+    "wof:created":1497047614,
+    "wof:geomhash":"6b5b4bdaebc7bfe0e18809e0ddc4378a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "localadmin_id":1125374173,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":1125374173,
+    "wof:lastmodified":1509389411,
+    "wof:name":"Slovenske Darmoty",
+    "wof:parent_id":85684913,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.293901,
+    48.076716,
+    19.293901,
+    48.076716
+],
+  "geometry": {"coordinates":[19.293901,48.076716],"type":"Point"}
+}

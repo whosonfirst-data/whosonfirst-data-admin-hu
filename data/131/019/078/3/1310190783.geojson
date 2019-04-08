@@ -1,0 +1,71 @@
+{
+  "id": 1310190783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58445,47.55121,18.58445,47.55121",
+    "geom:latitude":47.55121,
+    "geom:longitude":18.58445,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cekustanya",
+    "gn:country_code":"HU",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054534,
+    "gn:latitude":47.55121,
+    "gn:longitude":18.58445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"C\u00e9kustanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cz\u00e9kustanya",
+        "C\u00e9kustanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054534
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2fc935a5b278d95158ed493af68bcd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310190783,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1310190783,
+    "wof:lastmodified":1537626261,
+    "wof:name":"Cekustanya",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58445,
+    47.55121,
+    18.58445,
+    47.55121
+],
+  "geometry": {"coordinates":[18.58445,47.55121],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209177443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01667,48.2,22.01667,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":22.01667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Vagotterdo",
+    "gn:country_code":"HU",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":714302,
+    "gn:latitude":48.2,
+    "gn:longitude":22.01667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"V\u00e1gotterd\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714302
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"91927eb17f6da78fcd323574f8f8858d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209177443
+        }
+    ],
+    "wof:id":1209177443,
+    "wof:lastmodified":1536295374,
+    "wof:name":"Vagotterdo",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01667,
+    48.2,
+    22.01667,
+    48.2
+],
+  "geometry": {"coordinates":[22.01667,48.2],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310662439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13333,47.08333,20.13333,47.08333",
+    "geom:latitude":47.08333,
+    "geom:longitude":20.13333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Harkanyidulo",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720174,
+    "gn:latitude":47.08333,
+    "gn:longitude":20.13333,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Hark\u00e1nyid\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hark\u00e1nyi-major"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720174
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5be6db323c24334a68be44b6f2efc85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310662439,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1310662439,
+    "wof:lastmodified":1537626183,
+    "wof:name":"Harkanyidulo",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13333,
+    47.08333,
+    20.13333,
+    47.08333
+],
+  "geometry": {"coordinates":[20.13333,47.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276988153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13333,46.35,21.13333,46.35",
+    "geom:latitude":46.35,
+    "geom:longitude":21.13333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Diosi Istvan-tanya",
+    "gn:country_code":"HU",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721376,
+    "gn:latitude":46.35,
+    "gn:longitude":21.13333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Di\u00f3si Istv\u00e1n-tanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684875,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721376
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5acce0319919cd376c13a4a6b2e5dde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276988153,
+            "macroregion_id":404227487,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":1276988153,
+    "wof:lastmodified":1536895760,
+    "wof:name":"Diosi Istvan-tanya",
+    "wof:parent_id":85684875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13333,
+    46.35,
+    21.13333,
+    46.35
+],
+  "geometry": {"coordinates":[21.13333,46.35],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 101785965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1136834.524621,
+    "geom:bbox":"20.3338405088,47.648737465,20.3519610243,47.6629646329",
+    "geom:latitude":47.654998,
+    "geom:longitude":20.341237,
+    "iso:country":"HU",
+    "lbl:latitude":47.654275,
+    "lbl:longitude":20.340619,
+    "mps:latitude":47.654275,
+    "mps:longitude":20.340619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6ed5\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Tenk"
+    ],
+    "name:eng_x_preferred":[
+        "Pusztatenk"
+    ],
+    "name:epo_x_preferred":[
+        "Tenk"
+    ],
+    "name:fre_x_preferred":[
+        "Tenk"
+    ],
+    "name:hun_x_preferred":[
+        "Tenk"
+    ],
+    "name:ita_x_preferred":[
+        "Tenk"
+    ],
+    "name:may_x_preferred":[
+        "Tenk"
+    ],
+    "name:nan_x_preferred":[
+        "Tenk"
+    ],
+    "name:rum_x_preferred":[
+        "Tenk"
+    ],
+    "name:slo_x_preferred":[
+        "Tenk"
+    ],
+    "name:slv_x_preferred":[
+        "Tenk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043d\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Pusztatenk"
+    ],
+    "name:vie_x_preferred":[
+        "Tenk"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Tenk",
+    "qs:la_lc":"*HU51040021407",
+    "qs:level":"locality",
+    "qs:loc":"Tenk",
+    "qs:loc_alt":"Tenk",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164c482-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":714854,
+        "gp:id":816414,
+        "qs:id":249872,
+        "wd:id":"Q1072153"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2390bc895494015ada8f871e9650ec76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101785965,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101785965,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514448381,
+    "wof:name":"Tenk",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33384050883052,
+    47.64873746501644,
+    20.35196102427159,
+    47.66296463294628
+],
+  "geometry": {"coordinates":[[[20.33684116063648,47.6628391763827],[20.33666096570977,47.661949257873],[20.33798111415348,47.66182378790398],[20.33780090494685,47.66093387108378],[20.33912102531752,47.66080838771001],[20.338940801832,47.65991847257948],[20.34026089413055,47.65979297580168],[20.34008065636863,47.65890306236042],[20.34668091914136,47.65827535235968],[20.34686126807821,47.65916525326514],[20.34818132535361,47.65903966102934],[20.34800095418336,47.65814976263169],[20.35196102427159,47.65777289799462],[20.35178059437033,47.65688300630507],[20.3504605990795,47.65700864125068],[20.35028019937664,47.65611874623454],[20.34896022047712,47.65624436276323],[20.34805845259206,47.65179486287366],[20.34541869956507,47.65204602313014],[20.34487786774503,47.64937629833906],[20.34223822473064,47.64962737992835],[20.34205800782541,47.64873746501644],[20.33545890934812,47.64936487810098],[20.33581912885762,47.6511447321605],[20.3344992472172,47.65127017206692],[20.3359402655837,47.6583895756703],[20.33462020025661,47.65851501970695],[20.3351606467026,47.66118479009981],[20.33384050883052,47.66131022574177],[20.33402065131992,47.66220015007832],[20.33534081143142,47.66207471193115],[20.33552098411798,47.66296463294628],[20.33684116063648,47.6628391763827]]],"type":"Polygon"}
+}

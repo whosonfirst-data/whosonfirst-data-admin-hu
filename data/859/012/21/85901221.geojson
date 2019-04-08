@@ -1,0 +1,113 @@
+{
+  "id": 85901221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23204043.308084,
+    "geom:bbox":"19.133205,47.635034,19.133205,47.635034",
+    "geom:latitude":47.635034,
+    "geom:longitude":19.133205,
+    "gn:latitude":47.63333,
+    "gn:longitude":19.13333,
+    "iso:country":"HU",
+    "lbl:latitude":47.635034,
+    "lbl:longitude":19.133205,
+    "mps:latitude":47.629119,
+    "mps:longitude":19.128119,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Nadormajor"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00e1dormajor"
+    ],
+    "name:unk_x_variant":[
+        "N\u00e1dormajor"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3053476,
+    "qs:gn_nam_loc":"Dunakeszi, Dunakeszi, Pest, HU",
+    "qs:gn_namadm1":"16",
+    "qs:gn_name":"N\u00e1dormajor",
+    "qs:local_max":291,
+    "qs:local_sum":291,
+    "qs:localhoods":1,
+    "qs:name":"N\u00e1dormajor",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Pest",
+    "qs:name_adm2":"Dunakeszi",
+    "qs:name_local":"Dunakeszi",
+    "qs:photo_max":100,
+    "qs:photo_sum":291,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577923,
+    "qs:woe_adm2":12593388,
+    "qs:woe_lau":0,
+    "qs:woe_local":805679,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684899,
+        102191581,
+        85633237,
+        404227489,
+        101754535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047835,
+        "gp:id":812228,
+        "qs:id":1083306,
+        "qs_pg:id":1083306
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2f514687568571d1dd875563078a1068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101754535,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901221,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":85901221,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932459,
+    "wof:name":"N\u00e1dormajor",
+    "wof:parent_id":101754535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.133205,
+    47.635034,
+    19.133205,
+    47.635034
+],
+  "geometry": {"coordinates":[19.133205,47.635034],"type":"Point"}
+}

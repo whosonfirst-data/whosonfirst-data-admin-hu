@@ -1,0 +1,71 @@
+{
+  "id": 1243361045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71667,46.33333,20.71667,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":20.71667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Csanadalberti",
+    "gn:country_code":"HU",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721866,
+    "gn:latitude":46.33333,
+    "gn:longitude":20.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csan\u00e1dalberti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csan\u00e1dalberti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721866,
+        "wk:page":"Csan%C3%A1dalberti"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1ce9c73e7699cf79d4f8740f340503f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243361045,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":1243361045,
+    "wof:lastmodified":1537626191,
+    "wof:name":"Csanadalberti",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71667,
+    46.33333,
+    20.71667,
+    46.33333
+],
+  "geometry": {"coordinates":[20.71667,46.33333],"type":"Point"}
+}

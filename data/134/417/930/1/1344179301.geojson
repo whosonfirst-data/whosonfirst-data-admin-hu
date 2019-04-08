@@ -1,0 +1,67 @@
+{
+  "id": 1344179301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.48333,46.21667,20.48333,46.21667",
+    "geom:latitude":46.21667,
+    "geom:longitude":20.48333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bogarzotanya",
+    "gn:country_code":"HU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722166,
+    "gn:latitude":46.21667,
+    "gn:longitude":20.48333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Bog\u00e1rz\u00f3tanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722166
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bc78b31da8953e2b7aaca0a521fa9488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344179301,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":1344179301,
+    "wof:lastmodified":1536704431,
+    "wof:name":"Bogarzotanya",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.48333,
+    46.21667,
+    20.48333,
+    46.21667
+],
+  "geometry": {"coordinates":[20.48333,46.21667],"type":"Point"}
+}

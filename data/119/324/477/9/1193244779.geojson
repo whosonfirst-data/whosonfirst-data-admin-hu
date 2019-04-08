@@ -1,0 +1,68 @@
+{
+  "id": 1193244779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86342,48.05477,22.86342,48.05477",
+    "geom:latitude":48.05477,
+    "geom:longitude":22.86342,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Magosliget",
+    "gn:country_code":"HU",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":717949,
+    "gn:latitude":48.05477,
+    "gn:longitude":22.86342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Magosliget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717949,
+        "wk:page":"Magosliget"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"363cf7108292ac1a817626135a054ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1193244779,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1193244779,
+    "wof:lastmodified":1537563354,
+    "wof:name":"Magosliget",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86342,
+    48.05477,
+    22.86342,
+    48.05477
+],
+  "geometry": {"coordinates":[22.86342,48.05477],"type":"Point"}
+}

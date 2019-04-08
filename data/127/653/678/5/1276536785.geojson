@@ -1,0 +1,72 @@
+{
+  "id": 1276536785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21667,47.96667,20.21667,47.96667",
+    "geom:latitude":47.96667,
+    "geom:longitude":20.21667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Felsorozsnakpuszta",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720871,
+    "gn:latitude":47.96667,
+    "gn:longitude":20.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fels\u0151rozsnakpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pusztarozsnakf\u0151",
+        "Fels\u0151rozsnakpuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720871
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cb370baafb4fc91dd4c30114a814e915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276536785,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1276536785,
+    "wof:lastmodified":1537626185,
+    "wof:name":"Felsorozsnakpuszta",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21667,
+    47.96667,
+    20.21667,
+    47.96667
+],
+  "geometry": {"coordinates":[20.21667,47.96667],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 85901295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14309277.140668,
+    "geom:bbox":"16.616661,47.232013,16.616661,47.232013",
+    "geom:latitude":47.232013,
+    "geom:longitude":16.616661,
+    "gn:id":"",
+    "iso:country":"HU",
+    "lbl:latitude":47.232013,
+    "lbl:longitude":16.616661,
+    "mps:latitude":47.235752,
+    "mps:longitude":16.606325,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Szinese"
+    ],
+    "name:eng_x_variant":[
+        "Szinese"
+    ],
+    "name:hun_x_preferred":[
+        "Szinesemajor"
+    ],
+    "name:unk_x_variant":[
+        "Szinesemajor"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3044310,
+    "qs:gn_nam_loc":"Szombathely, Szombathely, Szombathely, HU",
+    "qs:gn_namadm1":"22",
+    "qs:local_max":435,
+    "qs:local_sum":510,
+    "qs:localhoods":2,
+    "qs:name":"Szinesemajor",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szombathely",
+    "qs:name_adm2":"Szombathely",
+    "qs:name_en":"Szinese",
+    "qs:name_local":"Szombathely",
+    "qs:photo_max":63,
+    "qs:photo_sum":435,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043631,
+    "qs:woe_adm2":12594432,
+    "qs:woe_lau":0,
+    "qs:woe_local":816031,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684863,
+        102191581,
+        85633237,
+        404227481,
+        101751689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":815896,
+        "qs:id":215462,
+        "qs_pg:id":215462
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"fb3486b92d5cfd56b918e707b9c1389b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751689,
+            "macroregion_id":404227481,
+            "neighbourhood_id":85901295,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":85901295,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932469,
+    "wof:name":"Szinesemajor",
+    "wof:parent_id":101751689,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.616661,
+    47.232013,
+    16.616661,
+    47.232013
+],
+  "geometry": {"coordinates":[16.616661,47.232013],"type":"Point"}
+}

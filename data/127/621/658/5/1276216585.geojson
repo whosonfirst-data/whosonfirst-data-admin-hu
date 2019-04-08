@@ -1,0 +1,71 @@
+{
+  "id": 1276216585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90207,47.48573,16.90207,47.48573",
+    "geom:latitude":47.48573,
+    "geom:longitude":16.90207,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pusztacsalad",
+    "gn:country_code":"HU",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046119,
+    "gn:latitude":47.48573,
+    "gn:longitude":16.90207,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pusztacsal\u00e1d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pusztacsal\u00e1d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046119,
+        "wk:page":"Pusztacsal%C3%A1d"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3075bb804aa44d508e2cdc9c65a6b174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276216585,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1276216585,
+    "wof:lastmodified":1537626216,
+    "wof:name":"Pusztacsalad",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90207,
+    47.48573,
+    16.90207,
+    47.48573
+],
+  "geometry": {"coordinates":[16.90207,47.48573],"type":"Point"}
+}

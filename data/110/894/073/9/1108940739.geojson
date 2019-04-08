@@ -1,0 +1,66 @@
+{
+  "id": 1108940739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1287967197,47.4177696987,19.1287967197,47.4177696987",
+    "geom:latitude":47.41777,
+    "geom:longitude":19.128797,
+    "iso:country":"HU",
+    "lbl:latitude":47.41777,
+    "lbl:longitude":19.128797,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "Soroksar-\u00dajtelep"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361951,
+    "wof:geomhash":"4508eee7ddfd7c908af93ece033f354a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940739,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940739,
+    "wof:lastmodified":1497292356,
+    "wof:name":"Soroksar-Ujtelep",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.12879671965553,
+    47.41776969872379,
+    19.12879671965553,
+    47.41776969872379
+],
+  "geometry": {"coordinates":[19.12879671965553,47.41776969872379],"type":"Point"}
+}

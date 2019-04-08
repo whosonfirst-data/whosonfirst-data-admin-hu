@@ -1,0 +1,71 @@
+{
+  "id": 1344157333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36667,48.53333,21.36667,48.53333",
+    "geom:latitude":48.53333,
+    "geom:longitude":21.36667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Panyok",
+    "gn:country_code":"HU",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":716607,
+    "gn:latitude":48.53333,
+    "gn:longitude":21.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00e1nyok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e1nyok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":716607,
+        "wk:page":"P%C3%A1nyok"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5083e2fc8a4514c5d0b73141945cc981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344157333,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1344157333,
+    "wof:lastmodified":1537626172,
+    "wof:name":"Panyok",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36667000000001,
+    48.53333,
+    21.36667000000001,
+    48.53333
+],
+  "geometry": {"coordinates":[21.36667000000001,48.53333],"type":"Point"}
+}

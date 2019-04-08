@@ -1,0 +1,67 @@
+{
+  "id": 1293372219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38333,47.46667,19.38333,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":19.38333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Erdeytanya",
+    "gn:country_code":"HU",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053275,
+    "gn:latitude":47.46667,
+    "gn:longitude":19.38333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Erdeytanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053275
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f30736b28ed8cd1e3dd67062783e33d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293372219,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1293372219,
+    "wof:lastmodified":1536953346,
+    "wof:name":"Erdeytanya",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38333,
+    47.46667,
+    19.38333,
+    47.46667
+],
+  "geometry": {"coordinates":[19.38333,47.46667],"type":"Point"}
+}

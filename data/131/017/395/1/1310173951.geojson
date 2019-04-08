@@ -1,0 +1,68 @@
+{
+  "id": 1310173951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16798,47.03072,17.16798,47.03072",
+    "geom:latitude":47.03072,
+    "geom:longitude":17.16798,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dabronc",
+    "gn:country_code":"HU",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053831,
+    "gn:latitude":47.03072,
+    "gn:longitude":17.16798,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Dabronc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053831,
+        "wk:page":"Dabronc"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f9a178ae86159bbe5326eb606981508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310173951,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1310173951,
+    "wof:lastmodified":1537563396,
+    "wof:name":"Dabronc",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16798,
+    47.03072,
+    17.16798,
+    47.03072
+],
+  "geometry": {"coordinates":[17.16798,47.03072],"type":"Point"}
+}

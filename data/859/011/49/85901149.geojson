@@ -1,0 +1,110 @@
+{
+  "id": 85901149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10720030.191571,
+    "geom:bbox":"16.986317,46.454443,16.986317,46.454443",
+    "geom:latitude":46.454443,
+    "geom:longitude":16.986317,
+    "gn:latitude":46.45,
+    "gn:longitude":16.96667,
+    "iso:country":"HU",
+    "lbl:latitude":46.454443,
+    "lbl:longitude":16.986317,
+    "mps:latitude":46.452997,
+    "mps:longitude":16.983503,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Kiskanizsa"
+    ],
+    "name:unk_x_variant":[
+        "Kiskanizsa"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3047679,
+    "qs:gn_nam_loc":"Nagykanizsa, Nagykanizsa, Nagykanizsa, HU",
+    "qs:gn_namadm1":"24",
+    "qs:gn_name":"Kiskanizsa",
+    "qs:local_max":17,
+    "qs:local_sum":17,
+    "qs:localhoods":1,
+    "qs:name":"Kiskanizsa",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Nagykanizsa",
+    "qs:name_adm2":"Nagykanizsa",
+    "qs:name_local":"Nagykanizsa",
+    "qs:photo_max":5,
+    "qs:photo_sum":17,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043639,
+    "qs:woe_adm2":12593522,
+    "qs:woe_lau":0,
+    "qs:woe_local":812423,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684849,
+        102191581,
+        85633237,
+        404227481,
+        101751677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049921,
+        "gp:id":809787,
+        "qs:id":57164,
+        "qs_pg:id":57164
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"51cb6cb7625ca5a07724463c6f6abe26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751677,
+            "macroregion_id":404227481,
+            "neighbourhood_id":85901149,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":85901149,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932443,
+    "wof:name":"Kiskanizsa",
+    "wof:parent_id":101751677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.986317,
+    46.454443,
+    16.986317,
+    46.454443
+],
+  "geometry": {"coordinates":[16.986317,46.454443],"type":"Point"}
+}

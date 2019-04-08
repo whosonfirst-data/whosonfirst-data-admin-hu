@@ -1,0 +1,67 @@
+{
+  "id": 1293598801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76667,46.56667,19.76667,46.56667",
+    "geom:latitude":46.56667,
+    "geom:longitude":19.76667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nagyszekdulo",
+    "gn:country_code":"HU",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047543,
+    "gn:latitude":46.56667,
+    "gn:longitude":19.76667,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Nagysz\u00e9kd\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047543
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"860423fae38cd8c96f348803ca193192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293598801,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1293598801,
+    "wof:lastmodified":1536624577,
+    "wof:name":"Nagyszekdulo",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76667,
+    46.56667,
+    19.76667,
+    46.56667
+],
+  "geometry": {"coordinates":[19.76667,46.56667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226719699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10728,47.79403,19.10728,47.79403",
+    "geom:latitude":47.79403,
+    "geom:longitude":19.10728,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Buki",
+    "gn:country_code":"HU",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054596,
+    "gn:latitude":47.79403,
+    "gn:longitude":19.10728,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buki Cs\u00e1rda",
+        "Buki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054596
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"640b11d2c1f969437e74539fcd10420e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226719699,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1226719699,
+    "wof:lastmodified":1537626261,
+    "wof:name":"Buki",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10728,
+    47.79403,
+    19.10728,
+    47.79403
+],
+  "geometry": {"coordinates":[19.10728,47.79403],"type":"Point"}
+}

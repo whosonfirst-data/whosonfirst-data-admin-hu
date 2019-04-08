@@ -1,0 +1,148 @@
+{
+  "id": 85901117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":334175.832597,
+    "geom:bbox":"19.0383064126,47.4823207598,19.0479214425,47.4921528144",
+    "geom:latitude":47.487504,
+    "geom:longitude":19.042957,
+    "gn:latitude":47.48333,
+    "gn:longitude":19.05,
+    "iso:country":"HU",
+    "lbl:latitude":47.485554,
+    "lbl:longitude":19.041507,
+    "mps:latitude":47.487679,
+    "mps:longitude":19.043831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:arg_x_preferred":[
+        "Tozal Gell\u00e9rt"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0430 \u0413\u0435\u043b\u0435\u0440\u0442"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043b\u0435\u0440\u0442"
+    ],
+    "name:ces_x_preferred":[
+        "Gell\u00e9rtova hora"
+    ],
+    "name:deu_x_preferred":[
+        "Gell\u00e9rtberg"
+    ],
+    "name:eng_x_preferred":[
+        "Gell\u00e9rthegy"
+    ],
+    "name:epo_x_preferred":[
+        "Monto Gell\u00e9rt"
+    ],
+    "name:est_x_preferred":[
+        "Gell\u00e9rti m\u00e4gi"
+    ],
+    "name:fin_x_preferred":[
+        "Gell\u00e9rtinvuori"
+    ],
+    "name:fra_x_preferred":[
+        "Gell\u00e9rt-hegy"
+    ],
+    "name:hun_x_colloquial":[
+        "Gellerthegy"
+    ],
+    "name:hun_x_preferred":[
+        "Gell\u00e9rthegy"
+    ],
+    "name:spa_x_preferred":[
+        "Colina Gell\u00e9rt"
+    ],
+    "name:unk_x_variant":[
+        "Gellert",
+        "Gell\u00e9rthegy"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3054643,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Gell\u00e9rthegy",
+    "qs:local_max":25522,
+    "qs:local_sum":154909,
+    "qs:localhoods":67,
+    "qs:name":"Gell\u00e9rthegy",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Budapest",
+    "qs:name_adm2":"Budapest I.",
+    "qs:name_local":"Budapest",
+    "qs:photo_max":331,
+    "qs:photo_sum":1993,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577915,
+    "qs:woe_adm2":12594535,
+    "qs:woe_lau":0,
+    "qs:woe_local":804365,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":737,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052342,
+        "gp:id":807022,
+        "qs:id":898542,
+        "qs_pg:id":898542,
+        "wd:id":"Q577122"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"8c8e7c0b2b4d63f91f04395dd2c82e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901117,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85901117,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527638897,
+    "wof:name":"Gellerthegy",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.038306412601,
+    47.48232075982794,
+    19.04792144250536,
+    47.49215281437732
+],
+  "geometry": {"coordinates":[[[19.04769192220022,47.49076091660045],[19.04779642674168,47.4902969404253],[19.04754638670011,47.49029694157291],[19.04685974120019,47.4902969423441],[19.04685974120019,47.4898329635751],[19.0461730957,47.48983296348014],[19.0461730957,47.48936898140012],[19.0461730957,47.4889989441733],[19.0461730957,47.48881103526396],[19.04642314231319,47.48844099930041],[19.04631862842996,47.4879770072002],[19.04642314405322,47.48751300642506],[19.04638370390199,47.48733790784418],[19.0461730957,47.48723402006989],[19.0461730957,47.48704900560001],[19.04548645020009,47.48704900560001],[19.04548645020009,47.48658499820006],[19.04536142486324,47.48658499820006],[19.04533785759412,47.48648037232523],[19.04479980470006,47.48621496829129],[19.04479980470006,47.48565697099998],[19.04429970133492,47.48565696498683],[19.04205322268649,47.48565696143349],[19.04205322268524,47.48380086740009],[19.04205322267512,47.48367546983248],[19.03930664061687,47.48232075982794],[19.038306412601,47.48380080182535],[19.03830642737205,47.48380086740009],[19.03872451894097,47.4856569546002],[19.0385564878585,47.48640289004028],[19.03930664061261,47.48751299943369],[19.04205322268109,47.48751300275264],[19.04205322268552,47.48862890409693],[19.04205322270008,47.48936898140012],[19.04342651370013,47.48936898140012],[19.04342651370013,47.49029694026684],[19.04342651370013,47.49122488820008],[19.04342651370013,47.49128749505481],[19.04442474994141,47.49177994260624],[19.04450873093532,47.49215281292523],[19.04479980470006,47.49215281407631],[19.0461730957,47.49215281428353],[19.04754638670022,47.49215281437732],[19.04783746049122,47.49215281292523],[19.04792144250536,47.49177994415489],[19.04779642467685,47.49122488820008],[19.04769192220022,47.49076091660045]]],"type":"Polygon"}
+}

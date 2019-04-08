@@ -1,0 +1,141 @@
+{
+  "id": 101790255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1057349.619917,
+    "geom:bbox":"18.6360446665,46.4635324135,18.6475440308,46.4856060592",
+    "geom:latitude":46.474258,
+    "geom:longitude":18.64214,
+    "iso:country":"HU",
+    "lbl:latitude":46.47412,
+    "lbl:longitude":18.64349,
+    "mps:latitude":46.47412,
+    "mps:longitude":18.64349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8fc8\u8fea\u7459"
+    ],
+    "name:dut_x_preferred":[
+        "Medina"
+    ],
+    "name:eng_x_preferred":[
+        "Medina"
+    ],
+    "name:epo_x_preferred":[
+        "Medina"
+    ],
+    "name:fra_x_preferred":[
+        "Medina"
+    ],
+    "name:fre_x_preferred":[
+        "Medina"
+    ],
+    "name:ger_x_preferred":[
+        "Medina"
+    ],
+    "name:hun_x_preferred":[
+        "Medina"
+    ],
+    "name:ita_x_preferred":[
+        "Medina"
+    ],
+    "name:may_x_preferred":[
+        "Medina"
+    ],
+    "name:msa_x_preferred":[
+        "Medina"
+    ],
+    "name:nld_x_preferred":[
+        "Medina"
+    ],
+    "name:ron_x_preferred":[
+        "Medina"
+    ],
+    "name:rum_x_preferred":[
+        "Medina"
+    ],
+    "name:slk_x_preferred":[
+        "Medina"
+    ],
+    "name:slo_x_preferred":[
+        "Medina"
+    ],
+    "name:slv_x_preferred":[
+        "Medina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062f\u06cc\u0646\u06c1\u060c \u06c1\u0646\u06af\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u8fea\u7459"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Tolna",
+    "qs:a1r":"0D\u00e9l-Dun\u00e1nt\u00fal",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Szedres",
+    "qs:la_lc":"*HU41747041681",
+    "qs:level":"locality",
+    "qs:loc":"Medina",
+    "qs:loc_alt":"Medina",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1163d02c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3048242,
+        "gp:id":811768,
+        "qs:id":250473,
+        "wd:id":"Q924896",
+        "wk:page":"Medina, Hungary"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f6c06cc5b933520ce76aa5589ec0461a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790255,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":101790255,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527641603,
+    "wof:name":"Medina",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63604466649019,
+    46.46353241349624,
+    18.647544030765,
+    46.48560605923171
+],
+  "geometry": {"coordinates":[[[18.64238430087119,46.4835051463981],[18.64209324921927,46.48171798067284],[18.64338726013563,46.48161337422931],[18.64309619110469,46.47982620954997],[18.64439015487869,46.47972159157172],[18.64409906847396,46.47793442793807],[18.64539298510999,46.47782979842572],[18.6452474300753,46.47693621750733],[18.64654132085133,46.47683157443606],[18.6462501871207,46.47504441439617],[18.647544030765,46.47493975979245],[18.64739845207157,46.47404618067065],[18.64610462969875,46.47415083324825],[18.64537693701061,46.46968291622807],[18.64667065303718,46.46957827378031],[18.64623404915028,46.46689752061934],[18.64752769679779,46.4667928686668],[18.64723661647935,46.4650057001823],[18.64335578736973,46.4653195971423],[18.64306485979364,46.46353241349624],[18.64177128345216,46.46363701060466],[18.64191672283323,46.4645306048285],[18.64062312065016,46.46463518838027],[18.64076854505777,46.46552878387604],[18.63947491703226,46.46563335387066],[18.63962032646452,46.46652695063858],[18.63832667259567,46.4666315070757],[18.63847206705071,46.46752510511556],[18.63976574218503,46.46742054665447],[18.64092929436958,46.47456928771561],[18.63963544908057,46.4746738623719],[18.63992635748798,46.47646104416947],[18.63604466649019,46.4767746867754],[18.63619006630358,46.47766828262019],[18.63748398915993,46.47756374864622],[18.63806573642307,46.48113811641718],[18.63677172845405,46.48124265848855],[18.63706259727195,46.4830298419165],[18.63835664780305,46.48292529579612],[18.63879306206707,46.48560605923171],[18.64138127707685,46.48539690807752],[18.6410902428089,46.48360974130577],[18.64238430087119,46.4835051463981]]],"type":"Polygon"}
+}

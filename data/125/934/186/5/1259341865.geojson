@@ -1,0 +1,68 @@
+{
+  "id": 1259341865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51218,46.59384,18.51218,46.59384",
+    "geom:latitude":46.59384,
+    "geom:longitude":18.51218,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Udvari",
+    "gn:country_code":"HU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043620,
+    "gn:latitude":46.59384,
+    "gn:longitude":18.51218,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Udvari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043620,
+        "wk:page":"Udvari"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4f7cdc704dc5c745c52e2bf77b3162c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259341865,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1259341865,
+    "wof:lastmodified":1537563366,
+    "wof:name":"Udvari",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51218,
+    46.59384,
+    18.51218,
+    46.59384
+],
+  "geometry": {"coordinates":[18.51218,46.59384],"type":"Point"}
+}

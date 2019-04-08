@@ -1,0 +1,61 @@
+{
+  "id": 1209290375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78572,47.7078,21.78572,47.7078",
+    "geom:latitude":47.7078,
+    "geom:longitude":21.78572,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Szallasfold",
+    "gn:country_code":"HU",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715543,
+    "gn:latitude":47.7078,
+    "gn:longitude":21.78572,
+    "gn:modification_date":"2008-03-26",
+    "gn:name":"Sz\u00e1ll\u00e1sf\u00f6ld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715543
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"0add02b4d430b3497fdd937d2b1de137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209290375
+        }
+    ],
+    "wof:id":1209290375,
+    "wof:lastmodified":1536291714,
+    "wof:name":"Szallasfold",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78572,
+    47.7078,
+    21.78572,
+    47.7078
+],
+  "geometry": {"coordinates":[21.78572,47.7078],"type":"Point"}
+}

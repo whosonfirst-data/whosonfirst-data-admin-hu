@@ -1,0 +1,65 @@
+{
+  "id": 1209628289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83449,46.15668,17.83449,46.15668",
+    "geom:latitude":46.15668,
+    "geom:longitude":17.83449,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Szentlaszlo",
+    "gn:country_code":"HU",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044590,
+    "gn:latitude":46.15668,
+    "gn:longitude":17.83449,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Szentl\u00e1szl\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szentl\u00e1szl\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044590,
+        "wk:page":"Szentl%C3%A1szl%C3%B3"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c455e913a7b04faef7a43f5873cc64ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209628289
+        }
+    ],
+    "wof:id":1209628289,
+    "wof:lastmodified":1537626209,
+    "wof:name":"Szentlaszlo",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83449,
+    46.15668,
+    17.83449,
+    46.15668
+],
+  "geometry": {"coordinates":[17.83449,46.15668],"type":"Point"}
+}

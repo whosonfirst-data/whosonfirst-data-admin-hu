@@ -1,0 +1,93 @@
+{
+  "id": 1126066125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93333,47.25,16.93333,47.25",
+    "geom:latitude":47.25,
+    "geom:longitude":16.93333,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":47.25,
+    "lbl:longitude":16.93333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tizenh\u00e1romsoros"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3043889,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tizenh\u00e1romv\u00e1ros",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Vas",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":911309,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":816604,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Vas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85684863,
+        102191581,
+        85633237,
+        404227481,
+        101788035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043889,
+        "gp:id":816604,
+        "qs_pg:id":911309
+    },
+    "wof:country":"HU",
+    "wof:created":1497308910,
+    "wof:geomhash":"955b6b060e958d352a9a80878602bd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101788035,
+            "macroregion_id":404227481,
+            "neighbourhood_id":1126066125,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1126066125,
+    "wof:lastmodified":1509410434,
+    "wof:name":"Tizenh\u00e1romv\u00e1ros",
+    "wof:parent_id":101788035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93333,
+    47.25,
+    16.93333,
+    47.25
+],
+  "geometry": {"coordinates":[16.93333,47.25],"type":"Point"}
+}

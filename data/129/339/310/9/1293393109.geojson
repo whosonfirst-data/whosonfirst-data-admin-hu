@@ -1,0 +1,68 @@
+{
+  "id": 1293393109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55877,46.16191,18.55877,46.16191",
+    "geom:latitude":46.16191,
+    "geom:longitude":18.55877,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Feked",
+    "gn:country_code":"HU",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053026,
+    "gn:latitude":46.16191,
+    "gn:longitude":18.55877,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Feked",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053026,
+        "wk:page":"Feked"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"dbaf86b7c2bc58ad3ddc3b775c40b047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293393109,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1293393109,
+    "wof:lastmodified":1537563394,
+    "wof:name":"Feked",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55877000000001,
+    46.16191,
+    18.55877000000001,
+    46.16191
+],
+  "geometry": {"coordinates":[18.55877000000001,46.16191],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309765079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76296,46.33839,18.76296,46.33839",
+    "geom:latitude":46.33839,
+    "geom:longitude":18.76296,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Annamajor",
+    "gn:country_code":"HU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055960,
+    "gn:latitude":46.33839,
+    "gn:longitude":18.76296,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Annamajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055960
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"24f1c3c44e31f488b81ec6b829d78a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309765079,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1309765079,
+    "wof:lastmodified":1536989109,
+    "wof:name":"Annamajor",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76296,
+    46.33839,
+    18.76296,
+    46.33839
+],
+  "geometry": {"coordinates":[18.76296,46.33839],"type":"Point"}
+}

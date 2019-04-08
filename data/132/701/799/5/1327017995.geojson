@@ -1,0 +1,71 @@
+{
+  "id": 1327017995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.98677,47.92104,19.98677,47.92104",
+    "geom:latitude":47.92104,
+    "geom:longitude":19.98677,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Fenyespuszta",
+    "gn:country_code":"HU",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720844,
+    "gn:latitude":47.92104,
+    "gn:longitude":19.98677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00e9nyespuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9nyesipuszta",
+        "F\u00e9nyespuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720844
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d32d32e342ea7535e47cb2cef3245347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327017995,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1327017995,
+    "wof:lastmodified":1537626185,
+    "wof:name":"Fenyespuszta",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.98677,
+    47.92104000000001,
+    19.98677,
+    47.92104000000001
+],
+  "geometry": {"coordinates":[19.98677,47.92104000000001],"type":"Point"}
+}

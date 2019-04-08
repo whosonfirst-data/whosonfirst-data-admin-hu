@@ -1,0 +1,67 @@
+{
+  "id": 1226210973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51667,46.8,17.51667,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":17.51667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Csango",
+    "gn:country_code":"HU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054404,
+    "gn:latitude":46.8,
+    "gn:longitude":17.51667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Cs\u00e1ng\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054404
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"62fb61a8729053a716a7573d99033942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226210973,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1226210973,
+    "wof:lastmodified":1536983128,
+    "wof:name":"Csango",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51667,
+    46.8,
+    17.51667,
+    46.8
+],
+  "geometry": {"coordinates":[17.51667,46.8],"type":"Point"}
+}

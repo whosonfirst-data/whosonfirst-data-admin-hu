@@ -1,0 +1,82 @@
+{
+  "id": 1125999143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4021745,46.848246,16.4021745,46.848246",
+    "geom:latitude":46.848246,
+    "geom:longitude":16.402175,
+    "gn:gn_country":null,
+    "iso:country":"HU",
+    "lbl:latitude":46.848246,
+    "lbl:longitude":16.402175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Keser\u00fbszer",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Vas",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":290119,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":55847836,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Vas",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55847836,
+        "qs_pg:id":290119
+    },
+    "wof:country":"HU",
+    "wof:created":1497299541,
+    "wof:geomhash":"8847439dc9ad70a23555955a2a055c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125999143,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1125999143,
+    "wof:lastmodified":1509406001,
+    "wof:name":"Keser\u00fbszer",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4021745,
+    46.848246,
+    16.4021745,
+    46.848246
+],
+  "geometry": {"coordinates":[16.4021745,46.848246],"type":"Point"}
+}

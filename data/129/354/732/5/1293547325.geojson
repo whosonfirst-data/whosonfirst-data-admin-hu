@@ -1,0 +1,72 @@
+{
+  "id": 1293547325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56431,46.75573,16.56431,46.75573",
+    "geom:latitude":46.75573,
+    "geom:longitude":16.56431,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kalocfa",
+    "gn:country_code":"HU",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050721,
+    "gn:latitude":46.75573,
+    "gn:longitude":16.56431,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e1l\u00f3cfa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e1l\u00f3czfa",
+        "K\u00e1l\u00f3cfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050721,
+        "wk:page":"K%C3%A1l%C3%B3cfa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"9eeaab517c33394d60bc4d6e931ca8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293547325,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1293547325,
+    "wof:lastmodified":1537626237,
+    "wof:name":"Kalocfa",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56431,
+    46.75573,
+    16.56431,
+    46.75573
+],
+  "geometry": {"coordinates":[16.56431,46.75573],"type":"Point"}
+}

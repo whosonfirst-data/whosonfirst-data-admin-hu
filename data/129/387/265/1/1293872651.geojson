@@ -1,0 +1,71 @@
+{
+  "id": 1293872651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98681,47.58951,21.98681,47.58951",
+    "geom:latitude":47.58951,
+    "geom:longitude":21.98681,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dollarresz",
+    "gn:country_code":"HU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721319,
+    "gn:latitude":47.58951,
+    "gn:longitude":21.98681,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doll\u00e1rr\u00e9sz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dall\u00e1rr\u00e9sz",
+        "Doll\u00e1rr\u00e9sz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721319
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a3a89c60be9359205cacd1af5f3806e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293872651,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":1293872651,
+    "wof:lastmodified":1537626187,
+    "wof:name":"Dollarresz",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98681,
+    47.58951,
+    21.98681,
+    47.58951
+],
+  "geometry": {"coordinates":[21.98681,47.58951],"type":"Point"}
+}

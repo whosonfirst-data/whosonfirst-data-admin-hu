@@ -1,0 +1,61 @@
+{
+  "id": 1209473155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86667,46.96667,17.86667,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":17.86667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Teglavetodulo",
+    "gn:country_code":"HU",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044045,
+    "gn:latitude":46.96667,
+    "gn:longitude":17.86667,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"T\u00e9glavet\u0151d\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044045
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e8867b893adb51effb3c379c3d2664c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209473155
+        }
+    ],
+    "wof:id":1209473155,
+    "wof:lastmodified":1536286018,
+    "wof:name":"Teglavetodulo",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.866670000000006,
+    46.96667,
+    17.866670000000006,
+    46.96667
+],
+  "geometry": {"coordinates":[17.86667000000001,46.96667],"type":"Point"}
+}

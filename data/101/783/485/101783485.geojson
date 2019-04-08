@@ -1,0 +1,124 @@
+{
+  "id": 101783485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":697992.40272,
+    "geom:bbox":"19.8082007399,48.0446286572,19.831815268,48.0552061829",
+    "geom:latitude":48.049481,
+    "geom:longitude":19.820281,
+    "iso:country":"HU",
+    "lbl:latitude":48.049196,
+    "lbl:longitude":19.818135,
+    "mps:latitude":48.049196,
+    "mps:longitude":19.818135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7ef4\u65e5\u62c9\u4ec0"
+    ],
+    "name:dut_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:epo_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:fre_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:hun_x_colloquial":[
+        "Vizslas"
+    ],
+    "name:hun_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:may_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:nan_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:rum_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:slo_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:slv_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "name:vie_x_preferred":[
+        "Vizsl\u00e1s"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*N\u00f3gr\u00e1d",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Vizsl\u00e1s",
+    "qs:la_lc":"*HU51242051032",
+    "qs:level":"locality",
+    "qs:loc":"Vizsl\u00e1s",
+    "qs:loc_alt":"Vizslas",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11650960-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3042775,
+        "gp:id":817918,
+        "qs:id":915189,
+        "wd:id":"Q426734"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"593537b3e26a4ab8dcb84e5f66fa165f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101783485,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":101783485,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514448436,
+    "wof:name":"Vizsl\u00e1s",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80820073991373,
+    48.04462865721928,
+    19.83181526801951,
+    48.05520618292371
+],
+  "geometry": {"coordinates":[[[19.81202132630057,48.0521763117319],[19.81734608799468,48.05169915953218],[19.81769250337021,48.05348057709159],[19.82035494127945,48.05324189488499],[19.8198351931652,48.05056978188765],[19.82382860253159,48.0502116597267],[19.82400191249053,48.0511023575757],[19.83065759510089,48.05050515373557],[19.83048417129862,48.04961446795937],[19.83181526801951,48.04949498138194],[19.83164182918125,48.04860429726386],[19.82897967559461,48.04884324951365],[19.82880629001835,48.0479525598077],[19.82614415925502,48.04819144293128],[19.82545087633792,48.04462865721928],[19.82145791080654,48.04498683238654],[19.82180440023052,48.04676824123698],[19.81648018466149,48.04724560239811],[19.81630702715199,48.04635488870224],[19.81497598184956,48.04647418639536],[19.81549540923066,48.04914633244897],[19.81416428995527,48.04926562130203],[19.81433742508159,48.05015633755232],[19.81167512398252,48.05039487185485],[19.81184822128347,48.05128559217121],[19.8105170394586,48.05140483761971],[19.81069012170281,48.05229555959113],[19.80935891143668,48.05241479137396],[19.80953197862215,48.05330551500037],[19.80820073991373,48.05342473311703],[19.80854685187859,48.05520618292371],[19.8098781361399,48.05508695998623],[19.80970505352326,48.05419623787111],[19.81103630933939,48.05407700126671],[19.81086321166293,48.05318628080681],[19.81219443903501,48.05306703053657],[19.81202132630057,48.0521763117319]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292973473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35,47.38333,19.35,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":19.35,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Doramajor",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053569,
+    "gn:latitude":47.38333,
+    "gn:longitude":19.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00f3ramajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f3rapuszta",
+        "D\u00f3ramajor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053569
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ec79dc5f52e4e32f843ac4154c46dfd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1292973473,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1292973473,
+    "wof:lastmodified":1537626250,
+    "wof:name":"Doramajor",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35,
+    47.38333,
+    19.35,
+    47.38333
+],
+  "geometry": {"coordinates":[19.35,47.38333],"type":"Point"}
+}

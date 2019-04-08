@@ -1,0 +1,178 @@
+{
+  "id": 85901347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000574,
+    "geom:area_square_m":4798737.055775,
+    "geom:bbox":"19.1052246094,47.4862109176,19.1354370117,47.5172006978",
+    "geom:latitude":47.504152,
+    "geom:longitude":19.122315,
+    "gn:latitude":47.51758,
+    "gn:longitude":19.10549,
+    "iso:country":"HU",
+    "lbl:latitude":47.511415,
+    "lbl:longitude":19.118568,
+    "mps:latitude":47.503583,
+    "mps:longitude":19.12411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:chi_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u56db\u533a"
+    ],
+    "name:deu_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:epo_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:est_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "14e arrondissement de Budapest"
+    ],
+    "name:fre_x_preferred":[
+        "14e arrondissement de Budapest"
+    ],
+    "name:ger_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:hun_x_colloquial":[
+        "Zuglo"
+    ],
+    "name:hun_x_preferred":[
+        "Budapest XIV. ker\u00fclete"
+    ],
+    "name:hun_x_variant":[
+        "Zugl\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "14\u533a"
+    ],
+    "name:pol_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:rum_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:sco_x_preferred":[
+        "Zugl\u00f3"
+    ],
+    "name:slk_x_preferred":[
+        "XIV. obvod"
+    ],
+    "name:slo_x_preferred":[
+        "XIV. obvod"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 XIV \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Zugl\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn XIV"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u56db\u533a"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3054643,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Zugl\u00f3",
+    "qs:local_max":25522,
+    "qs:local_sum":154909,
+    "qs:localhoods":67,
+    "qs:name":"Zugl\u00f3",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Budapest",
+    "qs:name_adm2":"Budapest XIV.",
+    "qs:name_local":"Budapest",
+    "qs:photo_max":462,
+    "qs:photo_sum":1046,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":36,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577915,
+    "qs:woe_adm2":12595037,
+    "qs:woe_lau":0,
+    "qs:woe_local":804365,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":434,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042430,
+        "gp:id":818265,
+        "qs:id":240588,
+        "qs_pg:id":240588,
+        "wd:id":"Q228445",
+        "wk:page":"Zugl\u00f3"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"23df3669eec017dbadec64b7df05797c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901347,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85901347,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1553814913,
+    "wof:name":"Zugl\u00f3",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.105224609375,
+    47.48621091759914,
+    19.13543701172512,
+    47.51720069779999
+],
+  "geometry": {"coordinates":[[[19.12719726561471,47.51497102873977],[19.12819711706214,47.51349065479998],[19.13269042970012,47.51349065479998],[19.13269042970012,47.51349058922513],[19.13269042970012,47.50978034950008],[19.13269042970012,47.50978028392542],[19.13269042970012,47.50755007767803],[19.13543701172512,47.50619474511184],[19.13543701171471,47.50606978190005],[19.13543701170738,47.50495454357092],[19.13543701169999,47.50421439970002],[19.13543701169999,47.50235895200008],[19.13493700939313,47.50235895200008],[19.13468701260587,47.50124874656343],[19.13372333452259,47.49982225846291],[19.13269042970012,47.49960384590135],[19.13269042970012,47.49864785970003],[19.13269042970012,47.49641668374956],[19.13369050265885,47.49493650510003],[19.13494445602925,47.49308056550045],[19.13285465185777,47.49122488820008],[19.13269042970012,47.49107906433092],[19.13181910084347,47.49030535299353],[19.1314382468293,47.4893659678403],[19.12719726562511,47.48846938266611],[19.12363630712861,47.48621091759914],[19.12100487201667,47.48798093886622],[19.11987405448087,47.4883671161942],[19.1187871016549,47.49061919895571],[19.11821420415231,47.49122482262506],[19.11636028141049,47.49579788875333],[19.11479299083771,47.49679205125001],[19.11521090146312,47.49864785970003],[19.11604658980633,47.5023588864003],[19.11621093750011,47.50250485165689],[19.11621093750011,47.5060697163254],[19.11071777342511,47.5060697163254],[19.11071777341567,47.50606978190005],[19.11071777341579,47.50978028392542],[19.105224609375,47.50978028392542],[19.10522460938449,47.50978034950008],[19.10522460938199,47.51349058922513],[19.10522460939035,47.51349065479998],[19.10522460938449,47.51720063222534],[19.10522460940012,47.51720069779999],[19.10971795890754,47.51720069779999],[19.11071777339998,47.51720069779999],[19.11621093750011,47.51720069779999],[19.12170410160013,47.51720069779999],[19.12719726560977,47.51720069779999],[19.12719726561818,47.51720063222534],[19.12719726561471,47.51497102873977]]],"type":"Polygon"}
+}

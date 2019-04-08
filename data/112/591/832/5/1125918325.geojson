@@ -1,0 +1,82 @@
+{
+  "id": 1125918325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99007,46.88857,17.99007,46.88857",
+    "geom:latitude":46.88857,
+    "geom:longitude":17.99007,
+    "gn:gn_country":null,
+    "iso:country":"HU",
+    "lbl:latitude":46.88857,
+    "lbl:longitude":17.99007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"T\u00f6reki",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Somogy",
+    "qs_pg:photos":320,
+    "qs_pg:photos_1k":65,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":320,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":215463,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":816706,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Somogy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":816706,
+        "qs_pg:id":215463
+    },
+    "wof:country":"HU",
+    "wof:created":1497296395,
+    "wof:geomhash":"29ee3e0b2c57939660a979ca87d9e672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125918325,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1125918325,
+    "wof:lastmodified":1509400671,
+    "wof:name":"T\u00f6reki",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99007,
+    46.88857,
+    17.99007,
+    46.88857
+],
+  "geometry": {"coordinates":[17.99007,46.88857],"type":"Point"}
+}

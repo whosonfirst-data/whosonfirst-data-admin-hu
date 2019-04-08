@@ -1,0 +1,113 @@
+{
+  "id": 85901075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":21358366.660304,
+    "geom:bbox":"21.631947,47.548431,21.631947,47.548431",
+    "geom:latitude":47.548431,
+    "geom:longitude":21.631947,
+    "gn:latitude":47.55,
+    "gn:longitude":21.65,
+    "iso:country":"HU",
+    "lbl:latitude":47.548431,
+    "lbl:longitude":21.631947,
+    "mps:latitude":47.543716,
+    "mps:longitude":21.641655,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Csapokert"
+    ],
+    "name:hun_x_preferred":[
+        "Csap\u00f3kert"
+    ],
+    "name:unk_x_variant":[
+        "Csap\u00f3kert"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":721472,
+    "qs:gn_nam_loc":"Debrecen, Debrecen, Debrecen, HU",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Csap\u00f3kert",
+    "qs:local_max":894,
+    "qs:local_sum":894,
+    "qs:localhoods":1,
+    "qs:name":"Csap\u00f3kert",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Debrecen",
+    "qs:name_adm2":"Debrecen",
+    "qs:name_local":"Debrecen",
+    "qs:photo_max":194,
+    "qs:photo_sum":894,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":57,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043620,
+    "qs:woe_adm2":12593356,
+    "qs:woe_lau":0,
+    "qs:woe_local":805328,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684903,
+        102191581,
+        85633237,
+        404227483,
+        101751717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721854,
+        "gp:id":804635,
+        "qs:id":211557,
+        "qs_pg:id":211557
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b55cc11407832cb203d2b974d6cb1a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751717,
+            "macroregion_id":404227483,
+            "neighbourhood_id":85901075,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":85901075,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932429,
+    "wof:name":"Csap\u00f3kert",
+    "wof:parent_id":101751717,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.631947,
+    47.548431,
+    21.631947,
+    47.548431
+],
+  "geometry": {"coordinates":[21.631947,47.548431],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310387633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96667,47.46667,18.96667,47.46667",
+    "geom:latitude":47.46667,
+    "geom:longitude":18.96667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Budakeszierdo",
+    "gn:country_code":"HU",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054647,
+    "gn:latitude":47.46667,
+    "gn:longitude":18.96667,
+    "gn:modification_date":"2015-11-06",
+    "gn:name":"Budakeszierd\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054647
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"674e0735c8b0f64eba5099e906afb45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310387633,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1310387633,
+    "wof:lastmodified":1537083854,
+    "wof:name":"Budakeszierdo",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96667,
+    47.46667,
+    18.96667,
+    47.46667
+],
+  "geometry": {"coordinates":[18.96667,47.46667],"type":"Point"}
+}

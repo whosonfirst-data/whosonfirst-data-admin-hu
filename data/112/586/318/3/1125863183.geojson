@@ -1,0 +1,98 @@
+{
+  "id": 1125863183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.093436,46.270622,20.093436,46.270622",
+    "geom:latitude":46.270622,
+    "geom:longitude":20.093436,
+    "gn:gn_country":null,
+    "iso:country":"HU",
+    "lbl:latitude":46.270622,
+    "lbl:longitude":20.093436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kiskundorozsma"
+    ],
+    "name:eng_x_preferred":[
+        "Kiskundorozsma"
+    ],
+    "name:epo_x_preferred":[
+        "Kiskundorozsma"
+    ],
+    "name:hrv_x_preferred":[
+        "Dru\u017ema"
+    ],
+    "name:hun_x_preferred":[
+        "Kiskundorozsma"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kiskundorozsma",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Szeged",
+    "qs_pg:photos":111,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":111,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1194348,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":809821,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Szeged",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":809821,
+        "qs_pg:id":1194348,
+        "wd:id":"Q1111064"
+    },
+    "wof:country":"HU",
+    "wof:created":1497293921,
+    "wof:geomhash":"eb23c8c9178bff525c045864a2457edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125863183,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":1125863183,
+    "wof:lastmodified":1514448121,
+    "wof:name":"Kiskundorozsma",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.093436,
+    46.270622,
+    20.093436,
+    46.270622
+],
+  "geometry": {"coordinates":[20.093436,46.270622],"type":"Point"}
+}

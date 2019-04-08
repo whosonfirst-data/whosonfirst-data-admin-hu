@@ -1,0 +1,145 @@
+{
+  "id": 85901263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000578,
+    "geom:area_square_m":4825384.904677,
+    "geom:bbox":"19.1519165039,47.5254572235,19.1848754883,47.5502771097",
+    "geom:latitude":47.537249,
+    "geom:longitude":19.169407,
+    "gn:latitude":47.52462,
+    "gn:longitude":19.15501,
+    "iso:country":"HU",
+    "lbl:latitude":47.525981,
+    "lbl:longitude":19.166748,
+    "mps:latitude":47.538943,
+    "mps:longitude":19.169093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:ces_x_preferred":[
+        "Helyi\u00e9rdek\u0171 Vas\u00fat"
+    ],
+    "name:deu_x_preferred":[
+        "Budapesti Helyi\u00e9rdek\u0171 Vas\u00fat"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00e1kosszentmih\u00e1ly"
+    ],
+    "name:fra_x_preferred":[
+        "Train suburbain de Budapest"
+    ],
+    "name:hun_x_colloquial":[
+        "Rakosszentmihaly"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1kosszentmih\u00e1ly"
+    ],
+    "name:hun_x_variant":[
+        "Budapesti Helyi\u00e9rdek\u0171 Vas\u00fat"
+    ],
+    "name:ita_x_preferred":[
+        "BH\u00c9V"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30c0\u30da\u30b9\u30c8\u90ca\u5916\u96fb\u8eca"
+    ],
+    "name:nld_x_preferred":[
+        "Budapesti Helyi\u00e9rdek\u0171 Vas\u00fat"
+    ],
+    "name:pol_x_preferred":[
+        "BH\u00c9V"
+    ],
+    "name:rus_x_preferred":[
+        "BH\u00c9V"
+    ],
+    "name:swe_x_preferred":[
+        "Budapests pendelt\u00e5g"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e1kosszentmih\u00e1ly"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3054643,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"R\u00e1kosszentmih\u00e1ly",
+    "qs:local_max":25522,
+    "qs:local_sum":154909,
+    "qs:localhoods":67,
+    "qs:name":"R\u00e1kosszentmih\u00e1ly",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Budapest",
+    "qs:name_adm2":"Budapest XVI.",
+    "qs:name_local":"Budapest",
+    "qs:photo_max":7,
+    "qs:photo_sum":14,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577915,
+    "qs:woe_adm2":12593831,
+    "qs:woe_lau":0,
+    "qs:woe_local":804365,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045960,
+        "gp:id":814266,
+        "qs:id":496787,
+        "qs_pg:id":496787
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"407e49a9ee2a5c7708c86cf288793bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901263,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85901263,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1536864510,
+    "wof:name":"Rakosszentmihaly",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1519165039,
+    47.52545722353882,
+    19.18487548827522,
+    47.55027710965133
+],
+  "geometry": {"coordinates":[[[19.1709905059023,47.54714188061779],[19.171003852909,47.54712561724303],[19.17193825692999,47.54740906560399],[19.17388916015028,47.5476012128001],[19.17584006337034,47.54740906560399],[19.17771599447377,47.54684000812527],[19.17944486248047,47.54591590892302],[19.18096022796203,47.54467228061203],[19.18189364915133,47.54353490360212],[19.18189850118461,47.54352899138253],[19.18320915852371,47.54313140782524],[19.18487548827522,47.54224073601704],[19.18487548827522,47.53018361872545],[19.18245144380057,47.52659351455334],[19.18212890622516,47.52647410032542],[19.17663574217522,47.52647410032542],[19.17388916015028,47.52545722353882],[19.17180162543002,47.5262300989085],[19.166780784715,47.53096202325959],[19.16359878574758,47.53064784231354],[19.16290283202511,47.53017933790973],[19.15832158129274,47.52832892510044],[19.1519165039,47.52832892510044],[19.1519165039,47.53167868625219],[19.15466308590004,47.53574691261339],[19.15466308590004,47.53574697819995],[19.15466313017959,47.53574697819995],[19.15591489121243,47.53760108167542],[19.15466308590004,47.53945538186225],[19.1546630416567,47.53945544740004],[19.1519165039,47.5435238959238],[19.1519165039,47.54353681978542],[19.1529159884704,47.54501749545035],[19.16015625,47.54501749545035],[19.16725684183371,47.55027710965133],[19.16725793810184,47.5502659790538],[19.16845853438042,47.54962424697318],[19.16997389986204,47.54838061866191],[19.1709905059023,47.54714188061779]]],"type":"Polygon"}
+}

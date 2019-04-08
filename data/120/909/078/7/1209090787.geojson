@@ -1,0 +1,61 @@
+{
+  "id": 1209090787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88333,46.13333,17.88333,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":17.88333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Elekpuszta",
+    "gn:country_code":"HU",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053339,
+    "gn:latitude":46.13333,
+    "gn:longitude":17.88333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Elekpuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053339
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"be4af81acd287003a1c1b8d851026e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209090787
+        }
+    ],
+    "wof:id":1209090787,
+    "wof:lastmodified":1536298042,
+    "wof:name":"Elekpuszta",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.883329999999994,
+    46.13333,
+    17.883329999999994,
+    46.13333
+],
+  "geometry": {"coordinates":[17.88332999999999,46.13333],"type":"Point"}
+}

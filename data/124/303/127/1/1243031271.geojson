@@ -1,0 +1,71 @@
+{
+  "id": 1243031271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19724,48.18185,22.19724,48.18185",
+    "geom:latitude":48.18185,
+    "geom:longitude":22.19724,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lovopetri",
+    "gn:country_code":"HU",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":718033,
+    "gn:latitude":48.18185,
+    "gn:longitude":22.19724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00f6v\u0151petri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00f6v\u0151petri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718033,
+        "wk:page":"L%C3%B6v%C5%91petri"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ffcc5ef8eafe021f197c2321ccfab3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243031271,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1243031271,
+    "wof:lastmodified":1537626176,
+    "wof:name":"Lovopetri",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19724,
+    48.18185,
+    22.19724,
+    48.18185
+],
+  "geometry": {"coordinates":[22.19724,48.18185],"type":"Point"}
+}

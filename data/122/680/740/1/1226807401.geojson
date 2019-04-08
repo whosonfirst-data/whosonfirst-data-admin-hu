@@ -1,0 +1,71 @@
+{
+  "id": 1226807401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33881,47.30795,17.33881,47.30795",
+    "geom:latitude":47.30795,
+    "geom:longitude":17.33881,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mihalyhaza",
+    "gn:country_code":"HU",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048084,
+    "gn:latitude":47.30795,
+    "gn:longitude":17.33881,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mih\u00e1lyh\u00e1za",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mih\u00e1lyh\u00e1za"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048084,
+        "wk:page":"Mih%C3%A1lyh%C3%A1za"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b473c7d92ea4f5f4c6065a7306517a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226807401,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1226807401,
+    "wof:lastmodified":1537626225,
+    "wof:name":"Mihalyhaza",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33881,
+    47.30795,
+    17.33881,
+    47.30795
+],
+  "geometry": {"coordinates":[17.33881,47.30795],"type":"Point"}
+}

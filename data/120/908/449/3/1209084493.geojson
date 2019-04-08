@@ -1,0 +1,61 @@
+{
+  "id": 1209084493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83333,47.65,19.83333,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":19.83333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Csanyi Tanyak",
+    "gn:country_code":"HU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054397,
+    "gn:latitude":47.65,
+    "gn:longitude":19.83333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Cs\u00e1nyi Tany\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054397
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"05867ce0fc50b15e70701638d70a89c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209084493
+        }
+    ],
+    "wof:id":1209084493,
+    "wof:lastmodified":1536298231,
+    "wof:name":"Csanyi Tanyak",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83333,
+    47.65,
+    19.83333,
+    47.65
+],
+  "geometry": {"coordinates":[19.83333,47.65],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225913055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78788,47.37885,16.78788,47.37885",
+    "geom:latitude":47.37885,
+    "geom:longitude":16.78788,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Buekfuerdo",
+    "gn:country_code":"HU",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7288070,
+    "gn:latitude":47.37885,
+    "gn:longitude":16.78788,
+    "gn:modification_date":"2015-02-19",
+    "gn:name":"B\u00fckf\u00fcrd\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "B\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7288070
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"eb433fbb0c6026e91717dc6eb55b9ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225913055,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1225913055,
+    "wof:lastmodified":1537626278,
+    "wof:name":"Buekfuerdo",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78788,
+    47.37885,
+    16.78788,
+    47.37885
+],
+  "geometry": {"coordinates":[16.78788,47.37885],"type":"Point"}
+}

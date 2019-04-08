@@ -1,0 +1,72 @@
+{
+  "id": 1293661693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16695,47.73026,19.16695,47.73026",
+    "geom:latitude":47.73026,
+    "geom:longitude":19.16695,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Csorogimajor",
+    "gn:country_code":"HU",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053910,
+    "gn:latitude":47.73026,
+    "gn:longitude":19.16695,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cs\u00f6r\u00f6gimajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cs\u00f6r\u00f6gmajor",
+        "Cs\u00f6r\u00f6g",
+        "Cs\u00f6r\u00f6gimajor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053910
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a3db36be33aa36387c08544bcc23955a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293661693,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1293661693,
+    "wof:lastmodified":1537626253,
+    "wof:name":"Csorogimajor",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16695,
+    47.73026,
+    19.16695,
+    47.73026
+],
+  "geometry": {"coordinates":[19.16695,47.73026],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259993581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4,46.6,19.4,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":19.4,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Budostodulo",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054614,
+    "gn:latitude":46.6,
+    "gn:longitude":19.4,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"B\u00fcd\u00f6st\u00f3d\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fcd\u00f6st\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054614
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cb959fecd32345da1199261ef25a48e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259993581,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1259993581,
+    "wof:lastmodified":1537626262,
+    "wof:name":"Budostodulo",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4,
+    46.6,
+    19.4,
+    46.6
+],
+  "geometry": {"coordinates":[19.4,46.6],"type":"Point"}
+}

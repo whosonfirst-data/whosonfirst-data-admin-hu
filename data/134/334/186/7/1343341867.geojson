@@ -1,0 +1,71 @@
+{
+  "id": 1343341867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70875,47.62776,18.70875,47.62776",
+    "geom:latitude":47.62776,
+    "geom:longitude":18.70875,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mariahalom",
+    "gn:country_code":"HU",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048426,
+    "gn:latitude":47.62776,
+    "gn:longitude":18.70875,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"M\u00e1riahalom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e1riahalom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684885,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048426,
+        "wk:page":"M%C3%A1riahalom"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a7cfcccd17e7076c1fc3db3ffd7d611e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343341867,
+            "macroregion_id":404227479,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":1343341867,
+    "wof:lastmodified":1537626227,
+    "wof:name":"Mariahalom",
+    "wof:parent_id":85684885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70875,
+    47.62776,
+    18.70875,
+    47.62776
+],
+  "geometry": {"coordinates":[18.70875,47.62776],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101784761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:bbox":"19.3144091212,48.0299692953,19.3340392592,48.0389006221",
+    "geom:latitude":48.034701,
+    "geom:longitude":19.325857,
+    "iso:country":"HU",
+    "lbl:latitude":48.034756,
+    "lbl:longitude":19.327025,
+    "mps:latitude":48.034756,
+    "mps:longitude":19.327025,
+    "mz:hierarchy_label":1,
+    "name:hun_x_colloquial":[
+        "Szuegy",
+        "Szugy"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*N\u00f3gr\u00e1d",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Sz\u00fcgy",
+    "qs:la_lc":"*HU51242011878",
+    "qs:level":"locality",
+    "qs:loc":"Sz\u00fcgy",
+    "qs:loc_alt":"Szugy",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164b2ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3044257,
+        "gp:id":816110,
+        "qs:id":939798
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b238a82bb08a9c0a231004d452829b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784761,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":101784761,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1466625929,
+    "wof:name":"Sz\u00fcgy",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31440912121161,
+    48.02996929533191,
+    19.33403925918736,
+    48.03890062212326
+],
+  "geometry": {"coordinates":[[[19.32088632919027,48.03890062212326],[19.33154042204711,48.03799368322666],[19.33170501585698,48.03888527828224],[19.33303677604783,48.03877183619738],[19.33270755007993,48.03698864995533],[19.33403925918736,48.0368751963648],[19.33288703967554,48.03063403789776],[19.33022393583337,48.0308608968669],[19.33005940808266,48.02996929533191],[19.32739632835404,48.03019608534532],[19.32756081043033,48.03108769146615],[19.32489766347226,48.03131442169524],[19.32506210720629,48.03220603168126],[19.31973565728765,48.0326593081902],[19.31957130491361,48.03176768903768],[19.31690809332474,48.03199422614978],[19.3170724000164,48.03288584988388],[19.31440912121161,48.03311232720205],[19.31457338954635,48.03400395479724],[19.3159050544831,48.03389072189509],[19.31606935298908,48.03478234648134],[19.31740103538652,48.03466909519477],[19.31772970007466,48.0364523376299],[19.32039314009484,48.03622577760922],[19.32088632919027,48.03890062212326]]],"type":"Polygon"}
+}

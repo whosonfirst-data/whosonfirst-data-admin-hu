@@ -1,0 +1,67 @@
+{
+  "id": 1276946135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6,47.3,17.6,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":17.6,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Alsomezo",
+    "gn:country_code":"HU",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056121,
+    "gn:latitude":47.3,
+    "gn:longitude":17.6,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Als\u00f3mez\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056121
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"53d6156a6abb56acb2d0b030ee4077f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276946135,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1276946135,
+    "wof:lastmodified":1536952718,
+    "wof:name":"Alsomezo",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6,
+    47.3,
+    17.6,
+    47.3
+],
+  "geometry": {"coordinates":[17.6,47.3],"type":"Point"}
+}

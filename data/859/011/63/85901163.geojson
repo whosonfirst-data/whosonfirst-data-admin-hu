@@ -1,0 +1,148 @@
+{
+  "id": 85901163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22429988.438541,
+    "geom:bbox":"18.739289,47.796731,18.739289,47.796731",
+    "geom:latitude":47.796731,
+    "geom:longitude":18.739289,
+    "gn:latitude":47.78333,
+    "gn:longitude":18.75,
+    "iso:country":"HU",
+    "lbl:latitude":47.796731,
+    "lbl:longitude":18.739289,
+    "mps:latitude":47.783631,
+    "mps:longitude":18.750205,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:epo_x_preferred":[
+        "\u021ae\u021bchea"
+    ],
+    "name:fra_x_preferred":[
+        "\u021ae\u021bchea"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina \u0162e\u0163chea"
+    ],
+    "name:hun_x_colloquial":[
+        "Koalja",
+        "Koaljai Dulo"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0151alja"
+    ],
+    "name:hun_x_variant":[
+        "K\u0151aljai D\u016fl\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "\u021ae\u021bchea"
+    ],
+    "name:msa_x_preferred":[
+        "\u0162e\u0163chea"
+    ],
+    "name:nld_x_preferred":[
+        "\u021ae\u021bchea"
+    ],
+    "name:por_x_preferred":[
+        "\u0162e\u0163chea"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u021ae\u021bchea"
+    ],
+    "name:sqi_x_preferred":[
+        "\u0162e\u0163chea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0446\u043a\u044f"
+    ],
+    "name:unk_x_variant":[
+        "K\u0151aljai D\u016fl\u0151",
+        "K\u0151alja"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3053163,
+    "qs:gn_nam_loc":"Esztergom, Esztergom, Kom\u00e1rom-Esztergom, HU",
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"K\u0151alja",
+    "qs:local_max":2348,
+    "qs:local_sum":2390,
+    "qs:localhoods":3,
+    "qs:name":"K\u0151alja",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Kom\u00e1rom-Esztergom",
+    "qs:name_adm2":"Esztergom",
+    "qs:name_local":"Esztergom",
+    "qs:photo_max":383,
+    "qs:photo_sum":2348,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":94,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577921,
+    "qs:woe_adm2":12593798,
+    "qs:woe_lau":0,
+    "qs:woe_local":806023,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684885,
+        102191581,
+        85633237,
+        404227479,
+        101833287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049651,
+        "gp:id":810142,
+        "qs:id":1167204,
+        "qs_pg:id":1167204
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7bb17e95a4ac57989e0e6c287710bffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101833287,
+            "macroregion_id":404227479,
+            "neighbourhood_id":85901163,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":85901163,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932446,
+    "wof:name":"K\u0151alja",
+    "wof:parent_id":101833287,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.739289,
+    47.796731,
+    18.739289,
+    47.796731
+],
+  "geometry": {"coordinates":[18.739289,47.796731],"type":"Point"}
+}

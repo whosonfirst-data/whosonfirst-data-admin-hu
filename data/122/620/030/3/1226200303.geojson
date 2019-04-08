@@ -1,0 +1,71 @@
+{
+  "id": 1226200303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80134,46.6736,16.80134,46.6736",
+    "geom:latitude":46.6736,
+    "geom:longitude":16.80134,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Tofej",
+    "gn:country_code":"HU",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043880,
+    "gn:latitude":46.6736,
+    "gn:longitude":16.80134,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00f3fej",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f3fej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043880,
+        "wk:page":"T%C3%B3fej"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"078727b4caf9e144e3d94602c211b178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226200303,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1226200303,
+    "wof:lastmodified":1537626207,
+    "wof:name":"Tofej",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80134,
+    46.6736,
+    16.80134,
+    46.6736
+],
+  "geometry": {"coordinates":[16.80134,46.6736],"type":"Point"}
+}

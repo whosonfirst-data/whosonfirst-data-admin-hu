@@ -1,0 +1,71 @@
+{
+  "id": 1293889799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36667,48.13333,20.36667,48.13333",
+    "geom:latitude":48.13333,
+    "geom:longitude":20.36667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bukkmogyorosd",
+    "gn:country_code":"HU",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721977,
+    "gn:latitude":48.13333,
+    "gn:longitude":20.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fckkmogyor\u00f3sd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fckkmogyor\u00f3sd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721977,
+        "wk:page":"B%C3%BCkkmogyor%C3%B3sd"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"15b7530b38f31f23232fdbe3e3e46563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293889799,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1293889799,
+    "wof:lastmodified":1537626192,
+    "wof:name":"Bukkmogyorosd",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36667000000001,
+    48.13333,
+    20.36667000000001,
+    48.13333
+],
+  "geometry": {"coordinates":[20.36667000000001,48.13333],"type":"Point"}
+}

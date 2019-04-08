@@ -1,0 +1,71 @@
+{
+  "id": 1242845867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27088,46.26477,17.27088,46.26477",
+    "geom:latitude":46.26477,
+    "geom:longitude":17.27088,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bolhas",
+    "gn:country_code":"HU",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054837,
+    "gn:latitude":46.26477,
+    "gn:longitude":17.27088,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bolh\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolh\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054837,
+        "wk:page":"Bolh%C3%A1s"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a2a81852ee7fb9839a14a9d1021c4a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242845867,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1242845867,
+    "wof:lastmodified":1537626263,
+    "wof:name":"Bolhas",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27088,
+    46.26477,
+    17.27088,
+    46.26477
+],
+  "geometry": {"coordinates":[17.27088,46.26477],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293597905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41806,45.90722,18.41806,45.90722",
+    "geom:latitude":45.90722,
+    "geom:longitude":18.41806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ivanbattyan",
+    "gn:country_code":"HU",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3051037,
+    "gn:latitude":45.90722,
+    "gn:longitude":18.41806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iv\u00e1nbatty\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iv\u00e1nbatty\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3051037,
+        "wk:page":"Iv%C3%A1nbatty%C3%A1n"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"2ce5ef4546e583462ff38e7acd30e5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293597905,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1293597905,
+    "wof:lastmodified":1537626238,
+    "wof:name":"Ivanbattyan",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41806,
+    45.90722,
+    18.41806,
+    45.90722
+],
+  "geometry": {"coordinates":[18.41806,45.90722],"type":"Point"}
+}

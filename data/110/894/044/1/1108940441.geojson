@@ -1,0 +1,75 @@
+{
+  "id": 1108940441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0349122043,47.559214908,19.0349122043,47.559214908",
+    "geom:latitude":47.559215,
+    "geom:longitude":19.034912,
+    "iso:country":"HU",
+    "lbl:latitude":47.559215,
+    "lbl:longitude":19.034912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kasz\u00e1sd\u0171l\u0151"
+    ],
+    "name:fre_x_preferred":[
+        "Kasz\u00e1sd\u0171l\u0151"
+    ],
+    "name:hun_x_preferred":[
+        "Kasz\u00e1sd\u0171l\u0151"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1105369"
+    },
+    "wof:country":"HU",
+    "wof:created":1491361746,
+    "wof:geomhash":"345fb533bc7ee026308852d7020ec8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940441,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940441,
+    "wof:lastmodified":1514448106,
+    "wof:name":"Kaszasdulo",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03491220433907,
+    47.55921490799565,
+    19.03491220433907,
+    47.55921490799565
+],
+  "geometry": {"coordinates":[19.03491220433907,47.55921490799565],"type":"Point"}
+}

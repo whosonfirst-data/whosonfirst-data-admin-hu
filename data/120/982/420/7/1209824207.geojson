@@ -1,0 +1,71 @@
+{
+  "id": 1209824207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08333,46.16667,18.08333,46.16667",
+    "geom:latitude":46.16667,
+    "geom:longitude":18.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Husztot",
+    "gn:country_code":"HU",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3051225,
+    "gn:latitude":46.16667,
+    "gn:longitude":18.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huszt\u00f3t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huszt\u00f3t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3051225,
+        "wk:page":"Huszt%C3%B3t"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7552e88272f6ac33da33ea68fadda6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1209824207,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1209824207,
+    "wof:lastmodified":1537626239,
+    "wof:name":"Husztot",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08333,
+    46.16667,
+    18.08333,
+    46.16667
+],
+  "geometry": {"coordinates":[18.08333,46.16667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260290743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9381,48.34972,21.9381,48.34972",
+    "geom:latitude":48.34972,
+    "geom:longitude":21.9381,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kisrozvagy",
+    "gn:country_code":"HU",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":718830,
+    "gn:latitude":48.34972,
+    "gn:longitude":21.9381,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kisrozv\u00e1gy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisrozv\u00e1gy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718830,
+        "wk:page":"Kisrozv%C3%A1gy"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"24f4bd556a130d243283d3e9f8061be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260290743,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1260290743,
+    "wof:lastmodified":1537626179,
+    "wof:name":"Kisrozvagy",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9381,
+    48.34972,
+    21.9381,
+    48.34972
+],
+  "geometry": {"coordinates":[21.9381,48.34972],"type":"Point"}
+}

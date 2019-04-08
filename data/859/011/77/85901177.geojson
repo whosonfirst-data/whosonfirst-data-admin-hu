@@ -1,0 +1,139 @@
+{
+  "id": 85901177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6644024.455313,
+    "geom:bbox":"21.403115,47.446834,21.403115,47.446834",
+    "geom:latitude":47.446834,
+    "geom:longitude":21.403115,
+    "gn:latitude":47.45,
+    "gn:longitude":21.4,
+    "iso:country":"HU",
+    "lbl:latitude":47.446834,
+    "lbl:longitude":21.403115,
+    "mps:latitude":47.448371,
+    "mps:longitude":21.415885,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:hun_x_colloquial":[
+        "Koeteles",
+        "Koteles"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6teles",
+        "K\u00f6teles L\u00e1szl\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:mlt_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:por_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u0442\u0435\u043b\u0435\u0448"
+    ],
+    "name:tur_x_preferred":[
+        "L\u00e1szl\u00f3 K\u00f6teles"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6teles"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":720276,
+    "qs:gn_nam_loc":"Hajd\u00faszoboszl\u00f3, Hajd\u00faszoboszl\u00f3, Hajd\u00fa-Bihar, HU",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"K\u00f6teles",
+    "qs:local_max":94,
+    "qs:local_sum":105,
+    "qs:localhoods":2,
+    "qs:name":"K\u00f6teles",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Hajd\u00fa-Bihar",
+    "qs:name_adm2":"Hajd\u00faszoboszl\u00f3",
+    "qs:name_local":"Hajd\u00faszoboszl\u00f3",
+    "qs:photo_max":3,
+    "qs:photo_sum":11,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577919,
+    "qs:woe_adm2":12593307,
+    "qs:woe_lau":0,
+    "qs:woe_local":807525,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684903,
+        102191581,
+        85633237,
+        404227483,
+        101787109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718473,
+        "gp:id":810476,
+        "qs:id":313019,
+        "qs_pg:id":313019
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1baa5fedb1d1caf90c7197c5d5721a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101787109,
+            "macroregion_id":404227483,
+            "neighbourhood_id":85901177,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":85901177,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932449,
+    "wof:name":"K\u00f6teles",
+    "wof:parent_id":101787109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.403115,
+    47.446834,
+    21.403115,
+    47.446834
+],
+  "geometry": {"coordinates":[21.403115,47.446834],"type":"Point"}
+}

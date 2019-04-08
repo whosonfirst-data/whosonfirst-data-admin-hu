@@ -1,0 +1,68 @@
+{
+  "id": 1293398801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96635,45.8956,17.96635,45.8956",
+    "geom:latitude":45.8956,
+    "geom:longitude":17.96635,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Besence",
+    "gn:country_code":"HU",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055066,
+    "gn:latitude":45.8956,
+    "gn:longitude":17.96635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Besence",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055066,
+        "wk:page":"Besence"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"444812cd616b651f4b8e3abf7b3f54ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293398801,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1293398801,
+    "wof:lastmodified":1537563401,
+    "wof:name":"Besence",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96635,
+    45.8956,
+    17.96635,
+    45.8956
+],
+  "geometry": {"coordinates":[17.96635,45.8956],"type":"Point"}
+}

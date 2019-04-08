@@ -1,0 +1,71 @@
+{
+  "id": 1343380007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24228,47.44027,17.24228,47.44027",
+    "geom:latitude":47.44027,
+    "geom:longitude":17.24228,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rabasebes",
+    "gn:country_code":"HU",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046051,
+    "gn:latitude":47.44027,
+    "gn:longitude":17.24228,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"R\u00e1basebes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e1basebes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046051,
+        "wk:page":"R%C3%A1basebes"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e365aa1f61a8ef8ec605b93de5b45844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343380007,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1343380007,
+    "wof:lastmodified":1537626216,
+    "wof:name":"Rabasebes",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24227999999999,
+    47.44027,
+    17.24227999999999,
+    47.44027
+],
+  "geometry": {"coordinates":[17.24227999999999,47.44027],"type":"Point"}
+}

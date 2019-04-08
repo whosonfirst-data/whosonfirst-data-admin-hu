@@ -1,0 +1,68 @@
+{
+  "id": 1309861687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19377,46.88667,17.19377,46.88667",
+    "geom:latitude":46.88667,
+    "geom:longitude":17.19377,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Vindornyalak",
+    "gn:country_code":"HU",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042847,
+    "gn:latitude":46.88667,
+    "gn:longitude":17.19377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vindornyalak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042847,
+        "wk:page":"Vindornyalak"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"85a9d366393162edefac9a4476199896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309861687,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1309861687,
+    "wof:lastmodified":1537563364,
+    "wof:name":"Vindornyalak",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19377,
+    46.88667,
+    17.19377,
+    46.88667
+],
+  "geometry": {"coordinates":[17.19377,46.88667],"type":"Point"}
+}

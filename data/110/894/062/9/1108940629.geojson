@@ -1,0 +1,75 @@
+{
+  "id": 1108940629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0963240928,47.480745716,19.0963240928,47.480745716",
+    "geom:latitude":47.480746,
+    "geom:longitude":19.096324,
+    "iso:country":"HU",
+    "lbl:latitude":47.480746,
+    "lbl:longitude":19.096324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Tisztvisel\u0151telep"
+    ],
+    "name:fre_x_preferred":[
+        "Tisztvisel\u0151telep"
+    ],
+    "name:hun_x_preferred":[
+        "Tisztvisel\u0151telep"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q570844"
+    },
+    "wof:country":"HU",
+    "wof:created":1491361880,
+    "wof:geomhash":"1590567614ee337f4d4de590ee7208ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940629,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940629,
+    "wof:lastmodified":1514448395,
+    "wof:name":"Tisztviselotelep",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.09632409284336,
+    47.48074571595121,
+    19.09632409284336,
+    47.48074571595121
+],
+  "geometry": {"coordinates":[19.09632409284336,47.48074571595121],"type":"Point"}
+}

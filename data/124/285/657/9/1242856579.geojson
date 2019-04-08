@@ -1,0 +1,67 @@
+{
+  "id": 1242856579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4,47.8,19.4,47.8",
+    "geom:latitude":47.8,
+    "geom:longitude":19.4,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gombaspuszta",
+    "gn:country_code":"HU",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052202,
+    "gn:latitude":47.8,
+    "gn:longitude":19.4,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Gomb\u00e1spuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052202
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bf11dd38b2f0868d62204cb0a79db831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242856579,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1242856579,
+    "wof:lastmodified":1536661858,
+    "wof:name":"Gombaspuszta",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4,
+    47.8,
+    19.4,
+    47.8
+],
+  "geometry": {"coordinates":[19.4,47.8],"type":"Point"}
+}

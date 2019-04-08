@@ -1,0 +1,68 @@
+{
+  "id": 1293742281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95491,47.04793,16.95491,47.04793",
+    "geom:latitude":47.04793,
+    "geom:longitude":16.95491,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Csehimindszent",
+    "gn:country_code":"HU",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054316,
+    "gn:latitude":47.04793,
+    "gn:longitude":16.95491,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Csehimindszent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054316,
+        "wk:page":"Csehimindszent"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b3ace3e062386ac17c059f367423f3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293742281,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1293742281,
+    "wof:lastmodified":1537563398,
+    "wof:name":"Csehimindszent",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95491,
+    47.04793,
+    16.95491,
+    47.04793
+],
+  "geometry": {"coordinates":[16.95491,47.04793],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101784715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000205,
+    "geom:area_square_m":1705231.406922,
+    "geom:bbox":"20.5091415267,47.739035017,20.5287867126,47.7550549587",
+    "geom:latitude":47.74635,
+    "geom:longitude":20.518374,
+    "iso:country":"HU",
+    "lbl:latitude":47.746184,
+    "lbl:longitude":20.518187,
+    "mps:latitude":47.746184,
+    "mps:longitude":20.518187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8fc8\u6cfd\u585e\u8fc8\u8d56"
+    ],
+    "name:dut_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:eng_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:epo_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:fre_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:hun_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:ita_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:may_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:nan_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:rum_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:slo_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:slv_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "name:unk_x_variant":[
+        "Borsodszemere"
+    ],
+    "name:vie_x_preferred":[
+        "Mez\u0151szemere"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Mez\u0151szemere",
+    "qs:la_lc":"*HU51040032508",
+    "qs:level":"locality",
+    "qs:loc":"Mez\u0151szemere",
+    "qs:loc_alt":"Mezoszemere",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717640,
+        "gp:id":811932,
+        "qs:id":219037,
+        "wd:id":"Q1071607"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a3b7a066aa1a342a9c01338a7fbe43fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784715,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101784715,
+    "wof:lastmodified":1514448180,
+    "wof:name":"Mez\u0151szemere",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50914152669799,
+    47.73903501702148,
+    20.5287867126425,
+    47.75505495866872
+],
+  "geometry": {"coordinates":[[[20.51288787197325,47.75302067970154],[20.5181762712125,47.75251004815738],[20.51836011846387,47.75339956263758],[20.51968222566836,47.75327186236234],[20.51949835611362,47.75238235043832],[20.5221425080199,47.7521269072011],[20.52195860199367,47.75123739956291],[20.52460268543211,47.75098189770893],[20.52441874293942,47.75009239435741],[20.52574075340794,47.74996462208941],[20.52555679675254,47.74907512046775],[20.5282007551898,47.74881953325217],[20.52801676207588,47.74793003591788],[20.5266948081383,47.74805783493332],[20.52614294450547,47.74538933028856],[20.5287867126425,47.74513373167321],[20.52860272978296,47.7442442335838],[20.52728087099092,47.74437203829888],[20.52617727842215,47.73903501702148],[20.51295969997051,47.74031203467422],[20.51314338883549,47.74120156584507],[20.51182157592234,47.74132918255583],[20.51200525061824,47.7422187154533],[20.51068340945494,47.74234631878795],[20.51086706998012,47.74323585341187],[20.50954520056547,47.74336344336984],[20.50972884691799,47.74425297972039],[20.51105073862806,47.7441253872089],[20.51178549445774,47.74768351412769],[20.50914152669799,47.7479387036488],[20.51061107154948,47.75505495866872],[20.51325539616653,47.75479972827918],[20.51288787197325,47.75302067970154]]],"type":"Polygon"}
+}

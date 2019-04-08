@@ -1,0 +1,72 @@
+{
+  "id": 1259863009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76667,48.08333,19.76667,48.08333",
+    "geom:latitude":48.08333,
+    "geom:longitude":19.76667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Csokasbanyatelep",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054000,
+    "gn:latitude":48.08333,
+    "gn:longitude":19.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cs\u00f3k\u00e1sb\u00e1nyatelep",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e1nyatelep",
+        "Cs\u00f3k\u00e1sb\u00e1nyatelep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054000
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f634cb607668035a2a4b621ae13f3fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259863009,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":1259863009,
+    "wof:lastmodified":1537626254,
+    "wof:name":"Csokasbanyatelep",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76667,
+    48.08333,
+    19.76667,
+    48.08333
+],
+  "geometry": {"coordinates":[19.76667,48.08333],"type":"Point"}
+}

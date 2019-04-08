@@ -1,0 +1,71 @@
+{
+  "id": 1309676403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1099,46.59472,18.1099,46.59472",
+    "geom:latitude":46.59472,
+    "geom:longitude":18.1099,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Koppanyszanto",
+    "gn:country_code":"HU",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049450,
+    "gn:latitude":46.59472,
+    "gn:longitude":18.1099,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Kopp\u00e1nysz\u00e1nt\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049450,
+        "wk:page":"Kopp%C3%A1nysz%C3%A1nt%C3%B3"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"7c30331d41784924279478d7c635bd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309676403,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1309676403,
+    "wof:lastmodified":1537626231,
+    "wof:name":"Koppanyszanto",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1099,
+    46.59472,
+    18.1099,
+    46.59472
+],
+  "geometry": {"coordinates":[18.1099,46.59472],"type":"Point"}
+}

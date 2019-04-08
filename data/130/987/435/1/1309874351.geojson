@@ -1,0 +1,72 @@
+{
+  "id": 1309874351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35849,47.17212,17.35849,47.17212",
+    "geom:latitude":47.17212,
+    "geom:longitude":17.35849,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Somloszolos",
+    "gn:country_code":"HU",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045270,
+    "gn:latitude":47.17212,
+    "gn:longitude":17.35849,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soml\u00f3sz\u0151l\u0151s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soml\u00f3sz\u0151ll\u0151s",
+        "Soml\u00f3sz\u0151l\u0151s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045270,
+        "wk:page":"Soml%C3%B3sz%C5%91l%C5%91s"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"591e7d9f1d33cf6414d407ed966463b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309874351,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1309874351,
+    "wof:lastmodified":1537626213,
+    "wof:name":"Somloszolos",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35849,
+    47.17212,
+    17.35849,
+    47.17212
+],
+  "geometry": {"coordinates":[17.35849,47.17212],"type":"Point"}
+}

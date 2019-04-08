@@ -1,0 +1,111 @@
+{
+  "id": 85906427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":359621.496042,
+    "geom:bbox":"19.109465614,47.5246199313,19.1162109375,47.5320382468",
+    "geom:latitude":47.528429,
+    "geom:longitude":19.113294,
+    "gn:id":"",
+    "iso:country":"HU",
+    "lbl:latitude":47.526752,
+    "lbl:longitude":19.1185,
+    "mps:latitude":47.528464,
+    "mps:longitude":19.113474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Alsoprakos"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3r\u00e1kos"
+    ],
+    "name:hun_x_variant":[
+        "Alsoprakos"
+    ],
+    "name:unk_x_variant":[
+        "Alsoprakos"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3054643,
+    "qs:local_max":25522,
+    "qs:local_sum":154909,
+    "qs:localhoods":67,
+    "qs:name":"Alsoprakos",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Budapest",
+    "qs:name_adm2":"Budapest XIV.",
+    "qs:name_local":"Budapest",
+    "qs:photo_max":4,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577915,
+    "qs:woe_adm2":12595037,
+    "qs:woe_lau":0,
+    "qs:woe_local":804365,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723955,
+        "qs:id":1262720,
+        "qs_pg:id":1262720
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5055457f20c3d00995ed39af384a4194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85906427,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85906427,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1536864516,
+    "wof:name":"Alsorakos",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10946561395212,
+    47.52461993132512,
+    19.11621093750011,
+    47.53203824679993
+],
+  "geometry": {"coordinates":[[[19.11621093750011,47.52461993132512],[19.11071777341817,47.52461993132512],[19.11071777340976,47.52461999689997],[19.11071777341471,47.52832918742509],[19.11071772914437,47.52832925299815],[19.10946561395212,47.53018361872545],[19.11071777341891,47.53203818120012],[19.11071777339998,47.53203824679993],[19.11621093750011,47.53203824679993],[19.11621093750011,47.53203818120012],[19.11621093750011,47.52832925300002],[19.11621093750011,47.52832918742509],[19.11621093750011,47.52461999689997],[19.11621093750011,47.52461993132512]]],"type":"Polygon"}
+}

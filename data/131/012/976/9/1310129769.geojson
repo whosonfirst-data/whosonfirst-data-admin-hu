@@ -1,0 +1,70 @@
+{
+  "id": 1310129769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28333,48.18333,20.28333,48.18333",
+    "geom:latitude":48.18333,
+    "geom:longitude":20.28333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Somsaly",
+    "gn:country_code":"HU",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715727,
+    "gn:latitude":48.18333,
+    "gn:longitude":20.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Somsaly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soms\u00e1lyb\u00e1nya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715727
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"98490c3c79e93fde6870b7da4e462980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310129769,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1310129769,
+    "wof:lastmodified":1537626169,
+    "wof:name":"Somsaly",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28333,
+    48.18333,
+    20.28333,
+    48.18333
+],
+  "geometry": {"coordinates":[20.28333,48.18333],"type":"Point"}
+}

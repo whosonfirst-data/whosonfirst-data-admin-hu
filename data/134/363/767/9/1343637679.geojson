@@ -1,0 +1,71 @@
+{
+  "id": 1343637679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89346,46.77945,17.89346,46.77945",
+    "geom:latitude":46.77945,
+    "geom:longitude":17.89346,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gyertyamos",
+    "gn:country_code":"HU",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052061,
+    "gn:latitude":46.77945,
+    "gn:longitude":17.89346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gyerty\u00e1mos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyerty\u00e1nos Akol",
+        "Gyerty\u00e1mos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052061
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b6d8574da8bf4b07f25c9b57ed73037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343637679,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1343637679,
+    "wof:lastmodified":1537626242,
+    "wof:name":"Gyertyamos",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89346,
+    46.77945,
+    17.89346,
+    46.77945
+],
+  "geometry": {"coordinates":[17.89346,46.77945],"type":"Point"}
+}

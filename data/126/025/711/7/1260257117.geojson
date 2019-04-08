@@ -1,0 +1,72 @@
+{
+  "id": 1260257117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.38333,47.31667,20.38333,47.31667",
+    "geom:latitude":47.31667,
+    "geom:longitude":20.38333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hunyadfalva",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":719817,
+    "gn:latitude":47.31667,
+    "gn:longitude":20.38333,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Hunyadfalva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hunyadfalva-puszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":719817,
+        "wk:page":"Hunyadfalva"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6f574b3f4f8664b939fb0deeb60469bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260257117,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1260257117,
+    "wof:lastmodified":1537626181,
+    "wof:name":"Hunyadfalva",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.38333,
+    47.31667,
+    20.38333,
+    47.31667
+],
+  "geometry": {"coordinates":[20.38333,47.31667],"type":"Point"}
+}

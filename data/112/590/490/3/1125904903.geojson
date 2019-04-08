@@ -1,0 +1,82 @@
+{
+  "id": 1125904903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.817477,47.811684,18.817477,47.811684",
+    "geom:latitude":47.811684,
+    "geom:longitude":18.817477,
+    "gn:gn_country":null,
+    "iso:country":"HU",
+    "lbl:latitude":47.811684,
+    "lbl:longitude":18.817477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Basaharc",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Kom\u00e1rom-Esztergom",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":31419,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":803545,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Kom\u00e1rom-Esztergom",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684885,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":803545,
+        "qs_pg:id":31419
+    },
+    "wof:country":"HU",
+    "wof:created":1497295950,
+    "wof:geomhash":"36302fb3cf3f72b3e191558dee969a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125904903,
+            "macroregion_id":404227479,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":1125904903,
+    "wof:lastmodified":1509399689,
+    "wof:name":"Basaharc",
+    "wof:parent_id":85684885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.817477,
+    47.811684,
+    18.817477,
+    47.811684
+],
+  "geometry": {"coordinates":[18.817477,47.811684],"type":"Point"}
+}

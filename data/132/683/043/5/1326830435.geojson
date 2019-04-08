@@ -1,0 +1,71 @@
+{
+  "id": 1326830435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08817,48.2904,21.08817,48.2904",
+    "geom:latitude":48.2904,
+    "geom:longitude":21.08817,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hernadszentandras",
+    "gn:country_code":"HU",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720023,
+    "gn:latitude":48.2904,
+    "gn:longitude":21.08817,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Hern\u00e1dszentandr\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hern\u00e1dszentandr\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720023,
+        "wk:page":"Hern%C3%A1dszentandr%C3%A1s"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b042a0c944b20879e71d7e543324e907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1326830435,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1326830435,
+    "wof:lastmodified":1537626182,
+    "wof:name":"Hernadszentandras",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08817,
+    48.2904,
+    21.08817,
+    48.2904
+],
+  "geometry": {"coordinates":[21.08817,48.2904],"type":"Point"}
+}

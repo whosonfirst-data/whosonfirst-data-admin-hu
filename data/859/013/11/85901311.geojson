@@ -1,0 +1,114 @@
+{
+  "id": 85901311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15252542.908335,
+    "geom:bbox":"18.727904,47.719586,18.727904,47.719586",
+    "geom:latitude":47.719586,
+    "geom:longitude":18.727904,
+    "gn:latitude":47.71667,
+    "gn:longitude":18.73333,
+    "iso:country":"HU",
+    "lbl:latitude":47.719586,
+    "lbl:longitude":18.727904,
+    "mps:latitude":47.712523,
+    "mps:longitude":18.732122,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Toemedekakna",
+        "Tomedekakna"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f6med\u00e9kakna"
+    ],
+    "name:unk_x_variant":[
+        "T\u00f6med\u00e9kakna"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3053562,
+    "qs:gn_nam_loc":"Dorog, Dorog, Kom\u00e1rom-Esztergom, HU",
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"T\u00f6med\u00e9kakna",
+    "qs:local_max":114,
+    "qs:local_sum":230,
+    "qs:localhoods":3,
+    "qs:name":"T\u00f6med\u00e9kakna",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Kom\u00e1rom-Esztergom",
+    "qs:name_adm2":"Dorog",
+    "qs:name_local":"Dorog",
+    "qs:photo_max":39,
+    "qs:photo_sum":114,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":22,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577921,
+    "qs:woe_adm2":12593271,
+    "qs:woe_lau":0,
+    "qs:woe_local":805599,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684885,
+        102191581,
+        85633237,
+        404227479,
+        101785795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043829,
+        "gp:id":816676,
+        "qs:id":1167261,
+        "qs_pg:id":1167261
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4b66e3e2b2a1761f5387b83ddb258972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101785795,
+            "macroregion_id":404227479,
+            "neighbourhood_id":85901311,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":85901311,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932472,
+    "wof:name":"T\u00f6med\u00e9kakna",
+    "wof:parent_id":101785795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.727904,
+    47.719586,
+    18.727904,
+    47.719586
+],
+  "geometry": {"coordinates":[18.727904,47.719586],"type":"Point"}
+}

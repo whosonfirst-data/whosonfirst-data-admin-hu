@@ -1,0 +1,66 @@
+{
+  "id": 1108940433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0190907395,47.551819809,19.0190907395,47.551819809",
+    "geom:latitude":47.55182,
+    "geom:longitude":19.019091,
+    "iso:country":"HU",
+    "lbl:latitude":47.55182,
+    "lbl:longitude":19.019091,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "\u00d3buda hegyvid\u00e9ke"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361741,
+    "wof:geomhash":"554b9d46f622a80e6f3748f104958a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940433,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940433,
+    "wof:lastmodified":1497292356,
+    "wof:name":"Obuda hegyvideke",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01909073946934,
+    47.5518198089726,
+    19.01909073946934,
+    47.5518198089726
+],
+  "geometry": {"coordinates":[19.01909073946934,47.5518198089726],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309720847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58333,46.1,18.58333,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":18.58333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Szur",
+    "gn:country_code":"HU",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044232,
+    "gn:latitude":46.1,
+    "gn:longitude":18.58333,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Sz\u0171r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044232,
+        "wk:page":"Sz%C5%B1r"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5d973f61fa3a84bb493980b4ea31d875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309720847,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1309720847,
+    "wof:lastmodified":1537563368,
+    "wof:name":"Szur",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58333,
+    46.1,
+    18.58333,
+    46.1
+],
+  "geometry": {"coordinates":[18.58333,46.1],"type":"Point"}
+}

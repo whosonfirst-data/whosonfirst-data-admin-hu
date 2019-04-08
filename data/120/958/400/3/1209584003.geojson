@@ -1,0 +1,65 @@
+{
+  "id": 1209584003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48534,46.62811,16.48534,46.62811",
+    "geom:latitude":46.62811,
+    "geom:longitude":16.48534,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kulsosard",
+    "gn:country_code":"HU",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049130,
+    "gn:latitude":46.62811,
+    "gn:longitude":16.48534,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"K\u00fcls\u0151s\u00e1rd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049130,
+        "wk:page":"K%C3%BCls%C5%91s%C3%A1rd"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"986e0f99ac25c3ab9a15f0aab06a7035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209584003
+        }
+    ],
+    "wof:id":1209584003,
+    "wof:lastmodified":1537626230,
+    "wof:name":"Kulsosard",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48534,
+    46.62811,
+    16.48534,
+    46.62811
+],
+  "geometry": {"coordinates":[16.48534,46.62811],"type":"Point"}
+}

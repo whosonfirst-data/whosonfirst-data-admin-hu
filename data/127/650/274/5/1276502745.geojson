@@ -1,0 +1,67 @@
+{
+  "id": 1276502745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78996,47.22202,17.78996,47.22202",
+    "geom:latitude":47.22202,
+    "geom:longitude":17.78996,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Korisgyor",
+    "gn:country_code":"HU",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049437,
+    "gn:latitude":47.22202,
+    "gn:longitude":17.78996,
+    "gn:modification_date":"2007-07-10",
+    "gn:name":"K\u0151risgy\u0151r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049437
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"fb811663a697bfc29ab53266e5f48887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276502745,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1276502745,
+    "wof:lastmodified":1537047224,
+    "wof:name":"Korisgyor",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78996,
+    47.22202,
+    17.78996,
+    47.22202
+],
+  "geometry": {"coordinates":[17.78996,47.22202],"type":"Point"}
+}

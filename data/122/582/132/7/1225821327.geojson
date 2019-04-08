@@ -1,0 +1,71 @@
+{
+  "id": 1225821327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58549,47.91548,22.58549,47.91548",
+    "geom:latitude":47.91548,
+    "geom:longitude":22.58549,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Szamosujlak",
+    "gn:country_code":"HU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715516,
+    "gn:latitude":47.91548,
+    "gn:longitude":22.58549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szamos\u00fajlak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szamos\u00fajlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715516,
+        "wk:page":"Szamos%C3%BAjlak"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b00e1639f97e83a2a24f41e19f3cfbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225821327,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1225821327,
+    "wof:lastmodified":1537626168,
+    "wof:name":"Szamosujlak",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58549,
+    47.91548,
+    22.58549,
+    47.91548
+],
+  "geometry": {"coordinates":[22.58549,47.91548],"type":"Point"}
+}

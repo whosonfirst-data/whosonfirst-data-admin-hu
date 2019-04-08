@@ -1,0 +1,71 @@
+{
+  "id": 1344142461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7,47.13333,18.7,47.13333",
+    "geom:latitude":47.13333,
+    "geom:longitude":18.7,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Barakapuszta",
+    "gn:country_code":"HU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055407,
+    "gn:latitude":47.13333,
+    "gn:longitude":18.7,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Bar\u00e1kapuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar\u00e1kapuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055407,
+        "wk:page":"Bar%C3%A1kapuszta"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ac08831b9900324af66ae80c3e17098b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344142461,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1344142461,
+    "wof:lastmodified":1537626269,
+    "wof:name":"Barakapuszta",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7,
+    47.13333,
+    18.7,
+    47.13333
+],
+  "geometry": {"coordinates":[18.7,47.13333],"type":"Point"}
+}

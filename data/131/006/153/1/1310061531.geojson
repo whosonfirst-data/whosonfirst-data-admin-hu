@@ -1,0 +1,72 @@
+{
+  "id": 1310061531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.00386,46.32728,17.00386,46.32728",
+    "geom:latitude":46.32728,
+    "geom:longitude":17.00386,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nemespatro",
+    "gn:country_code":"HU",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047396,
+    "gn:latitude":46.32728,
+    "gn:longitude":17.00386,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nemesp\u00e1tr\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e1tr\u00f3",
+        "Nemesp\u00e1tr\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047396,
+        "wk:page":"Nemesp%C3%A1tr%C3%B3"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"00527d8b6387bd8e63fc77e4755d8c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310061531,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1310061531,
+    "wof:lastmodified":1537626222,
+    "wof:name":"Nemespatro",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.00386,
+    46.32728,
+    17.00386,
+    46.32728
+],
+  "geometry": {"coordinates":[17.00386,46.32728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243222279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79295,46.96439,16.79295,46.96439",
+    "geom:latitude":46.96439,
+    "geom:longitude":16.79295,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Andrasfa",
+    "gn:country_code":"HU",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055982,
+    "gn:latitude":46.96439,
+    "gn:longitude":16.79295,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Andr\u00e1sfa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andr\u00e1sfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055982,
+        "wk:page":"Andr%C3%A1sfa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bdc61a6131c5e8bc98334382ca428e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243222279,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1243222279,
+    "wof:lastmodified":1537626274,
+    "wof:name":"Andrasfa",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79295,
+    46.96439,
+    16.79295,
+    46.96439
+],
+  "geometry": {"coordinates":[16.79295,46.96439],"type":"Point"}
+}

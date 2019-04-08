@@ -1,0 +1,71 @@
+{
+  "id": 1242736427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95502,47.19967,16.95502,47.19967",
+    "geom:latitude":47.19967,
+    "geom:longitude":16.95502,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sotony",
+    "gn:country_code":"HU",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045113,
+    "gn:latitude":47.19967,
+    "gn:longitude":16.95502,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"S\u00f3tony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f3tony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045113,
+        "wk:page":"S%C3%B3tony"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6d98f6ef63e761ab3b79f56b94a35efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242736427,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1242736427,
+    "wof:lastmodified":1537626211,
+    "wof:name":"Sotony",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95502,
+    47.19967000000001,
+    16.95502,
+    47.19967000000001
+],
+  "geometry": {"coordinates":[16.95502,47.19967000000001],"type":"Point"}
+}

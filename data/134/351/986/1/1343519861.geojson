@@ -1,0 +1,73 @@
+{
+  "id": 1343519861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81699,47.18836,17.81699,47.18836",
+    "geom:latitude":47.18836,
+    "geom:longitude":17.81699,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Harskut",
+    "gn:country_code":"HU",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3051659,
+    "gn:latitude":47.18836,
+    "gn:longitude":17.81699,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e1rsk\u00fat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyerty\u00e1nk\u00fat",
+        "H\u00e1rs\u00e1gypuszta",
+        "H\u00e1rsk\u00fat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3051659,
+        "wk:page":"H%C3%A1rsk%C3%BAt"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"56038e1477755b34500330c58cf6d0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343519861,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1343519861,
+    "wof:lastmodified":1537626241,
+    "wof:name":"Harskut",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81699,
+    47.18836,
+    17.81699,
+    47.18836
+],
+  "geometry": {"coordinates":[17.81699,47.18836],"type":"Point"}
+}

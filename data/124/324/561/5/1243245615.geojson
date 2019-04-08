@@ -1,0 +1,71 @@
+{
+  "id": 1243245615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36619,47.67619,19.36619,47.67619",
+    "geom:latitude":47.67619,
+    "geom:longitude":19.36619,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vacegres",
+    "gn:country_code":"HU",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043290,
+    "gn:latitude":47.67619,
+    "gn:longitude":19.36619,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"V\u00e1cegres",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e1cegres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043290,
+        "wk:page":"V%C3%A1cegres"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6911904cf69e5825292d22fa448d6579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243245615,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1243245615,
+    "wof:lastmodified":1537626205,
+    "wof:name":"Vacegres",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36619,
+    47.67619000000001,
+    19.36619,
+    47.67619000000001
+],
+  "geometry": {"coordinates":[19.36619,47.67619000000001],"type":"Point"}
+}

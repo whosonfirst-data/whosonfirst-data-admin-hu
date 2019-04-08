@@ -1,0 +1,67 @@
+{
+  "id": 1242785301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53333,46.86667,21.53333,46.86667",
+    "geom:latitude":46.86667,
+    "geom:longitude":21.53333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mezogyani Tanyak",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":717663,
+    "gn:latitude":46.86667,
+    "gn:longitude":21.53333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Mez\u0151gy\u00e1ni Tany\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684875,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717663
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"dc1dab3c21977a98aa3d7833d407c9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242785301,
+            "macroregion_id":404227487,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":1242785301,
+    "wof:lastmodified":1536764794,
+    "wof:name":"Mezogyani Tanyak",
+    "wof:parent_id":85684875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53333,
+    46.86667,
+    21.53333,
+    46.86667
+],
+  "geometry": {"coordinates":[21.53333,46.86667],"type":"Point"}
+}

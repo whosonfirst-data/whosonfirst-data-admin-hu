@@ -1,0 +1,67 @@
+{
+  "id": 1210022581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15,48.08333,21.15,48.08333",
+    "geom:latitude":48.08333,
+    "geom:longitude":21.15,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dohanymajor",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721329,
+    "gn:latitude":48.08333,
+    "gn:longitude":21.15,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Doh\u00e1nymajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721329
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d5924e47ee9b544c75abe0ae9e8762b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1210022581,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1210022581,
+    "wof:lastmodified":1536392182,
+    "wof:name":"Dohanymajor",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15,
+    48.08333,
+    21.15,
+    48.08333
+],
+  "geometry": {"coordinates":[21.15,48.08333],"type":"Point"}
+}

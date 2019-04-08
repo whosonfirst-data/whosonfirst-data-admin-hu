@@ -1,0 +1,68 @@
+{
+  "id": 1193094975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98428,46.80362,16.98428,46.80362",
+    "geom:latitude":46.80362,
+    "geom:longitude":16.98428,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Misefa",
+    "gn:country_code":"HU",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3048020,
+    "gn:latitude":46.80362,
+    "gn:longitude":16.98428,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Misefa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3048020,
+        "wk:page":"Misefa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c0f9e8caf7badac7d29ba0117cc06587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1193094975,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1193094975,
+    "wof:lastmodified":1537563380,
+    "wof:name":"Misefa",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98428,
+    46.80362,
+    16.98428,
+    46.80362
+],
+  "geometry": {"coordinates":[16.98428,46.80362],"type":"Point"}
+}

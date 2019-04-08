@@ -1,0 +1,119 @@
+{
+  "id": 101784763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":867511.311865,
+    "geom:bbox":"19.1382723345,48.0138047093,19.1535642224,48.0277394395",
+    "geom:latitude":48.019561,
+    "geom:longitude":19.146614,
+    "iso:country":"HU",
+    "lbl:latitude":48.019536,
+    "lbl:longitude":19.147773,
+    "mps:latitude":48.019536,
+    "mps:longitude":19.147773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Patak"
+    ],
+    "name:eng_x_preferred":[
+        "Patak"
+    ],
+    "name:epo_x_preferred":[
+        "Patak"
+    ],
+    "name:fre_x_preferred":[
+        "Patak"
+    ],
+    "name:hun_x_preferred":[
+        "Patak"
+    ],
+    "name:ita_x_preferred":[
+        "Patak"
+    ],
+    "name:nan_x_preferred":[
+        "Patak"
+    ],
+    "name:pol_x_preferred":[
+        "Patak"
+    ],
+    "name:rum_x_preferred":[
+        "Patak"
+    ],
+    "name:slo_x_preferred":[
+        "Patak"
+    ],
+    "name:slv_x_preferred":[
+        "Patak"
+    ],
+    "name:swe_x_preferred":[
+        "Patak"
+    ],
+    "name:szl_x_preferred":[
+        "Patak"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*N\u00f3gr\u00e1d",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Patak",
+    "qs:la_lc":"*HU51242010719",
+    "qs:level":"locality",
+    "qs:loc":"Patak",
+    "qs:loc_alt":"Patak",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11643468-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3046569,
+        "gp:id":813598,
+        "qs:id":255453,
+        "wd:id":"Q600070"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f978d3d938853390dcdcdff92b402a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101784763,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":101784763,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527688535,
+    "wof:name":"Patak",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13827233450172,
+    48.01380470934748,
+    19.15356422239421,
+    48.02773943947369
+],
+  "geometry": {"coordinates":[[[19.15356422239421,48.01860013928115],[19.15324150429967,48.01681630659567],[19.15190998678122,48.01692756310581],[19.15158734317583,48.01514372309038],[19.1475928960275,48.01547738255169],[19.14743165357044,48.01458545473656],[19.14610018347395,48.01469664011813],[19.1459389710588,48.01380470934748],[19.1432760607255,48.01402702732895],[19.14343722743803,48.01491896259432],[19.14077425028279,48.01514122068858],[19.14093537847748,48.01603315974074],[19.13827233450172,48.01625535794443],[19.13843342417363,48.01714730078277],[19.13976497165572,48.0170362074827],[19.13992609136864,48.01792814736802],[19.14125765642774,48.01781703572476],[19.14141880618371,48.01870897265673],[19.14275038881948,48.01859784266958],[19.14355635972692,48.02305750549152],[19.14222466279534,48.02316864671559],[19.142708263043,48.02584444267177],[19.14137649224006,48.02595557453975],[19.14169888263126,48.02773943947369],[19.14303069916633,48.0276283031103],[19.14286947750861,48.02673637324415],[19.14420126589414,48.02662522302859],[19.14404002856384,48.02573329470431],[19.14537178880119,48.0256221306372],[19.14521053579983,48.02473020385446],[19.14654226788963,48.02461902593672],[19.14638099921899,48.02372710069585],[19.15303946608168,48.0231709808719],[19.15223265916831,48.01871140029061],[19.15356422239421,48.01860013928115]]],"type":"Polygon"}
+}

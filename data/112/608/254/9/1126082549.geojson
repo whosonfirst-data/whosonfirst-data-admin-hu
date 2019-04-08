@@ -1,0 +1,93 @@
+{
+  "id": 1126082549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97591,46.17038,18.97591,46.17038",
+    "geom:latitude":46.17038,
+    "geom:longitude":18.97591,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":46.17038,
+    "lbl:longitude":18.97591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Jank\u00f3isz\u0151ll\u0151k"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3050898,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jauk\u00f3isz\u0151l\u0151k",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"B\u00e1cs-Kiskun",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1019334,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":808603,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"B\u00e1cs-Kiskun",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85684859,
+        102191581,
+        85633237,
+        404227487,
+        101790501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050898,
+        "gp:id":808603,
+        "qs_pg:id":1019334
+    },
+    "wof:country":"HU",
+    "wof:created":1497312178,
+    "wof:geomhash":"7259c891c42ba0dd1ab5aa5f62eeffe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790501,
+            "macroregion_id":404227487,
+            "neighbourhood_id":1126082549,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1126082549,
+    "wof:lastmodified":1509411235,
+    "wof:name":"Jauk\u00f3isz\u0151l\u0151k",
+    "wof:parent_id":101790501,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97591,
+    46.17038,
+    18.97591,
+    46.17038
+],
+  "geometry": {"coordinates":[18.97591,46.17038],"type":"Point"}
+}

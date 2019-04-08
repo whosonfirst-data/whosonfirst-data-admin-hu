@@ -1,0 +1,73 @@
+{
+  "id": 1276825441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08617,47.1878,17.08617,47.1878",
+    "geom:latitude":47.1878,
+    "geom:longitude":17.08617,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kocsk",
+    "gn:country_code":"HU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049623,
+    "gn:latitude":47.1878,
+    "gn:longitude":17.08617,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00f6csk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisk\u00f6csk",
+        "Nagyk\u00f6csk",
+        "K\u00f6csk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049623,
+        "wk:page":"K%C3%B6csk"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"0b620994a5b72cd5fe254e18cc08148b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276825441,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1276825441,
+    "wof:lastmodified":1537626231,
+    "wof:name":"Kocsk",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08617000000001,
+    47.1878,
+    17.08617000000001,
+    47.1878
+],
+  "geometry": {"coordinates":[17.08617000000001,47.1878],"type":"Point"}
+}

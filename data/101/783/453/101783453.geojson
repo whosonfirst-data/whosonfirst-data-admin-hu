@@ -1,0 +1,156 @@
+{
+  "id": 101783453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000223,
+    "geom:area_square_m":1844686.574876,
+    "geom:bbox":"20.3796443635,48.093578981,20.3953473931,48.117466003",
+    "geom:latitude":48.104742,
+    "geom:longitude":20.387815,
+    "gn:population":1885,
+    "iso:country":"HU",
+    "lbl:latitude":48.101547,
+    "lbl:longitude":20.387965,
+    "mps:latitude":48.101547,
+    "mps:longitude":20.387965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u897f\u5c14\u74e6\u4ec0\u74e6\u52b3\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:eng_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00fckk"
+    ],
+    "name:fra_x_preferred":[
+        "Parc national de B\u00fckk"
+    ],
+    "name:fre_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:ger_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:hun_x_colloquial":[
+        "Szilvasvarad"
+    ],
+    "name:hun_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad",
+        "B\u00fckki Nemzeti Park"
+    ],
+    "name:ita_x_preferred":[
+        "Parco nazionale di B\u00fckk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30eb\u30f4\u30a1\u30fc\u30b7\u30e5\u30f4\u30a1\u30fc\u30e9\u30c9"
+    ],
+    "name:may_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:nan_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:nld_x_preferred":[
+        "Nationaal park B\u00fckk"
+    ],
+    "name:pol_x_preferred":[
+        "Park Narodowy G\u00f3r Bukowych"
+    ],
+    "name:rum_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u043a\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:slv_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00fckki"
+    ],
+    "name:swe_x_preferred":[
+        "Szilv\u00e1sv\u00e1rad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u043a\u043a\u0441\u044c\u043a\u0438\u0439 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "V\u01b0\u1eddn qu\u1ed1c gia B\u00fckk"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Szilv\u00e1sv\u00e1rad",
+    "qs:la_lc":"*HU51040070564",
+    "qs:level":"locality",
+    "qs:loc":"Szilv\u00e1sv\u00e1rad",
+    "qs:loc_alt":"Szilvasvarad",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164ac4a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":715217,
+        "gp:id":815891,
+        "qs:id":238619,
+        "qs_pg:id":238619,
+        "wd:id":"Q1089496"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3d180d2805cadce12eadc3cf5c32b8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101783453,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101783453,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514448348,
+    "wof:name":"Szilv\u00e1sv\u00e1rad",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:population":1885,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37964436347175,
+    48.09357898103463,
+    20.39534739313945,
+    48.11746600302615
+],
+  "geometry": {"coordinates":[[[20.39461293955458,48.11721337126284],[20.39295990025107,48.10920717106507],[20.39029684099637,48.1094597568316],[20.38956255152112,48.10590140439524],[20.394888282387,48.10539620947486],[20.39397015024997,48.10094830201848],[20.39263884014866,48.10107461207207],[20.39172102617079,48.09662667183107],[20.39438341322062,48.09637406120464],[20.39401625405145,48.09459488972072],[20.39534739313945,48.09446856542354],[20.3951638031179,48.09357898103463],[20.38318353937808,48.09471529851544],[20.38336692500917,48.09560490588206],[20.38203573184728,48.09573108562358],[20.38331950113172,48.10195833265857],[20.38065677876273,48.10221067967615],[20.38084016163305,48.10310028830082],[20.38217154854186,48.10297412027245],[20.38290525266439,48.10653253656932],[20.38157377486368,48.10665871480626],[20.38230751891729,48.11021712852408],[20.37964436347175,48.11046945721608],[20.38019462099896,48.11313827442865],[20.38152626991968,48.11301211045924],[20.38170972818426,48.11390171204647],[20.38570470707845,48.11352311606771],[20.38588824172211,48.11441270919579],[20.39121488699186,48.11390767938116],[20.3919494711493,48.11746600302615],[20.39461293955458,48.11721337126284]]],"type":"Polygon"}
+}

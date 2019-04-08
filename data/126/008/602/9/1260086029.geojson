@@ -1,0 +1,71 @@
+{
+  "id": 1260086029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7,48.2,20.7,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":20.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sajokapolna",
+    "gn:country_code":"HU",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715963,
+    "gn:latitude":48.2,
+    "gn:longitude":20.7,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Saj\u00f3k\u00e1polna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saj\u00f3k\u00e1polna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715963,
+        "wk:page":"Saj%C3%B3k%C3%A1polna"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3602743c5b8b34760c3924742911cdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260086029,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1260086029,
+    "wof:lastmodified":1537626169,
+    "wof:name":"Sajokapolna",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7,
+    48.2,
+    20.7,
+    48.2
+],
+  "geometry": {"coordinates":[20.7,48.2],"type":"Point"}
+}

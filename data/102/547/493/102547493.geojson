@@ -1,0 +1,67 @@
+{
+  "id": 102547493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1625,46.6833333333,21.1625,46.6833333333",
+    "geom:latitude":46.683333,
+    "geom:longitude":21.1625,
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "B\u00e9k\u00e9scsabai rep\u00fcl\u0151t\u00e9r"
+    ],
+    "oa:elevation_ft":"279",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424844,
+        "county_id":12593615,
+        "planet_id":1,
+        "state_id":56043637
+    },
+    "wof:belongsto":[
+        85633237,
+        85684875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513381,
+        "icao:code":"LHBC",
+        "oa:id":"29691",
+        "wd:id":"Q854127"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6f315251fe345274579942fc8d60d02b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547493,
+            "country_id":85633237,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":102547493,
+    "wof:lastmodified":1543792156,
+    "wof:name":"Bekescsaba Airport",
+    "wof:parent_id":85684875,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.1625,
+    46.683333333333,
+    21.1625,
+    46.683333333333
+],
+  "geometry": {"coordinates":[21.1625,46.683333333333],"type":"Point"}
+}

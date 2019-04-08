@@ -1,0 +1,68 @@
+{
+  "id": 1309774305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55086,46.76703,16.55086,46.76703",
+    "geom:latitude":46.76703,
+    "geom:longitude":16.55086,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kozmadombja",
+    "gn:country_code":"HU",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049208,
+    "gn:latitude":46.76703,
+    "gn:longitude":16.55086,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kozmadombja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049208,
+        "wk:page":"Kozmadombja"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6099dfaae6d93086362f4cd626fb2dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309774305,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1309774305,
+    "wof:lastmodified":1537563383,
+    "wof:name":"Kozmadombja",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55086,
+    46.76703,
+    16.55086,
+    46.76703
+],
+  "geometry": {"coordinates":[16.55086,46.76703],"type":"Point"}
+}

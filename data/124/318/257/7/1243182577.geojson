@@ -1,0 +1,67 @@
+{
+  "id": 1243182577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63091,47.69827,17.63091,47.69827",
+    "geom:latitude":47.69827,
+    "geom:longitude":17.63091,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Revfalu",
+    "gn:country_code":"HU",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6690442,
+    "gn:latitude":47.69827,
+    "gn:longitude":17.63091,
+    "gn:modification_date":"2008-03-02",
+    "gn:name":"R\u00e9vfalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690442
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b8423561ce2c37176b98424714b853de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243182577,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1243182577,
+    "wof:lastmodified":1536688978,
+    "wof:name":"Revfalu",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63091,
+    47.69827,
+    17.63091,
+    47.69827
+],
+  "geometry": {"coordinates":[17.63091,47.69827],"type":"Point"}
+}

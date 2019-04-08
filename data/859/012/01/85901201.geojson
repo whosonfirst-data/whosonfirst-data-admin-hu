@@ -1,0 +1,104 @@
+{
+  "id": 85901201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4038670.850515,
+    "geom:bbox":"18.932922,46.971259,18.932922,46.971259",
+    "geom:latitude":46.971259,
+    "geom:longitude":18.932922,
+    "iso:country":"HU",
+    "lbl:latitude":46.971259,
+    "lbl:longitude":18.932922,
+    "mps:latitude":46.972028,
+    "mps:longitude":18.936552,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Leitnertanya"
+    ],
+    "name:unk_x_variant":[
+        "Leitnertanya"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_id":0,
+    "qs:gn_local":3053438,
+    "qs:gn_nam_loc":"Duna\u00fajv\u00e1ros, Duna\u00fajv\u00e1ros, Duna\u00fajv\u00e1ros, HU",
+    "qs:gn_namadm1":"08",
+    "qs:id":0,
+    "qs:local_max":30,
+    "qs:local_sum":30,
+    "qs:localhoods":1,
+    "qs:name":"Leitnertanya",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Duna\u00fajv\u00e1ros",
+    "qs:name_adm2":"Duna\u00fajv\u00e1ros",
+    "qs:name_local":"Duna\u00fajv\u00e1ros",
+    "qs:photo_max":26,
+    "qs:photo_sum":30,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043621,
+    "qs:woe_adm2":12593390,
+    "qs:woe_lau":0,
+    "qs:woe_local":805702,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684879,
+        102191581,
+        85633237,
+        404227479,
+        101751701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":811055
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6f9737cfcff217c27e37f0e9bc66cf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751701,
+            "macroregion_id":404227479,
+            "neighbourhood_id":85901201,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":85901201,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932456,
+    "wof:name":"Leitnertanya",
+    "wof:parent_id":101751701,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.932922,
+    46.971259,
+    18.932922,
+    46.971259
+],
+  "geometry": {"coordinates":[18.932922,46.971259],"type":"Point"}
+}

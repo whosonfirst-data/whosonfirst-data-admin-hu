@@ -1,0 +1,72 @@
+{
+  "id": 1309724959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10444,45.81361,18.10444,45.81361",
+    "geom:latitude":45.81361,
+    "geom:longitude":18.10444,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Szaporca",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044904,
+    "gn:latitude":45.81361,
+    "gn:longitude":18.10444,
+    "gn:modification_date":"2007-11-05",
+    "gn:name":"Szaporca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szaporea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044904,
+        "wk:page":"Szaporca"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"00b8786eb3aa9fef7b613030151701f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309724959,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1309724959,
+    "wof:lastmodified":1537626210,
+    "wof:name":"Szaporca",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10444,
+    45.81361,
+    18.10444,
+    45.81361
+],
+  "geometry": {"coordinates":[18.10444,45.81361],"type":"Point"}
+}

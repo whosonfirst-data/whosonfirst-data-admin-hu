@@ -1,0 +1,67 @@
+{
+  "id": 1260347807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48333,46.55,18.48333,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":18.48333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ujhegy",
+    "gn:country_code":"HU",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043561,
+    "gn:latitude":46.55,
+    "gn:longitude":18.48333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"\u00dajhegy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043561
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cfe9dd4c0d67afc5e81d41cf40eb39cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260347807,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1260347807,
+    "wof:lastmodified":1536623996,
+    "wof:name":"Ujhegy",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48333,
+    46.55,
+    18.48333,
+    46.55
+],
+  "geometry": {"coordinates":[18.48333,46.55],"type":"Point"}
+}

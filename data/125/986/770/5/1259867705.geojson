@@ -1,0 +1,67 @@
+{
+  "id": 1259867705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3,47.96667,20.3,47.96667",
+    "geom:latitude":47.96667,
+    "geom:longitude":20.3,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gilitkapuszta",
+    "gn:country_code":"HU",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720528,
+    "gn:latitude":47.96667,
+    "gn:longitude":20.3,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Gilitkapuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720528
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"fcfdf2f5bf0162976dcb0f82e6b402aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259867705,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1259867705,
+    "wof:lastmodified":1536801954,
+    "wof:name":"Gilitkapuszta",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3,
+    47.96667,
+    20.3,
+    47.96667
+],
+  "geometry": {"coordinates":[20.3,47.96667],"type":"Point"}
+}

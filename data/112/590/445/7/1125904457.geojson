@@ -1,0 +1,82 @@
+{
+  "id": 1125904457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.990798,46.281478,17.990798,46.281478",
+    "geom:latitude":46.281478,
+    "geom:longitude":17.990798,
+    "gn:gn_country":null,
+    "iso:country":"HU",
+    "lbl:latitude":46.281478,
+    "lbl:longitude":17.990798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"G\u00f6dreszentm\u00e1rton",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Baranya",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225678,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":807136,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Baranya",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":807136,
+        "qs_pg:id":225678
+    },
+    "wof:country":"HU",
+    "wof:created":1497295936,
+    "wof:geomhash":"2eb519a2f0705ec36cdccbb7dfc92458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125904457,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1125904457,
+    "wof:lastmodified":1509399656,
+    "wof:name":"G\u00f6dreszentm\u00e1rton",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.990798,
+    46.281478,
+    17.990798,
+    46.281478
+],
+  "geometry": {"coordinates":[17.990798,46.281478],"type":"Point"}
+}

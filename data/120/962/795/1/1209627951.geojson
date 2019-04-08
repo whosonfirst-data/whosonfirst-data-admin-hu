@@ -1,0 +1,61 @@
+{
+  "id": 1209627951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.96873,46.19893,17.96873,46.19893",
+    "geom:latitude":46.19893,
+    "geom:longitude":17.96873,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Alsokovesd",
+    "gn:country_code":"HU",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3056156,
+    "gn:latitude":46.19893,
+    "gn:longitude":17.96873,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Als\u00f3k\u00f6vesd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056156
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5e9b532edd30efb3bc429c2116cd4936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209627951
+        }
+    ],
+    "wof:id":1209627951,
+    "wof:lastmodified":1536281289,
+    "wof:name":"Alsokovesd",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.968729999999994,
+    46.19893,
+    17.968729999999994,
+    46.19893
+],
+  "geometry": {"coordinates":[17.96872999999999,46.19893],"type":"Point"}
+}

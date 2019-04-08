@@ -1,0 +1,68 @@
+{
+  "id": 1276670991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71296,46.02013,17.71296,46.02013",
+    "geom:latitude":46.02013,
+    "geom:longitude":17.71296,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nemeske",
+    "gn:country_code":"HU",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047412,
+    "gn:latitude":46.02013,
+    "gn:longitude":17.71296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nemeske",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047412,
+        "wk:page":"Nemeske"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"93e1c35070b35666e2f40f498ba56a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276670991,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1276670991,
+    "wof:lastmodified":1537563378,
+    "wof:name":"Nemeske",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71296,
+    46.02013,
+    17.71296,
+    46.02013
+],
+  "geometry": {"coordinates":[17.71296,46.02013],"type":"Point"}
+}

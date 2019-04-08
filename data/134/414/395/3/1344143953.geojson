@@ -1,0 +1,67 @@
+{
+  "id": 1344143953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1743,47.73344,18.1743,47.73344",
+    "geom:latitude":47.73344,
+    "geom:longitude":18.1743,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Szonyi Tanyak",
+    "gn:country_code":"HU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8593783,
+    "gn:latitude":47.73344,
+    "gn:longitude":18.1743,
+    "gn:modification_date":"2013-07-31",
+    "gn:name":"Szonyi Tanyak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684885,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8593783
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"db1187e33fa1ffe248a6782b9e1c4ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344143953,
+            "macroregion_id":404227479,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":1344143953,
+    "wof:lastmodified":1536755210,
+    "wof:name":"Szonyi Tanyak",
+    "wof:parent_id":85684885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.1743,
+    47.73344,
+    18.1743,
+    47.73344
+],
+  "geometry": {"coordinates":[18.1743,47.73344],"type":"Point"}
+}

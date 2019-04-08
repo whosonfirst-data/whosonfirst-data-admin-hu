@@ -1,0 +1,72 @@
+{
+  "id": 1243183737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03333,46.4,21.03333,46.4",
+    "geom:latitude":46.4,
+    "geom:longitude":21.03333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Szilagyi-tanya",
+    "gn:country_code":"HU",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715245,
+    "gn:latitude":46.4,
+    "gn:longitude":21.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szilagyi-tanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szil\u00e1gyi Kis-tanya",
+        "Szilagyi-tanya",
+        "Szil\u00e1gyitany\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684875,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715245
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"268ca2caf23a5c67c06c612af75affbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243183737,
+            "macroregion_id":404227487,
+            "region_id":85684875
+        }
+    ],
+    "wof:id":1243183737,
+    "wof:lastmodified":1537626167,
+    "wof:name":"Szilagyi-tanya",
+    "wof:parent_id":85684875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03333,
+    46.4,
+    21.03333,
+    46.4
+],
+  "geometry": {"coordinates":[21.03333,46.4],"type":"Point"}
+}

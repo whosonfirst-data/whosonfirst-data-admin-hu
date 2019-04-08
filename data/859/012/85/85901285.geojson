@@ -1,0 +1,101 @@
+{
+  "id": 85901285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10793065.501462,
+    "geom:bbox":"17.640186,47.686728,17.640186,47.686728",
+    "geom:latitude":47.686728,
+    "geom:longitude":17.640186,
+    "iso:country":"HU",
+    "lbl:latitude":47.686728,
+    "lbl:longitude":17.640186,
+    "mps:latitude":47.684662,
+    "mps:longitude":17.658607,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Somosmajor"
+    ],
+    "name:unk_x_variant":[
+        "Somosmajor"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":673,
+    "qs:local_sum":1488,
+    "qs:localhoods":3,
+    "qs:name":"Somosmajor",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Gy\u00f4r",
+    "qs:name_adm2":"Gy\u00f4r",
+    "qs:name_local":"Gy\u0151r",
+    "qs:photo_max":188,
+    "qs:photo_sum":480,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043629,
+    "qs:woe_adm2":12593895,
+    "qs:woe_lau":0,
+    "qs:woe_local":807392,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684895,
+        102191581,
+        85633237,
+        404227481,
+        101751711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":815038
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"92378966d7d4c87ccf69b89232f595ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751711,
+            "macroregion_id":404227481,
+            "neighbourhood_id":85901285,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":85901285,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932467,
+    "wof:name":"Somosmajor",
+    "wof:parent_id":101751711,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.640186,
+    47.686728,
+    17.640186,
+    47.686728
+],
+  "geometry": {"coordinates":[17.640186,47.686728],"type":"Point"}
+}

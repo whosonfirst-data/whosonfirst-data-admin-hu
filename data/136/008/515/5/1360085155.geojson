@@ -1,0 +1,67 @@
+{
+  "id": 1360085155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91667,48.11667,20.91667,48.11667",
+    "geom:latitude":48.11667,
+    "geom:longitude":20.91667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gyarvas",
+    "gn:country_code":"HU",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720396,
+    "gn:latitude":48.11667,
+    "gn:longitude":20.91667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Gy\u00e1rv\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720396
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"fb8951051df2eeace3329090cbe6bde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1360085155,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1360085155,
+    "wof:lastmodified":1536945976,
+    "wof:name":"Gyarvas",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91667,
+    48.11667,
+    20.91667,
+    48.11667
+],
+  "geometry": {"coordinates":[20.91667,48.11667],"type":"Point"}
+}

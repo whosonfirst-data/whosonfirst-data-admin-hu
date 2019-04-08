@@ -1,0 +1,67 @@
+{
+  "id": 1276243579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66667,47.6,21.66667,47.6",
+    "geom:latitude":47.6,
+    "geom:longitude":21.66667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sarkuttanya",
+    "gn:country_code":"HU",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":715871,
+    "gn:latitude":47.6,
+    "gn:longitude":21.66667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"S\u00e1rk\u00fattanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":715871
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d92ddb7ef1c98eabf45712df6bf09cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276243579,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":1276243579,
+    "wof:lastmodified":1536898850,
+    "wof:name":"Sarkuttanya",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66667,
+    47.6,
+    21.66667,
+    47.6
+],
+  "geometry": {"coordinates":[21.66667,47.6],"type":"Point"}
+}

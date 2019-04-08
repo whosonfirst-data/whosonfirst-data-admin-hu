@@ -1,0 +1,67 @@
+{
+  "id": 1260239997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13333,47.28333,17.13333,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":17.13333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Domolki Major",
+    "gn:country_code":"HU",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3053586,
+    "gn:latitude":47.28333,
+    "gn:longitude":17.13333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"D\u00f6m\u00f6lki Major",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3053586
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4e66afcc7d776e20307dd374c2eed37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260239997,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1260239997,
+    "wof:lastmodified":1536771511,
+    "wof:name":"Domolki Major",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13332999999999,
+    47.28333,
+    17.13332999999999,
+    47.28333
+],
+  "geometry": {"coordinates":[17.13332999999999,47.28333],"type":"Point"}
+}

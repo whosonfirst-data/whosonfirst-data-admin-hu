@@ -1,0 +1,93 @@
+{
+  "id": 1126098175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78333,47.03333,19.78333,47.03333",
+    "geom:latitude":47.03333,
+    "geom:longitude":19.78333,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":47.03333,
+    "lbl:longitude":19.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "F\u00f6ldv\u00e1r"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3052584,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"F\u00f6ldv\u00e1rd\u016fl\u0151",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Pest",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1096279,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":806687,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Pest",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85684899,
+        102191581,
+        85633237,
+        404227489,
+        101789533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052584,
+        "gp:id":806687,
+        "qs_pg:id":1096279
+    },
+    "wof:country":"HU",
+    "wof:created":1497315576,
+    "wof:geomhash":"817a9ec54e5659126525a1dfb774557d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101789533,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1126098175,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1126098175,
+    "wof:lastmodified":1509411985,
+    "wof:name":"F\u00f6ldv\u00e1rd\u016fl\u0151",
+    "wof:parent_id":101789533,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78333,
+    47.03333,
+    19.78333,
+    47.03333
+],
+  "geometry": {"coordinates":[19.78333,47.03333],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125931865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59359,47.19076,18.59359,47.19076",
+    "geom:latitude":47.19076,
+    "geom:longitude":18.59359,
+    "gn:gn_country":"HU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HU",
+    "lbl:latitude":47.19076,
+    "lbl:longitude":18.59359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0531\u0563\u0561\u0580\u0564"
+    ],
+    "name:cze_x_preferred":[
+        "Ag\u00e1rd"
+    ],
+    "name:dut_x_preferred":[
+        "Ag\u00e1rd"
+    ],
+    "name:eng_x_preferred":[
+        "Ag\u00e1rd"
+    ],
+    "name:hun_x_preferred":[
+        "Ag\u00e1rd"
+    ],
+    "name:unk_x_variant":[
+        "Ag\u00e1rdpuszta"
+    ],
+    "qs_pg:aaroncc":"HU",
+    "qs_pg:gn_country":"HU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3056399,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ag\u00e1rd",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Fej\u00e9r",
+    "qs_pg:photos":769,
+    "qs_pg:photos_1k":156,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":769,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":491558,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":802338,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Fej\u00e9r",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684879,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3056399,
+        "gp:id":802338,
+        "qs_pg:id":491558,
+        "wd:id":"Q4694816"
+    },
+    "wof:country":"HU",
+    "wof:created":1497296830,
+    "wof:geomhash":"5432d76c3d484e918751a625f1756ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125931865,
+            "macroregion_id":404227479,
+            "region_id":85684879
+        }
+    ],
+    "wof:id":1125931865,
+    "wof:lastmodified":1514447857,
+    "wof:name":"Ag\u00e1rd",
+    "wof:parent_id":85684879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59359,
+    47.19076,
+    18.59359,
+    47.19076
+],
+  "geometry": {"coordinates":[18.59359,47.19076],"type":"Point"}
+}

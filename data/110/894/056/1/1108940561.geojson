@@ -1,0 +1,69 @@
+{
+  "id": 1108940561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0753241738,47.4079150181,19.0753241738,47.4079150181",
+    "geom:latitude":47.407915,
+    "geom:longitude":19.075324,
+    "iso:country":"HU",
+    "lbl:latitude":47.407915,
+    "lbl:longitude":19.075324,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "Erd\u0151sor"
+    ],
+    "name:hun_x_variant":[
+        "Csepel Erd\u0151sor"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361837,
+    "wof:geomhash":"2f6164adfb338cf9e5b1621ddc2bd78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940561,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940561,
+    "wof:lastmodified":1497292357,
+    "wof:name":"Erdosor",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07532417383002,
+    47.40791501812988,
+    19.07532417383002,
+    47.40791501812988
+],
+  "geometry": {"coordinates":[19.07532417383002,47.40791501812988],"type":"Point"}
+}

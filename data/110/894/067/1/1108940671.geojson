@@ -1,0 +1,66 @@
+{
+  "id": 1108940671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1968318796,47.4574988375,19.1968318796,47.4574988375",
+    "geom:latitude":47.457499,
+    "geom:longitude":19.196832,
+    "iso:country":"HU",
+    "lbl:latitude":47.457499,
+    "lbl:longitude":19.196832,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:hun_x_preferred":[
+        "B\u00e9latelep"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HU",
+    "wof:created":1491361914,
+    "wof:geomhash":"66f4e87566add35cb1ea9af431b6da48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940671,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940671,
+    "wof:lastmodified":1497292355,
+    "wof:name":"Belatelep",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19683187961982,
+    47.45749883748009,
+    19.19683187961982,
+    47.45749883748009
+],
+  "geometry": {"coordinates":[19.19683187961982,47.45749883748009],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 101781357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":1066844.605847,
+    "geom:bbox":"20.7186305753,48.4401779446,20.7471487901,48.4560701037",
+    "geom:latitude":48.449076,
+    "geom:longitude":20.735271,
+    "iso:country":"HU",
+    "lbl:latitude":48.450205,
+    "lbl:longitude":20.739051,
+    "mps:latitude":48.450205,
+    "mps:longitude":20.739051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Szalonna"
+    ],
+    "name:eng_x_preferred":[
+        "Szalonna"
+    ],
+    "name:epo_x_preferred":[
+        "Szalonna"
+    ],
+    "name:fre_x_preferred":[
+        "Szalonna"
+    ],
+    "name:ger_x_preferred":[
+        "Szalonna"
+    ],
+    "name:hun_x_preferred":[
+        "Szalonna"
+    ],
+    "name:ita_x_preferred":[
+        "Szalonna"
+    ],
+    "name:may_x_preferred":[
+        "Szalonna"
+    ],
+    "name:nan_x_preferred":[
+        "Szalonna"
+    ],
+    "name:pol_x_preferred":[
+        "Szalonna"
+    ],
+    "name:rum_x_preferred":[
+        "Szalonna"
+    ],
+    "name:slo_x_preferred":[
+        "Szalonna"
+    ],
+    "name:slv_x_preferred":[
+        "Szalonna"
+    ],
+    "name:vie_x_preferred":[
+        "Szalonna"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Szalonna",
+    "qs:la_lc":"*HU50535021675",
+    "qs:level":"locality",
+    "qs:loc":"Szalonna",
+    "qs:loc_alt":"Szalonna",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11649070-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":715530,
+        "gp:id":815351,
+        "qs:id":421393,
+        "wd:id":"Q1184497",
+        "wk:page":"Szalonna (village)"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"63c62185f8a80fc9aadcde005991fd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101781357,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":101781357,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1553815497,
+    "wof:name":"Szalonna",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71863057532988,
+    48.44017794455419,
+    20.7471487901206,
+    48.45607010367723
+],
+  "geometry": {"coordinates":[[[20.74102534801295,48.45403138404822],[20.74064184968972,48.4522539473752],[20.74600089588978,48.45173122357744],[20.74580906745433,48.45084251469297],[20.7471487901206,48.4507117959846],[20.7469569472496,48.44982308895447],[20.745617247626,48.4499538049941],[20.74350779744475,48.44017794455419],[20.74082888602015,48.4404392694338],[20.74178736760916,48.44488288125115],[20.74044778722532,48.44501353277417],[20.74083119399029,48.44679097713561],[20.73815192207275,48.44705224234207],[20.73834359227544,48.44794096863552],[20.73700392377953,48.44807157965067],[20.73719557953973,48.44896030779705],[20.7278175615557,48.44987415078799],[20.72762606710535,48.44898540398441],[20.72494662254809,48.44924635111352],[20.723989509604,48.44480257826643],[20.72131027019429,48.44506343408091],[20.72169299743462,48.44684095630879],[20.72035332216257,48.44697136528589],[20.72111878750343,48.45052641064319],[20.71977901372458,48.45065681409886],[20.71997037847939,48.45154557607026],[20.71863057532988,48.45167596601607],[20.71882192562123,48.45256472983806],[20.72418119248709,48.45204306236917],[20.72398974999589,48.45115430919873],[20.72934882348238,48.45063239362878],[20.72954035816667,48.45152113614216],[20.73221990304705,48.45126007599708],[20.73260309039449,48.45303754792405],[20.73796228858481,48.45251521224554],[20.73872913526128,48.45607010367723],[20.74006901117622,48.45593946865802],[20.73968552453164,48.45416202990447],[20.74102534801295,48.45403138404822]]],"type":"Polygon"}
+}

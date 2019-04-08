@@ -1,0 +1,71 @@
+{
+  "id": 1344026851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77603,47.28137,16.77603,47.28137",
+    "geom:latitude":47.28137,
+    "geom:longitude":16.77603,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Vat",
+    "gn:country_code":"HU",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043026,
+    "gn:latitude":47.28137,
+    "gn:longitude":16.77603,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"V\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043026,
+        "wk:page":"V%C3%A1t"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"174e919c50259f7628e98aabdb4ca2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1344026851,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1344026851,
+    "wof:lastmodified":1537626203,
+    "wof:name":"Vat",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77603,
+    47.28137,
+    16.77603,
+    47.28137
+],
+  "geometry": {"coordinates":[16.77603,47.28137],"type":"Point"}
+}

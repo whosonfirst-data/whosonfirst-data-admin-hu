@@ -1,0 +1,67 @@
+{
+  "id": 1242747701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84288,47.35421,18.84288,47.35421",
+    "geom:latitude":47.35421,
+    "geom:longitude":18.84288,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Anasztaziapuszta",
+    "gn:country_code":"HU",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055989,
+    "gn:latitude":47.35421,
+    "gn:longitude":18.84288,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Anaszt\u00e1ziapuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055989
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"79d60c8cd01eb2f56373fae525af131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1242747701,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":1242747701,
+    "wof:lastmodified":1536817924,
+    "wof:name":"Anasztaziapuszta",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84288,
+    47.35421,
+    18.84288,
+    47.35421
+],
+  "geometry": {"coordinates":[18.84288,47.35421],"type":"Point"}
+}

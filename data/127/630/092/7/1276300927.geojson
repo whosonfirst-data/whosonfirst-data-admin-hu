@@ -1,0 +1,68 @@
+{
+  "id": 1276300927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80273,47.24166,16.80273,47.24166",
+    "geom:latitude":47.24166,
+    "geom:longitude":16.80273,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Porpac",
+    "gn:country_code":"HU",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046207,
+    "gn:latitude":47.24166,
+    "gn:longitude":16.80273,
+    "gn:modification_date":"2008-07-03",
+    "gn:name":"Porp\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046207,
+        "wk:page":"Porp%C3%A1c"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"cad4194e782dddd99b33cef38736c803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276300927,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1276300927,
+    "wof:lastmodified":1537563374,
+    "wof:name":"Porpac",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80273,
+    47.24166,
+    16.80273,
+    47.24166
+],
+  "geometry": {"coordinates":[16.80273,47.24166],"type":"Point"}
+}

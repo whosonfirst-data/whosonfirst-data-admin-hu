@@ -1,0 +1,71 @@
+{
+  "id": 1276934777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19926,46.99485,17.19926,46.99485",
+    "geom:latitude":46.99485,
+    "geom:longitude":17.19926,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kisvasarhely",
+    "gn:country_code":"HU",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049686,
+    "gn:latitude":46.99485,
+    "gn:longitude":17.19926,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kisv\u00e1s\u00e1rhely",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisv\u00e1s\u00e1rhely"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049686,
+        "wk:page":"Kisv%C3%A1s%C3%A1rhely"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f576c0c9ff2f888329403ad541592d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276934777,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1276934777,
+    "wof:lastmodified":1537626232,
+    "wof:name":"Kisvasarhely",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19926,
+    46.99485,
+    17.19926,
+    46.99485
+],
+  "geometry": {"coordinates":[17.19926,46.99485],"type":"Point"}
+}

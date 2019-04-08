@@ -1,0 +1,122 @@
+{
+  "id": 101782455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:bbox":"20.4955940714,48.2178525558,20.511545906,48.2357664189",
+    "geom:latitude":48.225852,
+    "geom:longitude":20.503493,
+    "iso:country":"HU",
+    "lbl:latitude":48.223281,
+    "lbl:longitude":20.504702,
+    "mps:latitude":48.223281,
+    "mps:longitude":20.504702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:hun_x_colloquial":[
+        "Banfalva",
+        "Banhorvat",
+        "Banhorvati"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:hun_x_variant":[
+        "B\u00e1nfalva",
+        "B\u00e1nhorv\u00e1t"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:slk_x_preferred":[
+        "B\u00e1nhorv\u00e1ti"
+    ],
+    "name:unk_x_variant":[
+        "B\u00e1nhorv\u00e1t"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"B\u00e1nhorv\u00e1ti",
+    "qs:la_lc":"*HU50535042515",
+    "qs:level":"locality",
+    "qs:loc":"B\u00e1nhorv\u00e1ti",
+    "qs:loc_alt":"Banhorvati",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11627c4a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":722599,
+        "gp:id":803360,
+        "qs:id":3,
+        "wd:id":"Q532940",
+        "wk:page":"B\u00e1nhorv\u00e1ti"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"94cdebdb62fc8efa04cd529bfb28afb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101782455,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":101782455,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527688318,
+    "wof:name":"B\u00e1nhorv\u00e1ti",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.49559407142431,
+    48.21785255583791,
+    20.51154590601851,
+    48.2357664188977
+],
+  "geometry": {"coordinates":[[[20.50335219819272,48.23474943085779],[20.51002494798968,48.23411076791069],[20.51021135158658,48.23500005612181],[20.51154590601851,48.23487227262262],[20.51117306146705,48.23309370058382],[20.50983855272227,48.23322147889564],[20.50965216578385,48.23233218907626],[20.50831767375763,48.23245994869001],[20.50813131798913,48.23157065547355],[20.50679684268198,48.23169839638967],[20.5062378938577,48.22903050413822],[20.50490348094991,48.22915822117318],[20.5043446755584,48.22649031391029],[20.50834769038363,48.22610713782507],[20.50816137005808,48.22521784157226],[20.5094956732579,48.22509008659819],[20.50819150421722,48.21886500845119],[20.50685736083159,48.21899274528033],[20.50667110708582,48.21810344259211],[20.50533698040948,48.21823116073006],[20.5057094505666,48.22000977048447],[20.50170689687172,48.22039284384414],[20.50133456368508,48.21861421854504],[20.50000041254702,48.21874187228343],[20.49981428125585,48.21785255583791],[20.49581185964877,48.21823541268333],[20.49599792245374,48.21912473689707],[20.49733209193084,48.21899713145956],[20.49770428813963,48.22077577229771],[20.49903849716412,48.2206481455807],[20.49959692233352,48.22331609304138],[20.49559407142431,48.22369894819496],[20.49596625944145,48.22547759135591],[20.4973005948633,48.22534998389443],[20.4974867241815,48.22623930168027],[20.49882107632567,48.226111675526],[20.49937958269692,48.2287796162928],[20.50071399724061,48.22865196626407],[20.50127264700723,48.23131989202744],[20.5026071239559,48.23119221812129],[20.50316591714807,48.23386012887886],[20.50183137166806,48.23398781055954],[20.50220389638991,48.2357664188977],[20.50353848756242,48.23563873203307],[20.50335219819272,48.23474943085779]]],"type":"Polygon"}
+}

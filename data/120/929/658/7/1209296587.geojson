@@ -1,0 +1,61 @@
+{
+  "id": 1209296587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35,47.38333,19.35,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":19.35,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kaptalandulo",
+    "gn:country_code":"HU",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050605,
+    "gn:latitude":47.38333,
+    "gn:longitude":19.35,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"K\u00e1ptaland\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050605
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"ec79dc5f52e4e32f843ac4154c46dfd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209296587
+        }
+    ],
+    "wof:id":1209296587,
+    "wof:lastmodified":1536291504,
+    "wof:name":"Kaptalandulo",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35,
+    47.38333,
+    19.35,
+    47.38333
+],
+  "geometry": {"coordinates":[19.35,47.38333],"type":"Point"}
+}

@@ -1,0 +1,149 @@
+{
+  "id": 85906443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000279,
+    "geom:area_square_m":2330483.473432,
+    "geom:bbox":"19.075012207,47.4838008018,19.0997314453,47.4986478515",
+    "geom:latitude":47.491498,
+    "geom:longitude":19.085866,
+    "gn:id":"",
+    "iso:country":"HU",
+    "lbl:latitude":47.491204,
+    "lbl:longitude":19.081506,
+    "mps:latitude":47.492153,
+    "mps:longitude":19.08463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:chi_x_preferred":[
+        "\u7ea6\u745f\u592b\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "VIII. obvod"
+    ],
+    "name:deu_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:dut_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:eng_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:epo_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:est_x_preferred":[
+        "Budapesti VIII rajoon"
+    ],
+    "name:fra_x_preferred":[
+        "8e arrondissement de Budapest"
+    ],
+    "name:fre_x_preferred":[
+        "8e arrondissement de Budapest"
+    ],
+    "name:ger_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:hun_x_preferred":[
+        "Budapest VIII. ker\u00fclete"
+    ],
+    "name:hun_x_variant":[
+        "J\u00f3zsefv\u00e1ros",
+        "Jozsefvaros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30fc\u30b8\u30a7\u30d5\u30f4\u30a1\u30fc\u30ed\u30b7\u30e5"
+    ],
+    "name:pol_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:ron_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:rum_x_preferred":[
+        "J\u00f3zsefv\u00e1ros"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u0436\u0435\u0444\u0432\u0430\u0440\u043e\u0448"
+    ],
+    "name:slk_x_preferred":[
+        "VIII. obvod"
+    ],
+    "name:slo_x_preferred":[
+        "VIII. obvod"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 VIII \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0436\u0435\u0444\u0432\u0430\u0440\u043e\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn VIII"
+    ],
+    "qs:gn_id":0,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":668,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7284826,
+        "gp:id":22723962,
+        "qs:id":224738,
+        "qs_pg:id":224738,
+        "wd:id":"Q597182"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4bd336e05a5ff74c559417e8a996e3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85906443,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85906443,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1536864516,
+    "wof:name":"Jozsefvaros",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.07501220701272,
+    47.48380080182535,
+    19.09973144530011,
+    47.49864785150011
+],
+  "geometry": {"coordinates":[[[19.08874511720023,47.49864785150011],[19.08874511720023,47.49753232002287],[19.08924515606969,47.49679220754668],[19.09149169920011,47.49679220645343],[19.09423828121362,47.49679220563335],[19.0942382812147,47.49567660017176],[19.09473832599861,47.49493650509881],[19.09536525004569,47.49400862140031],[19.09536529159885,47.49400858450041],[19.096984863275,47.49400858450041],[19.09698486328415,47.49308072950011],[19.09698486328529,47.49122488820008],[19.09973144530011,47.49122488820008],[19.09973144530011,47.48974470257419],[19.09973144530011,47.48751300900007],[19.09973144530011,47.48751294340009],[19.09423828121578,47.48751294340009],[19.09423828121567,47.48380086740009],[19.0942382812251,47.48380080182535],[19.08974536738299,47.48380080182535],[19.08974533181197,47.48380086138694],[19.08874511720012,47.48380086740009],[19.08874511720012,47.48565695923294],[19.08599853518183,47.48565696225346],[19.08325195311858,47.48565696225346],[19.08050537110029,47.48565696225346],[19.07775878908183,47.48565696225346],[19.07501220701403,47.48565696280015],[19.07501220701687,47.48751300080023],[19.07501220701687,47.48936897320017],[19.07501220701687,47.49122488001258],[19.07501220701687,47.49308072128765],[19.07501220701687,47.49493649691273],[19.07501220701687,47.49679220700001],[19.07501220701272,47.49864785150011],[19.07775878908183,47.49864785095353],[19.08050537110029,47.49864785095353],[19.08325195311858,47.49864785095353],[19.08599853518183,47.49864785095353],[19.08874511720023,47.49864785150011]]],"type":"Polygon"}
+}

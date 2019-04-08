@@ -1,0 +1,144 @@
+{
+  "id": 101790411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1007545.13804,
+    "geom:bbox":"20.1754298549,46.1815154607,20.1940899326,46.193620788",
+    "geom:latitude":46.186826,
+    "geom:longitude":20.185277,
+    "iso:country":"HU",
+    "lbl:latitude":46.186447,
+    "lbl:longitude":20.184359,
+    "mps:latitude":46.186447,
+    "mps:longitude":20.184359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e4c\u4f0a\u68ee\u8482\u4e07"
+    ],
+    "name:dut_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:hrv_x_preferred":[
+        "Sentivan"
+    ],
+    "name:hun_x_colloquial":[
+        "Ujszentivan"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:may_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:ron_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:rum_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:slk_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:slo_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:slv_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0421\u0435\u043d\u0442\u0438\u0432\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Neu-Sankt Iwan"
+    ],
+    "name:vie_x_preferred":[
+        "\u00dajszentiv\u00e1n"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Csongr\u00e1d",
+    "qs:a1r":"0D\u00e9l-Alf\u00f6ld",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Szeged",
+    "qs:la_lc":"*HU70636063336",
+    "qs:level":"locality",
+    "qs:loc":"\u00dajszentiv\u00e1n",
+    "qs:loc_alt":"Ujszentivan",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684855,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164e87c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":714416,
+        "gp:id":817114,
+        "qs:id":966293,
+        "wd:id":"Q577129",
+        "wk:page":"\u00dajszentiv\u00e1n"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4696dfa918c2b83480626b56d94ce6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101790411,
+            "macroregion_id":404227487,
+            "region_id":85684855
+        }
+    ],
+    "wof:id":101790411,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527641601,
+    "wof:name":"\u00dajszentiv\u00e1n",
+    "wof:parent_id":85684855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.17542985485369,
+    46.18151546065445,
+    20.19408993255433,
+    46.19362078799963
+],
+  "geometry": {"coordinates":[[[20.19125718931485,46.19349761553451],[20.19057700273459,46.18993345587376],[20.19186137595352,46.18981027742626],[20.19152128494875,46.18802819706082],[20.19408993255433,46.18778180334368],[20.19391985652743,46.18689076656688],[20.19263555610587,46.18701396877549],[20.19195540783539,46.18344980346785],[20.19067118502835,46.18357298081833],[20.19050118691337,46.1826819349418],[20.1866485488838,46.18305136740435],[20.18647862023738,46.18216031357593],[20.18391020985484,46.18240652007415],[20.1837403299474,46.18151546065445],[20.18245613754004,46.1816385384181],[20.18262599672028,46.18252960019498],[20.1813417782916,46.18265266489709],[20.1815116240266,46.18354372815566],[20.17637461446219,46.18403584219811],[20.17671416193804,46.18581798494228],[20.17542985485369,46.18594097961557],[20.1755996187793,46.18683205203121],[20.17688394659655,46.18670905500193],[20.17705373853528,46.18760012418682],[20.17833808179296,46.18747710938044],[20.17867772898336,46.18925924041253],[20.17996210841511,46.18913620547153],[20.18013196366962,46.19002726731827],[20.1814163585413,46.18990421459876],[20.18158624181586,46.19079527321321],[20.18672385127553,46.19030289868982],[20.18689382477868,46.19119394699629],[20.18817823463291,46.19107081245301],[20.18851824497972,46.19285290172149],[20.18980269100604,46.19272974703807],[20.18997272785305,46.19362078799963],[20.19125718931485,46.19349761553451]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1292957283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57387,47.3647,16.57387,47.3647",
+    "geom:latitude":47.3647,
+    "geom:longitude":16.57387,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Koszegfalva",
+    "gn:country_code":"HU",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049364,
+    "gn:latitude":47.3647,
+    "gn:longitude":16.57387,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u0151szegfalva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schwabendorf"
+    ],
+    "name:hun_x_historical":[
+        "Sv\u00e1bfalu"
+    ],
+    "name:hun_x_preferred":[
+        "Sv\u00e1bfalu"
+    ],
+    "name:und_x_variant":[
+        "K\u0151szegfalva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049364
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"874369a8feca227e294a509893c87d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1292957283,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1292957283,
+    "wof:lastmodified":1537626231,
+    "wof:name":"Koszegfalva",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57387,
+    47.3647,
+    16.57387,
+    47.3647
+],
+  "geometry": {"coordinates":[16.57387,47.3647],"type":"Point"}
+}

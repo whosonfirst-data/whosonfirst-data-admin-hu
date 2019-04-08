@@ -1,0 +1,67 @@
+{
+  "id": 1209223453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54222,45.91556,18.54222,45.91556",
+    "geom:latitude":45.91556,
+    "geom:longitude":18.54222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tottos",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043721,
+    "gn:latitude":45.91556,
+    "gn:longitude":18.54222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00f6tt\u00f6s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hercegt\u0151tt\u0151s",
+        "T\u00f6tt\u00f6s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043721,
+        "wk:page":"T%C3%B6tt%C3%B6s"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"65416c3b7ec65224eb561e8be080b23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209223453
+        }
+    ],
+    "wof:id":1209223453,
+    "wof:lastmodified":1537626206,
+    "wof:name":"Tottos",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54222,
+    45.91556,
+    18.54222,
+    45.91556
+],
+  "geometry": {"coordinates":[18.54222,45.91556],"type":"Point"}
+}

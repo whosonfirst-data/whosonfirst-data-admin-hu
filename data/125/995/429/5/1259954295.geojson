@@ -1,0 +1,67 @@
+{
+  "id": 1259954295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.92913,47.54757,20.92913,47.54757",
+    "geom:latitude":47.54757,
+    "geom:longitude":20.92913,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tiszafuered-Kocsujfalu",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8030217,
+    "gn:latitude":47.54757,
+    "gn:longitude":20.92913,
+    "gn:modification_date":"2011-09-29",
+    "gn:name":"Tiszaf\u00fcred-K\u00f3cs\u00fajfalu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030217
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bd6007b75b0e869b9f907870806baad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259954295,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1259954295,
+    "wof:lastmodified":1536677233,
+    "wof:name":"Tiszafuered-Kocsujfalu",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.92913,
+    47.54757,
+    20.92913,
+    47.54757
+],
+  "geometry": {"coordinates":[20.92913,47.54757],"type":"Point"}
+}

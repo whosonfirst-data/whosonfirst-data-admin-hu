@@ -1,0 +1,73 @@
+{
+  "id": 1327417521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,47.23333,21.31667,47.23333",
+    "geom:latitude":47.23333,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bihardancshaza",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722284,
+    "gn:latitude":47.23333,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bihardancsh\u00e1za",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dancsh\u00e1za",
+        "Bihardancsh\u00e1za"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722284,
+        "wk:page":"Bihardancsh%C3%A1za"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e178b457b3327996db2f9eb3ea3ef511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327417521,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":1327417521,
+    "wof:lastmodified":1537626194,
+    "wof:name":"Bihardancshaza",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    47.23333,
+    21.31667,
+    47.23333
+],
+  "geometry": {"coordinates":[21.31667,47.23333],"type":"Point"}
+}

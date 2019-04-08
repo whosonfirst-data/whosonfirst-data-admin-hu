@@ -1,0 +1,61 @@
+{
+  "id": 1209315139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36264,48.25486,20.36264,48.25486",
+    "geom:latitude":48.25486,
+    "geom:longitude":20.36264,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Center",
+    "gn:country_code":"HU",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7177521,
+    "gn:latitude":48.25486,
+    "gn:longitude":20.36264,
+    "gn:modification_date":"2010-02-03",
+    "gn:name":"Center",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7177521
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"00af615963a840ec2114e40e76c16e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209315139
+        }
+    ],
+    "wof:id":1209315139,
+    "wof:lastmodified":1536290892,
+    "wof:name":"Center",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36264,
+    48.25486,
+    20.36264,
+    48.25486
+],
+  "geometry": {"coordinates":[20.36264,48.25486],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101786879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1236565.673344,
+    "geom:bbox":"17.9066540372,47.6453585497,17.9334127518,47.6545879725",
+    "geom:latitude":47.649466,
+    "geom:longitude":17.920934,
+    "iso:country":"HU",
+    "lbl:latitude":47.64986,
+    "lbl:longitude":17.920934,
+    "mps:latitude":47.64986,
+    "mps:longitude":17.920934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9c8d\u7459"
+    ],
+    "name:dut_x_preferred":[
+        "Bana"
+    ],
+    "name:eng_x_preferred":[
+        "Bana"
+    ],
+    "name:epo_x_preferred":[
+        "Bana"
+    ],
+    "name:fra_x_preferred":[
+        "Bana"
+    ],
+    "name:fre_x_preferred":[
+        "Bana"
+    ],
+    "name:hun_x_preferred":[
+        "Bana"
+    ],
+    "name:ita_x_preferred":[
+        "Bana"
+    ],
+    "name:may_x_preferred":[
+        "Bana"
+    ],
+    "name:msa_x_preferred":[
+        "Bana"
+    ],
+    "name:ron_x_preferred":[
+        "Bana"
+    ],
+    "name:rum_x_preferred":[
+        "Bana"
+    ],
+    "name:slk_x_preferred":[
+        "Bana"
+    ],
+    "name:slo_x_preferred":[
+        "Bana"
+    ],
+    "name:slv_x_preferred":[
+        "Bana"
+    ],
+    "name:swe_x_preferred":[
+        "Bana"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u7459"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Kom\u00e1rom-Esztergom",
+    "qs:a1r":"0K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Bana",
+    "qs:la_lc":"*HU21141043142",
+    "qs:level":"locality",
+    "qs:loc":"Bana",
+    "qs:loc_alt":"Bana",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":12,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684885,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11627b28-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3055477,
+        "gp:id":803338,
+        "qs:id":42115,
+        "qs_pg:id":42115,
+        "wd:id":"Q789941",
+        "wk:page":"Bana, Hungary"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"25154e2f0253d1f6bebf67833b32856b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101786879,
+            "macroregion_id":404227479,
+            "region_id":85684885
+        }
+    ],
+    "wof:id":101786879,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1553815502,
+    "wof:name":"Bana",
+    "wof:parent_id":85684885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90665403716542,
+    47.64535854973167,
+    17.9334127518415,
+    47.65458797250045
+],
+  "geometry": {"coordinates":[[[17.92072410829832,47.65439556797185],[17.92058595230822,47.65350148974244],[17.92455857248467,47.6532127685872],[17.92469679640146,47.65410684102869],[17.92602101678028,47.65401056667451],[17.9258827702223,47.65311649616319],[17.92853115220993,47.65292390325715],[17.92811631349048,47.65024169944377],[17.9334127518415,47.64985634457611],[17.93285935724839,47.64628009470709],[17.92888730684604,47.64656911171335],[17.9287490414327,47.64567504184345],[17.92080495507366,47.64625263182091],[17.92066683158731,47.64535854973167],[17.91404674928953,47.64583942460524],[17.91418475960484,47.64673351633229],[17.91153665000195,47.64692575801479],[17.91167462116607,47.64781985295224],[17.91035053699898,47.64791595169277],[17.91048849164434,47.64881004791346],[17.90784026457862,47.64900220119182],[17.90797818006479,47.64989630062155],[17.90665403716542,47.6499923551583],[17.90679193612829,47.65088645587105],[17.91076441929204,47.65059823842716],[17.91090239229499,47.65149233272018],[17.91355073725521,47.65130010380898],[17.91368876166098,47.65219419360625],[17.91501295005031,47.65209805319466],[17.91515100322027,47.65299214042204],[17.91647520976238,47.65289598206346],[17.91661329169904,47.65379006672043],[17.91793751639318,47.65369389041422],[17.91807562709812,47.65458797250045],[17.92072410829832,47.65439556797185]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327035833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.11667,48.43333,21.11667,48.43333",
+    "geom:latitude":48.43333,
+    "geom:longitude":21.11667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fulokercs",
+    "gn:country_code":"HU",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720723,
+    "gn:latitude":48.43333,
+    "gn:longitude":21.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ful\u00f3k\u00e9rcs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ful\u00f3k\u00e9rcs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720723,
+        "wk:page":"Ful%C3%B3k%C3%A9rcs"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"38beae4f8fd389f878d3a5a287cb380e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1327035833,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1327035833,
+    "wof:lastmodified":1537626184,
+    "wof:name":"Fulokercs",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11667000000001,
+    48.43333,
+    21.11667000000001,
+    48.43333
+],
+  "geometry": {"coordinates":[21.11667000000001,48.43333],"type":"Point"}
+}

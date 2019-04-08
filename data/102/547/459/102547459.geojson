@@ -1,0 +1,64 @@
+{
+  "id": 102547459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.076185,47.176412,19.076185,47.176412",
+    "geom:latitude":47.176412,
+    "geom:longitude":19.076185,
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"322",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424844,
+        "county_id":12593429,
+        "planet_id":1,
+        "state_id":12577923
+    },
+    "wof:belongsto":[
+        85633237,
+        85684899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513401,
+        "icao:code":"LHKK",
+        "oa:id":"46653",
+        "wd:id":"Q1111094"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"831738dfb4e470f02a9830802645d6cd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547459,
+            "country_id":85633237,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":102547459,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Kiskunlachaza Airport",
+    "wof:parent_id":85684899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    19.076185,
+    47.176412,
+    19.076185,
+    47.176412
+],
+  "geometry": {"coordinates":[19.076185,47.176412],"type":"Point"}
+}

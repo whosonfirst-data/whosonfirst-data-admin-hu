@@ -1,0 +1,67 @@
+{
+  "id": 1360274455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9,47.63333,20.9,47.63333",
+    "geom:latitude":47.63333,
+    "geom:longitude":20.9,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Berkestag",
+    "gn:country_code":"HU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722318,
+    "gn:latitude":47.63333,
+    "gn:longitude":20.9,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Berkestag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722318
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f9a4964cd57a5de77ca48b176bd71832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1360274455,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":1360274455,
+    "wof:lastmodified":1536672418,
+    "wof:name":"Berkestag",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9,
+    47.63333,
+    20.9,
+    47.63333
+],
+  "geometry": {"coordinates":[20.9,47.63333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209383511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7637,47.08695,17.7637,47.08695",
+    "geom:latitude":47.08695,
+    "geom:longitude":17.7637,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mogszeg",
+    "gn:country_code":"HU",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047987,
+    "gn:latitude":47.08695,
+    "gn:longitude":17.7637,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"M\u00f6gszeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047987
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6ca1daa40f71fda80ca3c1881f0b61d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209383511
+        }
+    ],
+    "wof:id":1209383511,
+    "wof:lastmodified":1536288702,
+    "wof:name":"Mogszeg",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7637,
+    47.08695,
+    17.7637,
+    47.08695
+],
+  "geometry": {"coordinates":[17.7637,47.08695],"type":"Point"}
+}

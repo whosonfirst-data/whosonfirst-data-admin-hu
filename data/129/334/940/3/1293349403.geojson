@@ -1,0 +1,67 @@
+{
+  "id": 1293349403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86756,46.43886,18.86756,46.43886",
+    "geom:latitude":46.43886,
+    "geom:longitude":18.86756,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dombori",
+    "gn:country_code":"HU",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7874529,
+    "gn:latitude":46.43886,
+    "gn:longitude":18.86756,
+    "gn:modification_date":"2011-07-07",
+    "gn:name":"Dombori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874529
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d598a01914949db87c58f18e05e59386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293349403,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1293349403,
+    "wof:lastmodified":1536985431,
+    "wof:name":"Dombori",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86756,
+    46.43886,
+    18.86756,
+    46.43886
+],
+  "geometry": {"coordinates":[18.86756,46.43886],"type":"Point"}
+}

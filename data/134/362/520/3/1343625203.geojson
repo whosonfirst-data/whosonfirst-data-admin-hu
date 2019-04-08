@@ -1,0 +1,67 @@
+{
+  "id": 1343625203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.6,46.45,17.6,46.45",
+    "geom:latitude":46.45,
+    "geom:longitude":17.6,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Szovecspuszta",
+    "gn:country_code":"HU",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044274,
+    "gn:latitude":46.45,
+    "gn:longitude":17.6,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Sz\u00f6v\u00e9cspuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044274
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"09b357682594fbd249541867964e7fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343625203,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1343625203,
+    "wof:lastmodified":1537005281,
+    "wof:name":"Szovecspuszta",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.6,
+    46.45,
+    17.6,
+    46.45
+],
+  "geometry": {"coordinates":[17.6,46.45],"type":"Point"}
+}

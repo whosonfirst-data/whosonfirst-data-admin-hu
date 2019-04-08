@@ -1,0 +1,71 @@
+{
+  "id": 1260345167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78661,46.98088,16.78661,46.98088",
+    "geom:latitude":46.98088,
+    "geom:longitude":16.78661,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Petomihalyfa",
+    "gn:country_code":"HU",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3046375,
+    "gn:latitude":46.98088,
+    "gn:longitude":16.78661,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pet\u0151mih\u00e1lyfa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3046375,
+        "wk:page":"Pet%C5%91mih%C3%A1lyfa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"321a2c4cd96b385ee1cdf64e6806cc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1260345167,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1260345167,
+    "wof:lastmodified":1537626218,
+    "wof:name":"Petomihalyfa",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78661,
+    46.98088,
+    16.78661,
+    46.98088
+],
+  "geometry": {"coordinates":[16.78661,46.98088],"type":"Point"}
+}

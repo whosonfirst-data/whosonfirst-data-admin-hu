@@ -1,0 +1,165 @@
+{
+  "id": 85901227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000229,
+    "geom:area_square_m":1907705.120618,
+    "geom:bbox":"19.0602799988,47.5550332754,19.0832519531,47.5728198673",
+    "geom:latitude":47.564546,
+    "geom:longitude":19.071558,
+    "gn:latitude":47.56863,
+    "gn:longitude":19.08456,
+    "iso:country":"HU",
+    "lbl:latitude":47.565318,
+    "lbl:longitude":19.075083,
+    "mps:latitude":47.563554,
+    "mps:longitude":19.071559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"german dup",
+    "mz:tier_locality":4,
+    "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:ces_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u56db\u533a"
+    ],
+    "name:cze_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:dan_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:deu_x_preferred":[
+        "IV. Budapester Bezirk"
+    ],
+    "name:dut_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:eng_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:epo_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:fin_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:fra_x_preferred":[
+        "4e arrondissement de Budapest"
+    ],
+    "name:fre_x_preferred":[
+        "4e arrondissement de Budapest"
+    ],
+    "name:ger_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c5\u03af\u03c0\u03b5\u03c3\u03c4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05e4\u05e9\u05d8"
+    ],
+    "name:hrv_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:hun_x_preferred":[
+        "Neu-Pest"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30fc\u30a4\u30da\u30b7\u30e5\u30c8"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:rum_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:slo_x_preferred":[
+        "IV. obvod"
+    ],
+    "name:spa_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0458\u043f\u0435\u0448\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "\u00dajpest"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0439\u043f\u0435\u0448\u0442"
+    ],
+    "name:unk_x_variant":[
+        "\u00dajpest",
+        "Neu-Pest"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn IV"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043470,
+        "gp:id":812794,
+        "qs:id":273255,
+        "qs_pg:id":273255,
+        "wd:id":"Q330195",
+        "wk:page":"\u00dajpest"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"51cea2d23c73177edc47fa1c45138d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":85901227,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":85901227,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1553814913,
+    "wof:name":"Neu-Pest",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0602799987862,
+    47.55503327544666,
+    19.08325195312102,
+    47.57281986730005
+],
+  "geometry": {"coordinates":[[[19.07900917823861,47.56726044205023],[19.07775883330771,47.56540738769822],[19.07775878908558,47.56540732215019],[19.07775878908348,47.56170075449997],[19.07775878908348,47.56170068892523],[19.07775878909177,47.55799385900009],[19.07775878907512,47.55799379345002],[19.07226562500028,47.55799379345002],[19.06677246091903,47.55799379345002],[19.06477457429929,47.55503327544666],[19.06144467775664,47.55799385900214],[19.06127929690007,47.55799385900009],[19.06127929688859,47.55814089777057],[19.06127929688557,47.56021982563989],[19.0602799987862,47.56170068892523],[19.0602800135353,47.56170075449997],[19.06069686521789,47.56355408750038],[19.06052984154388,47.5642966526453],[19.06127929910951,47.56540737804035],[19.06202873891181,47.56651807030205],[19.06402587890028,47.56553144272534],[19.0667724609134,47.56688830983735],[19.06677246091579,47.56911369310008],[19.0667724609001,47.56911375870006],[19.07226562500023,47.56911375870006],[19.07226562500028,47.57281980175047],[19.07226562500011,47.57281986730005],[19.07775878909177,47.57281986730005],[19.0832519531001,47.57281986730005],[19.08325195311687,47.57133882077046],[19.08325195311483,47.56911375870006],[19.08325195312102,47.56911369310008],[19.08200156396174,47.56726044205023],[19.07900917823861,47.56726044205023]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343846093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2,47.88333,20.2,47.88333",
+    "geom:latitude":47.88333,
+    "geom:longitude":20.2,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tarnaszentmaria",
+    "gn:country_code":"HU",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":714947,
+    "gn:latitude":47.88333,
+    "gn:longitude":20.2,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Tarnaszentm\u00e1ria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarnaszentm\u00e1ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714947,
+        "wk:page":"Tarnaszentm%C3%A1ria"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"6f5e41120eb1170a16e4bb55b27944ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343846093,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1343846093,
+    "wof:lastmodified":1537626166,
+    "wof:name":"Tarnaszentmaria",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2,
+    47.88333,
+    20.2,
+    47.88333
+],
+  "geometry": {"coordinates":[20.2,47.88333],"type":"Point"}
+}

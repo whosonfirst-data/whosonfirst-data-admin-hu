@@ -1,0 +1,71 @@
+{
+  "id": 1225853845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09689,46.00934,18.09689,46.00934",
+    "geom:latitude":46.00934,
+    "geom:longitude":18.09689,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zok",
+    "gn:country_code":"HU",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042532,
+    "gn:latitude":46.00934,
+    "gn:longitude":18.09689,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Z\u00f3k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00f3k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042532,
+        "wk:page":"Z%C3%B3k"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b1eacb8c323dc511931127195442e536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225853845,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1225853845,
+    "wof:lastmodified":1537626200,
+    "wof:name":"Zok",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09689,
+    46.00934,
+    18.09689,
+    46.00934
+],
+  "geometry": {"coordinates":[18.09689,46.00934],"type":"Point"}
+}

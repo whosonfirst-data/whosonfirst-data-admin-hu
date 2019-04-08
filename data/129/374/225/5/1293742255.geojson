@@ -1,0 +1,72 @@
+{
+  "id": 1293742255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70352,47.14024,16.70352,47.14024",
+    "geom:latitude":47.14024,
+    "geom:longitude":16.70352,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sorkikapolna",
+    "gn:country_code":"HU",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045163,
+    "gn:latitude":47.14024,
+    "gn:longitude":16.70352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sorkik\u00e1polna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorkit\u00f3tfalu",
+        "Sorkik\u00e1polna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045163,
+        "wk:page":"Sorkik%C3%A1polna"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4a278ca196e56ea12ded9788dce6ebeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1293742255,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1293742255,
+    "wof:lastmodified":1537626212,
+    "wof:name":"Sorkikapolna",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70352,
+    47.14024000000001,
+    16.70352,
+    47.14024000000001
+],
+  "geometry": {"coordinates":[16.70352,47.14024000000001],"type":"Point"}
+}

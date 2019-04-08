@@ -1,0 +1,61 @@
+{
+  "id": 1209278855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65,46.46667,18.65,46.46667",
+    "geom:latitude":46.46667,
+    "geom:longitude":18.65,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Csardahegy",
+    "gn:country_code":"HU",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054377,
+    "gn:latitude":46.46667,
+    "gn:longitude":18.65,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Cs\u00e1rdahegy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054377
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"5a0994f5197c58f027a98b0fdd149871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209278855
+        }
+    ],
+    "wof:id":1209278855,
+    "wof:lastmodified":1536292095,
+    "wof:name":"Csardahegy",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65,
+    46.46667,
+    18.65,
+    46.46667
+],
+  "geometry": {"coordinates":[18.65,46.46667],"type":"Point"}
+}

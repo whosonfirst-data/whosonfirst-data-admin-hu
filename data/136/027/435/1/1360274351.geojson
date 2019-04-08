@@ -1,0 +1,73 @@
+{
+  "id": 1360274351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31667,47.11667,21.31667,47.11667",
+    "geom:latitude":47.11667,
+    "geom:longitude":21.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Csiff",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721681,
+    "gn:latitude":47.11667,
+    "gn:longitude":21.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csiff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csiffi-major",
+        "Csiffitany\u00e1k",
+        "Csiff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721681
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f11e8b46ac1801936eb7c5e1bff0b003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1360274351,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":1360274351,
+    "wof:lastmodified":1537626190,
+    "wof:name":"Csiff",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31667,
+    47.11667,
+    21.31667,
+    47.11667
+],
+  "geometry": {"coordinates":[21.31667,47.11667],"type":"Point"}
+}

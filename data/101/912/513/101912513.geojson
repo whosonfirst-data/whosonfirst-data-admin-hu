@@ -1,0 +1,74 @@
+{
+  "id": 101912513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:bbox":"18.2680597158,45.8667219496,18.2822773854,45.8791454131",
+    "geom:latitude":45.873114,
+    "geom:longitude":18.273522,
+    "iso:country":"HU",
+    "lbl:latitude":45.873631,
+    "lbl:longitude":18.271853,
+    "mps:latitude":45.873631,
+    "mps:longitude":18.271853,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Baranya",
+    "qs:a1r":"9D\u00e9l-Dun\u00e1nt\u00fal",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la":"Sikl\u00f3s",
+    "qs:la_lc":"*HU40232050551",
+    "qs:level":"locality",
+    "qs:loc":"Sikl\u00f3s-m\u00e1riagy\u00fcd",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55847799,
+        "qs:id":290127,
+        "qs_pg:id":290127
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"006e3c3b7311dee072d82b578a4d7967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101912513,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":101912513,
+    "wof:lastmodified":1497299542,
+    "wof:name":"Sikl\u00f3s-m\u00e1riagy\u00fcd",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26805971576459,
+    45.86672194958606,
+    18.28227738541756,
+    45.87914541306571
+],
+  "geometry": {"coordinates":[[[18.27454864682358,45.87904543185698],[18.27441175836992,45.8781509099432],[18.27569201174776,45.87805091523592],[18.2751444335795,45.87447282759729],[18.27770476178955,45.87427280721323],[18.27756784043942,45.8733782872124],[18.27884797744844,45.87327825582298],[18.27857411087348,45.87148921734956],[18.27985420219176,45.87138917436926],[18.27971725696898,45.87049465589695],[18.28227738541756,45.87029452754541],[18.28200342967148,45.86850549594038],[18.27816335492815,45.86880565393415],[18.27830026772159,45.86970017583337],[18.27061987922968,45.87030008744301],[18.27007276039194,45.86672194958606],[18.26879276365383,45.86682187334014],[18.26933979961933,45.87040001880894],[18.26805971576459,45.87049993477405],[18.26929070237679,45.87855073473958],[18.27313150074343,45.87825088924728],[18.27326836846947,45.87914541306571],[18.27454864682358,45.87904543185698]]],"type":"Polygon"}
+}

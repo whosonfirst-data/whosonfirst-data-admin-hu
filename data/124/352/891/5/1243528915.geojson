@@ -1,0 +1,67 @@
+{
+  "id": 1243528915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8,47.53333,20.8,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":20.8,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Hirtelentanya",
+    "gn:country_code":"HU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":719970,
+    "gn:latitude":47.53333,
+    "gn:longitude":20.8,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Hirtelentanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684891,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":719970
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"edb4033581215c4c1a131555e987d2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243528915,
+            "macroregion_id":404227483,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":1243528915,
+    "wof:lastmodified":1536686743,
+    "wof:name":"Hirtelentanya",
+    "wof:parent_id":85684891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8,
+    47.53333,
+    20.8,
+    47.53333
+],
+  "geometry": {"coordinates":[20.8,47.53333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209673417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04376,46.55376,17.04376,46.55376",
+    "geom:latitude":46.55376,
+    "geom:longitude":17.04376,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nagybakonak",
+    "gn:country_code":"HU",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047810,
+    "gn:latitude":46.55376,
+    "gn:longitude":17.04376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nagybak\u00f3nak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagybak\u00f3nak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047810,
+        "wk:page":"Nagybak%C3%B3nak"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"54ec0708c26d0b4a6b872f04fbe27f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209673417
+        }
+    ],
+    "wof:id":1209673417,
+    "wof:lastmodified":1537626224,
+    "wof:name":"Nagybakonak",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04376,
+    46.55376,
+    17.04376,
+    46.55376
+],
+  "geometry": {"coordinates":[17.04376,46.55376],"type":"Point"}
+}

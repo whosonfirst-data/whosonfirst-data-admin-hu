@@ -1,0 +1,71 @@
+{
+  "id": 1226603303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40114,46.9973,16.40114,46.9973",
+    "geom:latitude":46.9973,
+    "geom:longitude":16.40114,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nemesmedves",
+    "gn:country_code":"HU",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3047400,
+    "gn:latitude":46.9973,
+    "gn:longitude":16.40114,
+    "gn:modification_date":"2013-04-02",
+    "gn:name":"Nemesmedves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ginisdorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684863,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3047400,
+        "wk:page":"Nemesmedves"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a766e5a41c26b534a71b576f037da3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226603303,
+            "macroregion_id":404227481,
+            "region_id":85684863
+        }
+    ],
+    "wof:id":1226603303,
+    "wof:lastmodified":1537626222,
+    "wof:name":"Nemesmedves",
+    "wof:parent_id":85684863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40114,
+    46.9973,
+    16.40114,
+    46.9973
+],
+  "geometry": {"coordinates":[16.40114,46.9973],"type":"Point"}
+}

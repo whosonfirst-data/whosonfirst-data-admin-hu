@@ -1,0 +1,71 @@
+{
+  "id": 1259759451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89554,46.3203,17.89554,46.3203",
+    "geom:latitude":46.3203,
+    "geom:longitude":17.89554,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Szentbalazs",
+    "gn:country_code":"HU",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044692,
+    "gn:latitude":46.3203,
+    "gn:longitude":17.89554,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Szentbal\u00e1zs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szentbal\u00e1zs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044692,
+        "wk:page":"Szentbal%C3%A1zs"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"36ee04663f6ef6785619f1144458334e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259759451,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1259759451,
+    "wof:lastmodified":1537626210,
+    "wof:name":"Szentbalazs",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89554,
+    46.3203,
+    17.89554,
+    46.3203
+],
+  "geometry": {"coordinates":[17.89554,46.3203],"type":"Point"}
+}

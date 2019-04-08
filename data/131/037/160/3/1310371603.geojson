@@ -1,0 +1,71 @@
+{
+  "id": 1310371603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05196,48.11392,22.05196,48.11392",
+    "geom:latitude":48.11392,
+    "geom:longitude":22.05196,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Csajkostanya",
+    "gn:country_code":"HU",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721876,
+    "gn:latitude":48.11392,
+    "gn:longitude":22.05196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csajkostanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csajkostag",
+        "Csajkostanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684915,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721876
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"479765f9337a481a198b4823bf4ab83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1310371603,
+            "macroregion_id":404227483,
+            "region_id":85684915
+        }
+    ],
+    "wof:id":1310371603,
+    "wof:lastmodified":1537626192,
+    "wof:name":"Csajkostanya",
+    "wof:parent_id":85684915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05196,
+    48.11392,
+    22.05196,
+    48.11392
+],
+  "geometry": {"coordinates":[22.05196,48.11392],"type":"Point"}
+}

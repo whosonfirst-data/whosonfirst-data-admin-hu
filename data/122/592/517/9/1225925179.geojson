@@ -1,0 +1,67 @@
+{
+  "id": 1225925179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9589,47.84318,19.9589,47.84318",
+    "geom:latitude":47.84318,
+    "geom:longitude":19.9589,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sasto-Kobanya",
+    "gn:country_code":"HU",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7874530,
+    "gn:latitude":47.84318,
+    "gn:longitude":19.9589,
+    "gn:modification_date":"2011-07-07",
+    "gn:name":"S\u00e1st\u00f3-K\u0151b\u00e1nya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874530
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"d897cc8586ccef5295517570e08569bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225925179,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":1225925179,
+    "wof:lastmodified":1536899166,
+    "wof:name":"Sasto-Kobanya",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9589,
+    47.84318,
+    19.9589,
+    47.84318
+],
+  "geometry": {"coordinates":[19.9589,47.84318],"type":"Point"}
+}

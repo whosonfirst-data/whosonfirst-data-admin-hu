@@ -1,0 +1,120 @@
+{
+  "id": 85901257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16435007.084288,
+    "geom:bbox":"20.194447,47.174204,20.194447,47.174204",
+    "geom:latitude":47.174204,
+    "geom:longitude":20.194447,
+    "gn:latitude":47.18333,
+    "gn:longitude":20.2,
+    "iso:country":"HU",
+    "lbl:latitude":47.174204,
+    "lbl:longitude":20.194447,
+    "mps:latitude":47.177332,
+    "mps:longitude":20.190129,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_preferred":[
+        "Piroska",
+        "Szamor\u00e1nsky Piroska"
+    ],
+    "name:nor_x_preferred":[
+        "Piroska Pappn\u00e9-Szamor\u00e1nsky"
+    ],
+    "name:pol_x_preferred":[
+        "Piroska Szamor\u00e1nsky"
+    ],
+    "name:ron_x_preferred":[
+        "Piroska Szamor\u00e1nsky"
+    ],
+    "name:unk_x_variant":[
+        "Piroska"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":715126,
+    "qs:gn_nam_loc":"Szolnok, Szolnok, Szolnok, HU",
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"Piroska",
+    "qs:local_max":176,
+    "qs:local_sum":309,
+    "qs:localhoods":2,
+    "qs:name":"Piroska",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Szolnok",
+    "qs:name_adm2":"Szolnok",
+    "qs:name_local":"Szolnok",
+    "qs:photo_max":37,
+    "qs:photo_sum":176,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":56043638,
+    "qs:woe_adm2":12593402,
+    "qs:woe_lau":0,
+    "qs:woe_local":816011,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684891,
+        102191581,
+        85633237,
+        404227483,
+        101751709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":716389,
+        "gp:id":813877,
+        "qs:id":907138,
+        "qs_pg:id":907138
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3e4b1eebc667425c02bec753b666b0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751709,
+            "macroregion_id":404227483,
+            "neighbourhood_id":85901257,
+            "region_id":85684891
+        }
+    ],
+    "wof:id":85901257,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932463,
+    "wof:name":"Piroska",
+    "wof:parent_id":101751709,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.194447,
+    47.174204,
+    20.194447,
+    47.174204
+],
+  "geometry": {"coordinates":[20.194447,47.174204],"type":"Point"}
+}

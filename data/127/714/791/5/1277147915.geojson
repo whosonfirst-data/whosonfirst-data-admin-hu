@@ -1,0 +1,71 @@
+{
+  "id": 1277147915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70601,48.08371,19.70601,48.08371",
+    "geom:latitude":48.08371,
+    "geom:longitude":19.70601,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kishartyan",
+    "gn:country_code":"HU",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3049975,
+    "gn:latitude":48.08371,
+    "gn:longitude":19.70601,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Kisharty\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisharty\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3049975,
+        "wk:page":"Kisharty%C3%A1n"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"34ef3bd05d91c9528015fa1705fa2c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1277147915,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":1277147915,
+    "wof:lastmodified":1537626233,
+    "wof:name":"Kishartyan",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70601,
+    48.08371,
+    19.70601,
+    48.08371
+],
+  "geometry": {"coordinates":[19.70601,48.08371],"type":"Point"}
+}

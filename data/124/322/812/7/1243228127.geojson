@@ -1,0 +1,67 @@
+{
+  "id": 1243228127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15,46.4,18.15,46.4",
+    "geom:latitude":46.4,
+    "geom:longitude":18.15,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Birkamajor",
+    "gn:country_code":"HU",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054994,
+    "gn:latitude":46.4,
+    "gn:longitude":18.15,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Birkamajor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684841,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054994
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e6083ecee71e06f22a5c6edeb2f696db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243228127,
+            "macroregion_id":404227491,
+            "region_id":85684841
+        }
+    ],
+    "wof:id":1243228127,
+    "wof:lastmodified":1536621336,
+    "wof:name":"Birkamajor",
+    "wof:parent_id":85684841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15,
+    46.4,
+    18.15,
+    46.4
+],
+  "geometry": {"coordinates":[18.15,46.4],"type":"Point"}
+}

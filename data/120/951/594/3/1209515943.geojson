@@ -1,0 +1,69 @@
+{
+  "id": 1209515943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26667,48.51667,21.26667,48.51667",
+    "geom:latitude":48.51667,
+    "geom:longitude":21.26667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tornyosnemeti",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":714594,
+    "gn:latitude":48.51667,
+    "gn:longitude":21.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tornyosn\u00e9meti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tornvosn\u00e9meti",
+        "Torryosn\u00e9meti",
+        "Toryosn\u00e9meti",
+        "Tornyosn\u00e9meti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":714594,
+        "wk:page":"Tornyosn%C3%A9meti"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"9c05400725ad399c2dc15cc9cc17f4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209515943
+        }
+    ],
+    "wof:id":1209515943,
+    "wof:lastmodified":1537626164,
+    "wof:name":"Tornyosnemeti",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26667,
+    48.51667,
+    21.26667,
+    48.51667
+],
+  "geometry": {"coordinates":[21.26667,48.51667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276553931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46667,48.4,20.46667,48.4",
+    "geom:latitude":48.4,
+    "geom:longitude":20.46667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Latranpuszta",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":718167,
+    "gn:latitude":48.4,
+    "gn:longitude":20.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Latr\u00e1npuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Latr\u00e1n-tanya",
+        "Latr\u00e1npuszta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684919,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":718167
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1431af7a3abf7c8650b7357ba30096a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1276553931,
+            "macroregion_id":404227477,
+            "region_id":85684919
+        }
+    ],
+    "wof:id":1276553931,
+    "wof:lastmodified":1537626176,
+    "wof:name":"Latranpuszta",
+    "wof:parent_id":85684919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46667,
+    48.4,
+    20.46667,
+    48.4
+],
+  "geometry": {"coordinates":[20.46667,48.4],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209270377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98981,46.67125,16.98981,46.67125",
+    "geom:latitude":46.67125,
+    "geom:longitude":16.98981,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Varhelypuszta",
+    "gn:country_code":"HU",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043133,
+    "gn:latitude":46.67125,
+    "gn:longitude":16.98981,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"V\u00e1rhelypuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043133
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"16598d4a3cb3b1ad39ebae90806b630b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209270377
+        }
+    ],
+    "wof:id":1209270377,
+    "wof:lastmodified":1536292379,
+    "wof:name":"Varhelypuszta",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.989810000000002,
+    46.67125,
+    16.989810000000002,
+    46.67125
+],
+  "geometry": {"coordinates":[16.98981,46.67125],"type":"Point"}
+}

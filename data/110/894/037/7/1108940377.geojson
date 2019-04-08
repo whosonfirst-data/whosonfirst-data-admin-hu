@@ -1,0 +1,110 @@
+{
+  "id": 1108940377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0505047873,47.4991937471,19.0505047873,47.4991937471",
+    "geom:latitude":47.499194,
+    "geom:longitude":19.050505,
+    "iso:country":"HU",
+    "lbl:latitude":47.499194,
+    "lbl:longitude":19.050505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:chi_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e94\u533a"
+    ],
+    "name:cze_x_preferred":[
+        "V. obvod"
+    ],
+    "name:dut_x_preferred":[
+        "Budapest V. District"
+    ],
+    "name:eng_x_preferred":[
+        "Budapest V. District"
+    ],
+    "name:epo_x_preferred":[
+        "Belv\u00e1ros-Lip\u00f3tv\u00e1ros"
+    ],
+    "name:fre_x_preferred":[
+        "5e arrondissement de Budapest"
+    ],
+    "name:ger_x_preferred":[
+        "Belv\u00e1ros-Lip\u00f3tv\u00e1ros"
+    ],
+    "name:hun_x_preferred":[
+        "Belv\u00e1ros-Lip\u00f3tv\u00e1ros"
+    ],
+    "name:hun_x_variant":[
+        "Belvaros-Lipotvaros",
+        "V. ker\u00fclet",
+        "Budapest V. ker\u00fclete"
+    ],
+    "name:pol_x_preferred":[
+        "Belv\u00e1ros-Lip\u00f3tv\u00e1ros"
+    ],
+    "name:rum_x_preferred":[
+        "Belv\u00e1ros-Lip\u00f3tv\u00e1ros"
+    ],
+    "name:slo_x_preferred":[
+        "V. obvod"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 V \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn V"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        404227489,
+        101751703,
+        85684881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1042732"
+    },
+    "wof:country":"HU",
+    "wof:created":1491361711,
+    "wof:geomhash":"63a2b2b6382e89ca5c6fd74586a54363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1108940377,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1108940377,
+    "wof:lastmodified":1514447892,
+    "wof:name":"Belvaros-Lipotvaros",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05050478725773,
+    47.49919374712494,
+    19.05050478725773,
+    47.49919374712494
+],
+  "geometry": {"coordinates":[19.05050478725773,47.49919374712494],"type":"Point"}
+}

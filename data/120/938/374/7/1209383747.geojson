@@ -1,0 +1,67 @@
+{
+  "id": 1209383747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38411,46.80183,16.38411,46.80183",
+    "geom:latitude":46.80183,
+    "geom:longitude":16.38411,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bajansenye",
+    "gn:country_code":"HU",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055679,
+    "gn:latitude":46.80183,
+    "gn:longitude":16.38411,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baj\u00e1nsenye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotormany",
+        "D\u00e1vidh\u00e1za",
+        "Baj\u00e1nsenye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055679,
+        "wk:page":"Baj%C3%A1nsenye"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"80898f3bb212773f95ac7bb7085cc88a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209383747
+        }
+    ],
+    "wof:id":1209383747,
+    "wof:lastmodified":1537626271,
+    "wof:name":"Bajansenye",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38411,
+    46.80183,
+    16.38411,
+    46.80183
+],
+  "geometry": {"coordinates":[16.38411,46.80183],"type":"Point"}
+}

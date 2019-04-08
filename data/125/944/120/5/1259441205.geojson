@@ -1,0 +1,72 @@
+{
+  "id": 1259441205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53333,47.38333,17.53333,47.38333",
+    "geom:latitude":47.38333,
+    "geom:longitude":17.53333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Sandortanya",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045581,
+    "gn:latitude":47.38333,
+    "gn:longitude":17.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e1ndortanya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e1ndor Imre-tanya",
+        "S\u00e1ndortanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045581
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"f34193ed9e126d5142fe733f8ed9398b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259441205,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1259441205,
+    "wof:lastmodified":1537626214,
+    "wof:name":"Sandortanya",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53333,
+    47.38333,
+    17.53333,
+    47.38333
+],
+  "geometry": {"coordinates":[17.53333,47.38333],"type":"Point"}
+}

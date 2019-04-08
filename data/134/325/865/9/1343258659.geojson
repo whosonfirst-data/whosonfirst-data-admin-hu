@@ -1,0 +1,67 @@
+{
+  "id": 1343258659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33333,47.45,17.33333,47.45",
+    "geom:latitude":47.45,
+    "geom:longitude":17.33333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bodacstelek",
+    "gn:country_code":"HU",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054947,
+    "gn:latitude":47.45,
+    "gn:longitude":17.33333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Bod\u00e1cstelek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684895,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054947
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1dc97486da2295fdd0e91455eb190f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343258659,
+            "macroregion_id":404227481,
+            "region_id":85684895
+        }
+    ],
+    "wof:id":1343258659,
+    "wof:lastmodified":1537035949,
+    "wof:name":"Bodacstelek",
+    "wof:parent_id":85684895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33333,
+    47.45,
+    17.33333,
+    47.45
+],
+  "geometry": {"coordinates":[17.33333,47.45],"type":"Point"}
+}

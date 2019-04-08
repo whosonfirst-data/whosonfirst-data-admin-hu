@@ -1,0 +1,71 @@
+{
+  "id": 1259539823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17841,47.04176,18.17841,47.04176",
+    "geom:latitude":47.04176,
+    "geom:longitude":18.17841,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Csajag",
+    "gn:country_code":"HU",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054450,
+    "gn:latitude":47.04176,
+    "gn:longitude":18.17841,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csaj\u00e1g",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csaj\u00e1g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054450,
+        "wk:page":"Csaj%C3%A1g"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3fb226749304bff9fad924f4bbe3e6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1259539823,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1259539823,
+    "wof:lastmodified":1537626260,
+    "wof:name":"Csajag",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17841,
+    47.04176,
+    18.17841,
+    47.04176
+],
+  "geometry": {"coordinates":[18.17841,47.04176],"type":"Point"}
+}

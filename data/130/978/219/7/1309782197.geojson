@@ -1,0 +1,68 @@
+{
+  "id": 1309782197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00072,46.74034,18.00072,46.74034",
+    "geom:latitude":46.74034,
+    "geom:longitude":18.00072,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zala",
+    "gn:country_code":"HU",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042649,
+    "gn:latitude":46.74034,
+    "gn:longitude":18.00072,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Zala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042649,
+        "wk:page":"Zala_%28village%29"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"c6fcd8eac21b6b8fdf58ad20a4cca380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309782197,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1309782197,
+    "wof:lastmodified":1537563363,
+    "wof:name":"Zala",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00072,
+    46.74034,
+    18.00072,
+    46.74034
+],
+  "geometry": {"coordinates":[18.00072,46.74034],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343570695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.0,46.8,20.0,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":20.0,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Felsodabasi Dulo",
+    "gn:country_code":"HU",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":720901,
+    "gn:latitude":46.8,
+    "gn:longitude":20.0,
+    "gn:modification_date":"2007-08-27",
+    "gn:name":"Fels\u0151dabasi D\u0171l\u0151",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684859,
+        404227487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":720901
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3cee7b0395a59578255b216ee3546c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343570695,
+            "macroregion_id":404227487,
+            "region_id":85684859
+        }
+    ],
+    "wof:id":1343570695,
+    "wof:lastmodified":1537081461,
+    "wof:name":"Felsodabasi Dulo",
+    "wof:parent_id":85684859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.0,
+    46.8,
+    20.0,
+    46.8
+],
+  "geometry": {"coordinates":[20.0,46.8],"type":"Point"}
+}

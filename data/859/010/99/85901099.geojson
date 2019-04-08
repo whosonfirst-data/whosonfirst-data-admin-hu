@@ -1,0 +1,114 @@
+{
+  "id": 85901099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7032649.47093,
+    "geom:bbox":"18.690062,45.992008,18.690062,45.992008",
+    "geom:latitude":45.992008,
+    "geom:longitude":18.690062,
+    "gn:latitude":45.98333,
+    "gn:longitude":18.68333,
+    "iso:country":"HU",
+    "lbl:latitude":45.992008,
+    "lbl:longitude":18.690062,
+    "mps:latitude":45.992279,
+    "mps:longitude":18.689367,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:hun_x_colloquial":[
+        "Felsoloeg",
+        "Felsolog"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151l\u00f6g"
+    ],
+    "name:unk_x_variant":[
+        "Fels\u0151l\u00f6g"
+    ],
+    "qs:gn_adm0_cc":"HU",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3047967,
+    "qs:gn_nam_loc":"Moh\u00e1cs, Moh\u00e1cs, Baranya, HU",
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Fels\u0151l\u00f6g",
+    "qs:local_max":125,
+    "qs:local_sum":125,
+    "qs:localhoods":1,
+    "qs:name":"Fels\u0151l\u00f6g",
+    "qs:name_adm0":"Magyarorsz\u00e1g",
+    "qs:name_adm1":"Baranya",
+    "qs:name_adm2":"Moh\u00e1cs",
+    "qs:name_local":"Moh\u00e1cs",
+    "qs:photo_max":41,
+    "qs:photo_sum":125,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424844,
+    "qs:woe_adm1":12577912,
+    "qs:woe_adm2":12593566,
+    "qs:woe_lau":0,
+    "qs:woe_local":812076,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85684839,
+        102191581,
+        85633237,
+        404227491,
+        101791349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052843,
+        "gp:id":806388,
+        "qs:id":1348658,
+        "qs_pg:id":1348658
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b6261f13d098562d70e1e7284565d670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101791349,
+            "macroregion_id":404227491,
+            "neighbourhood_id":85901099,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":85901099,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1531932433,
+    "wof:name":"Fels\u0151l\u00f6g",
+    "wof:parent_id":101791349,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.690062,
+    45.992008,
+    18.690062,
+    45.992008
+],
+  "geometry": {"coordinates":[18.690062,45.992008],"type":"Point"}
+}

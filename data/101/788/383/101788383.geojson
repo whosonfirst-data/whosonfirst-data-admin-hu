@@ -1,0 +1,120 @@
+{
+  "id": 101788383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:bbox":"21.4500374038,47.122639472,21.47078408,47.1373461364",
+    "geom:latitude":47.130481,
+    "geom:longitude":21.460091,
+    "iso:country":"HU",
+    "lbl:latitude":47.130297,
+    "lbl:longitude":21.460091,
+    "mps:latitude":47.130297,
+    "mps:longitude":21.460091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Furta"
+    ],
+    "name:epo_x_preferred":[
+        "Furta"
+    ],
+    "name:fra_x_preferred":[
+        "Furta"
+    ],
+    "name:hun_x_preferred":[
+        "Furta",
+        "Bakonszeg"
+    ],
+    "name:ita_x_preferred":[
+        "Furta"
+    ],
+    "name:msa_x_preferred":[
+        "Furta"
+    ],
+    "name:nld_x_preferred":[
+        "Furta"
+    ],
+    "name:ron_x_preferred":[
+        "Furta"
+    ],
+    "name:slk_x_preferred":[
+        "Furta"
+    ],
+    "name:slv_x_preferred":[
+        "Furta"
+    ],
+    "name:vie_x_preferred":[
+        "Furta"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Furta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u5c14\u9676"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Hajd\u00fa-Bihar",
+    "qs:a1r":"0\u00c9szak-Alf\u00f6ld",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Furta",
+    "qs:la_lc":"*HU60939021699",
+    "qs:level":"locality",
+    "qs:loc":"Furta",
+    "qs:loc_alt":"Furta",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"116307e6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":720698,
+        "gp:id":806819,
+        "qs:id":915083,
+        "wd:id":"Q302805",
+        "wk:page":"Furta"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e7e73b8a3b52f4feb05256208da2752f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101788383,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":101788383,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1527715572,
+    "wof:name":"Furta",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45003740383805,
+    47.12263947204326,
+    21.47078407996088,
+    47.13734613637212
+],
+  "geometry": {"coordinates":[[[21.45702349242265,47.13604193877046],[21.45682699048848,47.13515402539991],[21.46074084914682,47.13473761556082],[21.46093741543859,47.13562552075712],[21.46746049522386,47.13493117736903],[21.46726382167765,47.13404328580236],[21.46856839739297,47.13390437284795],[21.46817503311689,47.13212859235733],[21.47078407996088,47.13185073035424],[21.47058736778672,47.13096284415747],[21.4692828689432,47.13110178026545],[21.46810290455244,47.12577442704571],[21.4641897564278,47.12619109230286],[21.46340354214357,47.12263947204326],[21.46079491695002,47.1229171487592],[21.46099141479607,47.12380506067831],[21.45968707137365,47.12394387826436],[21.45988355634114,47.12483179197085],[21.45857918522051,47.12497059661627],[21.45877565730819,47.12585851211048],[21.45616685341247,47.12613607985384],[21.45636329117434,47.12702399985892],[21.45375441936687,47.12730151038636],[21.45395082279833,47.12818943490214],[21.45003740383805,47.12860559136595],[21.45160842465071,47.13570901915983],[21.45291307549689,47.13557029422287],[21.45330595920416,47.13734613637212],[21.45461064670212,47.13720739031908],[21.45441417911252,47.13631947243584],[21.45702349242265,47.13604193877046]]],"type":"Polygon"}
+}

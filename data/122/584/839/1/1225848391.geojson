@@ -1,0 +1,71 @@
+{
+  "id": 1225848391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88838,46.02193,17.88838,46.02193",
+    "geom:latitude":46.02193,
+    "geom:longitude":17.88838,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rozsafa",
+    "gn:country_code":"HU",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3045735,
+    "gn:latitude":46.02193,
+    "gn:longitude":17.88838,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u00f3zsafa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00f3zsafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3045735,
+        "wk:page":"R%C3%B3zsafa"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3540b62ba231e15835446cee1035e33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225848391,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1225848391,
+    "wof:lastmodified":1537626214,
+    "wof:name":"Rozsafa",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88837999999999,
+    46.02193,
+    17.88837999999999,
+    46.02193
+],
+  "geometry": {"coordinates":[17.88837999999999,46.02193],"type":"Point"}
+}

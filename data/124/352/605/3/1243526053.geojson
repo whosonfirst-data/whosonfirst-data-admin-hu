@@ -1,0 +1,67 @@
+{
+  "id": 1243526053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61065,46.33795,17.61065,46.33795",
+    "geom:latitude":46.33795,
+    "geom:longitude":17.61065,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kaposszeplak",
+    "gn:country_code":"HU",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3050620,
+    "gn:latitude":46.33795,
+    "gn:longitude":17.61065,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kapossz\u00e9plak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3050620
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"95d93de47d2b4b7eea2db018cf82d197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1243526053,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1243526053,
+    "wof:lastmodified":1536691028,
+    "wof:name":"Kaposszeplak",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61065,
+    46.33795,
+    17.61065,
+    46.33795
+],
+  "geometry": {"coordinates":[17.61065,46.33795],"type":"Point"}
+}

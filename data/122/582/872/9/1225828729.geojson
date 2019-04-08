@@ -1,0 +1,67 @@
+{
+  "id": 1225828729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.66438,48.02439,19.66438,48.02439",
+    "geom:latitude":48.02439,
+    "geom:longitude":19.66438,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bedepuszta",
+    "gn:country_code":"HU",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055243,
+    "gn:latitude":48.02439,
+    "gn:longitude":19.66438,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bedepuszta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684913,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055243
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"3c637dac327ceb1d3e782fc930429adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1225828729,
+            "macroregion_id":404227477,
+            "region_id":85684913
+        }
+    ],
+    "wof:id":1225828729,
+    "wof:lastmodified":1537036644,
+    "wof:name":"Bedepuszta",
+    "wof:parent_id":85684913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.66438,
+    48.02439,
+    19.66438,
+    48.02439
+],
+  "geometry": {"coordinates":[19.66438,48.02439],"type":"Point"}
+}

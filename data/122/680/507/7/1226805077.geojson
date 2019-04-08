@@ -1,0 +1,71 @@
+{
+  "id": 1226805077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64772,46.91724,16.64772,46.91724",
+    "geom:latitude":46.91724,
+    "geom:longitude":16.64772,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Vaspor",
+    "gn:country_code":"HU",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3043046,
+    "gn:latitude":46.91724,
+    "gn:longitude":16.64772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vasp\u00f6r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vasp\u00f6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684849,
+        404227481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3043046,
+        "wk:page":"Vasp%C3%B6r"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"db3889881d113cee37c8345c27fb31ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226805077,
+            "macroregion_id":404227481,
+            "region_id":85684849
+        }
+    ],
+    "wof:id":1226805077,
+    "wof:lastmodified":1537626204,
+    "wof:name":"Vaspor",
+    "wof:parent_id":85684849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64772,
+    46.91724,
+    16.64772,
+    46.91724
+],
+  "geometry": {"coordinates":[16.64772,46.91724],"type":"Point"}
+}

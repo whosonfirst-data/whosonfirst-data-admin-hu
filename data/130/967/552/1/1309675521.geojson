@@ -1,0 +1,72 @@
+{
+  "id": 1309675521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90091,46.86469,17.90091,46.86469",
+    "geom:latitude":46.86469,
+    "geom:longitude":17.90091,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Szantod",
+    "gn:country_code":"HU",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3044914,
+    "gn:latitude":46.86469,
+    "gn:longitude":17.90091,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sz\u00e1nt\u00f3d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sz\u00e1nt\u00f3d-F\u00fcrd\u0151telep",
+        "Sz\u00e1nt\u00f3d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3044914,
+        "wk:page":"Sz%C3%A1nt%C3%B3d"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"e89a949b2e340eec87184efe4696fdb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309675521,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1309675521,
+    "wof:lastmodified":1537626210,
+    "wof:name":"Szantod",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90091,
+    46.86469,
+    17.90091,
+    46.86469
+],
+  "geometry": {"coordinates":[17.90091,46.86469],"type":"Point"}
+}

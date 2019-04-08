@@ -1,0 +1,72 @@
+{
+  "id": 1226560273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5,47.81667,21.5,47.81667",
+    "geom:latitude":47.81667,
+    "geom:longitude":21.5,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Csontoskert",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":721575,
+    "gn:latitude":47.81667,
+    "gn:longitude":21.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csontoskert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csontoskerti Tany\u00e1k",
+        "Csontoskert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684903,
+        404227483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":721575
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"1a5aae8a081b04bc51d1cbbb85e3f07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1226560273,
+            "macroregion_id":404227483,
+            "region_id":85684903
+        }
+    ],
+    "wof:id":1226560273,
+    "wof:lastmodified":1537626189,
+    "wof:name":"Csontoskert",
+    "wof:parent_id":85684903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5,
+    47.81667,
+    21.5,
+    47.81667
+],
+  "geometry": {"coordinates":[21.5,47.81667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343861465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21644,45.89509,18.21644,45.89509",
+    "geom:latitude":45.89509,
+    "geom:longitude":18.21644,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Csarnota",
+    "gn:country_code":"HU",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3054361,
+    "gn:latitude":45.89509,
+    "gn:longitude":18.21644,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Csarn\u00f3ta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csarn\u00f3ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684839,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3054361,
+        "wk:page":"Csarn%C3%B3ta"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"0e07576716c88d5d7d621b9a355229b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1343861465,
+            "macroregion_id":404227491,
+            "region_id":85684839
+        }
+    ],
+    "wof:id":1343861465,
+    "wof:lastmodified":1537626258,
+    "wof:name":"Csarnota",
+    "wof:parent_id":85684839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21644,
+    45.89509,
+    18.21644,
+    45.89509
+],
+  "geometry": {"coordinates":[18.21644,45.89509],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309877223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26667,46.25,17.26667,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":17.26667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gogtanyak",
+    "gn:cc2":"HU",
+    "gn:country_code":"HU",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3052219,
+    "gn:latitude":46.25,
+    "gn:longitude":17.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f3gtany\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f3g Tanya",
+        "G\u00f3gtany\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3052219
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"4cf9568fd24a69a62422e94bfbc39591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1309877223,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1309877223,
+    "wof:lastmodified":1537626243,
+    "wof:name":"Gogtanyak",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26667,
+    46.25,
+    17.26667,
+    46.25
+],
+  "geometry": {"coordinates":[17.26667,46.25],"type":"Point"}
+}

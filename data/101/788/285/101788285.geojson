@@ -1,0 +1,124 @@
+{
+  "id": 101788285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1116977.64437,
+    "geom:bbox":"19.3915998057,47.3150178433,19.412790194,47.3274101006",
+    "geom:latitude":47.321687,
+    "geom:longitude":19.402137,
+    "iso:country":"HU",
+    "lbl:latitude":47.322196,
+    "lbl:longitude":19.402137,
+    "mps:latitude":47.322196,
+    "mps:longitude":19.402137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6c83\u7ecd\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Vasad"
+    ],
+    "name:eng_x_preferred":[
+        "Vasad"
+    ],
+    "name:epo_x_preferred":[
+        "Vasad"
+    ],
+    "name:fre_x_preferred":[
+        "Vasad"
+    ],
+    "name:ger_x_preferred":[
+        "Vasad"
+    ],
+    "name:hun_x_preferred":[
+        "Vasad"
+    ],
+    "name:ita_x_preferred":[
+        "Vasad"
+    ],
+    "name:may_x_preferred":[
+        "Vasad"
+    ],
+    "name:nan_x_preferred":[
+        "Vasad"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0633\u062f"
+    ],
+    "name:rum_x_preferred":[
+        "Vasad"
+    ],
+    "name:slo_x_preferred":[
+        "Vasad"
+    ],
+    "name:slv_x_preferred":[
+        "Vasad"
+    ],
+    "name:vie_x_preferred":[
+        "Vasad"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Pest",
+    "qs:a1r":"0K\u00f6z\u00e9p-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:la":"Vasad",
+    "qs:la_lc":"*HU11343052258",
+    "qs:level":"locality",
+    "qs:loc":"Vasad",
+    "qs:loc_alt":"Vasad",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684899,
+        404227489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1164f808-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3043087,
+        "gp:id":817532,
+        "qs:id":1083493,
+        "wd:id":"Q1186668"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"bccaf9c5c9dde035af94d0c76f020480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101788285,
+            "macroregion_id":404227489,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":101788285,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1514448424,
+    "wof:name":"Vasad",
+    "wof:parent_id":85684899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39159980571742,
+    47.31501784334682,
+    19.41279019396256,
+    47.32741010060948
+],
+  "geometry": {"coordinates":[[[19.40275638818201,47.32718202173476],[19.40259406545363,47.3262901916155],[19.40390752490185,47.3261761306772],[19.40374518726196,47.32528430205701],[19.40505861944598,47.32517022753882],[19.40489626689606,47.32427840041805],[19.40752307151666,47.32405020838354],[19.40736068201767,47.32315838502257],[19.4086740544551,47.32304426750716],[19.40851165005068,47.322152445646],[19.40982499522642,47.3220383145528],[19.40933775871252,47.31936285118388],[19.41196430117253,47.31913455505025],[19.4114769966684,47.31645909839386],[19.41279019396256,47.31634493335537],[19.41262775136789,47.31545311520767],[19.40737501899707,47.31590967129927],[19.40721267166629,47.31501784334682],[19.40589949755673,47.31513194051922],[19.40606182285501,47.31602377073142],[19.40474862149455,47.31613785432694],[19.40507324941768,47.31792151698721],[19.40375999876989,47.31803558926538],[19.40392230139247,47.31892742171294],[19.39998245203566,47.31926955029974],[19.39965798614026,47.31748587108899],[19.39834473666292,47.31759987775888],[19.39850694400985,47.31849172000318],[19.39588038533776,47.31871969034592],[19.39604255573522,47.31961153634523],[19.39472924653978,47.31972550001751],[19.39537791122655,47.32329288544139],[19.39406450865232,47.32340684230525],[19.3942266705954,47.32429868901818],[19.39159980571742,47.32452655974134],[19.39208620202641,47.32720210886475],[19.3999671309,47.32651826597117],[19.40012940953659,47.32741010060948],[19.40275638818201,47.32718202173476]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209504045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91667,47.68333,21.91667,47.68333",
+    "geom:latitude":47.68333,
+    "geom:longitude":21.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Minkatag",
+    "gn:country_code":"HU",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":717589,
+    "gn:latitude":47.68333,
+    "gn:longitude":21.91667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Minkatag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":717589
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"dd4d2182b0ed02dec0fd94731713a1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209504045
+        }
+    ],
+    "wof:id":1209504045,
+    "wof:lastmodified":1536285090,
+    "wof:name":"Minkatag",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91667,
+    47.68333,
+    21.91667,
+    47.68333
+],
+  "geometry": {"coordinates":[21.91667,47.68333],"type":"Point"}
+}

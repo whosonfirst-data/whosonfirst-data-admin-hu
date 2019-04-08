@@ -1,0 +1,127 @@
+{
+  "id": 101874247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.165397,48.049419,20.165397,48.049419",
+    "geom:latitude":48.049419,
+    "geom:longitude":20.165397,
+    "iso:country":"HU",
+    "lbl:latitude":48.049419,
+    "lbl:longitude":20.165397,
+    "mps:latitude":48.049419,
+    "mps:longitude":20.165397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6bd4\u514b\u514b\u68ee\u6cf0\u5c14\u70ed\u62dc\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:hun_x_colloquial":[
+        "Buekkszenterzsebet",
+        "Bukkszenterzsebet"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:may_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:nan_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:rum_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:slo_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:slv_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "qs:a0":"Magyarorsz\u00e1g",
+    "qs:a1":"*Heves",
+    "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
+    "qs:adm0":"Magyarorsz\u00e1g",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"B\u00fckkszenterzs\u00e9bet",
+    "qs:loc_alt":"Bukkszenterzsebet",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684909,
+        404227477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1162a9d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":721972,
+        "gp:id":804410,
+        "wd:id":"Q855576"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"76c1d9cb7bc7bd44d4733ac51ec5e488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101874247,
+            "macroregion_id":404227477,
+            "region_id":85684909
+        }
+    ],
+    "wof:id":101874247,
+    "wof:lang":[
+        "hun"
+    ],
+    "wof:lastmodified":1544751619,
+    "wof:name":"B\u00fckkszenterzs\u00e9bet",
+    "wof:parent_id":85684909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.165397,
+    48.049419,
+    20.165397,
+    48.049419
+],
+  "geometry": {"coordinates":[20.165397,48.049419],"type":"Point"}
+}

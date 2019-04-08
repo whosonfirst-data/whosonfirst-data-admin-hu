@@ -1,0 +1,71 @@
+{
+  "id": 1277153303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9512,46.78066,17.9512,46.78066",
+    "geom:latitude":46.78066,
+    "geom:longitude":17.9512,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Balvanyos",
+    "gn:country_code":"HU",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3055479,
+    "gn:latitude":46.78066,
+    "gn:longitude":17.9512,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"B\u00e1lv\u00e1nyos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e1lv\u00e1nyos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684845,
+        404227491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3055479,
+        "wk:page":"B%C3%A1lv%C3%A1nyos"
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"b1b551ba2c2e2d229750e10b085d2bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1277153303,
+            "macroregion_id":404227491,
+            "region_id":85684845
+        }
+    ],
+    "wof:id":1277153303,
+    "wof:lastmodified":1537626270,
+    "wof:name":"Balvanyos",
+    "wof:parent_id":85684845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9512,
+    46.78066,
+    17.9512,
+    46.78066
+],
+  "geometry": {"coordinates":[17.9512,46.78066],"type":"Point"}
+}

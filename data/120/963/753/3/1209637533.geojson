@@ -1,0 +1,61 @@
+{
+  "id": 1209637533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36667,46.76667,20.36667,46.76667",
+    "geom:latitude":46.76667,
+    "geom:longitude":20.36667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Belsoecser",
+    "gn:country_code":"HU",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":722401,
+    "gn:latitude":46.76667,
+    "gn:longitude":20.36667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Bels\u0151ecser",
+    "gn:population":0,
+    "gn:timezone":"Europe/Budapest",
+    "iso:country":"HU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":722401
+    },
+    "wof:country":"HU",
+    "wof:geomhash":"a6d6a17f8fca902a4b9238d7943621f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633237,
+            "locality_id":1209637533
+        }
+    ],
+    "wof:id":1209637533,
+    "wof:lastmodified":1536280993,
+    "wof:name":"Belsoecser",
+    "wof:parent_id":85633237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.366670000000006,
+    46.76667,
+    20.366670000000006,
+    46.76667
+],
+  "geometry": {"coordinates":[20.36667000000001,46.76667],"type":"Point"}
+}
