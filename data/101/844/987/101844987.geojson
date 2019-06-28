@@ -16,12 +16,6 @@
     "mps:longitude":20.18496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u74e6\u5c14\u79d1\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszav\u00e1rkony"
-    ],
     "name:eng_x_preferred":[
         "Tiszav\u00e1rkony"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Tiszav\u00e1rkony"
     ],
-    "name:fre_x_preferred":[
-        "Tiszav\u00e1rkony"
-    ],
     "name:hun_x_colloquial":[
         "Tiszavarkony"
     ],
@@ -41,9 +32,6 @@
         "Tiszav\u00e1rkony"
     ],
     "name:ita_x_preferred":[
-        "Tiszav\u00e1rkony"
-    ],
-    "name:may_x_preferred":[
         "Tiszav\u00e1rkony"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Tiszav\u00e1rkony"
     ],
-    "name:rum_x_preferred":[
-        "Tiszav\u00e1rkony"
-    ],
     "name:slk_x_preferred":[
-        "Tiszav\u00e1rkony"
-    ],
-    "name:slo_x_preferred":[
         "Tiszav\u00e1rkony"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszav\u00e1rkony"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u74e6\u5c14\u79d1\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642631,
+    "wof:lastmodified":1561751549,
     "wof:name":"Tiszav\u00e1rkony",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

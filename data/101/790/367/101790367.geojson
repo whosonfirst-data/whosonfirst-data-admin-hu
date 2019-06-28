@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":907711.436658,
+    "geom:area_square_m":907711.436659,
     "geom:bbox":"16.7235782303,46.515846588,16.7372857276,46.5350764331",
     "geom:latitude":46.523308,
     "geom:longitude":16.729822,
@@ -16,12 +16,6 @@
     "mps:longitude":16.730289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u4f50\u51ef\u8d56\u7279\u6770"
-    ],
-    "name:dut_x_preferred":[
-        "B\u00e1zakerettye"
-    ],
     "name:eng_x_preferred":[
         "B\u00e1zakerettye"
     ],
@@ -29,9 +23,6 @@
         "B\u00e1zakerettye"
     ],
     "name:fra_x_preferred":[
-        "B\u00e1zakerettye"
-    ],
-    "name:fre_x_preferred":[
         "B\u00e1zakerettye"
     ],
     "name:hun_x_colloquial":[
@@ -42,9 +33,6 @@
         "B\u00e1zakerettye"
     ],
     "name:ita_x_preferred":[
-        "B\u00e1zakerettye"
-    ],
-    "name:may_x_preferred":[
         "B\u00e1zakerettye"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "B\u00e1zakerettye"
     ],
-    "name:rum_x_preferred":[
-        "B\u00e1zakerettye"
-    ],
     "name:slk_x_preferred":[
-        "B\u00e1zakerettye"
-    ],
-    "name:slo_x_preferred":[
         "B\u00e1zakerettye"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00e1zakerettye"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f50\u51ef\u8d56\u7279\u6770"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Zala",
@@ -123,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561751536,
     "wof:name":"B\u00e1zakerettye",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

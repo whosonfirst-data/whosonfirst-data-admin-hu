@@ -18,13 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u4fdd\u5c14\u79d1\u5c3c\u5965"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Palkonya"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Palkonya"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +30,7 @@
     "name:epo_x_preferred":[
         "Palkonya"
     ],
-    "name:fre_x_preferred":[
-        "Palkonya"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Palkonya"
     ],
     "name:hrv_x_preferred":[
@@ -48,19 +42,22 @@
     "name:ita_x_preferred":[
         "Palkonya"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Palkonya"
     ],
     "name:nan_x_preferred":[
         "Palkonya"
     ],
+    "name:nld_x_preferred":[
+        "Palkonya"
+    ],
     "name:pol_x_preferred":[
         "Palkonya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Palkonya"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Palkonya"
     ],
     "name:slv_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Palkonya"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u5c14\u79d1\u5c3c\u5965"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125987269,
-    "wof:lastmodified":1514448250,
+    "wof:lastmodified":1561751604,
     "wof:name":"Palkonya",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

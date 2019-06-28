@@ -19,16 +19,7 @@
     "name:ces_x_preferred":[
         "Ser\u00e9nyfalva"
     ],
-    "name:chi_x_preferred":[
-        "\u8c22\u96f7\u5c3c\u798f\u5c14\u6c83"
-    ],
-    "name:cze_x_preferred":[
-        "Ser\u00e9nyfalva"
-    ],
     "name:deu_x_preferred":[
-        "Ser\u00e9nyfalva"
-    ],
-    "name:dut_x_preferred":[
         "Ser\u00e9nyfalva"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +29,6 @@
         "Ser\u00e9nyfalva"
     ],
     "name:fra_x_preferred":[
-        "Ser\u00e9nyfalva"
-    ],
-    "name:fre_x_preferred":[
-        "Ser\u00e9nyfalva"
-    ],
-    "name:ger_x_preferred":[
         "Ser\u00e9nyfalva"
     ],
     "name:hun_x_colloquial":[
@@ -57,9 +42,6 @@
         "Ser\u00e9nyifalva"
     ],
     "name:ita_x_preferred":[
-        "Ser\u00e9nyfalva"
-    ],
-    "name:may_x_preferred":[
         "Ser\u00e9nyfalva"
     ],
     "name:msa_x_preferred":[
@@ -77,10 +59,7 @@
     "name:ron_x_preferred":[
         "Ser\u00e9nyfalva"
     ],
-    "name:rum_x_preferred":[
-        "Ser\u00e9nyfalva"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ser\u00e9nyfalva"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Ser\u00e9nyfalva"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u96f7\u5c3c\u798f\u5c14\u6c83"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -138,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1561751546,
     "wof:name":"Ser\u00e9nyfalva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

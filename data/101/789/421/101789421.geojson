@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1286582.131186,
+    "geom:area_square_m":1286582.131185,
     "geom:bbox":"18.3133023622,47.1222933191,18.3471834344,47.1415348619",
     "geom:latitude":47.131231,
     "geom:longitude":18.332709,
@@ -19,12 +19,6 @@
     "name:cbk_zam_x_preferred":[
         "\u00darhida"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u5c14\u5e0c\u9053"
-    ],
-    "name:dut_x_preferred":[
-        "\u00darhida"
-    ],
     "name:eng_x_preferred":[
         "\u00darhida"
     ],
@@ -32,9 +26,6 @@
         "\u00darhida"
     ],
     "name:fra_x_preferred":[
-        "\u00darhida"
-    ],
-    "name:fre_x_preferred":[
         "\u00darhida"
     ],
     "name:hun_x_colloquial":[
@@ -46,9 +37,6 @@
     "name:ita_x_preferred":[
         "\u00darhida"
     ],
-    "name:may_x_preferred":[
-        "\u00darhida"
-    ],
     "name:msa_x_preferred":[
         "\u00darhida"
     ],
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "\u00darhida"
     ],
-    "name:rum_x_preferred":[
-        "\u00darhida"
-    ],
     "name:slk_x_preferred":[
-        "\u00darhida"
-    ],
-    "name:slo_x_preferred":[
         "\u00darhida"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vol_x_preferred":[
         "\u00darhida"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u5c14\u5e0c\u9053"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"\u00darhida",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

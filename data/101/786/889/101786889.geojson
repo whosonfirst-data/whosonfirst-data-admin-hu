@@ -17,13 +17,7 @@
     "mps:longitude":18.211521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u79d1\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Kocs"
-    ],
-    "name:dut_x_preferred":[
         "Kocs"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Kocs"
     ],
     "name:fra_x_preferred":[
-        "Kocs"
-    ],
-    "name:fre_x_preferred":[
-        "Kocs"
-    ],
-    "name:ger_x_preferred":[
         "Kocs"
     ],
     "name:hun_x_preferred":[
@@ -53,9 +41,6 @@
     "name:kor_x_preferred":[
         "\ucf54\uce58"
     ],
-    "name:may_x_preferred":[
-        "Kocs"
-    ],
     "name:msa_x_preferred":[
         "Kocs"
     ],
@@ -68,16 +53,10 @@
     "name:ron_x_preferred":[
         "Kocs"
     ],
-    "name:rum_x_preferred":[
-        "Kocs"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447"
     ],
     "name:slk_x_preferred":[
-        "Kocs"
-    ],
-    "name:slo_x_preferred":[
         "Kocs"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715644,
+    "wof:lastmodified":1561751581,
     "wof:name":"Kocs",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

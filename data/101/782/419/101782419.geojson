@@ -20,16 +20,10 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0634\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u5c14\u4e54"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Karcsa"
     ],
     "name:deu_x_preferred":[
-        "Karcsa"
-    ],
-    "name:dut_x_preferred":[
         "Karcsa"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +35,10 @@
     "name:fra_x_preferred":[
         "Karcsa"
     ],
-    "name:fre_x_preferred":[
-        "Karcsa"
-    ],
-    "name:ger_x_preferred":[
-        "Karcsa"
-    ],
     "name:hun_x_preferred":[
         "Karcsa"
     ],
     "name:ita_x_preferred":[
-        "Karcsa"
-    ],
-    "name:may_x_preferred":[
         "Karcsa"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Karcsa"
     ],
-    "name:rum_x_preferred":[
-        "Karcsa"
-    ],
     "name:slk_x_preferred":[
-        "Karcsa"
-    ],
-    "name:slo_x_preferred":[
         "Karcsa"
     ],
     "name:slv_x_preferred":[
@@ -146,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561751560,
     "wof:name":"Karcsa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

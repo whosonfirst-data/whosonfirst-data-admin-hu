@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1695601.650535,
+    "geom:area_square_m":1695601.650537,
     "geom:bbox":"18.3242759834,46.8356967973,18.3550765921,46.8492212487",
     "geom:latitude":46.842087,
     "geom:longitude":18.336373,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Lajoskom\u00e1rom"
     ],
-    "name:dut_x_preferred":[
-        "Lajoskom\u00e1rom"
-    ],
     "name:eng_x_preferred":[
         "Lajoskom\u00e1rom"
     ],
@@ -30,12 +27,6 @@
         "Lajoskom\u00e1rom"
     ],
     "name:fra_x_preferred":[
-        "Lajoskom\u00e1rom"
-    ],
-    "name:fre_x_preferred":[
-        "Lajoskom\u00e1rom"
-    ],
-    "name:ger_x_preferred":[
         "Lajoskom\u00e1rom"
     ],
     "name:hun_x_colloquial":[
@@ -50,9 +41,6 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30e8\u30b7\u30e5\u30b3\u30de\u30fc\u30ed\u30e0"
     ],
-    "name:may_x_preferred":[
-        "Lajoskom\u00e1rom"
-    ],
     "name:msa_x_preferred":[
         "Lajoskom\u00e1rom"
     ],
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Lajoskom\u00e1rom"
     ],
-    "name:rum_x_preferred":[
-        "Lajoskom\u00e1rom"
-    ],
     "name:slk_x_preferred":[
-        "Lajoskom\u00e1rom"
-    ],
-    "name:slo_x_preferred":[
         "Lajoskom\u00e1rom"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751589,
     "wof:name":"Lajoskom\u00e1rom",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

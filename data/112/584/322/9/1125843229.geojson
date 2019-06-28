@@ -19,13 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u6258\u5c14\u9a6c\u4ec0\u5229\u76d6\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Torm\u00e1sliget"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:eng_x_preferred":[
@@ -34,7 +28,7 @@
     "name:epo_x_preferred":[
         "Torm\u00e1sliget"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:hun_x_preferred":[
@@ -43,19 +37,22 @@
     "name:ita_x_preferred":[
         "Torm\u00e1sliget"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:nan_x_preferred":[
         "Torm\u00e1sliget"
     ],
+    "name:nld_x_preferred":[
+        "Torm\u00e1sliget"
+    ],
     "name:pol_x_preferred":[
         "Torm\u00e1sliget"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Torm\u00e1sliget"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:slv_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Torm\u00e1sliget"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u9a6c\u4ec0\u5229\u76d6\u7279"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1125843229,
-    "wof:lastmodified":1514448402,
+    "wof:lastmodified":1561751606,
     "wof:name":"Torm\u00e1sliget",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

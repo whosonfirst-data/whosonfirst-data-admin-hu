@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Nagymaros"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u6bdb\u7f85\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Nagymaros"
-    ],
     "name:deu_x_preferred":[
-        "Nagymaros"
-    ],
-    "name:dut_x_preferred":[
         "Nagymaros"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Nagymaros"
     ],
     "name:fra_x_preferred":[
-        "Nagymaros"
-    ],
-    "name:fre_x_preferred":[
-        "Nagymaros"
-    ],
-    "name:ger_x_preferred":[
         "Nagymaros"
     ],
     "name:hbs_x_preferred":[
@@ -61,9 +46,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30b8\u30e5\u30de\u30ed\u30b7\u30e5"
-    ],
-    "name:may_x_preferred":[
-        "Nagymaros"
     ],
     "name:msa_x_preferred":[
         "Nagymaros"
@@ -80,9 +62,6 @@
     "name:ron_x_preferred":[
         "Nagymaros"
     ],
-    "name:rum_x_preferred":[
-        "Nagymaros"
-    ],
     "name:rup_x_preferred":[
         "Nagymaros"
     ],
@@ -90,9 +69,6 @@
         "\u041d\u0430\u0434\u044c\u043c\u0430\u0440\u043e\u0448"
     ],
     "name:slk_x_preferred":[
-        "Nagymaros"
-    ],
-    "name:slo_x_preferred":[
         "Nagymaros"
     ],
     "name:slv_x_preferred":[
@@ -160,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642928,
+    "wof:lastmodified":1561751552,
     "wof:name":"Nagymaros",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

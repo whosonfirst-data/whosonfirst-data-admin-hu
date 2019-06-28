@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1805132.160451,
+    "geom:area_square_m":1805132.160452,
     "geom:bbox":"18.2510255107,47.2814515088,18.2804020895,47.2999373042",
     "geom:latitude":47.290365,
     "geom:longitude":18.265619,
@@ -17,13 +17,7 @@
     "mps:longitude":18.265396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8d39\u6d77\u5c14\u74e6\u5c14\u4e18\u5c14\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Feh\u00e9rv\u00e1rcsurg\u00f3"
-    ],
-    "name:dut_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
     "name:fra_x_preferred":[
-        "Feh\u00e9rv\u00e1rcsurg\u00f3"
-    ],
-    "name:fre_x_preferred":[
-        "Feh\u00e9rv\u00e1rcsurg\u00f3"
-    ],
-    "name:ger_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
     "name:hun_x_colloquial":[
@@ -59,9 +47,6 @@
     "name:ita_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
-    "name:may_x_preferred":[
-        "Feh\u00e9rv\u00e1rcsurg\u00f3"
-    ],
     "name:msa_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
@@ -74,13 +59,7 @@
     "name:ron_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Feh\u00e9rv\u00e1rcsurg\u00f3"
-    ],
     "name:slk_x_preferred":[
-        "Feh\u00e9rv\u00e1rcsurg\u00f3"
-    ],
-    "name:slo_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
     ],
     "name:slv_x_preferred":[
@@ -94,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Feh\u00e9rv\u00e1rcsurg\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u6d77\u5c14\u74e6\u5c14\u4e18\u5c14\u6208"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -145,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Feh\u00e9rv\u00e1rcsurg\u00f3",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

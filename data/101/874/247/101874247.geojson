@@ -16,13 +16,7 @@
     "mps:longitude":20.165397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u514b\u514b\u68ee\u6cf0\u5c14\u70ed\u62dc\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "B\u00fckkszenterzs\u00e9bet"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
     "name:eng_x_preferred":[
@@ -31,7 +25,7 @@
     "name:epo_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
     "name:hun_x_colloquial":[
@@ -44,16 +38,19 @@
     "name:ita_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
     "name:nan_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:slk_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
     "name:slv_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u514b\u514b\u68ee\u6cf0\u5c14\u70ed\u62dc\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -108,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1544751619,
+    "wof:lastmodified":1561751543,
     "wof:name":"B\u00fckkszenterzs\u00e9bet",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

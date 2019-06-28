@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1027050.717281,
+    "geom:area_square_m":1027050.71728,
     "geom:bbox":"21.974149292,48.0315956312,21.9998290033,48.0465161456",
     "geom:latitude":48.038854,
     "geom:longitude":21.988892,
@@ -16,10 +16,7 @@
     "mps:longitude":21.991226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u52b3\u83ab\u4e54\u54c8\u4f50"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ramocsah\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Ramocsah\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "Ramocsah\u00e1za"
-    ],
-    "name:ger_x_preferred":[
-        "Ramocsah\u00e1za"
-    ],
     "name:hun_x_colloquial":[
         "Ramocsahaza"
     ],
@@ -44,9 +35,6 @@
         "Ramocsah\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Ramocsah\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "Ramocsah\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Ramocsah\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Ramocsah\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "Ramocsah\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "Ramocsah\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Ramocsah\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u52b3\u83ab\u4e54\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561751561,
     "wof:name":"Ramocsah\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

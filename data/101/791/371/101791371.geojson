@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":2015230.19873,
+    "geom:area_square_m":2015230.198731,
     "geom:bbox":"17.8359973163,45.8658757788,17.8673856486,45.8805778573",
     "geom:latitude":45.873511,
     "geom:longitude":17.850204,
@@ -17,13 +17,7 @@
     "mps:longitude":17.849967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8b1d\u8036"
-    ],
     "name:deu_x_preferred":[
-        "Sellye"
-    ],
-    "name:dut_x_preferred":[
         "Sellye"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Sellye"
     ],
     "name:fra_x_preferred":[
-        "Sellye"
-    ],
-    "name:fre_x_preferred":[
-        "Sellye"
-    ],
-    "name:ger_x_preferred":[
         "Sellye"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +39,6 @@
         "Sellye"
     ],
     "name:ita_x_preferred":[
-        "Sellye"
-    ],
-    "name:may_x_preferred":[
         "Sellye"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
     "name:ron_x_preferred":[
         "Sellye"
     ],
-    "name:rum_x_preferred":[
-        "Sellye"
-    ],
     "name:rup_x_preferred":[
         "Sellye"
     ],
@@ -81,9 +63,6 @@
         "\u0428\u0435\u0439\u0435"
     ],
     "name:slk_x_preferred":[
-        "Sellye"
-    ],
-    "name:slo_x_preferred":[
         "Sellye"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641955,
+    "wof:lastmodified":1561751541,
     "wof:name":"Sellye",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

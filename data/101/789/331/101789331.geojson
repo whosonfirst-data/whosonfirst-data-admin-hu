@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":3540606.844689,
+    "geom:area_square_m":3540606.84469,
     "geom:bbox":"18.0963305974,47.1014085366,18.1467890093,47.1243456034",
     "geom:latitude":47.113131,
     "geom:longitude":18.124067,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0445\u0438\u0434\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u723e\u5e0c\u9053"
-    ],
     "name:deu_x_preferred":[
-        "Berhida"
-    ],
-    "name:dut_x_preferred":[
         "Berhida"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Berhida"
     ],
-    "name:fre_x_preferred":[
-        "Berhida"
-    ],
-    "name:ger_x_preferred":[
-        "Berhida"
-    ],
     "name:hbs_x_preferred":[
         "Berhida"
     ],
@@ -51,9 +39,6 @@
         "Berhida"
     ],
     "name:ita_x_preferred":[
-        "Berhida"
-    ],
-    "name:may_x_preferred":[
         "Berhida"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +56,6 @@
     "name:ron_x_preferred":[
         "Berhida"
     ],
-    "name:rum_x_preferred":[
-        "Berhida"
-    ],
     "name:rup_x_preferred":[
         "Berhida"
     ],
@@ -81,9 +63,6 @@
         "\u0411\u0435\u0440\u0445\u0438\u0434\u0430"
     ],
     "name:slk_x_preferred":[
-        "Berhida"
-    ],
-    "name:slo_x_preferred":[
         "Berhida"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715893,
+    "wof:lastmodified":1561751587,
     "wof:name":"Berhida",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "mps:longitude":21.704797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u535a\u5fb7\u7f57\u9ad8\u6d1b\u59c6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bodroghalom"
     ],
     "name:deu_x_preferred":[
-        "Bodroghalom"
-    ],
-    "name:dut_x_preferred":[
         "Bodroghalom"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +31,10 @@
     "name:fra_x_preferred":[
         "Bodroghalom"
     ],
-    "name:fre_x_preferred":[
-        "Bodroghalom"
-    ],
-    "name:ger_x_preferred":[
-        "Bodroghalom"
-    ],
     "name:hun_x_preferred":[
         "Bodroghalom"
     ],
     "name:ita_x_preferred":[
-        "Bodroghalom"
-    ],
-    "name:may_x_preferred":[
         "Bodroghalom"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Bodroghalom"
     ],
-    "name:rum_x_preferred":[
-        "Bodroghalom"
-    ],
     "name:slk_x_preferred":[
-        "Bodroghalom"
-    ],
-    "name:slo_x_preferred":[
         "Bodroghalom"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561751560,
     "wof:name":"Bodroghalom",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

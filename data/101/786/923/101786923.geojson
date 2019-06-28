@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1625536.795347,
+    "geom:area_square_m":1625536.795346,
     "geom:bbox":"20.8102462124,47.4998294362,20.8367369519,47.516195979",
     "geom:latitude":47.508564,
     "geom:longitude":20.822928,
@@ -16,12 +16,6 @@
     "mps:longitude":20.821624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u5384\u5c14\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Tisza\u00f6rs"
-    ],
     "name:eng_x_preferred":[
         "Tisza\u00f6rs"
     ],
@@ -29,9 +23,6 @@
         "Tisza\u00f6rs"
     ],
     "name:fra_x_preferred":[
-        "Tisza\u00f6rs"
-    ],
-    "name:fre_x_preferred":[
         "Tisza\u00f6rs"
     ],
     "name:hun_x_colloquial":[
@@ -42,9 +33,6 @@
         "Tisza\u00f6rs"
     ],
     "name:ita_x_preferred":[
-        "Tisza\u00f6rs"
-    ],
-    "name:may_x_preferred":[
         "Tisza\u00f6rs"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Tisza\u00f6rs"
     ],
-    "name:rum_x_preferred":[
-        "Tisza\u00f6rs"
-    ],
     "name:slk_x_preferred":[
-        "Tisza\u00f6rs"
-    ],
-    "name:slo_x_preferred":[
         "Tisza\u00f6rs"
     ],
     "name:slv_x_preferred":[
@@ -73,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Tisza\u00f6rs"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u5384\u5c14\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -121,7 +106,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561751582,
     "wof:name":"Tisza\u00f6rs",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

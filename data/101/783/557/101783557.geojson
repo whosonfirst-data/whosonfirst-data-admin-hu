@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0441\u0437\u0430\u0434\u0430\u0434\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u9053\u9053"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tiszadada"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tiszadada"
     ],
-    "name:fre_x_preferred":[
-        "Tiszadada"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszadada"
-    ],
     "name:hun_x_preferred":[
         "Tiszadada"
     ],
     "name:ita_x_preferred":[
-        "Tiszadada"
-    ],
-    "name:may_x_preferred":[
         "Tiszadada"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Tiszadada"
     ],
-    "name:rum_x_preferred":[
-        "Tiszadada"
-    ],
     "name:slk_x_preferred":[
-        "Tiszadada"
-    ],
-    "name:slo_x_preferred":[
         "Tiszadada"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688493,
+    "wof:lastmodified":1561751561,
     "wof:name":"Tiszadada",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

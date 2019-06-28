@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2074557.263481,
+    "geom:area_square_m":2074557.26348,
     "geom:bbox":"17.9112645993,46.9657002653,17.9412830163,46.9857316217",
     "geom:latitude":46.975514,
     "geom:longitude":17.926782,
@@ -17,10 +17,7 @@
     "mps:longitude":17.927805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u4fdd\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Csopak"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Csopak"
     ],
-    "name:fre_x_preferred":[
-        "Csopak"
-    ],
-    "name:ger_x_preferred":[
-        "Csopak"
-    ],
     "name:hun_x_preferred":[
         "Csopak"
     ],
     "name:ita_x_preferred":[
-        "Csopak"
-    ],
-    "name:may_x_preferred":[
         "Csopak"
     ],
     "name:msa_x_preferred":[
@@ -62,16 +50,10 @@
     "name:ron_x_preferred":[
         "Csopak"
     ],
-    "name:rum_x_preferred":[
-        "Csopak"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u043f\u0430\u043a"
     ],
     "name:slk_x_preferred":[
-        "Csopak"
-    ],
-    "name:slo_x_preferred":[
         "Csopak"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1561751591,
     "wof:name":"Csopak",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

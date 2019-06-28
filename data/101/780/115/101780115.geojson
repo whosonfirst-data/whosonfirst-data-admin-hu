@@ -16,13 +16,7 @@
     "mps:longitude":19.13689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5185\u5ef7\u5947"
-    ],
     "name:deu_x_preferred":[
-        "N\u0151tincs"
-    ],
-    "name:dut_x_preferred":[
         "N\u0151tincs"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "N\u0151tincs"
     ],
-    "name:fre_x_preferred":[
-        "N\u0151tincs"
-    ],
-    "name:ger_x_preferred":[
-        "N\u0151tincs"
-    ],
     "name:hrv_x_preferred":[
         "Netej\u010da"
     ],
@@ -47,9 +35,6 @@
         "N\u0151tincs"
     ],
     "name:ita_x_preferred":[
-        "N\u0151tincs"
-    ],
-    "name:may_x_preferred":[
         "N\u0151tincs"
     ],
     "name:msa_x_preferred":[
@@ -67,10 +52,7 @@
     "name:ron_x_preferred":[
         "N\u0151tincs"
     ],
-    "name:rum_x_preferred":[
-        "N\u0151tincs"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Netej\u010d"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "N\u0151tincs"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5ef7\u5947"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101780115,
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561751586,
     "wof:name":"N\u0151tincs",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

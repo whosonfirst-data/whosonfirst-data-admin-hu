@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000301,
-    "geom:area_square_m":2523203.793795,
+    "geom:area_square_m":2523203.793796,
     "geom:bbox":"18.745746719,47.2719948628,18.7760630432,47.2961680503",
     "geom:latitude":47.283439,
     "geom:longitude":18.759524,
@@ -17,12 +17,6 @@
     "mps:longitude":18.759294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u52b3\u5947\u8003"
-    ],
-    "name:dut_x_preferred":[
-        "Baracska"
-    ],
     "name:eng_x_preferred":[
         "Baracska"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "Baracska"
     ],
-    "name:fre_x_preferred":[
-        "Baracska"
-    ],
     "name:hun_x_preferred":[
         "Baracska"
     ],
     "name:ita_x_preferred":[
-        "Baracska"
-    ],
-    "name:may_x_preferred":[
         "Baracska"
     ],
     "name:msa_x_preferred":[
@@ -56,13 +44,7 @@
     "name:ron_x_preferred":[
         "Baracska"
     ],
-    "name:rum_x_preferred":[
-        "Baracska"
-    ],
     "name:slk_x_preferred":[
-        "Baracska"
-    ],
-    "name:slo_x_preferred":[
         "Baracska"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751572,
     "wof:name":"Baracska",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

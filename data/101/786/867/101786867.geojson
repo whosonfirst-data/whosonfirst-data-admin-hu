@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2144139.058328,
+    "geom:area_square_m":2144139.058329,
     "geom:bbox":"18.7393062497,47.4380121947,18.7610990861,47.4576555209",
     "geom:latitude":47.447374,
     "geom:longitude":18.751003,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0415\u0442\u0439\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u6770\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Etyek"
-    ],
-    "name:dut_x_preferred":[
         "Etyek"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Etyek"
     ],
-    "name:fre_x_preferred":[
-        "Etyek"
-    ],
-    "name:ger_x_preferred":[
-        "Etyek"
-    ],
     "name:hun_x_preferred":[
         "Etyek"
     ],
     "name:ita_x_preferred":[
-        "Etyek"
-    ],
-    "name:may_x_preferred":[
         "Etyek"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Etyek"
     ],
-    "name:rum_x_preferred":[
-        "Etyek"
-    ],
     "name:slk_x_preferred":[
-        "Etyek"
-    ],
-    "name:slo_x_preferred":[
         "Etyek"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715646,
+    "wof:lastmodified":1561751581,
     "wof:name":"Etyek",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000623,
-    "geom:area_square_m":5205776.053777,
+    "geom:area_square_m":5205776.053778,
     "geom:bbox":"19.489726692,47.4396225881,19.5764483289,47.4699346292",
     "geom:latitude":47.452652,
     "geom:longitude":19.536477,
@@ -20,10 +20,7 @@
     "name:ces_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
-    "name:cze_x_preferred":[
-        "S\u00fclys\u00e1p"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +30,6 @@
         "S\u00fclys\u00e1p"
     ],
     "name:fra_x_preferred":[
-        "S\u00fclys\u00e1p"
-    ],
-    "name:fre_x_preferred":[
-        "S\u00fclys\u00e1p"
-    ],
-    "name:ger_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +48,6 @@
     "name:ita_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
-    "name:may_x_preferred":[
-        "S\u00fclys\u00e1p"
-    ],
     "name:msa_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
@@ -72,13 +60,7 @@
     "name:ron_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
-    "name:rum_x_preferred":[
-        "S\u00fclys\u00e1p"
-    ],
     "name:slk_x_preferred":[
-        "S\u00fclys\u00e1p"
-    ],
-    "name:slo_x_preferred":[
         "S\u00fclys\u00e1p"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715844,
+    "wof:lastmodified":1561751584,
     "wof:name":"S\u00fclys\u00e1p",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

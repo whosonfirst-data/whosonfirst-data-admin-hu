@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1495813.949865,
+    "geom:area_square_m":1495813.949866,
     "geom:bbox":"22.1044905135,47.7306554998,22.1252250864,47.7536901193",
     "geom:latitude":47.742694,
     "geom:longitude":22.114607,
@@ -17,10 +17,7 @@
     "mps:longitude":22.11445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6069\u7434\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Encsencs"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Encsencs"
     ],
-    "name:fre_x_preferred":[
-        "Encsencs"
-    ],
-    "name:ger_x_preferred":[
-        "Encsencs"
-    ],
     "name:hun_x_preferred":[
         "Encsencs"
     ],
     "name:ita_x_preferred":[
-        "Encsencs"
-    ],
-    "name:may_x_preferred":[
         "Encsencs"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Encsencs"
     ],
-    "name:rum_x_preferred":[
-        "Encsencs"
-    ],
     "name:slk_x_preferred":[
-        "Encsencs"
-    ],
-    "name:slo_x_preferred":[
         "Encsencs"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561751569,
     "wof:name":"Encsencs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -17,12 +17,6 @@
     "mps:longitude":19.705087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u9f99\u5947\u51ef\u897f"
-    ],
-    "name:dut_x_preferred":[
-        "Karancskeszi"
-    ],
     "name:eng_x_preferred":[
         "Karancskeszi"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "Karancskeszi"
     ],
-    "name:fre_x_preferred":[
-        "Karancskeszi"
-    ],
     "name:hun_x_preferred":[
         "Karancskeszi"
     ],
     "name:ita_x_preferred":[
-        "Karancskeszi"
-    ],
-    "name:may_x_preferred":[
         "Karancskeszi"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Karancskeszi"
     ],
-    "name:rum_x_preferred":[
-        "Karancskeszi"
-    ],
     "name:slk_x_preferred":[
-        "Karancskeszi"
-    ],
-    "name:slo_x_preferred":[
         "Karancskeszi"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642588,
+    "wof:lastmodified":1561751544,
     "wof:name":"Karancskeszi",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

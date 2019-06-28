@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000334,
-    "geom:area_square_m":2812579.318195,
+    "geom:area_square_m":2812579.318194,
     "geom:bbox":"18.6309816283,47.0324635747,18.6659678242,47.0516923494",
     "geom:latitude":47.04204,
     "geom:longitude":18.649127,
@@ -20,9 +20,6 @@
     "name:cbk_zam_x_preferred":[
         "S\u00e1rosd"
     ],
-    "name:dut_x_preferred":[
-        "S\u00e1rosd"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1rosd"
     ],
@@ -32,9 +29,6 @@
     "name:fra_x_preferred":[
         "S\u00e1rosd"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1rosd"
-    ],
     "name:hun_x_colloquial":[
         "Sarosd"
     ],
@@ -42,9 +36,6 @@
         "S\u00e1rosd"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1rosd"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1rosd"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "S\u00e1rosd"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1rosd"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e1rosd"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e1rosd"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"S\u00e1rosd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

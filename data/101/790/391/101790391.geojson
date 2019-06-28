@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2403920.844816,
+    "geom:area_square_m":2403920.844817,
     "geom:bbox":"20.4640821659,46.5776070646,20.5006495223,46.595023161",
     "geom:latitude":46.585671,
     "geom:longitude":20.483321,
@@ -16,9 +16,6 @@
     "mps:longitude":20.489139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Nagym\u00e1gocs"
-    ],
     "name:eng_x_preferred":[
         "Nagym\u00e1gocs"
     ],
@@ -28,9 +25,6 @@
     "name:fra_x_preferred":[
         "Nagym\u00e1gocs"
     ],
-    "name:fre_x_preferred":[
-        "Nagym\u00e1gocs"
-    ],
     "name:hun_x_colloquial":[
         "Nagymagocs"
     ],
@@ -38,9 +32,6 @@
         "Nagym\u00e1gocs"
     ],
     "name:ita_x_preferred":[
-        "Nagym\u00e1gocs"
-    ],
-    "name:may_x_preferred":[
         "Nagym\u00e1gocs"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +46,7 @@
     "name:ron_x_preferred":[
         "Nagym\u00e1gocs"
     ],
-    "name:rum_x_preferred":[
-        "Nagym\u00e1gocs"
-    ],
     "name:slk_x_preferred":[
-        "Nagym\u00e1gocs"
-    ],
-    "name:slo_x_preferred":[
         "Nagym\u00e1gocs"
     ],
     "name:slv_x_preferred":[
@@ -116,7 +101,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641594,
+    "wof:lastmodified":1561751532,
     "wof:name":"Nagym\u00e1gocs",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

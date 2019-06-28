@@ -16,12 +16,6 @@
     "mps:longitude":19.297373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5185\u9976"
-    ],
-    "name:dut_x_preferred":[
-        "N\u00e9zsa"
-    ],
     "name:eng_x_preferred":[
         "N\u00e9zsa"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "N\u00e9zsa"
     ],
-    "name:fre_x_preferred":[
-        "N\u00e9zsa"
-    ],
     "name:hun_x_colloquial":[
         "Nezsa"
     ],
@@ -41,9 +32,6 @@
         "N\u00e9zsa"
     ],
     "name:ita_x_preferred":[
-        "N\u00e9zsa"
-    ],
-    "name:may_x_preferred":[
         "N\u00e9zsa"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "N\u00e9zsa"
     ],
-    "name:rum_x_preferred":[
-        "N\u00e9zsa"
-    ],
     "name:slk_x_preferred":[
-        "Ne\u017eovce"
-    ],
-    "name:slo_x_preferred":[
         "Ne\u017eovce"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "N\u00e9zsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u9976"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688541,
+    "wof:lastmodified":1561751568,
     "wof:name":"N\u00e9zsa",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

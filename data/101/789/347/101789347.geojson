@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u043c\u0435\u0448\u0432\u0430\u043c\u043e\u0448"
     ],
-    "name:chi_x_preferred":[
-        "\u5948\u8fc8\u4ec0\u74e6\u83ab\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Nemesv\u00e1mos"
-    ],
     "name:eng_x_preferred":[
         "Nemesv\u00e1mos"
     ],
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "Nemesv\u00e1mos"
     ],
-    "name:fre_x_preferred":[
-        "Nemesv\u00e1mos"
-    ],
     "name:hun_x_colloquial":[
         "Nemesvamos"
     ],
@@ -45,9 +36,6 @@
         "Nemesv\u00e1mos"
     ],
     "name:ita_x_preferred":[
-        "Nemesv\u00e1mos"
-    ],
-    "name:may_x_preferred":[
         "Nemesv\u00e1mos"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Nemesv\u00e1mos"
     ],
-    "name:rum_x_preferred":[
-        "Nemesv\u00e1mos"
-    ],
     "name:slk_x_preferred":[
-        "Nemesv\u00e1mos"
-    ],
-    "name:slo_x_preferred":[
         "Nemesv\u00e1mos"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Nemesv\u00e1mos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u8fc8\u4ec0\u74e6\u83ab\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"Nemesv\u00e1mos",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

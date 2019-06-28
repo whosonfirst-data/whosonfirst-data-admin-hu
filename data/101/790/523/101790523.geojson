@@ -16,12 +16,6 @@
     "mps:longitude":19.840606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u7ea6\u4ec0\u5e15\u6d1b\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Cs\u00f3lyosp\u00e1los"
-    ],
     "name:eng_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
@@ -29,9 +23,6 @@
         "Cs\u00f3lyosp\u00e1los"
     ],
     "name:fra_x_preferred":[
-        "Cs\u00f3lyosp\u00e1los"
-    ],
-    "name:fre_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
     "name:hrv_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
-    "name:may_x_preferred":[
-        "Cs\u00f3lyosp\u00e1los"
-    ],
     "name:msa_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
@@ -68,13 +56,7 @@
     "name:ron_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
-    "name:rum_x_preferred":[
-        "Cs\u00f3lyosp\u00e1los"
-    ],
     "name:slk_x_preferred":[
-        "Cs\u00f3lyosp\u00e1los"
-    ],
-    "name:slo_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u7ea6\u4ec0\u5e15\u6d1b\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561751539,
     "wof:name":"Cs\u00f3lyosp\u00e1los",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1326737.521401,
+    "geom:area_square_m":1326737.5214,
     "geom:bbox":"19.7379542836,46.2820402527,19.7556714913,46.2942230475",
     "geom:latitude":46.288062,
     "geom:longitude":19.747109,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0437\u0441\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u9c81\u9976"
-    ],
-    "name:dut_x_preferred":[
-        "Ruzsa"
-    ],
     "name:eng_x_preferred":[
         "Ruzsa"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Ruzsa"
     ],
-    "name:fre_x_preferred":[
-        "Ruzsa"
-    ],
     "name:hun_x_preferred":[
         "Ruzsa"
     ],
     "name:ita_x_preferred":[
-        "Ruzsa"
-    ],
-    "name:may_x_preferred":[
         "Ruzsa"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Ruzsa"
     ],
-    "name:rum_x_preferred":[
-        "Ruzsa"
-    ],
     "name:slk_x_preferred":[
-        "Ruzsa"
-    ],
-    "name:slo_x_preferred":[
         "Ruzsa"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641596,
+    "wof:lastmodified":1561751533,
     "wof:name":"Ruzsa",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

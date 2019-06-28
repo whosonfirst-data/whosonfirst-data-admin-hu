@@ -33,9 +33,6 @@
     "name:aze_x_preferred":[
         "Bor\u015fod-Abauy-Zemplen"
     ],
-    "name:baq_x_preferred":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u043e\u0440\u0448\u0430\u0434-\u0410\u0431\u0430\u0443\u0439-\u0417\u0435\u043c\u043f\u043b\u0435\u043d"
     ],
@@ -54,20 +51,14 @@
     "name:ces_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u5305\u723e\u7d39\u5fb7-\u5967\u5305\u70cf\u4f0a-\u66fe\u666e\u502b\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n"
-    ],
     "name:dan_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
     "name:deu_x_preferred":[
         "Komitat Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
-    "name:dut_x_preferred":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03c1\u03c3\u03bf\u03bd\u03c4-\u0391\u03bc\u03c0\u03b1\u03bf\u03cd\u03c4\u03b6-\u0396\u03b5\u03bc\u03c0\u03bb\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Borsod-Abauj Zemplen county"
@@ -83,26 +74,20 @@
     "name:est_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9ni komitaat"
     ],
+    "name:eus_x_preferred":[
+        "Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0633\u0648\u062f-\u0627\u0628\u0627\u0648\u062c-\u0632\u06cc\u0645\u067e\u0644\u0646"
+    ],
     "name:fin_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
     "name:fra_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
-    "name:fre_x_preferred":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e0\u10e8\u10dd\u10d3-\u10d0\u10d1\u10d0\u10e3\u10d8-\u10d6\u10d4\u10db\u10d2\u10da\u10d4\u10dc\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Komitat Borsod-Aba\u00faj-Zempl\u00e9n"
-    ],
     "name:glg_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03cc\u03c1\u03c3\u03bf\u03bd\u03c4-\u0391\u03bc\u03c0\u03b1\u03bf\u03cd\u03c4\u03b6-\u0396\u03b5\u03bc\u03c0\u03bb\u03ad\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
@@ -134,6 +119,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccb\u0cb0\u0ccd\u0cb8\u0ccb\u0ca1\u0ccd-\u0c85\u0cac\u0ccc\u0c9c\u0ccd-\u0c9d\u0cc6\u0c82\u0caa\u0ccd\u0cb2\u0cc6\u0ca8\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10e8\u10dd\u10d3-\u10d0\u10d1\u10d0\u10e3\u10d8-\u10d6\u10d4\u10db\u10d2\u10da\u10d4\u10dc\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\ub974\uc1fc\ub4dc\uc5b4\ubc84\uc6b0\uc774\uc82c\ud50c\ub80c \uc8fc"
     ],
@@ -143,13 +131,13 @@
     "name:lit_x_preferred":[
         "Bor\u0161odas-Abaujus-Zempl\u0117nas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0440\u0448\u043e\u0434-\u0410\u0431\u0430\u0443\u0458-\u0417\u0435\u043c\u043f\u043b\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0930\u094d\u0938\u094b\u0921-\u0905\u092c\u0941\u091c-\u091d\u0947\u0902\u092a\u094d\u0932\u0947\u0928 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u043e\u0434-\u0410\u0431\u0430\u0443\u0458-\u0417\u0435\u043c\u043f\u043b\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
     "name:nan_x_preferred":[
@@ -164,9 +152,6 @@
     "name:oci_x_preferred":[
         "Comtat de Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0631\u0633\u0648\u062f-\u0627\u0628\u0627\u0648\u062c-\u0632\u06cc\u0645\u067e\u0644\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0648\u0631\u0633\u0648\u062f \u0627\u0628\u0627\u0624\u0626\u06cc \u0632\u0645\u067e\u0644\u06cc\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -179,9 +164,6 @@
     "name:ron_x_preferred":[
         "Jude\u021bul Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
-    "name:rum_x_preferred":[
-        "Jude\u021bul Borsod-Aba\u00faj-Zempl\u00e9n"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0448\u043e\u0434-\u0410\u0431\u0430\u0443\u0439-\u0417\u0435\u043c\u043f\u043b\u0435\u043d"
     ],
@@ -191,7 +173,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0ddc\u0dbb\u0dca\u0dc3\u0ddc\u0da9\u0dca-\u0d85\u0db6\u0dde\u0da2\u0dca-\u0dc3\u0dd9\u0db8\u0dca\u0db4\u0dca\u0dbd\u0dda\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bor\u0161odsko-abovsko-zempl\u00ednska \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -367,7 +349,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1553550762,
+    "wof:lastmodified":1561751513,
     "wof:name":"Borsod-Aba\u00faj-Zempl\u00e9n",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

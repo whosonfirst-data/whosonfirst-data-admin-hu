@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
-    "name:dut_x_preferred":[
-        "B\u00e9lap\u00e1tfalva"
-    ],
     "name:eng_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e9lap\u00e1tfalva"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00e9lap\u00e1tfalva"
-    ],
     "name:hun_x_colloquial":[
         "Belapatfalva"
     ],
@@ -45,9 +36,6 @@
         "B\u00e9lap\u00e1tfalva"
     ],
     "name:ita_x_preferred":[
-        "B\u00e9lap\u00e1tfalva"
-    ],
-    "name:may_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +53,13 @@
     "name:ron_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
-    "name:rum_x_preferred":[
-        "B\u00e9lap\u00e1tfalva"
-    ],
     "name:rup_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0430\u043f\u0430\u0442\u0444\u0430\u043b\u044c\u0432\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u00e9lap\u00e1tfalva"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688503,
+    "wof:lastmodified":1561751565,
     "wof:name":"B\u00e9lap\u00e1tfalva",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

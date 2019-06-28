@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":2423783.526998,
+    "geom:area_square_m":2423783.526999,
     "geom:bbox":"19.0186363421,46.6872921131,19.0446849968,46.7043651204",
     "geom:latitude":46.696704,
     "geom:longitude":19.030326,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Harta"
     ],
-    "name:dut_x_preferred":[
-        "Harta"
-    ],
     "name:eng_x_preferred":[
         "Harta"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Harta"
     ],
-    "name:fre_x_preferred":[
-        "Harta"
-    ],
-    "name:ger_x_preferred":[
-        "Harta"
-    ],
     "name:hrv_x_preferred":[
         "Hartava"
     ],
@@ -45,9 +36,6 @@
         "Harta"
     ],
     "name:ita_x_preferred":[
-        "Harta"
-    ],
-    "name:may_x_preferred":[
         "Harta"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Harta"
     ],
-    "name:rum_x_preferred":[
-        "Harta"
-    ],
     "name:slk_x_preferred":[
-        "Harta"
-    ],
-    "name:slo_x_preferred":[
         "Harta"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751588,
     "wof:name":"Harta",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

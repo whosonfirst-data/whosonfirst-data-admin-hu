@@ -17,13 +17,7 @@
     "mps:longitude":19.407938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u057f\u0565\u0580\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f69\u6cf0\u91cc"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "P\u00e9teri"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "P\u00e9teri"
     ],
     "name:fra_x_preferred":[
-        "P\u00e9teri"
-    ],
-    "name:fre_x_preferred":[
-        "P\u00e9teri"
-    ],
-    "name:ger_x_preferred":[
         "P\u00e9teri"
     ],
     "name:hun_x_colloquial":[
@@ -53,9 +41,6 @@
     "name:ita_x_preferred":[
         "P\u00e9teri"
     ],
-    "name:may_x_preferred":[
-        "P\u00e9teri"
-    ],
     "name:msa_x_preferred":[
         "P\u00e9teri"
     ],
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "P\u00e9teri"
     ],
-    "name:rum_x_preferred":[
-        "P\u00e9teri"
-    ],
     "name:slk_x_preferred":[
-        "Peterka"
-    ],
-    "name:slo_x_preferred":[
         "Peterka"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "P\u00e9teri"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u6cf0\u91cc"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715571,
+    "wof:lastmodified":1561751573,
     "wof:name":"P\u00e9teri",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

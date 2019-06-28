@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Apostag"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u6ce2\u4ec0\u9676\u683c"
-    ],
-    "name:cze_x_preferred":[
-        "Apostag"
-    ],
     "name:deu_x_preferred":[
-        "Apostag"
-    ],
-    "name:dut_x_preferred":[
         "Apostag"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
     "name:fra_x_preferred":[
         "Apostag"
     ],
-    "name:fre_x_preferred":[
-        "Apostag"
-    ],
-    "name:ger_x_preferred":[
-        "Apostag"
-    ],
     "name:hrv_x_preferred":[
         "\u0160tagara"
     ],
@@ -57,9 +42,6 @@
         "Apostag"
     ],
     "name:ita_x_preferred":[
-        "Apostag"
-    ],
-    "name:may_x_preferred":[
         "Apostag"
     ],
     "name:msa_x_preferred":[
@@ -77,16 +59,10 @@
     "name:ron_x_preferred":[
         "Apostag"
     ],
-    "name:rum_x_preferred":[
-        "Apostag"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u043f\u043e\u0448\u0442\u0430\u0433"
     ],
     "name:slk_x_preferred":[
-        "Apostag"
-    ],
-    "name:slo_x_preferred":[
         "Apostag"
     ],
     "name:slv_x_preferred":[
@@ -154,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"Apostag",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

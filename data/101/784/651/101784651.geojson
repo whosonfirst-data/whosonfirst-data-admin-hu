@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":2313473.874631,
+    "geom:area_square_m":2313473.87463,
     "geom:bbox":"21.224113202,47.8055607812,21.2472135724,47.8314462654",
     "geom:latitude":47.819933,
     "geom:longitude":21.235724,
@@ -17,13 +17,7 @@
     "mps:longitude":21.233974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u683c\u5c14\u62dc\u54c8\u4f50"
-    ],
     "name:deu_x_preferred":[
-        "G\u00f6rbeh\u00e1za"
-    ],
-    "name:dut_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "G\u00f6rbeh\u00e1za"
     ],
     "name:fra_x_preferred":[
-        "G\u00f6rbeh\u00e1za"
-    ],
-    "name:fre_x_preferred":[
-        "G\u00f6rbeh\u00e1za"
-    ],
-    "name:ger_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
     "name:hun_x_colloquial":[
@@ -56,9 +44,6 @@
     "name:ita_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
-    "name:may_x_preferred":[
-        "G\u00f6rbeh\u00e1za"
-    ],
     "name:msa_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "G\u00f6rbeh\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "G\u00f6rbeh\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "G\u00f6rbeh\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c14\u62dc\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -142,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688539,
+    "wof:lastmodified":1561751567,
     "wof:name":"G\u00f6rbeh\u00e1za",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

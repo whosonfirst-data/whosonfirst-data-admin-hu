@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1645366.729188,
+    "geom:area_square_m":1645366.729187,
     "geom:bbox":"21.7419960659,47.7985715017,21.766590295,47.8193977248",
     "geom:latitude":47.806202,
     "geom:longitude":21.757549,
@@ -16,10 +16,7 @@
     "mps:longitude":21.756711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u4fdd\u9676\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00c9rpatak"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "\u00c9rpatak"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9rpatak"
-    ],
-    "name:ger_x_preferred":[
-        "\u00c9rpatak"
-    ],
     "name:hun_x_colloquial":[
         "Erpatak"
     ],
@@ -44,9 +35,6 @@
         "\u00c9rpatak"
     ],
     "name:ita_x_preferred":[
-        "\u00c9rpatak"
-    ],
-    "name:may_x_preferred":[
         "\u00c9rpatak"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "\u00c9rpatak"
     ],
-    "name:rum_x_preferred":[
-        "\u00c9rpatak"
-    ],
     "name:slk_x_preferred":[
-        "\u00c9rpatak"
-    ],
-    "name:slo_x_preferred":[
         "\u00c9rpatak"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00c9rpatak"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u4fdd\u9676\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561751567,
     "wof:name":"\u00c9rpatak",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

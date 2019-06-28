@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1834974.722109,
+    "geom:area_square_m":1834974.722111,
     "geom:bbox":"17.9464724551,47.4588655775,17.9735075949,47.4869210644",
     "geom:latitude":47.472001,
     "geom:longitude":17.960249,
@@ -16,11 +16,8 @@
     "mps:longitude":17.958257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u79d1\u5c3c\u6d2a\u9c8d\u6cf0\u4f0a"
-    ],
-    "name:dut_x_preferred":[
-        "Bakonyszombathely"
+    "name:deu_x_preferred":[
+        "Deutschmarkt"
     ],
     "name:eng_x_preferred":[
         "Bakonyszombathely"
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Bakonyszombathely"
     ],
-    "name:fre_x_preferred":[
-        "Bakonyszombathely"
-    ],
-    "name:ger_x_preferred":[
-        "Deutschmarkt"
-    ],
     "name:hun_x_preferred":[
         "Bakonyszombathely"
     ],
     "name:ita_x_preferred":[
-        "Bakonyszombathely"
-    ],
-    "name:may_x_preferred":[
         "Bakonyszombathely"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Bakonyszombathely"
     ],
-    "name:rum_x_preferred":[
-        "Bakonyszombathely"
-    ],
     "name:slk_x_preferred":[
-        "Bakonyszombathely"
-    ],
-    "name:slo_x_preferred":[
         "Bakonyszombathely"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642623,
+    "wof:lastmodified":1561751547,
     "wof:name":"Bakonyszombathely",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

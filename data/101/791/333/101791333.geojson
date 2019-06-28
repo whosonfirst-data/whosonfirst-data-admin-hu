@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1017551.449434,
+    "geom:area_square_m":1017551.449433,
     "geom:bbox":"18.3052627794,46.060798355,18.3249869261,46.0745152094",
     "geom:latitude":46.06873,
     "geom:longitude":18.316509,
@@ -16,12 +16,6 @@
     "mps:longitude":18.31636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u79d1\u624e\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Nagykoz\u00e1r"
-    ],
     "name:eng_x_preferred":[
         "Nagykoz\u00e1r"
     ],
@@ -29,9 +23,6 @@
         "Nagykoz\u00e1r"
     ],
     "name:fra_x_preferred":[
-        "Nagykoz\u00e1r"
-    ],
-    "name:fre_x_preferred":[
         "Nagykoz\u00e1r"
     ],
     "name:hrv_x_preferred":[
@@ -44,9 +35,6 @@
         "Nagykoz\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Nagykoz\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Nagykoz\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "Nagykoz\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Nagykoz\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Nagykoz\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Nagykoz\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagykoz\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u79d1\u624e\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641956,
+    "wof:lastmodified":1561751542,
     "wof:name":"Nagykoz\u00e1r",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

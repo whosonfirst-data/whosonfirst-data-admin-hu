@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "C\u00e1k"
     ],
-    "name:chi_x_preferred":[
-        "\u5bdf\u514b"
-    ],
     "name:deu_x_preferred":[
         "Zackenbach"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "C\u00e1k"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,7 @@
     "name:epo_x_preferred":[
         "C\u00e1k"
     ],
-    "name:fre_x_preferred":[
-        "C\u00e1k"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "C\u00e1k"
     ],
     "name:hrv_x_preferred":[
@@ -51,19 +45,22 @@
     "name:ita_x_preferred":[
         "C\u00e1k"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "C\u00e1k"
     ],
     "name:nan_x_preferred":[
         "C\u00e1k"
     ],
+    "name:nld_x_preferred":[
+        "C\u00e1k"
+    ],
     "name:oci_x_preferred":[
         "C\u00e1k"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "C\u00e1k"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "C\u00e1k"
     ],
     "name:slv_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "C\u00e1k"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bdf\u514b"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125908563,
-    "wof:lastmodified":1514447970,
+    "wof:lastmodified":1561751601,
     "wof:name":"C\u00e1k",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

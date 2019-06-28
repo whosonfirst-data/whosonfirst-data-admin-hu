@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1455817.94739,
+    "geom:area_square_m":1455817.947389,
     "geom:bbox":"22.7059929041,48.0451078707,22.7329188772,48.0629942074",
     "geom:latitude":48.05256,
     "geom:longitude":22.717363,
@@ -16,7 +16,7 @@
     "mps:longitude":22.715323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "K\u00f6lcse"
     ],
     "name:eng_x_preferred":[
@@ -28,12 +28,6 @@
     "name:fra_x_preferred":[
         "K\u00f6lcse"
     ],
-    "name:fre_x_preferred":[
-        "K\u00f6lcse"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00f6lcse"
-    ],
     "name:hun_x_colloquial":[
         "Koelcse",
         "Kolcse"
@@ -42,9 +36,6 @@
         "K\u00f6lcse"
     ],
     "name:ita_x_preferred":[
-        "K\u00f6lcse"
-    ],
-    "name:may_x_preferred":[
         "K\u00f6lcse"
     ],
     "name:msa_x_preferred":[
@@ -59,16 +50,10 @@
     "name:ron_x_preferred":[
         "K\u00f6lcse"
     ],
-    "name:rum_x_preferred":[
-        "K\u00f6lcse"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0451\u043b\u044c\u0447\u0435"
     ],
     "name:slk_x_preferred":[
-        "K\u00f6lcse"
-    ],
-    "name:slo_x_preferred":[
         "K\u00f6lcse"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688325,
+    "wof:lastmodified":1561751561,
     "wof:name":"K\u00f6lcse",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

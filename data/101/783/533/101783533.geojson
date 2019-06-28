@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":1695168.309136,
+    "geom:area_square_m":1695168.309137,
     "geom:bbox":"21.9216664115,47.9476404401,21.9519808907,47.9734739967",
     "geom:latitude":47.961124,
     "geom:longitude":21.934503,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0410\u043f\u0430\u0433\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u4fdd\u5409"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Apagy"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Apagy"
     ],
-    "name:fre_x_preferred":[
-        "Apagy"
-    ],
-    "name:ger_x_preferred":[
-        "Apagy"
-    ],
     "name:hun_x_preferred":[
         "Apagy"
     ],
     "name:ita_x_preferred":[
-        "Apagy"
-    ],
-    "name:may_x_preferred":[
         "Apagy"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Apagy"
     ],
-    "name:rum_x_preferred":[
-        "Apagy"
-    ],
     "name:slk_x_preferred":[
-        "Apagy"
-    ],
-    "name:slo_x_preferred":[
         "Apagy"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688493,
+    "wof:lastmodified":1561751561,
     "wof:name":"Apagy",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

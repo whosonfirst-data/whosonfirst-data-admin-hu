@@ -17,12 +17,6 @@
     "mps:longitude":18.275985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u91d1\u5207\u4ec0\u5df4\u5c3c\u5965"
-    ],
-    "name:dut_x_preferred":[
-        "Kincsesb\u00e1nya"
-    ],
     "name:eng_x_preferred":[
         "Kincsesb\u00e1nya"
     ],
@@ -30,9 +24,6 @@
         "Kincsesb\u00e1nya"
     ],
     "name:fra_x_preferred":[
-        "Kincsesb\u00e1nya"
-    ],
-    "name:fre_x_preferred":[
         "Kincsesb\u00e1nya"
     ],
     "name:hun_x_colloquial":[
@@ -48,9 +39,6 @@
     "name:ita_x_preferred":[
         "Kincsesb\u00e1nya"
     ],
-    "name:may_x_preferred":[
-        "Kincsesb\u00e1nya"
-    ],
     "name:msa_x_preferred":[
         "Kincsesb\u00e1nya"
     ],
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "Kincsesb\u00e1nya"
     ],
-    "name:rum_x_preferred":[
-        "Kincsesb\u00e1nya"
-    ],
     "name:slk_x_preferred":[
-        "Kincsesb\u00e1nya"
-    ],
-    "name:slo_x_preferred":[
         "Kincsesb\u00e1nya"
     ],
     "name:slv_x_preferred":[
@@ -80,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Kincsesb\u00e1nya"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5207\u4ec0\u5df4\u5c3c\u5965"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751579,
     "wof:name":"Kincsesb\u00e1nya",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1525815.191656,
+    "geom:area_square_m":1525815.191657,
     "geom:bbox":"20.7129687069,47.4805199939,20.7322951807,47.498304937",
     "geom:latitude":47.488943,
     "geom:longitude":20.72387,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0441\u0437\u0430\u0441\u0437\u0435\u043d\u0442\u0438\u043c\u0440\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u68ee\u8482\u59c6\u8d56"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszaszentimre"
-    ],
     "name:eng_x_preferred":[
         "Tiszaszentimre"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Tiszaszentimre"
     ],
-    "name:fre_x_preferred":[
-        "Tiszaszentimre"
-    ],
     "name:hun_x_preferred":[
         "Tiszaszentimre"
     ],
     "name:ita_x_preferred":[
-        "Tiszaszentimre"
-    ],
-    "name:may_x_preferred":[
         "Tiszaszentimre"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Tiszaszentimre"
     ],
-    "name:rum_x_preferred":[
-        "Tiszaszentimre"
-    ],
     "name:slk_x_preferred":[
-        "Tiszaszentimre"
-    ],
-    "name:slo_x_preferred":[
         "Tiszaszentimre"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715648,
+    "wof:lastmodified":1561751582,
     "wof:name":"Tiszaszentimre",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

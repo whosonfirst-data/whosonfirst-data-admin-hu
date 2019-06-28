@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":5755130.652282,
+    "geom:area_square_m":5755130.652283,
     "geom:bbox":"18.8979320168,46.7906920242,18.9374326837,46.8229171293",
     "geom:latitude":46.807546,
     "geom:longitude":18.917491,
@@ -17,10 +17,7 @@
     "mps:longitude":18.915546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u57ce\u5821"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +27,6 @@
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:fra_x_preferred":[
-        "Dunaf\u00f6ldv\u00e1r"
-    ],
-    "name:fre_x_preferred":[
-        "Dunaf\u00f6ldv\u00e1r"
-    ],
-    "name:ger_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:heb_x_preferred":[
@@ -49,9 +40,6 @@
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Dunaf\u00f6ldv\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -69,16 +57,13 @@
     "name:ron_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Dunaf\u00f6ldv\u00e1r"
-    ],
     "name:rup_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0444\u0451\u043b\u044c\u0434\u0432\u0430\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -95,6 +80,9 @@
     ],
     "name:vie_x_preferred":[
         "Dunaf\u00f6ldv\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7459\u57ce\u5821"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -146,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715903,
+    "wof:lastmodified":1561751593,
     "wof:name":"Dunaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

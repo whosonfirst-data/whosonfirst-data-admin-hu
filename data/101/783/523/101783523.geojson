@@ -17,10 +17,7 @@
     "mps:longitude":22.455741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u56fe\u7ebd\u683c\u6bdb\u6258\u5c14\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tunyogmatolcs"
     ],
     "name:eng_x_preferred":[
@@ -36,19 +33,10 @@
     "name:fra_x_preferred":[
         "Tunyogmatolcs"
     ],
-    "name:fre_x_preferred":[
-        "Tunyogmatolcs"
-    ],
-    "name:ger_x_preferred":[
-        "Tunyogmatolcs"
-    ],
     "name:hun_x_preferred":[
         "Tunyogmatolcs"
     ],
     "name:ita_x_preferred":[
-        "Tunyogmatolcs"
-    ],
-    "name:may_x_preferred":[
         "Tunyogmatolcs"
     ],
     "name:msa_x_preferred":[
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "Tunyogmatolcs"
     ],
-    "name:rum_x_preferred":[
-        "Tunyogmatolcs"
-    ],
     "name:slk_x_preferred":[
-        "Tunyogmatolcs"
-    ],
-    "name:slo_x_preferred":[
         "Tunyogmatolcs"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688505,
+    "wof:lastmodified":1561751565,
     "wof:name":"Tunyogmatolcs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

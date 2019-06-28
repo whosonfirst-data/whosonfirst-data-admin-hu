@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1406467.548688,
+    "geom:area_square_m":1406467.548689,
     "geom:bbox":"17.8113698141,46.5005775211,17.8379475302,46.5161683467",
     "geom:latitude":46.507465,
     "geom:longitude":17.823162,
@@ -16,10 +16,7 @@
     "mps:longitude":17.817827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8fc8\u5c14\u6d85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mernye"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Mernye"
     ],
-    "name:fre_x_preferred":[
-        "Mernye"
-    ],
-    "name:ger_x_preferred":[
-        "Mernye"
-    ],
     "name:hun_x_preferred":[
         "Mernye"
     ],
     "name:ita_x_preferred":[
-        "Mernye"
-    ],
-    "name:may_x_preferred":[
         "Mernye"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Mernye"
     ],
-    "name:rum_x_preferred":[
-        "Mernye"
-    ],
     "name:slk_x_preferred":[
-        "Mernye"
-    ],
-    "name:slo_x_preferred":[
         "Mernye"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641603,
+    "wof:lastmodified":1561751539,
     "wof:name":"Mernye",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

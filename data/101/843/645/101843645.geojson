@@ -16,13 +16,7 @@
     "mps:longitude":20.783014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u514b\u8003\u52b3\u7ebd\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "B\u00fckkaranyos"
-    ],
-    "name:dut_x_preferred":[
         "B\u00fckkaranyos"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "B\u00fckkaranyos"
     ],
-    "name:fre_x_preferred":[
-        "B\u00fckkaranyos"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00fckkaranyos"
-    ],
     "name:hun_x_colloquial":[
         "Buekkaranyos",
         "Bukkaranyos"
@@ -48,9 +36,6 @@
         "B\u00fckkaranyos"
     ],
     "name:ita_x_preferred":[
-        "B\u00fckkaranyos"
-    ],
-    "name:may_x_preferred":[
         "B\u00fckkaranyos"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "B\u00fckkaranyos"
     ],
-    "name:rum_x_preferred":[
-        "B\u00fckkaranyos"
-    ],
     "name:slk_x_preferred":[
-        "B\u00fckkaranyos"
-    ],
-    "name:slo_x_preferred":[
         "B\u00fckkaranyos"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00fckkaranyos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u514b\u8003\u52b3\u7ebd\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -129,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642591,
+    "wof:lastmodified":1561751544,
     "wof:name":"B\u00fckkaranyos",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

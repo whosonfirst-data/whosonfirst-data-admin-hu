@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2184392.665875,
+    "geom:area_square_m":2184392.665874,
     "geom:bbox":"18.9457898459,46.7279956327,18.9729176614,46.7513198063",
     "geom:latitude":46.739277,
     "geom:longitude":18.962487,
@@ -17,10 +17,7 @@
     "mps:longitude":18.962693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f2f\u5c14\u5947\u51ef"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "B\u00f6lcske"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "B\u00f6lcske"
     ],
-    "name:fre_x_preferred":[
-        "B\u00f6lcske"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00f6lcske"
-    ],
     "name:hun_x_colloquial":[
         "Boelcske",
         "Bolcske"
@@ -46,9 +37,6 @@
         "B\u00f6lcske"
     ],
     "name:ita_x_preferred":[
-        "B\u00f6lcske"
-    ],
-    "name:may_x_preferred":[
         "B\u00f6lcske"
     ],
     "name:msa_x_preferred":[
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "B\u00f6lcske"
     ],
-    "name:rum_x_preferred":[
-        "B\u00f6lcske"
-    ],
     "name:slk_x_preferred":[
-        "B\u00f6lcske"
-    ],
-    "name:slo_x_preferred":[
         "B\u00f6lcske"
     ],
     "name:slv_x_preferred":[
@@ -80,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00f6lcske"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u5c14\u5947\u51ef"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642628,
+    "wof:lastmodified":1561751548,
     "wof:name":"B\u00f6lcske",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

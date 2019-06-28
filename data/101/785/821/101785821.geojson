@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000614,
-    "geom:area_square_m":5115778.061743,
+    "geom:area_square_m":5115778.061742,
     "geom:bbox":"19.9585573695,47.6289752589,20.0007375937,47.6544741331",
     "geom:latitude":47.641339,
     "geom:longitude":19.978424,
@@ -17,12 +17,6 @@
     "mps:longitude":19.978744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u85a9\u7f85\u514b\u85a9\u62c9\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
-    ],
     "name:eng_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
@@ -30,9 +24,6 @@
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
     "name:fra_x_preferred":[
-        "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
-    ],
-    "name:fre_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
-    "name:may_x_preferred":[
-        "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
-    ],
     "name:msa_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
@@ -68,16 +56,10 @@
     "name:ron_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
-    ],
     "name:rup_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
     "name:slk_x_preferred":[
-        "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u85a9\u7f85\u514b\u85a9\u62c9\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -142,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677694,
+    "wof:lastmodified":1561751555,
     "wof:name":"J\u00e1sz\u00e1roksz\u00e1ll\u00e1s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

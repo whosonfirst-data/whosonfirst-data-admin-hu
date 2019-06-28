@@ -16,10 +16,7 @@
     "mps:longitude":21.962848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u8003\u5c3c\u4e9a\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tiszakany\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Tiszakany\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Tiszakany\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszakany\u00e1r"
-    ],
     "name:hun_x_colloquial":[
         "Tiszakanyar"
     ],
@@ -44,9 +35,6 @@
         "Tiszakany\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Tiszakany\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Tiszakany\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Tiszakany\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Tiszakany\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Tiszakany\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Tiszakany\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszakany\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u8003\u5c3c\u4e9a\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642593,
+    "wof:lastmodified":1561751545,
     "wof:name":"Tiszakany\u00e1r",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "mps:longitude":18.223354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u59c6\u52d2\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "K\u00f6ml\u0151d"
-    ],
     "name:eng_x_preferred":[
         "K\u00f6ml\u0151d"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "K\u00f6ml\u0151d"
     ],
-    "name:fre_x_preferred":[
-        "K\u00f6ml\u0151d"
-    ],
     "name:hun_x_preferred":[
         "K\u00f6ml\u0151d"
     ],
     "name:ita_x_preferred":[
-        "K\u00f6ml\u0151d"
-    ],
-    "name:may_x_preferred":[
         "K\u00f6ml\u0151d"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "K\u00f6ml\u0151d"
     ],
-    "name:rum_x_preferred":[
-        "K\u00f6ml\u0151d"
-    ],
     "name:slk_x_preferred":[
-        "K\u00f6ml\u0151d"
-    ],
-    "name:slo_x_preferred":[
         "K\u00f6ml\u0151d"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u00f6ml\u0151d"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u59c6\u52d2\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -114,7 +99,7 @@
         }
     ],
     "wof:id":101858929,
-    "wof:lastmodified":1544744655,
+    "wof:lastmodified":1561751550,
     "wof:name":"K\u00f6ml\u0151d",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":927296.398633,
+    "geom:area_square_m":927296.398632,
     "geom:bbox":"20.1891180189,48.2209993032,20.2063623989,48.2380092104",
     "geom:latitude":48.229476,
     "geom:longitude":20.197836,
@@ -19,16 +19,7 @@
     "name:ces_x_preferred":[
         "Hangony"
     ],
-    "name:chi_x_preferred":[
-        "\u6d2a\u6208\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Hangony"
-    ],
     "name:deu_x_preferred":[
-        "Hangony"
-    ],
-    "name:dut_x_preferred":[
         "Hangony"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +31,10 @@
     "name:fra_x_preferred":[
         "Hangony"
     ],
-    "name:fre_x_preferred":[
-        "Hangony"
-    ],
-    "name:ger_x_preferred":[
-        "Hangony"
-    ],
     "name:hun_x_preferred":[
         "Hangony"
     ],
     "name:ita_x_preferred":[
-        "Hangony"
-    ],
-    "name:may_x_preferred":[
         "Hangony"
     ],
     "name:msa_x_preferred":[
@@ -70,13 +52,7 @@
     "name:ron_x_preferred":[
         "Hangony"
     ],
-    "name:rum_x_preferred":[
-        "Hangony"
-    ],
     "name:slk_x_preferred":[
-        "Hangony"
-    ],
-    "name:slo_x_preferred":[
         "Hangony"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642593,
+    "wof:lastmodified":1561751545,
     "wof:name":"Hangony",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

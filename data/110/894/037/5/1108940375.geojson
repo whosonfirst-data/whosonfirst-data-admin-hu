@@ -21,14 +21,8 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e00\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "I. obvod"
-    ],
-    "name:dut_x_preferred":[
-        "District I"
     ],
     "name:eng_x_preferred":[
         "Budapest I. District"
@@ -36,7 +30,7 @@
     "name:epo_x_preferred":[
         "V\u00e1r"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "1er arrondissement de Budapest"
     ],
     "name:heb_x_preferred":[
@@ -55,13 +49,16 @@
     "name:jpn_x_preferred":[
         "\u4e00\u533a"
     ],
+    "name:nld_x_preferred":[
+        "District I"
+    ],
     "name:pol_x_preferred":[
         "Dzielnica I"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00e1rker\u00fclet"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "I. obvod"
     ],
     "name:srp_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn I"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e00\u533a"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108940375,
-    "wof:lastmodified":1514448419,
+    "wof:lastmodified":1561751528,
     "wof:name":"Varkerulet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -17,12 +17,6 @@
     "mps:longitude":19.625487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8bfa\u683c\u62c9\u5fb7\u8fc8\u6770\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "N\u00f3gr\u00e1dmegyer"
-    ],
     "name:eng_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
     ],
-    "name:fre_x_preferred":[
-        "N\u00f3gr\u00e1dmegyer"
-    ],
     "name:hun_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
     ],
     "name:ita_x_preferred":[
-        "N\u00f3gr\u00e1dmegyer"
-    ],
-    "name:may_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
     ],
-    "name:rum_x_preferred":[
-        "N\u00f3gr\u00e1dmegyer"
-    ],
     "name:slk_x_preferred":[
-        "N\u00f3gr\u00e1dmegyer"
-    ],
-    "name:slo_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
     ],
     "name:slv_x_preferred":[
@@ -73,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "N\u00f3gr\u00e1dmegyer"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u683c\u62c9\u5fb7\u8fc8\u6770\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101783481,
-    "wof:lastmodified":1527688501,
+    "wof:lastmodified":1561751564,
     "wof:name":"N\u00f3gr\u00e1dmegyer",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

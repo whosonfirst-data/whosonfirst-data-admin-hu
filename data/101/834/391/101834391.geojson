@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":3416348.575308,
+    "geom:area_square_m":3416348.575309,
     "geom:bbox":"17.7221725749,46.7911566988,17.800376992,46.8216890257",
     "geom:latitude":46.807327,
     "geom:longitude":17.768631,
@@ -19,16 +19,7 @@
     "name:ces_x_preferred":[
         "Balatonszemes"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u901a\u585e\u8fc8\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Balatonszemes"
-    ],
     "name:deu_x_preferred":[
-        "Balatonszemes"
-    ],
-    "name:dut_x_preferred":[
         "Balatonszemes"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +31,6 @@
     "name:fra_x_preferred":[
         "Balatonszemes"
     ],
-    "name:fre_x_preferred":[
-        "Balatonszemes"
-    ],
-    "name:ger_x_preferred":[
-        "Balatonszemes"
-    ],
     "name:hrv_x_preferred":[
         "Balatonszemes"
     ],
@@ -53,9 +38,6 @@
         "Balatonszemes"
     ],
     "name:ita_x_preferred":[
-        "Balatonszemes"
-    ],
-    "name:may_x_preferred":[
         "Balatonszemes"
     ],
     "name:msa_x_preferred":[
@@ -70,13 +52,7 @@
     "name:ron_x_preferred":[
         "Balatonszemes"
     ],
-    "name:rum_x_preferred":[
-        "Balatonszemes"
-    ],
     "name:slk_x_preferred":[
-        "Balatonszemes"
-    ],
-    "name:slo_x_preferred":[
         "Balatonszemes"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642930,
+    "wof:lastmodified":1561751553,
     "wof:name":"Balatonszemes",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

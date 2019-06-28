@@ -16,10 +16,7 @@
     "mps:longitude":22.009374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f7\u7279\u514b\u5179\u62dc\u4f26\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e9tk\u00f6zberencs"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00e9tk\u00f6zberencs"
-    ],
     "name:hun_x_colloquial":[
         "Retkoezberencs",
         "Retkozberencs"
@@ -45,9 +36,6 @@
         "R\u00e9tk\u00f6zberencs"
     ],
     "name:ita_x_preferred":[
-        "R\u00e9tk\u00f6zberencs"
-    ],
-    "name:may_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e9tk\u00f6zberencs"
-    ],
     "name:slk_x_preferred":[
-        "R\u00e9tk\u00f6zberencs"
-    ],
-    "name:slo_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u7279\u514b\u5179\u62dc\u4f26\u5947"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -123,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1561751546,
     "wof:name":"R\u00e9tk\u00f6zberencs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

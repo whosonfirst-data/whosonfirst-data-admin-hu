@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1646144.593661,
+    "geom:area_square_m":1646144.593659,
     "geom:bbox":"18.4131855764,45.7771536879,18.4471593898,45.7969536991",
     "geom:latitude":45.788157,
     "geom:longitude":18.432703,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Beremend"
     ],
-    "name:dut_x_preferred":[
-        "Beremend"
-    ],
     "name:eng_x_preferred":[
         "Beremend"
     ],
@@ -33,12 +30,6 @@
         "Beremend"
     ],
     "name:fra_x_preferred":[
-        "Beremend"
-    ],
-    "name:fre_x_preferred":[
-        "Beremend"
-    ],
-    "name:ger_x_preferred":[
         "Beremend"
     ],
     "name:hbs_x_preferred":[
@@ -56,9 +47,6 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30ec\u30e1\u30f3\u30c9"
     ],
-    "name:may_x_preferred":[
-        "Beremend"
-    ],
     "name:msa_x_preferred":[
         "Beremend"
     ],
@@ -74,13 +62,7 @@
     "name:ron_x_preferred":[
         "Beremend"
     ],
-    "name:rum_x_preferred":[
-        "Beremend"
-    ],
     "name:slk_x_preferred":[
-        "Beremend"
-    ],
-    "name:slo_x_preferred":[
         "Beremend"
     ],
     "name:slv_x_preferred":[
@@ -148,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642627,
+    "wof:lastmodified":1561751548,
     "wof:name":"Beremend",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

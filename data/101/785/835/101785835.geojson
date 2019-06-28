@@ -17,13 +17,7 @@
     "mps:longitude":17.324082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c6a\u62c9\u897f"
-    ],
     "name:deu_x_preferred":[
-        "Hal\u00e1szi"
-    ],
-    "name:dut_x_preferred":[
         "Hal\u00e1szi"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Hal\u00e1szi"
     ],
-    "name:fre_x_preferred":[
-        "Hal\u00e1szi"
-    ],
-    "name:ger_x_preferred":[
-        "Hal\u00e1szi"
-    ],
     "name:hun_x_colloquial":[
         "Halaszi"
     ],
@@ -48,9 +36,6 @@
         "Hal\u00e1szi"
     ],
     "name:ita_x_preferred":[
-        "Hal\u00e1szi"
-    ],
-    "name:may_x_preferred":[
         "Hal\u00e1szi"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Hal\u00e1szi"
     ],
-    "name:rum_x_preferred":[
-        "Hal\u00e1szi"
-    ],
     "name:slk_x_preferred":[
-        "Hal\u00e1szi"
-    ],
-    "name:slo_x_preferred":[
         "Hal\u00e1szi"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Hal\u00e1szi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u62c9\u897f"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1561751555,
     "wof:name":"Hal\u00e1szi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

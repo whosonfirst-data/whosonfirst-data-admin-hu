@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":987049.598429,
+    "geom:area_square_m":987049.598428,
     "geom:bbox":"20.7188260688,48.5293871526,20.7404924188,48.542717587",
     "geom:latitude":48.537491,
     "geom:longitude":20.731133,
@@ -16,13 +16,7 @@
     "mps:longitude":20.732774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u535a\u5fb7\u6c83\u897f\u6d1b\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "B\u00f3dvaszilas"
-    ],
-    "name:dut_x_preferred":[
         "B\u00f3dvaszilas"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "B\u00f3dvaszilas"
     ],
-    "name:fre_x_preferred":[
-        "B\u00f3dvaszilas"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00f3dvaszilas"
-    ],
     "name:hun_x_colloquial":[
         "Bodvaszilas"
     ],
@@ -47,9 +35,6 @@
         "B\u00f3dvaszilas"
     ],
     "name:ita_x_preferred":[
-        "B\u00f3dvaszilas"
-    ],
-    "name:may_x_preferred":[
         "B\u00f3dvaszilas"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "B\u00f3dvaszilas"
     ],
-    "name:rum_x_preferred":[
-        "B\u00f3dvaszilas"
-    ],
     "name:slk_x_preferred":[
-        "B\u00f3dvaszilas"
-    ],
-    "name:slo_x_preferred":[
         "B\u00f3dvaszilas"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00f3dvaszilas"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5fb7\u6c83\u897f\u6d1b\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -129,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715628,
+    "wof:lastmodified":1561751580,
     "wof:name":"B\u00f3dvaszilas",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

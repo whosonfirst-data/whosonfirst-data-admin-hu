@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":3321011.944531,
+    "geom:area_square_m":3321011.944529,
     "geom:bbox":"19.936349982,47.3229077841,19.9687758675,47.346988568",
     "geom:latitude":47.334923,
     "geom:longitude":19.951268,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u76ae\u6b27\u54f2\u5c14\u6770"
-    ],
-    "name:cze_x_preferred":[
-        "T\u00e1pi\u00f3gy\u00f6rgye"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
-    "name:fre_x_preferred":[
-        "T\u00e1pi\u00f3gy\u00f6rgye"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00e1pi\u00f3gy\u00f6rgye"
-    ],
     "name:hun_x_colloquial":[
         "Tapiogyoergye",
         "Tapiogyorgye"
@@ -55,9 +43,6 @@
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
     "name:ita_x_preferred":[
-        "T\u00e1pi\u00f3gy\u00f6rgye"
-    ],
-    "name:may_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
     "name:msa_x_preferred":[
@@ -69,19 +54,10 @@
     "name:nld_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u067e\u06cc\u0648\u06af\u06cc\u0631\u06af\u06cc"
-    ],
     "name:ron_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
-    "name:rum_x_preferred":[
-        "T\u00e1pi\u00f3gy\u00f6rgye"
-    ],
     "name:slk_x_preferred":[
-        "T\u00e1pi\u00f3gy\u00f6rgye"
-    ],
-    "name:slo_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
     "name:slv_x_preferred":[
@@ -92,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u76ae\u6b27\u54f2\u5c14\u6770"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -144,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715575,
+    "wof:lastmodified":1561751576,
     "wof:name":"T\u00e1pi\u00f3gy\u00f6rgye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

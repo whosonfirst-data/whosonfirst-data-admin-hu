@@ -16,13 +16,7 @@
     "mps:longitude":21.772492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u827e\u65af\u5854\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Eszt\u00e1r"
-    ],
-    "name:dut_x_preferred":[
         "Eszt\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Eszt\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Eszt\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Eszt\u00e1r"
-    ],
     "name:hun_x_colloquial":[
         "Esztar"
     ],
@@ -47,9 +35,6 @@
         "Eszt\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Eszt\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Eszt\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Eszt\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Eszt\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Eszt\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Eszt\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Eszt\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u65af\u5854\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642924,
+    "wof:lastmodified":1561751551,
     "wof:name":"Eszt\u00e1r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

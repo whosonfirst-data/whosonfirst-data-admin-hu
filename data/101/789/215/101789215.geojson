@@ -17,13 +17,7 @@
     "mps:longitude":17.011769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4fdd\u55ac"
-    ],
     "name:deu_x_preferred":[
-        "Pacsa"
-    ],
-    "name:dut_x_preferred":[
         "Pacsa"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Pacsa"
     ],
     "name:fra_x_preferred":[
-        "Pacsa"
-    ],
-    "name:fre_x_preferred":[
-        "Pacsa"
-    ],
-    "name:ger_x_preferred":[
         "Pacsa"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
     "name:ita_x_preferred":[
         "Pacsa"
     ],
-    "name:may_x_preferred":[
-        "Pacsa"
-    ],
     "name:msa_x_preferred":[
         "Pacsa"
     ],
@@ -72,16 +57,10 @@
     "name:ron_x_preferred":[
         "Pacsa"
     ],
-    "name:rum_x_preferred":[
-        "Pacsa"
-    ],
     "name:rup_x_preferred":[
         "Pacsa"
     ],
     "name:slk_x_preferred":[
-        "Pacsa"
-    ],
-    "name:slo_x_preferred":[
         "Pacsa"
     ],
     "name:slv_x_preferred":[
@@ -155,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"Pacsa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

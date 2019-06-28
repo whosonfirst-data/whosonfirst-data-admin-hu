@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":2881668.292096,
+    "geom:area_square_m":2881668.292095,
     "geom:bbox":"22.293467003,48.1120920726,22.3231556721,48.1361488093",
     "geom:latitude":48.12549,
     "geom:longitude":22.310764,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u6c99\u7f85\u4ec0\u7459\u6885\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "V\u00e1s\u00e1rosnam\u00e9ny"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e1s\u00e1rosnam\u00e9ny"
-    ],
-    "name:ger_x_preferred":[
-        "V\u00e1s\u00e1rosnam\u00e9ny"
-    ],
     "name:hun_x_colloquial":[
         "Vasarosnameny"
     ],
@@ -51,9 +39,6 @@
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "V\u00e1s\u00e1rosnam\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +56,13 @@
     "name:ron_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e1s\u00e1rosnam\u00e9ny"
-    ],
     "name:rup_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0448\u0430\u0440\u043e\u0448\u043d\u0430\u043c\u0435\u043d\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -97,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u6c99\u7f85\u4ec0\u7459\u6885\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -148,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642598,
+    "wof:lastmodified":1561751545,
     "wof:name":"V\u00e1s\u00e1rosnam\u00e9ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

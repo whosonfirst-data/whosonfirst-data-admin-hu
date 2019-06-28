@@ -16,12 +16,6 @@
     "mps:longitude":19.723479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u65af\u8cbb\u5c3c\u7d39\u9b6f"
-    ],
-    "name:dut_x_preferred":[
-        "J\u00e1szf\u00e9nyszaru"
-    ],
     "name:eng_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
     ],
@@ -29,9 +23,6 @@
         "J\u00e1szf\u00e9nyszaru"
     ],
     "name:fra_x_preferred":[
-        "J\u00e1szf\u00e9nyszaru"
-    ],
-    "name:fre_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
     ],
     "name:hbs_x_preferred":[
@@ -44,9 +35,6 @@
         "J\u00e1szf\u00e9nyszaru"
     ],
     "name:ita_x_preferred":[
-        "J\u00e1szf\u00e9nyszaru"
-    ],
-    "name:may_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
     ],
     "name:msa_x_preferred":[
@@ -64,16 +52,10 @@
     "name:ron_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1szf\u00e9nyszaru"
-    ],
     "name:rup_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
     ],
     "name:slk_x_preferred":[
-        "J\u00e1szf\u00e9nyszaru"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
     ],
     "name:slv_x_preferred":[
@@ -87,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1szf\u00e9nyszaru"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u65af\u8cbb\u5c3c\u7d39\u9b6f"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677694,
+    "wof:lastmodified":1561751555,
     "wof:name":"J\u00e1szf\u00e9nyszaru",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

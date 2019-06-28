@@ -16,10 +16,7 @@
     "mps:longitude":18.660438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96c4\u62dc\u8d56\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Somberek"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Somberek"
     ],
-    "name:fre_x_preferred":[
-        "Somberek"
-    ],
-    "name:ger_x_preferred":[
-        "Somberek"
-    ],
     "name:hrv_x_preferred":[
         "\u0160umberak"
     ],
@@ -44,9 +35,6 @@
         "Somberek"
     ],
     "name:ita_x_preferred":[
-        "Somberek"
-    ],
-    "name:may_x_preferred":[
         "Somberek"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "Somberek"
     ],
-    "name:rum_x_preferred":[
-        "Somberek"
-    ],
     "name:slk_x_preferred":[
-        "Somberek"
-    ],
-    "name:slo_x_preferred":[
         "Somberek"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561751542,
     "wof:name":"Somberek",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

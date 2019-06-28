@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000363,
-    "geom:area_square_m":3001357.85335,
+    "geom:area_square_m":3001357.853348,
     "geom:bbox":"21.7833398156,48.0553610753,21.8119214488,48.0815037463",
     "geom:latitude":48.069044,
     "geom:longitude":21.79838,
@@ -17,10 +17,7 @@
     "mps:longitude":21.799788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u51f1\u9081\u5207"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kemecse"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +27,6 @@
         "Kemecse"
     ],
     "name:fra_x_preferred":[
-        "Kemecse"
-    ],
-    "name:fre_x_preferred":[
-        "Kemecse"
-    ],
-    "name:ger_x_preferred":[
         "Kemecse"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +39,6 @@
         "Kemecse"
     ],
     "name:ita_x_preferred":[
-        "Kemecse"
-    ],
-    "name:may_x_preferred":[
         "Kemecse"
     ],
     "name:msa_x_preferred":[
@@ -71,9 +59,6 @@
     "name:ron_x_preferred":[
         "Kemecse"
     ],
-    "name:rum_x_preferred":[
-        "Kemecse"
-    ],
     "name:rup_x_preferred":[
         "Kemecse"
     ],
@@ -81,9 +66,6 @@
         "\u041a\u0435\u043c\u0435\u0447\u0435"
     ],
     "name:slk_x_preferred":[
-        "Kemecse"
-    ],
-    "name:slo_x_preferred":[
         "Kemecse"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Kemecse",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

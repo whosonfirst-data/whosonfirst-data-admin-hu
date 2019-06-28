@@ -16,9 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "P\u00fcsp\u00f6kszentl\u00e1szl\u00f3"
-    ],
     "name:eng_x_preferred":[
         "P\u00fcsp\u00f6kszentl\u00e1szl\u00f3"
     ],
@@ -26,6 +23,9 @@
         "Senasluv"
     ],
     "name:hun_x_preferred":[
+        "P\u00fcsp\u00f6kszentl\u00e1szl\u00f3"
+    ],
+    "name:nld_x_preferred":[
         "P\u00fcsp\u00f6kszentl\u00e1szl\u00f3"
     ],
     "qs_pg:aaroncc":"HU",
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1125863229,
-    "wof:lastmodified":1514448284,
+    "wof:lastmodified":1561751598,
     "wof:name":"P\u00fcsp\u00f6kszentl\u00e1szl\u00f3",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

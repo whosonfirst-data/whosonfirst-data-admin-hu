@@ -30,8 +30,8 @@
     "mz:note":"misspell?",
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u516b\u533a"
+    "name:cym_x_preferred":[
+        "18fed dosbarth Budapest"
     ],
     "name:deu_x_preferred":[
         "Pestszentl\u0151rinc-Pestszentimre"
@@ -44,12 +44,6 @@
     ],
     "name:fra_x_preferred":[
         "18e arrondissement de Budapest"
-    ],
-    "name:fre_x_preferred":[
-        "18e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Pestszentl\u0151rinc-Pestszentimre"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e9\u05d8\u05e1\u05e0\u05d8\u05dc\u05e8\u05d9\u05e0\u05e5-\u05e4\u05e9\u05d8\u05e1\u05e0\u05d8\u05d0\u05d9\u05de\u05e8\u05d4"
@@ -69,13 +63,7 @@
     "name:ron_x_preferred":[
         "Pestszentl\u0151rinc-Pestszentimre"
     ],
-    "name:rum_x_preferred":[
-        "Pestszentl\u0151rinc-Pestszentimre"
-    ],
     "name:slk_x_preferred":[
-        "XVIII. obvod"
-    ],
-    "name:slo_x_preferred":[
         "XVIII. obvod"
     ],
     "name:srp_x_preferred":[
@@ -87,9 +75,6 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XVIII"
-    ],
-    "name:wel_x_preferred":[
-        "18fed dosbarth Budapest"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u516b\u533a"
@@ -178,7 +163,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1561751510,
     "wof:name":"Pestl\u0151rinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Cserszegtomaj"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u5c14\u585e\u683c\u6258\u6bdb\u4f0a"
-    ],
-    "name:cze_x_preferred":[
-        "Cserszegtomaj"
-    ],
     "name:deu_x_preferred":[
-        "Cserszegtomaj"
-    ],
-    "name:dut_x_preferred":[
         "Cserszegtomaj"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +32,10 @@
     "name:fra_x_preferred":[
         "Cserszegtomaj"
     ],
-    "name:fre_x_preferred":[
-        "Cserszegtomaj"
-    ],
-    "name:ger_x_preferred":[
-        "Cserszegtomaj"
-    ],
     "name:hun_x_preferred":[
         "Cserszegtomaj"
     ],
     "name:ita_x_preferred":[
-        "Cserszegtomaj"
-    ],
-    "name:may_x_preferred":[
         "Cserszegtomaj"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +50,7 @@
     "name:ron_x_preferred":[
         "Cserszegtomaj"
     ],
-    "name:rum_x_preferred":[
-        "Cserszegtomaj"
-    ],
     "name:slk_x_preferred":[
-        "Cserszegtomaj"
-    ],
-    "name:slo_x_preferred":[
         "Cserszegtomaj"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751589,
     "wof:name":"Cserszegtomaj",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -17,9 +17,6 @@
     "mps:longitude":17.249421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "B\u0151s\u00e1rk\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "B\u0151s\u00e1rk\u00e1ny"
     ],
@@ -27,9 +24,6 @@
         "B\u0151s\u00e1rk\u00e1ny"
     ],
     "name:fra_x_preferred":[
-        "B\u0151s\u00e1rk\u00e1ny"
-    ],
-    "name:fre_x_preferred":[
         "B\u0151s\u00e1rk\u00e1ny"
     ],
     "name:hun_x_preferred":[
@@ -40,9 +34,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30fc\u30b7\u30e3\u30fc\u30eb\u30ab\u30fc\u30cb"
-    ],
-    "name:may_x_preferred":[
-        "B\u0151s\u00e1rk\u00e1ny"
     ],
     "name:msa_x_preferred":[
         "B\u0151s\u00e1rk\u00e1ny"
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "B\u0151s\u00e1rk\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "B\u0151s\u00e1rk\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "B\u0151s\u00e1rk\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "B\u0151s\u00e1rk\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101786977,
-    "wof:lastmodified":1527715646,
+    "wof:lastmodified":1561751581,
     "wof:name":"B\u0151s\u00e1rk\u00e1ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

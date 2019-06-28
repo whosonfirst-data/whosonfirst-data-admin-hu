@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306539,
-    "geom:area_square_m":2536955146.469068,
+    "geom:area_square_m":2536955146.46911,
     "geom:bbox":"18.9279005,47.687783,20.093064,48.2500685",
     "geom:latitude":47.986161,
     "geom:longitude":19.523154,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u063a\u0631\u0627\u062f"
     ],
-    "name:baq_x_preferred":[
-        "N\u00f3gr\u00e1d"
-    ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -42,20 +39,20 @@
     "name:cat_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u683c\u62c9\u5fb7\u5dde"
+    "name:ces_x_preferred":[
+        "N\u00f3gr\u00e1d"
     ],
     "name:chv_x_preferred":[
         "\u041d\u043e\u0433\u0440\u0430\u0434"
     ],
-    "name:cze_x_preferred":[
-        "N\u00f3gr\u00e1d"
-    ],
     "name:dan_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
-    "name:dut_x_preferred":[
-        "N\u00f3gr\u00e1d"
+    "name:deu_x_preferred":[
+        "Komitat N\u00f3gr\u00e1d"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "N\u00f3gr\u00e1d"
@@ -66,23 +63,20 @@
     "name:est_x_preferred":[
         "N\u00f3gr\u00e1di komitaat"
     ],
+    "name:eus_x_preferred":[
+        "N\u00f3gr\u00e1d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06af\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "N\u00f3gr\u00e1d"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10d2\u10e0\u10d0\u10d3\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Komitat N\u00f3gr\u00e1d"
     ],
     "name:glg_x_preferred":[
         "Condado de N\u00f3gr\u00e1d"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:gsw_x_preferred":[
         "N\u00f3gr\u00e1d"
@@ -114,6 +108,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cca\u0c97\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d2\u10e0\u10d0\u10d3\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ub178\uadf8\ub77c\ub4dc \uc8fc"
     ],
@@ -123,23 +120,23 @@
     "name:lit_x_preferred":[
         "Nogradas"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u043e\u0433\u0440\u0430\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u0917\u094d\u0930\u0947\u0921 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:msa_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
     "name:nan_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06af\u0631\u0627\u062f"
+    "name:nob_x_preferred":[
+        "N\u00f3gr\u00e1d"
     ],
     "name:pol_x_preferred":[
         "Komitat N\u00f3gr\u00e1d"
@@ -147,7 +144,7 @@
     "name:por_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul N\u00f3gr\u00e1d"
     ],
     "name:rus_x_preferred":[
@@ -159,7 +156,7 @@
     "name:sin_x_preferred":[
         "\u0db1\u0ddc\u0d9c\u0dca\u0dbb\u0dcf\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Novohradsk\u00e1 \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -209,6 +206,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han N\u00f3gr\u00e1d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u683c\u62c9\u5fb7\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HUN",
@@ -332,7 +332,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1553814879,
+    "wof:lastmodified":1561751514,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

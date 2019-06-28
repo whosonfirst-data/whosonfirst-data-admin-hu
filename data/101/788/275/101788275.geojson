@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1166842.839895,
+    "geom:area_square_m":1166842.839894,
     "geom:bbox":"19.229171863,47.3346219949,19.2457396786,47.3504603673",
     "geom:latitude":47.342713,
     "geom:longitude":19.238068,
@@ -17,10 +17,7 @@
     "mps:longitude":19.237942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e0a\u4fdd\u79d1\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fels\u0151pakony"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Fels\u0151pakony"
     ],
-    "name:fre_x_preferred":[
-        "Fels\u0151pakony"
-    ],
-    "name:ger_x_preferred":[
-        "Fels\u0151pakony"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151pakony"
     ],
     "name:ita_x_preferred":[
-        "Fels\u0151pakony"
-    ],
-    "name:may_x_preferred":[
         "Fels\u0151pakony"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Fels\u0151pakony"
     ],
-    "name:rum_x_preferred":[
-        "Fels\u0151pakony"
-    ],
     "name:slk_x_preferred":[
-        "Fels\u0151pakony"
-    ],
-    "name:slo_x_preferred":[
         "Fels\u0151pakony"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Fels\u0151pakony"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u4fdd\u79d1\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101788275,
-    "wof:lastmodified":1527715571,
+    "wof:lastmodified":1561751573,
     "wof:name":"Fels\u0151pakony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1575388.011063,
+    "geom:area_square_m":1575388.011064,
     "geom:bbox":"21.4408944748,48.2759203294,21.4585244234,48.2945015233",
     "geom:latitude":48.283937,
     "geom:longitude":21.449129,
@@ -20,13 +20,7 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0633\u0643\u0641\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5c14\u5947\u6c83"
-    ],
     "name:deu_x_preferred":[
-        "Tolcsva"
-    ],
-    "name:dut_x_preferred":[
         "Tolcsva"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tolcsva"
     ],
-    "name:fre_x_preferred":[
-        "Tolcsva"
-    ],
-    "name:ger_x_preferred":[
-        "Tolcsva"
-    ],
     "name:hun_x_preferred":[
         "Tolcsva"
     ],
     "name:ita_x_preferred":[
-        "Tolcsva"
-    ],
-    "name:may_x_preferred":[
         "Tolcsva"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,10 @@
     "name:ron_x_preferred":[
         "Tolcsva"
     ],
-    "name:rum_x_preferred":[
-        "Tolcsva"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043b\u044c\u0447\u0432\u0430"
     ],
     "name:slk_x_preferred":[
-        "Tolcsva"
-    ],
-    "name:slo_x_preferred":[
         "Tolcsva"
     ],
     "name:slv_x_preferred":[
@@ -148,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688323,
+    "wof:lastmodified":1561751560,
     "wof:name":"Tolcsva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

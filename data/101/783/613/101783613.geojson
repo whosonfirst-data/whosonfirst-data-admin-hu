@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1844741.078666,
+    "geom:area_square_m":1844741.078665,
     "geom:bbox":"20.6512575925,47.9348157387,20.673108108,47.9653396586",
     "geom:latitude":47.949611,
     "geom:longitude":20.662616,
@@ -17,13 +17,7 @@
     "mps:longitude":20.664271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6c99\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "S\u00e1ly"
-    ],
-    "name:dut_x_preferred":[
         "S\u00e1ly"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "S\u00e1ly"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1ly"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00e1ly"
-    ],
     "name:hun_x_colloquial":[
         "Saly"
     ],
@@ -48,9 +36,6 @@
         "S\u00e1ly"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1ly"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1ly"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "S\u00e1ly"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1ly"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e1ly"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e1ly"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e1ly"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688501,
+    "wof:lastmodified":1561751564,
     "wof:name":"S\u00e1ly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

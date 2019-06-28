@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
-    "geom:area_square_m":3770897.287146,
+    "geom:area_square_m":3770897.287148,
     "geom:bbox":"18.7481890121,46.0623905488,18.7866539273,46.0982418655",
     "geom:latitude":46.081031,
     "geom:longitude":18.762598,
@@ -17,13 +17,7 @@
     "mps:longitude":18.761287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u675c\u7459\u585e\u514b\u5f7b"
-    ],
     "name:deu_x_preferred":[
-        "Dunaszekcs\u0151"
-    ],
-    "name:dut_x_preferred":[
         "Dunaszekcs\u0151"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Dunaszekcs\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Dunaszekcs\u0151"
-    ],
-    "name:ger_x_preferred":[
-        "Dunaszekcs\u0151"
-    ],
     "name:hrv_x_preferred":[
         "Se\u010duv"
     ],
@@ -51,9 +39,6 @@
         "Dunaszekcs\u0151"
     ],
     "name:ita_x_preferred":[
-        "Dunaszekcs\u0151"
-    ],
-    "name:may_x_preferred":[
         "Dunaszekcs\u0151"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,13 @@
     "name:ota_x_preferred":[
         "\u0633\u06a9\u0686\u0648\u06cc"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u0627\u0632\u06a9\u062a\u0633\u0648"
-    ],
     "name:pol_x_preferred":[
         "Dunaszekcs\u0151"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dunaszekcs\u0151"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dunaszekcs\u0151"
     ],
     "name:slv_x_preferred":[
@@ -97,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Dunaszekcs\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u7459\u585e\u514b\u5f7b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -144,7 +129,7 @@
         }
     ],
     "wof:id":101791421,
-    "wof:lastmodified":1527641956,
+    "wof:lastmodified":1561751542,
     "wof:name":"Dunaszekcs\u0151",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

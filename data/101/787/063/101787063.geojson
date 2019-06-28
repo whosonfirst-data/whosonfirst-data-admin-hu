@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000712,
-    "geom:area_square_m":5933577.976191,
+    "geom:area_square_m":5933577.976192,
     "geom:bbox":"19.2278659007,47.5748211267,19.285129458,47.6116223316",
     "geom:latitude":47.594383,
     "geom:longitude":19.251357,
@@ -17,13 +17,7 @@
     "mps:longitude":19.24844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5308\u7259\u5229"
-    ],
     "name:deu_x_preferred":[
-        "Mogyor\u00f3d"
-    ],
-    "name:dut_x_preferred":[
         "Mogyor\u00f3d"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
     "name:fra_x_preferred":[
         "Mogyor\u00f3d"
     ],
-    "name:fre_x_preferred":[
-        "Mogyor\u00f3d"
-    ],
-    "name:ger_x_preferred":[
-        "Mogyor\u00f3d"
-    ],
     "name:hun_x_colloquial":[
         "Mogyorod"
     ],
@@ -65,9 +53,6 @@
     "name:lit_x_preferred":[
         "Modiorodas"
     ],
-    "name:may_x_preferred":[
-        "Mogyor\u00f3d"
-    ],
     "name:msa_x_preferred":[
         "Mogyor\u00f3d"
     ],
@@ -80,19 +65,16 @@
     "name:nob_x_preferred":[
         "Mogyor\u00f3d"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06af\u0648\u0631\u0648\u062f"
-    ],
     "name:pol_x_preferred":[
         "Mogyor\u00f3d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mogyor\u00f3d"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0434\u044c\u043e\u0440\u043e\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mogyor\u00f3d"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Mogyor\u00f3d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5308\u7259\u5229"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -154,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715845,
+    "wof:lastmodified":1561751584,
     "wof:name":"Mogyor\u00f3d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":3480347.592974,
+    "geom:area_square_m":3480347.592972,
     "geom:bbox":"20.8757356781,47.6082496135,20.9054962603,47.64130452",
     "geom:latitude":47.624559,
     "geom:longitude":20.88919,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Egyek"
     ],
-    "name:dut_x_preferred":[
-        "Egyek"
-    ],
     "name:eng_x_preferred":[
         "Egyek"
     ],
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Egyek"
     ],
-    "name:fre_x_preferred":[
-        "Egyek"
-    ],
-    "name:ger_x_preferred":[
-        "Egyek"
-    ],
     "name:hun_x_preferred":[
         "Egyek"
     ],
     "name:ita_x_preferred":[
-        "Egyek"
-    ],
-    "name:may_x_preferred":[
         "Egyek"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Egyek"
     ],
-    "name:rum_x_preferred":[
-        "Egyek"
-    ],
     "name:slk_x_preferred":[
-        "Egyek"
-    ],
-    "name:slo_x_preferred":[
         "Egyek"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527684904,
+    "wof:lastmodified":1561751558,
     "wof:name":"Egyek",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

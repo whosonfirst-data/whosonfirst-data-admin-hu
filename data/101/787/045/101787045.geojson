@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1176846.329238,
+    "geom:area_square_m":1176846.329239,
     "geom:bbox":"19.4386815912,47.2211239172,19.4599914063,47.2365386456",
     "geom:latitude":47.228582,
     "geom:longitude":19.449319,
@@ -16,10 +16,7 @@
     "mps:longitude":19.444719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e4c\u4f0a\u4f26\u6770\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00dajlengyel"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "\u00dajlengyel"
     ],
-    "name:fre_x_preferred":[
-        "\u00dajlengyel"
-    ],
-    "name:ger_x_preferred":[
-        "\u00dajlengyel"
-    ],
     "name:hun_x_colloquial":[
         "Ujlengyel"
     ],
@@ -44,9 +35,6 @@
         "\u00dajlengyel"
     ],
     "name:ita_x_preferred":[
-        "\u00dajlengyel"
-    ],
-    "name:may_x_preferred":[
         "\u00dajlengyel"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "\u00dajlengyel"
     ],
-    "name:rum_x_preferred":[
-        "\u00dajlengyel"
-    ],
     "name:slk_x_preferred":[
-        "\u00dajlengyel"
-    ],
-    "name:slo_x_preferred":[
         "\u00dajlengyel"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00dajlengyel"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u4f0a\u4f26\u6770\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715849,
+    "wof:lastmodified":1561751585,
     "wof:name":"\u00dajlengyel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

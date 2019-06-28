@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "S\u00e1rr\u00e9tudvari"
     ],
-    "name:dut_x_preferred":[
-        "S\u00e1rr\u00e9tudvari"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1rr\u00e9tudvari"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "S\u00e1rr\u00e9tudvari"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1rr\u00e9tudvari"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00e1rr\u00e9tudvari"
-    ],
     "name:hun_x_colloquial":[
         "Sarretudvari"
     ],
@@ -45,9 +36,6 @@
         "S\u00e1rr\u00e9tudvari"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1rr\u00e9tudvari"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1rr\u00e9tudvari"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "S\u00e1rr\u00e9tudvari"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1rr\u00e9tudvari"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e1rr\u00e9tudvari"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e1rr\u00e9tudvari"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751572,
     "wof:name":"S\u00e1rr\u00e9tudvari",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

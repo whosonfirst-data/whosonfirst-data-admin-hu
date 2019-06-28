@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":1705591.856376,
+    "geom:area_square_m":1705591.856377,
     "geom:bbox":"21.3731714399,46.7976790056,21.3961045341,46.8228258496",
     "geom:latitude":46.811354,
     "geom:longitude":21.384348,
@@ -16,12 +16,6 @@
     "mps:longitude":21.386085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u5c14\u8003\u5fb7\u51ef\u8d56\u65af\u56fe\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Sarkadkereszt\u00far"
-    ],
     "name:eng_x_preferred":[
         "Sarkadkereszt\u00far"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Sarkadkereszt\u00far"
     ],
-    "name:fre_x_preferred":[
-        "Sarkadkereszt\u00far"
-    ],
     "name:hun_x_colloquial":[
         "Sarkadkeresztur"
     ],
@@ -41,9 +32,6 @@
         "Sarkadkereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "Sarkadkereszt\u00far"
-    ],
-    "name:may_x_preferred":[
         "Sarkadkereszt\u00far"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,10 @@
     "name:ron_x_preferred":[
         "Cr\u00e2stor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Sarkadkereszt\u00far"
     ],
     "name:slk_x_preferred":[
-        "Sarkadkereszt\u00far"
-    ],
-    "name:slo_x_preferred":[
         "Sarkadkereszt\u00far"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Sarkadkereszt\u00far"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u5c14\u8003\u5fb7\u51ef\u8d56\u65af\u56fe\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -122,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Sarkadkereszt\u00far",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

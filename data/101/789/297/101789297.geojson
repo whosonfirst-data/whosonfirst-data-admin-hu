@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
-    "name:dut_x_preferred":[
-        "J\u00e1nosh\u00e1za"
-    ],
     "name:eng_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
@@ -30,12 +27,6 @@
         "J\u00e1nosh\u00e1za"
     ],
     "name:fra_x_preferred":[
-        "J\u00e1nosh\u00e1za"
-    ],
-    "name:fre_x_preferred":[
-        "J\u00e1nosh\u00e1za"
-    ],
-    "name:ger_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
     "name:hbs_x_preferred":[
@@ -53,9 +44,6 @@
     "name:ita_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
-    "name:may_x_preferred":[
-        "J\u00e1nosh\u00e1za"
-    ],
     "name:msa_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
@@ -68,13 +56,7 @@
     "name:ron_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1nosh\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1nosh\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1nosh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751592,
     "wof:name":"J\u00e1nosh\u00e1za",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

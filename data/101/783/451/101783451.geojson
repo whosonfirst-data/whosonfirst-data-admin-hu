@@ -16,10 +16,7 @@
     "mps:longitude":20.424924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u7ef4\u4ec0\u7ebd"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Nagyvisny\u00f3"
     ],
     "name:eng_x_preferred":[
@@ -31,9 +28,6 @@
     "name:fra_x_preferred":[
         "Nagyvisny\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Nagyvisny\u00f3"
-    ],
     "name:hun_x_colloquial":[
         "Nagyvisnyo"
     ],
@@ -41,9 +35,6 @@
         "Nagyvisny\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Nagyvisny\u00f3"
-    ],
-    "name:may_x_preferred":[
         "Nagyvisny\u00f3"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyvisny\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Nagyvisny\u00f3"
-    ],
     "name:slk_x_preferred":[
-        "Nagyvisny\u00f3"
-    ],
-    "name:slo_x_preferred":[
         "Nagyvisny\u00f3"
     ],
     "name:slv_x_preferred":[
@@ -73,8 +58,8 @@
     "name:vie_x_preferred":[
         "Nagyvisny\u00f3"
     ],
-    "name:wel_x_preferred":[
-        "Nagyvisny\u00f3"
+    "name:zho_x_preferred":[
+        "\u5927\u7ef4\u4ec0\u7ebd"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -121,7 +106,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688502,
+    "wof:lastmodified":1561751565,
     "wof:name":"Nagyvisny\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

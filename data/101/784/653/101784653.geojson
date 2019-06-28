@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000665,
-    "geom:area_square_m":5524415.705419,
+    "geom:area_square_m":5524415.70542,
     "geom:bbox":"21.4801197533,47.8020044389,21.5194262127,47.8314687306",
     "geom:latitude":47.816594,
     "geom:longitude":21.498855,
@@ -17,13 +17,10 @@
     "mps:longitude":21.498557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c6a\u4f0a\u675c\u591a\u7f85\u683c"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Hajd\u00fadorog"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hajd\u00fadorog"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +30,6 @@
         "Hajd\u00fadorog"
     ],
     "name:fra_x_preferred":[
-        "Hajd\u00fadorog"
-    ],
-    "name:fre_x_preferred":[
-        "Hajd\u00fadorog"
-    ],
-    "name:ger_x_preferred":[
         "Hajd\u00fadorog"
     ],
     "name:heb_x_preferred":[
@@ -51,9 +42,6 @@
         "Hajd\u00fadorog"
     ],
     "name:ita_x_preferred":[
-        "Hajd\u00fadorog"
-    ],
-    "name:may_x_preferred":[
         "Hajd\u00fadorog"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +59,13 @@
     "name:ron_x_preferred":[
         "Hajd\u00fadorog"
     ],
-    "name:rum_x_preferred":[
-        "Hajd\u00fadorog"
-    ],
     "name:rup_x_preferred":[
         "Hajd\u00fadorog"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0439\u0434\u0443\u0434\u043e\u0440\u043e\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hajd\u00fadorog"
     ],
     "name:slv_x_preferred":[
@@ -95,8 +80,8 @@
     "name:vie_x_preferred":[
         "Hajd\u00fadorog"
     ],
-    "name:wel_x_preferred":[
-        "Hajd\u00fadorog"
+    "name:zho_x_preferred":[
+        "\u8c6a\u4f0a\u675c\u591a\u7f85\u683c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -148,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561751569,
     "wof:name":"Hajd\u00fadorog",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

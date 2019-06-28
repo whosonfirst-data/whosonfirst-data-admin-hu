@@ -18,10 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u745f\u683c\u5229\u76d6\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sz\u00f6gliget"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +27,7 @@
     "name:epo_x_preferred":[
         "Sz\u00f6gliget"
     ],
-    "name:fre_x_preferred":[
-        "Sz\u00f6gliget"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sz\u00f6gliget"
     ],
     "name:hun_x_preferred":[
@@ -42,19 +36,22 @@
     "name:ita_x_preferred":[
         "Sz\u00f6gliget"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sz\u00f6gliget"
     ],
     "name:nan_x_preferred":[
         "Sz\u00f6gliget"
     ],
+    "name:nld_x_preferred":[
+        "Sz\u00f6gliget"
+    ],
     "name:pol_x_preferred":[
         "Sz\u00f6gliget"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sz\u00f6gliget"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sz\u00f6gliget"
     ],
     "name:slv_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "Sz\u00f6gliget"
+    ],
+    "name:zho_x_preferred":[
+        "\u745f\u683c\u5229\u76d6\u7279"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125998947,
-    "wof:lastmodified":1514448359,
+    "wof:lastmodified":1561751601,
     "wof:name":"Sz\u00f6gliget",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

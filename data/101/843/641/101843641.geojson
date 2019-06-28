@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
-    "geom:area_square_m":1336230.719482,
+    "geom:area_square_m":1336230.719481,
     "geom:bbox":"21.9893974332,47.820893902,22.0106186451,47.8451288038",
     "geom:latitude":47.831763,
     "geom:longitude":22.002213,
@@ -17,10 +17,7 @@
     "mps:longitude":22.005589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c0f\u83b1\u9676"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kisl\u00e9ta"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Kisl\u00e9ta"
     ],
-    "name:fre_x_preferred":[
-        "Kisl\u00e9ta"
-    ],
-    "name:ger_x_preferred":[
-        "Kisl\u00e9ta"
-    ],
     "name:hun_x_colloquial":[
         "Kisleta"
     ],
@@ -45,9 +36,6 @@
         "Kisl\u00e9ta"
     ],
     "name:ita_x_preferred":[
-        "Kisl\u00e9ta"
-    ],
-    "name:may_x_preferred":[
         "Kisl\u00e9ta"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Kisl\u00e9ta"
     ],
-    "name:rum_x_preferred":[
-        "Kisl\u00e9ta"
-    ],
     "name:slk_x_preferred":[
-        "Kisl\u00e9ta"
-    ],
-    "name:slo_x_preferred":[
         "Kisl\u00e9ta"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Kisl\u00e9ta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u83b1\u9676"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642598,
+    "wof:lastmodified":1561751545,
     "wof:name":"Kisl\u00e9ta",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

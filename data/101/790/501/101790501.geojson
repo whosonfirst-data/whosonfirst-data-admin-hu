@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001843,
-    "geom:area_square_m":15781538.825682,
+    "geom:area_square_m":15781538.825686,
     "geom:bbox":"18.9209945222,46.1537558496,18.991546092,46.2154710996",
     "geom:latitude":46.182313,
     "geom:longitude":18.954061,
@@ -17,19 +17,10 @@
     "mps:longitude":18.953527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0575\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u044f"
     ],
     "name:ces_x_preferred":[
-        "Baja"
-    ],
-    "name:chi_x_preferred":[
-        "\u5305\u59da"
-    ],
-    "name:cze_x_preferred":[
         "Baja"
     ],
     "name:dan_x_preferred":[
@@ -39,9 +30,6 @@
         "Baja"
     ],
     "name:dsb_x_preferred":[
-        "Baja"
-    ],
-    "name:dut_x_preferred":[
         "Baja"
     ],
     "name:eng_x_preferred":[
@@ -65,15 +53,6 @@
     "name:fra_x_preferred":[
         "Baja"
     ],
-    "name:fre_x_preferred":[
-        "Baja"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Baja"
-    ],
     "name:hbs_x_preferred":[
         "Baja"
     ],
@@ -85,6 +64,9 @@
     ],
     "name:hun_x_preferred":[
         "Baja"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u0561"
     ],
     "name:ita_x_preferred":[
         "Baja"
@@ -102,9 +84,6 @@
         "\ubc84\uc5ec"
     ],
     "name:lit_x_preferred":[
-        "Baja"
-    ],
-    "name:may_x_preferred":[
         "Baja"
     ],
     "name:msa_x_preferred":[
@@ -128,9 +107,6 @@
     "name:ota_x_preferred":[
         "\u0628\u0627\u06cc\u0647"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Baja"
     ],
@@ -143,9 +119,6 @@
     "name:ron_x_preferred":[
         "Baja"
     ],
-    "name:rum_x_preferred":[
-        "Baja"
-    ],
     "name:rup_x_preferred":[
         "Baja"
     ],
@@ -156,9 +129,6 @@
         "Baja"
     ],
     "name:slk_x_preferred":[
-        "Baja"
-    ],
-    "name:slo_x_preferred":[
         "Baja"
     ],
     "name:slv_x_preferred":[
@@ -250,7 +220,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561751536,
     "wof:name":"Baja",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

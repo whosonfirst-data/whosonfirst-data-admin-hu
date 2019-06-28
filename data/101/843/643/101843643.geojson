@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":947372.185056,
+    "geom:area_square_m":947372.185055,
     "geom:bbox":"22.1299313813,47.6283334361,22.1604015314,47.6414701511",
     "geom:latitude":47.636027,
     "geom:longitude":22.146877,
@@ -16,10 +16,7 @@
     "mps:longitude":22.148377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d3e\u5185\u65af\u83b1\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pen\u00e9szlek"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Pen\u00e9szlek"
     ],
-    "name:fre_x_preferred":[
-        "Pen\u00e9szlek"
-    ],
-    "name:ger_x_preferred":[
-        "Pen\u00e9szlek"
-    ],
     "name:hun_x_colloquial":[
         "Peneszlek"
     ],
@@ -44,9 +35,6 @@
         "Pen\u00e9szlek"
     ],
     "name:ita_x_preferred":[
-        "Pen\u00e9szlek"
-    ],
-    "name:may_x_preferred":[
         "Pen\u00e9szlek"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Pen\u00e9szlek"
     ],
-    "name:rum_x_preferred":[
-        "Pen\u00e9szlek"
-    ],
     "name:slk_x_preferred":[
-        "Pen\u00e9szlek"
-    ],
-    "name:slo_x_preferred":[
         "Pen\u00e9szlek"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Pen\u00e9szlek"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u5185\u65af\u83b1\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642590,
+    "wof:lastmodified":1561751544,
     "wof:name":"Pen\u00e9szlek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

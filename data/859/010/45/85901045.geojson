@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001617,
-    "geom:area_square_m":13494482.573024,
+    "geom:area_square_m":13494482.573021,
     "geom:bbox":"19.0491252305,47.5198000959,19.1187144595,47.557993859",
     "geom:latitude":47.539241,
     "geom:longitude":19.081829,
@@ -26,12 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e09\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "13th district of Budapest"
-    ],
     "name:eng_x_preferred":[
         "Angyalf\u00f6ld"
     ],
@@ -41,7 +35,7 @@
     "name:fra_x_preferred":[
         "Angyalf\u00f6ld"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "13e arrondissement de Budapest"
     ],
     "name:hun_x_colloquial":[
@@ -54,13 +48,16 @@
     "name:nld_x_preferred":[
         "Angyalf\u00f6ld"
     ],
+    "name:nld_x_variant":[
+        "13th district of Budapest"
+    ],
     "name:pol_x_preferred":[
         "\u00dajlip\u00f3tv\u00e1ros-Angyalf\u00f6ld"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sectorul al XIII-lea din Budapesta"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "XIII. obvod"
     ],
     "name:spa_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XIII"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e09\u533a"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -114,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1561751511,
     "wof:name":"Angyalfold",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

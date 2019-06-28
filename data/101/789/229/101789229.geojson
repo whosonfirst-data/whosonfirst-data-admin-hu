@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u9676\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Tass"
-    ],
     "name:eng_x_preferred":[
         "Tass"
     ],
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "Tass"
     ],
-    "name:fre_x_preferred":[
-        "Tass"
-    ],
     "name:hrv_x_preferred":[
         "Tass"
     ],
@@ -45,9 +36,6 @@
         "Tass"
     ],
     "name:ita_x_preferred":[
-        "Tass"
-    ],
-    "name:may_x_preferred":[
         "Tass"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Tass"
     ],
-    "name:rum_x_preferred":[
-        "Tass"
-    ],
     "name:slk_x_preferred":[
-        "Tass"
-    ],
-    "name:slo_x_preferred":[
         "Tass"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1561751587,
     "wof:name":"Tass",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

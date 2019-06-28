@@ -16,13 +16,7 @@
     "mps:longitude":19.301497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9676\u9676\u54c8\u4f50"
-    ],
-    "name:cze_x_preferred":[
-        "Tatah\u00e1za"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Tatah\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -32,9 +26,6 @@
         "Tatah\u00e1za"
     ],
     "name:fra_x_preferred":[
-        "Tatah\u00e1za"
-    ],
-    "name:fre_x_preferred":[
         "Tatah\u00e1za"
     ],
     "name:hrv_x_preferred":[
@@ -47,9 +38,6 @@
         "Tatah\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Tatah\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "Tatah\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Tatah\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Tatah\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "Tatah\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "Tatah\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Tatah\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u9676\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -132,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561751533,
     "wof:name":"Tatah\u00e1za",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

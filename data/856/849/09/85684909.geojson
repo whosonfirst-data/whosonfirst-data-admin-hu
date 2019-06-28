@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0641\u0634"
     ],
-    "name:baq_x_preferred":[
-        "Heves"
-    ],
     "name:bel_x_preferred":[
         "\u0425\u0435\u0432\u0435\u0448"
     ],
@@ -42,17 +39,17 @@
     "name:cat_x_preferred":[
         "Heves"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u7dad\u4ec0\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Heves"
     ],
     "name:dan_x_preferred":[
         "Heves"
     ],
-    "name:dut_x_preferred":[
-        "Heves"
+    "name:deu_x_preferred":[
+        "Komitat Heves"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03b2\u03c2\u03c2"
     ],
     "name:eng_x_preferred":[
         "Heves"
@@ -63,23 +60,20 @@
     "name:est_x_preferred":[
         "Hevesi komitaat"
     ],
+    "name:eus_x_preferred":[
+        "Heves"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0648\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Heves"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heves"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d4\u10d5\u10d4\u10e8\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Komitat Heves"
     ],
     "name:glg_x_preferred":[
         "Condado de Heves"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ad\u03b2\u03c2\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Heves"
@@ -111,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cc6\u0cb5\u0cc6\u0cb8\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10d5\u10d4\u10e8\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud5e4\ubca0\uc2dc \uc8fc"
     ],
@@ -120,23 +117,23 @@
     "name:lit_x_preferred":[
         "Heve\u0161as"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0435\u0432\u0435\u0448"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0947\u0935\u094d\u0939\u0938 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0425\u0435\u0432\u0435\u0448"
+    ],
+    "name:msa_x_preferred":[
         "Heves"
     ],
     "name:nan_x_preferred":[
         "Heves"
     ],
+    "name:nld_x_preferred":[
+        "Heves"
+    ],
     "name:nob_x_preferred":[
         "Heves Fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0648\u06cc\u0633"
     ],
     "name:pol_x_preferred":[
         "Komitat Heves"
@@ -147,7 +144,7 @@
     "name:que_x_preferred":[
         "Heves suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul Heves"
     ],
     "name:rus_x_preferred":[
@@ -159,7 +156,7 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0dd9\u0dc0\u0dd9\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Heve\u0161sk\u00e1 \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -209,6 +206,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Heves"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u7dad\u4ec0\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HUN",
@@ -332,7 +332,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1553550759,
+    "wof:lastmodified":1561751514,
     "wof:name":"Heves",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

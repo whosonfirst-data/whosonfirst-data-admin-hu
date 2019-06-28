@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
-    "geom:area_square_m":2203673.162243,
+    "geom:area_square_m":2203673.162244,
     "geom:bbox":"21.1184723711,48.0773336681,21.1450133421,48.098165504",
     "geom:latitude":48.088168,
     "geom:longitude":21.129789,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Taktahark\u00e1ny"
     ],
-    "name:dut_x_preferred":[
-        "Taktahark\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "Taktahark\u00e1ny"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Taktahark\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Taktahark\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "Taktahark\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Taktaharkany"
     ],
@@ -45,9 +36,6 @@
         "Taktahark\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Taktahark\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Taktahark\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Taktahark\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Taktahark\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Taktahark\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Taktahark\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688497,
+    "wof:lastmodified":1561751563,
     "wof:name":"Taktahark\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

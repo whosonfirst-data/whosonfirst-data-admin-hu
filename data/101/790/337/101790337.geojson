@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1675851.396799,
+    "geom:area_square_m":1675851.3968,
     "geom:bbox":"17.3354801799,46.3357497056,17.3602897587,46.3574153381",
     "geom:latitude":46.348272,
     "geom:longitude":17.347126,
@@ -17,16 +17,10 @@
     "mps:longitude":17.345247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0563\u0565\u057d\u0564"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0433\u0435\u0441\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u8c22\u76d6\u4ec0\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Segesd"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Segesd"
     ],
     "name:fra_x_preferred":[
-        "Segesd"
-    ],
-    "name:fre_x_preferred":[
-        "Segesd"
-    ],
-    "name:ger_x_preferred":[
         "Segesd"
     ],
     "name:hun_x_colloquial":[
@@ -61,9 +49,6 @@
     "name:ita_x_preferred":[
         "Segesd"
     ],
-    "name:may_x_preferred":[
-        "Segesd"
-    ],
     "name:msa_x_preferred":[
         "Segesd"
     ],
@@ -76,13 +61,7 @@
     "name:ron_x_preferred":[
         "Segesd"
     ],
-    "name:rum_x_preferred":[
-        "Segesd"
-    ],
     "name:slk_x_preferred":[
-        "Segesd"
-    ],
-    "name:slo_x_preferred":[
         "Segesd"
     ],
     "name:slv_x_preferred":[
@@ -153,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561751532,
     "wof:name":"Segesd",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

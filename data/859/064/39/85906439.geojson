@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001531,
-    "geom:area_square_m":12802551.680206,
+    "geom:area_square_m":12802551.68021,
     "geom:bbox":"19.2176006317,47.4385224052,19.2772729492,47.4748842268",
     "geom:latitude":47.458617,
     "geom:longitude":19.248369,
@@ -29,17 +29,8 @@
     "name:ces_x_preferred":[
         "R\u00e1kosmente"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e03\u533a"
-    ],
-    "name:cze_x_preferred":[
-        "R\u00e1kosmente"
-    ],
     "name:deu_x_preferred":[
         "R\u00e1kosmente"
-    ],
-    "name:dut_x_preferred":[
-        "Budapest XVII. ker\u00fclete"
     ],
     "name:eng_x_preferred":[
         "Budapest XVII. ker\u00fclete"
@@ -53,12 +44,6 @@
     "name:fra_x_preferred":[
         "17e arrondissement de Budapest"
     ],
-    "name:fre_x_preferred":[
-        "17e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00e1kosmente"
-    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d0\u05e7\u05d5\u05e9\u05de\u05e0\u05d8\u05d4"
     ],
@@ -71,19 +56,16 @@
     "name:ita_x_preferred":[
         "R\u00e1kosmente"
     ],
+    "name:nld_x_preferred":[
+        "Budapest XVII. ker\u00fclete"
+    ],
     "name:pol_x_preferred":[
         "R\u00e1kosmente"
     ],
     "name:ron_x_preferred":[
         "R\u00e1kosmente"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e1kosmente"
-    ],
     "name:slk_x_preferred":[
-        "XVII. obvod"
-    ],
-    "name:slo_x_preferred":[
         "XVII. obvod"
     ],
     "name:srp_x_preferred":[
@@ -91,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XVII"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e03\u533a"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553814914,
+    "wof:lastmodified":1561751511,
     "wof:name":"Rakoshegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

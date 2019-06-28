@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1067298.720202,
+    "geom:area_square_m":1067298.720203,
     "geom:bbox":"18.187279424,46.5836460067,18.2097993305,46.6022257085",
     "geom:latitude":46.592342,
     "geom:longitude":18.200072,
@@ -16,10 +16,7 @@
     "mps:longitude":18.199304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u79d1\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
-    "name:fre_x_preferred":[
-        "Nagyk\u00f3nyi"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyk\u00f3nyi"
-    ],
     "name:hun_x_colloquial":[
         "Nagykonyi"
     ],
@@ -44,9 +35,6 @@
         "Nagyk\u00f3nyi"
     ],
     "name:ita_x_preferred":[
-        "Nagyk\u00f3nyi"
-    ],
-    "name:may_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
-    "name:rum_x_preferred":[
-        "Nagyk\u00f3nyi"
-    ],
     "name:slk_x_preferred":[
-        "Nagyk\u00f3nyi"
-    ],
-    "name:slo_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyk\u00f3nyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u79d1\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -121,7 +106,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641596,
+    "wof:lastmodified":1561751533,
     "wof:name":"Nagyk\u00f3nyi",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

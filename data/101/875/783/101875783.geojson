@@ -19,13 +19,7 @@
     "name:bar_x_preferred":[
         "Legyesb\u00e9nye"
     ],
-    "name:chi_x_preferred":[
-        "\u83b1\u6770\u4ec0\u8d1d\u6d85"
-    ],
     "name:deu_x_preferred":[
-        "Legyesb\u00e9nye"
-    ],
-    "name:dut_x_preferred":[
         "Legyesb\u00e9nye"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +31,6 @@
     "name:fra_x_preferred":[
         "Legyesb\u00e9nye"
     ],
-    "name:fre_x_preferred":[
-        "Legyesb\u00e9nye"
-    ],
-    "name:ger_x_preferred":[
-        "Legyesb\u00e9nye"
-    ],
     "name:hun_x_colloquial":[
         "Legyesbenye"
     ],
@@ -50,9 +38,6 @@
         "Legyesb\u00e9nye"
     ],
     "name:ita_x_preferred":[
-        "Legyesb\u00e9nye"
-    ],
-    "name:may_x_preferred":[
         "Legyesb\u00e9nye"
     ],
     "name:msa_x_preferred":[
@@ -70,13 +55,7 @@
     "name:ron_x_preferred":[
         "Legyesb\u00e9nye"
     ],
-    "name:rum_x_preferred":[
-        "Legyesb\u00e9nye"
-    ],
     "name:slk_x_preferred":[
-        "Legyesb\u00e9nye"
-    ],
-    "name:slo_x_preferred":[
         "Legyesb\u00e9nye"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Legyesb\u00e9nye"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u6770\u4ec0\u8d1d\u6d85"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1544751944,
+    "wof:lastmodified":1561751543,
     "wof:name":"Legyesb\u00e9nye",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1017480.5392,
+    "geom:area_square_m":1017480.539202,
     "geom:bbox":"18.4437990105,46.3231164029,18.4635985325,46.339848318",
     "geom:latitude":46.331409,
     "geom:longitude":18.451434,
@@ -16,10 +16,7 @@
     "mps:longitude":18.449109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5965\u4fdd\u5c14\u6d2a\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aparhant"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Aparhant"
     ],
-    "name:fre_x_preferred":[
-        "Aparhant"
-    ],
-    "name:ger_x_preferred":[
-        "Aparhant"
-    ],
     "name:hun_x_preferred":[
         "Aparhant"
     ],
     "name:ita_x_preferred":[
-        "Aparhant"
-    ],
-    "name:may_x_preferred":[
         "Aparhant"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Aparhant"
     ],
-    "name:rum_x_preferred":[
-        "Aparhant"
-    ],
     "name:slk_x_preferred":[
-        "Aparhant"
-    ],
-    "name:slo_x_preferred":[
         "Aparhant"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641601,
+    "wof:lastmodified":1561751537,
     "wof:name":"Aparhant",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5c14\u57fa"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Telki"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Telki"
     ],
-    "name:fre_x_preferred":[
-        "Telki"
-    ],
-    "name:ger_x_preferred":[
-        "Telki"
-    ],
     "name:hun_x_preferred":[
         "Telki"
     ],
     "name:ita_x_preferred":[
-        "Telki"
-    ],
-    "name:may_x_preferred":[
         "Telki"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Telki"
     ],
-    "name:rum_x_preferred":[
-        "Telki"
-    ],
     "name:slk_x_preferred":[
-        "Telki"
-    ],
-    "name:slo_x_preferred":[
         "Telki"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642921,
+    "wof:lastmodified":1561751550,
     "wof:name":"Telki",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

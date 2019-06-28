@@ -20,13 +20,10 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0628\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u4fdd"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tompa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tompa"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +33,6 @@
         "Tompa"
     ],
     "name:fra_x_preferred":[
-        "Tompa"
-    ],
-    "name:fre_x_preferred":[
-        "Tompa"
-    ],
-    "name:ger_x_preferred":[
         "Tompa"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Tompa"
     ],
     "name:ita_x_preferred":[
-        "Tompa"
-    ],
-    "name:may_x_preferred":[
         "Tompa"
     ],
     "name:msa_x_preferred":[
@@ -74,16 +62,10 @@
     "name:ron_x_preferred":[
         "Tompa"
     ],
-    "name:rum_x_preferred":[
-        "Tompa"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043c\u043f\u0430"
     ],
     "name:slk_x_preferred":[
-        "Tompa"
-    ],
-    "name:slo_x_preferred":[
         "Tompa"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1535390414,
+    "wof:lastmodified":1561751536,
     "wof:name":"Tompa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

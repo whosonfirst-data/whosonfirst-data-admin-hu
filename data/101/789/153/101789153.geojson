@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2004873.276666,
+    "geom:area_square_m":2004873.276668,
     "geom:bbox":"18.1675758693,46.6849858139,18.1938503902,46.7093246317",
     "geom:latitude":46.694618,
     "geom:longitude":18.18152,
@@ -17,10 +17,7 @@
     "mps:longitude":18.184804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u8d56\u683c\u585e\u59c6\u5207"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Iregszemcse"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Iregszemcse"
     ],
-    "name:fre_x_preferred":[
-        "Iregszemcse"
-    ],
-    "name:ger_x_preferred":[
-        "Iregszemcse"
-    ],
     "name:hun_x_preferred":[
         "Iregszemcse"
     ],
     "name:ita_x_preferred":[
-        "Iregszemcse"
-    ],
-    "name:may_x_preferred":[
         "Iregszemcse"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Iregszemcse"
     ],
-    "name:rum_x_preferred":[
-        "Iregszemcse"
-    ],
     "name:slk_x_preferred":[
-        "Iregszemcse"
-    ],
-    "name:slo_x_preferred":[
         "Iregszemcse"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"Iregszemcse",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -17,10 +17,7 @@
     "mps:longitude":18.715501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u5c14\u8bfa\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Csolnok"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Csolnok"
     ],
-    "name:fre_x_preferred":[
-        "Csolnok"
-    ],
-    "name:ger_x_preferred":[
-        "Csolnok"
-    ],
     "name:hun_x_preferred":[
         "Csolnok"
     ],
     "name:ita_x_preferred":[
-        "Csolnok"
-    ],
-    "name:may_x_preferred":[
         "Csolnok"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Csolnok"
     ],
-    "name:rum_x_preferred":[
-        "Csolnok"
-    ],
     "name:slk_x_preferred":[
-        "Csolnok"
-    ],
-    "name:slo_x_preferred":[
         "Csolnok"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1561751555,
     "wof:name":"Csolnok",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

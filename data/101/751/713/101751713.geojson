@@ -23,12 +23,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0628\u0631\u0648\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0578\u057a\u0580\u0578\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Sopron"
-    ],
     "name:bar_x_preferred":[
         "\u00d6denburg"
     ],
@@ -50,12 +44,6 @@
     "name:ces_x_preferred":[
         "Sopron"
     ],
-    "name:chi_x_preferred":[
-        "\u8096\u666e\u6717"
-    ],
-    "name:cze_x_preferred":[
-        "Sopron"
-    ],
     "name:dan_x_preferred":[
         "Sopron"
     ],
@@ -66,9 +54,6 @@
         "\u00d6denburg"
     ],
     "name:dsb_x_preferred":[
-        "Sopron"
-    ],
-    "name:dut_x_preferred":[
         "Sopron"
     ],
     "name:ell_x_preferred":[
@@ -100,20 +85,8 @@
     "name:fra_x_preferred":[
         "Sopron"
     ],
-    "name:fre_x_preferred":[
-        "Sopron"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10dd\u10de\u10e0\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sopron"
-    ],
     "name:glg_x_preferred":[
         "Sopron"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03c0\u03c1\u03bf\u03bd"
     ],
     "name:hbs_x_preferred":[
         "Sopron"
@@ -136,6 +109,9 @@
     ],
     "name:hun_x_variant":[
         "\u00d6denburg"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0578\u057a\u0580\u0578\u0576"
     ],
     "name:ile_x_preferred":[
         "Sopron"
@@ -167,12 +143,6 @@
     "name:lmo_x_preferred":[
         "Sopron"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u043e\u043f\u0440\u043e\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Sopron"
-    ],
     "name:mkd_x_preferred":[
         "\u0428\u043e\u043f\u0440\u043e\u043d"
     ],
@@ -194,9 +164,6 @@
     "name:nor_x_preferred":[
         "Sopron"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u067e\u0631\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u067e\u0631\u0648\u0646"
     ],
@@ -212,9 +179,6 @@
     "name:ron_x_preferred":[
         "Sopron"
     ],
-    "name:rum_x_preferred":[
-        "Sopron"
-    ],
     "name:rup_x_preferred":[
         "Sopron"
     ],
@@ -225,9 +189,6 @@
         "Sopron"
     ],
     "name:slk_x_preferred":[
-        "\u0160opron"
-    ],
-    "name:slo_x_preferred":[
         "\u0160opron"
     ],
     "name:slv_x_preferred":[
@@ -341,7 +302,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536613853,
+    "wof:lastmodified":1561751570,
     "wof:name":"Sopron",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

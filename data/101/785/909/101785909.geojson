@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":5065851.944126,
+    "geom:area_square_m":5065851.944127,
     "geom:bbox":"20.9537540756,47.6808056,21.0233493642,47.7127942462",
     "geom:latitude":47.698455,
     "geom:longitude":20.991116,
@@ -17,13 +17,7 @@
     "mps:longitude":20.991643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u85a9\u5207\u84cb"
-    ],
     "name:deu_x_preferred":[
-        "Tiszacsege"
-    ],
-    "name:dut_x_preferred":[
         "Tiszacsege"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Tiszacsege"
     ],
-    "name:fre_x_preferred":[
-        "Tiszacsege"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszacsege"
-    ],
     "name:hbs_x_preferred":[
         "Tiszacsege"
     ],
@@ -48,9 +36,6 @@
         "Tiszacsege"
     ],
     "name:ita_x_preferred":[
-        "Tiszacsege"
-    ],
-    "name:may_x_preferred":[
         "Tiszacsege"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Tiszacsege"
     ],
-    "name:rum_x_preferred":[
-        "Tiszacsege"
-    ],
     "name:slk_x_preferred":[
-        "Tiszacsege"
-    ],
-    "name:slo_x_preferred":[
         "Tiszacsege"
     ],
     "name:swe_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677691,
+    "wof:lastmodified":1561751554,
     "wof:name":"Tiszacsege",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

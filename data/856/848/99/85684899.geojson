@@ -30,12 +30,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0634\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u0577\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Pest konderria"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0448\u0442"
     ],
@@ -48,20 +42,14 @@
     "name:ces_x_preferred":[
         "Pest"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u65af\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Pest"
-    ],
     "name:dan_x_preferred":[
         "Pest"
     ],
     "name:deu_x_preferred":[
         "Pest"
     ],
-    "name:dut_x_preferred":[
-        "Pest"
+    "name:deu_x_variant":[
+        "Komitat Pest"
     ],
     "name:eng_x_preferred":[
         "Pest"
@@ -72,20 +60,17 @@
     "name:est_x_preferred":[
         "Pesti komitaat"
     ],
+    "name:eus_x_preferred":[
+        "Pest konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u062a \u06a9\u0627\u0646\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pest"
     ],
     "name:fra_x_preferred":[
         "Pest"
-    ],
-    "name:fre_x_preferred":[
-        "Pest"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e8\u10e2\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Komitat Pest"
     ],
     "name:glg_x_preferred":[
         "Pest"
@@ -102,6 +87,9 @@
     "name:hun_x_preferred":[
         "Pest"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0577\u057f"
+    ],
     "name:ind_x_preferred":[
         "Pest"
     ],
@@ -110,6 +98,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30b7\u30e5\u30c8\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e8\u10e2\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ud398\uc2a4\ud2b8"
@@ -123,10 +114,10 @@
     "name:lit_x_preferred":[
         "Pe\u0161tas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041f\u0435\u0448\u0442\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pest"
     ],
     "name:nan_x_preferred":[
@@ -144,9 +135,6 @@
     "name:oci_x_preferred":[
         "Comtat de Pest"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0633\u062a \u06a9\u0627\u0646\u062a\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0633\u062a \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -162,7 +150,7 @@
     "name:ron_x_preferred":[
         "Pesta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Jude\u021bul Pest"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +159,7 @@
     "name:sco_x_preferred":[
         "Pest Coonty"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pe\u0161tianska \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -212,6 +200,9 @@
     ],
     "name:zea_x_preferred":[
         "Pest"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u65af\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HUN",
@@ -334,7 +325,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1553550759,
+    "wof:lastmodified":1561751512,
     "wof:name":"Pest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

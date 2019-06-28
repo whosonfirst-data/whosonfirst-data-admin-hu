@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "\u00c1cs"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5947"
-    ],
-    "name:cze_x_preferred":[
-        "\u00c1cs"
-    ],
     "name:deu_x_preferred":[
-        "\u00c1cs"
-    ],
-    "name:dut_x_preferred":[
         "\u00c1cs"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +32,6 @@
     "name:fra_x_preferred":[
         "\u00c1cs"
     ],
-    "name:fre_x_preferred":[
-        "\u00c1cs"
-    ],
-    "name:ger_x_preferred":[
-        "\u00c1cs"
-    ],
     "name:hun_x_colloquial":[
         "Acs"
     ],
@@ -54,9 +39,6 @@
         "\u00c1cs"
     ],
     "name:ita_x_preferred":[
-        "\u00c1cs"
-    ],
-    "name:may_x_preferred":[
         "\u00c1cs"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +53,13 @@
     "name:ron_x_preferred":[
         "\u00c1cs"
     ],
-    "name:rum_x_preferred":[
-        "\u00c1cs"
-    ],
     "name:rup_x_preferred":[
         "\u00c1cs"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00c1cs"
     ],
     "name:slv_x_preferred":[
@@ -97,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00c1cs"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5947"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -149,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677691,
+    "wof:lastmodified":1561751554,
     "wof:name":"\u00c1cs",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

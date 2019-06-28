@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":3871044.300797,
+    "geom:area_square_m":3871044.300796,
     "geom:bbox":"19.0832519531,47.4241418231,19.1179711914,47.4466646947",
     "geom:latitude":47.436935,
     "geom:longitude":19.099803,
@@ -26,13 +26,7 @@
     "mz:note":"old district name before 2012",
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e8c\u5341\u533a"
-    ],
     "name:deu_x_preferred":[
-        "Pesterzs\u00e9bet"
-    ],
-    "name:dut_x_preferred":[
         "Pesterzs\u00e9bet"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "20e arrondissement de Budapest"
-    ],
-    "name:fre_x_preferred":[
-        "20e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Pesterzs\u00e9bet"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e9\u05d8\u05d0\u05e8\u05d6'\u05d1\u05d8"
@@ -62,19 +50,16 @@
     "name:hun_x_variant":[
         "Budapest XX. ker\u00fclete"
     ],
+    "name:nld_x_preferred":[
+        "Pesterzs\u00e9bet"
+    ],
     "name:pol_x_preferred":[
         "Pesterzs\u00e9bet"
     ],
     "name:ron_x_preferred":[
         "Pesterzs\u00e9bet"
     ],
-    "name:rum_x_preferred":[
-        "Pesterzs\u00e9bet"
-    ],
     "name:slk_x_preferred":[
-        "XX. obvod"
-    ],
-    "name:slo_x_preferred":[
         "XX. obvod"
     ],
     "name:srp_x_preferred":[
@@ -147,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1561751510,
     "wof:name":"Pestszenterzs\u00e9bet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

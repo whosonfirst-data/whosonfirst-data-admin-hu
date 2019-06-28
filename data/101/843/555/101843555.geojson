@@ -17,13 +17,7 @@
     "mps:longitude":20.413295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e0a\u5854\u5c14\u5361\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Fels\u0151t\u00e1rk\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +29,10 @@
     "name:fra_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Fels\u0151t\u00e1rk\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "Fels\u0151t\u00e1rk\u00e1ny"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Fels\u0151t\u00e1rk\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +47,7 @@
     "name:ron_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Fels\u0151t\u00e1rk\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Fels\u0151t\u00e1rk\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5854\u5c14\u5361\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -125,7 +107,7 @@
         }
     ],
     "wof:id":101843555,
-    "wof:lastmodified":1527642596,
+    "wof:lastmodified":1561751545,
     "wof:name":"Fels\u0151t\u00e1rk\u00e1ny",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

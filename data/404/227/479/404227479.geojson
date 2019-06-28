@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.320225,
-    "geom:area_square_m":11086115588.434288,
+    "geom:area_square_m":11086115588.434189,
     "geom:bbox":"17.0729825,46.6872175,18.9674785,47.823101",
     "geom:latitude":47.226501,
     "geom:longitude":18.132389,
@@ -15,20 +15,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0627\u0646\u0633\u062f\u0627\u0646\u0648\u0628\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
-    "name:baq_x_preferred":[
-        "Erdialdeko Transdanubia"
-    ],
     "name:bel_x_preferred":[
         "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430-\u0417\u0430\u0434\u0443\u043d\u0430\u0439\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
     "name:bul_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u043e \u0417\u0430\u0434\u0434\u0443\u043d\u0430\u0432\u0438\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u6cb3\u4e2d\u90e8"
-    ],
-    "name:dut_x_preferred":[
-        "Central Transdanubia"
+    "name:deu_x_preferred":[
+        "Mitteltransdanubien"
     ],
     "name:eng_x_preferred":[
         "Central Transdanubia"
@@ -39,11 +33,14 @@
     "name:est_x_preferred":[
         "Kesk-Dun\u00e1nt\u00fal"
     ],
-    "name:fre_x_preferred":[
-        "Transdanubie centrale"
+    "name:eus_x_preferred":[
+        "Erdialdeko Transdanubia"
     ],
-    "name:ger_x_preferred":[
-        "Mitteltransdanubien"
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0627\u0646\u0633\u062f\u0627\u0646\u0648\u0628\u06cc\u0627 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Transdanubie centrale"
     ],
     "name:glg_x_preferred":[
         "Transdanubia central"
@@ -60,16 +57,16 @@
     "name:ita_x_preferred":[
         "Transdanubio Centrale"
     ],
+    "name:nld_x_preferred":[
+        "Central Transdanubia"
+    ],
     "name:nno_x_preferred":[
         "Sentral-Transdanubia"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0627\u0646\u0633\u062f\u0627\u0646\u0648\u0628\u06cc\u0627 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:que_x_preferred":[
         "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Transdanubia Central\u0103"
     ],
     "name:rus_x_preferred":[
@@ -95,6 +92,9 @@
     ],
     "name:und_x_variant":[
         "Kozep-Dunantul"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7459\u6cb3\u4e2d\u90e8"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a0_lc":"HU00000000000",
@@ -131,7 +131,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1529539717,
+    "wof:lastmodified":1561751595,
     "wof:name":"Central Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

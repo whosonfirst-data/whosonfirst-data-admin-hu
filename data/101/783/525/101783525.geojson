@@ -17,10 +17,7 @@
     "mps:longitude":21.553893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u5207\u5c14\u51ef\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagycserkesz"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Nagycserkesz"
     ],
-    "name:fre_x_preferred":[
-        "Nagycserkesz"
-    ],
-    "name:ger_x_preferred":[
-        "Nagycserkesz"
-    ],
     "name:hun_x_preferred":[
         "Nagycserkesz"
     ],
     "name:ita_x_preferred":[
-        "Nagycserkesz"
-    ],
-    "name:may_x_preferred":[
         "Nagycserkesz"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Nagycserkesz"
     ],
-    "name:rum_x_preferred":[
-        "Nagycserkesz"
-    ],
     "name:slk_x_preferred":[
-        "\u010cerkes"
-    ],
-    "name:slo_x_preferred":[
         "\u010cerkes"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688504,
+    "wof:lastmodified":1561751565,
     "wof:name":"Nagycserkesz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

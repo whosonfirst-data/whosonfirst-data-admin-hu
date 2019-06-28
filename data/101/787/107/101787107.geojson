@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1795090.648029,
+    "geom:area_square_m":1795090.648028,
     "geom:bbox":"21.9761157966,47.4400161368,22.0031033867,47.4593749324",
     "geom:latitude":47.449213,
     "geom:longitude":21.990006,
@@ -17,9 +17,6 @@
     "mps:longitude":21.992441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bagam\u00e9r"
-    ],
     "name:eng_x_preferred":[
         "Bagam\u00e9r"
     ],
@@ -29,9 +26,6 @@
     "name:fra_x_preferred":[
         "Bagam\u00e9r"
     ],
-    "name:fre_x_preferred":[
-        "Bagam\u00e9r"
-    ],
     "name:hun_x_colloquial":[
         "Bagamer"
     ],
@@ -39,9 +33,6 @@
         "Bagam\u00e9r"
     ],
     "name:ita_x_preferred":[
-        "Bagam\u00e9r"
-    ],
-    "name:may_x_preferred":[
         "Bagam\u00e9r"
     ],
     "name:msa_x_preferred":[
@@ -56,13 +47,7 @@
     "name:ron_x_preferred":[
         "Bagam\u00e9r"
     ],
-    "name:rum_x_preferred":[
-        "Bagam\u00e9r"
-    ],
     "name:slk_x_preferred":[
-        "Bagam\u00e9r"
-    ],
-    "name:slo_x_preferred":[
         "Bagam\u00e9r"
     ],
     "name:slv_x_preferred":[
@@ -124,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715848,
+    "wof:lastmodified":1561751585,
     "wof:name":"Bagam\u00e9r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1995015.270192,
+    "geom:area_square_m":1995015.270191,
     "geom:bbox":"16.7627444493,46.4387509336,16.8130125681,46.4542265891",
     "geom:latitude":46.448085,
     "geom:longitude":16.787735,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Becsehely"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u5207\u6d77\u4f0a"
-    ],
-    "name:cze_x_preferred":[
-        "Becsehely"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Becsehely"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Becsehely"
     ],
     "name:fra_x_preferred":[
-        "Becsehely"
-    ],
-    "name:fre_x_preferred":[
-        "Becsehely"
-    ],
-    "name:ger_x_preferred":[
         "Becsehely"
     ],
     "name:hun_x_colloquial":[
@@ -56,9 +44,6 @@
     "name:ita_x_preferred":[
         "Becsehely"
     ],
-    "name:may_x_preferred":[
-        "Becsehely"
-    ],
     "name:msa_x_preferred":[
         "Becsehely"
     ],
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Becsehely"
     ],
-    "name:rum_x_preferred":[
-        "Becsehely"
-    ],
     "name:slk_x_preferred":[
-        "Becsehely"
-    ],
-    "name:slo_x_preferred":[
         "Becsehely"
     ],
     "name:slv_x_preferred":[
@@ -148,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642631,
+    "wof:lastmodified":1561751549,
     "wof:name":"Becsehely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

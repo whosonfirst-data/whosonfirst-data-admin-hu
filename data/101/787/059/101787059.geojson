@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1057066.629965,
+    "geom:area_square_m":1057066.629966,
     "geom:bbox":"18.7716122588,47.6137904661,18.7887985027,47.6285008043",
     "geom:latitude":47.621385,
     "geom:longitude":18.779913,
@@ -16,10 +16,7 @@
     "mps:longitude":18.779913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5ef7\u6d85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tinnye"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Tinnye"
     ],
-    "name:fre_x_preferred":[
-        "Tinnye"
-    ],
-    "name:ger_x_preferred":[
-        "Tinnye"
-    ],
     "name:hun_x_preferred":[
         "Tinnye"
     ],
     "name:ita_x_preferred":[
-        "Tinnye"
-    ],
-    "name:may_x_preferred":[
         "Tinnye"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Tinnye"
     ],
-    "name:rum_x_preferred":[
-        "Tinnye"
-    ],
     "name:slk_x_preferred":[
-        "Tinnye"
-    ],
-    "name:slo_x_preferred":[
         "Tinnye"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715851,
+    "wof:lastmodified":1561751586,
     "wof:name":"Tinnye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -16,10 +16,7 @@
     "mps:longitude":19.256722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74e6\u4e54\u5c14\u8a79"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "V\u00e1charty\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "V\u00e1charty\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e1charty\u00e1n"
-    ],
-    "name:ger_x_preferred":[
-        "V\u00e1charty\u00e1n"
-    ],
     "name:hun_x_colloquial":[
         "Vachartyan"
     ],
@@ -44,9 +35,6 @@
         "V\u00e1charty\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "V\u00e1charty\u00e1n"
-    ],
-    "name:may_x_preferred":[
         "V\u00e1charty\u00e1n"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "V\u00e1charty\u00e1n"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e1charty\u00e1n"
-    ],
     "name:slk_x_preferred":[
-        "V\u00e1charty\u00e1n"
-    ],
-    "name:slo_x_preferred":[
         "V\u00e1charty\u00e1n"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e1charty\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4e54\u5c14\u8a79"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642311,
+    "wof:lastmodified":1561751543,
     "wof:name":"V\u00e1charty\u00e1n",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

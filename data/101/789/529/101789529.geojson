@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1346434.526783,
+    "geom:area_square_m":1346434.526782,
     "geom:bbox":"19.3632700118,47.0708389835,19.3819182471,47.0886793105",
     "geom:latitude":47.080531,
     "geom:longitude":19.371491,
@@ -16,13 +16,7 @@
     "mps:longitude":19.371491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9676\u5854\u5c14\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
     "name:deu_x_preferred":[
-        "Tat\u00e1rszentgy\u00f6rgy"
-    ],
-    "name:dut_x_preferred":[
         "Tat\u00e1rszentgy\u00f6rgy"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Tat\u00e1rszentgy\u00f6rgy"
     ],
-    "name:fre_x_preferred":[
-        "Tat\u00e1rszentgy\u00f6rgy"
-    ],
-    "name:ger_x_preferred":[
-        "Tat\u00e1rszentgy\u00f6rgy"
-    ],
     "name:hun_x_colloquial":[
         "Tatarszentgyoergy",
         "Tatarszentgyorgy"
@@ -48,9 +36,6 @@
         "Tat\u00e1rszentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "Tat\u00e1rszentgy\u00f6rgy"
-    ],
-    "name:may_x_preferred":[
         "Tat\u00e1rszentgy\u00f6rgy"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Tat\u00e1rszentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "Tat\u00e1rszentgy\u00f6rgy"
-    ],
     "name:slk_x_preferred":[
-        "Tat\u00e1rszentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
         "Tat\u00e1rszentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Tat\u00e1rszentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u5854\u5c14\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -126,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"Tat\u00e1rszentgy\u00f6rgy",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

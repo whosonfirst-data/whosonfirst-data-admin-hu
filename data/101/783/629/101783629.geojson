@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":388871.089127,
+    "geom:area_square_m":388871.089128,
     "geom:bbox":"20.0962791989,48.1757713595,20.1101555705,48.1879569857",
     "geom:latitude":48.181548,
     "geom:longitude":20.104467,
@@ -19,16 +19,7 @@
     "name:ces_x_preferred":[
         "Domah\u00e1za"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u6bdb\u54c8\u4f50"
-    ],
-    "name:cze_x_preferred":[
-        "Domah\u00e1za"
-    ],
     "name:deu_x_preferred":[
-        "Domah\u00e1za"
-    ],
-    "name:dut_x_preferred":[
         "Domah\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +31,6 @@
     "name:fra_x_preferred":[
         "Domah\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "Domah\u00e1za"
-    ],
-    "name:ger_x_preferred":[
-        "Domah\u00e1za"
-    ],
     "name:hun_x_colloquial":[
         "Domahaza"
     ],
@@ -53,9 +38,6 @@
         "Domah\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Domah\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "Domah\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -73,10 +55,7 @@
     "name:ron_x_preferred":[
         "Domah\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Domah\u00e1za"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Domah\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Domah\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u6bdb\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688495,
+    "wof:lastmodified":1561751562,
     "wof:name":"Domah\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

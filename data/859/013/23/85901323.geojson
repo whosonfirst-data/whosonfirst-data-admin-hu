@@ -28,10 +28,7 @@
     "name:cat_x_preferred":[
         "\u00dajpest"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u56db\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u00dajpest"
     ],
     "name:dan_x_preferred":[
@@ -40,8 +37,11 @@
     "name:deu_x_preferred":[
         "Neu-Pest"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "\u00dajpest"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03af\u03c0\u03b5\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "\u00dajpest"
@@ -52,14 +52,8 @@
     "name:fin_x_preferred":[
         "\u00dajpest"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "4e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "\u00dajpest"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03af\u03c0\u03b5\u03c3\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d9\u05e4\u05e9\u05d8"
@@ -80,13 +74,16 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30fc\u30a4\u30da\u30b7\u30e5\u30c8"
     ],
+    "name:nld_x_preferred":[
+        "\u00dajpest"
+    ],
     "name:pol_x_preferred":[
         "\u00dajpest"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00dajpest"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "IV. obvod"
     ],
     "name:spa_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn IV"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u56db\u533a"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -166,7 +166,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1561751510,
     "wof:name":"\u00dajpest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

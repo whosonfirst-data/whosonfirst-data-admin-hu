@@ -17,13 +17,7 @@
     "mps:longitude":21.212088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u83f2\u6fa4\u4ec0\u7126\u723e\u6bdb\u7279"
-    ],
     "name:deu_x_preferred":[
-        "F\u00fczesgyarmat"
-    ],
-    "name:dut_x_preferred":[
         "F\u00fczesgyarmat"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "F\u00fczesgyarmat"
     ],
-    "name:fre_x_preferred":[
-        "F\u00fczesgyarmat"
-    ],
-    "name:ger_x_preferred":[
-        "F\u00fczesgyarmat"
-    ],
     "name:hun_x_colloquial":[
         "Fuezesgyarmat",
         "Fuzesgyarmat"
@@ -49,9 +37,6 @@
         "F\u00fczesgyarmat"
     ],
     "name:ita_x_preferred":[
-        "F\u00fczesgyarmat"
-    ],
-    "name:may_x_preferred":[
         "F\u00fczesgyarmat"
     ],
     "name:msa_x_preferred":[
@@ -69,16 +54,13 @@
     "name:ron_x_preferred":[
         "F\u00fczesgyarmat"
     ],
-    "name:rum_x_preferred":[
-        "F\u00fczesgyarmat"
-    ],
     "name:rup_x_preferred":[
         "F\u00fczesgyarmat"
     ],
     "name:rus_x_preferred":[
         "\u0424\u044e\u0437\u0435\u0448\u0434\u044c\u044f\u0440\u043c\u0430\u0442"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "F\u00fczesgyarmat"
     ],
     "name:slv_x_preferred":[
@@ -101,6 +83,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e4\u05e2\u05d3\u05e2\u05e8-\u05d9\u05d0\u05e8\u05de\u05d5\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u6fa4\u4ec0\u7126\u723e\u6bdb\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -152,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751593,
     "wof:name":"F\u00fczesgyarmat",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

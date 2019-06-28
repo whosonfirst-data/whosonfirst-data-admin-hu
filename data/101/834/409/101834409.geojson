@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
-    "geom:area_square_m":4089031.141272,
+    "geom:area_square_m":4089031.141273,
     "geom:bbox":"17.2633234976,46.7582649118,17.303053069,46.7865407833",
     "geom:latitude":46.772261,
     "geom:longitude":17.284349,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Gyenesdi\u00e1s"
     ],
-    "name:dut_x_preferred":[
-        "Gyenesdi\u00e1s"
-    ],
     "name:eng_x_preferred":[
         "Gyenesdi\u00e1s"
     ],
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "Gyenesdi\u00e1s"
     ],
-    "name:fre_x_preferred":[
-        "Gyenesdi\u00e1s"
-    ],
-    "name:ger_x_preferred":[
-        "Gyenesdi\u00e1s"
-    ],
     "name:hun_x_colloquial":[
         "Gyenesdias"
     ],
@@ -48,9 +39,6 @@
         "Gyenesdi\u00e1s"
     ],
     "name:ita_x_preferred":[
-        "Gyenesdi\u00e1s"
-    ],
-    "name:may_x_preferred":[
         "Gyenesdi\u00e1s"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Gyenesdi\u00e1s"
     ],
-    "name:rum_x_preferred":[
-        "Gyenesdi\u00e1s"
-    ],
     "name:slk_x_preferred":[
-        "Gyenesdi\u00e1s"
-    ],
-    "name:slo_x_preferred":[
         "Gyenesdi\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642932,
+    "wof:lastmodified":1561751553,
     "wof:name":"Gyenesdi\u00e1s",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -16,13 +16,7 @@
     "mps:longitude":20.641963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4fdd\u52b3\u65af\u5c3c\u5965"
-    ],
     "name:deu_x_preferred":[
-        "Parasznya"
-    ],
-    "name:dut_x_preferred":[
         "Parasznya"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Parasznya"
     ],
-    "name:fre_x_preferred":[
-        "Parasznya"
-    ],
-    "name:ger_x_preferred":[
-        "Parasznya"
-    ],
     "name:hun_x_preferred":[
         "Parasznya"
     ],
     "name:ita_x_preferred":[
-        "Parasznya"
-    ],
-    "name:may_x_preferred":[
         "Parasznya"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Parasznya"
     ],
-    "name:rum_x_preferred":[
-        "Parasznya"
-    ],
     "name:slk_x_preferred":[
-        "Parasznya"
-    ],
-    "name:slo_x_preferred":[
         "Parasznya"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642923,
+    "wof:lastmodified":1561751551,
     "wof:name":"Parasznya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

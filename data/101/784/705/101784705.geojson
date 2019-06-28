@@ -17,10 +17,7 @@
     "mps:longitude":19.694439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5965\u666e\u8328"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Apc"
     ],
     "name:eng_x_preferred":[
@@ -29,10 +26,7 @@
     "name:epo_x_preferred":[
         "Apc"
     ],
-    "name:fre_x_preferred":[
-        "Apc"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Apc"
     ],
     "name:hun_x_preferred":[
@@ -41,19 +35,22 @@
     "name:ita_x_preferred":[
         "Apc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Apc"
     ],
     "name:nan_x_preferred":[
         "Apc"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Apc"
+    ],
+    "name:ron_x_preferred":[
         "Apc"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043f\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Apc"
     ],
     "name:slv_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Apc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u666e\u8328"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -110,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815500,
+    "wof:lastmodified":1561751568,
     "wof:name":"Apc",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

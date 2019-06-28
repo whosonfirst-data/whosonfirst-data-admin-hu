@@ -18,10 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u6d3e\u52d2\u5207\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +27,7 @@
     "name:epo_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "Per\u0151cs\u00e9ny"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
     "name:hun_x_preferred":[
@@ -42,16 +36,19 @@
     "name:ita_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
     "name:nan_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Per\u0151cs\u00e9ny"
+    ],
+    "name:slk_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:vie_x_preferred":[
         "Per\u0151cs\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u52d2\u5207\u5c3c"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125938045,
-    "wof:lastmodified":1514448255,
+    "wof:lastmodified":1561751596,
     "wof:name":"Per\u0151cs\u00e9ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

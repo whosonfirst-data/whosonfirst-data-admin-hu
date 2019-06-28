@@ -16,12 +16,6 @@
     "mps:longitude":18.298422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u65af\u8003\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
-    "name:dut_x_preferred":[
-        "Iszkaszentgy\u00f6rgy"
-    ],
     "name:eng_x_preferred":[
         "Iszkaszentgy\u00f6rgy"
     ],
@@ -34,9 +28,6 @@
     "name:fra_x_preferred":[
         "Iszkaszentgy\u00f6rgy"
     ],
-    "name:fre_x_preferred":[
-        "Iszkaszentgy\u00f6rgy"
-    ],
     "name:hun_x_colloquial":[
         "Iszkaszentgyoergy",
         "Iszkaszentgyorgy"
@@ -45,9 +36,6 @@
         "Iszkaszentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "Iszkaszentgy\u00f6rgy"
-    ],
-    "name:may_x_preferred":[
         "Iszkaszentgy\u00f6rgy"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Iszkaszentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "Iszkaszentgy\u00f6rgy"
-    ],
     "name:slk_x_preferred":[
-        "Iszkaszentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
         "Iszkaszentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Iszkaszentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u8003\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -123,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751579,
     "wof:name":"Iszkaszentgy\u00f6rgy",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

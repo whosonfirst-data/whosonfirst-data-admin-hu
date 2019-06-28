@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000466,
-    "geom:area_square_m":3929706.938498,
+    "geom:area_square_m":3929706.938499,
     "geom:bbox":"21.0638807082,46.9479891107,21.0947584301,46.9742509389",
     "geom:latitude":46.961231,
     "geom:longitude":21.078438,
@@ -17,13 +17,7 @@
     "mps:longitude":21.077152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u52d2\u4ec0\u6d1b\u9054\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "K\u00f6r\u00f6slad\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "K\u00f6r\u00f6slad\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00f6r\u00f6slad\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Koeroesladany",
         "Korosladany"
@@ -49,9 +37,6 @@
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "K\u00f6r\u00f6slad\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -69,16 +54,13 @@
     "name:ron_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "K\u00f6r\u00f6slad\u00e1ny"
-    ],
     "name:rup_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0451\u0440\u0451\u0448\u043b\u0430\u0434\u0430\u043d\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -95,6 +77,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u52d2\u4ec0\u6d1b\u9054\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -146,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751579,
     "wof:name":"K\u00f6r\u00f6slad\u00e1ny",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

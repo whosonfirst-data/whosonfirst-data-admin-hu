@@ -16,12 +16,6 @@
     "mps:longitude":19.721091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u827e\u6cf0\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Etes"
-    ],
     "name:eng_x_preferred":[
         "Etes"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Etes"
     ],
-    "name:fre_x_preferred":[
-        "Etes"
-    ],
     "name:hun_x_preferred":[
         "Etes"
     ],
     "name:ita_x_preferred":[
-        "Etes"
-    ],
-    "name:may_x_preferred":[
         "Etes"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Etes"
     ],
-    "name:rum_x_preferred":[
-        "Etes"
-    ],
     "name:slk_x_preferred":[
-        "Etes"
-    ],
-    "name:slo_x_preferred":[
         "Etes"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688502,
+    "wof:lastmodified":1561751564,
     "wof:name":"Etes",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

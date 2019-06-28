@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Farmos"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u5c14\u83ab\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Farmos"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Farmos"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +35,10 @@
     "name:fra_x_preferred":[
         "Farmos"
     ],
-    "name:fre_x_preferred":[
-        "Farmos"
-    ],
-    "name:ger_x_preferred":[
-        "Farmos"
-    ],
     "name:hun_x_preferred":[
         "Farmos"
     ],
     "name:ita_x_preferred":[
-        "Farmos"
-    ],
-    "name:may_x_preferred":[
         "Farmos"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Farmos"
     ],
-    "name:rum_x_preferred":[
-        "Farmos"
-    ],
     "name:slk_x_preferred":[
-        "Farmos"
-    ],
-    "name:slo_x_preferred":[
         "Farmos"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"Farmos",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

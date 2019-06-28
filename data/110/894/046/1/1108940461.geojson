@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Gercse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gercse"
     ],
     "name:hun_x_preferred":[
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":1108940461,
-    "wof:lastmodified":1514448022,
+    "wof:lastmodified":1561751527,
     "wof:name":"Gercse",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

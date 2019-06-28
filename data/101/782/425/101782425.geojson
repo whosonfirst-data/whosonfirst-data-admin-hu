@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
-    "geom:area_square_m":2961331.352901,
+    "geom:area_square_m":2961331.352902,
     "geom:bbox":"20.4129953448,48.282915529,20.4473684939,48.308962051",
     "geom:latitude":48.293114,
     "geom:longitude":20.434027,
@@ -23,13 +23,7 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0442\u043d\u043e\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u7279\u8afe\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Putnok"
-    ],
-    "name:dut_x_preferred":[
         "Putnok"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
     "name:fra_x_preferred":[
         "Putnok"
     ],
-    "name:fre_x_preferred":[
-        "Putnok"
-    ],
-    "name:ger_x_preferred":[
-        "Putnok"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d8\u05e0\u05d5\u05e7"
     ],
@@ -57,9 +45,6 @@
         "Putnok"
     ],
     "name:ita_x_preferred":[
-        "Putnok"
-    ],
-    "name:may_x_preferred":[
         "Putnok"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Putnok"
     ],
-    "name:rum_x_preferred":[
-        "Putnok"
-    ],
     "name:rup_x_preferred":[
         "Putnok"
     ],
@@ -87,9 +69,6 @@
         "\u041f\u0443\u0442\u043d\u043e\u043a"
     ],
     "name:slk_x_preferred":[
-        "Putnok"
-    ],
-    "name:slo_x_preferred":[
         "Putnok"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688316,
+    "wof:lastmodified":1561751558,
     "wof:name":"Putnok",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

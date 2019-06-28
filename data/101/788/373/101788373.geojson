@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":2253951.708136,
+    "geom:area_square_m":2253951.708137,
     "geom:bbox":"21.2127029366,47.2037547823,21.2461957657,47.2188564833",
     "geom:latitude":47.21136,
     "geom:longitude":21.230509,
@@ -17,13 +17,7 @@
     "mps:longitude":21.234696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u8c6a\u5c14\u7459\u5409\u9c8d\u7ea6\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Biharnagybajom"
-    ],
-    "name:dut_x_preferred":[
         "Biharnagybajom"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +29,10 @@
     "name:fra_x_preferred":[
         "Biharnagybajom"
     ],
-    "name:fre_x_preferred":[
-        "Biharnagybajom"
-    ],
-    "name:ger_x_preferred":[
-        "Biharnagybajom"
-    ],
     "name:hun_x_preferred":[
         "Biharnagybajom"
     ],
     "name:ita_x_preferred":[
-        "Biharnagybajom"
-    ],
-    "name:may_x_preferred":[
         "Biharnagybajom"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +47,7 @@
     "name:ron_x_preferred":[
         "Biharnagybajom"
     ],
-    "name:rum_x_preferred":[
-        "Biharnagybajom"
-    ],
     "name:slk_x_preferred":[
-        "Biharnagybajom"
-    ],
-    "name:slo_x_preferred":[
         "Biharnagybajom"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751579,
     "wof:name":"Biharnagybajom",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

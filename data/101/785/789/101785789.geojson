@@ -16,12 +16,6 @@
     "mps:longitude":18.916446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5fb7\u9ed8\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "D\u00f6m\u00f6s"
-    ],
     "name:eng_x_preferred":[
         "D\u00f6m\u00f6s"
     ],
@@ -29,9 +23,6 @@
         "D\u00f6m\u00f6s"
     ],
     "name:fra_x_preferred":[
-        "D\u00f6m\u00f6s"
-    ],
-    "name:fre_x_preferred":[
         "D\u00f6m\u00f6s"
     ],
     "name:hrv_x_preferred":[
@@ -47,9 +38,6 @@
     "name:ita_x_preferred":[
         "D\u00f6m\u00f6s"
     ],
-    "name:may_x_preferred":[
-        "D\u00f6m\u00f6s"
-    ],
     "name:msa_x_preferred":[
         "D\u00f6m\u00f6s"
     ],
@@ -62,16 +50,10 @@
     "name:ron_x_preferred":[
         "D\u00f6m\u00f6s"
     ],
-    "name:rum_x_preferred":[
-        "D\u00f6m\u00f6s"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0451\u043c\u0451\u0448"
     ],
     "name:slk_x_preferred":[
-        "D\u00f6m\u00f6s"
-    ],
-    "name:slo_x_preferred":[
         "D\u00f6m\u00f6s"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "D\u00f6m\u00f6s"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u9ed8\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -129,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527684904,
+    "wof:lastmodified":1561751558,
     "wof:name":"D\u00f6m\u00f6s",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

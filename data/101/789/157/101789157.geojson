@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":2254248.845138,
+    "geom:area_square_m":2254248.845137,
     "geom:bbox":"18.4196544898,46.6746740527,18.4554379117,46.6923448688",
     "geom:latitude":46.681548,
     "geom:longitude":18.435801,
@@ -17,7 +17,7 @@
     "mps:longitude":18.435046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pincehely"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +29,6 @@
     "name:fra_x_preferred":[
         "Pincehely"
     ],
-    "name:fre_x_preferred":[
-        "Pincehely"
-    ],
-    "name:ger_x_preferred":[
-        "Pincehely"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e0\u05e6\u05d4\u05d9\u05d9"
     ],
@@ -42,9 +36,6 @@
         "Pincehely"
     ],
     "name:ita_x_preferred":[
-        "Pincehely"
-    ],
-    "name:may_x_preferred":[
         "Pincehely"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Pincehely"
     ],
-    "name:rum_x_preferred":[
-        "Pincehely"
-    ],
     "name:slk_x_preferred":[
-        "Pincehely"
-    ],
-    "name:slo_x_preferred":[
         "Pincehely"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1561751587,
     "wof:name":"Pincehely",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

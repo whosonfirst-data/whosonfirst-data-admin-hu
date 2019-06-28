@@ -16,25 +16,13 @@
     "mps:longitude":18.753631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0580\u0564\u0561\u057d"
-    ],
     "name:cbk_zam_x_preferred":[
         "Tordas"
     ],
     "name:ces_x_preferred":[
         "Tordas"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5c14\u9053\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Tordas"
-    ],
     "name:deu_x_preferred":[
-        "Tordas"
-    ],
-    "name:dut_x_preferred":[
         "Tordas"
     ],
     "name:eng_x_preferred":[
@@ -46,12 +34,6 @@
     "name:fra_x_preferred":[
         "Tordas"
     ],
-    "name:fre_x_preferred":[
-        "Tordas"
-    ],
-    "name:ger_x_preferred":[
-        "Tordas"
-    ],
     "name:hun_x_preferred":[
         "Tordas"
     ],
@@ -59,9 +41,6 @@
         "\u054f\u0561\u0580\u0564\u0561\u057d"
     ],
     "name:ita_x_preferred":[
-        "Tordas"
-    ],
-    "name:may_x_preferred":[
         "Tordas"
     ],
     "name:msa_x_preferred":[
@@ -76,13 +55,7 @@
     "name:ron_x_preferred":[
         "Tordas"
     ],
-    "name:rum_x_preferred":[
-        "Tordas"
-    ],
     "name:slk_x_preferred":[
-        "Tordas"
-    ],
-    "name:slo_x_preferred":[
         "Tordas"
     ],
     "name:slv_x_preferred":[
@@ -146,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751572,
     "wof:name":"Tordas",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

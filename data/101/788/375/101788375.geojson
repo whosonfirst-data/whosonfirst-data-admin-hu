@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Nagyr\u00e1b\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Nagyr\u00e1b\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Nagyr\u00e1b\u00e9"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Nagyr\u00e1b\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Nagyr\u00e1b\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyr\u00e1b\u00e9"
-    ],
     "name:hun_x_colloquial":[
         "Nagyrabe"
     ],
@@ -45,9 +36,6 @@
         "Nagyr\u00e1b\u00e9"
     ],
     "name:ita_x_preferred":[
-        "Nagyr\u00e1b\u00e9"
-    ],
-    "name:may_x_preferred":[
         "Nagyr\u00e1b\u00e9"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Nagyr\u00e1b\u00e9"
     ],
-    "name:rum_x_preferred":[
-        "Nagyr\u00e1b\u00e9"
-    ],
     "name:slk_x_preferred":[
-        "Nagyr\u00e1b\u00e9"
-    ],
-    "name:slo_x_preferred":[
         "Nagyr\u00e1b\u00e9"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715578,
+    "wof:lastmodified":1561751579,
     "wof:name":"Nagyr\u00e1b\u00e9",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

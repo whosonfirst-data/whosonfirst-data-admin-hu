@@ -16,12 +16,6 @@
     "mps:longitude":20.377569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u6cf0\u6d85"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszateny\u0151"
-    ],
     "name:eng_x_preferred":[
         "Tiszateny\u0151"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Tiszateny\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Tiszateny\u0151"
-    ],
     "name:hun_x_preferred":[
         "Tiszateny\u0151"
     ],
     "name:ita_x_preferred":[
-        "Tiszateny\u0151"
-    ],
-    "name:may_x_preferred":[
         "Tiszateny\u0151"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Tiszateny\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Tiszateny\u0151"
-    ],
     "name:slk_x_preferred":[
-        "Tiszateny\u0151"
-    ],
-    "name:slo_x_preferred":[
         "Tiszateny\u0151"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszateny\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u6cf0\u6d85"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -112,7 +97,7 @@
         }
     ],
     "wof:id":101786929,
-    "wof:lastmodified":1527715652,
+    "wof:lastmodified":1561751583,
     "wof:name":"Tiszateny\u0151",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

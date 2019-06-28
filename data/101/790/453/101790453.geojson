@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1975151.625399,
+    "geom:area_square_m":1975151.625398,
     "geom:bbox":"20.3314371339,46.2611460427,20.3586147391,46.2794601197",
     "geom:latitude":46.270169,
     "geom:longitude":20.341921,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043e\u0441\u043b\u0435\u043b\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u6bdb\u7f57\u4ec0\u83b1\u83b1"
-    ],
-    "name:dut_x_preferred":[
-        "Maroslele"
-    ],
     "name:eng_x_preferred":[
         "Maroslelle"
     ],
@@ -33,9 +27,6 @@
         "Maroslele"
     ],
     "name:fra_x_preferred":[
-        "Maroslele"
-    ],
-    "name:fre_x_preferred":[
         "Maroslele"
     ],
     "name:hun_x_colloquial":[
@@ -51,9 +42,6 @@
     "name:ita_x_preferred":[
         "Maroslele"
     ],
-    "name:may_x_preferred":[
-        "Maroslele"
-    ],
     "name:msa_x_preferred":[
         "Maroslele"
     ],
@@ -66,13 +54,7 @@
     "name:ron_x_preferred":[
         "Maroslele"
     ],
-    "name:rum_x_preferred":[
-        "Maroslele"
-    ],
     "name:slk_x_preferred":[
-        "Maroslele"
-    ],
-    "name:slo_x_preferred":[
         "Maroslele"
     ],
     "name:slv_x_preferred":[
@@ -143,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Maroslele",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

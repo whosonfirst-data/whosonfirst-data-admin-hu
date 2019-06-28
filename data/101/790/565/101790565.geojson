@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001892,
-    "geom:area_square_m":16059125.655403,
+    "geom:area_square_m":16059125.655404,
     "geom:bbox":"21.2439535448,46.6025036146,21.3579217619,46.6699776194",
     "geom:latitude":46.642178,
     "geom:longitude":21.297483,
@@ -17,9 +17,6 @@
     "mps:longitude":21.282373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0534\u0575\u0578\u0582\u056c\u0561"
-    ],
     "name:bar_x_preferred":[
         "Gyula"
     ],
@@ -32,20 +29,14 @@
     "name:ces_x_preferred":[
         "Gyula"
     ],
-    "name:chi_x_preferred":[
-        "\u4e45\u6d1b"
-    ],
-    "name:cze_x_preferred":[
-        "Gyula"
-    ],
     "name:dan_x_preferred":[
         "Gyula"
     ],
     "name:deu_x_preferred":[
         "Gyula"
     ],
-    "name:dut_x_preferred":[
-        "Gyula"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b9\u03bf\u03cd\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gyula"
@@ -62,15 +53,6 @@
     "name:fra_x_preferred":[
         "Gyula"
     ],
-    "name:fre_x_preferred":[
-        "Gyula"
-    ],
-    "name:ger_x_preferred":[
-        "Gyula"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b9\u03bf\u03cd\u03bb\u03b1"
-    ],
     "name:hbs_x_preferred":[
         "Gyula"
     ],
@@ -83,6 +65,9 @@
     "name:hun_x_preferred":[
         "Gyula"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0575\u0578\u0582\u056c\u0561"
+    ],
     "name:ita_x_preferred":[
         "Gyula"
     ],
@@ -92,11 +77,8 @@
     "name:kor_x_preferred":[
         "\uc904\ub7ec"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0403\u0443\u043b\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Gyula"
     ],
     "name:msa_x_preferred":[
         "Gyula"
@@ -110,9 +92,6 @@
     "name:nno_x_preferred":[
         "Gyula"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Gyula"
     ],
@@ -123,9 +102,7 @@
         "Jula"
     ],
     "name:ron_x_variant":[
-        "Gyula"
-    ],
-    "name:rum_x_preferred":[
+        "Gyula",
         "Giula"
     ],
     "name:rup_x_preferred":[
@@ -138,9 +115,6 @@
         "Gyula"
     ],
     "name:slk_x_preferred":[
-        "Gyula"
-    ],
-    "name:slo_x_preferred":[
         "Gyula"
     ],
     "name:slv_x_preferred":[
@@ -226,7 +200,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815504,
+    "wof:lastmodified":1561751537,
     "wof:name":"Gyula",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

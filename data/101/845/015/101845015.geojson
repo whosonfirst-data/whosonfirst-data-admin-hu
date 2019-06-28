@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1465908.247093,
+    "geom:area_square_m":1465908.247094,
     "geom:bbox":"19.3761737456,47.6858082704,19.402793177,47.7038695094",
     "geom:latitude":47.694302,
     "geom:longitude":19.391885,
@@ -17,10 +17,7 @@
     "mps:longitude":19.390575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9ad8\u5c14\u9ad8\u9a6c\u4e54"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Galgam\u00e1csa"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Galgam\u00e1csa"
     ],
-    "name:fre_x_preferred":[
-        "Galgam\u00e1csa"
-    ],
-    "name:ger_x_preferred":[
-        "Galgam\u00e1csa"
-    ],
     "name:hun_x_colloquial":[
         "Galgamacsa"
     ],
@@ -45,9 +36,6 @@
         "Galgam\u00e1csa"
     ],
     "name:ita_x_preferred":[
-        "Galgam\u00e1csa"
-    ],
-    "name:may_x_preferred":[
         "Galgam\u00e1csa"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Galgam\u00e1csa"
     ],
-    "name:rum_x_preferred":[
-        "Galgam\u00e1csa"
-    ],
     "name:slk_x_preferred":[
-        "Galgam\u00e1csa"
-    ],
-    "name:slo_x_preferred":[
         "Galgam\u00e1csa"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Galgam\u00e1csa"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5c14\u9ad8\u9a6c\u4e54"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642310,
+    "wof:lastmodified":1561751543,
     "wof:name":"Galgam\u00e1csa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

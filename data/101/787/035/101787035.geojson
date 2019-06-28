@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00041,
-    "geom:area_square_m":3430608.360929,
+    "geom:area_square_m":3430608.360927,
     "geom:bbox":"17.2867078041,47.4507746054,17.3373812932,47.4767982352",
     "geom:latitude":47.461476,
     "geom:longitude":17.308896,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043d\u0439"
     ],
-    "name:dut_x_preferred":[
-        "Szany"
-    ],
     "name:eng_x_preferred":[
         "Szany"
     ],
@@ -30,9 +27,6 @@
         "Szany"
     ],
     "name:fra_x_preferred":[
-        "Szany"
-    ],
-    "name:fre_x_preferred":[
         "Szany"
     ],
     "name:hun_x_preferred":[
@@ -43,9 +37,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30cb"
-    ],
-    "name:may_x_preferred":[
-        "Szany"
     ],
     "name:msa_x_preferred":[
         "Szany"
@@ -62,13 +53,7 @@
     "name:ron_x_preferred":[
         "Szany"
     ],
-    "name:rum_x_preferred":[
-        "Szany"
-    ],
     "name:slk_x_preferred":[
-        "Szany"
-    ],
-    "name:slo_x_preferred":[
         "Szany"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715851,
+    "wof:lastmodified":1561751585,
     "wof:name":"Szany",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

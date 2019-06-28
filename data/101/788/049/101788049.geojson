@@ -19,10 +19,7 @@
     "name:cat_x_preferred":[
         "N\u00e1rai"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u52b3\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "N\u00e1rai"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "N\u00e1rai"
     ],
-    "name:fre_x_preferred":[
-        "N\u00e1rai"
-    ],
-    "name:ger_x_preferred":[
-        "N\u00e1rai"
-    ],
     "name:hun_x_colloquial":[
         "Narai"
     ],
@@ -47,9 +38,6 @@
         "N\u00e1rai"
     ],
     "name:ita_x_preferred":[
-        "N\u00e1rai"
-    ],
-    "name:may_x_preferred":[
         "N\u00e1rai"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "N\u00e1rai"
     ],
-    "name:rum_x_preferred":[
-        "N\u00e1rai"
-    ],
     "name:slk_x_preferred":[
-        "N\u00e1rai"
-    ],
-    "name:slo_x_preferred":[
         "N\u00e1rai"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "N\u00e1rai"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u52b3\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Vas",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715571,
+    "wof:lastmodified":1561751573,
     "wof:name":"N\u00e1rai",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

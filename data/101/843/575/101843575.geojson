@@ -17,12 +17,6 @@
     "mps:longitude":19.585884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d77\u8c6a\u6d1b\u59c6"
-    ],
-    "name:dut_x_preferred":[
-        "H\u00e9halom"
-    ],
     "name:eng_x_preferred":[
         "H\u00e9halom"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "H\u00e9halom"
     ],
-    "name:fre_x_preferred":[
-        "H\u00e9halom"
-    ],
     "name:hun_x_preferred":[
         "H\u00e9halom"
     ],
     "name:ita_x_preferred":[
-        "H\u00e9halom"
-    ],
-    "name:may_x_preferred":[
         "H\u00e9halom"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "H\u00e9halom"
     ],
-    "name:rum_x_preferred":[
-        "H\u00e9halom"
-    ],
     "name:slk_x_preferred":[
-        "H\u00e9halom"
-    ],
-    "name:slo_x_preferred":[
         "H\u00e9halom"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u00e9halom"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u8c6a\u6d1b\u59c6"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101843575,
-    "wof:lastmodified":1527642594,
+    "wof:lastmodified":1561751545,
     "wof:name":"H\u00e9halom",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

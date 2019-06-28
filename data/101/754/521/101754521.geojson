@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":1823408.034407,
+    "geom:area_square_m":1823408.034404,
     "geom:bbox":"16.5844277697,47.265026,16.6081973,47.3067276687",
     "geom:latitude":47.287583,
     "geom:longitude":16.59685,
@@ -17,10 +17,7 @@
     "mps:longitude":16.598021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6839\u4e54\u5e15\u8482"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gencsap\u00e1ti"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Gencsap\u00e1ti"
     ],
-    "name:fre_x_preferred":[
-        "Gencsap\u00e1ti"
-    ],
-    "name:ger_x_preferred":[
-        "Gencsap\u00e1ti"
-    ],
     "name:hun_x_colloquial":[
         "Gencsapati"
     ],
@@ -45,9 +36,6 @@
         "Gencsap\u00e1ti"
     ],
     "name:ita_x_preferred":[
-        "Gencsap\u00e1ti"
-    ],
-    "name:may_x_preferred":[
         "Gencsap\u00e1ti"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Gencsap\u00e1ti"
     ],
-    "name:rum_x_preferred":[
-        "Gencsap\u00e1ti"
-    ],
     "name:slk_x_preferred":[
-        "Gencsap\u00e1ti"
-    ],
-    "name:slo_x_preferred":[
         "Gencsap\u00e1ti"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Gencsap\u00e1ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u6839\u4e54\u5e15\u8482"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Vas",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641858,
+    "wof:lastmodified":1561751540,
     "wof:name":"Gencsap\u00e1ti",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

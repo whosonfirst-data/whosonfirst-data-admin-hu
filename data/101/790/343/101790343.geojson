@@ -16,13 +16,7 @@
     "mps:longitude":17.300947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u83ab\u5409\u7d22\u5e03"
-    ],
     "name:deu_x_preferred":[
-        "Somogyszob"
-    ],
-    "name:dut_x_preferred":[
         "Somogyszob"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Somogyszob"
     ],
-    "name:fre_x_preferred":[
-        "Somogyszob"
-    ],
-    "name:ger_x_preferred":[
-        "Somogyszob"
-    ],
     "name:hun_x_preferred":[
         "Somogyszob"
     ],
     "name:ita_x_preferred":[
-        "Somogyszob"
-    ],
-    "name:may_x_preferred":[
         "Somogyszob"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Somogyszob"
     ],
-    "name:rum_x_preferred":[
-        "Somogyszob"
-    ],
     "name:slk_x_preferred":[
-        "Somogyszob"
-    ],
-    "name:slo_x_preferred":[
         "Somogyszob"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561751539,
     "wof:name":"Somogyszob",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

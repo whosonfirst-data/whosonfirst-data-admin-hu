@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":4218858.852657,
+    "geom:area_square_m":4218858.852658,
     "geom:bbox":"18.7644452627,47.0327093225,18.8023689368,47.0637344384",
     "geom:latitude":47.048215,
     "geom:longitude":18.785368,
@@ -20,9 +20,6 @@
     "name:cbk_zam_x_preferred":[
         "Perk\u00e1ta"
     ],
-    "name:dut_x_preferred":[
-        "Perk\u00e1ta"
-    ],
     "name:eng_x_preferred":[
         "Perk\u00e1ta"
     ],
@@ -30,9 +27,6 @@
         "Perk\u00e1ta"
     ],
     "name:fra_x_preferred":[
-        "Perk\u00e1ta"
-    ],
-    "name:fre_x_preferred":[
         "Perk\u00e1ta"
     ],
     "name:hun_x_colloquial":[
@@ -48,9 +42,6 @@
     "name:ita_x_preferred":[
         "Perk\u00e1ta"
     ],
-    "name:may_x_preferred":[
-        "Perk\u00e1ta"
-    ],
     "name:msa_x_preferred":[
         "Perk\u00e1ta"
     ],
@@ -63,13 +54,7 @@
     "name:ron_x_preferred":[
         "Perk\u00e1ta"
     ],
-    "name:rum_x_preferred":[
-        "Perk\u00e1ta"
-    ],
     "name:slk_x_preferred":[
-        "Perk\u00e1ta"
-    ],
-    "name:slo_x_preferred":[
         "Perk\u00e1ta"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1561751588,
     "wof:name":"Perk\u00e1ta",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

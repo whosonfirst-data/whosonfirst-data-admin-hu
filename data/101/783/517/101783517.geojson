@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2323339.628023,
+    "geom:area_square_m":2323339.628024,
     "geom:bbox":"22.0682311336,47.9881512126,22.1019411255,48.0153132762",
     "geom:latitude":47.997809,
     "geom:longitude":22.081781,
@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
-    "name:chi_x_preferred":[
-        "\u5305\u514b\u9676\u6d1b\u862d\u7279\u54c8\u4f50"
-    ],
-    "name:cze_x_preferred":[
-        "Baktal\u00f3r\u00e1nth\u00e1za"
-    ],
     "name:deu_x_preferred":[
-        "Baktal\u00f3r\u00e1nth\u00e1za"
-    ],
-    "name:dut_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
     "name:fra_x_preferred":[
-        "Baktal\u00f3r\u00e1nth\u00e1za"
-    ],
-    "name:fre_x_preferred":[
-        "Baktal\u00f3r\u00e1nth\u00e1za"
-    ],
-    "name:ger_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
     "name:hun_x_colloquial":[
@@ -58,9 +43,6 @@
     ],
     "name:kor_x_preferred":[
         "\ubc85\ud138\ub85c\ub780\ud2b8\ud558\uc800"
-    ],
-    "name:may_x_preferred":[
-        "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
     "name:msa_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
@@ -77,16 +59,13 @@
     "name:ron_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Baktal\u00f3r\u00e1nth\u00e1za"
-    ],
     "name:rup_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043a\u0442\u0430\u043b\u043e\u0440\u0430\u043d\u0442\u0445\u0430\u0437\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "Baktal\u00f3r\u00e1nth\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u5305\u514b\u9676\u6d1b\u862d\u7279\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -154,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688497,
+    "wof:lastmodified":1561751563,
     "wof:name":"Baktal\u00f3r\u00e1nth\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

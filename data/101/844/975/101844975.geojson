@@ -16,12 +16,6 @@
     "mps:longitude":18.169217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8428\u514b\u68ee\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "Sz\u00e1kszend"
-    ],
     "name:eng_x_preferred":[
         "Szend"
     ],
@@ -29,9 +23,6 @@
         "Sz\u00e1kszend"
     ],
     "name:fra_x_preferred":[
-        "Sz\u00e1kszend"
-    ],
-    "name:fre_x_preferred":[
         "Sz\u00e1kszend"
     ],
     "name:hun_x_colloquial":[
@@ -47,9 +38,6 @@
     "name:ita_x_preferred":[
         "Sz\u00e1kszend"
     ],
-    "name:may_x_preferred":[
-        "Sz\u00e1kszend"
-    ],
     "name:msa_x_preferred":[
         "Sz\u00e1kszend"
     ],
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Sz\u00e1kszend"
     ],
-    "name:rum_x_preferred":[
-        "Sz\u00e1kszend"
-    ],
     "name:slk_x_preferred":[
-        "Sz\u00e1kszend"
-    ],
-    "name:slo_x_preferred":[
         "Sz\u00e1kszend"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Sz\u00e1kszend"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u514b\u68ee\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -126,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642632,
+    "wof:lastmodified":1561751549,
     "wof:name":"Sz\u00e1kszend",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

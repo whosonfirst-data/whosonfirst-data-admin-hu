@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1565656.384488,
+    "geom:area_square_m":1565656.384487,
     "geom:bbox":"18.3699606791,47.611392619,18.3898015797,47.6312733751",
     "geom:latitude":47.622158,
     "geom:longitude":18.380009,
@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "V\u00e9rtessz\u0151l\u0151s"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5c14\u6cf0\u4ec0\u745f\u52d2\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "V\u00e9rtessz\u0151l\u0151s"
-    ],
     "name:deu_x_preferred":[
-        "V\u00e9rtessz\u0151l\u0151s"
-    ],
-    "name:dut_x_preferred":[
         "V\u00e9rtessz\u0151l\u0151s"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "V\u00e9rtessz\u0151l\u0151s"
     ],
     "name:fra_x_preferred":[
-        "V\u00e9rtessz\u0151l\u0151s"
-    ],
-    "name:fre_x_preferred":[
-        "V\u00e9rtessz\u0151l\u0151s"
-    ],
-    "name:ger_x_preferred":[
         "V\u00e9rtessz\u0151l\u0151s"
     ],
     "name:glg_x_preferred":[
@@ -65,9 +50,6 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30c6\u30b9\u30be\u30ed\u30b9"
     ],
-    "name:may_x_preferred":[
-        "V\u00e9rtessz\u0151l\u0151s"
-    ],
     "name:msa_x_preferred":[
         "V\u00e9rtessz\u0151l\u0151s"
     ],
@@ -80,10 +62,7 @@
     "name:ron_x_preferred":[
         "V\u00e9rtessz\u0151l\u0151s"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e9rtessz\u0151l\u0151s"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "S\u00edle\u0161"
     ],
     "name:slv_x_preferred":[
@@ -100,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e9rtessz\u0151l\u0151s"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u5c14\u6cf0\u4ec0\u745f\u52d2\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -147,7 +129,7 @@
         }
     ],
     "wof:id":101786885,
-    "wof:lastmodified":1527715650,
+    "wof:lastmodified":1561751582,
     "wof:name":"V\u00e9rtessz\u0151l\u0151s",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

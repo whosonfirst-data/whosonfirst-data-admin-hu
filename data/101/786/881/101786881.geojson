@@ -16,12 +16,6 @@
     "mps:longitude":18.509747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d77\u8d56\u683c"
-    ],
-    "name:dut_x_preferred":[
-        "H\u00e9reg"
-    ],
     "name:eng_x_preferred":[
         "H\u00e9reg"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "H\u00e9reg"
     ],
-    "name:fre_x_preferred":[
-        "H\u00e9reg"
-    ],
     "name:hun_x_colloquial":[
         "Hereg"
     ],
@@ -41,9 +32,6 @@
         "H\u00e9reg"
     ],
     "name:ita_x_preferred":[
-        "H\u00e9reg"
-    ],
-    "name:may_x_preferred":[
         "H\u00e9reg"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "H\u00e9reg"
     ],
-    "name:rum_x_preferred":[
-        "H\u00e9reg"
-    ],
     "name:slk_x_preferred":[
-        "H\u00e9reg"
-    ],
-    "name:slo_x_preferred":[
         "H\u00e9reg"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u00e9reg"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u8d56\u683c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715644,
+    "wof:lastmodified":1561751581,
     "wof:name":"H\u00e9reg",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

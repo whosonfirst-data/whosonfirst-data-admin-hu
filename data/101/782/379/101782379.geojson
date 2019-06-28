@@ -16,10 +16,7 @@
     "mps:longitude":22.041599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d1b\u4ec0\u79d1\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Laskod"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Laskod"
     ],
-    "name:fre_x_preferred":[
-        "Laskod"
-    ],
-    "name:ger_x_preferred":[
-        "Laskod"
-    ],
     "name:hun_x_preferred":[
         "Laskod"
     ],
     "name:ita_x_preferred":[
-        "Laskod"
-    ],
-    "name:may_x_preferred":[
         "Laskod"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Laskod"
     ],
-    "name:rum_x_preferred":[
-        "Laskod"
-    ],
     "name:slk_x_preferred":[
-        "Laskod"
-    ],
-    "name:slo_x_preferred":[
         "Laskod"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688318,
+    "wof:lastmodified":1561751559,
     "wof:name":"Laskod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

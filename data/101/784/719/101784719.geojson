@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000663,
-    "geom:area_square_m":5514542.41802,
+    "geom:area_square_m":5514542.418022,
     "geom:bbox":"20.3918242809,47.7335709566,20.4331856482,47.7645800795",
     "geom:latitude":47.75021,
     "geom:longitude":20.413303,
@@ -17,16 +17,10 @@
     "mps:longitude":20.414713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u83f2\u6fa4\u7d39\u535a\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "F\u00fczesabony"
     ],
     "name:deu_x_preferred":[
-        "F\u00fczesabony"
-    ],
-    "name:dut_x_preferred":[
         "F\u00fczesabony"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "F\u00fczesabony"
     ],
-    "name:fre_x_preferred":[
-        "F\u00fczesabony"
-    ],
-    "name:ger_x_preferred":[
-        "F\u00fczesabony"
-    ],
     "name:hun_x_colloquial":[
         "Fuezesabony",
         "Fuzesabony"
@@ -52,9 +40,6 @@
         "F\u00fczesabony"
     ],
     "name:ita_x_preferred":[
-        "F\u00fczesabony"
-    ],
-    "name:may_x_preferred":[
         "F\u00fczesabony"
     ],
     "name:msa_x_preferred":[
@@ -72,16 +57,10 @@
     "name:ron_x_preferred":[
         "F\u00fczesabony"
     ],
-    "name:rum_x_preferred":[
-        "F\u00fczesabony"
-    ],
     "name:rup_x_preferred":[
         "F\u00fczesabony"
     ],
     "name:slk_x_preferred":[
-        "F\u00fczesabony"
-    ],
-    "name:slo_x_preferred":[
         "F\u00fczesabony"
     ],
     "name:slv_x_preferred":[
@@ -95,6 +74,9 @@
     ],
     "name:vie_x_preferred":[
         "F\u00fczesabony"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u6fa4\u7d39\u535a\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -146,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688546,
+    "wof:lastmodified":1561751569,
     "wof:name":"F\u00fczesabony",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

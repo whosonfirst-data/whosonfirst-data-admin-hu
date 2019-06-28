@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1087019.74387,
+    "geom:area_square_m":1087019.743869,
     "geom:bbox":"19.7758755292,47.5012407041,19.8112709634,47.5124687893",
     "geom:latitude":47.506934,
     "geom:longitude":19.791015,
@@ -16,10 +16,7 @@
     "mps:longitude":19.79249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9a\u65af\u8d39\u5c14\u820d\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
     ],
-    "name:fre_x_preferred":[
-        "J\u00e1szfels\u0151szentgy\u00f6rgy"
-    ],
-    "name:ger_x_preferred":[
-        "J\u00e1szfels\u0151szentgy\u00f6rgy"
-    ],
     "name:hun_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "J\u00e1szfels\u0151szentgy\u00f6rgy"
-    ],
-    "name:may_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1szfels\u0151szentgy\u00f6rgy"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1szfels\u0151szentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1szfels\u0151szentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u65af\u8d39\u5c14\u820d\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101786939,
-    "wof:lastmodified":1527715643,
+    "wof:lastmodified":1561751580,
     "wof:name":"J\u00e1szfels\u0151szentgy\u00f6rgy",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

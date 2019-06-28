@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2383962.925928,
+    "geom:area_square_m":2383962.925929,
     "geom:bbox":"21.0587706362,46.5934455201,21.0914878996,46.6109092308",
     "geom:latitude":46.601915,
     "geom:longitude":21.076082,
@@ -17,12 +17,6 @@
     "mps:longitude":21.075834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u9c8d\u5fb7\u57fa\u7126\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Szabadk\u00edgy\u00f3s"
-    ],
     "name:eng_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
@@ -30,9 +24,6 @@
         "Szabadk\u00edgy\u00f3s"
     ],
     "name:fra_x_preferred":[
-        "Szabadk\u00edgy\u00f3s"
-    ],
-    "name:fre_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
     "name:hun_x_colloquial":[
@@ -46,9 +37,6 @@
         "\u00d3kigy\u00f3s"
     ],
     "name:ita_x_preferred":[
-        "Szabadk\u00edgy\u00f3s"
-    ],
-    "name:may_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
     "name:msa_x_preferred":[
@@ -66,13 +54,7 @@
     "name:ron_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
-    "name:rum_x_preferred":[
-        "Szabadk\u00edgy\u00f3s"
-    ],
     "name:slk_x_preferred":[
-        "Szabadk\u00edgy\u00f3s"
-    ],
-    "name:slo_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
     "name:slv_x_preferred":[
@@ -86,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u9c8d\u5fb7\u57fa\u7126\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641603,
+    "wof:lastmodified":1561751539,
     "wof:name":"Szabadk\u00edgy\u00f3s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

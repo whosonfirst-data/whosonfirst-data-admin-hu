@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Tisztvisel\u0151telep"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tisztvisel\u0151telep"
     ],
     "name:hun_x_preferred":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1108940629,
-    "wof:lastmodified":1514448395,
+    "wof:lastmodified":1561751527,
     "wof:name":"Tisztviselotelep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

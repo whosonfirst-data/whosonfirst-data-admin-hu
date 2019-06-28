@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1785455.009145,
+    "geom:area_square_m":1785455.009144,
     "geom:bbox":"17.3827155047,46.6337643487,17.4031868391,46.6576706564",
     "geom:latitude":46.646228,
     "geom:longitude":17.392734,
@@ -17,13 +17,7 @@
     "mps:longitude":17.390874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u51ef\u6cf0\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "K\u00e9thely"
-    ],
-    "name:dut_x_preferred":[
         "K\u00e9thely"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "K\u00e9thely"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e9thely"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00e9thely"
-    ],
     "name:hun_x_colloquial":[
         "Kethely"
     ],
@@ -48,9 +36,6 @@
         "K\u00e9thely"
     ],
     "name:ita_x_preferred":[
-        "K\u00e9thely"
-    ],
-    "name:may_x_preferred":[
         "K\u00e9thely"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "K\u00e9thely"
     ],
-    "name:rum_x_preferred":[
-        "K\u00e9thely"
-    ],
     "name:slk_x_preferred":[
-        "K\u00e9thely"
-    ],
-    "name:slo_x_preferred":[
         "K\u00e9thely"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u00e9thely"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u6cf0\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642628,
+    "wof:lastmodified":1561751548,
     "wof:name":"K\u00e9thely",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -16,10 +16,7 @@
     "mps:longitude":19.753771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u9f99\u4e54\u5c14\u5c27"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Karancsalja"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Karancsalja"
     ],
-    "name:fre_x_preferred":[
-        "Karancsalja"
-    ],
-    "name:ger_x_preferred":[
-        "Karancsalja"
-    ],
     "name:hun_x_preferred":[
         "Karancsalja"
     ],
     "name:ita_x_preferred":[
-        "Karancsalja"
-    ],
-    "name:may_x_preferred":[
         "Karancsalja"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Karancsalja"
     ],
-    "name:rum_x_preferred":[
-        "Karancsalja"
-    ],
     "name:slk_x_preferred":[
-        "Karancsalja"
-    ],
-    "name:slo_x_preferred":[
         "Karancsalja"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642924,
+    "wof:lastmodified":1561751551,
     "wof:name":"Karancsalja",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

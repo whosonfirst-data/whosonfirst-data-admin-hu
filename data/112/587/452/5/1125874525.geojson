@@ -18,19 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u83ab\u8bfa\u4ec0\u8d1d\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "M\u00f3nosb\u00e9l"
-    ],
     "name:eng_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
     "name:epo_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
     "name:hun_x_preferred":[
@@ -39,16 +33,19 @@
     "name:ita_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
     "name:nan_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "M\u00f3nosb\u00e9l"
+    ],
+    "name:slk_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
     "name:slv_x_preferred":[
@@ -56,6 +53,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00f3nosb\u00e9l"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8bfa\u4ec0\u8d1d\u5c14"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125874525,
-    "wof:lastmodified":1514448196,
+    "wof:lastmodified":1561751601,
     "wof:name":"M\u00f3nosb\u00e9l",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

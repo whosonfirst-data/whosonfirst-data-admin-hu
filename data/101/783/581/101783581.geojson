@@ -20,13 +20,10 @@
     "name:ces_x_preferred":[
         "Csenger"
     ],
-    "name:chi_x_preferred":[
-        "\u7434\u84cb\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Csenger"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Csenger"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +33,6 @@
         "Csenger"
     ],
     "name:fra_x_preferred":[
-        "Csenger"
-    ],
-    "name:fre_x_preferred":[
-        "Csenger"
-    ],
-    "name:ger_x_preferred":[
         "Csenger"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Csenger"
     ],
     "name:ita_x_preferred":[
-        "Csenger"
-    ],
-    "name:may_x_preferred":[
         "Csenger"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +62,6 @@
     "name:ron_x_preferred":[
         "Csenger"
     ],
-    "name:rum_x_preferred":[
-        "Csenger"
-    ],
     "name:rup_x_preferred":[
         "Csenger"
     ],
@@ -84,9 +69,6 @@
         "\u0427\u0435\u043d\u0433\u0435\u0440"
     ],
     "name:slk_x_preferred":[
-        "Csenger"
-    ],
-    "name:slo_x_preferred":[
         "Csenger"
     ],
     "name:slv_x_preferred":[
@@ -102,9 +84,6 @@
         "\u0427\u0435\u043d\u0433\u0435\u0440"
     ],
     "name:vie_x_preferred":[
-        "Csenger"
-    ],
-    "name:wel_x_preferred":[
         "Csenger"
     ],
     "name:yid_x_preferred":[
@@ -166,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688498,
+    "wof:lastmodified":1561751563,
     "wof:name":"Csenger",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

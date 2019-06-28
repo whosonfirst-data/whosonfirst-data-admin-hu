@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Balatonendr\u00e9d"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u6258\u5ae9\u5fb7\u96f7\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Balatonendr\u00e9d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balatonendr\u00e9d"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +31,6 @@
     "name:fra_x_preferred":[
         "Balatonendr\u00e9d"
     ],
-    "name:fre_x_preferred":[
-        "Balatonendr\u00e9d"
-    ],
-    "name:ger_x_preferred":[
-        "Balatonendr\u00e9d"
-    ],
     "name:hun_x_colloquial":[
         "Balatonendred"
     ],
@@ -50,9 +38,6 @@
         "Balatonendr\u00e9d"
     ],
     "name:ita_x_preferred":[
-        "Balatonendr\u00e9d"
-    ],
-    "name:may_x_preferred":[
         "Balatonendr\u00e9d"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Balatonendr\u00e9d"
     ],
-    "name:rum_x_preferred":[
-        "Balatonendr\u00e9d"
-    ],
     "name:slk_x_preferred":[
-        "Balatonendr\u00e9d"
-    ],
-    "name:slo_x_preferred":[
         "Balatonendr\u00e9d"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Balatonendr\u00e9d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u6d1b\u6258\u5ae9\u5fb7\u96f7\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1561751590,
     "wof:name":"Balatonendr\u00e9d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

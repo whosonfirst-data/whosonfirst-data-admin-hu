@@ -18,10 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u6bd4\u8003\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bikal"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +27,7 @@
     "name:epo_x_preferred":[
         "Bikal"
     ],
-    "name:fre_x_preferred":[
-        "Bikal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bikal"
     ],
     "name:hrv_x_preferred":[
@@ -45,19 +39,22 @@
     "name:ita_x_preferred":[
         "Bikal"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bikal"
     ],
     "name:nan_x_preferred":[
         "Bikal"
     ],
+    "name:nld_x_preferred":[
+        "Bikal"
+    ],
     "name:pol_x_preferred":[
         "Bikal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bikal"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bikal"
     ],
     "name:slv_x_preferred":[
@@ -68,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Bikal"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u8003\u5c14"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125778829,
-    "wof:lastmodified":1514447899,
+    "wof:lastmodified":1561751606,
     "wof:name":"Bikal",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

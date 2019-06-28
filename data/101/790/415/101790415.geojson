@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "R\u00f6szke"
     ],
-    "name:chi_x_preferred":[
-        "\u52d2\u65af\u51ef"
-    ],
-    "name:cze_x_preferred":[
-        "R\u00f6szke"
-    ],
     "name:deu_x_preferred":[
-        "R\u00f6szke"
-    ],
-    "name:dut_x_preferred":[
         "R\u00f6szke"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "R\u00f6szke"
     ],
     "name:fra_x_preferred":[
-        "R\u00f6szke"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00f6szke"
-    ],
-    "name:ger_x_preferred":[
         "R\u00f6szke"
     ],
     "name:hrv_x_preferred":[
@@ -68,22 +53,22 @@
     "name:ita_x_preferred":[
         "R\u00f6szke"
     ],
-    "name:may_x_preferred":[
-        "R\u00f6szke"
-    ],
     "name:msa_x_preferred":[
         "R\u00f6szke"
     ],
     "name:nan_x_preferred":[
         "R\u00f6szke"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "R\u00f6szke"
+    ],
+    "name:ron_x_preferred":[
         "R\u00f6szke"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0451\u0441\u043a\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "R\u00f6szke"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00f6szke"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u65af\u51ef"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Csongr\u00e1d",
@@ -155,7 +143,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641597,
+    "wof:lastmodified":1561751534,
     "wof:name":"R\u00f6szke",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

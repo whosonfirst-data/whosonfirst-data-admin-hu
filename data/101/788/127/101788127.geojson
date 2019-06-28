@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000202,
-    "geom:area_square_m":1705549.763424,
+    "geom:area_square_m":1705549.763425,
     "geom:bbox":"21.4716384905,46.9152096438,21.5038033656,46.9290317417",
     "geom:latitude":46.922795,
     "geom:longitude":21.487156,
@@ -16,13 +16,7 @@
     "mps:longitude":21.4874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9976\u8fbe\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Zsad\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "Zsad\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Zsad\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Zsad\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "Zsad\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Zsadany"
     ],
@@ -47,9 +35,6 @@
         "Zsad\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Zsad\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Zsad\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Zsad\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Zsad\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Zsad\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Zsad\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Zsad\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u9976\u8fbe\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"Zsad\u00e1ny",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

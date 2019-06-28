@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":2483583.017798,
+    "geom:area_square_m":2483583.017797,
     "geom:bbox":"18.465426192,46.803751946,18.4885849145,46.8303867785",
     "geom:latitude":46.814323,
     "geom:longitude":18.47595,
@@ -17,12 +17,6 @@
     "mps:longitude":18.47595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8fc8\u6cfd\u897f\u6d1b\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Mez\u0151szilas"
-    ],
     "name:eng_x_preferred":[
         "Mez\u0151szilas"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "Mez\u0151szilas"
     ],
-    "name:fre_x_preferred":[
-        "Mez\u0151szilas"
-    ],
     "name:hun_x_preferred":[
         "Mez\u0151szilas"
     ],
     "name:ita_x_preferred":[
-        "Mez\u0151szilas"
-    ],
-    "name:may_x_preferred":[
         "Mez\u0151szilas"
     ],
     "name:msa_x_preferred":[
@@ -56,13 +44,7 @@
     "name:ron_x_preferred":[
         "Mez\u0151szilas"
     ],
-    "name:rum_x_preferred":[
-        "Mez\u0151szilas"
-    ],
     "name:slk_x_preferred":[
-        "Mez\u0151szilas"
-    ],
-    "name:slo_x_preferred":[
         "Mez\u0151szilas"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Mez\u0151szilas"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u6cfd\u897f\u6d1b\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -123,7 +108,7 @@
         }
     ],
     "wof:id":101789467,
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"Mez\u0151szilas",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -20,10 +20,7 @@
     "name:cbk_zam_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u5c14\u68ee\u7279\u7c73\u54c8\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1rszentmih\u00e1ly"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00e1rszentmih\u00e1ly"
-    ],
     "name:hun_x_colloquial":[
         "Sarszentmihaly"
     ],
@@ -48,9 +39,6 @@
         "S\u00e1rszentmih\u00e1ly"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1rszentmih\u00e1ly"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1rszentmih\u00e1ly"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e1rszentmih\u00e1ly"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vol_x_preferred":[
         "S\u00e1rszentmih\u00e1ly"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5c14\u68ee\u7279\u7c73\u54c8\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"S\u00e1rszentmih\u00e1ly",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -17,17 +17,11 @@
     "mps:longitude":16.508221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u683c\u798f\u5c14\u6c83"
-    ],
     "name:deu_x_preferred":[
         "\u00c1gfalva"
     ],
     "name:deu_x_variant":[
         "Agendorf"
-    ],
-    "name:dut_x_preferred":[
-        "\u00c1gfalva"
     ],
     "name:eng_x_preferred":[
         "\u00c1gfalva"
@@ -39,12 +33,6 @@
         "\u0627\u06af\u0641\u0627\u0644\u0648\u0627"
     ],
     "name:fra_x_preferred":[
-        "\u00c1gfalva"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c1gfalva"
-    ],
-    "name:ger_x_preferred":[
         "\u00c1gfalva"
     ],
     "name:hrv_x_preferred":[
@@ -62,17 +50,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30af\u30d5\u30a1\u30eb\u30f4\u30a1"
     ],
-    "name:may_x_preferred":[
-        "\u00c1gfalva"
-    ],
     "name:msa_x_preferred":[
         "\u00c1gfalva"
     ],
     "name:nld_x_preferred":[
         "\u00c1gfalva"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06af\u0641\u0627\u0644\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "\u00c1gfalva"
@@ -80,10 +62,7 @@
     "name:ron_x_preferred":[
         "\u00c1gfalva"
     ],
-    "name:rum_x_preferred":[
-        "\u00c1gfalva"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00c1gfalva"
     ],
     "name:slv_x_preferred":[
@@ -94,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00c1gfalva"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u683c\u798f\u5c14\u6c83"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -145,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715654,
+    "wof:lastmodified":1561751583,
     "wof:name":"\u00c1gfalva",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

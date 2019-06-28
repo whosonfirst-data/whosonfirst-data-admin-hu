@@ -21,16 +21,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Waterstad"
-    ],
     "name:eng_x_preferred":[
         "V\u00edziv\u00e1ros"
     ],
     "name:epo_x_preferred":[
         "V\u00edziv\u00e1ros"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "V\u00edziv\u00e1ros"
     ],
     "name:hun_x_preferred":[
@@ -38,6 +35,9 @@
     ],
     "name:ita_x_preferred":[
         "V\u00edziv\u00e1ros"
+    ],
+    "name:nld_x_preferred":[
+        "Waterstad"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108940407,
-    "wof:lastmodified":1514448436,
+    "wof:lastmodified":1561751527,
     "wof:name":"Vizivaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

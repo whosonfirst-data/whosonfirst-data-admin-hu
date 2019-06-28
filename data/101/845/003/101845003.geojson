@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000084,
-    "geom:area_square_m":698087.582505,
+    "geom:area_square_m":698087.582503,
     "geom:bbox":"17.6969114302,47.4649157153,17.7143047658,47.4885877647",
     "geom:latitude":47.477314,
     "geom:longitude":17.705429,
@@ -18,12 +18,6 @@
     "mps:longitude":17.705429,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u7ecd\u79d1\u7f57\u5e15\u7279\u8003"
-    ],
-    "name:dut_x_preferred":[
-        "Sokor\u00f3p\u00e1tka"
-    ],
     "name:eng_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
     ],
@@ -33,9 +27,6 @@
     "name:fra_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
     ],
-    "name:fre_x_preferred":[
-        "Sokor\u00f3p\u00e1tka"
-    ],
     "name:hun_x_colloquial":[
         "Sokoropatka"
     ],
@@ -43,9 +34,6 @@
         "Sokor\u00f3p\u00e1tka"
     ],
     "name:ita_x_preferred":[
-        "Sokor\u00f3p\u00e1tka"
-    ],
-    "name:may_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
     ],
     "name:msa_x_preferred":[
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
     ],
-    "name:rum_x_preferred":[
-        "Sokor\u00f3p\u00e1tka"
-    ],
     "name:slk_x_preferred":[
-        "Sokor\u00f3p\u00e1tka"
-    ],
-    "name:slo_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
     ],
     "name:slv_x_preferred":[
@@ -77,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u79d1\u7f57\u5e15\u7279\u8003"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -124,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1534985950,
+    "wof:lastmodified":1561751543,
     "wof:name":"Sokor\u00f3p\u00e1tka",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

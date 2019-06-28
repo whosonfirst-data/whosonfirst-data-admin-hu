@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000536,
-    "geom:area_square_m":4518098.943466,
+    "geom:area_square_m":4518098.943465,
     "geom:bbox":"19.5384377838,47.0120260662,19.5746662475,47.0386497945",
     "geom:latitude":47.025888,
     "geom:longitude":19.55667,
@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Lajosmizse"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u7d04\u4ec0\u7c73\u71b1"
-    ],
-    "name:cze_x_preferred":[
-        "Lajosmizse"
-    ],
     "name:deu_x_preferred":[
-        "Lajosmizse"
-    ],
-    "name:dut_x_preferred":[
         "Lajosmizse"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "\u0644\u0627\u06cc\u0634\u0645\u06cc\u0698\u0647"
     ],
     "name:fra_x_preferred":[
-        "Lajosmizse"
-    ],
-    "name:fre_x_preferred":[
-        "Lajosmizse"
-    ],
-    "name:ger_x_preferred":[
         "Lajosmizse"
     ],
     "name:hbs_x_preferred":[
@@ -65,9 +50,6 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30e8\u30b7\u30e5\u30df\u30b8\u30a7"
     ],
-    "name:may_x_preferred":[
-        "Lajosmizse"
-    ],
     "name:msa_x_preferred":[
         "Lajosmizse"
     ],
@@ -77,16 +59,10 @@
     "name:nld_x_preferred":[
         "Lajosmizse"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u06cc\u0634\u0645\u06cc\u0698\u0647"
-    ],
     "name:pol_x_preferred":[
         "Lajosmizse"
     ],
     "name:ron_x_preferred":[
-        "Lajosmizse"
-    ],
-    "name:rum_x_preferred":[
         "Lajosmizse"
     ],
     "name:rup_x_preferred":[
@@ -96,9 +72,6 @@
         "\u041b\u0430\u0439\u043e\u0448\u043c\u0438\u0436\u0435"
     ],
     "name:slk_x_preferred":[
-        "Lajosmizse"
-    ],
-    "name:slo_x_preferred":[
         "Lajosmizse"
     ],
     "name:slv_x_preferred":[
@@ -172,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"Lajosmizse",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

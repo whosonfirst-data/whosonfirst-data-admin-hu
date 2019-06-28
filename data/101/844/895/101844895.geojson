@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":907846.991256,
+    "geom:area_square_m":907846.991257,
     "geom:bbox":"17.5828207471,45.9709051492,17.5950053414,45.9915008327",
     "geom:latitude":45.983258,
     "geom:longitude":17.588422,
@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Dar\u00e1ny"
     ],
-    "name:chi_x_preferred":[
-        "\u9053\u62c9\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Dar\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dar\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
         "Dar\u00e1ny"
     ],
     "name:fra_x_preferred":[
-        "Dar\u00e1ny"
-    ],
-    "name:fre_x_preferred":[
-        "Dar\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
         "Dar\u00e1ny"
     ],
     "name:hrv_x_preferred":[
@@ -55,9 +43,6 @@
     "name:ita_x_preferred":[
         "Dar\u00e1ny"
     ],
-    "name:may_x_preferred":[
-        "Dar\u00e1ny"
-    ],
     "name:msa_x_preferred":[
         "Dar\u00e1ny"
     ],
@@ -70,13 +55,7 @@
     "name:ron_x_preferred":[
         "Dar\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Dar\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Dar\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Dar\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -87,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Dar\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u62c9\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642622,
+    "wof:lastmodified":1561751547,
     "wof:name":"Dar\u00e1ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

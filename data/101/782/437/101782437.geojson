@@ -16,13 +16,7 @@
     "mps:longitude":20.912325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u970d\u59c6\u7f57\u683c\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Homrogd"
-    ],
-    "name:dut_x_preferred":[
         "Homrogd"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Homrogd"
     ],
-    "name:fre_x_preferred":[
-        "Homrogd"
-    ],
-    "name:ger_x_preferred":[
-        "Homrogd"
-    ],
     "name:hun_x_preferred":[
         "Homrogd"
     ],
     "name:ita_x_preferred":[
-        "Homrogd"
-    ],
-    "name:may_x_preferred":[
         "Homrogd"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Homrogd"
     ],
-    "name:rum_x_preferred":[
-        "Homrogd"
-    ],
     "name:slk_x_preferred":[
-        "Homrogd"
-    ],
-    "name:slo_x_preferred":[
         "Homrogd"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688317,
+    "wof:lastmodified":1561751559,
     "wof:name":"Homrogd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

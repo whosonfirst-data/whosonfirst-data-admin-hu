@@ -16,16 +16,10 @@
     "mps:longitude":18.824079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62dc\u6d1b\u4f0a\u7fc1\u5c3c\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Beloiannisz"
     ],
     "name:deu_x_preferred":[
-        "Beloiannisz"
-    ],
-    "name:dut_x_preferred":[
         "Beloiannisz"
     ],
     "name:ell_x_preferred":[
@@ -40,22 +34,10 @@
     "name:fra_x_preferred":[
         "Beloiannisz"
     ],
-    "name:fre_x_preferred":[
-        "Beloiannisz"
-    ],
-    "name:ger_x_preferred":[
-        "Beloiannisz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bb\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2"
-    ],
     "name:hun_x_preferred":[
         "Beloiannisz"
     ],
     "name:ita_x_preferred":[
-        "Beloiannisz"
-    ],
-    "name:may_x_preferred":[
         "Beloiannisz"
     ],
     "name:msa_x_preferred":[
@@ -70,13 +52,7 @@
     "name:ron_x_preferred":[
         "Beloiannisz"
     ],
-    "name:rum_x_preferred":[
-        "Beloiannisz"
-    ],
     "name:slk_x_preferred":[
-        "Beloiannisz"
-    ],
-    "name:slo_x_preferred":[
         "Beloiannisz"
     ],
     "name:slv_x_preferred":[
@@ -146,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715651,
+    "wof:lastmodified":1561751583,
     "wof:name":"Beloiannisz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

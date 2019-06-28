@@ -16,12 +16,6 @@
     "mps:longitude":20.870766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u97e6\u76d6\u5409\u54c8\u4f50"
-    ],
-    "name:dut_x_preferred":[
-        "V\u00e9gegyh\u00e1za"
-    ],
     "name:eng_x_preferred":[
         "V\u00e9gegyh\u00e1za"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "V\u00e9gegyh\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e9gegyh\u00e1za"
-    ],
     "name:hun_x_colloquial":[
         "Vegegyhaza"
     ],
@@ -41,9 +32,6 @@
         "V\u00e9gegyh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "V\u00e9gegyh\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "V\u00e9gegyh\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "V\u00e9gegyh\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e9gegyh\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "V\u00e9gegyh\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "V\u00e9gegyh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e9gegyh\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u76d6\u5409\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641603,
+    "wof:lastmodified":1561751538,
     "wof:name":"V\u00e9gegyh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

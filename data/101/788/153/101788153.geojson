@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2543150.367161,
+    "geom:area_square_m":2543150.367159,
     "geom:bbox":"18.0601016272,47.3145223638,18.1224909549,47.3286296949",
     "geom:latitude":47.321625,
     "geom:longitude":18.091057,
@@ -17,10 +17,7 @@
     "mps:longitude":18.088028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u79d1\u5c3c\u5207\u5c14\u6d85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bakonycsernye"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Bakonycsernye"
     ],
-    "name:fre_x_preferred":[
-        "Bakonycsernye"
-    ],
-    "name:ger_x_preferred":[
-        "Bakonycsernye"
-    ],
     "name:hun_x_preferred":[
         "Bakonycsernye"
     ],
     "name:ita_x_preferred":[
-        "Bakonycsernye"
-    ],
-    "name:may_x_preferred":[
         "Bakonycsernye"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Bakonycsernye"
     ],
-    "name:rum_x_preferred":[
-        "Bakonycsernye"
-    ],
     "name:slk_x_preferred":[
-        "\u010cer\u0148a"
-    ],
-    "name:slo_x_preferred":[
         "\u010cer\u0148a"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Bakonycsernye",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

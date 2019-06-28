@@ -23,19 +23,10 @@
     "name:ces_x_preferred":[
         "Balk\u00e1ny"
     ],
-    "name:chi_x_preferred":[
-        "\u9b91\u723e\u5361\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Balk\u00e1ny"
-    ],
     "name:dan_x_preferred":[
         "Balk\u00e1ny"
     ],
     "name:deu_x_preferred":[
-        "Balk\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "Balk\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Balk\u00e1ny"
     ],
     "name:fra_x_preferred":[
-        "Balk\u00e1ny"
-    ],
-    "name:fre_x_preferred":[
-        "Balk\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
         "Balk\u00e1ny"
     ],
     "name:hrv_x_preferred":[
@@ -65,9 +50,6 @@
     "name:ita_x_preferred":[
         "Balk\u00e1ny"
     ],
-    "name:may_x_preferred":[
-        "Balk\u00e1ny"
-    ],
     "name:msa_x_preferred":[
         "Balk\u00e1ny"
     ],
@@ -80,7 +62,7 @@
     "name:pol_x_preferred":[
         "Balk\u00e1ny"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Balk\u00e1ny"
     ],
     "name:rup_x_preferred":[
@@ -89,7 +71,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044c\u043a\u0430\u043d\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Balk\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -109,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "Balk\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b91\u723e\u5361\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -160,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688536,
+    "wof:lastmodified":1561751566,
     "wof:name":"Balk\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

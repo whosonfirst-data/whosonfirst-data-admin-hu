@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000606,
-    "geom:area_square_m":5015677.02437,
+    "geom:area_square_m":5015677.024371,
     "geom:bbox":"22.488257698,47.9729375552,22.5332460825,48.0041725597",
     "geom:latitude":47.986322,
     "geom:longitude":22.513869,
@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u9ed1\u723e\u7126\u723e\u6bdb\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Feh\u00e9rgyarmat"
-    ],
     "name:deu_x_preferred":[
-        "Feh\u00e9rgyarmat"
-    ],
-    "name:dut_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Feh\u00e9rgyarmat"
     ],
     "name:fra_x_preferred":[
-        "Feh\u00e9rgyarmat"
-    ],
-    "name:fre_x_preferred":[
-        "Feh\u00e9rgyarmat"
-    ],
-    "name:ger_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
     "name:heb_x_preferred":[
@@ -57,9 +42,6 @@
         "Feh\u00e9rgyarmat"
     ],
     "name:ita_x_preferred":[
-        "Feh\u00e9rgyarmat"
-    ],
-    "name:may_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
     "name:msa_x_preferred":[
@@ -77,16 +59,13 @@
     "name:ron_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
-    "name:rum_x_preferred":[
-        "Feh\u00e9rgyarmat"
-    ],
     "name:rup_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0435\u0445\u0435\u0440\u0434\u044c\u044f\u0440\u043c\u0430\u0442"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Feh\u00e9rgyarmat"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "Feh\u00e9rgyarmat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u9ed1\u723e\u7126\u723e\u6bdb\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -154,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Feh\u00e9rgyarmat",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

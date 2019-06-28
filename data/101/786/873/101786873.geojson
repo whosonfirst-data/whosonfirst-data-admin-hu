@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0434\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u9676\u5c14\u591a\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Tardos"
-    ],
     "name:eng_x_preferred":[
         "Tardos"
     ],
@@ -33,9 +27,6 @@
         "Tardos"
     ],
     "name:fra_x_preferred":[
-        "Tardos"
-    ],
-    "name:fre_x_preferred":[
         "Tardos"
     ],
     "name:hun_x_colloquial":[
@@ -46,9 +37,6 @@
         "Tardos"
     ],
     "name:ita_x_preferred":[
-        "Tardos"
-    ],
-    "name:may_x_preferred":[
         "Tardos"
     ],
     "name:msa_x_preferred":[
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "Tardos"
     ],
-    "name:rum_x_preferred":[
-        "Tardos"
-    ],
     "name:slk_x_preferred":[
-        "Tardo\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Tardo\u0161"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715644,
+    "wof:lastmodified":1561751581,
     "wof:name":"Tardos",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

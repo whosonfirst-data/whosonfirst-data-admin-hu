@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000935,
-    "geom:area_square_m":7785328.635653,
+    "geom:area_square_m":7785328.635655,
     "geom:bbox":"19.2571504763,47.6332306522,19.3083250789,47.6712251064",
     "geom:latitude":47.654109,
     "geom:longitude":19.281649,
@@ -17,16 +17,10 @@
     "mps:longitude":19.279592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u97cb\u8cf4\u8b1d\u5409\u54c8\u8332"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Veresegyh\u00e1z"
     ],
     "name:deu_x_preferred":[
-        "Veresegyh\u00e1z"
-    ],
-    "name:dut_x_preferred":[
         "Veresegyh\u00e1z"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "Veresegyh\u00e1z"
     ],
-    "name:fre_x_preferred":[
-        "Veresegyh\u00e1z"
-    ],
-    "name:ger_x_preferred":[
-        "Veresegyh\u00e1z"
-    ],
     "name:hun_x_colloquial":[
         "Veresegyhaz"
     ],
@@ -54,9 +42,6 @@
         "Veresegyh\u00e1z"
     ],
     "name:ita_x_preferred":[
-        "Veresegyh\u00e1z"
-    ],
-    "name:may_x_preferred":[
         "Veresegyh\u00e1z"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,10 @@
     "name:nld_x_preferred":[
         "Veresegyh\u00e1z"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0634\u06af\u0647\u0632"
-    ],
     "name:pol_x_preferred":[
         "Veresegyh\u00e1z"
     ],
     "name:ron_x_preferred":[
-        "Veresegyh\u00e1z"
-    ],
-    "name:rum_x_preferred":[
         "Veresegyh\u00e1z"
     ],
     "name:rup_x_preferred":[
@@ -86,7 +65,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0435\u0448\u0435\u0434\u044c\u0445\u0430\u0437"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Veresegyh\u00e1z"
     ],
     "name:slv_x_preferred":[
@@ -100,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Veresegyh\u00e1z"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u8cf4\u8b1d\u5409\u54c8\u8332"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -151,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642920,
+    "wof:lastmodified":1561751550,
     "wof:name":"Veresegyh\u00e1z",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

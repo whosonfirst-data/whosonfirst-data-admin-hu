@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1466537.787304,
+    "geom:area_square_m":1466537.787305,
     "geom:bbox":"17.9753147572,45.852368426,17.9989783669,45.8670480576",
     "geom:latitude":45.859876,
     "geom:longitude":17.986042,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Vajszl\u00f3"
     ],
-    "name:dut_x_preferred":[
-        "Vajszl\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Vajszl\u00f3"
     ],
@@ -30,12 +27,6 @@
         "Vajszl\u00f3"
     ],
     "name:fra_x_preferred":[
-        "Vajszl\u00f3"
-    ],
-    "name:fre_x_preferred":[
-        "Vajszl\u00f3"
-    ],
-    "name:ger_x_preferred":[
         "Vajszl\u00f3"
     ],
     "name:hrv_x_preferred":[
@@ -48,9 +39,6 @@
         "Vajszl\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Vajszl\u00f3"
-    ],
-    "name:may_x_preferred":[
         "Vajszl\u00f3"
     ],
     "name:msa_x_preferred":[
@@ -68,10 +56,7 @@
     "name:ron_x_preferred":[
         "Vajszl\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Vajszl\u00f3"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vajszl\u00f3"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561751542,
     "wof:name":"Vajszl\u00f3",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

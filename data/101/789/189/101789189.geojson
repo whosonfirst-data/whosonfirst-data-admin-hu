@@ -16,12 +16,6 @@
     "mps:longitude":17.297235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74e6\u5c14\u6c83\u5c14\u5409"
-    ],
-    "name:dut_x_preferred":[
-        "V\u00e1rv\u00f6lgy"
-    ],
     "name:eng_x_preferred":[
         "V\u00e1rv\u00f6lgy"
     ],
@@ -29,9 +23,6 @@
         "V\u00e1rv\u00f6lgy"
     ],
     "name:fra_x_preferred":[
-        "V\u00e1rv\u00f6lgy"
-    ],
-    "name:fre_x_preferred":[
         "V\u00e1rv\u00f6lgy"
     ],
     "name:hun_x_colloquial":[
@@ -42,9 +33,6 @@
         "V\u00e1rv\u00f6lgy"
     ],
     "name:ita_x_preferred":[
-        "V\u00e1rv\u00f6lgy"
-    ],
-    "name:may_x_preferred":[
         "V\u00e1rv\u00f6lgy"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "V\u00e1rv\u00f6lgy"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e1rv\u00f6lgy"
-    ],
     "name:slk_x_preferred":[
-        "V\u00e1rv\u00f6lgy"
-    ],
-    "name:slo_x_preferred":[
         "V\u00e1rv\u00f6lgy"
     ],
     "name:slv_x_preferred":[
@@ -73,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e1rv\u00f6lgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5c14\u6c83\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Zala",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"V\u00e1rv\u00f6lgy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

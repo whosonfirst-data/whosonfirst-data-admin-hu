@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":757850.18296,
+    "geom:area_square_m":757850.182959,
     "geom:bbox":"18.7672064035,47.8792922035,18.7841721295,47.8895375919",
     "geom:latitude":47.884618,
     "geom:longitude":18.775391,
@@ -16,10 +16,7 @@
     "mps:longitude":18.775969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u83b1\u7279\u51ef\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Letk\u00e9s"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Letk\u00e9s"
     ],
-    "name:fre_x_preferred":[
-        "Letk\u00e9s"
-    ],
-    "name:ger_x_preferred":[
-        "Letk\u00e9s"
-    ],
     "name:hun_x_colloquial":[
         "Letkes"
     ],
@@ -44,9 +35,6 @@
         "Letk\u00e9s"
     ],
     "name:ita_x_preferred":[
-        "Letk\u00e9s"
-    ],
-    "name:may_x_preferred":[
         "Letk\u00e9s"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Letk\u00e9s"
     ],
-    "name:rum_x_preferred":[
-        "Letk\u00e9s"
-    ],
     "name:slk_x_preferred":[
-        "Letk\u00e9s"
-    ],
-    "name:slo_x_preferred":[
         "Letk\u00e9s"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Letk\u00e9s"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u7279\u51ef\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688544,
+    "wof:lastmodified":1561751568,
     "wof:name":"Letk\u00e9s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

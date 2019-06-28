@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":767955.942966,
+    "geom:area_square_m":767955.942965,
     "geom:bbox":"17.6160126214,47.1386723392,17.6299165571,47.1512915809",
     "geom:latitude":47.145112,
     "geom:longitude":17.623192,
@@ -16,13 +16,7 @@
     "mps:longitude":17.623771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57fa\u4ec0\u52d2\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Kisl\u0151d"
-    ],
-    "name:dut_x_preferred":[
         "Kisl\u0151d"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kisl\u0151d"
     ],
-    "name:fre_x_preferred":[
-        "Kisl\u0151d"
-    ],
-    "name:ger_x_preferred":[
-        "Kisl\u0151d"
-    ],
     "name:hun_x_preferred":[
         "Kisl\u0151d"
     ],
     "name:ita_x_preferred":[
-        "Kisl\u0151d"
-    ],
-    "name:may_x_preferred":[
         "Kisl\u0151d"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Kisl\u0151d"
     ],
-    "name:rum_x_preferred":[
-        "Kisl\u0151d"
-    ],
     "name:slk_x_preferred":[
-        "Kisl\u0151d"
-    ],
-    "name:slo_x_preferred":[
         "Kisl\u0151d"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Kisl\u0151d"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u4ec0\u52d2\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -122,7 +104,7 @@
         }
     ],
     "wof:id":101788095,
-    "wof:lastmodified":1527715576,
+    "wof:lastmodified":1561751577,
     "wof:name":"Kisl\u0151d",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":2781934.770973,
+    "geom:area_square_m":2781934.770974,
     "geom:bbox":"22.2611577819,48.1382300809,22.3070639996,48.181528431",
     "geom:latitude":48.160192,
     "geom:longitude":22.282801,
@@ -16,10 +16,7 @@
     "mps:longitude":22.283149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u6c83\u5c14\u6c99\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagyvars\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Nagyvars\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Nagyvars\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyvars\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Nagyvarsany"
     ],
@@ -44,9 +35,6 @@
         "Nagyvars\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Nagyvars\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Nagyvars\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyvars\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Nagyvars\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Nagyvars\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Nagyvars\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyvars\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u6c83\u5c14\u6c99\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715871,
+    "wof:lastmodified":1561751586,
     "wof:name":"Nagyvars\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

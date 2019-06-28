@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1954353.925861,
+    "geom:area_square_m":1954353.925862,
     "geom:bbox":"21.6332720151,48.0927030451,21.6579305206,48.1163678509",
     "geom:latitude":48.101203,
     "geom:longitude":21.646005,
@@ -17,10 +17,7 @@
     "mps:longitude":21.645164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e03\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Buj"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Buj"
     ],
-    "name:fre_x_preferred":[
-        "Buj"
-    ],
-    "name:ger_x_preferred":[
-        "Buj"
-    ],
     "name:hun_x_preferred":[
         "Buj"
     ],
     "name:ita_x_preferred":[
-        "Buj"
-    ],
-    "name:may_x_preferred":[
         "Buj"
     ],
     "name:msa_x_preferred":[
@@ -59,16 +47,10 @@
     "name:ron_x_preferred":[
         "Buj"
     ],
-    "name:rum_x_preferred":[
-        "Buj"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0439"
     ],
     "name:slk_x_preferred":[
-        "Buj"
-    ],
-    "name:slo_x_preferred":[
         "Buj"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561751558,
     "wof:name":"Buj",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

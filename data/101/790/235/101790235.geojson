@@ -17,10 +17,7 @@
     "mps:longitude":18.816292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u675c\u7459\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dunaszentgy\u00f6rgy"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Dunaszentgy\u00f6rgy"
     ],
-    "name:fre_x_preferred":[
-        "Dunaszentgy\u00f6rgy"
-    ],
-    "name:ger_x_preferred":[
-        "Dunaszentgy\u00f6rgy"
-    ],
     "name:hun_x_colloquial":[
         "Dunaszentgyoergy",
         "Dunaszentgyorgy"
@@ -46,9 +37,6 @@
         "Dunaszentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "Dunaszentgy\u00f6rgy"
-    ],
-    "name:may_x_preferred":[
         "Dunaszentgy\u00f6rgy"
     ],
     "name:msa_x_preferred":[
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "Dunaszentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "Dunaszentgy\u00f6rgy"
-    ],
     "name:slk_x_preferred":[
-        "Dunaszentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
         "Dunaszentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -80,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Dunaszentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u7459\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641597,
+    "wof:lastmodified":1561751534,
     "wof:name":"Dunaszentgy\u00f6rgy",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

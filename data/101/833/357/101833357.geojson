@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2071504.660661,
+    "geom:area_square_m":2071504.66066,
     "geom:bbox":"19.4644692208,47.6250405234,19.5013170954,47.6434907859",
     "geom:latitude":47.634748,
     "geom:longitude":19.48106,
@@ -17,7 +17,7 @@
     "mps:longitude":19.481339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bag"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +29,6 @@
     "name:fra_x_preferred":[
         "Bag"
     ],
-    "name:fre_x_preferred":[
-        "Bag"
-    ],
-    "name:ger_x_preferred":[
-        "Bag"
-    ],
     "name:hun_x_preferred":[
         "Bag"
     ],
@@ -43,9 +37,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30b0"
-    ],
-    "name:may_x_preferred":[
-        "Bag"
     ],
     "name:msa_x_preferred":[
         "Bag"
@@ -62,13 +53,7 @@
     "name:ron_x_preferred":[
         "Bag"
     ],
-    "name:rum_x_preferred":[
-        "Bag"
-    ],
     "name:slk_x_preferred":[
-        "Bag"
-    ],
-    "name:slo_x_preferred":[
         "Bag"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815531,
+    "wof:lastmodified":1561751551,
     "wof:name":"Bag",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

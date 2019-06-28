@@ -16,10 +16,7 @@
     "mps:longitude":17.64342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8fc8\u6cfd\u4e54\u79d1\u5c3c\u5965"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mez\u0151csokonya"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Mez\u0151csokonya"
     ],
-    "name:fre_x_preferred":[
-        "Mez\u0151csokonya"
-    ],
-    "name:ger_x_preferred":[
-        "Mez\u0151csokonya"
-    ],
     "name:hun_x_preferred":[
         "Mez\u0151csokonya"
     ],
     "name:ita_x_preferred":[
-        "Mez\u0151csokonya"
-    ],
-    "name:may_x_preferred":[
         "Mez\u0151csokonya"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Mez\u0151csokonya"
     ],
-    "name:rum_x_preferred":[
-        "Mez\u0151csokonya"
-    ],
     "name:slk_x_preferred":[
-        "Mez\u0151csokonya"
-    ],
-    "name:slo_x_preferred":[
         "Mez\u0151csokonya"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Mez\u0151csokonya"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u6cfd\u4e54\u79d1\u5c3c\u5965"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101790319,
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561751539,
     "wof:name":"Mez\u0151csokonya",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

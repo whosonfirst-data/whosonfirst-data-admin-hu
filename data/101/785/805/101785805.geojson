@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":847637.821265,
+    "geom:area_square_m":847637.821266,
     "geom:bbox":"18.5919204699,47.676470903,18.6116290912,47.69180379",
     "geom:latitude":47.684902,
     "geom:longitude":18.601109,
@@ -16,12 +16,6 @@
     "mps:longitude":18.600437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u6c99\u666e"
-    ],
-    "name:dut_x_preferred":[
-        "Nagys\u00e1p"
-    ],
     "name:eng_x_preferred":[
         "Nagys\u00e1p"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Nagys\u00e1p"
     ],
-    "name:fre_x_preferred":[
-        "Nagys\u00e1p"
-    ],
     "name:hun_x_colloquial":[
         "Nagysap"
     ],
@@ -41,9 +32,6 @@
         "Nagys\u00e1p"
     ],
     "name:ita_x_preferred":[
-        "Nagys\u00e1p"
-    ],
-    "name:may_x_preferred":[
         "Nagys\u00e1p"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Nagys\u00e1p"
     ],
-    "name:rum_x_preferred":[
-        "Nagys\u00e1p"
-    ],
     "name:slk_x_preferred":[
-        "Nagys\u00e1p"
-    ],
-    "name:slo_x_preferred":[
         "Nagys\u00e1p"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagys\u00e1p"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6c99\u666e"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677696,
+    "wof:lastmodified":1561751555,
     "wof:name":"Nagys\u00e1p",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

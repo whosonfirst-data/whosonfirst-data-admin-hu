@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1435872.841085,
+    "geom:area_square_m":1435872.841087,
     "geom:bbox":"22.3499347761,48.0338896102,22.3835410497,48.0529326417",
     "geom:latitude":48.042813,
     "geom:longitude":22.367094,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043c\u043e\u0441\u0437\u0435\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u83ab\u4ec0\u585e\u683c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szamosszeg"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Szamosszeg"
     ],
-    "name:fre_x_preferred":[
-        "Szamosszeg"
-    ],
-    "name:ger_x_preferred":[
-        "Szamosszeg"
-    ],
     "name:hun_x_preferred":[
         "Szamosszeg"
     ],
     "name:ita_x_preferred":[
-        "Szamosszeg"
-    ],
-    "name:may_x_preferred":[
         "Szamosszeg"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Szamosszeg"
     ],
-    "name:rum_x_preferred":[
-        "Szamosszeg"
-    ],
     "name:slk_x_preferred":[
-        "Szamosszeg"
-    ],
-    "name:slo_x_preferred":[
         "Szamosszeg"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561751559,
     "wof:name":"Szamosszeg",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

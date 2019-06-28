@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000457,
-    "geom:area_square_m":3794524.36391,
+    "geom:area_square_m":3794524.363912,
     "geom:bbox":"19.018845698,47.8175038319,19.055712616,47.8501722089",
     "geom:latitude":47.829379,
     "geom:longitude":19.035606,
@@ -17,7 +17,7 @@
     "mps:longitude":19.035326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ver\u0151ce"
     ],
     "name:eng_x_preferred":[
@@ -29,19 +29,10 @@
     "name:fra_x_preferred":[
         "Ver\u0151ce"
     ],
-    "name:fre_x_preferred":[
-        "Ver\u0151ce"
-    ],
-    "name:ger_x_preferred":[
-        "Ver\u0151ce"
-    ],
     "name:hun_x_preferred":[
         "Ver\u0151ce"
     ],
     "name:ita_x_preferred":[
-        "Ver\u0151ce"
-    ],
-    "name:may_x_preferred":[
         "Ver\u0151ce"
     ],
     "name:msa_x_preferred":[
@@ -56,13 +47,7 @@
     "name:ron_x_preferred":[
         "Ver\u0151ce"
     ],
-    "name:rum_x_preferred":[
-        "Ver\u0151ce"
-    ],
     "name:slk_x_preferred":[
-        "Ver\u0151ce"
-    ],
-    "name:slo_x_preferred":[
         "Ver\u0151ce"
     ],
     "name:slv_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101832551,
-    "wof:lastmodified":1527642780,
+    "wof:lastmodified":1561751550,
     "wof:name":"Ver\u0151ce",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

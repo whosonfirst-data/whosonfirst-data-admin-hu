@@ -20,13 +20,10 @@
     "name:cat_x_preferred":[
         "Vaja"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u582f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vaja"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vaja"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +35,6 @@
     "name:fra_x_preferred":[
         "Vaja"
     ],
-    "name:fre_x_preferred":[
-        "Vaja"
-    ],
-    "name:ger_x_preferred":[
-        "Vaja"
-    ],
     "name:hbs_x_preferred":[
         "Vaja"
     ],
@@ -51,9 +42,6 @@
         "Vaja"
     ],
     "name:ita_x_preferred":[
-        "Vaja"
-    ],
-    "name:may_x_preferred":[
         "Vaja"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +59,10 @@
     "name:ron_x_preferred":[
         "Vaja"
     ],
-    "name:rum_x_preferred":[
-        "Vaja"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0439\u044f"
     ],
     "name:slk_x_preferred":[
-        "Vaja"
-    ],
-    "name:slo_x_preferred":[
         "Vaja"
     ],
     "name:slv_x_preferred":[
@@ -154,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688505,
+    "wof:lastmodified":1561751565,
     "wof:name":"Vaja",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

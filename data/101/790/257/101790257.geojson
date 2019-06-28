@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2693264.391324,
+    "geom:area_square_m":2693264.391323,
     "geom:bbox":"18.8076484782,46.4564543213,18.8375401212,46.4816412443",
     "geom:latitude":46.465917,
     "geom:longitude":18.822625,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Fadd"
     ],
-    "name:dut_x_preferred":[
-        "Fadd"
-    ],
     "name:eng_x_preferred":[
         "Fadd"
     ],
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Fadd"
     ],
-    "name:fre_x_preferred":[
-        "Fadd"
-    ],
-    "name:ger_x_preferred":[
-        "Fadd"
-    ],
     "name:hun_x_preferred":[
         "Fadd"
     ],
     "name:ita_x_preferred":[
-        "Fadd"
-    ],
-    "name:may_x_preferred":[
         "Fadd"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Fadd"
     ],
-    "name:rum_x_preferred":[
-        "Fadd"
-    ],
     "name:slk_x_preferred":[
-        "Fadd"
-    ],
-    "name:slo_x_preferred":[
         "Fadd"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641597,
+    "wof:lastmodified":1561751534,
     "wof:name":"Fadd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":718096.601947,
+    "geom:area_square_m":718096.601946,
     "geom:bbox":"19.7919544724,47.0957174693,19.8084798558,47.1048075614",
     "geom:latitude":47.10018,
     "geom:longitude":19.799917,
@@ -16,10 +16,7 @@
     "mps:longitude":19.799103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9a\u5c14\u7ecd\u5e15\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ny\u00e1rsap\u00e1t"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Ny\u00e1rsap\u00e1t"
     ],
-    "name:fre_x_preferred":[
-        "Ny\u00e1rsap\u00e1t"
-    ],
-    "name:ger_x_preferred":[
-        "Ny\u00e1rsap\u00e1t"
-    ],
     "name:hun_x_colloquial":[
         "Nyarsapat"
     ],
@@ -44,9 +35,6 @@
         "Ny\u00e1rsap\u00e1t"
     ],
     "name:ita_x_preferred":[
-        "Ny\u00e1rsap\u00e1t"
-    ],
-    "name:may_x_preferred":[
         "Ny\u00e1rsap\u00e1t"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Ny\u00e1rsap\u00e1t"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00e1rsap\u00e1t"
-    ],
     "name:slk_x_preferred":[
-        "Ny\u00e1rsap\u00e1t"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00e1rsap\u00e1t"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Ny\u00e1rsap\u00e1t"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9a\u5c14\u7ecd\u5e15\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715844,
+    "wof:lastmodified":1561751584,
     "wof:name":"Ny\u00e1rsap\u00e1t",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

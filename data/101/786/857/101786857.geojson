@@ -16,12 +16,6 @@
     "mps:longitude":18.613881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u5e03\u8fea"
-    ],
-    "name:dut_x_preferred":[
-        "Csabdi"
-    ],
     "name:eng_x_preferred":[
         "Csabdi"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Csabdi"
     ],
-    "name:fre_x_preferred":[
-        "Csabdi"
-    ],
     "name:hun_x_preferred":[
         "Csabdi"
     ],
     "name:ita_x_preferred":[
-        "Csabdi"
-    ],
-    "name:may_x_preferred":[
         "Csabdi"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Csabdi"
     ],
-    "name:rum_x_preferred":[
-        "Csabdi"
-    ],
     "name:slk_x_preferred":[
-        "Csabdi"
-    ],
-    "name:slo_x_preferred":[
         "Csabdi"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715645,
+    "wof:lastmodified":1561751581,
     "wof:name":"Csabdi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

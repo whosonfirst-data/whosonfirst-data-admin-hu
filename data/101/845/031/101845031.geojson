@@ -16,10 +16,7 @@
     "mps:longitude":19.430745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5207\u592b\u8c6a\u52b3\u65af\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cs\u00e9vharaszt"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Cs\u00e9vharaszt"
     ],
-    "name:fre_x_preferred":[
-        "Cs\u00e9vharaszt"
-    ],
-    "name:ger_x_preferred":[
-        "Cs\u00e9vharaszt"
-    ],
     "name:hun_x_colloquial":[
         "Csevharaszt"
     ],
@@ -44,9 +35,6 @@
         "Cs\u00e9vharaszt"
     ],
     "name:ita_x_preferred":[
-        "Cs\u00e9vharaszt"
-    ],
-    "name:may_x_preferred":[
         "Cs\u00e9vharaszt"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Cs\u00e9vharaszt"
     ],
-    "name:rum_x_preferred":[
-        "Cs\u00e9vharaszt"
-    ],
     "name:slk_x_preferred":[
-        "Cs\u00e9vharaszt"
-    ],
-    "name:slo_x_preferred":[
         "Cs\u00e9vharaszt"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Cs\u00e9vharaszt"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u592b\u8c6a\u52b3\u65af\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1561751543,
     "wof:name":"Cs\u00e9vharaszt",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

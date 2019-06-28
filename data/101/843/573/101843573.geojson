@@ -19,12 +19,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u064a\u0631\u0643"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u5c3c\u5965\u5c14\u8328"
-    ],
-    "name:dut_x_preferred":[
-        "Vanyarc"
-    ],
     "name:eng_x_preferred":[
         "Vanyarc"
     ],
@@ -37,9 +31,6 @@
     "name:fra_x_preferred":[
         "Vanyarc"
     ],
-    "name:fre_x_preferred":[
-        "Vanyarc"
-    ],
     "name:hrv_x_preferred":[
         "Venjarac"
     ],
@@ -47,9 +38,6 @@
         "Vanyarc"
     ],
     "name:ita_x_preferred":[
-        "Vanyarc"
-    ],
-    "name:may_x_preferred":[
         "Vanyarc"
     ],
     "name:msa_x_preferred":[
@@ -61,22 +49,13 @@
     "name:nld_x_preferred":[
         "Vanyarc"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0646\u06cc\u0631\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Vanyarc"
     ],
     "name:ron_x_preferred":[
         "Vanyarc"
     ],
-    "name:rum_x_preferred":[
-        "Vanyarc"
-    ],
     "name:slk_x_preferred":[
-        "Va\u0148arec"
-    ],
-    "name:slo_x_preferred":[
         "Va\u0148arec"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642595,
+    "wof:lastmodified":1561751545,
     "wof:name":"Vanyarc",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

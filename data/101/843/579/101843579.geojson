@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":727912.191695,
+    "geom:area_square_m":727912.191694,
     "geom:bbox":"21.9507362487,48.0067519551,21.9676738207,48.0302168223",
     "geom:latitude":48.018329,
     "geom:longitude":21.961382,
@@ -16,10 +16,7 @@
     "mps:longitude":21.964077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c3c\u91cc\u5e03\u7f57\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ny\u00edribrony"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Ny\u00edribrony"
     ],
-    "name:fre_x_preferred":[
-        "Ny\u00edribrony"
-    ],
-    "name:ger_x_preferred":[
-        "Ny\u00edribrony"
-    ],
     "name:hun_x_colloquial":[
         "Nyiribrony"
     ],
@@ -44,9 +35,6 @@
         "Ny\u00edribrony"
     ],
     "name:ita_x_preferred":[
-        "Ny\u00edribrony"
-    ],
-    "name:may_x_preferred":[
         "Ny\u00edribrony"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Ny\u00edribrony"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00edribrony"
-    ],
     "name:slk_x_preferred":[
-        "Ny\u00edribrony"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00edribrony"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Ny\u00edribrony"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u91cc\u5e03\u7f57\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642601,
+    "wof:lastmodified":1561751546,
     "wof:name":"Ny\u00edribrony",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

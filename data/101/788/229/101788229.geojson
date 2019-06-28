@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":5475296.912257,
+    "geom:area_square_m":5475296.912259,
     "geom:bbox":"20.5114949671,47.2247719019,20.5434637774,47.2725712748",
     "geom:latitude":47.249091,
     "geom:longitude":20.528242,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u0424\u0435\u0433\u0439\u0432\u0435\u0440\u043d\u0435\u043a"
     ],
-    "name:dut_x_preferred":[
-        "Fegyvernek"
-    ],
     "name:eng_x_preferred":[
         "Fegyvernek"
     ],
@@ -32,9 +29,6 @@
     "name:fra_x_preferred":[
         "Fegyvernek"
     ],
-    "name:fre_x_preferred":[
-        "Fegyvernek"
-    ],
     "name:hbs_x_preferred":[
         "Fegyvernek"
     ],
@@ -42,9 +36,6 @@
         "Fegyvernek"
     ],
     "name:ita_x_preferred":[
-        "Fegyvernek"
-    ],
-    "name:may_x_preferred":[
         "Fegyvernek"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Fegyvernek"
     ],
-    "name:rum_x_preferred":[
-        "Fegyvernek"
-    ],
     "name:slk_x_preferred":[
-        "Fegyvernek"
-    ],
-    "name:slo_x_preferred":[
         "Fegyvernek"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751572,
     "wof:name":"Fegyvernek",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

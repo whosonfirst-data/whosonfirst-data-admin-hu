@@ -16,13 +16,7 @@
     "mps:longitude":20.732351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8fc8\u6cfd\u7459\u5409\u7c73\u54c8\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Mez\u0151nagymih\u00e1ly"
-    ],
-    "name:dut_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
     ],
-    "name:fre_x_preferred":[
-        "Mez\u0151nagymih\u00e1ly"
-    ],
-    "name:ger_x_preferred":[
-        "Mez\u0151nagymih\u00e1ly"
-    ],
     "name:hun_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
     ],
     "name:ita_x_preferred":[
-        "Mez\u0151nagymih\u00e1ly"
-    ],
-    "name:may_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
     ],
-    "name:rum_x_preferred":[
-        "Mez\u0151nagymih\u00e1ly"
-    ],
     "name:slk_x_preferred":[
-        "Mez\u0151nagymih\u00e1ly"
-    ],
-    "name:slo_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Mez\u0151nagymih\u00e1ly"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u6cfd\u7459\u5409\u7c73\u54c8\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -121,7 +103,7 @@
         }
     ],
     "wof:id":101784839,
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561751569,
     "wof:name":"Mez\u0151nagymih\u00e1ly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

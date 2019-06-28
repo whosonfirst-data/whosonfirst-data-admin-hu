@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0011,
-    "geom:area_square_m":9212556.606831,
+    "geom:area_square_m":9212556.606834,
     "geom:bbox":"19.0735006269,47.3321307266,19.1289666334,47.3773185737",
     "geom:latitude":47.353031,
     "geom:longitude":19.101221,
@@ -20,16 +20,10 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0445\u0430\u0440\u0430\u0441\u0437\u0442\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u8c6a\u52de\u65af\u8482"
-    ],
     "name:deu_x_preferred":[
         "Dunaharaszti"
     ],
     "name:dsb_x_preferred":[
-        "Dunaharaszti"
-    ],
-    "name:dut_x_preferred":[
         "Dunaharaszti"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
     "name:fra_x_preferred":[
         "Dunaharaszti"
     ],
-    "name:fre_x_preferred":[
-        "Dunaharaszti"
-    ],
-    "name:ger_x_preferred":[
-        "Dunaharaszti"
-    ],
     "name:hbs_x_preferred":[
         "Dunaharaszti"
     ],
@@ -60,9 +48,6 @@
         "Dunaharaszti"
     ],
     "name:ita_x_preferred":[
-        "Dunaharaszti"
-    ],
-    "name:may_x_preferred":[
         "Dunaharaszti"
     ],
     "name:msa_x_preferred":[
@@ -74,16 +59,10 @@
     "name:nld_x_preferred":[
         "Dunaharaszti"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u0627\u0647\u0627\u0631\u0627\u0633\u062a\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Dunaharaszti"
     ],
     "name:ron_x_preferred":[
-        "Dunaharaszti"
-    ],
-    "name:rum_x_preferred":[
         "Dunaharaszti"
     ],
     "name:rup_x_preferred":[
@@ -93,9 +72,6 @@
         "\u0414\u0443\u043d\u0430\u0445\u0430\u0440\u0430\u0441\u0442\u0438"
     ],
     "name:slk_x_preferred":[
-        "Dunaharaszti"
-    ],
-    "name:slo_x_preferred":[
         "Dunaharaszti"
     ],
     "name:slv_x_preferred":[
@@ -166,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641851,
+    "wof:lastmodified":1561751540,
     "wof:name":"Dunaharaszti",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

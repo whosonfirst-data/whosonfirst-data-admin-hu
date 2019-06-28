@@ -16,13 +16,7 @@
     "mps:longitude":17.310518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9676\u52b3\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Tarany"
-    ],
-    "name:dut_x_preferred":[
         "Tarany"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Tarany"
     ],
-    "name:fre_x_preferred":[
-        "Tarany"
-    ],
-    "name:ger_x_preferred":[
-        "Tarany"
-    ],
     "name:hun_x_preferred":[
         "Tarany"
     ],
     "name:ita_x_preferred":[
-        "Tarany"
-    ],
-    "name:may_x_preferred":[
         "Tarany"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Tarany"
     ],
-    "name:rum_x_preferred":[
-        "Tarany"
-    ],
     "name:slk_x_preferred":[
-        "Tarany"
-    ],
-    "name:slo_x_preferred":[
         "Tarany"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641955,
+    "wof:lastmodified":1561751541,
     "wof:name":"Tarany",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

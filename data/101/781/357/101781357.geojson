@@ -16,7 +16,7 @@
     "mps:longitude":20.739051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szalonna"
     ],
     "name:eng_x_preferred":[
@@ -25,10 +25,7 @@
     "name:epo_x_preferred":[
         "Szalonna"
     ],
-    "name:fre_x_preferred":[
-        "Szalonna"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Szalonna"
     ],
     "name:hun_x_preferred":[
@@ -37,19 +34,22 @@
     "name:ita_x_preferred":[
         "Szalonna"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Szalonna"
     ],
     "name:nan_x_preferred":[
         "Szalonna"
     ],
+    "name:nld_x_preferred":[
+        "Szalonna"
+    ],
     "name:pol_x_preferred":[
         "Szalonna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Szalonna"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Szalonna"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815497,
+    "wof:lastmodified":1561751580,
     "wof:name":"Szalonna",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

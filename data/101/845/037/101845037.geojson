@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1226727.20903,
+    "geom:area_square_m":1226727.209029,
     "geom:bbox":"21.6304892626,47.1905032225,21.6476631465,47.209986433",
     "geom:latitude":47.198505,
     "geom:longitude":21.640069,
@@ -16,13 +16,7 @@
     "mps:longitude":21.642801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e07\u4e54\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "V\u00e1ncsod"
-    ],
-    "name:dut_x_preferred":[
         "V\u00e1ncsod"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "V\u00e1ncsod"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e1ncsod"
-    ],
-    "name:ger_x_preferred":[
-        "V\u00e1ncsod"
-    ],
     "name:hun_x_colloquial":[
         "Vancsod"
     ],
@@ -47,9 +35,6 @@
         "V\u00e1ncsod"
     ],
     "name:ita_x_preferred":[
-        "V\u00e1ncsod"
-    ],
-    "name:may_x_preferred":[
         "V\u00e1ncsod"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "V\u00e1ncsod"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e1ncsod"
-    ],
     "name:slk_x_preferred":[
-        "V\u00e1ncsod"
-    ],
-    "name:slo_x_preferred":[
         "V\u00e1ncsod"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e1ncsod"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u4e54\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1561751543,
     "wof:name":"V\u00e1ncsod",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

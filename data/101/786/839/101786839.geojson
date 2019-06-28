@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1037348.239749,
+    "geom:area_square_m":1037348.239748,
     "geom:bbox":"19.2908100724,46.6770513827,19.3141325169,46.6870842543",
     "geom:latitude":46.682154,
     "geom:longitude":19.304304,
@@ -16,12 +16,6 @@
     "mps:longitude":19.307043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9676\u5e03\u8fea"
-    ],
-    "name:dut_x_preferred":[
-        "Tabdi"
-    ],
     "name:eng_x_preferred":[
         "Tabdi"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Tabdi"
     ],
-    "name:fre_x_preferred":[
-        "Tabdi"
-    ],
     "name:hrv_x_preferred":[
         "Tobdin"
     ],
@@ -41,9 +32,6 @@
         "Tabdi"
     ],
     "name:ita_x_preferred":[
-        "Tabdi"
-    ],
-    "name:may_x_preferred":[
         "Tabdi"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Tabdi"
     ],
-    "name:rum_x_preferred":[
-        "Tabdi"
-    ],
     "name:slk_x_preferred":[
-        "Tabdi"
-    ],
-    "name:slo_x_preferred":[
         "Tabdi"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715652,
+    "wof:lastmodified":1561751583,
     "wof:name":"Tabdi",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

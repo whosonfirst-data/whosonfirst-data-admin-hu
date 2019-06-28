@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000592,
-    "geom:area_square_m":4956550.305446,
+    "geom:area_square_m":4956550.305445,
     "geom:bbox":"20.6139956718,47.3537130293,20.65063094,47.3838271133",
     "geom:latitude":47.367941,
     "geom:longitude":20.632037,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0445\u0435\u0433\u0439\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u6d77\u5091\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kunhegyes"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +30,6 @@
         "Kunhegyes"
     ],
     "name:fra_x_preferred":[
-        "Kunhegyes"
-    ],
-    "name:fre_x_preferred":[
-        "Kunhegyes"
-    ],
-    "name:ger_x_preferred":[
         "Kunhegyes"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +42,6 @@
         "Kunhegyes"
     ],
     "name:ita_x_preferred":[
-        "Kunhegyes"
-    ],
-    "name:may_x_preferred":[
         "Kunhegyes"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +59,10 @@
     "name:ron_x_preferred":[
         "Kunhegyes"
     ],
-    "name:rum_x_preferred":[
-        "Kunhegyes"
-    ],
     "name:rup_x_preferred":[
         "Kunhegyes"
     ],
     "name:slk_x_preferred":[
-        "Kunhegyes"
-    ],
-    "name:slo_x_preferred":[
         "Kunhegyes"
     ],
     "name:slv_x_preferred":[
@@ -148,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"Kunhegyes",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

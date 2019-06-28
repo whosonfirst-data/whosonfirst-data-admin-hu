@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1944883.844432,
+    "geom:area_square_m":1944883.84443,
     "geom:bbox":"18.5363273076,46.9901577668,18.561140262,47.0133615737",
     "geom:latitude":47.001793,
     "geom:longitude":18.548903,
@@ -20,12 +20,6 @@
     "name:cbk_zam_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u5c14\u51ef\u8d56\u65af\u56fe\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e1rkereszt\u00far"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1rkereszt\u00far"
-    ],
     "name:hun_x_colloquial":[
         "Sarkeresztur"
     ],
@@ -45,9 +36,6 @@
         "S\u00e1rkereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1rkereszt\u00far"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1rkereszt\u00far"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e1rkereszt\u00far"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +64,9 @@
     ],
     "name:vol_x_preferred":[
         "S\u00e1rkereszt\u00far"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5c14\u51ef\u8d56\u65af\u56fe\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751589,
     "wof:name":"S\u00e1rkereszt\u00far",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

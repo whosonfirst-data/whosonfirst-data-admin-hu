@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":2431481.787168,
+    "geom:area_square_m":2431481.787167,
     "geom:bbox":"18.9649105214,47.7742276499,18.9850141624,47.8058954976",
     "geom:latitude":47.790633,
     "geom:longitude":18.970854,
@@ -23,23 +23,17 @@
     "name:ces_x_preferred":[
         "Visegr\u00e1d"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u8b1d\u683c\u62c9\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Visegr\u00e1d"
-    ],
     "name:dan_x_preferred":[
         "Visegr\u00e1d"
     ],
     "name:deu_x_preferred":[
         "Visegr\u00e1d"
     ],
-    "name:dut_x_preferred":[
-        "Visegr\u00e1d"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03af\u03c3\u03b5\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03b6\u03b5\u03b3\u03ba\u03c1\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Visegr\u00e1d"
@@ -58,18 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Visegr\u00e1d"
-    ],
-    "name:fre_x_preferred":[
-        "Visegr\u00e1d"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e8\u10d4\u10d2\u10e0\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Visegr\u00e1d"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03b6\u03b5\u03b3\u03ba\u03c1\u03ac\u03bd\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e9\u05d2\u05e8\u05d3"
@@ -98,7 +80,7 @@
     "name:lit_x_preferred":[
         "Vi\u0161egradas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Visegr\u00e1d"
     ],
     "name:nan_x_preferred":[
@@ -110,9 +92,6 @@
     "name:nob_x_preferred":[
         "Visegr\u00e1d"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u06cc\u0633\u06af\u0631\u0627\u062f"
-    ],
     "name:pol_x_preferred":[
         "Wyszehrad"
     ],
@@ -120,9 +99,6 @@
         "Visegr\u00e1d"
     ],
     "name:ron_x_preferred":[
-        "Visegr\u00e1d"
-    ],
-    "name:rum_x_preferred":[
         "Visegr\u00e1d"
     ],
     "name:rup_x_preferred":[
@@ -135,9 +111,6 @@
         "Visegr\u00e1d"
     ],
     "name:slk_x_preferred":[
-        "Vy\u0161ehrad"
-    ],
-    "name:slo_x_preferred":[
         "Vy\u0161ehrad"
     ],
     "name:slv_x_preferred":[
@@ -217,7 +190,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642928,
+    "wof:lastmodified":1561751552,
     "wof:name":"Visegr\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

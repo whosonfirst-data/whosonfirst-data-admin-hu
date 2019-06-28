@@ -32,16 +32,7 @@
     "name:ces_x_preferred":[
         "Csepel"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e8c\u5341\u4e00\u533a"
-    ],
-    "name:cze_x_preferred":[
-        "Csepel"
-    ],
     "name:deu_x_preferred":[
-        "Csepel"
-    ],
-    "name:dut_x_preferred":[
         "Csepel"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +47,6 @@
     "name:fra_x_preferred":[
         "21e arrondissement de Budapest"
     ],
-    "name:fre_x_preferred":[
-        "21e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Csepel"
-    ],
     "name:heb_x_preferred":[
         "\u05e6'\u05e4\u05dc"
     ],
@@ -75,22 +60,19 @@
         "XXI. ker\u00fclet",
         "Budapest XXI. ker\u00fclete"
     ],
+    "name:nld_x_preferred":[
+        "Csepel"
+    ],
     "name:pol_x_preferred":[
         "Csepel"
     ],
     "name:ron_x_preferred":[
         "Csepel"
     ],
-    "name:rum_x_preferred":[
-        "Csepel"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043f\u0435\u043b\u044c"
     ],
     "name:slk_x_preferred":[
-        "XXI. obvod"
-    ],
-    "name:slo_x_preferred":[
         "XXI. obvod"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864509,
+    "wof:lastmodified":1561751511,
     "wof:name":"Csepel",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

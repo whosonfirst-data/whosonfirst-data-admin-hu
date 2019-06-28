@@ -16,10 +16,7 @@
     "mps:longitude":16.835966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8d39\u5c14\u7279\u585e\u666e\u6d1b\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
     "name:deu_x_preferred":[
@@ -28,9 +25,6 @@
     "name:deu_x_variant":[
         "Schlippach am See"
     ],
-    "name:dut_x_preferred":[
-        "Fert\u0151sz\u00e9plak"
-    ],
     "name:eng_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
@@ -38,12 +32,6 @@
         "Fert\u0151sz\u00e9plak"
     ],
     "name:fra_x_preferred":[
-        "Fert\u0151sz\u00e9plak"
-    ],
-    "name:fre_x_preferred":[
-        "Fert\u0151sz\u00e9plak"
-    ],
-    "name:ger_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
     "name:hrv_x_preferred":[
@@ -61,9 +49,6 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a7\u30eb\u30c6\u30fc\u30bb\u30fc\u30d7\u30e9\u30af"
     ],
-    "name:may_x_preferred":[
-        "Fert\u0151sz\u00e9plak"
-    ],
     "name:msa_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
@@ -79,13 +64,7 @@
     "name:ron_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
-    "name:rum_x_preferred":[
-        "Fert\u0151sz\u00e9plak"
-    ],
     "name:slk_x_preferred":[
-        "Fert\u0151sz\u00e9plak"
-    ],
-    "name:slo_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
     "name:slv_x_preferred":[
@@ -93,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Fert\u0151sz\u00e9plak"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u7279\u585e\u666e\u6d1b\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -139,7 +121,7 @@
         }
     ],
     "wof:id":101833315,
-    "wof:lastmodified":1527642924,
+    "wof:lastmodified":1561751551,
     "wof:name":"Fert\u0151sz\u00e9plak",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

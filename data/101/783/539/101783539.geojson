@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
-    "geom:area_square_m":3051311.243036,
+    "geom:area_square_m":3051311.243035,
     "geom:bbox":"21.8526812583,47.9241255061,21.8861908457,47.9575267807",
     "geom:latitude":47.939211,
     "geom:longitude":21.868923,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043f\u043a\u043e\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u7459\u666e\u79d1\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Napkor"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Napkor"
     ],
-    "name:fre_x_preferred":[
-        "Napkor"
-    ],
-    "name:ger_x_preferred":[
-        "Napkor"
-    ],
     "name:hun_x_preferred":[
         "Napkor"
     ],
     "name:ita_x_preferred":[
-        "Napkor"
-    ],
-    "name:may_x_preferred":[
         "Napkor"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Napkor"
     ],
-    "name:rum_x_preferred":[
-        "Napkor"
-    ],
     "name:slk_x_preferred":[
-        "Napkor"
-    ],
-    "name:slo_x_preferred":[
         "Napkor"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688499,
+    "wof:lastmodified":1561751563,
     "wof:name":"Napkor",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

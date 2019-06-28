@@ -29,9 +29,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Tab\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Tab\u00e1n"
     ],
@@ -41,13 +38,13 @@
     "name:fra_x_preferred":[
         "Tab\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Tab\u00e1n"
-    ],
     "name:hun_x_colloquial":[
         "Taban"
     ],
     "name:hun_x_preferred":[
+        "Tab\u00e1n"
+    ],
+    "name:nld_x_preferred":[
         "Tab\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527638376,
+    "wof:lastmodified":1561751510,
     "wof:name":"Tab\u00e1n",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

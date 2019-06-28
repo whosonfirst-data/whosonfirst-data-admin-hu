@@ -17,10 +17,7 @@
     "mps:longitude":19.286437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u9676\u5c14\u4e54"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagytarcsa"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Nagytarcsa"
     ],
-    "name:fre_x_preferred":[
-        "Nagytarcsa"
-    ],
-    "name:ger_x_preferred":[
-        "Nagytarcsa"
-    ],
     "name:hun_x_preferred":[
         "Nagytarcsa"
     ],
     "name:ita_x_preferred":[
-        "Nagytarcsa"
-    ],
-    "name:may_x_preferred":[
         "Nagytarcsa"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Nagytarcsa"
     ],
-    "name:rum_x_preferred":[
-        "Nagytarcsa"
-    ],
     "name:slk_x_preferred":[
-        "Ve\u013ek\u00e1 Tar\u010da"
-    ],
-    "name:slo_x_preferred":[
         "Ve\u013ek\u00e1 Tar\u010da"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642310,
+    "wof:lastmodified":1561751543,
     "wof:name":"Nagytarcsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

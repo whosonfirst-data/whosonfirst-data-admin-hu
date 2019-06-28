@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Solym\u00e1r"
     ],
-    "name:dut_x_preferred":[
-        "Solym\u00e1r"
-    ],
     "name:eng_x_preferred":[
         "Solym\u00e1r"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Solym\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Solym\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Solym\u00e1r"
-    ],
     "name:hun_x_colloquial":[
         "Solymar"
     ],
@@ -45,9 +36,6 @@
         "Solym\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Solym\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Solym\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Solym\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Solym\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Solym\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Solym\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641870,
+    "wof:lastmodified":1561751540,
     "wof:name":"Solym\u00e1r",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

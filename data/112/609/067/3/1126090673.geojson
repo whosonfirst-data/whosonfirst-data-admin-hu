@@ -20,8 +20,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u516b\u533a"
+    "name:cym_x_preferred":[
+        "18fed dosbarth Budapest"
+    ],
+    "name:deu_x_preferred":[
+        "Pestszentl\u0151rinc-Pestszentimre"
     ],
     "name:eng_x_preferred":[
         "18th district of Budapest"
@@ -29,11 +32,8 @@
     "name:epo_x_preferred":[
         "Pestszentl\u0151rinc-Pestszentimre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "18e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Pestszentl\u0151rinc-Pestszentimre"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e9\u05d8\u05e1\u05e0\u05d8\u05dc\u05e8\u05d9\u05e0\u05e5-\u05e4\u05e9\u05d8\u05e1\u05e0\u05d8\u05d0\u05d9\u05de\u05e8\u05d4"
@@ -44,10 +44,10 @@
     "name:pol_x_preferred":[
         "Pestszentl\u0151rinc-Pestszentimre"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pestszentl\u0151rinc-Pestszentimre"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "XVIII. obvod"
     ],
     "name:srp_x_preferred":[
@@ -59,8 +59,8 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn XVIII"
     ],
-    "name:wel_x_preferred":[
-        "18fed dosbarth Budapest"
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u516b\u533a"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1126090673,
-    "wof:lastmodified":1534379335,
+    "wof:lastmodified":1561751604,
     "wof:name":"Pestl\u0151rinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

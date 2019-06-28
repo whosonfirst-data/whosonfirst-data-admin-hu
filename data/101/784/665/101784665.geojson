@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1306285.479502,
+    "geom:area_square_m":1306285.479503,
     "geom:bbox":"20.1828069044,47.921952929,20.2118599822,47.9417819934",
     "geom:latitude":47.931627,
     "geom:longitude":20.195773,
@@ -17,10 +17,7 @@
     "mps:longitude":20.195773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e0c\u7f57\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sirok"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Sirok"
     ],
-    "name:fre_x_preferred":[
-        "Sirok"
-    ],
-    "name:ger_x_preferred":[
-        "Sirok"
-    ],
     "name:hun_x_preferred":[
         "Sirok"
     ],
     "name:ita_x_preferred":[
-        "Sirok"
-    ],
-    "name:may_x_preferred":[
         "Sirok"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Sirok"
     ],
-    "name:rum_x_preferred":[
-        "Sirok"
-    ],
     "name:slk_x_preferred":[
-        "Sirok"
-    ],
-    "name:slo_x_preferred":[
         "Sirok"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561751569,
     "wof:name":"Sirok",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

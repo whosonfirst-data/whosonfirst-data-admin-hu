@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2343284.902018,
+    "geom:area_square_m":2343284.902016,
     "geom:bbox":"21.1592930342,47.9950759638,21.1926719932,48.018362549",
     "geom:latitude":48.006322,
     "geom:longitude":21.17315,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Tiszadob"
     ],
-    "name:dut_x_preferred":[
-        "Tiszadob"
-    ],
     "name:eng_x_preferred":[
         "Tiszadob"
     ],
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tiszadob"
     ],
-    "name:fre_x_preferred":[
-        "Tiszadob"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszadob"
-    ],
     "name:hun_x_preferred":[
         "Tiszadob"
     ],
     "name:ita_x_preferred":[
-        "Tiszadob"
-    ],
-    "name:may_x_preferred":[
         "Tiszadob"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +53,10 @@
     "name:ron_x_preferred":[
         "Tiszadob"
     ],
-    "name:rum_x_preferred":[
-        "Tiszadob"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0441\u0430\u0434\u043e\u0431"
     ],
     "name:slk_x_preferred":[
-        "Tiszadob"
-    ],
-    "name:slo_x_preferred":[
         "Tiszadob"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688500,
+    "wof:lastmodified":1561751564,
     "wof:name":"Tiszadob",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

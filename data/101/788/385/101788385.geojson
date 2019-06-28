@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000448,
-    "geom:area_square_m":3769935.035658,
+    "geom:area_square_m":3769935.035657,
     "geom:bbox":"21.7056977443,47.1167319617,21.7663726888,47.1368992125",
     "geom:latitude":47.128255,
     "geom:longitude":21.729558,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0445\u0430\u0440\u043a\u0435\u0440\u0435\u0441\u0437\u0442\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u8c6a\u723e\u51f1\u8cf4\u65af\u6cf0\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "Biharkeresztes"
-    ],
-    "name:dut_x_preferred":[
         "Biharkeresztes"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Biharkeresztes"
     ],
-    "name:fre_x_preferred":[
-        "Biharkeresztes"
-    ],
-    "name:ger_x_preferred":[
-        "Biharkeresztes"
-    ],
     "name:hbs_x_preferred":[
         "Biharkeresztes"
     ],
@@ -51,9 +39,6 @@
         "Biharkeresztes"
     ],
     "name:ita_x_preferred":[
-        "Biharkeresztes"
-    ],
-    "name:may_x_preferred":[
         "Biharkeresztes"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +56,10 @@
     "name:ron_x_preferred":[
         "Biharkeresztes"
     ],
-    "name:rum_x_preferred":[
-        "Biharkeresztes"
-    ],
     "name:rup_x_preferred":[
         "Biharkeresztes"
     ],
     "name:slk_x_preferred":[
-        "Biharkeresztes"
-    ],
-    "name:slo_x_preferred":[
         "Biharkeresztes"
     ],
     "name:slv_x_preferred":[
@@ -148,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"Biharkeresztes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

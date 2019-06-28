@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1116809.121373,
+    "geom:area_square_m":1116809.121374,
     "geom:bbox":"22.1753050475,47.9678007962,22.198282221,47.9830096129",
     "geom:latitude":47.975153,
     "geom:longitude":22.186846,
@@ -16,10 +16,7 @@
     "mps:longitude":22.191459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5384\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0150r"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "\u0150r"
     ],
-    "name:fre_x_preferred":[
-        "\u0150r"
-    ],
-    "name:ger_x_preferred":[
-        "\u0150r"
-    ],
     "name:hun_x_preferred":[
         "\u0150r"
     ],
     "name:ita_x_preferred":[
-        "\u0150r"
-    ],
-    "name:may_x_preferred":[
         "\u0150r"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "\u0150r"
     ],
-    "name:rum_x_preferred":[
-        "\u0150r"
-    ],
     "name:slk_x_preferred":[
-        "\u0150r"
-    ],
-    "name:slo_x_preferred":[
         "\u0150r"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0150r"
+    ],
+    "name:zho_x_preferred":[
+        "\u5384\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101843583,
-    "wof:lastmodified":1527642602,
+    "wof:lastmodified":1561751546,
     "wof:name":"\u0150r",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

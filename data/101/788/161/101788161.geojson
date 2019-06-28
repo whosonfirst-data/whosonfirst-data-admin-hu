@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2373587.25524,
+    "geom:area_square_m":2373587.255239,
     "geom:bbox":"18.534338809,47.3000018887,18.5628018082,47.3255092296",
     "geom:latitude":47.312836,
     "geom:longitude":18.549585,
@@ -17,13 +17,7 @@
     "mps:longitude":18.54937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d1b\u6c83\u4ec0\u62dc\u96f7\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Lovasber\u00e9ny"
-    ],
-    "name:dut_x_preferred":[
         "Lovasber\u00e9ny"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Lovasber\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "Lovasber\u00e9ny"
-    ],
-    "name:ger_x_preferred":[
-        "Lovasber\u00e9ny"
-    ],
     "name:hun_x_colloquial":[
         "Lovasbereny"
     ],
@@ -48,9 +36,6 @@
         "Lovasber\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Lovasber\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "Lovasber\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +50,10 @@
     "name:ron_x_preferred":[
         "Lovasber\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "Lovasber\u00e9ny"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0432\u0430\u0448\u0431\u0435\u0440\u0435\u043d\u044c"
     ],
     "name:slk_x_preferred":[
-        "Lovasber\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "Lovasber\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Lovasber\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u6c83\u4ec0\u62dc\u96f7\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751571,
     "wof:name":"Lovasber\u00e9ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

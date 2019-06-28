@@ -16,13 +16,7 @@
     "mps:longitude":20.929608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u4e07"
-    ],
     "name:deu_x_preferred":[
-        "Nagyiv\u00e1n"
-    ],
-    "name:dut_x_preferred":[
         "Nagyiv\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Nagyiv\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Nagyiv\u00e1n"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyiv\u00e1n"
-    ],
     "name:hun_x_colloquial":[
         "Nagyivan"
     ],
@@ -47,9 +35,6 @@
         "Nagyiv\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Nagyiv\u00e1n"
-    ],
-    "name:may_x_preferred":[
         "Nagyiv\u00e1n"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyiv\u00e1n"
     ],
-    "name:rum_x_preferred":[
-        "Nagyiv\u00e1n"
-    ],
     "name:slk_x_preferred":[
-        "Nagyiv\u00e1n"
-    ],
-    "name:slo_x_preferred":[
         "Nagyiv\u00e1n"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyiv\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u4e07"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561751583,
     "wof:name":"Nagyiv\u00e1n",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

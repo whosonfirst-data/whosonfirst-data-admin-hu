@@ -23,15 +23,6 @@
     "name:ces_x_preferred":[
         "Kompolt"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u6ce2\u5c14\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Kompolt"
-    ],
-    "name:dut_x_preferred":[
-        "Kompolt"
-    ],
     "name:eng_x_preferred":[
         "Komoplt"
     ],
@@ -41,16 +32,10 @@
     "name:fra_x_preferred":[
         "Kompolt"
     ],
-    "name:fre_x_preferred":[
-        "Kompolt"
-    ],
     "name:hun_x_preferred":[
         "Kompolt"
     ],
     "name:ita_x_preferred":[
-        "Kompolt"
-    ],
-    "name:may_x_preferred":[
         "Kompolt"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +50,10 @@
     "name:ron_x_preferred":[
         "Kompolt"
     ],
-    "name:rum_x_preferred":[
-        "Kompolt"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u043f\u043e\u043b\u0442"
     ],
     "name:slk_x_preferred":[
-        "Kompolt"
-    ],
-    "name:slo_x_preferred":[
         "Kompolt"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642920,
+    "wof:lastmodified":1561751550,
     "wof:name":"Kompolt",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

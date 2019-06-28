@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":3032205.343028,
+    "geom:area_square_m":3032205.343027,
     "geom:bbox":"20.7850412523,46.7478493925,20.8159806853,46.7687254979",
     "geom:latitude":46.758248,
     "geom:longitude":20.798911,
@@ -17,12 +17,6 @@
     "mps:longitude":20.798677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0576\u0564\u0561\u0580\u0578\u057d"
-    ],
-    "name:dut_x_preferred":[
-        "Kondoros"
-    ],
     "name:eng_x_preferred":[
         "Kondoros"
     ],
@@ -32,23 +26,20 @@
     "name:fra_x_preferred":[
         "Kondoros"
     ],
-    "name:fre_x_preferred":[
-        "Kondoros"
-    ],
     "name:hbs_x_preferred":[
         "Kondoros"
     ],
     "name:hun_x_preferred":[
         "Kondoros"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u0564\u0561\u0580\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "Kondoros"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30c9\u30ed\u30b7\u30e5"
-    ],
-    "name:may_x_preferred":[
-        "Kondoros"
     ],
     "name:msa_x_preferred":[
         "Kondoros"
@@ -71,13 +62,7 @@
     "name:ron_x_preferred":[
         "Kondoros"
     ],
-    "name:rum_x_preferred":[
-        "Kondoros"
-    ],
     "name:slk_x_preferred":[
-        "Kondoro\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Kondoro\u0161"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751589,
     "wof:name":"Kondoros",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

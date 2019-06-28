@@ -26,19 +26,10 @@
     "name:ces_x_preferred":[
         "Paks"
     ],
-    "name:chi_x_preferred":[
-        "\u4fdd\u514b\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Paks"
-    ],
     "name:dan_x_preferred":[
         "Paks"
     ],
     "name:deu_x_preferred":[
-        "Paks"
-    ],
-    "name:dut_x_preferred":[
         "Paks"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +41,10 @@
     "name:est_x_preferred":[
         "Paks"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0634"
+    ],
     "name:fra_x_preferred":[
-        "Paks"
-    ],
-    "name:fre_x_preferred":[
-        "Paks"
-    ],
-    "name:ger_x_preferred":[
         "Paks"
     ],
     "name:hbs_x_preferred":[
@@ -83,9 +71,6 @@
     "name:lit_x_preferred":[
         "Pak\u0161as"
     ],
-    "name:may_x_preferred":[
-        "Paks"
-    ],
     "name:msa_x_preferred":[
         "Paks"
     ],
@@ -101,16 +86,10 @@
     "name:nor_x_preferred":[
         "Paks"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06a9\u0634"
-    ],
     "name:pol_x_preferred":[
         "Paks"
     ],
     "name:ron_x_preferred":[
-        "Paks"
-    ],
-    "name:rum_x_preferred":[
         "Paks"
     ],
     "name:rup_x_preferred":[
@@ -120,9 +99,6 @@
         "\u041f\u0430\u043a\u0448"
     ],
     "name:slk_x_preferred":[
-        "Paks"
-    ],
-    "name:slo_x_preferred":[
         "Paks"
     ],
     "name:slv_x_preferred":[
@@ -205,7 +181,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641596,
+    "wof:lastmodified":1561751534,
     "wof:name":"Paks",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

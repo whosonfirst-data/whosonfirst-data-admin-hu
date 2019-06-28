@@ -19,12 +19,6 @@
     "name:cbk_zam_x_preferred":[
         "P\u00e1tka"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u7279\u8003"
-    ],
-    "name:dut_x_preferred":[
-        "P\u00e1tka"
-    ],
     "name:eng_x_preferred":[
         "P\u00e1tka"
     ],
@@ -34,9 +28,6 @@
     "name:fra_x_preferred":[
         "P\u00e1tka"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e1tka"
-    ],
     "name:hun_x_colloquial":[
         "Patka"
     ],
@@ -44,9 +35,6 @@
         "P\u00e1tka"
     ],
     "name:ita_x_preferred":[
-        "P\u00e1tka"
-    ],
-    "name:may_x_preferred":[
         "P\u00e1tka"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "P\u00e1tka"
     ],
-    "name:rum_x_preferred":[
-        "P\u00e1tka"
-    ],
     "name:slk_x_preferred":[
-        "P\u00e1tka"
-    ],
-    "name:slo_x_preferred":[
         "P\u00e1tka"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "P\u00e1tka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7279\u8003"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"P\u00e1tka",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -16,14 +16,8 @@
     "mps:longitude":16.553404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c22\u6751"
-    ],
     "name:deu_x_preferred":[
         "Scheibing"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e9"
     ],
     "name:eng_x_preferred":[
         "Se"
@@ -32,9 +26,6 @@
         "S\u00e9"
     ],
     "name:fra_x_preferred":[
-        "S\u00e9"
-    ],
-    "name:fre_x_preferred":[
         "S\u00e9"
     ],
     "name:hrv_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "S\u00e9"
     ],
-    "name:may_x_preferred":[
-        "S\u00e9"
-    ],
     "name:msa_x_preferred":[
         "S\u00e9"
     ],
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "S\u00e9"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e9"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e9"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e9"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u6751"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Vas",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"S\u00e9",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

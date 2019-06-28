@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":4945824.250492,
+    "geom:area_square_m":4945824.250488,
     "geom:bbox":"18.124205662,46.9308432332,18.1815132542,47.0044171633",
     "geom:latitude":46.966899,
     "geom:longitude":18.157083,
@@ -16,13 +16,7 @@
     "mps:longitude":18.168588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u901a\u7ef4\u62c9\u6208\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "Balatonvil\u00e1gos"
-    ],
-    "name:dut_x_preferred":[
         "Balatonvil\u00e1gos"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +26,6 @@
         "Balatonvil\u00e1gos"
     ],
     "name:fra_x_preferred":[
-        "Balatonvil\u00e1gos"
-    ],
-    "name:fre_x_preferred":[
-        "Balatonvil\u00e1gos"
-    ],
-    "name:ger_x_preferred":[
         "Balatonvil\u00e1gos"
     ],
     "name:hun_x_colloquial":[
@@ -63,9 +51,6 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30c8\u30f3\u30f4\u30a3\u30e9\u30fc\u30b4\u30b7\u30e5"
     ],
-    "name:may_x_preferred":[
-        "Balatonvil\u00e1gos"
-    ],
     "name:msa_x_preferred":[
         "Balatonvil\u00e1gos"
     ],
@@ -76,9 +61,6 @@
         "Balatonvil\u00e1gos"
     ],
     "name:slk_x_preferred":[
-        "Balatonvil\u00e1gos"
-    ],
-    "name:slo_x_preferred":[
         "Balatonvil\u00e1gos"
     ],
     "name:slv_x_preferred":[
@@ -92,6 +74,9 @@
     ],
     "name:vie_x_preferred":[
         "Balatonvil\u00e1gos"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u6d1b\u901a\u7ef4\u62c9\u6208\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -142,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642935,
+    "wof:lastmodified":1561751554,
     "wof:name":"Balatonvil\u00e1gos",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

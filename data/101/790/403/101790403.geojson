@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":997497.056566,
+    "geom:area_square_m":997497.056567,
     "geom:bbox":"20.05878091,46.4876815395,20.0774803928,46.50481745",
     "geom:latitude":46.495772,
     "geom:longitude":20.067302,
@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "\u00d3pusztaszer"
     ],
-    "name:chi_x_preferred":[
-        "\u6b27\u666e\u65af\u9676\u585e\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "\u00d3pusztaszer"
-    ],
     "name:deu_x_preferred":[
-        "\u00d3pusztaszer"
-    ],
-    "name:dut_x_preferred":[
         "\u00d3pusztaszer"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "\u00d3pusztaszer"
     ],
     "name:fra_x_preferred":[
-        "\u00d3pusztaszer"
-    ],
-    "name:fre_x_preferred":[
-        "\u00d3pusztaszer"
-    ],
-    "name:ger_x_preferred":[
         "\u00d3pusztaszer"
     ],
     "name:hun_x_colloquial":[
@@ -64,9 +49,6 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30d7\u30b9\u30bf\u30bb\u30eb"
     ],
-    "name:may_x_preferred":[
-        "\u00d3pusztaszer"
-    ],
     "name:msa_x_preferred":[
         "\u00d3pusztaszer"
     ],
@@ -79,10 +61,7 @@
     "name:ron_x_preferred":[
         "\u00d3pusztaszer"
     ],
-    "name:rum_x_preferred":[
-        "\u00d3pusztaszer"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00d3pusztaszer"
     ],
     "name:slv_x_preferred":[
@@ -96,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00d3pusztaszer"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u666e\u65af\u9676\u585e\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Csongr\u00e1d",
@@ -147,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641603,
+    "wof:lastmodified":1561751538,
     "wof:name":"\u00d3pusztaszer",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

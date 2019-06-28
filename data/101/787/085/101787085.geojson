@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000615,
-    "geom:area_square_m":5135914.220397,
+    "geom:area_square_m":5135914.220395,
     "geom:bbox":"19.3135227715,47.470020432,19.3568435978,47.5044924427",
     "geom:latitude":47.489602,
     "geom:longitude":19.338059,
@@ -17,13 +17,7 @@
     "mps:longitude":19.340192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f69\u91c7\u723e"
-    ],
     "name:deu_x_preferred":[
-        "P\u00e9cel"
-    ],
-    "name:dut_x_preferred":[
         "P\u00e9cel"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "P\u00e9cel"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e9cel"
-    ],
-    "name:ger_x_preferred":[
-        "P\u00e9cel"
-    ],
     "name:hun_x_colloquial":[
         "Pecel"
     ],
@@ -56,9 +44,6 @@
     "name:jpn_x_preferred":[
         "\u30da\u30fc\u30c4\u30a7\u30eb"
     ],
-    "name:may_x_preferred":[
-        "P\u00e9cel"
-    ],
     "name:msa_x_preferred":[
         "P\u00e9cel"
     ],
@@ -68,16 +53,10 @@
     "name:nld_x_preferred":[
         "P\u00e9cel"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u062a\u0633\u0644"
-    ],
     "name:pol_x_preferred":[
         "P\u00e9cel"
     ],
     "name:ron_x_preferred":[
-        "P\u00e9cel"
-    ],
-    "name:rum_x_preferred":[
         "P\u00e9cel"
     ],
     "name:rup_x_preferred":[
@@ -86,7 +65,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0446\u0435\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u00e9cel"
     ],
     "name:slv_x_preferred":[
@@ -100,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "P\u00e9cel"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u91c7\u723e"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -151,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715844,
+    "wof:lastmodified":1561751584,
     "wof:name":"P\u00e9cel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

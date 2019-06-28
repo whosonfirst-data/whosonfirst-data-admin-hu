@@ -16,12 +16,6 @@
     "mps:longitude":17.600949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Cs\u00f3t"
-    ],
     "name:eng_x_preferred":[
         "Cs\u00f3t"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Cs\u00f3t"
     ],
-    "name:fre_x_preferred":[
-        "Cs\u00f3t"
-    ],
     "name:hun_x_colloquial":[
         "Csot"
     ],
@@ -41,9 +32,6 @@
         "Cs\u00f3t"
     ],
     "name:ita_x_preferred":[
-        "Cs\u00f3t"
-    ],
-    "name:may_x_preferred":[
         "Cs\u00f3t"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Cs\u00f3t"
     ],
-    "name:rum_x_preferred":[
-        "Cs\u00f3t"
-    ],
     "name:slk_x_preferred":[
-        "Cs\u00f3t"
-    ],
-    "name:slo_x_preferred":[
         "Cs\u00f3t"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Cs\u00f3t"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715576,
+    "wof:lastmodified":1561751578,
     "wof:name":"Cs\u00f3t",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

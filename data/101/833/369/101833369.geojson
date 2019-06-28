@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
-    "geom:area_square_m":2433008.678405,
+    "geom:area_square_m":2433008.678406,
     "geom:bbox":"19.5163607309,47.3559636059,19.5416646391,47.3801893994",
     "geom:latitude":47.370034,
     "geom:longitude":19.527385,
@@ -17,10 +17,7 @@
     "mps:longitude":19.526519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8d21\u9c8d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gomba"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Gomba"
     ],
-    "name:fre_x_preferred":[
-        "Gomba"
-    ],
-    "name:ger_x_preferred":[
-        "Gomba"
-    ],
     "name:hun_x_preferred":[
         "Gomba"
     ],
     "name:ita_x_preferred":[
-        "Gomba"
-    ],
-    "name:may_x_preferred":[
         "Gomba"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Gomba"
     ],
-    "name:rum_x_preferred":[
-        "Gomba"
-    ],
     "name:slk_x_preferred":[
-        "Gomba"
-    ],
-    "name:slo_x_preferred":[
         "Gomba"
     ],
     "name:slv_x_preferred":[
@@ -132,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1514448023,
+    "wof:lastmodified":1561751551,
     "wof:name":"Gomba",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "mps:longitude":19.384483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e15\u5e0c"
-    ],
-    "name:dut_x_preferred":[
-        "P\u00e1hi"
-    ],
     "name:eng_x_preferred":[
         "P\u00e1hi"
     ],
@@ -29,9 +23,6 @@
         "P\u00e1hi"
     ],
     "name:fra_x_preferred":[
-        "P\u00e1hi"
-    ],
-    "name:fre_x_preferred":[
         "P\u00e1hi"
     ],
     "name:hrv_x_preferred":[
@@ -44,9 +35,6 @@
         "P\u00e1hi"
     ],
     "name:ita_x_preferred":[
-        "P\u00e1hi"
-    ],
-    "name:may_x_preferred":[
         "P\u00e1hi"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "P\u00e1hi"
     ],
-    "name:rum_x_preferred":[
-        "P\u00e1hi"
-    ],
     "name:slk_x_preferred":[
-        "P\u00e1hi"
-    ],
-    "name:slo_x_preferred":[
         "P\u00e1hi"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "P\u00e1hi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5e0c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"P\u00e1hi",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

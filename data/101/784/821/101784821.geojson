@@ -16,13 +16,7 @@
     "mps:longitude":20.967017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5948\u8fc8\u4ec0\u6bd4\u514b\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Nemesbikk"
-    ],
-    "name:dut_x_preferred":[
         "Nemesbikk"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Nemesbikk"
     ],
-    "name:fre_x_preferred":[
-        "Nemesbikk"
-    ],
-    "name:ger_x_preferred":[
-        "Nemesbikk"
-    ],
     "name:hun_x_preferred":[
         "Nemesbikk"
     ],
     "name:ita_x_preferred":[
-        "Nemesbikk"
-    ],
-    "name:may_x_preferred":[
         "Nemesbikk"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nemesbikk"
     ],
-    "name:rum_x_preferred":[
-        "Nemesbikk"
-    ],
     "name:slk_x_preferred":[
-        "Nemesbikk"
-    ],
-    "name:slo_x_preferred":[
         "Nemesbikk"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688538,
+    "wof:lastmodified":1561751566,
     "wof:name":"Nemesbikk",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

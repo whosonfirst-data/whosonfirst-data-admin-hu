@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1236599.234705,
+    "geom:area_square_m":1236599.234704,
     "geom:bbox":"17.7444225134,47.5083724713,17.7665839702,47.5267309511",
     "geom:latitude":47.516473,
     "geom:longitude":17.75372,
@@ -19,12 +19,6 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u0432\u0430\u0437\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u52b3\u6c83\u5179\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "Ravazd"
-    ],
     "name:eng_x_preferred":[
         "Ravazd"
     ],
@@ -34,16 +28,10 @@
     "name:fra_x_preferred":[
         "Ravazd"
     ],
-    "name:fre_x_preferred":[
-        "Ravazd"
-    ],
     "name:hun_x_preferred":[
         "Ravazd"
     ],
     "name:ita_x_preferred":[
-        "Ravazd"
-    ],
-    "name:may_x_preferred":[
         "Ravazd"
     ],
     "name:msa_x_preferred":[
@@ -61,16 +49,10 @@
     "name:ron_x_preferred":[
         "Ravazd"
     ],
-    "name:rum_x_preferred":[
-        "Ravazd"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0432\u0430\u0437\u0434"
     ],
     "name:slk_x_preferred":[
-        "Ravazd"
-    ],
-    "name:slo_x_preferred":[
         "Ravazd"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642619,
+    "wof:lastmodified":1561751546,
     "wof:name":"Ravazd",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

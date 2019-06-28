@@ -17,10 +17,7 @@
     "mps:longitude":19.67924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u91c7\u683c\u83b1\u5fb7\u62dc\u5c14\u91c7\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cegl\u00e9dbercel"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Cegl\u00e9dbercel"
     ],
-    "name:fre_x_preferred":[
-        "Cegl\u00e9dbercel"
-    ],
-    "name:ger_x_preferred":[
-        "Cegl\u00e9dbercel"
-    ],
     "name:hun_x_colloquial":[
         "Cegledbercel"
     ],
@@ -45,9 +36,6 @@
         "Cegl\u00e9dbercel"
     ],
     "name:ita_x_preferred":[
-        "Cegl\u00e9dbercel"
-    ],
-    "name:may_x_preferred":[
         "Cegl\u00e9dbercel"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Cegl\u00e9dbercel"
     ],
-    "name:rum_x_preferred":[
-        "Cegl\u00e9dbercel"
-    ],
     "name:slk_x_preferred":[
-        "Cegl\u00e9dbercel"
-    ],
-    "name:slo_x_preferred":[
         "Cegl\u00e9dbercel"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Cegl\u00e9dbercel"
+    ],
+    "name:zho_x_preferred":[
+        "\u91c7\u683c\u83b1\u5fb7\u62dc\u5c14\u91c7\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751579,
     "wof:name":"Cegl\u00e9dbercel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

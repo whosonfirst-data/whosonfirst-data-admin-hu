@@ -16,10 +16,7 @@
     "mps:longitude":22.137969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u535a\u5c14\u5947\u5df4\u8003"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szabolcsb\u00e1ka"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Szabolcsb\u00e1ka"
     ],
-    "name:fre_x_preferred":[
-        "Szabolcsb\u00e1ka"
-    ],
-    "name:ger_x_preferred":[
-        "Szabolcsb\u00e1ka"
-    ],
     "name:hun_x_colloquial":[
         "Szabolcsbaka"
     ],
@@ -44,9 +35,6 @@
         "Szabolcsb\u00e1ka"
     ],
     "name:ita_x_preferred":[
-        "Szabolcsb\u00e1ka"
-    ],
-    "name:may_x_preferred":[
         "Szabolcsb\u00e1ka"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Szabolcsb\u00e1ka"
     ],
-    "name:rum_x_preferred":[
-        "Szabolcsb\u00e1ka"
-    ],
     "name:slk_x_preferred":[
-        "Szabolcsb\u00e1ka"
-    ],
-    "name:slo_x_preferred":[
         "Szabolcsb\u00e1ka"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Szabolcsb\u00e1ka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u535a\u5c14\u5947\u5df4\u8003"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688320,
+    "wof:lastmodified":1561751559,
     "wof:name":"Szabolcsb\u00e1ka",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -17,12 +17,6 @@
     "mps:longitude":17.690035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ebd\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Ny\u00fal"
-    ],
     "name:eng_x_preferred":[
         "Ny\u00fal"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Ny\u00fal"
     ],
-    "name:fre_x_preferred":[
-        "Ny\u00fal"
-    ],
     "name:hun_x_colloquial":[
         "Nyul"
     ],
@@ -42,9 +33,6 @@
         "Ny\u00fal"
     ],
     "name:ita_x_preferred":[
-        "Ny\u00fal"
-    ],
-    "name:may_x_preferred":[
         "Ny\u00fal"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Ny\u00fal"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00fal"
-    ],
     "name:slk_x_preferred":[
-        "Ny\u00fal"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00fal"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Ny\u00fal"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ebd\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1535390435,
+    "wof:lastmodified":1561751552,
     "wof:name":"Ny\u00fal",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

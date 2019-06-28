@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":2223945.020204,
+    "geom:area_square_m":2223945.020202,
     "geom:bbox":"21.7644118075,47.3847826149,21.7875074828,47.408875842",
     "geom:latitude":47.397406,
     "geom:longitude":21.775834,
@@ -17,13 +17,7 @@
     "mps:longitude":21.773122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u83ab\u8bfa\u4ec0\u6258\u5c14\u5e15\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Monostorp\u00e1lyi"
-    ],
-    "name:dut_x_preferred":[
         "Monostorp\u00e1lyi"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Monostorp\u00e1lyi"
     ],
-    "name:fre_x_preferred":[
-        "Monostorp\u00e1lyi"
-    ],
-    "name:ger_x_preferred":[
-        "Monostorp\u00e1lyi"
-    ],
     "name:hun_x_colloquial":[
         "Monostorpalyi"
     ],
@@ -48,9 +36,6 @@
         "Monostorp\u00e1lyi"
     ],
     "name:ita_x_preferred":[
-        "Monostorp\u00e1lyi"
-    ],
-    "name:may_x_preferred":[
         "Monostorp\u00e1lyi"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Monostorp\u00e1lyi"
     ],
-    "name:rum_x_preferred":[
-        "Monostorp\u00e1lyi"
-    ],
     "name:slk_x_preferred":[
-        "Monostorp\u00e1lyi"
-    ],
-    "name:slo_x_preferred":[
         "Monostorp\u00e1lyi"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Monostorp\u00e1lyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8bfa\u4ec0\u6258\u5c14\u5e15\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715847,
+    "wof:lastmodified":1561751585,
     "wof:name":"Monostorp\u00e1lyi",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

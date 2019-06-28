@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2792480.50642,
+    "geom:area_square_m":2792480.506421,
     "geom:bbox":"18.8202594839,47.2624442125,18.8485377844,47.284372147",
     "geom:latitude":47.2728,
     "geom:longitude":18.833095,
@@ -20,10 +20,7 @@
     "name:cbk_zam_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u51ef\u8d56\u65af\u56fe\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e1ckereszt\u00far"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00e1ckereszt\u00far"
-    ],
     "name:hun_x_colloquial":[
         "Rackeresztur"
     ],
@@ -48,9 +39,6 @@
         "R\u00e1ckereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "R\u00e1ckereszt\u00far"
-    ],
-    "name:may_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e1ckereszt\u00far"
-    ],
     "name:slk_x_preferred":[
-        "R\u00e1ckereszt\u00far"
-    ],
-    "name:slo_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vol_x_preferred":[
         "R\u00e1ckereszt\u00far"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u51ef\u8d56\u65af\u56fe\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715578,
+    "wof:lastmodified":1561751579,
     "wof:name":"R\u00e1ckereszt\u00far",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

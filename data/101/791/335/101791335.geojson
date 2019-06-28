@@ -19,12 +19,6 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u044f\u0440\u0441\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6bdb\u7126\u5c14\u585e\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Magyarsz\u00e9k"
-    ],
     "name:eng_x_preferred":[
         "Kishertelend"
     ],
@@ -32,9 +26,6 @@
         "Magyarsz\u00e9k"
     ],
     "name:fra_x_preferred":[
-        "Magyarsz\u00e9k"
-    ],
-    "name:fre_x_preferred":[
         "Magyarsz\u00e9k"
     ],
     "name:hrv_x_preferred":[
@@ -47,9 +38,6 @@
         "Magyarsz\u00e9k"
     ],
     "name:ita_x_preferred":[
-        "Magyarsz\u00e9k"
-    ],
-    "name:may_x_preferred":[
         "Magyarsz\u00e9k"
     ],
     "name:msa_x_preferred":[
@@ -67,10 +55,7 @@
     "name:ron_x_preferred":[
         "Magyarsz\u00e9k"
     ],
-    "name:rum_x_preferred":[
-        "Magyarsz\u00e9k"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Magyarsz\u00e9k"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Magyarsz\u00e9k"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u7126\u5c14\u585e\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -128,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641956,
+    "wof:lastmodified":1561751541,
     "wof:name":"Magyarsz\u00e9k",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

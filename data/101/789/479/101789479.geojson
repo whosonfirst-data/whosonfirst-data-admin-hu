@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
-    "geom:area_square_m":2393730.255419,
+    "geom:area_square_m":2393730.255418,
     "geom:bbox":"18.8344722169,46.9486011897,18.8732333737,46.9649229608",
     "geom:latitude":46.956927,
     "geom:longitude":18.856742,
@@ -19,13 +19,7 @@
     "name:cbk_zam_x_preferred":[
         "Nagyvenyim"
     ],
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u97e6\u5c3c\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Nagyvenyim"
-    ],
-    "name:dut_x_preferred":[
         "Nagyvenyim"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +31,10 @@
     "name:fra_x_preferred":[
         "Nagyvenyim"
     ],
-    "name:fre_x_preferred":[
-        "Nagyvenyim"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyvenyim"
-    ],
     "name:hun_x_preferred":[
         "Nagyvenyim"
     ],
     "name:ita_x_preferred":[
-        "Nagyvenyim"
-    ],
-    "name:may_x_preferred":[
         "Nagyvenyim"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyvenyim"
     ],
-    "name:rum_x_preferred":[
-        "Nagyvenyim"
-    ],
     "name:slk_x_preferred":[
-        "Nagyvenyim"
-    ],
-    "name:slo_x_preferred":[
         "Nagyvenyim"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1561751588,
     "wof:name":"Nagyvenyim",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":2682847.212277,
+    "geom:area_square_m":2682847.212279,
     "geom:bbox":"19.9201214784,47.111905403,19.9487129844,47.12909906",
     "geom:latitude":47.120503,
     "geom:longitude":19.933973,
@@ -17,10 +17,7 @@
     "mps:longitude":19.932271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7279\u5c14\u6cf0\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "T\u00f6rtel"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "T\u00f6rtel"
     ],
-    "name:fre_x_preferred":[
-        "T\u00f6rtel"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00f6rtel"
-    ],
     "name:hun_x_colloquial":[
         "Toertel",
         "Tortel"
@@ -49,9 +40,6 @@
         "T\u00f6rtel"
     ],
     "name:ita_x_preferred":[
-        "T\u00f6rtel"
-    ],
-    "name:may_x_preferred":[
         "T\u00f6rtel"
     ],
     "name:msa_x_preferred":[
@@ -63,19 +51,10 @@
     "name:nld_x_preferred":[
         "T\u00f6rtel"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u062a\u0644"
-    ],
     "name:ron_x_preferred":[
         "T\u00f6rtel"
     ],
-    "name:rum_x_preferred":[
-        "T\u00f6rtel"
-    ],
     "name:slk_x_preferred":[
-        "T\u00f6rtel"
-    ],
-    "name:slo_x_preferred":[
         "T\u00f6rtel"
     ],
     "name:slv_x_preferred":[
@@ -86,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00f6rtel"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5c14\u6cf0\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715903,
+    "wof:lastmodified":1561751594,
     "wof:name":"T\u00f6rtel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

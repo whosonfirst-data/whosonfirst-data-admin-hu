@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1435872.996942,
+    "geom:area_square_m":1435872.996941,
     "geom:bbox":"19.8411906111,48.0419804858,19.8812361368,48.0576843789",
     "geom:latitude":48.049997,
     "geom:longitude":19.857316,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Kaz\u00e1r"
     ],
-    "name:dut_x_preferred":[
-        "Kaz\u00e1r"
-    ],
     "name:eng_x_preferred":[
         "Kaz\u00e1r"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Kaz\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Kaz\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Kaz\u00e1r"
-    ],
     "name:hun_x_colloquial":[
         "Kazar"
     ],
@@ -45,9 +36,6 @@
         "Kaz\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Kaz\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Kaz\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Kaz\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Kaz\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Kaz\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Kaz\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -132,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688502,
+    "wof:lastmodified":1561751564,
     "wof:name":"Kaz\u00e1r",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

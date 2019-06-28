@@ -16,13 +16,7 @@
     "mps:longitude":18.718603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u666e\u65af\u9676\u4ea8\u5207"
-    ],
     "name:deu_x_preferred":[
-        "Pusztahencse"
-    ],
-    "name:dut_x_preferred":[
         "Pusztahencse"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +26,6 @@
         "Pusztahencse"
     ],
     "name:fra_x_preferred":[
-        "Pusztahencse"
-    ],
-    "name:fre_x_preferred":[
-        "Pusztahencse"
-    ],
-    "name:ger_x_preferred":[
         "Pusztahencse"
     ],
     "name:hun_x_colloquial":[
@@ -53,9 +41,6 @@
     "name:ita_x_preferred":[
         "Pusztahencse"
     ],
-    "name:may_x_preferred":[
-        "Pusztahencse"
-    ],
     "name:msa_x_preferred":[
         "Pusztahencse"
     ],
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Pusztahencse"
     ],
-    "name:rum_x_preferred":[
-        "Pusztahencse"
-    ],
     "name:slk_x_preferred":[
-        "Pusztahencse"
-    ],
-    "name:slo_x_preferred":[
         "Pusztahencse"
     ],
     "name:slv_x_preferred":[
@@ -138,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642630,
+    "wof:lastmodified":1561751549,
     "wof:name":"Pusztahencse",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

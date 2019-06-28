@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":1525641.431533,
+    "geom:area_square_m":1525641.431532,
     "geom:bbox":"21.0216809319,47.9629929825,21.0503127721,47.9761842088",
     "geom:latitude":47.968773,
     "geom:longitude":21.039389,
@@ -16,13 +16,7 @@
     "mps:longitude":21.041558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u51ef\u65af\u6d85\u6ed5"
-    ],
     "name:deu_x_preferred":[
-        "Keszny\u00e9ten"
-    ],
-    "name:dut_x_preferred":[
         "Keszny\u00e9ten"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Keszny\u00e9ten"
     ],
-    "name:fre_x_preferred":[
-        "Keszny\u00e9ten"
-    ],
-    "name:ger_x_preferred":[
-        "Keszny\u00e9ten"
-    ],
     "name:hun_x_colloquial":[
         "Kesznyeten"
     ],
@@ -47,9 +35,6 @@
         "Keszny\u00e9ten"
     ],
     "name:ita_x_preferred":[
-        "Keszny\u00e9ten"
-    ],
-    "name:may_x_preferred":[
         "Keszny\u00e9ten"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Keszny\u00e9ten"
     ],
-    "name:rum_x_preferred":[
-        "Keszny\u00e9ten"
-    ],
     "name:slk_x_preferred":[
-        "Keszny\u00e9ten"
-    ],
-    "name:slo_x_preferred":[
         "Keszny\u00e9ten"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Keszny\u00e9ten"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u65af\u6d85\u6ed5"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688496,
+    "wof:lastmodified":1561751562,
     "wof:name":"Keszny\u00e9ten",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

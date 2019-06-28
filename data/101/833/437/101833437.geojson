@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":3235587.11223,
+    "geom:area_square_m":3235587.112231,
     "geom:bbox":"21.1417965526,48.1459519765,21.1906295966,48.1647347407",
     "geom:latitude":48.154897,
     "geom:longitude":21.170865,
@@ -17,13 +17,7 @@
     "mps:longitude":21.180672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62dc\u51ef\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Bekecs"
-    ],
-    "name:dut_x_preferred":[
         "Bekecs"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +29,10 @@
     "name:fra_x_preferred":[
         "Bekecs"
     ],
-    "name:fre_x_preferred":[
-        "Bekecs"
-    ],
-    "name:ger_x_preferred":[
-        "Bekecs"
-    ],
     "name:hun_x_preferred":[
         "Bekecs"
     ],
     "name:ita_x_preferred":[
-        "Bekecs"
-    ],
-    "name:may_x_preferred":[
         "Bekecs"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Bekecs"
     ],
-    "name:rum_x_preferred":[
-        "Bekecs"
-    ],
     "name:slk_x_preferred":[
-        "Bekecs"
-    ],
-    "name:slo_x_preferred":[
         "Bekecs"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642922,
+    "wof:lastmodified":1561751551,
     "wof:name":"Bekecs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

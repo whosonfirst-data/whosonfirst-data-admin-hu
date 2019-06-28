@@ -16,10 +16,7 @@
     "mps:longitude":18.386252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8d56\u683c\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Reg\u00f6ly"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Reg\u00f6ly"
     ],
-    "name:fre_x_preferred":[
-        "Reg\u00f6ly"
-    ],
-    "name:ger_x_preferred":[
-        "Reg\u00f6ly"
-    ],
     "name:hun_x_colloquial":[
         "Regoely",
         "Regoly"
@@ -45,9 +36,6 @@
         "Reg\u00f6ly"
     ],
     "name:ita_x_preferred":[
-        "Reg\u00f6ly"
-    ],
-    "name:may_x_preferred":[
         "Reg\u00f6ly"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Reg\u00f6ly"
     ],
-    "name:rum_x_preferred":[
-        "Reg\u00f6ly"
-    ],
     "name:slk_x_preferred":[
-        "Reg\u00f6ly"
-    ],
-    "name:slo_x_preferred":[
         "Reg\u00f6ly"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Reg\u00f6ly"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d56\u683c\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641596,
+    "wof:lastmodified":1561751534,
     "wof:name":"Reg\u00f6ly",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

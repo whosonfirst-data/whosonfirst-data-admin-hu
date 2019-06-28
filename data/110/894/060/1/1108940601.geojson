@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Vizafog\u00f3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vizafog\u00f3"
     ],
     "name:hun_x_preferred":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1108940601,
-    "wof:lastmodified":1514448436,
+    "wof:lastmodified":1561751528,
     "wof:name":"Vizafogo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

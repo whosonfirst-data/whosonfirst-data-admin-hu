@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1606022.404129,
+    "geom:area_square_m":1606022.40413,
     "geom:bbox":"16.8602430322,46.344870854,16.8912671768,46.3668594329",
     "geom:latitude":46.358945,
     "geom:longitude":16.878214,
@@ -17,12 +17,6 @@
     "mps:longitude":16.877156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7a46\u52b3\u51ef\u8d56\u65af\u56fe\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Murakereszt\u00far"
-    ],
     "name:eng_x_preferred":[
         "Murakereszt\u00far"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Murakereszt\u00far"
     ],
-    "name:fre_x_preferred":[
-        "Murakereszt\u00far"
-    ],
     "name:hun_x_colloquial":[
         "Murakeresztur"
     ],
@@ -42,9 +33,6 @@
         "Murakereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "Murakereszt\u00far"
-    ],
-    "name:may_x_preferred":[
         "Murakereszt\u00far"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Murakereszt\u00far"
     ],
-    "name:rum_x_preferred":[
-        "Murakereszt\u00far"
-    ],
     "name:slk_x_preferred":[
-        "Murakereszt\u00far"
-    ],
-    "name:slo_x_preferred":[
         "Murakereszt\u00far"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Murakereszt\u00far"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u52b3\u51ef\u8d56\u65af\u56fe\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Zala",
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561751539,
     "wof:name":"Murakereszt\u00far",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

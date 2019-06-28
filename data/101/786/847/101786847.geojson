@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":2723091.569971,
+    "geom:area_square_m":2723091.569969,
     "geom:bbox":"20.7903516071,46.5051291575,20.8107562804,46.5451879041",
     "geom:latitude":46.526067,
     "geom:longitude":20.801924,
@@ -17,12 +17,6 @@
     "mps:longitude":20.802079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u666e\u65af\u9676\u5f17\u5c14\u5fb7\u74e6\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Pusztaf\u00f6ldv\u00e1r"
-    ],
     "name:eng_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
     ],
@@ -30,9 +24,6 @@
         "Pusztaf\u00f6ldv\u00e1r"
     ],
     "name:fra_x_preferred":[
-        "Pusztaf\u00f6ldv\u00e1r"
-    ],
-    "name:fre_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
     ],
     "name:hun_x_colloquial":[
@@ -43,9 +34,6 @@
         "Pusztaf\u00f6ldv\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Pusztaf\u00f6ldv\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -63,13 +51,7 @@
     "name:ron_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Pusztaf\u00f6ldv\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Pusztaf\u00f6ldv\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -83,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u65af\u9676\u5f17\u5c14\u5fb7\u74e6\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -134,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815502,
+    "wof:lastmodified":1561751582,
     "wof:name":"Pusztaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
-    "name:dut_x_preferred":[
-        "F\u00fcl\u00f6pjakab"
-    ],
     "name:eng_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
-    "name:fre_x_preferred":[
-        "F\u00fcl\u00f6pjakab"
-    ],
-    "name:ger_x_preferred":[
-        "F\u00fcl\u00f6pjakab"
-    ],
     "name:hrv_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
@@ -45,9 +36,6 @@
         "F\u00fcl\u00f6pjakab"
     ],
     "name:ita_x_preferred":[
-        "F\u00fcl\u00f6pjakab"
-    ],
-    "name:may_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
     "name:msa_x_preferred":[
@@ -65,10 +53,7 @@
     "name:ron_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
-    "name:rum_x_preferred":[
-        "F\u00fcl\u00f6pjakab"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
     "name:slv_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101789273,
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1561751588,
     "wof:name":"F\u00fcl\u00f6pjakab",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

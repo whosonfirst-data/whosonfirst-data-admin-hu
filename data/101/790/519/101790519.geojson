@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001224,
-    "geom:area_square_m":10433965.477403,
+    "geom:area_square_m":10433965.477404,
     "geom:bbox":"19.4528090618,46.4120838304,19.5126797563,46.4540935449",
     "geom:latitude":46.432216,
     "geom:longitude":19.484501,
@@ -23,12 +23,6 @@
     "name:ces_x_preferred":[
         "Kiskunhalas"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u4ec0\u5b54\u8c6a\u6d1b\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Kiskunhalas"
-    ],
     "name:dan_x_preferred":[
         "Kiskunhalas"
     ],
@@ -36,9 +30,6 @@
         "Kiskunhalas"
     ],
     "name:dsb_x_preferred":[
-        "Kiskunhalas"
-    ],
-    "name:dut_x_preferred":[
         "Kiskunhalas"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u06a9\u06cc\u0634\u06a9\u0648\u0646\u0647\u0627\u0644\u0627\u0634"
     ],
     "name:fra_x_preferred":[
-        "Kiskunhalas"
-    ],
-    "name:fre_x_preferred":[
-        "Kiskunhalas"
-    ],
-    "name:ger_x_preferred":[
         "Kiskunhalas"
     ],
     "name:hbs_x_preferred":[
@@ -89,11 +74,8 @@
     "name:lzh_x_preferred":[
         "\u57fa\u65af\u5b54\u54c8\u62c9\u65af"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0438\u0448\u043a\u0443\u043d\u0445\u0430\u043b\u0430\u0448"
-    ],
-    "name:may_x_preferred":[
-        "Kiskunhalas"
     ],
     "name:msa_x_preferred":[
         "Kiskunhalas"
@@ -104,16 +86,10 @@
     "name:nld_x_preferred":[
         "Kiskunhalas"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0634\u06a9\u0648\u0646\u0647\u0627\u0644\u0627\u0634"
-    ],
     "name:pol_x_preferred":[
         "Kiskunhalas"
     ],
     "name:ron_x_preferred":[
-        "Kiskunhalas"
-    ],
-    "name:rum_x_preferred":[
         "Kiskunhalas"
     ],
     "name:rup_x_preferred":[
@@ -126,9 +102,6 @@
         "Kiskunhalas"
     ],
     "name:slk_x_preferred":[
-        "Kiskunhalas"
-    ],
-    "name:slo_x_preferred":[
         "Kiskunhalas"
     ],
     "name:slv_x_preferred":[
@@ -220,7 +193,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Kiskunhalas",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

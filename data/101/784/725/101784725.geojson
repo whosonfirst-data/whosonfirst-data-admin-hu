@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0433\u0439\u043e\u0440\u043e\u0441\u0437\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7459\u7126\u7f57\u897f"
-    ],
-    "name:dut_x_preferred":[
-        "Nagyoroszi"
-    ],
     "name:eng_x_preferred":[
         "Nagyoroszi"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Nagyoroszi"
     ],
-    "name:fre_x_preferred":[
-        "Nagyoroszi"
-    ],
     "name:hun_x_preferred":[
         "Nagyoroszi"
     ],
     "name:ita_x_preferred":[
-        "Nagyoroszi"
-    ],
-    "name:may_x_preferred":[
         "Nagyoroszi"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Nagyoroszi"
     ],
-    "name:rum_x_preferred":[
-        "Nagyoroszi"
-    ],
     "name:slk_x_preferred":[
-        "Nagyoroszi"
-    ],
-    "name:slo_x_preferred":[
         "Nagyoroszi"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561751567,
     "wof:name":"Nagyoroszi",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

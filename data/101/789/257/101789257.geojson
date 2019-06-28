@@ -17,12 +17,6 @@
     "mps:longitude":18.973401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u97cb\u5207"
-    ],
-    "name:dut_x_preferred":[
-        "Dunavecse"
-    ],
     "name:eng_x_preferred":[
         "Dunavecse"
     ],
@@ -30,9 +24,6 @@
         "Dunavecse"
     ],
     "name:fra_x_preferred":[
-        "Dunavecse"
-    ],
-    "name:fre_x_preferred":[
         "Dunavecse"
     ],
     "name:hbs_x_preferred":[
@@ -45,9 +36,6 @@
         "Dunavecse"
     ],
     "name:ita_x_preferred":[
-        "Dunavecse"
-    ],
-    "name:may_x_preferred":[
         "Dunavecse"
     ],
     "name:msa_x_preferred":[
@@ -65,9 +53,6 @@
     "name:ron_x_preferred":[
         "Dunavecse"
     ],
-    "name:rum_x_preferred":[
-        "Dunavecse"
-    ],
     "name:rup_x_preferred":[
         "Dunavecse"
     ],
@@ -75,9 +60,6 @@
         "\u0414\u0443\u043d\u0430\u0432\u0435\u0447\u0435"
     ],
     "name:slk_x_preferred":[
-        "Dunavecse"
-    ],
-    "name:slo_x_preferred":[
         "Dunavecse"
     ],
     "name:slv_x_preferred":[
@@ -151,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751588,
     "wof:name":"Dunavecse",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

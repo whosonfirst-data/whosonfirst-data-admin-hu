@@ -16,12 +16,6 @@
     "mps:longitude":18.321515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bdb\u7126\u52b3\u5c14\u9a6c\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Magyaralm\u00e1s"
-    ],
     "name:eng_x_preferred":[
         "Magyaralm\u00e1s"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Magyaralm\u00e1s"
     ],
-    "name:fre_x_preferred":[
-        "Magyaralm\u00e1s"
-    ],
     "name:hun_x_colloquial":[
         "Magyaralmas"
     ],
@@ -41,9 +32,6 @@
         "Magyaralm\u00e1s"
     ],
     "name:ita_x_preferred":[
-        "Magyaralm\u00e1s"
-    ],
-    "name:may_x_preferred":[
         "Magyaralm\u00e1s"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Magyaralm\u00e1s"
     ],
-    "name:rum_x_preferred":[
-        "Magyaralm\u00e1s"
-    ],
     "name:slk_x_preferred":[
-        "Magyaralm\u00e1s"
-    ],
-    "name:slo_x_preferred":[
         "Magyaralm\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Magyaralm\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u7126\u52b3\u5c14\u9a6c\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715574,
+    "wof:lastmodified":1561751576,
     "wof:name":"Magyaralm\u00e1s",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

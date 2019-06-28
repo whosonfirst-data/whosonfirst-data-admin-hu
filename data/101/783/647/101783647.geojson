@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2014173.72562,
+    "geom:area_square_m":2014173.725619,
     "geom:bbox":"20.8897042745,48.1120783126,20.9214841401,48.1259758249",
     "geom:latitude":48.119651,
     "geom:longitude":20.906216,
@@ -17,13 +17,7 @@
     "mps:longitude":20.912596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0555\u0576\u0563\u0561"
-    ],
     "name:deu_x_preferred":[
-        "Onga"
-    ],
-    "name:dut_x_preferred":[
         "Onga"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Onga"
     ],
-    "name:fre_x_preferred":[
-        "Onga"
-    ],
-    "name:ger_x_preferred":[
-        "Onga"
-    ],
     "name:hun_x_preferred":[
         "Onga"
     ],
@@ -48,9 +36,6 @@
         "\u0555\u0576\u0563\u0561"
     ],
     "name:ita_x_preferred":[
-        "Onga"
-    ],
-    "name:may_x_preferred":[
         "Onga"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Onga"
     ],
-    "name:rum_x_preferred":[
-        "Onga"
-    ],
     "name:slk_x_preferred":[
-        "Onga"
-    ],
-    "name:slo_x_preferred":[
         "Onga"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688501,
+    "wof:lastmodified":1561751564,
     "wof:name":"Onga",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

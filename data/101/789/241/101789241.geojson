@@ -17,12 +17,6 @@
     "mps:longitude":19.877351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9a\u5c14\u52d2\u6797\u8328"
-    ],
-    "name:dut_x_preferred":[
-        "Ny\u00e1rl\u0151rinc"
-    ],
     "name:eng_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
-    "name:fre_x_preferred":[
-        "Ny\u00e1rl\u0151rinc"
-    ],
     "name:hrv_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
@@ -42,9 +33,6 @@
         "Ny\u00e1rl\u0151rinc"
     ],
     "name:ita_x_preferred":[
-        "Ny\u00e1rl\u0151rinc"
-    ],
-    "name:may_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00e1rl\u0151rinc"
-    ],
     "name:slk_x_preferred":[
-        "Ny\u00e1rl\u0151rinc"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9a\u5c14\u52d2\u6797\u8328"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101789241,
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"Ny\u00e1rl\u0151rinc",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

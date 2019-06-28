@@ -16,12 +16,6 @@
     "mps:longitude":18.450152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u585e\u4ee3\u5c14\u51ef\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Szederk\u00e9ny"
-    ],
     "name:eng_x_preferred":[
         "Nyomja"
     ],
@@ -29,9 +23,6 @@
         "Szederk\u00e9ny"
     ],
     "name:fra_x_preferred":[
-        "Szederk\u00e9ny"
-    ],
-    "name:fre_x_preferred":[
         "Szederk\u00e9ny"
     ],
     "name:hrv_x_preferred":[
@@ -44,9 +35,6 @@
         "Szederk\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Szederk\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "Szederk\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "Szederk\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "Szederk\u00e9ny"
-    ],
     "name:slk_x_preferred":[
-        "Szederk\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "Szederk\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Szederk\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u4ee3\u5c14\u51ef\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641956,
+    "wof:lastmodified":1561751541,
     "wof:name":"Szederk\u00e9ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

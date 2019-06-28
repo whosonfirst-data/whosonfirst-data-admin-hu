@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2124562.282075,
+    "geom:area_square_m":2124562.282074,
     "geom:bbox":"17.2996783106,46.7005346221,17.3410192521,46.7170151233",
     "geom:latitude":46.710122,
     "geom:longitude":17.320206,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Balatonber\u00e9ny"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u901a\u62dc\u96f7\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Balatonber\u00e9ny"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balatonber\u00e9ny"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Balatonber\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "Balatonber\u00e9ny"
-    ],
-    "name:ger_x_preferred":[
-        "Balatonber\u00e9ny"
-    ],
     "name:hun_x_colloquial":[
         "Balatonbereny"
     ],
@@ -51,9 +39,6 @@
         "Balatonber\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Balatonber\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "Balatonber\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +56,10 @@
     "name:ron_x_preferred":[
         "Balatonber\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "Balatonber\u00e9ny"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u043e\u043d\u0431\u0435\u0440\u0435\u043d\u0438"
     ],
     "name:slk_x_preferred":[
-        "Balatonber\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "Balatonber\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Balatonber\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u6d1b\u901a\u62dc\u96f7\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -142,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751593,
     "wof:name":"Balatonber\u00e9ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

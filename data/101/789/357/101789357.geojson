@@ -19,15 +19,6 @@
     "name:ces_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
-    "name:chi_x_preferred":[
-        "\u5948\u8fc8\u4ec0\u53e4\u62c9\u5947"
-    ],
-    "name:cze_x_preferred":[
-        "Nemesgul\u00e1cs"
-    ],
-    "name:dut_x_preferred":[
-        "Nemesgul\u00e1cs"
-    ],
     "name:eng_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
@@ -37,9 +28,6 @@
     "name:fra_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
-    "name:fre_x_preferred":[
-        "Nemesgul\u00e1cs"
-    ],
     "name:hun_x_colloquial":[
         "Nemesgulacs"
     ],
@@ -47,9 +35,6 @@
         "Nemesgul\u00e1cs"
     ],
     "name:ita_x_preferred":[
-        "Nemesgul\u00e1cs"
-    ],
-    "name:may_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
-    "name:rum_x_preferred":[
-        "Nemesgul\u00e1cs"
-    ],
     "name:slk_x_preferred":[
-        "Nemesgul\u00e1cs"
-    ],
-    "name:slo_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Nemesgul\u00e1cs"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u8fc8\u4ec0\u53e4\u62c9\u5947"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1561751590,
     "wof:name":"Nemesgul\u00e1cs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

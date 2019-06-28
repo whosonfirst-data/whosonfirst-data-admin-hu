@@ -17,10 +17,7 @@
     "mps:longitude":19.13602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f7\u7279\u6c99\u683c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +27,6 @@
         "R\u00e9ts\u00e1g"
     ],
     "name:fra_x_preferred":[
-        "R\u00e9ts\u00e1g"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9ts\u00e1g"
-    ],
-    "name:ger_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
     "name:ita_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
-    "name:may_x_preferred":[
-        "R\u00e9ts\u00e1g"
-    ],
     "name:msa_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
@@ -72,16 +60,13 @@
     "name:ron_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e9ts\u00e1g"
-    ],
     "name:rup_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0442\u0448\u0430\u0433"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "R\u00e9ts\u00e1g"
     ],
     "name:slv_x_preferred":[
@@ -95,6 +80,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e9ts\u00e1g"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u7279\u6c99\u683c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -146,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561751567,
     "wof:name":"R\u00e9ts\u00e1g",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

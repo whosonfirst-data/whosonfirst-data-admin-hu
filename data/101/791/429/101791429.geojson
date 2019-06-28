@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1715878.640427,
+    "geom:area_square_m":1715878.640428,
     "geom:bbox":"19.0293467535,46.0253571953,19.0510028079,46.0418524244",
     "geom:latitude":46.033665,
     "geom:longitude":19.041167,
@@ -20,10 +20,10 @@
     "name:cat_x_preferred":[
         "Gara"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gara"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +33,6 @@
         "Gara"
     ],
     "name:fra_x_preferred":[
-        "Gara"
-    ],
-    "name:fre_x_preferred":[
-        "Gara"
-    ],
-    "name:ger_x_preferred":[
         "Gara"
     ],
     "name:hrv_x_preferred":[
@@ -52,9 +46,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30e9"
-    ],
-    "name:may_x_preferred":[
-        "Gara"
     ],
     "name:msa_x_preferred":[
         "Gara"
@@ -71,13 +62,7 @@
     "name:ron_x_preferred":[
         "Gara"
     ],
-    "name:rum_x_preferred":[
-        "Gara"
-    ],
     "name:slk_x_preferred":[
-        "Gara"
-    ],
-    "name:slo_x_preferred":[
         "Gara"
     ],
     "name:slv_x_preferred":[
@@ -151,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815505,
+    "wof:lastmodified":1561751542,
     "wof:name":"Gara",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "mps:longitude":21.874872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65b0\u83b1\u9676"
-    ],
-    "name:dut_x_preferred":[
-        "\u00dajl\u00e9ta"
-    ],
     "name:eng_x_preferred":[
         "\u00dajl\u00e9ta"
     ],
@@ -29,9 +23,6 @@
         "\u00dajl\u00e9ta"
     ],
     "name:fra_x_preferred":[
-        "\u00dajl\u00e9ta"
-    ],
-    "name:fre_x_preferred":[
         "\u00dajl\u00e9ta"
     ],
     "name:hun_x_colloquial":[
@@ -43,9 +34,6 @@
     "name:ita_x_preferred":[
         "\u00dajl\u00e9ta"
     ],
-    "name:may_x_preferred":[
-        "\u00dajl\u00e9ta"
-    ],
     "name:msa_x_preferred":[
         "\u00dajl\u00e9ta"
     ],
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "\u00dajl\u00e9ta"
     ],
-    "name:rum_x_preferred":[
-        "\u00dajl\u00e9ta"
-    ],
     "name:slk_x_preferred":[
-        "\u00dajl\u00e9ta"
-    ],
-    "name:slo_x_preferred":[
         "\u00dajl\u00e9ta"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00dajl\u00e9ta"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u83b1\u9676"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -116,7 +101,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715842,
+    "wof:lastmodified":1561751583,
     "wof:name":"\u00dajl\u00e9ta",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

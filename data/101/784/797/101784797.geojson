@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":2722366.781557,
+    "geom:area_square_m":2722366.781556,
     "geom:bbox":"21.8859931708,47.751618772,21.9200162978,47.7768564301",
     "geom:latitude":47.761103,
     "geom:longitude":21.90416,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043a\u043e\u043b\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u79d1\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szakoly"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Szakoly"
     ],
-    "name:fre_x_preferred":[
-        "Szakoly"
-    ],
-    "name:ger_x_preferred":[
-        "Szakoly"
-    ],
     "name:hun_x_preferred":[
         "Szakoly"
     ],
     "name:ita_x_preferred":[
-        "Szakoly"
-    ],
-    "name:may_x_preferred":[
         "Szakoly"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Szakoly"
     ],
-    "name:rum_x_preferred":[
-        "Szakoly"
-    ],
     "name:slk_x_preferred":[
-        "Szakoly"
-    ],
-    "name:slo_x_preferred":[
         "Szakoly"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688535,
+    "wof:lastmodified":1561751565,
     "wof:name":"Szakoly",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

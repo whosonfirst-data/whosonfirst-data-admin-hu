@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Izs\u00f3falva"
     ],
-    "name:cze_x_preferred":[
-        "Izs\u00f3falva"
-    ],
     "name:deu_x_preferred":[
-        "Izs\u00f3falva"
-    ],
-    "name:dut_x_preferred":[
         "Izs\u00f3falva"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Izs\u00f3falva"
     ],
     "name:fra_x_preferred":[
-        "Izs\u00f3falva"
-    ],
-    "name:fre_x_preferred":[
-        "Izs\u00f3falva"
-    ],
-    "name:ger_x_preferred":[
         "Izs\u00f3falva"
     ],
     "name:hun_x_colloquial":[
@@ -55,9 +43,6 @@
         "Diszn\u00f3shorv\u00e1t"
     ],
     "name:ita_x_preferred":[
-        "Izs\u00f3falva"
-    ],
-    "name:may_x_preferred":[
         "Izs\u00f3falva"
     ],
     "name:msa_x_preferred":[
@@ -75,10 +60,7 @@
     "name:ron_x_preferred":[
         "Izs\u00f3falva"
     ],
-    "name:rum_x_preferred":[
-        "Izs\u00f3falva"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Izs\u00f3falva"
     ],
     "name:slv_x_preferred":[
@@ -144,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642921,
+    "wof:lastmodified":1561751550,
     "wof:name":"Izs\u00f3falva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

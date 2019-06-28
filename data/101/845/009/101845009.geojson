@@ -16,10 +16,7 @@
     "mps:longitude":19.219022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "R\u00e1d"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "R\u00e1d"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e1d"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00e1d"
-    ],
     "name:hun_x_colloquial":[
         "Rad"
     ],
@@ -44,9 +35,6 @@
         "R\u00e1d"
     ],
     "name:ita_x_preferred":[
-        "R\u00e1d"
-    ],
-    "name:may_x_preferred":[
         "R\u00e1d"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "R\u00e1d"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e1d"
-    ],
     "name:slk_x_preferred":[
-        "R\u00e1d"
-    ],
-    "name:slo_x_preferred":[
         "R\u00e1d"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e1d"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642312,
+    "wof:lastmodified":1561751543,
     "wof:name":"R\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

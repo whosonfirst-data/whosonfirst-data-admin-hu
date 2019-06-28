@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":618228.920538,
+    "geom:area_square_m":618228.920539,
     "geom:bbox":"20.9450769371,48.0173824139,20.9601180801,48.0313320447",
     "geom:latitude":48.022856,
     "geom:longitude":20.952636,
@@ -16,13 +16,7 @@
     "mps:longitude":20.952123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62dc\u5c14\u6cfd\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Berz\u00e9k"
-    ],
-    "name:dut_x_preferred":[
         "Berz\u00e9k"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Berz\u00e9k"
     ],
-    "name:fre_x_preferred":[
-        "Berz\u00e9k"
-    ],
-    "name:ger_x_preferred":[
-        "Berz\u00e9k"
-    ],
     "name:hun_x_colloquial":[
         "Berzek"
     ],
@@ -47,9 +35,6 @@
         "Berz\u00e9k"
     ],
     "name:ita_x_preferred":[
-        "Berz\u00e9k"
-    ],
-    "name:may_x_preferred":[
         "Berz\u00e9k"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Berz\u00e9k"
     ],
-    "name:rum_x_preferred":[
-        "Berz\u00e9k"
-    ],
     "name:slk_x_preferred":[
-        "Berz\u00e9k"
-    ],
-    "name:slo_x_preferred":[
         "Berz\u00e9k"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Berz\u00e9k"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u5c14\u6cfd\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688502,
+    "wof:lastmodified":1561751564,
     "wof:name":"Berz\u00e9k",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

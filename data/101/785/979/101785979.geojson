@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Boldog"
     ],
-    "name:dut_x_preferred":[
-        "Boldog"
-    ],
     "name:eng_x_preferred":[
         "Boldog"
     ],
@@ -35,34 +32,22 @@
     "name:fra_x_preferred":[
         "Boldog"
     ],
-    "name:fre_x_preferred":[
-        "Boldog"
-    ],
-    "name:ger_x_preferred":[
-        "Boldog"
-    ],
     "name:hun_x_preferred":[
         "Boldog"
     ],
     "name:ita_x_preferred":[
         "Boldog"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Boldog"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Boldog"
     ],
     "name:ron_x_preferred":[
         "Boldog"
     ],
-    "name:rum_x_preferred":[
-        "Boldog"
-    ],
     "name:slk_x_preferred":[
-        "Boldog"
-    ],
-    "name:slo_x_preferred":[
         "Boldog"
     ],
     "name:slv_x_preferred":[
@@ -124,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677696,
+    "wof:lastmodified":1561751556,
     "wof:name":"Boldog",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -29,7 +29,7 @@
     "name:deu_x_preferred":[
         "Horn\u00e1d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Hern\u00e1d"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +41,7 @@
     "name:fra_x_preferred":[
         "Horn\u00e1d"
     ],
-    "name:fre_x_preferred":[
-        "Hern\u00e1d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Hern\u00e1d"
     ],
     "name:hrv_x_preferred":[
@@ -63,16 +60,19 @@
     "name:ita_x_preferred":[
         "Horn\u00e1d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hern\u00e1d"
     ],
     "name:nan_x_preferred":[
         "Hern\u00e1d"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Hern\u00e1d"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Hern\u00e1d"
+    ],
+    "name:slk_x_preferred":[
         "Hern\u00e1d"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751571,
     "wof:name":"Hern\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

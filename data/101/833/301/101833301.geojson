@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
-    "geom:area_square_m":2361570.741604,
+    "geom:area_square_m":2361570.741606,
     "geom:bbox":"18.6485686124,47.7161873085,18.6773736093,47.7442982282",
     "geom:latitude":47.730348,
     "geom:longitude":18.665345,
@@ -20,7 +20,7 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043a\u043e\u0434"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tokod"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tokod"
     ],
-    "name:fre_x_preferred":[
-        "Tokod"
-    ],
-    "name:ger_x_preferred":[
-        "Tokod"
-    ],
     "name:hun_x_preferred":[
         "Tokod"
     ],
     "name:ita_x_preferred":[
-        "Tokod"
-    ],
-    "name:may_x_preferred":[
         "Tokod"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Tokod"
     ],
-    "name:rum_x_preferred":[
-        "Tokod"
-    ],
     "name:slk_x_preferred":[
-        "Tokod"
-    ],
-    "name:slo_x_preferred":[
         "Tokod"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642920,
+    "wof:lastmodified":1561751550,
     "wof:name":"Tokod",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

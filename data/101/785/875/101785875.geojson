@@ -17,10 +17,7 @@
     "mps:longitude":19.17678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u79d1\u4ec0\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kosd"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Kosd"
     ],
-    "name:fre_x_preferred":[
-        "Kosd"
-    ],
-    "name:ger_x_preferred":[
-        "Kosd"
-    ],
     "name:hun_x_preferred":[
         "Kosd"
     ],
     "name:ita_x_preferred":[
-        "Kosd"
-    ],
-    "name:may_x_preferred":[
         "Kosd"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Kosd"
     ],
-    "name:rum_x_preferred":[
-        "Kosd"
-    ],
     "name:slk_x_preferred":[
-        "Kosd"
-    ],
-    "name:slo_x_preferred":[
         "Kosd"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677694,
+    "wof:lastmodified":1561751555,
     "wof:name":"Kosd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

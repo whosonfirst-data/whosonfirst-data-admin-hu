@@ -16,10 +16,7 @@
     "mps:longitude":17.880782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u52d2\u4ec0\u6d77\u5409"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
-    "name:fre_x_preferred":[
-        "K\u0151r\u00f6shegy"
-    ],
-    "name:ger_x_preferred":[
-        "K\u0151r\u00f6shegy"
-    ],
     "name:hrv_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
@@ -44,9 +35,6 @@
         "K\u0151r\u00f6shegy"
     ],
     "name:ita_x_preferred":[
-        "K\u0151r\u00f6shegy"
-    ],
-    "name:may_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
-    "name:rum_x_preferred":[
-        "K\u0151r\u00f6shegy"
-    ],
     "name:slk_x_preferred":[
-        "K\u0151r\u00f6shegy"
-    ],
-    "name:slo_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u0151r\u00f6shegy"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u52d2\u4ec0\u6d77\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101875767,
-    "wof:lastmodified":1544751937,
+    "wof:lastmodified":1561751544,
     "wof:name":"K\u0151r\u00f6shegy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

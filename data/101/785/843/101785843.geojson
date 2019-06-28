@@ -16,13 +16,7 @@
     "mps:longitude":17.427532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9053\u5c14\u8bfa\u70ed\u5229"
-    ],
     "name:deu_x_preferred":[
-        "Darn\u00f3zseli"
-    ],
-    "name:dut_x_preferred":[
         "Darn\u00f3zseli"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Darn\u00f3zseli"
     ],
-    "name:fre_x_preferred":[
-        "Darn\u00f3zseli"
-    ],
-    "name:ger_x_preferred":[
-        "Darn\u00f3zseli"
-    ],
     "name:hun_x_colloquial":[
         "Darnozseli"
     ],
@@ -47,9 +35,6 @@
         "Darn\u00f3zseli"
     ],
     "name:ita_x_preferred":[
-        "Darn\u00f3zseli"
-    ],
-    "name:may_x_preferred":[
         "Darn\u00f3zseli"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Darn\u00f3zseli"
     ],
-    "name:rum_x_preferred":[
-        "Darn\u00f3zseli"
-    ],
     "name:slk_x_preferred":[
-        "Darn\u00f3zseli"
-    ],
-    "name:slo_x_preferred":[
         "Darn\u00f3zseli"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Darn\u00f3zseli"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u5c14\u8bfa\u70ed\u5229"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677694,
+    "wof:lastmodified":1561751555,
     "wof:name":"Darn\u00f3zseli",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

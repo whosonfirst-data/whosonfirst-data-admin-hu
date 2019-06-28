@@ -16,13 +16,7 @@
     "mps:longitude":18.177723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u79d1\u4e54\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Kocsola"
-    ],
-    "name:dut_x_preferred":[
         "Kocsola"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kocsola"
     ],
-    "name:fre_x_preferred":[
-        "Kocsola"
-    ],
-    "name:ger_x_preferred":[
-        "Kocsola"
-    ],
     "name:hun_x_preferred":[
         "Kocsola"
     ],
     "name:ita_x_preferred":[
-        "Kocsola"
-    ],
-    "name:may_x_preferred":[
         "Kocsola"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Kocsola"
     ],
-    "name:rum_x_preferred":[
-        "Kocsola"
-    ],
     "name:slk_x_preferred":[
-        "Kocsola"
-    ],
-    "name:slo_x_preferred":[
         "Kocsola"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641602,
+    "wof:lastmodified":1561751538,
     "wof:name":"Kocsola",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

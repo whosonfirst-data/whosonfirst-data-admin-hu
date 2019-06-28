@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":2872169.675388,
+    "geom:area_square_m":2872169.675389,
     "geom:bbox":"19.6723296536,47.4275947252,19.7133716029,47.4601500334",
     "geom:latitude":47.445382,
     "geom:longitude":19.693092,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u7279\u9a6c\u5c14\u901a\u5361\u9676"
-    ],
-    "name:cze_x_preferred":[
-        "Szentm\u00e1rtonk\u00e1ta"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
-    "name:fre_x_preferred":[
-        "Szentm\u00e1rtonk\u00e1ta"
-    ],
-    "name:ger_x_preferred":[
-        "Szentm\u00e1rtonk\u00e1ta"
-    ],
     "name:hun_x_colloquial":[
         "Szentmartonkata"
     ],
@@ -51,9 +39,6 @@
         "Szentm\u00e1rtonk\u00e1ta"
     ],
     "name:ita_x_preferred":[
-        "Szentm\u00e1rtonk\u00e1ta"
-    ],
-    "name:may_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
-    "name:rum_x_preferred":[
-        "Szentm\u00e1rtonk\u00e1ta"
-    ],
     "name:slk_x_preferred":[
-        "Szentm\u00e1rtonk\u00e1ta"
-    ],
-    "name:slo_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7279\u9a6c\u5c14\u901a\u5361\u9676"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715845,
+    "wof:lastmodified":1561751584,
     "wof:name":"Szentm\u00e1rtonk\u00e1ta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

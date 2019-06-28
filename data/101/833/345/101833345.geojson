@@ -17,10 +17,7 @@
     "mps:longitude":19.312124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u827e\u5c14\u5fb7\u51ef\u5c14\u6cf0\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Erd\u0151kertes"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Erd\u0151kertes"
     ],
-    "name:fre_x_preferred":[
-        "Erd\u0151kertes"
-    ],
-    "name:ger_x_preferred":[
-        "Erd\u0151kertes"
-    ],
     "name:hun_x_preferred":[
         "Erd\u0151kertes"
     ],
     "name:ita_x_preferred":[
-        "Erd\u0151kertes"
-    ],
-    "name:may_x_preferred":[
         "Erd\u0151kertes"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Erd\u0151kertes"
     ],
-    "name:rum_x_preferred":[
-        "Erd\u0151kertes"
-    ],
     "name:slk_x_preferred":[
-        "Erd\u0151kertes"
-    ],
-    "name:slo_x_preferred":[
         "Erd\u0151kertes"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Erd\u0151kertes"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5c14\u5fb7\u51ef\u5c14\u6cf0\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101833345,
-    "wof:lastmodified":1527642928,
+    "wof:lastmodified":1561751552,
     "wof:name":"Erd\u0151kertes",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

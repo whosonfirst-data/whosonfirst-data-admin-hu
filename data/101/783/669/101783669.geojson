@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1246420.380256,
+    "geom:area_square_m":1246420.380255,
     "geom:bbox":"20.8335103429,48.0307729716,20.8483168238,48.0494693186",
     "geom:latitude":48.039045,
     "geom:longitude":20.840934,
@@ -16,13 +16,7 @@
     "mps:longitude":20.840429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57fa\u4ec0\u6258\u8003\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Kistokaj"
-    ],
-    "name:dut_x_preferred":[
         "Kistokaj"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kistokaj"
     ],
-    "name:fre_x_preferred":[
-        "Kistokaj"
-    ],
-    "name:ger_x_preferred":[
-        "Kistokaj"
-    ],
     "name:hun_x_preferred":[
         "Kistokaj"
     ],
     "name:ita_x_preferred":[
-        "Kistokaj"
-    ],
-    "name:may_x_preferred":[
         "Kistokaj"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Kistokaj"
     ],
-    "name:rum_x_preferred":[
-        "Kistokaj"
-    ],
     "name:slk_x_preferred":[
-        "Kistokaj"
-    ],
-    "name:slo_x_preferred":[
         "Kistokaj"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688496,
+    "wof:lastmodified":1561751562,
     "wof:name":"Kistokaj",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

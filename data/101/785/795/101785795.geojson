@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00105,
-    "geom:area_square_m":8735540.384835,
+    "geom:area_square_m":8735540.384834,
     "geom:bbox":"18.7078094493,47.7080651821,18.7517811189,47.762479662",
     "geom:latitude":47.732964,
     "geom:longitude":18.730896,
@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Dorog"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7f85\u683c"
-    ],
-    "name:cze_x_preferred":[
-        "Dorog"
-    ],
     "name:deu_x_preferred":[
-        "Dorog"
-    ],
-    "name:dut_x_preferred":[
         "Dorog"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "\u062f\u0631\u06af"
     ],
     "name:fra_x_preferred":[
-        "Dorog"
-    ],
-    "name:fre_x_preferred":[
-        "Dorog"
-    ],
-    "name:ger_x_preferred":[
         "Dorog"
     ],
     "name:hbs_x_preferred":[
@@ -71,9 +56,6 @@
     "name:lit_x_preferred":[
         "Dorogas"
     ],
-    "name:may_x_preferred":[
-        "Dorog"
-    ],
     "name:msa_x_preferred":[
         "Dorog"
     ],
@@ -83,16 +65,10 @@
     "name:nld_x_preferred":[
         "Dorog"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06af"
-    ],
     "name:pol_x_preferred":[
         "Dorog"
     ],
     "name:ron_x_preferred":[
-        "Dorog"
-    ],
-    "name:rum_x_preferred":[
         "Dorog"
     ],
     "name:rup_x_preferred":[
@@ -102,9 +78,6 @@
         "\u0414\u043e\u0440\u043e\u0433"
     ],
     "name:slk_x_preferred":[
-        "Dorog"
-    ],
-    "name:slo_x_preferred":[
         "Dorog"
     ],
     "name:slv_x_preferred":[
@@ -181,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527684899,
+    "wof:lastmodified":1561751556,
     "wof:name":"Dorog",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

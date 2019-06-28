@@ -17,12 +17,6 @@
     "mps:longitude":18.680627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6c99\u91cc\u6c99\u666e"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e1ris\u00e1p"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1ris\u00e1p"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "S\u00e1ris\u00e1p"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1ris\u00e1p"
-    ],
     "name:hun_x_colloquial":[
         "Sarisap"
     ],
@@ -42,9 +33,6 @@
         "S\u00e1ris\u00e1p"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1ris\u00e1p"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1ris\u00e1p"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "S\u00e1ris\u00e1p"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1ris\u00e1p"
-    ],
     "name:slk_x_preferred":[
-        "\u0160\u00e1p"
-    ],
-    "name:slo_x_preferred":[
         "\u0160\u00e1p"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e1ris\u00e1p"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u91cc\u6c99\u666e"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677693,
+    "wof:lastmodified":1561751555,
     "wof:name":"S\u00e1ris\u00e1p",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

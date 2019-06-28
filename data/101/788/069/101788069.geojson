@@ -16,12 +16,6 @@
     "mps:longitude":17.941616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u675c\u9053\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Dudar"
-    ],
     "name:eng_x_preferred":[
         "Dudar"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Dudar"
     ],
-    "name:fre_x_preferred":[
-        "Dudar"
-    ],
     "name:hun_x_preferred":[
         "Dudar"
     ],
     "name:ita_x_preferred":[
-        "Dudar"
-    ],
-    "name:may_x_preferred":[
         "Dudar"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Dudar"
     ],
-    "name:rum_x_preferred":[
-        "Dudar"
-    ],
     "name:slk_x_preferred":[
-        "Dudar"
-    ],
-    "name:slo_x_preferred":[
         "Dudar"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715576,
+    "wof:lastmodified":1561751578,
     "wof:name":"Dudar",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

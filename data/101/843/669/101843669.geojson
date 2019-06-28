@@ -16,16 +16,7 @@
     "mps:longitude":20.60008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0580\u0564"
-    ],
-    "name:chi_x_preferred":[
-        "\u9676\u5c14\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Tard"
-    ],
-    "name:dut_x_preferred":[
         "Tard"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +28,6 @@
     "name:fra_x_preferred":[
         "Tard"
     ],
-    "name:fre_x_preferred":[
-        "Tard"
-    ],
-    "name:ger_x_preferred":[
-        "Tard"
-    ],
     "name:hun_x_preferred":[
         "Tard"
     ],
@@ -50,9 +35,6 @@
         "\u054f\u0561\u0580\u0564"
     ],
     "name:ita_x_preferred":[
-        "Tard"
-    ],
-    "name:may_x_preferred":[
         "Tard"
     ],
     "name:msa_x_preferred":[
@@ -70,13 +52,7 @@
     "name:ron_x_preferred":[
         "Tard"
     ],
-    "name:rum_x_preferred":[
-        "Tard"
-    ],
     "name:slk_x_preferred":[
-        "Tard"
-    ],
-    "name:slo_x_preferred":[
         "Tard"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642592,
+    "wof:lastmodified":1561751545,
     "wof:name":"Tard",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

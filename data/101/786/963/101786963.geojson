@@ -20,13 +20,7 @@
     "name:bel_x_preferred":[
         "\u041c\u043e\u0448\u0430\u043d\u0448\u0435\u043d\u0442\u043c\u0456\u043a\u043b\u0430\u0448"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u96c4\u68ee\u7279\u7c73\u514b\u6d1b\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "Mosonszentmikl\u00f3s"
-    ],
-    "name:dut_x_preferred":[
         "Mosonszentmikl\u00f3s"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Mosonszentmikl\u00f3s"
     ],
     "name:fra_x_preferred":[
-        "Mosonszentmikl\u00f3s"
-    ],
-    "name:fre_x_preferred":[
-        "Mosonszentmikl\u00f3s"
-    ],
-    "name:ger_x_preferred":[
         "Mosonszentmikl\u00f3s"
     ],
     "name:hun_x_colloquial":[
@@ -55,9 +43,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30b7\u30e7\u30f3\u30bb\u30f3\u30c8\u30df\u30af\u30ed\u30fc\u30b7\u30e5"
-    ],
-    "name:may_x_preferred":[
-        "Mosonszentmikl\u00f3s"
     ],
     "name:msa_x_preferred":[
         "Mosonszentmikl\u00f3s"
@@ -80,13 +65,7 @@
     "name:ron_x_preferred":[
         "Mosonszentmikl\u00f3s"
     ],
-    "name:rum_x_preferred":[
-        "Mosonszentmikl\u00f3s"
-    ],
     "name:slk_x_preferred":[
-        "Mosonszentmikl\u00f3s"
-    ],
-    "name:slo_x_preferred":[
         "Mosonszentmikl\u00f3s"
     ],
     "name:slv_x_preferred":[
@@ -97,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "Mosonszentmikl\u00f3s"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u96c4\u68ee\u7279\u7c73\u514b\u6d1b\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -148,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715643,
+    "wof:lastmodified":1561751580,
     "wof:name":"Mosonszentmikl\u00f3s",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":2702301.749966,
+    "geom:area_square_m":2702301.749965,
     "geom:bbox":"21.9753593406,47.9470025098,22.0147844378,47.9809461595",
     "geom:latitude":47.964284,
     "geom:longitude":21.991387,
@@ -20,7 +20,7 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u0435\u043b\u0435\u043a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Levelek"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +32,10 @@
     "name:fra_x_preferred":[
         "Levelek"
     ],
-    "name:fre_x_preferred":[
-        "Levelek"
-    ],
-    "name:ger_x_preferred":[
-        "Levelek"
-    ],
     "name:hun_x_preferred":[
         "Levelek"
     ],
     "name:ita_x_preferred":[
-        "Levelek"
-    ],
-    "name:may_x_preferred":[
         "Levelek"
     ],
     "name:msa_x_preferred":[
@@ -59,16 +50,10 @@
     "name:ron_x_preferred":[
         "Levelek"
     ],
-    "name:rum_x_preferred":[
-        "Levelek"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u0435\u043b\u0435\u043a"
     ],
     "name:slk_x_preferred":[
-        "Levelek"
-    ],
-    "name:slo_x_preferred":[
         "Levelek"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688498,
+    "wof:lastmodified":1561751563,
     "wof:name":"Levelek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "mps:longitude":20.887946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u51ef\u7279\u7ecd\u666e\u7f57\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "K\u00e9tsoprony"
-    ],
     "name:eng_x_preferred":[
         "K\u00e9tsoprony"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "K\u00e9tsoprony"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e9tsoprony"
-    ],
     "name:hun_x_colloquial":[
         "Ketsoprony"
     ],
@@ -41,9 +32,6 @@
         "K\u00e9tsoprony"
     ],
     "name:ita_x_preferred":[
-        "K\u00e9tsoprony"
-    ],
-    "name:may_x_preferred":[
         "K\u00e9tsoprony"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "K\u00e9tsoprony"
     ],
-    "name:rum_x_preferred":[
-        "K\u00e9tsoprony"
-    ],
     "name:slk_x_preferred":[
-        "K\u00e9tsoprony"
-    ],
-    "name:slo_x_preferred":[
         "K\u00e9tsoprony"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u00e9tsoprony"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u7279\u7ecd\u666e\u7f57\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1561751588,
     "wof:name":"K\u00e9tsoprony",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

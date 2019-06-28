@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000857,
-    "geom:area_square_m":7223455.242439,
+    "geom:area_square_m":7223455.242438,
     "geom:bbox":"18.0835715106,47.0033030537,18.1744110753,47.0454627329",
     "geom:latitude":47.026044,
     "geom:longitude":18.134258,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u043e\u043d\u043a\u0435\u043d\u0435\u0441\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u9813\u51f1\u5948\u8b1d"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Balatonkenese"
     ],
     "name:eng_x_preferred":[
@@ -35,9 +32,6 @@
     "name:fra_x_preferred":[
         "Balatonkenese"
     ],
-    "name:fre_x_preferred":[
-        "Balatonkenese"
-    ],
     "name:hbs_x_preferred":[
         "Balatonkenese"
     ],
@@ -45,9 +39,6 @@
         "Balatonkenese"
     ],
     "name:ita_x_preferred":[
-        "Balatonkenese"
-    ],
-    "name:may_x_preferred":[
         "Balatonkenese"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +56,10 @@
     "name:ron_x_preferred":[
         "Balatonkenese"
     ],
-    "name:rum_x_preferred":[
-        "Balatonkenese"
-    ],
     "name:rup_x_preferred":[
         "Balatonkenese"
     ],
     "name:slk_x_preferred":[
-        "Balatonkenese"
-    ],
-    "name:slo_x_preferred":[
         "Balatonkenese"
     ],
     "name:slv_x_preferred":[
@@ -84,9 +69,6 @@
         "Balatonkenese"
     ],
     "name:vie_x_preferred":[
-        "Balatonkenese"
-    ],
-    "name:wel_x_preferred":[
         "Balatonkenese"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -145,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642932,
+    "wof:lastmodified":1561751553,
     "wof:name":"Balatonkenese",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

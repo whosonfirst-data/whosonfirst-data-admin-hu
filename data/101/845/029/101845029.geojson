@@ -20,7 +20,7 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0441\u043e\u043d\u0439"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Taksony"
     ],
     "name:eng_x_preferred":[
@@ -32,34 +32,22 @@
     "name:fra_x_preferred":[
         "Taksony"
     ],
-    "name:fre_x_preferred":[
-        "Taksony"
-    ],
-    "name:ger_x_preferred":[
-        "Taksony"
-    ],
     "name:hun_x_preferred":[
         "Taksony"
     ],
     "name:ita_x_preferred":[
         "Taksony"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Taksony"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Taksony"
     ],
     "name:ron_x_preferred":[
         "Taksony"
     ],
-    "name:rum_x_preferred":[
-        "Taksony"
-    ],
     "name:slk_x_preferred":[
-        "Taksony"
-    ],
-    "name:slo_x_preferred":[
         "Taksony"
     ],
     "name:slv_x_preferred":[
@@ -121,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642316,
+    "wof:lastmodified":1561751543,
     "wof:name":"Taksony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

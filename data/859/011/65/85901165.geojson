@@ -26,13 +26,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u533a"
-    ],
     "name:deu_x_preferred":[
-        "K\u0151b\u00e1nya"
-    ],
-    "name:dut_x_preferred":[
         "K\u0151b\u00e1nya"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
     "name:fra_x_preferred":[
         "10e arrondissement de Budapest"
     ],
-    "name:fre_x_preferred":[
-        "10e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "K\u0151b\u00e1nya"
-    ],
     "name:hun_x_colloquial":[
         "Kobanya"
     ],
@@ -65,19 +53,16 @@
     "name:ita_x_preferred":[
         "K\u0151b\u00e1nya"
     ],
+    "name:nld_x_preferred":[
+        "K\u0151b\u00e1nya"
+    ],
     "name:pol_x_preferred":[
         "K\u0151b\u00e1nya"
     ],
     "name:ron_x_preferred":[
         "K\u0151b\u00e1nya"
     ],
-    "name:rum_x_preferred":[
-        "K\u0151b\u00e1nya"
-    ],
     "name:slk_x_preferred":[
-        "X. obvod"
-    ],
-    "name:slo_x_preferred":[
         "X. obvod"
     ],
     "name:srp_x_preferred":[
@@ -157,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1561751511,
     "wof:name":"Kobanya",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

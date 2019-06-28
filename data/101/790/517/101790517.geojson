@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
-    "geom:area_square_m":1925188.183238,
+    "geom:area_square_m":1925188.18324,
     "geom:bbox":"19.0200565685,46.4355683214,19.041797256,46.452206984",
     "geom:latitude":46.444134,
     "geom:longitude":19.0301,
@@ -16,13 +16,7 @@
     "mps:longitude":19.030307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7c73\u4ec0\u51ef"
-    ],
     "name:deu_x_preferred":[
-        "Miske"
-    ],
-    "name:dut_x_preferred":[
         "Miske"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Miske"
     ],
-    "name:fre_x_preferred":[
-        "Miske"
-    ],
-    "name:ger_x_preferred":[
-        "Miske"
-    ],
     "name:hrv_x_preferred":[
         "Mi\u0161ka"
     ],
@@ -47,9 +35,6 @@
         "Miske"
     ],
     "name:ita_x_preferred":[
-        "Miske"
-    ],
-    "name:may_x_preferred":[
         "Miske"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Miske"
     ],
-    "name:rum_x_preferred":[
-        "Miske"
-    ],
     "name:slk_x_preferred":[
-        "Mi\u0161ke"
-    ],
-    "name:slo_x_preferred":[
         "Mi\u0161ke"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Miske",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

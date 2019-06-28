@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u043d\u0433\u0439\u0435\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u80af\u6770\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kengyel"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +30,6 @@
         "Kengyel"
     ],
     "name:fra_x_preferred":[
-        "Kengyel"
-    ],
-    "name:fre_x_preferred":[
-        "Kengyel"
-    ],
-    "name:ger_x_preferred":[
         "Kengyel"
     ],
     "name:hun_x_preferred":[
@@ -56,13 +47,7 @@
     "name:ron_x_preferred":[
         "Kengyel"
     ],
-    "name:rum_x_preferred":[
-        "Kengyel"
-    ],
     "name:slk_x_preferred":[
-        "Kengyel"
-    ],
-    "name:slo_x_preferred":[
         "Kengyel"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815503,
+    "wof:lastmodified":1561751592,
     "wof:name":"Kengyel",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

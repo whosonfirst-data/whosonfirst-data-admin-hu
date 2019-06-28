@@ -22,13 +22,10 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043d\u0442\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u8482"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lenti"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lenti"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +34,7 @@
     "name:epo_x_preferred":[
         "Lenti"
     ],
-    "name:fre_x_preferred":[
-        "Lenti"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lenti"
     ],
     "name:hun_x_preferred":[
@@ -49,16 +43,19 @@
     "name:ita_x_preferred":[
         "Lenti"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lenti"
     ],
     "name:nan_x_preferred":[
         "Lenti"
     ],
+    "name:nld_x_preferred":[
+        "Lenti"
+    ],
     "name:pol_x_preferred":[
         "Lenti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lenti"
     ],
     "name:rup_x_preferred":[
@@ -67,7 +64,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0442\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lenti"
     ],
     "name:slv_x_preferred":[
@@ -87,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Lenti"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u8482"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":1126004903,
-    "wof:lastmodified":1514448190,
+    "wof:lastmodified":1561751604,
     "wof:name":"M\u00e1homfa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

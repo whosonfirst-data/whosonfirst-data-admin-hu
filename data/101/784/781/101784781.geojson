@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1585522.920162,
+    "geom:area_square_m":1585522.920161,
     "geom:bbox":"19.6648680851,47.823364767,19.6939290234,47.8391188491",
     "geom:latitude":47.830827,
     "geom:longitude":19.67956,
@@ -17,13 +17,7 @@
     "mps:longitude":19.675928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ea6\u5e03\u5df4\u5409"
-    ],
-    "name:cze_x_preferred":[
-        "Jobb\u00e1gyi"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Jobb\u00e1gyi"
     ],
     "name:eng_x_preferred":[
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "Jobb\u00e1gyi"
     ],
-    "name:fre_x_preferred":[
-        "Jobb\u00e1gyi"
-    ],
     "name:hun_x_colloquial":[
         "Jobbagyi"
     ],
@@ -45,9 +36,6 @@
         "Jobb\u00e1gyi"
     ],
     "name:ita_x_preferred":[
-        "Jobb\u00e1gyi"
-    ],
-    "name:may_x_preferred":[
         "Jobb\u00e1gyi"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +53,10 @@
     "name:ron_x_preferred":[
         "Jobb\u00e1gyi"
     ],
-    "name:rum_x_preferred":[
-        "Jobb\u00e1gyi"
-    ],
     "name:rus_x_preferred":[
         "\u0419\u043e\u0431\u0431\u0430\u0434\u044c\u0438"
     ],
     "name:slk_x_preferred":[
-        "Jobb\u00e1gyi"
-    ],
-    "name:slo_x_preferred":[
         "Jobb\u00e1gyi"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Jobb\u00e1gyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea6\u5e03\u5df4\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -135,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688546,
+    "wof:lastmodified":1561751569,
     "wof:name":"Jobb\u00e1gyi",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

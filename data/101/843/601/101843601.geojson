@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2213523.963223,
+    "geom:area_square_m":2213523.963224,
     "geom:bbox":"22.1618282207,48.2552511764,22.2008399094,48.2773917442",
     "geom:latitude":48.268249,
     "geom:longitude":22.182947,
@@ -17,10 +17,7 @@
     "mps:longitude":22.181321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6258\u5c14\u7ebd\u4ec0\u5e15\u5c14\u66f9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tornyosp\u00e1lca"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Tornyosp\u00e1lca"
     ],
-    "name:fre_x_preferred":[
-        "Tornyosp\u00e1lca"
-    ],
-    "name:ger_x_preferred":[
-        "Tornyosp\u00e1lca"
-    ],
     "name:hun_x_colloquial":[
         "Tornyospalca"
     ],
@@ -45,9 +36,6 @@
         "Tornyosp\u00e1lca"
     ],
     "name:ita_x_preferred":[
-        "Tornyosp\u00e1lca"
-    ],
-    "name:may_x_preferred":[
         "Tornyosp\u00e1lca"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Tornyosp\u00e1lca"
     ],
-    "name:rum_x_preferred":[
-        "Tornyosp\u00e1lca"
-    ],
     "name:slk_x_preferred":[
-        "Tornyosp\u00e1lca"
-    ],
-    "name:slo_x_preferred":[
         "Tornyosp\u00e1lca"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Tornyosp\u00e1lca"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u7ebd\u4ec0\u5e15\u5c14\u66f9"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642599,
+    "wof:lastmodified":1561751546,
     "wof:name":"Tornyosp\u00e1lca",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

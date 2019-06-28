@@ -20,16 +20,10 @@
     "name:ces_x_preferred":[
         "Csepreg"
     ],
-    "name:chi_x_preferred":[
-        "\u67f4\u666e\u8cf4\u683c"
-    ],
-    "name:cze_x_preferred":[
-        "Csepreg"
-    ],
     "name:deu_x_preferred":[
         "Tschapring"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Csepreg"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Csepreg"
     ],
     "name:fra_x_preferred":[
-        "Csepreg"
-    ],
-    "name:fre_x_preferred":[
-        "Csepreg"
-    ],
-    "name:ger_x_preferred":[
         "Csepreg"
     ],
     "name:hbs_x_preferred":[
@@ -66,9 +54,6 @@
     "name:ita_x_preferred":[
         "Csepreg"
     ],
-    "name:may_x_preferred":[
-        "Csepreg"
-    ],
     "name:msa_x_preferred":[
         "Csepreg"
     ],
@@ -84,9 +69,6 @@
     "name:ron_x_preferred":[
         "Csepreg"
     ],
-    "name:rum_x_preferred":[
-        "Csepreg"
-    ],
     "name:rup_x_preferred":[
         "Csepreg"
     ],
@@ -94,9 +76,6 @@
         "\u0427\u0435\u043f\u0440\u0435\u0433"
     ],
     "name:slk_x_preferred":[
-        "Csepreg"
-    ],
-    "name:slo_x_preferred":[
         "Csepreg"
     ],
     "name:slv_x_preferred":[
@@ -168,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715570,
+    "wof:lastmodified":1561751572,
     "wof:name":"Csepreg",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

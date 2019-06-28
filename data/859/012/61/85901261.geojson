@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00176,
-    "geom:area_square_m":14704591.929291,
+    "geom:area_square_m":14704591.929289,
     "geom:bbox":"19.2288208008,47.4645193329,19.2937524414,47.5030806967",
     "geom:latitude":47.486012,
     "geom:longitude":19.263617,
@@ -29,19 +29,10 @@
     "name:deu_x_preferred":[
         "R\u00e1koskereszt\u00far"
     ],
-    "name:dut_x_preferred":[
-        "R\u00e1koskereszt\u00far"
-    ],
     "name:eng_x_preferred":[
         "R\u00e1koskereszt\u00far"
     ],
     "name:fra_x_preferred":[
-        "R\u00e1koskereszt\u00far"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e1koskereszt\u00far"
-    ],
-    "name:ger_x_preferred":[
         "R\u00e1koskereszt\u00far"
     ],
     "name:hun_x_colloquial":[
@@ -51,6 +42,9 @@
         "R\u00e1koskereszt\u00far"
     ],
     "name:ita_x_preferred":[
+        "R\u00e1koskereszt\u00far"
+    ],
+    "name:nld_x_preferred":[
         "R\u00e1koskereszt\u00far"
     ],
     "src:geom":"quattroshapes",
@@ -93,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527638338,
+    "wof:lastmodified":1561751510,
     "wof:name":"Rakoskeresztur",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

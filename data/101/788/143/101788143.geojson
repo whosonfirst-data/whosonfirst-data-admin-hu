@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":837800.030738,
+    "geom:area_square_m":837800.030739,
     "geom:bbox":"18.6909509521,46.9884804713,18.7053215006,47.0013016533",
     "geom:latitude":46.994519,
     "geom:longitude":18.699135,
@@ -16,13 +16,7 @@
     "mps:longitude":18.699244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d2a\u6258\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "Hantos"
-    ],
-    "name:dut_x_preferred":[
         "Hantos"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Hantos"
     ],
-    "name:fre_x_preferred":[
-        "Hantos"
-    ],
-    "name:ger_x_preferred":[
-        "Hantos"
-    ],
     "name:hun_x_preferred":[
         "Hantos"
     ],
     "name:ita_x_preferred":[
-        "Hantos"
-    ],
-    "name:may_x_preferred":[
         "Hantos"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Hantos"
     ],
-    "name:rum_x_preferred":[
-        "Hantos"
-    ],
     "name:slk_x_preferred":[
-        "Hantos"
-    ],
-    "name:slo_x_preferred":[
         "Hantos"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Hantos",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

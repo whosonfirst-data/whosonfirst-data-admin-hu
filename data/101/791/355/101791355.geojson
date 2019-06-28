@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
-    "geom:area_square_m":588592.723747,
+    "geom:area_square_m":588592.723748,
     "geom:bbox":"18.2989898674,45.975239907,18.3082868609,45.991740842",
     "geom:latitude":45.983431,
     "geom:longitude":18.303952,
@@ -16,12 +16,6 @@
     "mps:longitude":18.30286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u827e\u76d6\u62c9\u683c"
-    ],
-    "name:dut_x_preferred":[
-        "Eger\u00e1g"
-    ],
     "name:eng_x_preferred":[
         "Eger\u00e1g"
     ],
@@ -29,9 +23,6 @@
         "Eger\u00e1g"
     ],
     "name:fra_x_preferred":[
-        "Eger\u00e1g"
-    ],
-    "name:fre_x_preferred":[
         "Eger\u00e1g"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Eger\u00e1g"
     ],
-    "name:may_x_preferred":[
-        "Eger\u00e1g"
-    ],
     "name:msa_x_preferred":[
         "Eger\u00e1g"
     ],
@@ -67,10 +55,7 @@
     "name:ron_x_preferred":[
         "Eger\u00e1g"
     ],
-    "name:rum_x_preferred":[
-        "Eger\u00e1g"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Eger\u00e1g"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Eger\u00e1g"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u76d6\u62c9\u683c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -128,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641953,
+    "wof:lastmodified":1561751541,
     "wof:name":"Eger\u00e1g",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

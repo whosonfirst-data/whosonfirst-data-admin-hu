@@ -21,12 +21,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0632\u0648\u0644\u0646\u0648\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u056c\u0576\u0578\u056f"
-    ],
-    "name:baq_x_preferred":[
-        "Szolnok"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043e\u043b\u044c\u043d\u0430\u043a"
     ],
@@ -48,12 +42,6 @@
     "name:che_x_preferred":[
         "\u0421\u043e\u043b\u044c\u043d\u043e\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u5c14\u8bfa\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Szolnok"
-    ],
     "name:dan_x_preferred":[
         "Szolnok"
     ],
@@ -63,8 +51,8 @@
     "name:dsb_x_preferred":[
         "Szolnok"
     ],
-    "name:dut_x_preferred":[
-        "Szolnok"
+    "name:ell_x_preferred":[
+        "\u0396\u03cc\u03bb\u03bd\u03bf\u03ba"
     ],
     "name:eng_x_preferred":[
         "Szolnok"
@@ -75,26 +63,20 @@
     "name:est_x_preferred":[
         "Szolnok"
     ],
+    "name:eus_x_preferred":[
+        "Szolnok"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0644\u0646\u0648\u06a9"
     ],
     "name:fin_x_preferred":[
         "Szolnok"
     ],
-    "name:fre_x_preferred":[
-        "Szolnok"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10da\u10dc\u10dd\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Szolnok"
     ],
     "name:glg_x_preferred":[
         "Szolnok"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03cc\u03bb\u03bd\u03bf\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9d\u0acb\u0ab2\u0aa8\u0acb\u0a95"
@@ -107,6 +89,9 @@
     ],
     "name:hun_x_preferred":[
         "Szolnok"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u056c\u0576\u0578\u056f"
     ],
     "name:ile_x_preferred":[
         "Szolnok"
@@ -135,20 +120,17 @@
     "name:lit_x_preferred":[
         "Solnokas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043e\u043b\u043d\u043e\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u0932\u094b\u0928\u094b\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Szolnok"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u043b\u043d\u043e\u043a"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u043e\u043b\u044c\u043d\u043e\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Szolnok"
     ],
     "name:nan_x_preferred":[
         "Szolnok"
@@ -161,9 +143,6 @@
     ],
     "name:nob_x_preferred":[
         "Szolnok"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0646\u0648\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0648\u0644\u0646\u0648\u06a9"
@@ -180,9 +159,6 @@
     "name:ron_x_preferred":[
         "Solnoca"
     ],
-    "name:rum_x_preferred":[
-        "Solnoca"
-    ],
     "name:rup_x_preferred":[
         "Szolnok"
     ],
@@ -195,7 +171,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0ddc\u0dbd\u0dca\u0db1\u0ddc\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Szolnok"
     ],
     "name:slv_x_preferred":[
@@ -410,7 +386,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536613853,
+    "wof:lastmodified":1561751570,
     "wof:name":"Szolnok",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",
