@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000621,
-    "geom:area_square_m":5181281.122387,
+    "geom:area_square_m":5181281.122386,
     "geom:bbox":"19.236871386,47.5314379658,19.2757694549,47.5592084008",
     "geom:latitude":47.544505,
     "geom:longitude":19.258155,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Kistarcsa"
     ],
-    "name:chi_x_preferred":[
-        "\u5c0f\u9676\u723e\u55ac"
-    ],
-    "name:cze_x_preferred":[
-        "Kistarcsa"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kistarcsa"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Kistarcsa"
     ],
     "name:fra_x_preferred":[
-        "Kistarcsa"
-    ],
-    "name:fre_x_preferred":[
-        "Kistarcsa"
-    ],
-    "name:ger_x_preferred":[
         "Kistarcsa"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +42,6 @@
         "Kerepestarcsa"
     ],
     "name:ita_x_preferred":[
-        "Kistarcsa"
-    ],
-    "name:may_x_preferred":[
         "Kistarcsa"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +59,6 @@
     "name:ron_x_preferred":[
         "Kistarcsa"
     ],
-    "name:rum_x_preferred":[
-        "Kistarcsa"
-    ],
     "name:rup_x_preferred":[
         "Kistarcsa"
     ],
@@ -86,7 +68,7 @@
     "name:slk_x_preferred":[
         "Mal\u00e1 Tar\u010da"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Kistarcsa"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641868,
+    "wof:lastmodified":1561751540,
     "wof:name":"Kistarcsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

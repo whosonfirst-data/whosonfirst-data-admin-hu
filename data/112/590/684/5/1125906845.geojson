@@ -22,19 +22,13 @@
     "name:bul_x_preferred":[
         "\u0423\u0437\u0441\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u9976"
-    ],
-    "name:dut_x_preferred":[
-        "Uzsa"
-    ],
     "name:eng_x_preferred":[
         "Uzsa"
     ],
     "name:epo_x_preferred":[
         "Uzsa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Uzsa"
     ],
     "name:hun_x_preferred":[
@@ -43,16 +37,19 @@
     "name:ita_x_preferred":[
         "Uzsa"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Uzsa"
     ],
     "name:nan_x_preferred":[
         "Uzsa"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Uzsa"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Uzsa"
+    ],
+    "name:slk_x_preferred":[
         "Uzsa"
     ],
     "name:slv_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Uzsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u9976"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1125906845,
-    "wof:lastmodified":1514448416,
+    "wof:lastmodified":1561751601,
     "wof:name":"Uzsa-Erd\u00e9sztelep",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2114370.672926,
+    "geom:area_square_m":2114370.672927,
     "geom:bbox":"20.9096123693,47.1401187766,20.9346147274,47.1600743527",
     "geom:latitude":47.149961,
     "geom:longitude":20.922502,
@@ -16,12 +16,6 @@
     "mps:longitude":20.922502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u827e\u5207\u683c\u798f\u5c14\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Ecsegfalva"
-    ],
     "name:eng_x_preferred":[
         "Pusztaecseg"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Ecsegfalva"
     ],
-    "name:fre_x_preferred":[
-        "Ecsegfalva"
-    ],
     "name:hun_x_preferred":[
         "Ecsegfalva"
     ],
     "name:ita_x_preferred":[
-        "Ecsegfalva"
-    ],
-    "name:may_x_preferred":[
         "Ecsegfalva"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Ecsegfalva"
     ],
-    "name:rum_x_preferred":[
-        "Ecsegfalva"
-    ],
     "name:slk_x_preferred":[
-        "Ecsegfalva"
-    ],
-    "name:slo_x_preferred":[
         "Ecsegfalva"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Ecsegfalva",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

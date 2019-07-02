@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":807951.81415,
+    "geom:area_square_m":807951.814151,
     "geom:bbox":"20.0337405937,46.6119934239,20.0560910928,46.6208642939",
     "geom:latitude":46.61628,
     "geom:longitude":20.043924,
@@ -17,12 +17,6 @@
     "mps:longitude":20.043925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7279\u9ed8\u5c14\u51ef\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "T\u00f6m\u00f6rk\u00e9ny"
-    ],
     "name:eng_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "T\u00f6m\u00f6rk\u00e9ny"
-    ],
     "name:hun_x_colloquial":[
         "Toemoerkeny",
         "Tomorkeny"
@@ -46,9 +37,6 @@
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "T\u00f6m\u00f6rk\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -60,19 +48,10 @@
     "name:nld_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0645\u0631\u06a9\u0646\u06cc"
-    ],
     "name:ron_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "T\u00f6m\u00f6rk\u00e9ny"
-    ],
     "name:slk_x_preferred":[
-        "T\u00f6m\u00f6rk\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -83,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00f6m\u00f6rk\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u9ed8\u5c14\u51ef\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Csongr\u00e1d",
@@ -134,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715651,
+    "wof:lastmodified":1561751583,
     "wof:name":"T\u00f6m\u00f6rk\u00e9ny",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

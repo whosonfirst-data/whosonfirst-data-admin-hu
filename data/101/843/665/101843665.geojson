@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":3210728.352955,
+    "geom:area_square_m":3210728.352952,
     "geom:bbox":"21.3977545691,48.1030998834,21.4254713842,48.1438681956",
     "geom:latitude":48.118736,
     "geom:longitude":21.409692,
@@ -26,16 +26,7 @@
     "name:ces_x_preferred":[
         "Tokaj"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u8003\u4f0a"
-    ],
-    "name:cze_x_preferred":[
-        "Tokaj"
-    ],
     "name:deu_x_preferred":[
-        "Tokaj"
-    ],
-    "name:dut_x_preferred":[
         "Tokaj"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Tokaj"
     ],
     "name:fra_x_preferred":[
-        "Tokaj"
-    ],
-    "name:fre_x_preferred":[
-        "Tokaj"
-    ],
-    "name:ger_x_preferred":[
         "Tokaj"
     ],
     "name:hbs_x_preferred":[
@@ -71,9 +56,6 @@
     "name:kor_x_preferred":[
         "\ud1a0\ucee4\uc774"
     ],
-    "name:may_x_preferred":[
-        "Tokaj"
-    ],
     "name:msa_x_preferred":[
         "Tokaj"
     ],
@@ -89,16 +71,10 @@
     "name:ron_x_preferred":[
         "Tokaj"
     ],
-    "name:rum_x_preferred":[
-        "Tokaj"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043a\u0430\u0439"
     ],
     "name:slk_x_preferred":[
-        "Tokaj"
-    ],
-    "name:slo_x_preferred":[
         "Tokaj"
     ],
     "name:slv_x_preferred":[
@@ -181,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1561751546,
     "wof:name":"Tokaj",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

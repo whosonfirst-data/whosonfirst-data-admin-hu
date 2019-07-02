@@ -17,12 +17,6 @@
     "mps:longitude":20.885475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u7eb3\u9053\u5e15\u66f9"
-    ],
-    "name:dut_x_preferred":[
-        "Csan\u00e1dap\u00e1ca"
-    ],
     "name:eng_x_preferred":[
         "Csan\u00e1dap\u00e1ca"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Csan\u00e1dap\u00e1ca"
     ],
-    "name:fre_x_preferred":[
-        "Csan\u00e1dap\u00e1ca"
-    ],
     "name:hun_x_colloquial":[
         "Csanadapaca"
     ],
@@ -42,9 +33,6 @@
         "Csan\u00e1dap\u00e1ca"
     ],
     "name:ita_x_preferred":[
-        "Csan\u00e1dap\u00e1ca"
-    ],
-    "name:may_x_preferred":[
         "Csan\u00e1dap\u00e1ca"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Csan\u00e1dap\u00e1ca"
     ],
-    "name:rum_x_preferred":[
-        "Csan\u00e1dap\u00e1ca"
-    ],
     "name:slk_x_preferred":[
-        "Csan\u00e1dap\u00e1ca"
-    ],
-    "name:slo_x_preferred":[
         "Csan\u00e1dap\u00e1ca"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Csan\u00e1dap\u00e1ca"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u7eb3\u9053\u5e15\u66f9"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715644,
+    "wof:lastmodified":1561751581,
     "wof:name":"Csan\u00e1dap\u00e1ca",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

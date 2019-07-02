@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000518,
-    "geom:area_square_m":4368622.830505,
+    "geom:area_square_m":4368622.830503,
     "geom:bbox":"21.4642773971,46.9947924245,21.5153711358,47.0166589191",
     "geom:latitude":47.004752,
     "geom:longitude":21.492493,
@@ -17,13 +17,7 @@
     "mps:longitude":21.492107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u79d1\u99ac\u8fea"
-    ],
     "name:deu_x_preferred":[
-        "Kom\u00e1di"
-    ],
-    "name:dut_x_preferred":[
         "Kom\u00e1di"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Kom\u00e1di"
     ],
     "name:fra_x_preferred":[
-        "Kom\u00e1di"
-    ],
-    "name:fre_x_preferred":[
-        "Kom\u00e1di"
-    ],
-    "name:ger_x_preferred":[
         "Kom\u00e1di"
     ],
     "name:hbs_x_preferred":[
@@ -58,9 +46,6 @@
     "name:ita_x_preferred":[
         "Kom\u00e1di"
     ],
-    "name:may_x_preferred":[
-        "Kom\u00e1di"
-    ],
     "name:msa_x_preferred":[
         "Kom\u00e1di"
     ],
@@ -76,13 +61,10 @@
     "name:ron_x_preferred":[
         "Kom\u00e1di"
     ],
-    "name:rum_x_preferred":[
-        "Kom\u00e1di"
-    ],
     "name:rup_x_preferred":[
         "Kom\u00e1di"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kom\u00e1di"
     ],
     "name:slv_x_preferred":[
@@ -96,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "Kom\u00e1di"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u99ac\u8fea"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -147,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"Kom\u00e1di",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

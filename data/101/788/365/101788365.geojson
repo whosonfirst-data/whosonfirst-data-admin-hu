@@ -16,13 +16,7 @@
     "mps:longitude":21.617826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u68ee\u7279\u4f69\u6cf0\u5c14\u585e\u683c"
-    ],
     "name:deu_x_preferred":[
-        "Szentp\u00e9terszeg"
-    ],
-    "name:dut_x_preferred":[
         "Szentp\u00e9terszeg"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Szentp\u00e9terszeg"
     ],
-    "name:fre_x_preferred":[
-        "Szentp\u00e9terszeg"
-    ],
-    "name:ger_x_preferred":[
-        "Szentp\u00e9terszeg"
-    ],
     "name:hun_x_colloquial":[
         "Szentpeterszeg"
     ],
@@ -47,9 +35,6 @@
         "Szentp\u00e9terszeg"
     ],
     "name:ita_x_preferred":[
-        "Szentp\u00e9terszeg"
-    ],
-    "name:may_x_preferred":[
         "Szentp\u00e9terszeg"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Szentp\u00e9terszeg"
     ],
-    "name:rum_x_preferred":[
-        "Szentp\u00e9terszeg"
-    ],
     "name:slk_x_preferred":[
-        "Szentp\u00e9terszeg"
-    ],
-    "name:slo_x_preferred":[
         "Szentp\u00e9terszeg"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Szentp\u00e9terszeg"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7279\u4f69\u6cf0\u5c14\u585e\u683c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715568,
+    "wof:lastmodified":1561751571,
     "wof:name":"Szentp\u00e9terszeg",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

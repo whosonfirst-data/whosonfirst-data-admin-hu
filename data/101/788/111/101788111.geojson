@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001268,
-    "geom:area_square_m":10722122.072042,
+    "geom:area_square_m":10722122.072039,
     "geom:bbox":"20.5221257138,46.8452627928,20.5964807541,46.8989278158",
     "geom:latitude":46.86806,
     "geom:longitude":20.551092,
@@ -17,16 +17,10 @@
     "mps:longitude":20.551092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7d22\u723e\u6c83\u4ec0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sarva\u0161"
     ],
     "name:deu_x_preferred":[
-        "Szarvas"
-    ],
-    "name:dut_x_preferred":[
         "Szarvas"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Szarvas"
     ],
     "name:fra_x_preferred":[
-        "Szarvas"
-    ],
-    "name:fre_x_preferred":[
-        "Szarvas"
-    ],
-    "name:ger_x_preferred":[
         "Szarvas"
     ],
     "name:hbs_x_preferred":[
@@ -68,9 +56,6 @@
     "name:kor_x_preferred":[
         "\uc11c\ub974\ubc84\uc2dc"
     ],
-    "name:may_x_preferred":[
-        "Szarvas"
-    ],
     "name:msa_x_preferred":[
         "Szarvas"
     ],
@@ -83,16 +68,10 @@
     "name:ota_x_preferred":[
         "\u0635\u0627\u0631\u0648\u0627\u0634"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0648\u0627\u0634"
-    ],
     "name:pol_x_preferred":[
         "Szarvas"
     ],
     "name:ron_x_preferred":[
-        "Szarvas"
-    ],
-    "name:rum_x_preferred":[
         "Szarvas"
     ],
     "name:rup_x_preferred":[
@@ -105,9 +84,6 @@
         "Szarvas"
     ],
     "name:slk_x_preferred":[
-        "Sarva\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Sarva\u0161"
     ],
     "name:slv_x_preferred":[
@@ -184,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"Szarvas",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

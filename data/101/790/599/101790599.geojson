@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
-    "geom:area_square_m":3571102.541365,
+    "geom:area_square_m":3571102.541364,
     "geom:bbox":"21.1644045113,46.4051607252,21.2014288644,46.4289689262",
     "geom:latitude":46.416873,
     "geom:longitude":21.183067,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0432\u0435\u0440\u043c\u0435\u0441"
     ],
-    "name:dut_x_preferred":[
-        "Kevermes"
-    ],
     "name:eng_x_preferred":[
         "Kevermes"
     ],
@@ -32,16 +29,10 @@
     "name:fra_x_preferred":[
         "Kevermes"
     ],
-    "name:fre_x_preferred":[
-        "Kevermes"
-    ],
     "name:hun_x_preferred":[
         "Kevermes"
     ],
     "name:ita_x_preferred":[
-        "Kevernes"
-    ],
-    "name:may_x_preferred":[
         "Kevernes"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Kevermes"
     ],
-    "name:rum_x_preferred":[
-        "Kevermes"
-    ],
     "name:slk_x_preferred":[
-        "Kevermes"
-    ],
-    "name:slo_x_preferred":[
         "Kevermes"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561751536,
     "wof:name":"Kevermes",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

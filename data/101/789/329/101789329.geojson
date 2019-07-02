@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":1735392.362579,
+    "geom:area_square_m":1735392.362578,
     "geom:bbox":"17.7206471128,47.1055177508,17.7421531405,47.1235978783",
     "geom:latitude":47.115184,
     "geom:longitude":17.733499,
@@ -16,12 +16,6 @@
     "mps:longitude":17.734558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u68ee\u7279\u52a0\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Szentg\u00e1l"
-    ],
     "name:eng_x_preferred":[
         "Szentg\u00e1l"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Szentg\u00e1l"
     ],
-    "name:fre_x_preferred":[
-        "Szentg\u00e1l"
-    ],
     "name:hun_x_colloquial":[
         "Szentgal"
     ],
@@ -41,9 +32,6 @@
         "Szentg\u00e1l"
     ],
     "name:ita_x_preferred":[
-        "Szentg\u00e1l"
-    ],
-    "name:may_x_preferred":[
         "Szentg\u00e1l"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Szentg\u00e1l"
     ],
-    "name:rum_x_preferred":[
-        "Szentg\u00e1l"
-    ],
     "name:slk_x_preferred":[
-        "Szentg\u00e1l"
-    ],
-    "name:slo_x_preferred":[
         "Szentg\u00e1l"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Szentg\u00e1l"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7279\u52a0\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751593,
     "wof:name":"Szentg\u00e1l",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -16,13 +16,7 @@
     "mps:longitude":20.674454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u82cf\u970d\u5409"
-    ],
     "name:deu_x_preferred":[
-        "Szuhogy"
-    ],
-    "name:dut_x_preferred":[
         "Szuhogy"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Szuhogy"
     ],
-    "name:fre_x_preferred":[
-        "Szuhogy"
-    ],
-    "name:ger_x_preferred":[
-        "Szuhogy"
-    ],
     "name:hun_x_preferred":[
         "Szuhogy"
     ],
     "name:ita_x_preferred":[
-        "Szuhogy"
-    ],
-    "name:may_x_preferred":[
         "Szuhogy"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Szuhogy"
     ],
-    "name:rum_x_preferred":[
-        "Szuhogy"
-    ],
     "name:slk_x_preferred":[
-        "Szuhogy"
-    ],
-    "name:slo_x_preferred":[
         "Szuhogy"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Szuhogy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

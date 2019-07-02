@@ -16,10 +16,7 @@
     "mps:longitude":18.954859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u897f\u76d6\u7279\u68ee\u7279\u9a6c\u5c14\u901a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szigetszentm\u00e1rton"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +26,6 @@
         "Szigetszentm\u00e1rton"
     ],
     "name:fra_x_preferred":[
-        "Szigetszentm\u00e1rton"
-    ],
-    "name:fre_x_preferred":[
-        "Szigetszentm\u00e1rton"
-    ],
-    "name:ger_x_preferred":[
         "Szigetszentm\u00e1rton"
     ],
     "name:hrv_x_preferred":[
@@ -47,9 +38,6 @@
         "Szigetszentm\u00e1rton"
     ],
     "name:ita_x_preferred":[
-        "Szigetszentm\u00e1rton"
-    ],
-    "name:may_x_preferred":[
         "Szigetszentm\u00e1rton"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Szigetszentm\u00e1rton"
     ],
-    "name:rum_x_preferred":[
-        "Szigetszentm\u00e1rton"
-    ],
     "name:slk_x_preferred":[
-        "Szigetszentm\u00e1rton"
-    ],
-    "name:slo_x_preferred":[
         "Szigetszentm\u00e1rton"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Szigetszentm\u00e1rton"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u76d6\u7279\u68ee\u7279\u9a6c\u5c14\u901a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1544751939,
+    "wof:lastmodified":1561751543,
     "wof:name":"Szigetszentm\u00e1rton",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

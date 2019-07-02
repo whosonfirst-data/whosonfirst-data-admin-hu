@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000894,
-    "geom:area_square_m":7479633.67701,
+    "geom:area_square_m":7479633.677014,
     "geom:bbox":"20.7585669895,47.3765568298,20.8112193914,47.43772508",
     "geom:latitude":47.407926,
     "geom:longitude":20.787492,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Kunmadaras"
     ],
-    "name:dut_x_preferred":[
-        "Kunmadaras"
-    ],
     "name:eng_x_preferred":[
         "Kunmadaras"
     ],
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Kunmadaras"
     ],
-    "name:fre_x_preferred":[
-        "Kunmadaras"
-    ],
-    "name:ger_x_preferred":[
-        "Kunmadaras"
-    ],
     "name:hun_x_preferred":[
         "Kunmadaras"
     ],
     "name:ita_x_preferred":[
-        "Kunmadaras"
-    ],
-    "name:may_x_preferred":[
         "Kunmadaras"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Kunmadaras"
     ],
-    "name:rum_x_preferred":[
-        "Kunmadaras"
-    ],
     "name:slk_x_preferred":[
-        "Kunmadaras"
-    ],
-    "name:slo_x_preferred":[
         "Kunmadaras"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715643,
+    "wof:lastmodified":1561751581,
     "wof:name":"Kunmadaras",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

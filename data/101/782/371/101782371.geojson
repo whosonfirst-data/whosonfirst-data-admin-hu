@@ -40,17 +40,14 @@
     "name:ces_x_preferred":[
         "Sikulov\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u51ef\u4f0a"
-    ],
     "name:deu_x_preferred":[
         "Szekler"
     ],
+    "name:deu_x_variant":[
+        "Sz\u00e9kely"
+    ],
     "name:dsb_x_preferred":[
         "Sekele"
-    ],
-    "name:dut_x_preferred":[
-        "Sz\u00e9kely"
     ],
     "name:eng_x_preferred":[
         "Sz\u00e9kely"
@@ -58,10 +55,7 @@
     "name:epo_x_preferred":[
         "Sz\u00e9kely"
     ],
-    "name:fre_x_preferred":[
-        "Sz\u00e9kely"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sz\u00e9kely"
     ],
     "name:hun_x_colloquial":[
@@ -73,13 +67,16 @@
     "name:ita_x_preferred":[
         "Sz\u00e9kely"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sz\u00e9kely"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Sz\u00e9kely"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Sz\u00e9kely"
+    ],
+    "name:slk_x_preferred":[
         "Sz\u00e9kely"
     ],
     "name:slv_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "Sz\u00e9kely"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u51ef\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -137,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561751559,
     "wof:name":"Sz\u00e9kely",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

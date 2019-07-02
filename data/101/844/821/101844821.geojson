@@ -16,12 +16,6 @@
     "mps:longitude":18.640119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4fdd\u6d1b\u9676\u535a\u82e5\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Palotabozsok"
-    ],
     "name:eng_x_preferred":[
         "Palotabozsok"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Palotabozsok"
     ],
-    "name:fre_x_preferred":[
-        "Palotabozsok"
-    ],
     "name:hrv_x_preferred":[
         "Bo\u017euk"
     ],
@@ -41,9 +32,6 @@
         "Palotabozsok"
     ],
     "name:ita_x_preferred":[
-        "Palotabozsok"
-    ],
-    "name:may_x_preferred":[
         "Palotabozsok"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Palotabozsok"
     ],
-    "name:rum_x_preferred":[
-        "Palotabozsok"
-    ],
     "name:slk_x_preferred":[
-        "Palotabozsok"
-    ],
-    "name:slo_x_preferred":[
         "Palotabozsok"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642621,
+    "wof:lastmodified":1561751547,
     "wof:name":"Palotabozsok",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

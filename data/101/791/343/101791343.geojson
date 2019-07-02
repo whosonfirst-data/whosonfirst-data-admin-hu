@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2444119.622432,
+    "geom:area_square_m":2444119.622433,
     "geom:bbox":"17.978816299,46.0289755239,18.0006532434,46.0505487516",
     "geom:latitude":46.039239,
     "geom:longitude":17.989263,
@@ -20,16 +20,10 @@
     "name:cat_x_preferred":[
         "Szentl\u0151rinc"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u52d2\u6797\u8328"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Szentl\u0151rinc"
     ],
     "name:deu_x_preferred":[
-        "Szentl\u0151rinc"
-    ],
-    "name:dut_x_preferred":[
         "Szentl\u0151rinc"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "Szentl\u0151rinc"
     ],
-    "name:fre_x_preferred":[
-        "Szentl\u0151rinc"
-    ],
-    "name:ger_x_preferred":[
-        "Szentl\u0151rinc"
-    ],
     "name:hrv_x_preferred":[
         "Selurinac"
     ],
@@ -54,9 +42,6 @@
         "Szentl\u0151rinc"
     ],
     "name:ita_x_preferred":[
-        "Szentl\u0151rinc"
-    ],
-    "name:may_x_preferred":[
         "Szentl\u0151rinc"
     ],
     "name:msa_x_preferred":[
@@ -74,16 +59,13 @@
     "name:ron_x_preferred":[
         "Szentl\u0151rinc"
     ],
-    "name:rum_x_preferred":[
-        "Szentl\u0151rinc"
-    ],
     "name:rup_x_preferred":[
         "Szentl\u0151rinc"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0442\u043b\u0451\u0440\u0438\u043d\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Szentl\u0151rinc"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Szentl\u0151rinc"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u52d2\u6797\u8328"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -150,7 +135,7 @@
         }
     ],
     "wof:id":101791343,
-    "wof:lastmodified":1527641959,
+    "wof:lastmodified":1561751542,
     "wof:name":"Szentl\u0151rinc",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

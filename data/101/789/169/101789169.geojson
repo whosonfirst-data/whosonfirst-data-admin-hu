@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1176961.553079,
+    "geom:area_square_m":1176961.55308,
     "geom:bbox":"18.1538551913,46.7940692032,18.1827876899,46.8048978813",
     "geom:latitude":46.799564,
     "geom:longitude":18.168952,
@@ -16,10 +16,7 @@
     "mps:longitude":18.163143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u62dc\u96f7\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagyber\u00e9ny"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Nagyber\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "Nagyber\u00e9ny"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyber\u00e9ny"
-    ],
     "name:hun_x_colloquial":[
         "Nagybereny"
     ],
@@ -44,9 +35,6 @@
         "Nagyber\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Nagyber\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "Nagyber\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyber\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "Nagyber\u00e9ny"
-    ],
     "name:slk_x_preferred":[
-        "Nagyber\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "Nagyber\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyber\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u62dc\u96f7\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -123,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1561751587,
     "wof:name":"Nagyber\u00e9ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

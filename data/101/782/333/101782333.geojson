@@ -17,10 +17,7 @@
     "mps:longitude":21.644755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u62dc\u5c14\u91c7\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tiszabercel"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Tiszabercel"
     ],
-    "name:fre_x_preferred":[
-        "Tiszabercel"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszabercel"
-    ],
     "name:hun_x_preferred":[
         "Tiszabercel"
     ],
     "name:ita_x_preferred":[
-        "Tiszabercel"
-    ],
-    "name:may_x_preferred":[
         "Tiszabercel"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Tiszabercel"
     ],
-    "name:rum_x_preferred":[
-        "Tiszabercel"
-    ],
     "name:slk_x_preferred":[
-        "Tiszabercel"
-    ],
-    "name:slo_x_preferred":[
         "Tiszabercel"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561751560,
     "wof:name":"Tiszabercel",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

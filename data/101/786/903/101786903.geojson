@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":897531.053936,
+    "geom:area_square_m":897531.053937,
     "geom:bbox":"18.2155153347,47.5117868949,18.2338572754,47.5291662288",
     "geom:latitude":47.52015,
     "geom:longitude":18.223316,
@@ -16,13 +16,7 @@
     "mps:longitude":18.225609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9053\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Dad"
-    ],
-    "name:dut_x_preferred":[
         "Dad"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Dad"
     ],
-    "name:fre_x_preferred":[
-        "Dad"
-    ],
-    "name:ger_x_preferred":[
-        "Dad"
-    ],
     "name:hun_x_preferred":[
         "Dad"
     ],
     "name:ita_x_preferred":[
-        "Dad"
-    ],
-    "name:may_x_preferred":[
         "Dad"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Dad"
     ],
-    "name:rum_x_preferred":[
-        "Dad"
-    ],
     "name:slk_x_preferred":[
-        "Dad"
-    ],
-    "name:slo_x_preferred":[
         "Dad"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815502,
+    "wof:lastmodified":1561751582,
     "wof:name":"Dad",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

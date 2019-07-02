@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1286304.48326,
+    "geom:area_square_m":1286304.483261,
     "geom:bbox":"19.1559454615,48.0306420012,19.1799222555,48.0444653953",
     "geom:latitude":48.037729,
     "geom:longitude":19.167755,
@@ -16,12 +16,6 @@
     "mps:longitude":19.167755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4ee3\u4f0a\u5854\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Dejt\u00e1r"
-    ],
     "name:eng_x_preferred":[
         "Dejt\u00e1r"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Dejt\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Dejt\u00e1r"
-    ],
     "name:hun_x_colloquial":[
         "Dejtar"
     ],
@@ -41,9 +32,6 @@
         "Dejt\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Dejt\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Dejt\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Dejt\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Dejt\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Dejt\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Dejt\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Dejt\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u4f0a\u5854\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -126,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688542,
+    "wof:lastmodified":1561751568,
     "wof:name":"Dejt\u00e1r",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

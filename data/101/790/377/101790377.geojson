@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Letenye"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u6cf0\u6d85"
-    ],
-    "name:cze_x_preferred":[
-        "Letenye"
-    ],
     "name:deu_x_preferred":[
-        "Letenye"
-    ],
-    "name:dut_x_preferred":[
         "Letenye"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Letenye"
     ],
     "name:fra_x_preferred":[
-        "Letenye"
-    ],
-    "name:fre_x_preferred":[
-        "Letenye"
-    ],
-    "name:ger_x_preferred":[
         "Letenye"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +45,6 @@
         "Letenye"
     ],
     "name:ita_x_preferred":[
-        "Letenye"
-    ],
-    "name:may_x_preferred":[
         "Letenye"
     ],
     "name:msa_x_preferred":[
@@ -80,9 +62,6 @@
     "name:ron_x_preferred":[
         "Letenye"
     ],
-    "name:rum_x_preferred":[
-        "Letenye"
-    ],
     "name:rup_x_preferred":[
         "Letenye"
     ],
@@ -90,9 +69,6 @@
         "\u041b\u0435\u0442\u0435\u043d\u044c\u0435"
     ],
     "name:slk_x_preferred":[
-        "Letenye"
-    ],
-    "name:slo_x_preferred":[
         "Letenye"
     ],
     "name:slv_x_preferred":[
@@ -166,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Letenye",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

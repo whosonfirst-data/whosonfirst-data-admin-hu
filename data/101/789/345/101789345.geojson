@@ -17,12 +17,6 @@
     "mps:longitude":17.971249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u68ee\u7279\u57fa\u62c9\u4f0a\u7ecd\u9c8d\u5fb7\u5c27"
-    ],
-    "name:dut_x_preferred":[
-        "Szentkir\u00e1lyszabadja"
-    ],
     "name:eng_x_preferred":[
         "Szentkir\u00e1lyszabadja"
     ],
@@ -30,9 +24,6 @@
         "Szentkir\u00e1lyszabadja"
     ],
     "name:fra_x_preferred":[
-        "Szentkir\u00e1lyszabadja"
-    ],
-    "name:fre_x_preferred":[
         "Szentkir\u00e1lyszabadja"
     ],
     "name:hun_x_colloquial":[
@@ -47,9 +38,6 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30ad\u30e9\u30fc\u30a4\u30b5\u30d0\u30c9\u30a5\u30e4"
     ],
-    "name:may_x_preferred":[
-        "Szentkir\u00e1lyszabadja"
-    ],
     "name:msa_x_preferred":[
         "Szentkir\u00e1lyszabadja"
     ],
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Szentkir\u00e1lyszabadja"
     ],
-    "name:rum_x_preferred":[
-        "Szentkir\u00e1lyszabadja"
-    ],
     "name:slk_x_preferred":[
-        "Szentkir\u00e1lyszabadja"
-    ],
-    "name:slo_x_preferred":[
         "Szentkir\u00e1lyszabadja"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Szentkir\u00e1lyszabadja"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7279\u57fa\u62c9\u4f0a\u7ecd\u9c8d\u5fb7\u5c27"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751593,
     "wof:name":"Szentkir\u00e1lyszabadja",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

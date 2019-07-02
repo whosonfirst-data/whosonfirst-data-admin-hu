@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000551,
-    "geom:area_square_m":4637741.24132,
+    "geom:area_square_m":4637741.241318,
     "geom:bbox":"18.2812212214,47.0462352573,18.319486469,47.0734519263",
     "geom:latitude":47.059859,
     "geom:longitude":18.300384,
@@ -17,13 +17,7 @@
     "mps:longitude":18.298856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6ce2\u723e\u52a0\u8fea"
-    ],
     "name:deu_x_preferred":[
-        "Polg\u00e1rdi"
-    ],
-    "name:dut_x_preferred":[
         "Polg\u00e1rdi"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Polg\u00e1rdi"
     ],
     "name:fra_x_preferred":[
-        "Polg\u00e1rdi"
-    ],
-    "name:fre_x_preferred":[
-        "Polg\u00e1rdi"
-    ],
-    "name:ger_x_preferred":[
         "Polg\u00e1rdi"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +39,6 @@
         "Polg\u00e1rdi"
     ],
     "name:ita_x_preferred":[
-        "Polg\u00e1rdi"
-    ],
-    "name:may_x_preferred":[
         "Polg\u00e1rdi"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,10 @@
     "name:ron_x_preferred":[
         "Polg\u00e1rdi"
     ],
-    "name:rum_x_preferred":[
-        "Polg\u00e1rdi"
-    ],
     "name:rup_x_preferred":[
         "Polg\u00e1rdi"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Polg\u00e1rdi"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Polg\u00e1rdi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u52a0\u8fea"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -139,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751588,
     "wof:name":"Polg\u00e1rdi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

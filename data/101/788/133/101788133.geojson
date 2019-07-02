@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1874888.560437,
+    "geom:area_square_m":1874888.560438,
     "geom:bbox":"18.5900118341,47.3959201286,18.6439090691,47.4370347385",
     "geom:latitude":47.417099,
     "geom:longitude":18.615877,
@@ -19,16 +19,10 @@
     "name:cat_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u5c14\u4e18\u7279\u591a\u535a\u5179"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
     "name:deu_x_preferred":[
-        "Alcs\u00fatdoboz"
-    ],
-    "name:dut_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
         "\u0627\u0644\u06a9\u0633\u0627\u062f\u0648\u0628\u0632"
     ],
     "name:fra_x_preferred":[
-        "Alcs\u00fatdoboz"
-    ],
-    "name:fre_x_preferred":[
-        "Alcs\u00fatdoboz"
-    ],
-    "name:ger_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
     "name:heb_x_preferred":[
@@ -70,9 +58,6 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30c1\u30e5\u30fc\u30c8\u30c9\u30dc\u30ba"
     ],
-    "name:may_x_preferred":[
-        "Alcs\u00fatdoboz"
-    ],
     "name:msa_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
@@ -85,19 +70,13 @@
     "name:nld_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u06a9\u0633\u0627\u062f\u0648\u0628\u0632"
-    ],
     "name:ron_x_preferred":[
-        "Alcs\u00fatdoboz"
-    ],
-    "name:rum_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c\u0448\u0443\u0442\u0434\u043e\u0431\u043e\u0437"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Alcs\u00fatdoboz"
     ],
     "name:slv_x_preferred":[
@@ -111,6 +90,9 @@
     ],
     "name:vol_x_preferred":[
         "Alcs\u00fatdoboz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u4e18\u7279\u591a\u535a\u5179"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -161,7 +143,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751571,
     "wof:name":"Alcs\u00fatdoboz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

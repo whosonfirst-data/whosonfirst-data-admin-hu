@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":2593327.211766,
+    "geom:area_square_m":2593327.211764,
     "geom:bbox":"18.6216252764,46.754325617,18.644604835,46.7892174943",
     "geom:latitude":46.7696,
     "geom:longitude":18.634385,
@@ -20,9 +20,6 @@
     "name:bel_x_preferred":[
         "\u0421\u0435\u0441\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Cece"
-    ],
     "name:eng_x_preferred":[
         "Cece"
     ],
@@ -32,16 +29,10 @@
     "name:fra_x_preferred":[
         "Cece"
     ],
-    "name:fre_x_preferred":[
-        "Cece"
-    ],
     "name:hun_x_preferred":[
         "Cece"
     ],
     "name:ita_x_preferred":[
-        "Cece"
-    ],
-    "name:may_x_preferred":[
         "Cece"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Cece"
     ],
-    "name:rum_x_preferred":[
-        "Cece"
-    ],
     "name:slk_x_preferred":[
-        "Cece"
-    ],
-    "name:slo_x_preferred":[
         "Cece"
     ],
     "name:swe_x_preferred":[
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1561751588,
     "wof:name":"Cece",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

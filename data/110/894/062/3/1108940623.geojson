@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Kerepesd\u0171l\u0151"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kerepesi"
     ],
     "name:hun_x_preferred":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1108940623,
-    "wof:lastmodified":1514448115,
+    "wof:lastmodified":1561751527,
     "wof:name":"Kerepesdulo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

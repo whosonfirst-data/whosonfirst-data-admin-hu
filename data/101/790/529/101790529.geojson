@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1985053.326558,
+    "geom:area_square_m":1985053.326557,
     "geom:bbox":"18.9473114328,46.374836808,18.977851761,46.3958121482",
     "geom:latitude":46.388107,
     "geom:longitude":18.961361,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0441\u043d\u043e\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u4ec0\u8bfa\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Dusnok"
-    ],
     "name:eng_x_preferred":[
         "Dusnok"
     ],
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "Dusnok"
     ],
-    "name:fre_x_preferred":[
-        "Dusnok"
-    ],
     "name:hrv_x_preferred":[
         "Du\u0161nok"
     ],
@@ -45,9 +36,6 @@
         "Dusnok"
     ],
     "name:ita_x_preferred":[
-        "Dusnok"
-    ],
-    "name:may_x_preferred":[
         "Dusnok"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Dusnok"
     ],
-    "name:rum_x_preferred":[
-        "Dusnok"
-    ],
     "name:slk_x_preferred":[
-        "Dusnok"
-    ],
-    "name:slo_x_preferred":[
         "Dusnok"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561751536,
     "wof:name":"Dusnok",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -18,19 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u827e\u5409\u54c8\u4f50\u4ec0\u767b\u76d6\u83b1\u683c"
-    ],
-    "name:dut_x_preferred":[
-        "Egyh\u00e1zasdengeleg"
-    ],
     "name:eng_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
     "name:epo_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
     "name:hun_x_preferred":[
@@ -39,19 +33,22 @@
     "name:ita_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
     "name:nan_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
+    "name:nld_x_preferred":[
+        "Egyh\u00e1zasdengeleg"
+    ],
     "name:pol_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
     "name:slv_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:vie_x_preferred":[
         "Egyh\u00e1zasdengeleg"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5409\u54c8\u4f50\u4ec0\u767b\u76d6\u83b1\u683c"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125888837,
-    "wof:lastmodified":1514447996,
+    "wof:lastmodified":1561751600,
     "wof:name":"Egyh\u00e1zasdengeleg",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -16,13 +16,7 @@
     "mps:longitude":18.415781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5f7b\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Cs\u0151sz"
-    ],
-    "name:dut_x_preferred":[
         "Cs\u0151sz"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Cs\u0151sz"
     ],
-    "name:fre_x_preferred":[
-        "Cs\u0151sz"
-    ],
-    "name:ger_x_preferred":[
-        "Cs\u0151sz"
-    ],
     "name:hun_x_preferred":[
         "Cs\u0151sz"
     ],
     "name:ita_x_preferred":[
-        "Cs\u0151sz"
-    ],
-    "name:may_x_preferred":[
         "Cs\u0151sz"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Cs\u0151sz"
     ],
-    "name:rum_x_preferred":[
-        "Cs\u0151sz"
-    ],
     "name:slk_x_preferred":[
-        "Cs\u0151sz"
-    ],
-    "name:slo_x_preferred":[
         "Cs\u0151sz"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Cs\u0151sz"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7b\u65af"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -124,7 +106,7 @@
         }
     ],
     "wof:id":101789445,
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"Cs\u0151sz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

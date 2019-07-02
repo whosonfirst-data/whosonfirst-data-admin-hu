@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2083954.321068,
+    "geom:area_square_m":2083954.321067,
     "geom:bbox":"20.7659389255,48.1542525775,20.785920697,48.1799242894",
     "geom:latitude":48.166382,
     "geom:longitude":20.774995,
@@ -16,13 +16,7 @@
     "mps:longitude":20.774314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u7ea6\u51ef\u8d56\u65af\u56fe\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Saj\u00f3kereszt\u00far"
-    ],
-    "name:dut_x_preferred":[
         "Saj\u00f3kereszt\u00far"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Saj\u00f3kereszt\u00far"
     ],
-    "name:fre_x_preferred":[
-        "Saj\u00f3kereszt\u00far"
-    ],
-    "name:ger_x_preferred":[
-        "Saj\u00f3kereszt\u00far"
-    ],
     "name:hun_x_colloquial":[
         "Sajokeresztur"
     ],
@@ -47,9 +35,6 @@
         "Saj\u00f3kereszt\u00far"
     ],
     "name:ita_x_preferred":[
-        "Saj\u00f3kereszt\u00far"
-    ],
-    "name:may_x_preferred":[
         "Saj\u00f3kereszt\u00far"
     ],
     "name:msa_x_preferred":[
@@ -67,10 +52,7 @@
     "name:ron_x_preferred":[
         "Saj\u00f3kereszt\u00far"
     ],
-    "name:rum_x_preferred":[
-        "Saj\u00f3kereszt\u00far"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saj\u00f3kereszt\u00far"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Saj\u00f3kereszt\u00far"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u7ea6\u51ef\u8d56\u65af\u56fe\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688316,
+    "wof:lastmodified":1561751558,
     "wof:name":"Saj\u00f3kereszt\u00far",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

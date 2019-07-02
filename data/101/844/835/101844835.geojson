@@ -16,13 +16,7 @@
     "mps:longitude":18.260713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6ce2\u52a0\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Pog\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "Pog\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +26,6 @@
         "Pog\u00e1ny"
     ],
     "name:fra_x_preferred":[
-        "Pog\u00e1ny"
-    ],
-    "name:fre_x_preferred":[
-        "Pog\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
         "Pog\u00e1ny"
     ],
     "name:hrv_x_preferred":[
@@ -55,9 +43,6 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30ac\u30fc\u30cb\u30fc"
     ],
-    "name:may_x_preferred":[
-        "Pog\u00e1ny"
-    ],
     "name:msa_x_preferred":[
         "Pog\u00e1ny"
     ],
@@ -73,13 +58,10 @@
     "name:ron_x_preferred":[
         "Pog\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Pog\u00e1ny"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0433\u0430\u043d\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pog\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -87,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Pog\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u52a0\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642622,
+    "wof:lastmodified":1561751547,
     "wof:name":"Pog\u00e1ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

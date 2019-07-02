@@ -16,12 +16,6 @@
     "mps:longitude":16.949023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f50\u6d1b\u68ee\u7279\u7c73\u54c8\u4f0a"
-    ],
-    "name:dut_x_preferred":[
-        "Zalaszentmih\u00e1ly"
-    ],
     "name:eng_x_preferred":[
         "Zalaszentmih\u00e1ly"
     ],
@@ -29,9 +23,6 @@
         "Zalaszentmih\u00e1ly"
     ],
     "name:fra_x_preferred":[
-        "Zalaszentmih\u00e1ly"
-    ],
-    "name:fre_x_preferred":[
         "Zalaszentmih\u00e1ly"
     ],
     "name:hun_x_colloquial":[
@@ -43,9 +34,6 @@
     "name:ita_x_preferred":[
         "Zalaszentmih\u00e1ly"
     ],
-    "name:may_x_preferred":[
-        "Zalaszentmih\u00e1ly"
-    ],
     "name:msa_x_preferred":[
         "Zalaszentmih\u00e1ly"
     ],
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Zalaszentmih\u00e1ly"
     ],
-    "name:rum_x_preferred":[
-        "Zalaszentmih\u00e1ly"
-    ],
     "name:slk_x_preferred":[
-        "Zalaszentmih\u00e1ly"
-    ],
-    "name:slo_x_preferred":[
         "Zalaszentmih\u00e1ly"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Zalaszentmih\u00e1ly"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u6d1b\u68ee\u7279\u7c73\u54c8\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Zala",
@@ -117,7 +102,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"Zalaszentmih\u00e1ly",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

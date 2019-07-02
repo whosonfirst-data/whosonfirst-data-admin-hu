@@ -16,12 +16,6 @@
     "mps:longitude":16.900538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u585e\u6d3e\u7279\u5948\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Szepetnek"
-    ],
     "name:eng_x_preferred":[
         "Szepetnek"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Szepetnek"
     ],
-    "name:fre_x_preferred":[
-        "Szepetnek"
-    ],
     "name:hun_x_preferred":[
         "Szepetnek"
     ],
     "name:ita_x_preferred":[
-        "Szepetnek"
-    ],
-    "name:may_x_preferred":[
         "Szepetnek"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Szepetnek"
     ],
-    "name:rum_x_preferred":[
-        "Szepetnek"
-    ],
     "name:slk_x_preferred":[
-        "Szepetnek"
-    ],
-    "name:slo_x_preferred":[
         "Szepetnek"
     ],
     "name:slv_x_preferred":[
@@ -122,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561751539,
     "wof:name":"Szepetnek",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

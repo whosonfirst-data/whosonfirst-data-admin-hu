@@ -23,20 +23,11 @@
     "name:ces_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
-    "name:chi_x_preferred":[
-        "\u8d39\u5c14\u7279\u62c9\u79d1\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Fert\u0151r\u00e1kos"
-    ],
     "name:deu_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
     "name:deu_x_variant":[
         "Kroisbach"
-    ],
-    "name:dut_x_preferred":[
-        "Fert\u0151r\u00e1kos"
     ],
     "name:eng_x_preferred":[
         "Fert\u0151r\u00e1kos"
@@ -47,12 +38,6 @@
     "name:fra_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
-    "name:fre_x_preferred":[
-        "Fert\u0151r\u00e1kos"
-    ],
-    "name:ger_x_preferred":[
-        "Fert\u0151r\u00e1kos"
-    ],
     "name:hun_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
@@ -61,9 +46,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a7\u30eb\u30c6\u30fc\u30e9\u30fc\u30b3\u30b7\u30e5"
-    ],
-    "name:may_x_preferred":[
-        "Fert\u0151r\u00e1kos"
     ],
     "name:msa_x_preferred":[
         "Fert\u0151r\u00e1kos"
@@ -77,10 +59,10 @@
     "name:pol_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fert\u0151r\u00e1kos"
     ],
     "name:slv_x_preferred":[
@@ -94,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "Fert\u0151r\u00e1kos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u7279\u62c9\u79d1\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":101786971,
-    "wof:lastmodified":1527715647,
+    "wof:lastmodified":1561751582,
     "wof:name":"Fert\u0151r\u00e1kos",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

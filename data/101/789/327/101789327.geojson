@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":927530.691789,
+    "geom:area_square_m":927530.691788,
     "geom:bbox":"17.3653223228,47.1171974171,17.3894382112,47.1256112784",
     "geom:latitude":47.121508,
     "geom:longitude":17.376678,
@@ -16,13 +16,7 @@
     "mps:longitude":17.373481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u59c6\u6d1b\u74e6\u6c99\u5c14\u6d77\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Soml\u00f3v\u00e1s\u00e1rhely"
-    ],
-    "name:dut_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
-    "name:fre_x_preferred":[
-        "Soml\u00f3v\u00e1s\u00e1rhely"
-    ],
-    "name:ger_x_preferred":[
-        "Soml\u00f3v\u00e1s\u00e1rhely"
-    ],
     "name:hun_x_colloquial":[
         "Somlovasarhely"
     ],
@@ -47,9 +35,6 @@
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
     "name:ita_x_preferred":[
-        "Soml\u00f3v\u00e1s\u00e1rhely"
-    ],
-    "name:may_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
     "name:msa_x_preferred":[
@@ -73,10 +58,7 @@
     "name:ron_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
-    "name:rum_x_preferred":[
-        "Soml\u00f3v\u00e1s\u00e1rhely"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
     "name:slv_x_preferred":[
@@ -87,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u59c6\u6d1b\u74e6\u6c99\u5c14\u6d77\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751593,
     "wof:name":"Soml\u00f3v\u00e1s\u00e1rhely",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

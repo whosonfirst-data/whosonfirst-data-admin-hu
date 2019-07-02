@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1256889.944413,
+    "geom:area_square_m":1256889.944414,
     "geom:bbox":"18.5837638173,46.3399236209,18.6011097692,46.3578400232",
     "geom:latitude":46.347718,
     "geom:longitude":18.592955,
@@ -16,10 +16,7 @@
     "mps:longitude":18.594532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u8003\u4ec0\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kakasd"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kakasd"
     ],
-    "name:fre_x_preferred":[
-        "Kakasd"
-    ],
-    "name:ger_x_preferred":[
-        "Kakasd"
-    ],
     "name:hun_x_preferred":[
         "Kakasd"
     ],
     "name:ita_x_preferred":[
-        "Kakasd"
-    ],
-    "name:may_x_preferred":[
         "Kakasd"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Kakasd"
     ],
-    "name:rum_x_preferred":[
-        "Kakasd"
-    ],
     "name:slk_x_preferred":[
-        "Kakasd"
-    ],
-    "name:slo_x_preferred":[
         "Kakasd"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641597,
+    "wof:lastmodified":1561751534,
     "wof:name":"Kakasd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1386509.579941,
+    "geom:area_square_m":1386509.57994,
     "geom:bbox":"18.0975982448,46.5276550724,18.1217472155,46.5535924267",
     "geom:latitude":46.538661,
     "geom:longitude":18.10829,
@@ -17,10 +17,7 @@
     "mps:longitude":18.109479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u514b\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szakcs"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Szakcs"
     ],
-    "name:fre_x_preferred":[
-        "Szakcs"
-    ],
-    "name:ger_x_preferred":[
-        "Szakcs"
-    ],
     "name:hun_x_preferred":[
         "Szakcs"
     ],
     "name:ita_x_preferred":[
-        "Szakcs"
-    ],
-    "name:may_x_preferred":[
         "Szakcs"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Szakcs"
     ],
-    "name:rum_x_preferred":[
-        "Szakcs"
-    ],
     "name:slk_x_preferred":[
-        "Szakcs"
-    ],
-    "name:slo_x_preferred":[
         "Szakcs"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642622,
+    "wof:lastmodified":1561751547,
     "wof:name":"Szakcs",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

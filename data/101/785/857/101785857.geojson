@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1326276.939756,
+    "geom:area_square_m":1326276.939755,
     "geom:bbox":"17.6394415673,47.7474999608,17.6588289331,47.7702324882",
     "geom:latitude":47.759223,
     "geom:longitude":17.650411,
@@ -16,13 +16,10 @@
     "mps:longitude":17.648649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74e6\u83ab\u4ec0\u7ecd\u9c8d\u8fea"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "V\u00e1mosszabadi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "V\u00e1mosszabadi"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
         "V\u00e1mosszabadi"
     ],
     "name:fra_x_preferred":[
-        "V\u00e1mosszabadi"
-    ],
-    "name:fre_x_preferred":[
-        "V\u00e1mosszabadi"
-    ],
-    "name:ger_x_preferred":[
         "V\u00e1mosszabadi"
     ],
     "name:hun_x_colloquial":[
@@ -58,9 +49,6 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30fc\u30e2\u30b7\u30e5\u30b5\u30d0\u30c7\u30a3"
     ],
-    "name:may_x_preferred":[
-        "V\u00e1mosszabadi"
-    ],
     "name:msa_x_preferred":[
         "V\u00e1mosszabadi"
     ],
@@ -76,13 +64,7 @@
     "name:ron_x_preferred":[
         "V\u00e1mosszabadi"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e1mosszabadi"
-    ],
     "name:slk_x_preferred":[
-        "V\u00e1mosszabadi"
-    ],
-    "name:slo_x_preferred":[
         "V\u00e1mosszabadi"
     ],
     "name:slv_x_preferred":[
@@ -93,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u00e1mosszabadi"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u83ab\u4ec0\u7ecd\u9c8d\u8fea"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -143,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1561751555,
     "wof:name":"V\u00e1mosszabadi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

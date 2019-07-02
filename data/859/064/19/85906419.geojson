@@ -25,20 +25,15 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u7279\u857e\u897f\u4e9a\u57ce"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "VI. obvod"
     ],
     "name:deu_x_preferred":[
         "VI. Budapester Bezirk"
     ],
     "name:deu_x_variant":[
-        "Theresienstadt"
-    ],
-    "name:dut_x_preferred":[
-        "Budapest District VI"
+        "Theresienstadt",
+        "Ter\u00e9zv\u00e1ros"
     ],
     "name:eng_x_preferred":[
         "Budapest District VI"
@@ -48,12 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "6e arrondissement de Budapest"
-    ],
-    "name:fre_x_preferred":[
-        "6e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Ter\u00e9zv\u00e1ros"
     ],
     "name:hun_x_preferred":[
         "Budapest VI. ker\u00fclete"
@@ -65,19 +54,16 @@
     "name:jpn_x_preferred":[
         "\u30c6\u30ec\u30fc\u30ba\u30f4\u30a1\u30fc\u30ed\u30b7\u30e5"
     ],
+    "name:nld_x_preferred":[
+        "Budapest District VI"
+    ],
     "name:pol_x_preferred":[
         "Ter\u00e9zv\u00e1ros"
     ],
     "name:ron_x_preferred":[
         "Ter\u00e9zv\u00e1ros"
     ],
-    "name:rum_x_preferred":[
-        "Ter\u00e9zv\u00e1ros"
-    ],
     "name:slk_x_preferred":[
-        "VI. obvod"
-    ],
-    "name:slo_x_preferred":[
         "VI. obvod"
     ],
     "name:srp_x_preferred":[
@@ -150,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864516,
+    "wof:lastmodified":1561751511,
     "wof:name":"Ter\u00e9zv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

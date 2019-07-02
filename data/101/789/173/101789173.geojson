@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Tab"
     ],
-    "name:chi_x_preferred":[
-        "\u9676\u5e03"
-    ],
-    "name:cze_x_preferred":[
-        "Tab"
-    ],
     "name:deu_x_preferred":[
-        "Tab"
-    ],
-    "name:dut_x_preferred":[
         "Tab"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Tab"
     ],
     "name:fra_x_preferred":[
-        "Tab"
-    ],
-    "name:fre_x_preferred":[
-        "Tab"
-    ],
-    "name:ger_x_preferred":[
         "Tab"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +42,6 @@
         "Tab"
     ],
     "name:ita_x_preferred":[
-        "Tab"
-    ],
-    "name:may_x_preferred":[
         "Tab"
     ],
     "name:msa_x_preferred":[
@@ -77,16 +59,10 @@
     "name:ron_x_preferred":[
         "Tab"
     ],
-    "name:rum_x_preferred":[
-        "Tab"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0431"
     ],
     "name:slk_x_preferred":[
-        "Tab"
-    ],
-    "name:slo_x_preferred":[
         "Tab"
     ],
     "name:slv_x_preferred":[
@@ -157,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751589,
     "wof:name":"Tab",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

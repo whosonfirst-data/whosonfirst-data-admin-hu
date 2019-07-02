@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "N\u00e9psz\u00ednh\u00e1z Quartier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "N\u00e9psz\u00ednh\u00e1z"
     ],
     "name:hun_x_preferred":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1108940617,
-    "wof:lastmodified":1514448215,
+    "wof:lastmodified":1561751528,
     "wof:name":"Nepszinhaz negyed",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

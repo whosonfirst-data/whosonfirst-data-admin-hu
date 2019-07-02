@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
-    "name:dut_x_preferred":[
-        "P\u00e1lh\u00e1za"
-    ],
     "name:eng_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e1lh\u00e1za"
-    ],
-    "name:ger_x_preferred":[
-        "P\u00e1lh\u00e1za"
-    ],
     "name:hun_x_colloquial":[
         "Palhaza"
     ],
@@ -44,9 +35,6 @@
         "P\u00e1lh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "P\u00e1lh\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -64,16 +52,13 @@
     "name:ron_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "P\u00e1lh\u00e1za"
-    ],
     "name:rup_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u044c\u0445\u0430\u0437\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u00e1lh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715624,
+    "wof:lastmodified":1561751580,
     "wof:name":"P\u00e1lh\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

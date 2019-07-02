@@ -30,9 +30,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0633-\u0646\u0627\u062f\u0643\u0648\u0646-\u0633\u0648\u0644\u0646\u0643"
     ],
-    "name:baq_x_preferred":[
-        "J\u00e1sz-Nagykun-Szolnok"
-    ],
     "name:bel_x_preferred":[
         "\u042f\u0441-\u041d\u0430\u0434\u0437\u044c\u043a\u0443\u043d-\u0421\u043e\u043b\u044c\u043d\u0430\u043a"
     ],
@@ -51,20 +48,14 @@
     "name:ces_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u65af-\u7459\u5409\u5b54-\u7d22\u723e\u8afe\u514b\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "J\u00e1sz-Nagykun-Szolnok"
-    ],
     "name:dan_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok"
     ],
     "name:deu_x_preferred":[
         "Komitat J\u00e1sz-Nagykun-Szolnok"
     ],
-    "name:dut_x_preferred":[
-        "J\u00e1sz-Nagykun-Szolnok"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03c3\u03b6-\u039d\u03b1\u03b3\u03ba\u03af\u03ba\u03bf\u03c5\u03bd-\u03a3\u03b6\u03cc\u03bb\u03bd\u03bf\u03ba"
     ],
     "name:eng_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok County"
@@ -75,6 +66,9 @@
     "name:est_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnoki komitaat"
     ],
+    "name:eus_x_preferred":[
+        "J\u00e1sz-Nagykun-Szolnok"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0627\u0633\u0632-\u0646\u0627\u06af\u06cc\u06a9\u0648\u0646-\u0632\u0648\u0644\u0646\u0648\u06a9"
     ],
@@ -84,20 +78,8 @@
     "name:fra_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok"
     ],
-    "name:fre_x_preferred":[
-        "J\u00e1sz-Nagykun-Szolnok"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10e1-\u10dc\u10d0\u10d3\u10d9\u10e3\u10dc-\u10e1\u10dd\u10da\u10dc\u10dd\u10d9\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Komitat J\u00e1sz-Nagykun-Szolnok"
-    ],
     "name:glg_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b1\u03c3\u03b6-\u039d\u03b1\u03b3\u03ba\u03af\u03ba\u03bf\u03c5\u03bd-\u03a3\u03b6\u03cc\u03bb\u03bd\u03bf\u03ba"
     ],
     "name:gsw_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok"
@@ -141,14 +123,8 @@
     "name:lit_x_preferred":[
         "Jasas-Nadk\u016bnas-Solnokas"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u0441-\u041d\u0430\u0453\u043a\u0443\u043d-\u0421\u043e\u043b\u043d\u043e\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u0938\u094d\u0938-\u0928\u093e\u091c\u093f\u0915\u0941\u0915-\u0938\u094b\u0932\u094b\u0928\u094d\u0915 \u0915\u093e\u0909\u0902\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "J\u00e1sz-Nagykun-Szolnok"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u0441-\u041d\u0430\u0453\u043a\u0443\u043d-\u0421\u043e\u043b\u043d\u043e\u043a"
@@ -159,6 +135,9 @@
     "name:msa_x_preferred":[
         "Wilayah J\u00e1sz-Nagykun-Szolnok"
     ],
+    "name:msa_x_variant":[
+        "J\u00e1sz-Nagykun-Szolnok"
+    ],
     "name:nan_x_preferred":[
         "J\u00e1sz-Nagykun-Szolnok"
     ],
@@ -167,9 +146,6 @@
     ],
     "name:nob_x_preferred":[
         "Jasz Nagykun Szolnok fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0627\u0633\u0632-\u0646\u0627\u06af\u06cc\u06a9\u0648\u0646-\u0632\u0648\u0644\u0646\u0648\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u06cc\u0627\u0633 \u0646\u0627\u062f\u06a9\u0646 \u0634\u0648\u0644\u0646\u0648\u06a9 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -183,9 +159,6 @@
     "name:ron_x_preferred":[
         "Jude\u021bul J\u00e1sz-Nagykun-Szolnok"
     ],
-    "name:rum_x_preferred":[
-        "Jude\u021bul J\u00e1sz-Nagykun-Szolnok"
-    ],
     "name:rus_x_preferred":[
         "\u042f\u0441-\u041d\u0430\u0434\u044c\u043a\u0443\u043d-\u0421\u043e\u043b\u044c\u043d\u043e\u043a"
     ],
@@ -196,9 +169,6 @@
         "\u0da2\u0dcf\u0dc3\u0dca-\u0db1\u0d9c\u0dd2\u0d9a\u0dd4\u0db1\u0dca -\u0dc3\u0dca\u0dbd\u0ddc\u0db1\u0ddc\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Jasovsko-ve\u013ekokum\u00e1nsko-solnock\u00e1 \u017eupa"
-    ],
-    "name:slo_x_preferred":[
         "Jasovsko-ve\u013ekokum\u00e1nsko-solnock\u00e1 \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -374,7 +344,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1553550758,
+    "wof:lastmodified":1561751512,
     "wof:name":"J\u00e1sz-Nagykun-Szolnok",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

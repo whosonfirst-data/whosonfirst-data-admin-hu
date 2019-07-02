@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000925,
-    "geom:area_square_m":7799436.765808,
+    "geom:area_square_m":7799436.765811,
     "geom:bbox":"19.7524696593,47.0164519364,19.8079358031,47.050677264",
     "geom:latitude":47.032447,
     "geom:longitude":19.780529,
@@ -17,16 +17,10 @@
     "mps:longitude":19.777798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u514b\u52d2\u4ec0"
-    ],
     "name:deu_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
     "name:dsb_x_preferred":[
-        "Nagyk\u0151r\u00f6s"
-    ],
-    "name:dut_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +38,6 @@
     "name:fra_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
-    "name:fre_x_preferred":[
-        "Nagyk\u0151r\u00f6s"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyk\u0151r\u00f6s"
-    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d2'\u05e7\u05e8\u05e9"
     ],
@@ -59,22 +47,19 @@
     "name:ita_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
-    "name:may_x_preferred":[
-        "Nagyk\u0151r\u00f6s"
-    ],
     "name:msa_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
     "name:nan_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062f\u06a9\u0648\u0631\u0634"
+    "name:nld_x_preferred":[
+        "Nagyk\u0151r\u00f6s"
     ],
     "name:pol_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
     "name:rup_x_preferred":[
@@ -83,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0434\u044c\u043a\u0451\u0440\u0451\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nagyk\u0151r\u00f6s"
     ],
     "name:slv_x_preferred":[
@@ -100,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyk\u0151r\u00f6s"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u514b\u52d2\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -147,7 +135,7 @@
         }
     ],
     "wof:id":101789533,
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1561751587,
     "wof:name":"Nagyk\u0151r\u00f6s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

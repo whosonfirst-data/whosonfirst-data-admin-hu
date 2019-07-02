@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Kasz\u00e1sd\u0171l\u0151"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kasz\u00e1sd\u0171l\u0151"
     ],
     "name:hun_x_preferred":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1108940441,
-    "wof:lastmodified":1514448106,
+    "wof:lastmodified":1561751528,
     "wof:name":"Kaszasdulo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

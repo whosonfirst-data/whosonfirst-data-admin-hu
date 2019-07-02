@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":1555908.380097,
+    "geom:area_square_m":1555908.380098,
     "geom:bbox":"17.2811189842,47.0066018486,17.304305347,47.0205732323",
     "geom:latitude":47.01292,
     "geom:longitude":17.291877,
@@ -17,12 +17,6 @@
     "mps:longitude":17.28977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u5e03\u4f26\u4ee3\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Csabrendek"
-    ],
     "name:eng_x_preferred":[
         "Csabrendek"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "Csabrendek"
     ],
-    "name:fre_x_preferred":[
-        "Csabrendek"
-    ],
     "name:hun_x_preferred":[
         "Csabrendek"
     ],
     "name:ita_x_preferred":[
-        "Csabrendek"
-    ],
-    "name:may_x_preferred":[
         "Csabrendek"
     ],
     "name:msa_x_preferred":[
@@ -56,13 +44,7 @@
     "name:ron_x_preferred":[
         "Csabrendek"
     ],
-    "name:rum_x_preferred":[
-        "Csabrendek"
-    ],
     "name:slk_x_preferred":[
-        "Csabrendek"
-    ],
-    "name:slo_x_preferred":[
         "Csabrendek"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751590,
     "wof:name":"Csabrendek",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

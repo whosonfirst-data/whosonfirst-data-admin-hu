@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":1605615.599318,
+    "geom:area_square_m":1605615.599319,
     "geom:bbox":"17.9056055968,47.4219763503,17.9329356458,47.4379759847",
     "geom:latitude":47.428743,
     "geom:longitude":17.917457,
@@ -16,12 +16,6 @@
     "mps:longitude":17.914248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f7\u4ee3"
-    ],
-    "name:dut_x_preferred":[
-        "R\u00e9de"
-    ],
     "name:eng_x_preferred":[
         "R\u00e9de"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "R\u00e9de"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e9de"
-    ],
     "name:hun_x_colloquial":[
         "Rede"
     ],
@@ -41,9 +32,6 @@
         "R\u00e9de"
     ],
     "name:ita_x_preferred":[
-        "R\u00e9de"
-    ],
-    "name:may_x_preferred":[
         "R\u00e9de"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "R\u00e9de"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e9de"
-    ],
     "name:slk_x_preferred":[
-        "R\u00e9de"
-    ],
-    "name:slo_x_preferred":[
         "R\u00e9de"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e9de"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u4ee3"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561751583,
     "wof:name":"R\u00e9de",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

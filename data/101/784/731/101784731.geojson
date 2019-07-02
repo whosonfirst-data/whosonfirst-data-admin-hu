@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1216520.95052,
+    "geom:area_square_m":1216520.950521,
     "geom:bbox":"19.8885985211,47.9810879653,19.9147316707,47.9972388621",
     "geom:latitude":47.990188,
     "geom:longitude":19.899116,
@@ -19,15 +19,6 @@
     "name:ces_x_preferred":[
         "Dorogh\u00e1za"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7f57\u52a0\u4f50"
-    ],
-    "name:cze_x_preferred":[
-        "Dorogh\u00e1za"
-    ],
-    "name:dut_x_preferred":[
-        "Dorogh\u00e1za"
-    ],
     "name:eng_x_preferred":[
         "Dorogh\u00e1za"
     ],
@@ -37,9 +28,6 @@
     "name:fra_x_preferred":[
         "Dorogh\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "Dorogh\u00e1za"
-    ],
     "name:hun_x_colloquial":[
         "Doroghaza"
     ],
@@ -47,9 +35,6 @@
         "Dorogh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Dorogh\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "Dorogh\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Dorogh\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Dorogh\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "Dorogh\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "Dorogh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Dorogh\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7f57\u52a0\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -130,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688536,
+    "wof:lastmodified":1561751566,
     "wof:name":"Dorogh\u00e1za",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -17,13 +17,7 @@
     "mps:longitude":19.573037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u745f\u683c"
-    ],
-    "name:cze_x_preferred":[
-        "Ball\u00f3sz\u00f6g"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Ball\u00f3sz\u00f6g"
     ],
     "name:eng_x_preferred":[
@@ -33,9 +27,6 @@
         "Ball\u00f3sz\u00f6g"
     ],
     "name:fra_x_preferred":[
-        "Ball\u00f3sz\u00f6g"
-    ],
-    "name:fre_x_preferred":[
         "Ball\u00f3sz\u00f6g"
     ],
     "name:hrv_x_preferred":[
@@ -49,9 +40,6 @@
         "Ball\u00f3sz\u00f6g"
     ],
     "name:ita_x_preferred":[
-        "Ball\u00f3sz\u00f6g"
-    ],
-    "name:may_x_preferred":[
         "Ball\u00f3sz\u00f6g"
     ],
     "name:msa_x_preferred":[
@@ -69,13 +57,7 @@
     "name:ron_x_preferred":[
         "Ball\u00f3sz\u00f6g"
     ],
-    "name:rum_x_preferred":[
-        "Ball\u00f3sz\u00f6g"
-    ],
     "name:slk_x_preferred":[
-        "Ball\u00f3sz\u00f6g"
-    ],
-    "name:slo_x_preferred":[
         "Ball\u00f3sz\u00f6g"
     ],
     "name:slv_x_preferred":[
@@ -86,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "Ball\u00f3sz\u00f6g"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u6d1b\u745f\u683c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"Ball\u00f3sz\u00f6g",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

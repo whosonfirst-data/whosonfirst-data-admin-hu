@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1151570.743175,
+    "geom:area_square_m":1151570.743176,
     "geom:bbox":"19.0031870498,47.8180237154,19.0197208628,47.8335041316",
     "geom:latitude":47.825626,
     "geom:longitude":19.013458,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u043c\u0430\u0440\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u4ec0\u6bdb\u7f57\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kismaros"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Kismaros"
     ],
-    "name:fre_x_preferred":[
-        "Kismaros"
-    ],
-    "name:ger_x_preferred":[
-        "Kismaros"
-    ],
     "name:hun_x_preferred":[
         "Kismaros"
     ],
     "name:ita_x_preferred":[
-        "Kismaros"
-    ],
-    "name:may_x_preferred":[
         "Kismaros"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Kismaros"
     ],
-    "name:rum_x_preferred":[
-        "Kismaros"
-    ],
     "name:slk_x_preferred":[
-        "Kismaros"
-    ],
-    "name:slo_x_preferred":[
         "Kismaros"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642789,
+    "wof:lastmodified":1561751550,
     "wof:name":"Kismaros",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -16,10 +16,7 @@
     "mps:longitude":18.19185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9053\u5c14\u8499\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dalmand"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +26,6 @@
         "Dalmand"
     ],
     "name:fra_x_preferred":[
-        "Dalmand"
-    ],
-    "name:fre_x_preferred":[
-        "Dalmand"
-    ],
-    "name:ger_x_preferred":[
         "Dalmand"
     ],
     "name:hun_x_colloquial":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Dalmand"
     ],
-    "name:may_x_preferred":[
-        "Dalmand"
-    ],
     "name:msa_x_preferred":[
         "Dalmand"
     ],
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "Dalmand"
     ],
-    "name:rum_x_preferred":[
-        "Dalmand"
-    ],
     "name:slk_x_preferred":[
-        "Dalmand"
-    ],
-    "name:slo_x_preferred":[
         "Dalmand"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Dalmand",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

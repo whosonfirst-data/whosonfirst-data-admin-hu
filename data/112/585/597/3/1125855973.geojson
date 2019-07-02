@@ -19,19 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u5229\u76d6\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Sz\u00e1rliget"
-    ],
     "name:eng_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:epo_x_preferred":[
         "Sz\u00e1rliget"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:hun_x_preferred":[
@@ -40,16 +34,19 @@
     "name:ita_x_preferred":[
         "Sz\u00e1rliget"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:nan_x_preferred":[
         "Sz\u00e1rliget"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Sz\u00e1rliget"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Sz\u00e1rliget"
+    ],
+    "name:slk_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:slv_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Sz\u00e1rliget"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u5229\u76d6\u7279"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1125855973,
-    "wof:lastmodified":1514448332,
+    "wof:lastmodified":1561751605,
     "wof:name":"Szarliget",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
-    "geom:area_square_m":817846.310586,
+    "geom:area_square_m":817846.310585,
     "geom:bbox":"17.9427074202,47.0090718646,17.962192884,47.0203825684",
     "geom:latitude":47.014858,
     "geom:longitude":17.952537,
@@ -16,12 +16,6 @@
     "mps:longitude":17.952389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e0a\u5384\u5c14\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Fels\u0151\u00f6rs"
-    ],
     "name:eng_x_preferred":[
         "Fels\u0151\u00f6rs"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Fels\u0151\u00f6rs"
     ],
-    "name:fre_x_preferred":[
-        "Fels\u0151\u00f6rs"
-    ],
     "name:hun_x_preferred":[
         "Fels\u0151\u00f6rs"
     ],
     "name:ita_x_preferred":[
-        "Fels\u0151\u00f6rs"
-    ],
-    "name:may_x_preferred":[
         "Fels\u0151\u00f6rs"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Fels\u0151\u00f6rs"
     ],
-    "name:rum_x_preferred":[
-        "Fels\u0151\u00f6rs"
-    ],
     "name:slk_x_preferred":[
-        "Fels\u0151\u00f6rs"
-    ],
-    "name:slo_x_preferred":[
         "Fels\u0151\u00f6rs"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Fels\u0151\u00f6rs"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5384\u5c14\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101789381,
-    "wof:lastmodified":1527715903,
+    "wof:lastmodified":1561751594,
     "wof:name":"Fels\u0151\u00f6rs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

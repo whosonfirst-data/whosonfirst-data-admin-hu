@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2054373.54363,
+    "geom:area_square_m":2054373.543629,
     "geom:bbox":"20.4464395106,47.4375697531,20.468692402,47.4581619894",
     "geom:latitude":47.447812,
     "geom:longitude":20.455861,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0441\u0437\u0430\u0431\u0443\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u5e03\u52b3"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszabura"
-    ],
     "name:eng_x_preferred":[
         "Tiszabura"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Tiszabura"
     ],
-    "name:fre_x_preferred":[
-        "Tiszabura"
-    ],
     "name:hun_x_preferred":[
         "Tiszabura"
     ],
     "name:ita_x_preferred":[
-        "Tiszabura"
-    ],
-    "name:may_x_preferred":[
         "Tiszabura"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Tiszabura"
     ],
-    "name:rum_x_preferred":[
-        "Tiszabura"
-    ],
     "name:slk_x_preferred":[
-        "Tiszabura"
-    ],
-    "name:slo_x_preferred":[
         "Tiszabura"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561751582,
     "wof:name":"Tiszabura",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

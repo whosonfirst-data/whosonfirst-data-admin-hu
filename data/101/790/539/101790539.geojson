@@ -20,16 +20,10 @@
     "name:bul_x_preferred":[
         "\u042f\u043d\u043e\u0448\u0445\u0430\u043b\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u8afe\u4ec0\u8c6a\u723e\u6bdb"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "J\u00e1noshalma"
     ],
     "name:deu_x_preferred":[
-        "J\u00e1noshalma"
-    ],
-    "name:dut_x_preferred":[
         "J\u00e1noshalma"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "J\u00e1noshalma"
     ],
     "name:fra_x_preferred":[
-        "J\u00e1noshalma"
-    ],
-    "name:fre_x_preferred":[
-        "J\u00e1noshalma"
-    ],
-    "name:ger_x_preferred":[
         "J\u00e1noshalma"
     ],
     "name:hrv_x_preferred":[
@@ -59,9 +47,6 @@
     "name:ita_x_preferred":[
         "J\u00e1noshalma"
     ],
-    "name:may_x_preferred":[
-        "J\u00e1noshalma"
-    ],
     "name:msa_x_preferred":[
         "J\u00e1noshalma"
     ],
@@ -74,7 +59,7 @@
     "name:pol_x_preferred":[
         "J\u00e1noshalma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "J\u00e1noshalma"
     ],
     "name:rup_x_preferred":[
@@ -83,7 +68,7 @@
     "name:rus_x_preferred":[
         "\u042f\u043d\u043e\u0448\u0445\u0430\u043b\u044c\u043c\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "J\u00e1noshalma"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1noshalma"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u8afe\u4ec0\u8c6a\u723e\u6bdb"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -154,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561751536,
     "wof:name":"J\u00e1noshalma",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

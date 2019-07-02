@@ -17,10 +17,7 @@
     "mps:longitude":20.813566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9081\u6fa4\u6d77\u5091\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mez\u0151hegyes"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "Mez\u0151hegyes"
     ],
-    "name:fre_x_preferred":[
-        "Mez\u0151hegyes"
-    ],
-    "name:ger_x_preferred":[
-        "Mez\u0151hegyes"
-    ],
     "name:hrv_x_preferred":[
         "Mez\u0151hegyes"
     ],
@@ -52,9 +43,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ba\u30fc\u30d8\u30b8\u30a7\u30b7\u30e5"
-    ],
-    "name:may_x_preferred":[
-        "Mez\u0151hegyes"
     ],
     "name:msa_x_preferred":[
         "Mez\u0151hegyes"
@@ -71,16 +59,13 @@
     "name:ron_x_preferred":[
         "Mez\u0151hegyes"
     ],
-    "name:rum_x_preferred":[
-        "Mez\u0151hegyes"
-    ],
     "name:rup_x_preferred":[
         "Mez\u0151hegyes"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0437\u0451\u0445\u0435\u0434\u044c\u0435\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mez\u0151hegyes"
     ],
     "name:slv_x_preferred":[
@@ -97,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "Mez\u0151hegyes"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u6fa4\u6d77\u5091\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -144,7 +132,7 @@
         }
     ],
     "wof:id":101790611,
-    "wof:lastmodified":1527641597,
+    "wof:lastmodified":1561751534,
     "wof:name":"Mez\u0151hegyes",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u83ab\u514b\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
-    "name:cze_x_preferred":[
-        "Homokszentgy\u00f6rgy"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
         "Homokszentgy\u00f6rgy"
     ],
     "name:fra_x_preferred":[
-        "Homokszentgy\u00f6rgy"
-    ],
-    "name:fre_x_preferred":[
-        "Homokszentgy\u00f6rgy"
-    ],
-    "name:ger_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
     "name:hrv_x_preferred":[
@@ -56,9 +44,6 @@
     "name:ita_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
-    "name:may_x_preferred":[
-        "Homokszentgy\u00f6rgy"
-    ],
     "name:msa_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "Homokszentgy\u00f6rgy"
-    ],
     "name:slk_x_preferred":[
-        "Homokszentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Homokszentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u83ab\u514b\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -135,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642623,
+    "wof:lastmodified":1561751547,
     "wof:name":"Homokszentgy\u00f6rgy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

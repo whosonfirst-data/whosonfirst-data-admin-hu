@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1655376.104277,
+    "geom:area_square_m":1655376.104279,
     "geom:bbox":"21.7666069262,47.7541748958,21.799189689,47.7854713038",
     "geom:latitude":47.765741,
     "geom:longitude":21.776727,
@@ -16,10 +16,7 @@
     "mps:longitude":21.775617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u76d6\u65af\u6cf0\u96f7\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Geszter\u00e9d"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Geszter\u00e9d"
     ],
-    "name:fre_x_preferred":[
-        "Geszter\u00e9d"
-    ],
-    "name:ger_x_preferred":[
-        "Geszter\u00e9d"
-    ],
     "name:hun_x_colloquial":[
         "Gesztered"
     ],
@@ -44,9 +35,6 @@
         "Geszter\u00e9d"
     ],
     "name:ita_x_preferred":[
-        "Geszter\u00e9d"
-    ],
-    "name:may_x_preferred":[
         "Geszter\u00e9d"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Geszter\u00e9d"
     ],
-    "name:rum_x_preferred":[
-        "Geszter\u00e9d"
-    ],
     "name:slk_x_preferred":[
-        "Geszter\u00e9d"
-    ],
-    "name:slo_x_preferred":[
         "Geszter\u00e9d"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Geszter\u00e9d"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u65af\u6cf0\u96f7\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688542,
+    "wof:lastmodified":1561751568,
     "wof:name":"Geszter\u00e9d",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000434,
-    "geom:area_square_m":3599839.325317,
+    "geom:area_square_m":3599839.325316,
     "geom:bbox":"20.6752480114,47.8083551815,20.7000213326,47.8392157122",
     "geom:latitude":47.824318,
     "geom:longitude":20.687669,
@@ -20,13 +20,7 @@
     "name:cat_x_preferred":[
         "Mez\u0151keresztes"
     ],
-    "name:chi_x_preferred":[
-        "\u9081\u6fa4\u51f1\u8cf4\u65af\u6cf0\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "Mez\u0151keresztes"
-    ],
-    "name:dut_x_preferred":[
         "Mez\u0151keresztes"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Mez\u0151keresztes"
     ],
-    "name:fre_x_preferred":[
-        "Mez\u0151keresztes"
-    ],
-    "name:ger_x_preferred":[
-        "Mez\u0151keresztes"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d6\u05e7\u05e8\u05e1\u05d8\u05e9"
     ],
@@ -51,9 +39,6 @@
         "Mez\u0151keresztes"
     ],
     "name:ita_x_preferred":[
-        "Mez\u0151keresztes"
-    ],
-    "name:may_x_preferred":[
         "Mez\u0151keresztes"
     ],
     "name:msa_x_preferred":[
@@ -71,16 +56,13 @@
     "name:ron_x_preferred":[
         "Mez\u0151keresztes"
     ],
-    "name:rum_x_preferred":[
-        "Mez\u0151keresztes"
-    ],
     "name:rup_x_preferred":[
         "Mez\u0151keresztes"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0437\u0451\u043a\u0435\u0440\u0435\u0441\u0442\u0435\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mez\u0151keresztes"
     ],
     "name:slv_x_preferred":[
@@ -94,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "Mez\u0151keresztes"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u6fa4\u51f1\u8cf4\u65af\u6cf0\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":101784833,
-    "wof:lastmodified":1527688540,
+    "wof:lastmodified":1561751567,
     "wof:name":"Mez\u0151keresztes",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

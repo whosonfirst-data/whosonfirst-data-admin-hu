@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
-    "name:dut_x_preferred":[
-        "G\u00e1vavencsell\u0151"
-    ],
     "name:eng_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
-    "name:fre_x_preferred":[
-        "G\u00e1vavencsell\u0151"
-    ],
-    "name:ger_x_preferred":[
-        "G\u00e1vavencsell\u0151"
-    ],
     "name:hun_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
     "name:ita_x_preferred":[
-        "G\u00e1vavencsell\u0151"
-    ],
-    "name:may_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
     "name:msa_x_preferred":[
@@ -58,16 +46,10 @@
     "name:ron_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
-    "name:rum_x_preferred":[
-        "G\u00e1vavencsell\u0151"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0432\u0430\u0432\u0435\u043d\u0447\u0435\u043b\u043b\u0451"
     ],
     "name:slk_x_preferred":[
-        "G\u00e1vavencsell\u0151"
-    ],
-    "name:slo_x_preferred":[
         "G\u00e1vavencsell\u0151"
     ],
     "name:slv_x_preferred":[
@@ -124,7 +106,7 @@
         }
     ],
     "wof:id":101843617,
-    "wof:lastmodified":1527642590,
+    "wof:lastmodified":1561751544,
     "wof:name":"G\u00e1vavencsell\u0151",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

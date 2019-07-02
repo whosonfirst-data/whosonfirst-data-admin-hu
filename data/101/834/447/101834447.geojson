@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000899,
-    "geom:area_square_m":7560241.914373,
+    "geom:area_square_m":7560241.914371,
     "geom:bbox":"18.9139817074,47.1452362295,18.9646816194,47.1904360752",
     "geom:latitude":47.162248,
     "geom:longitude":18.941802,
@@ -17,13 +17,7 @@
     "mps:longitude":18.943529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u8328\u51f1\u97cb"
-    ],
     "name:deu_x_preferred":[
-        "R\u00e1ckeve"
-    ],
-    "name:dut_x_preferred":[
         "R\u00e1ckeve"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "R\u00e1ckeve"
     ],
     "name:fra_x_preferred":[
-        "R\u00e1ckeve"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e1ckeve"
-    ],
-    "name:ger_x_preferred":[
         "R\u00e1ckeve"
     ],
     "name:hrv_x_preferred":[
@@ -68,19 +56,19 @@
     "name:kor_x_preferred":[
         "\ub77c\uce20\ucf00\ubca0"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "R\u00e1ckeve"
     ],
     "name:nan_x_preferred":[
         "R\u00e1ckeve"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u06a9\u06cc\u0641"
+    "name:nld_x_preferred":[
+        "R\u00e1ckeve"
     ],
     "name:pol_x_preferred":[
         "R\u00e1ckeve"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "R\u00e1ckeve"
     ],
     "name:rup_x_preferred":[
@@ -89,7 +77,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0446\u043a\u0435\u0432\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "R\u00e1ckeve"
     ],
     "name:slv_x_preferred":[
@@ -106,6 +94,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e1ckeve"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8328\u51f1\u97cb"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -157,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642931,
+    "wof:lastmodified":1561751553,
     "wof:name":"R\u00e1ckeve",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

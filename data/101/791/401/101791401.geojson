@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2144761.217609,
+    "geom:area_square_m":2144761.21761,
     "geom:bbox":"17.1388119541,46.2024033758,17.1675193991,46.2222565594",
     "geom:latitude":46.211082,
     "geom:longitude":17.152613,
@@ -17,7 +17,7 @@
     "mps:longitude":17.153852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Berzence"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +29,6 @@
     "name:fra_x_preferred":[
         "Berzence"
     ],
-    "name:fre_x_preferred":[
-        "Berzence"
-    ],
-    "name:ger_x_preferred":[
-        "Berzence"
-    ],
     "name:hrv_x_preferred":[
         "Bre\u017enjica"
     ],
@@ -42,9 +36,6 @@
         "Berzence"
     ],
     "name:ita_x_preferred":[
-        "Berzence"
-    ],
-    "name:may_x_preferred":[
         "Berzence"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +53,7 @@
     "name:ron_x_preferred":[
         "Berzence"
     ],
-    "name:rum_x_preferred":[
-        "Berzence"
-    ],
     "name:slk_x_preferred":[
-        "Berzence"
-    ],
-    "name:slo_x_preferred":[
         "Berzence"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561751541,
     "wof:name":"Berzence",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

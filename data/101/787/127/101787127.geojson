@@ -17,13 +17,7 @@
     "mps:longitude":21.884953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u840a\u5854\u97cb\u723e\u6cf0\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "L\u00e9tav\u00e9rtes"
-    ],
-    "name:dut_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "L\u00e9tav\u00e9rtes"
     ],
     "name:fra_x_preferred":[
-        "L\u00e9tav\u00e9rtes"
-    ],
-    "name:fre_x_preferred":[
-        "L\u00e9tav\u00e9rtes"
-    ],
-    "name:ger_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
     "name:ita_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
-    "name:may_x_preferred":[
-        "L\u00e9tav\u00e9rtes"
-    ],
     "name:msa_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
@@ -75,16 +60,13 @@
     "name:ron_x_preferred":[
         "Leta Mare"
     ],
-    "name:rum_x_preferred":[
-        "Leta Mare"
-    ],
     "name:rup_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
     "name:sco_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "L\u00e9tav\u00e9rtes"
     ],
     "name:slv_x_preferred":[
@@ -104,6 +86,9 @@
     ],
     "name:vie_x_preferred":[
         "L\u00e9tav\u00e9rtes"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u5854\u97cb\u723e\u6cf0\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Hajd\u00fa-Bihar",
@@ -155,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1535390527,
+    "wof:lastmodified":1561751585,
     "wof:name":"L\u00e9tav\u00e9rtes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":2184032.617476,
+    "geom:area_square_m":2184032.617478,
     "geom:bbox":"17.6096357731,47.4226609379,17.6423525123,47.4431446955",
     "geom:latitude":47.434769,
     "geom:longitude":17.625948,
@@ -16,12 +16,6 @@
     "mps:longitude":17.62979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d1b\u74e6\u65af\u4fdd\u6258\u7459"
-    ],
-    "name:dut_x_preferred":[
-        "Lov\u00e1szpatona"
-    ],
     "name:eng_x_preferred":[
         "Lov\u00e1szpatona"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Lov\u00e1szpatona"
     ],
-    "name:fre_x_preferred":[
-        "Lov\u00e1szpatona"
-    ],
     "name:hun_x_colloquial":[
         "Lovaszpatona"
     ],
@@ -41,9 +32,6 @@
         "Lov\u00e1szpatona"
     ],
     "name:ita_x_preferred":[
-        "Lov\u00e1szpatona"
-    ],
-    "name:may_x_preferred":[
         "Lov\u00e1szpatona"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Lov\u00e1szpatona"
     ],
-    "name:rum_x_preferred":[
-        "Lov\u00e1szpatona"
-    ],
     "name:slk_x_preferred":[
-        "Lov\u00e1szpatona"
-    ],
-    "name:slo_x_preferred":[
         "Lov\u00e1szpatona"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Lov\u00e1szpatona"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u74e6\u65af\u4fdd\u6258\u7459"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715571,
+    "wof:lastmodified":1561751573,
     "wof:name":"Lov\u00e1szpatona",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

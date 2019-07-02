@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":2005097.137306,
+    "geom:area_square_m":2005097.137307,
     "geom:bbox":"17.5976615283,46.2195692439,17.6399352178,46.2443323991",
     "geom:latitude":46.232864,
     "geom:longitude":17.617817,
@@ -17,13 +17,7 @@
     "mps:longitude":17.618137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u9053\u723e\u5eab\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Kadark\u00fat"
-    ],
-    "name:dut_x_preferred":[
         "Kadark\u00fat"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Kadark\u00fat"
     ],
-    "name:fre_x_preferred":[
-        "Kadark\u00fat"
-    ],
-    "name:ger_x_preferred":[
-        "Kadark\u00fat"
-    ],
     "name:hun_x_colloquial":[
         "Kadarkut"
     ],
@@ -48,9 +36,6 @@
         "Kadark\u00fat"
     ],
     "name:ita_x_preferred":[
-        "Kadark\u00fat"
-    ],
-    "name:may_x_preferred":[
         "Kadark\u00fat"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,10 @@
     "name:ron_x_preferred":[
         "Kadark\u00fat"
     ],
-    "name:rum_x_preferred":[
-        "Kadark\u00fat"
-    ],
     "name:rup_x_preferred":[
         "Kadark\u00fat"
     ],
     "name:slk_x_preferred":[
-        "Kadark\u00fat"
-    ],
-    "name:slo_x_preferred":[
         "Kadark\u00fat"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Kadark\u00fat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u9053\u723e\u5eab\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -142,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641953,
+    "wof:lastmodified":1561751541,
     "wof:name":"Kadark\u00fat",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -27,16 +27,13 @@
     "name:cat_x_preferred":[
         "Csesznek"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u65af\u5948\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Csesznek"
     ],
     "name:dan_x_preferred":[
         "Csesznek"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Csesznek"
     ],
     "name:eng_x_preferred":[
@@ -45,10 +42,7 @@
     "name:epo_x_preferred":[
         "Csesznek"
     ],
-    "name:fre_x_preferred":[
-        "Csesznek"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Csesznek"
     ],
     "name:glg_x_preferred":[
@@ -78,16 +72,16 @@
     "name:ltz_x_preferred":[
         "Csesznek"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0435\u0441\u043d\u0435\u043a"
-    ],
-    "name:may_x_preferred":[
-        "Csesznek"
-    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0441\u043d\u0435\u043a"
     ],
+    "name:msa_x_preferred":[
+        "Csesznek"
+    ],
     "name:nan_x_preferred":[
+        "Csesznek"
+    ],
+    "name:nld_x_preferred":[
         "Csesznek"
     ],
     "name:nno_x_preferred":[
@@ -105,13 +99,13 @@
     "name:por_x_preferred":[
         "Csesznek"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Csesznek"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0441\u043d\u0435\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Csesznek"
     ],
     "name:slv_x_preferred":[
@@ -190,7 +184,7 @@
         }
     ],
     "wof:id":1125787753,
-    "wof:lastmodified":1514447958,
+    "wof:lastmodified":1561751606,
     "wof:name":"Csesznek",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

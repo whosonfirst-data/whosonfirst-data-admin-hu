@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u0437\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u65af\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Deszk"
-    ],
     "name:eng_x_preferred":[
         "Deszk"
     ],
@@ -35,9 +29,6 @@
     "name:fra_x_preferred":[
         "Deszk"
     ],
-    "name:fre_x_preferred":[
-        "Deszk"
-    ],
     "name:hrv_x_preferred":[
         "Deska"
     ],
@@ -45,9 +36,6 @@
         "Deszk"
     ],
     "name:ita_x_preferred":[
-        "Deszk"
-    ],
-    "name:may_x_preferred":[
         "Deszk"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Deszk"
     ],
-    "name:rum_x_preferred":[
-        "Deszk"
-    ],
     "name:slk_x_preferred":[
-        "Deszk"
-    ],
-    "name:slo_x_preferred":[
         "Deszk"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Deszk",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

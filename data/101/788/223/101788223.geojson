@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1984660.693849,
+    "geom:area_square_m":1984660.693848,
     "geom:bbox":"20.1124784333,47.2561929172,20.1336238215,47.2756621675",
     "geom:latitude":47.266663,
     "geom:longitude":20.123063,
@@ -20,15 +20,6 @@
     "name:ces_x_preferred":[
         "Zagyvar\u00e9kas"
     ],
-    "name:chi_x_preferred":[
-        "\u4f50\u5409\u6c83\u96f7\u8003\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Zagyvar\u00e9kas"
-    ],
-    "name:dut_x_preferred":[
-        "Zagyvar\u00e9kas"
-    ],
     "name:eng_x_preferred":[
         "Zagyvar\u00e9kas"
     ],
@@ -38,9 +29,6 @@
     "name:fra_x_preferred":[
         "Zagyvar\u00e9kas"
     ],
-    "name:fre_x_preferred":[
-        "Zagyvar\u00e9kas"
-    ],
     "name:hun_x_colloquial":[
         "Zagyvarekas"
     ],
@@ -48,9 +36,6 @@
         "Zagyvar\u00e9kas"
     ],
     "name:ita_x_preferred":[
-        "Zagyvar\u00e9kas"
-    ],
-    "name:may_x_preferred":[
         "Zagyvar\u00e9kas"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Zagyvar\u00e9kas"
     ],
-    "name:rum_x_preferred":[
-        "Zagyvar\u00e9kas"
-    ],
     "name:slk_x_preferred":[
-        "Zagyvar\u00e9kas"
-    ],
-    "name:slo_x_preferred":[
         "Zagyvar\u00e9kas"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Zagyvar\u00e9kas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u5409\u6c83\u96f7\u8003\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715575,
+    "wof:lastmodified":1561751577,
     "wof:name":"Zagyvar\u00e9kas",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

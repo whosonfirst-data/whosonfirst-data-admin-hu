@@ -17,12 +17,6 @@
     "mps:longitude":19.473929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6b27\u5c14\u6208\u74e6\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Orgov\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "Orgov\u00e1ny"
     ],
@@ -30,9 +24,6 @@
         "Orgov\u00e1ny"
     ],
     "name:fra_x_preferred":[
-        "Orgov\u00e1ny"
-    ],
-    "name:fre_x_preferred":[
         "Orgov\u00e1ny"
     ],
     "name:hrv_x_preferred":[
@@ -45,9 +36,6 @@
         "Orgov\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Orgov\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Orgov\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Orgov\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Orgov\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Orgov\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Orgov\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Orgov\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u5c14\u6208\u74e6\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751589,
     "wof:name":"Orgov\u00e1ny",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

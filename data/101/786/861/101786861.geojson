@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000756,
-    "geom:area_square_m":6312681.653248,
+    "geom:area_square_m":6312681.653247,
     "geom:bbox":"18.6098025215,47.4771855642,18.6547934712,47.5094899879",
     "geom:latitude":47.490281,
     "geom:longitude":18.631154,
@@ -20,16 +20,10 @@
     "name:cat_x_preferred":[
         "Bicske"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u5947\u51f1"
-    ],
     "name:deu_x_preferred":[
         "Bicske"
     ],
     "name:dsb_x_preferred":[
-        "Bicske"
-    ],
-    "name:dut_x_preferred":[
         "Bicske"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "\u0628\u06cc\u0686\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
-        "Bicske"
-    ],
-    "name:fre_x_preferred":[
-        "Bicske"
-    ],
-    "name:ger_x_preferred":[
         "Bicske"
     ],
     "name:hbs_x_preferred":[
@@ -65,9 +53,6 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30c4\u30b7\u30e5\u30b1"
     ],
-    "name:may_x_preferred":[
-        "Bicske"
-    ],
     "name:msa_x_preferred":[
         "Bicske"
     ],
@@ -80,16 +65,10 @@
     "name:oci_x_preferred":[
         "Bicske"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0686\u06a9\u0647"
-    ],
     "name:pol_x_preferred":[
         "Bicske"
     ],
     "name:ron_x_preferred":[
-        "Bicske"
-    ],
-    "name:rum_x_preferred":[
         "Bicske"
     ],
     "name:rup_x_preferred":[
@@ -99,9 +78,6 @@
         "\u0411\u0438\u0447\u043a\u0435"
     ],
     "name:slk_x_preferred":[
-        "Bicske"
-    ],
-    "name:slo_x_preferred":[
         "Bicske"
     ],
     "name:slv_x_preferred":[
@@ -175,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715645,
+    "wof:lastmodified":1561751581,
     "wof:name":"Bicske",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

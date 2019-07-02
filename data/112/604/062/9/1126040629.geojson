@@ -25,16 +25,13 @@
     "name:cat_x_preferred":[
         "Paks"
     ],
-    "name:chi_x_preferred":[
-        "\u4fdd\u514b\u4ec0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Paks"
     ],
     "name:dan_x_preferred":[
         "Paks"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paks"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +43,10 @@
     "name:est_x_preferred":[
         "Paks"
     ],
-    "name:fre_x_preferred":[
-        "Paks"
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0634"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Paks"
     ],
     "name:heb_x_preferred":[
@@ -73,22 +70,22 @@
     "name:lit_x_preferred":[
         "Pak\u0161as"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Paks"
     ],
     "name:nan_x_preferred":[
         "Paks"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Paks"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06a9\u0634"
+    "name:nob_x_preferred":[
+        "Paks"
     ],
     "name:pol_x_preferred":[
         "Paks"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Paks"
     ],
     "name:rup_x_preferred":[
@@ -97,7 +94,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Paks"
     ],
     "name:slv_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Paks"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u514b\u4ec0"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":1126040629,
-    "wof:lastmodified":1514447985,
+    "wof:lastmodified":1561751598,
     "wof:name":"Dunak\u00f6ml\u0151d",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

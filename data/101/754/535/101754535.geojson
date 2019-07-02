@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001458,
-    "geom:area_square_m":12147642.413166,
+    "geom:area_square_m":12147642.413163,
     "geom:bbox":"19.1162521644,47.6080673018,19.1671425955,47.6673243502",
     "geom:latitude":47.634626,
     "geom:longitude":19.140206,
@@ -23,19 +23,10 @@
     "name:ces_x_preferred":[
         "Dunakeszi"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u51f1\u897f"
-    ],
-    "name:cze_x_preferred":[
-        "Dunakeszi"
-    ],
     "name:deu_x_preferred":[
         "Dunakeszi"
     ],
     "name:dsb_x_preferred":[
-        "Dunakeszi"
-    ],
-    "name:dut_x_preferred":[
         "Dunakeszi"
     ],
     "name:eng_x_preferred":[
@@ -51,15 +42,6 @@
         "\u062f\u0648\u0646\u0627\u06a9\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Dunakeszi"
-    ],
-    "name:fre_x_preferred":[
-        "Dunakeszi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10dc\u10d0\u10d9\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Dunakeszi"
     ],
     "name:hbs_x_preferred":[
@@ -80,9 +62,6 @@
     "name:lit_x_preferred":[
         "Dunakesis"
     ],
-    "name:may_x_preferred":[
-        "Dunakeszi"
-    ],
     "name:msa_x_preferred":[
         "Dunakeszi"
     ],
@@ -91,9 +70,6 @@
     ],
     "name:nld_x_preferred":[
         "Dunakeszi"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u0627\u06a9\u0633\u06cc"
     ],
     "name:pol_x_preferred":[
         "Dunakeszi"
@@ -107,9 +83,6 @@
     "name:ron_x_preferred":[
         "Dunakeszi"
     ],
-    "name:rum_x_preferred":[
-        "Dunakeszi"
-    ],
     "name:rup_x_preferred":[
         "Dunakeszi"
     ],
@@ -117,9 +90,6 @@
         "\u0414\u0443\u043d\u0430\u043a\u0435\u0441\u0438"
     ],
     "name:slk_x_preferred":[
-        "Dunakeszi"
-    ],
-    "name:slo_x_preferred":[
         "Dunakeszi"
     ],
     "name:slv_x_preferred":[
@@ -196,7 +166,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641852,
+    "wof:lastmodified":1561751540,
     "wof:name":"Dunakeszi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

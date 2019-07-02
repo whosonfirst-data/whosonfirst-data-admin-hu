@@ -17,10 +17,7 @@
     "mps:longitude":21.74109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u8c6a\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +27,6 @@
         "Nagyhal\u00e1sz"
     ],
     "name:fra_x_preferred":[
-        "Nagyhal\u00e1sz"
-    ],
-    "name:fre_x_preferred":[
-        "Nagyhal\u00e1sz"
-    ],
-    "name:ger_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +39,6 @@
         "Nagyhal\u00e1sz"
     ],
     "name:ita_x_preferred":[
-        "Nagyhal\u00e1sz"
-    ],
-    "name:may_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +56,13 @@
     "name:ron_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
-    "name:rum_x_preferred":[
-        "Nagyhal\u00e1sz"
-    ],
     "name:rup_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0434\u044c\u0445\u0430\u043b\u0430\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyhal\u00e1sz"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u8c6a\u62c9\u65af"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -142,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642590,
+    "wof:lastmodified":1561751544,
     "wof:name":"Nagyhal\u00e1sz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

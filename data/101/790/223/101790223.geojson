@@ -16,10 +16,7 @@
     "mps:longitude":18.622639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u4f0a\u9053\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kajdacs"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kajdacs"
     ],
-    "name:fre_x_preferred":[
-        "Kajdacs"
-    ],
-    "name:ger_x_preferred":[
-        "Kajdacs"
-    ],
     "name:hun_x_preferred":[
         "Kajdacs"
     ],
     "name:ita_x_preferred":[
-        "Kajdacs"
-    ],
-    "name:may_x_preferred":[
         "Kajdacs"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Kajdacs"
     ],
-    "name:rum_x_preferred":[
-        "Kajdacs"
-    ],
     "name:slk_x_preferred":[
-        "Kajdacs"
-    ],
-    "name:slo_x_preferred":[
         "Kajdacs"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641601,
+    "wof:lastmodified":1561751537,
     "wof:name":"Kajdacs",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000374,
-    "geom:area_square_m":3141287.24951,
+    "geom:area_square_m":3141287.249509,
     "geom:bbox":"21.792727468,47.2755648681,21.8328070273,47.294678474",
     "geom:latitude":47.284991,
     "geom:longitude":21.81325,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Pocsaj"
     ],
-    "name:dut_x_preferred":[
-        "Pocsaj"
-    ],
     "name:eng_x_preferred":[
         "Pocsaj"
     ],
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Pocsaj"
     ],
-    "name:fre_x_preferred":[
-        "Pocsaj"
-    ],
-    "name:ger_x_preferred":[
-        "Pocsaj"
-    ],
     "name:hun_x_preferred":[
         "Pocsaj"
     ],
     "name:ita_x_preferred":[
-        "Pocsaj"
-    ],
-    "name:may_x_preferred":[
         "Pocsaj"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Pocei"
     ],
-    "name:rum_x_preferred":[
-        "Pocei"
-    ],
     "name:slk_x_preferred":[
-        "Pocsaj"
-    ],
-    "name:slo_x_preferred":[
         "Pocsaj"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642923,
+    "wof:lastmodified":1561751551,
     "wof:name":"Pocsaj",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

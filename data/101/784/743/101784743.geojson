@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Tar"
     ],
-    "name:chi_x_preferred":[
-        "\u9676\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Tar"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tar"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tar"
     ],
-    "name:fre_x_preferred":[
-        "Tar"
-    ],
-    "name:ger_x_preferred":[
-        "Tar"
-    ],
     "name:hun_x_preferred":[
         "Tar"
     ],
     "name:ita_x_preferred":[
-        "Tar"
-    ],
-    "name:may_x_preferred":[
         "Tar"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Tar"
     ],
-    "name:rum_x_preferred":[
-        "Tar"
-    ],
     "name:slk_x_preferred":[
-        "Tar"
-    ],
-    "name:slo_x_preferred":[
         "Tar"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688545,
+    "wof:lastmodified":1561751569,
     "wof:name":"Tar",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -17,7 +17,7 @@
     "mps:longitude":20.483392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "B\u00e9k\u00e9sszentandr\u00e1s"
     ],
     "name:eng_x_preferred":[
@@ -27,12 +27,6 @@
         "B\u00e9k\u00e9sszentandr\u00e1s"
     ],
     "name:fra_x_preferred":[
-        "B\u00e9k\u00e9sszentandr\u00e1s"
-    ],
-    "name:fre_x_preferred":[
-        "B\u00e9k\u00e9sszentandr\u00e1s"
-    ],
-    "name:ger_x_preferred":[
         "B\u00e9k\u00e9sszentandr\u00e1s"
     ],
     "name:hun_x_colloquial":[
@@ -46,9 +40,6 @@
         "B\u00e9k\u00e9sszentadr\u00e1s"
     ],
     "name:ita_x_preferred":[
-        "B\u00e9k\u00e9sszentandr\u00e1s"
-    ],
-    "name:may_x_preferred":[
         "B\u00e9k\u00e9sszentandr\u00e1s"
     ],
     "name:msa_x_preferred":[
@@ -66,13 +57,7 @@
     "name:ron_x_preferred":[
         "B\u00e9k\u00e9sszentandr\u00e1s"
     ],
-    "name:rum_x_preferred":[
-        "B\u00e9k\u00e9sszentandr\u00e1s"
-    ],
     "name:slk_x_preferred":[
-        "B\u00e9k\u00e9sszentandr\u00e1s"
-    ],
-    "name:slo_x_preferred":[
         "B\u00e9k\u00e9sszentandr\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751571,
     "wof:name":"B\u00e9k\u00e9sszentandr\u00e1s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

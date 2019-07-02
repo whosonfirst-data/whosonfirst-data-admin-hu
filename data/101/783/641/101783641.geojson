@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2054058.734461,
+    "geom:area_square_m":2054058.734462,
     "geom:bbox":"20.7811550689,48.139915956,20.8091187375,48.1596594544",
     "geom:latitude":48.150544,
     "geom:longitude":20.794937,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Szirmabeseny\u0151"
     ],
-    "name:dut_x_preferred":[
-        "Szirmabeseny\u0151"
-    ],
     "name:eng_x_preferred":[
         "Szirmabeseny\u0151"
     ],
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Szirmabeseny\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Szirmabeseny\u0151"
-    ],
-    "name:ger_x_preferred":[
-        "Szirmabeseny\u0151"
-    ],
     "name:hun_x_preferred":[
         "Szirmabeseny\u0151"
     ],
     "name:ita_x_preferred":[
-        "Szirmabeseny\u0151"
-    ],
-    "name:may_x_preferred":[
         "Szirmabeseny\u0151"
     ],
     "name:msa_x_preferred":[
@@ -65,10 +53,7 @@
     "name:ron_x_preferred":[
         "Szirmabeseny\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Szirmabeseny\u0151"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Be\u0161e\u0148ovo"
     ],
     "name:slv_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101783641,
-    "wof:lastmodified":1527688502,
+    "wof:lastmodified":1561751564,
     "wof:name":"Szirmabeseny\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

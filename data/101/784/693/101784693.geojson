@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1246485.668402,
+    "geom:area_square_m":1246485.668403,
     "geom:bbox":"20.2248880549,47.8050331549,20.2459648512,47.8216554316",
     "geom:latitude":47.813426,
     "geom:longitude":20.235674,
@@ -16,12 +16,6 @@
     "mps:longitude":20.234636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8d39\u5c14\u4ee3\u5e03\u52d2"
-    ],
-    "name:dut_x_preferred":[
-        "Feldebr\u0151"
-    ],
     "name:eng_x_preferred":[
         "Feldebr\u0151"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Feldebr\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Feldebr\u0151"
-    ],
     "name:hun_x_preferred":[
         "Feldebr\u0151"
     ],
     "name:ita_x_preferred":[
-        "Feldebr\u0151"
-    ],
-    "name:may_x_preferred":[
         "Feldebr\u0151"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Feldebr\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Feldebr\u0151"
-    ],
     "name:slk_x_preferred":[
-        "Feldebr\u0151"
-    ],
-    "name:slo_x_preferred":[
         "Feldebr\u0151"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Feldebr\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u4ee3\u5e03\u52d2"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -112,7 +97,7 @@
         }
     ],
     "wof:id":101784693,
-    "wof:lastmodified":1527688539,
+    "wof:lastmodified":1561751567,
     "wof:name":"Feldebr\u0151",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

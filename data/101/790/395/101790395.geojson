@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1705696.005099,
+    "geom:area_square_m":1705696.005098,
     "geom:bbox":"20.0955686352,46.5378974956,20.1225567339,46.5606611792",
     "geom:latitude":46.550773,
     "geom:longitude":20.105881,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043a\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u514b\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Baks"
-    ],
     "name:eng_x_preferred":[
         "Baksi-Major"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Baks"
     ],
-    "name:fre_x_preferred":[
-        "Baks"
-    ],
     "name:hun_x_preferred":[
         "Baks"
     ],
     "name:ita_x_preferred":[
-        "Baks"
-    ],
-    "name:may_x_preferred":[
         "Baks"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Baks"
     ],
-    "name:rum_x_preferred":[
-        "Baks"
-    ],
     "name:slk_x_preferred":[
-        "Baks"
-    ],
-    "name:slo_x_preferred":[
         "Baks"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561751536,
     "wof:name":"Baks",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

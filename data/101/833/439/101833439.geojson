@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u0441\u0437\u0442\u0435\u043b\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u76d6\u65af\u6cf0\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Gesztely"
-    ],
-    "name:dut_x_preferred":[
         "Gesztely"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Gesztely"
     ],
-    "name:fre_x_preferred":[
-        "Gesztely"
-    ],
-    "name:ger_x_preferred":[
-        "Gesztely"
-    ],
     "name:hun_x_preferred":[
         "Gesztely"
     ],
     "name:ita_x_preferred":[
-        "Gesztely"
-    ],
-    "name:may_x_preferred":[
         "Gesztely"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Gesztely"
     ],
-    "name:rum_x_preferred":[
-        "Gesztely"
-    ],
     "name:slk_x_preferred":[
-        "Gesztely"
-    ],
-    "name:slo_x_preferred":[
         "Gesztely"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642922,
+    "wof:lastmodified":1561751551,
     "wof:name":"Gesztely",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

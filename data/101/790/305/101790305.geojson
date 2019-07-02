@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Marcali"
     ],
-    "name:chi_x_preferred":[
-        "\u6bdb\u723e\u66f9\u5229"
-    ],
-    "name:cze_x_preferred":[
-        "Marcali"
-    ],
     "name:deu_x_preferred":[
-        "Marcali"
-    ],
-    "name:dut_x_preferred":[
         "Marcali"
     ],
     "name:eng_x_preferred":[
@@ -41,13 +32,10 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u062a\u0633\u0627\u0644\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0631\u062a\u0627\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
-        "Marcali"
-    ],
-    "name:fre_x_preferred":[
-        "Marcali"
-    ],
-    "name:ger_x_preferred":[
         "Marcali"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +47,6 @@
     "name:ita_x_preferred":[
         "Marcali"
     ],
-    "name:may_x_preferred":[
-        "Marcali"
-    ],
     "name:msa_x_preferred":[
         "Marcali"
     ],
@@ -71,16 +56,10 @@
     "name:nld_x_preferred":[
         "Marcali"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u062a\u0627\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Marcali"
     ],
     "name:ron_x_preferred":[
-        "Marcali"
-    ],
-    "name:rum_x_preferred":[
         "Marcali"
     ],
     "name:rup_x_preferred":[
@@ -90,9 +69,6 @@
         "\u041c\u0430\u0440\u0446\u0430\u043b\u0438"
     ],
     "name:slk_x_preferred":[
-        "Marcali"
-    ],
-    "name:slo_x_preferred":[
         "Marcali"
     ],
     "name:slv_x_preferred":[
@@ -166,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641601,
+    "wof:lastmodified":1561751537,
     "wof:name":"Marcali",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

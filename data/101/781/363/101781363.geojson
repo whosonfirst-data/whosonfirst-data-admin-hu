@@ -17,13 +17,10 @@
     "mps:longitude":21.969355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ricse"
     ],
     "name:deu_x_preferred":[
-        "Ricse"
-    ],
-    "name:dut_x_preferred":[
         "Ricse"
     ],
     "name:eng_x_preferred":[
@@ -35,15 +32,6 @@
     "name:fra_x_preferred":[
         "Ricse"
     ],
-    "name:fre_x_preferred":[
-        "Ricse"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10e9\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Ricse"
-    ],
     "name:hun_x_preferred":[
         "Ricse"
     ],
@@ -52,9 +40,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10e9\u10d4"
-    ],
-    "name:may_x_preferred":[
-        "Ricse"
     ],
     "name:msa_x_preferred":[
         "Ricse"
@@ -71,16 +56,10 @@
     "name:ron_x_preferred":[
         "Ricse"
     ],
-    "name:rum_x_preferred":[
-        "Ricse"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u0447\u0435"
     ],
     "name:slk_x_preferred":[
-        "Ricse"
-    ],
-    "name:slo_x_preferred":[
         "Ricse"
     ],
     "name:slv_x_preferred":[
@@ -148,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715624,
+    "wof:lastmodified":1561751580,
     "wof:name":"Ricse",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

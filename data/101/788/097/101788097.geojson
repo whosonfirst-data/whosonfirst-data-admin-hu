@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1805164.449198,
+    "geom:area_square_m":1805164.449199,
     "geom:bbox":"20.9819660262,47.1977875784,21.0114698617,47.2153850206",
     "geom:latitude":47.205139,
     "geom:longitude":20.996399,
@@ -17,13 +17,7 @@
     "mps:longitude":20.997405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e03\u4e54"
-    ],
     "name:deu_x_preferred":[
-        "Bucsa"
-    ],
-    "name:dut_x_preferred":[
         "Bucsa"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +29,10 @@
     "name:fra_x_preferred":[
         "Bucsa"
     ],
-    "name:fre_x_preferred":[
-        "Bucsa"
-    ],
-    "name:ger_x_preferred":[
-        "Bucsa"
-    ],
     "name:hun_x_preferred":[
         "Bucsa"
     ],
     "name:ita_x_preferred":[
-        "Bucsa"
-    ],
-    "name:may_x_preferred":[
         "Bucsa"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Bucsa"
     ],
-    "name:rum_x_preferred":[
-        "Bucsa"
-    ],
     "name:slk_x_preferred":[
-        "Bucsa"
-    ],
-    "name:slo_x_preferred":[
         "Bucsa"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815503,
+    "wof:lastmodified":1561751574,
     "wof:name":"Bucsa",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

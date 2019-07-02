@@ -16,10 +16,7 @@
     "mps:longitude":16.908335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u4e07"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Iv\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +26,6 @@
         "Iv\u00e1n"
     ],
     "name:fra_x_preferred":[
-        "Iv\u00e1n"
-    ],
-    "name:fre_x_preferred":[
-        "Iv\u00e1n"
-    ],
-    "name:ger_x_preferred":[
         "Iv\u00e1n"
     ],
     "name:hun_x_colloquial":[
@@ -48,9 +39,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30f4\u30a1\u30fc\u30f3"
-    ],
-    "name:may_x_preferred":[
-        "Iv\u00e1n"
     ],
     "name:msa_x_preferred":[
         "Iv\u00e1n"
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Iv\u00e1n"
     ],
-    "name:rum_x_preferred":[
-        "Iv\u00e1n"
-    ],
     "name:slk_x_preferred":[
-        "Iv\u00e1n"
-    ],
-    "name:slo_x_preferred":[
         "Iv\u00e1n"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Iv\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u4e07"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715575,
+    "wof:lastmodified":1561751577,
     "wof:name":"Iv\u00e1n",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

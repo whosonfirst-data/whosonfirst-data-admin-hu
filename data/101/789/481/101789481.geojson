@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":4448376.584893,
+    "geom:area_square_m":4448376.584887,
     "geom:bbox":"18.2141778974,46.9133657192,18.2728139694,46.9613578287",
     "geom:latitude":46.931792,
     "geom:longitude":18.242727,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0415\u043d\u0438\u0439\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5be7\u683c"
-    ],
     "name:deu_x_preferred":[
-        "Enying"
-    ],
-    "name:dut_x_preferred":[
         "Enying"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Enying"
     ],
-    "name:fre_x_preferred":[
-        "Enying"
-    ],
-    "name:ger_x_preferred":[
-        "Enying"
-    ],
     "name:hun_x_preferred":[
         "Enying"
     ],
     "name:ita_x_preferred":[
-        "Enying"
-    ],
-    "name:may_x_preferred":[
         "Enying"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,10 @@
     "name:ron_x_preferred":[
         "Enying"
     ],
-    "name:rum_x_preferred":[
-        "Enying"
-    ],
     "name:rup_x_preferred":[
         "Enying"
     ],
     "name:slk_x_preferred":[
-        "Enying"
-    ],
-    "name:slo_x_preferred":[
         "Enying"
     ],
     "name:slv_x_preferred":[
@@ -149,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"Enying",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

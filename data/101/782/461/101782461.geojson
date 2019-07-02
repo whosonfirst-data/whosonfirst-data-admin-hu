@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1615298.202194,
+    "geom:area_square_m":1615298.202196,
     "geom:bbox":"21.7115462312,48.1947616554,21.7354196097,48.2171829448",
     "geom:latitude":48.206265,
     "geom:longitude":21.723634,
@@ -17,16 +17,10 @@
     "mps:longitude":21.720831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u8003\u62c9\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tiszakar\u00e1d"
     ],
     "name:deu_x_preferred":[
-        "Tiszakar\u00e1d"
-    ],
-    "name:dut_x_preferred":[
         "Tiszakar\u00e1d"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tiszakar\u00e1d"
     ],
-    "name:fre_x_preferred":[
-        "Tiszakar\u00e1d"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszakar\u00e1d"
-    ],
     "name:hun_x_colloquial":[
         "Tiszakarad"
     ],
     "name:hun_x_preferred":[
-        "Tiszakar\u00e1d"
-    ],
-    "name:may_x_preferred":[
         "Tiszakar\u00e1d"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Tiszakar\u00e1d"
     ],
-    "name:rum_x_preferred":[
-        "Tiszakar\u00e1d"
-    ],
     "name:slk_x_preferred":[
-        "Tiszakar\u00e1d"
-    ],
-    "name:slo_x_preferred":[
         "Tiszakar\u00e1d"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszakar\u00e1d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u8003\u62c9\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688323,
+    "wof:lastmodified":1561751560,
     "wof:name":"Tiszakar\u00e1d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

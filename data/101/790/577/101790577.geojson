@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":2443833.091585,
+    "geom:area_square_m":2443833.091587,
     "geom:bbox":"21.2323692067,46.5200013028,21.2613254206,46.5371490655",
     "geom:latitude":46.529207,
     "geom:longitude":21.247941,
@@ -17,13 +17,7 @@
     "mps:longitude":21.25178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u840a\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Elek"
-    ],
-    "name:dut_x_preferred":[
         "Elek"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Elek"
     ],
-    "name:fre_x_preferred":[
-        "Elek"
-    ],
-    "name:ger_x_preferred":[
-        "Elek"
-    ],
     "name:hbs_x_preferred":[
         "Elek"
     ],
@@ -48,9 +36,6 @@
         "Elek"
     ],
     "name:ita_x_preferred":[
-        "Elek"
-    ],
-    "name:may_x_preferred":[
         "Elek"
     ],
     "name:msa_x_preferred":[
@@ -68,9 +53,6 @@
     "name:ron_x_preferred":[
         "Aletea"
     ],
-    "name:rum_x_preferred":[
-        "Aletea"
-    ],
     "name:rup_x_preferred":[
         "Elek"
     ],
@@ -78,9 +60,6 @@
         "\u042d\u043b\u0435\u043a"
     ],
     "name:slk_x_preferred":[
-        "Elek"
-    ],
-    "name:slo_x_preferred":[
         "Elek"
     ],
     "name:slv_x_preferred":[
@@ -154,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561751539,
     "wof:name":"Elek",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

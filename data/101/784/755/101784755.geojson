@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
-    "geom:area_square_m":1256431.231314,
+    "geom:area_square_m":1256431.231315,
     "geom:bbox":"19.594777591,47.8912218677,19.61452308,47.9041650419",
     "geom:latitude":47.897641,
     "geom:longitude":19.603904,
@@ -16,12 +16,6 @@
     "mps:longitude":19.602117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u827e\u5207\u683c"
-    ],
-    "name:dut_x_preferred":[
-        "Ecseg"
-    ],
     "name:eng_x_preferred":[
         "Ecseg"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Ecseg"
     ],
-    "name:fre_x_preferred":[
-        "Ecseg"
-    ],
     "name:hun_x_preferred":[
         "Ecseg"
     ],
     "name:ita_x_preferred":[
-        "Ecseg"
-    ],
-    "name:may_x_preferred":[
         "Ecseg"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Ecseg"
     ],
-    "name:rum_x_preferred":[
-        "Ecseg"
-    ],
     "name:slk_x_preferred":[
-        "Ecseg"
-    ],
-    "name:slo_x_preferred":[
         "Ecseg"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688535,
+    "wof:lastmodified":1561751566,
     "wof:name":"Ecseg",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

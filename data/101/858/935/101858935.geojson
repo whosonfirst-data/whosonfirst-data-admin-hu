@@ -16,10 +16,7 @@
     "mps:longitude":19.019976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7d22\u79d1\u5c27"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szokolya"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Szokolya"
     ],
-    "name:fre_x_preferred":[
-        "Szokolya"
-    ],
-    "name:ger_x_preferred":[
-        "Szokolya"
-    ],
     "name:hun_x_preferred":[
         "Szokolya"
     ],
     "name:ita_x_preferred":[
-        "Szokolya"
-    ],
-    "name:may_x_preferred":[
         "Szokolya"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Szokolya"
     ],
-    "name:rum_x_preferred":[
-        "Szokolya"
-    ],
     "name:slk_x_preferred":[
-        "Szokolya"
-    ],
-    "name:slo_x_preferred":[
         "Szokolya"
     ],
     "name:slv_x_preferred":[
@@ -129,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1544744657,
+    "wof:lastmodified":1561751550,
     "wof:name":"Szokolya",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

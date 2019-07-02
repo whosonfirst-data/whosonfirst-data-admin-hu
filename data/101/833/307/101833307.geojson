@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000921,
-    "geom:area_square_m":7657868.674631,
+    "geom:area_square_m":7657868.674633,
     "geom:bbox":"18.1211747234,47.7206224353,18.2075903438,47.7517784598",
     "geom:latitude":47.733181,
     "geom:longitude":18.171212,
@@ -32,20 +32,20 @@
     "name:cat_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u9a6c\u5c14\u8bfa"
+    "name:ces_x_preferred":[
+        "Kom\u00e1rno"
     ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u043d\u043e"
     ],
-    "name:cze_x_preferred":[
-        "Kom\u00e1rno"
-    ],
     "name:dan_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kom\u00e1rno"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03ac\u03c1\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kom\u00e1rno"
@@ -56,14 +56,11 @@
     "name:est_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:fre_x_preferred":[
-        "Kom\u00e1rno"
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0627\u0631\u0646\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kom\u00e1rno"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03ac\u03c1\u03bd\u03bf"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05de\u05d0\u05e8\u05e0\u05d5"
@@ -92,22 +89,22 @@
     "name:lit_x_preferred":[
         "Komarnas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kom\u00e1rno"
     ],
     "name:nan_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0645\u0627\u0631\u0646\u0648"
+    "name:nob_x_preferred":[
+        "Kom\u00e1rno"
     ],
     "name:pol_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kom\u00e1rno"
     ],
     "name:rus_x_preferred":[
@@ -116,7 +113,7 @@
     "name:sco_x_preferred":[
         "Kom\u00e1rno"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kom\u00e1rno"
     ],
     "name:slv_x_preferred":[
@@ -148,6 +145,9 @@
     ],
     "name:war_x_preferred":[
         "Kom\u00e1rno"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9a6c\u5c14\u8bfa"
     ],
     "qs:a0":"Slovensko",
     "qs:a1":"*K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":101833307,
-    "wof:lastmodified":1553815531,
+    "wof:lastmodified":1561751550,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

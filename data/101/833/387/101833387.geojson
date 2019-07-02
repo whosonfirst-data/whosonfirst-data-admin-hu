@@ -16,16 +16,13 @@
     "mps:longitude":20.245581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "K\u00e1polna"
-    ],
     "name:eng_x_preferred":[
         "K\u00e1polna"
     ],
     "name:epo_x_preferred":[
         "K\u00e1polna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "K\u00e1polna"
     ],
     "name:hun_x_colloquial":[
@@ -38,22 +35,25 @@
     "name:ita_x_preferred":[
         "K\u00e1polna"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "K\u00e1polna"
     ],
     "name:nan_x_preferred":[
         "K\u00e1polna"
     ],
+    "name:nld_x_preferred":[
+        "K\u00e1polna"
+    ],
     "name:pol_x_preferred":[
         "Bitwa pod K\u00e1poln\u0105"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "K\u00e1polna"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043f\u0440\u0438 \u041a\u0430\u043f\u043e\u043b\u044c\u043d\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "K\u00e1polna"
     ],
     "name:slv_x_preferred":[
@@ -109,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1514448145,
+    "wof:lastmodified":1561751553,
     "wof:name":"K\u00e1polna",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

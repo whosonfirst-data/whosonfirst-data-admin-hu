@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001761,
-    "geom:area_square_m":14732141.329526,
+    "geom:area_square_m":14732141.329531,
     "geom:bbox":"19.2271138101,47.3929378317,19.3048890757,47.4587785",
     "geom:latitude":47.418758,
     "geom:longitude":19.263197,
@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Vecs\u00e9s"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u5207\u4ec0"
-    ],
     "name:deu_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:dsb_x_preferred":[
-        "Vecs\u00e9s"
-    ],
-    "name:dut_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +42,6 @@
         "\u0648\u0686\u06cc\u0634"
     ],
     "name:fra_x_preferred":[
-        "Vecs\u00e9s"
-    ],
-    "name:fre_x_preferred":[
-        "Vecs\u00e9s"
-    ],
-    "name:ger_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:glg_x_preferred":[
@@ -74,10 +62,13 @@
     "name:lit_x_preferred":[
         "Ve\u010d\u0117\u0161as"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:nan_x_preferred":[
+        "Vecs\u00e9s"
+    ],
+    "name:nld_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:nob_x_preferred":[
@@ -86,13 +77,10 @@
     "name:oci_x_preferred":[
         "Vecs\u00e9s"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0686\u06cc\u0634"
-    ],
     "name:pol_x_preferred":[
         "Vecs\u00e9s"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:rup_x_preferred":[
@@ -101,7 +89,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0447\u0435\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vecs\u00e9s"
     ],
     "name:slv_x_preferred":[
@@ -115,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "Vecs\u00e9s"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u5207\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -166,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641863,
+    "wof:lastmodified":1561751540,
     "wof:name":"Vecs\u00e9s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

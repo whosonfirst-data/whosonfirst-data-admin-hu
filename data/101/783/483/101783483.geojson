@@ -16,10 +16,7 @@
     "mps:longitude":19.894969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9a6c\u7279\u52b3\u585e\u83b1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M\u00e1traszele"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "M\u00e1traszele"
     ],
-    "name:fre_x_preferred":[
-        "M\u00e1traszele"
-    ],
-    "name:ger_x_preferred":[
-        "M\u00e1traszele"
-    ],
     "name:hun_x_colloquial":[
         "Matraszele"
     ],
@@ -44,9 +35,6 @@
         "M\u00e1traszele"
     ],
     "name:ita_x_preferred":[
-        "M\u00e1traszele"
-    ],
-    "name:may_x_preferred":[
         "M\u00e1traszele"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "M\u00e1traszele"
     ],
-    "name:rum_x_preferred":[
-        "M\u00e1traszele"
-    ],
     "name:slk_x_preferred":[
-        "M\u00e1traszele"
-    ],
-    "name:slo_x_preferred":[
         "M\u00e1traszele"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e1traszele"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u7279\u52b3\u585e\u83b1"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688495,
+    "wof:lastmodified":1561751562,
     "wof:name":"M\u00e1traszele",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -16,10 +16,7 @@
     "mps:longitude":17.444401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u79d1\u5c3c\u5965\u7ef4\u96c4\u9676"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Csokonyavisonta"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +26,6 @@
         "Csokonyavisonta"
     ],
     "name:fra_x_preferred":[
-        "Csokonyavisonta"
-    ],
-    "name:fre_x_preferred":[
-        "Csokonyavisonta"
-    ],
-    "name:ger_x_preferred":[
         "Csokonyavisonta"
     ],
     "name:hrv_x_preferred":[
@@ -52,9 +43,6 @@
     "name:ita_x_preferred":[
         "Csokonyavisonta"
     ],
-    "name:may_x_preferred":[
-        "Csokonyavisonta"
-    ],
     "name:msa_x_preferred":[
         "Csokonyavisonta"
     ],
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Csokonyavisonta"
     ],
-    "name:rum_x_preferred":[
-        "Csokonyavisonta"
-    ],
     "name:slk_x_preferred":[
-        "Csokonyavisonta"
-    ],
-    "name:slo_x_preferred":[
         "Csokonyavisonta"
     ],
     "name:slv_x_preferred":[
@@ -143,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561751542,
     "wof:name":"Csokonyavisonta",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

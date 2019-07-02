@@ -16,12 +16,6 @@
     "mps:longitude":18.639792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6770\u5c14\u8fc8\u4f0a"
-    ],
-    "name:dut_x_preferred":[
-        "Gyermely"
-    ],
     "name:eng_x_preferred":[
         "Gyermely"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Gyermely"
     ],
-    "name:fre_x_preferred":[
-        "Gyermely"
-    ],
     "name:hun_x_preferred":[
         "Gyermely"
     ],
     "name:ita_x_preferred":[
-        "Gyermely"
-    ],
-    "name:may_x_preferred":[
         "Gyermely"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Gyermely"
     ],
-    "name:rum_x_preferred":[
-        "Gyermely"
-    ],
     "name:slk_x_preferred":[
-        "Gyermely"
-    ],
-    "name:slo_x_preferred":[
         "Gyermely"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715652,
+    "wof:lastmodified":1561751583,
     "wof:name":"Gyermely",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

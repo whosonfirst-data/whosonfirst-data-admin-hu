@@ -16,10 +16,7 @@
     "mps:longitude":17.102373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u8c6a\u7f57\u4ec0\u62dc\u96f7\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Iharosber\u00e9ny"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +26,6 @@
         "Iharosber\u00e9ny"
     ],
     "name:fra_x_preferred":[
-        "Iharosber\u00e9ny"
-    ],
-    "name:fre_x_preferred":[
-        "Iharosber\u00e9ny"
-    ],
-    "name:ger_x_preferred":[
         "Iharosber\u00e9ny"
     ],
     "name:hrv_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Iharosber\u00e9ny"
     ],
-    "name:may_x_preferred":[
-        "Iharosber\u00e9ny"
-    ],
     "name:msa_x_preferred":[
         "Iharosber\u00e9ny"
     ],
@@ -64,17 +52,14 @@
     "name:ron_x_preferred":[
         "Iharosber\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "Iharosber\u00e9ny"
-    ],
     "name:slk_x_preferred":[
-        "Iharosber\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "Iharosber\u00e9ny"
     ],
     "name:vie_x_preferred":[
         "Iharosber\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8c6a\u7f57\u4ec0\u62dc\u96f7\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642628,
+    "wof:lastmodified":1561751548,
     "wof:name":"Iharosber\u00e9ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

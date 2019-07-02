@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1146763.009594,
+    "geom:area_square_m":1146763.009593,
     "geom:bbox":"20.0477414069,47.8152891757,20.0652250809,47.8310361081",
     "geom:latitude":47.82374,
     "geom:longitude":20.055795,
@@ -16,10 +16,7 @@
     "mps:longitude":20.055927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bdb\u5c14\u8003\u5179"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Markaz"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Markaz"
     ],
-    "name:fre_x_preferred":[
-        "Markaz"
-    ],
-    "name:ger_x_preferred":[
-        "Markaz"
-    ],
     "name:hun_x_preferred":[
         "Markaz"
     ],
     "name:ita_x_preferred":[
-        "Markaz"
-    ],
-    "name:may_x_preferred":[
         "Markaz"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Markaz"
     ],
-    "name:rum_x_preferred":[
-        "Markaz"
-    ],
     "name:slk_x_preferred":[
-        "Markaz"
-    ],
-    "name:slo_x_preferred":[
         "Markaz"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815500,
+    "wof:lastmodified":1561751566,
     "wof:name":"Markaz",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

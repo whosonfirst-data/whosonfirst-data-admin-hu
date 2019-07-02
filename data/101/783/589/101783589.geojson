@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1495783.392697,
+    "geom:area_square_m":1495783.392698,
     "geom:bbox":"21.8407943104,47.8022481874,21.8661498937,47.8235283901",
     "geom:latitude":47.812506,
     "geom:longitude":21.852795,
@@ -16,13 +16,7 @@
     "mps:longitude":21.853851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u91cc"
-    ],
     "name:deu_x_preferred":[
-        "Biri"
-    ],
-    "name:dut_x_preferred":[
         "Biri"
     ],
     "name:eng_x_preferred":[
@@ -34,34 +28,22 @@
     "name:fra_x_preferred":[
         "Biri"
     ],
-    "name:fre_x_preferred":[
-        "Biri"
-    ],
-    "name:ger_x_preferred":[
-        "Biri"
-    ],
     "name:hun_x_preferred":[
         "Biri"
     ],
     "name:ita_x_preferred":[
         "Biri"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Biri"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Biri"
     ],
     "name:ron_x_preferred":[
         "Biri"
     ],
-    "name:rum_x_preferred":[
-        "Biri"
-    ],
     "name:slk_x_preferred":[
-        "Biri"
-    ],
-    "name:slo_x_preferred":[
         "Biri"
     ],
     "name:slv_x_preferred":[
@@ -119,7 +101,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688499,
+    "wof:lastmodified":1561751563,
     "wof:name":"Biri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

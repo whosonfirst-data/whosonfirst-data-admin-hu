@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1385965.72411,
+    "geom:area_square_m":1385965.724111,
     "geom:bbox":"22.0913747502,48.1675459616,22.1163752356,48.1871830652",
     "geom:latitude":48.176508,
     "geom:longitude":22.10294,
@@ -17,10 +17,7 @@
     "mps:longitude":22.102751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5965\u7459\u5c14\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Anarcs"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Anarcs"
     ],
-    "name:fre_x_preferred":[
-        "Anarcs"
-    ],
-    "name:ger_x_preferred":[
-        "Anarcs"
-    ],
     "name:hun_x_preferred":[
         "Anarcs"
     ],
     "name:ita_x_preferred":[
-        "Anarcs"
-    ],
-    "name:may_x_preferred":[
         "Anarcs"
     ],
     "name:msa_x_preferred":[
@@ -59,19 +47,10 @@
     "name:nld_x_preferred":[
         "Anarcs"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u0627\u0631\u0633"
-    ],
     "name:ron_x_preferred":[
         "Anarcs"
     ],
-    "name:rum_x_preferred":[
-        "Anarcs"
-    ],
     "name:slk_x_preferred":[
-        "Anarcs"
-    ],
-    "name:slo_x_preferred":[
         "Anarcs"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561751560,
     "wof:name":"Anarcs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0438\u0442\u0435\u043b\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u57fa\u6cf0\u83b1\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Lakitelek"
-    ],
-    "name:dut_x_preferred":[
         "Lakitelek"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Lakitelek"
     ],
-    "name:fre_x_preferred":[
-        "Lakitelek"
-    ],
-    "name:ger_x_preferred":[
-        "Lakitelek"
-    ],
     "name:hrv_x_preferred":[
         "Lakitelek"
     ],
@@ -51,9 +39,6 @@
         "Lakitelek"
     ],
     "name:ita_x_preferred":[
-        "Lakitelek"
-    ],
-    "name:may_x_preferred":[
         "Lakitelek"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Lakitelek"
     ],
-    "name:rum_x_preferred":[
-        "Lakitelek"
-    ],
     "name:slk_x_preferred":[
-        "Lakitelek"
-    ],
-    "name:slo_x_preferred":[
         "Lakitelek"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751592,
     "wof:name":"Lakitelek",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":758001.696181,
+    "geom:area_square_m":758001.696182,
     "geom:bbox":"17.526928181,47.0282904537,17.5434121258,47.0390298841",
     "geom:latitude":47.032897,
     "geom:longitude":17.535154,
@@ -16,10 +16,7 @@
     "mps:longitude":17.536653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c6a\u6797\u9c8d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Halimba"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Halimba"
     ],
-    "name:fre_x_preferred":[
-        "Halimba"
-    ],
-    "name:ger_x_preferred":[
-        "Halimba"
-    ],
     "name:hun_x_preferred":[
         "Halimba"
     ],
     "name:ita_x_preferred":[
-        "Halimba"
-    ],
-    "name:may_x_preferred":[
         "Halimba"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Halimba"
     ],
-    "name:rum_x_preferred":[
-        "Halimba"
-    ],
     "name:slk_x_preferred":[
-        "Halimba"
-    ],
-    "name:slo_x_preferred":[
         "Halimba"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715903,
+    "wof:lastmodified":1561751593,
     "wof:name":"Halimba",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

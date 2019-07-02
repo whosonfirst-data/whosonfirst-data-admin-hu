@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "Budat\u00e9t\u00e9ny"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Budat\u00e9t\u00e9ny"
     ],
     "name:hun_x_preferred":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1108940547,
-    "wof:lastmodified":1514447920,
+    "wof:lastmodified":1561751527,
     "wof:name":"Budateteny",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

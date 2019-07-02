@@ -16,12 +16,6 @@
     "mps:longitude":18.242311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7eb3\u9053\u4ec0\u5fb7\u6d1b\u8fbe\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "N\u00e1dasdlad\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "N\u00e1dasdlad\u00e1ny"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "N\u00e1dasdlad\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "N\u00e1dasdlad\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Nadasdladany"
     ],
@@ -41,9 +32,6 @@
         "N\u00e1dasdlad\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "N\u00e1dasdlad\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "N\u00e1dasdlad\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "N\u00e1dasdlad\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "N\u00e1dasdlad\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "N\u00e1dasdlad\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "N\u00e1dasdlad\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "N\u00e1dasdlad\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u9053\u4ec0\u5fb7\u6d1b\u8fbe\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1561751548,
     "wof:name":"N\u00e1dasdlad\u00e1ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

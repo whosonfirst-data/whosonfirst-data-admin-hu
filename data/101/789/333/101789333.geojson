@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":3321188.721267,
+    "geom:area_square_m":3321188.721268,
     "geom:bbox":"17.4154925043,47.0909540491,17.4532234896,47.1167371385",
     "geom:latitude":47.103883,
     "geom:longitude":17.437508,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Devecser"
     ],
-    "name:dut_x_preferred":[
-        "Devecser"
-    ],
     "name:eng_x_preferred":[
         "Devecser"
     ],
@@ -30,12 +27,6 @@
         "Devecser"
     ],
     "name:fra_x_preferred":[
-        "Devecser"
-    ],
-    "name:fre_x_preferred":[
-        "Devecser"
-    ],
-    "name:ger_x_preferred":[
         "Devecser"
     ],
     "name:hbs_x_preferred":[
@@ -49,9 +40,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30d9\u30c4\u30bb\u30eb"
-    ],
-    "name:may_x_preferred":[
-        "Devecser"
     ],
     "name:msa_x_preferred":[
         "Devecser"
@@ -74,9 +62,6 @@
     "name:ron_x_preferred":[
         "Devecser"
     ],
-    "name:rum_x_preferred":[
-        "Devecser"
-    ],
     "name:rup_x_preferred":[
         "Devecser"
     ],
@@ -84,9 +69,6 @@
         "\u0414\u0435\u0432\u0435\u0447\u0435\u0440"
     ],
     "name:slk_x_preferred":[
-        "Devecser"
-    ],
-    "name:slo_x_preferred":[
         "Devecser"
     ],
     "name:slv_x_preferred":[
@@ -160,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1561751591,
     "wof:name":"Devecser",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

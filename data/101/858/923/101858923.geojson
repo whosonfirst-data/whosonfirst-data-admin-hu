@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
-    "name:cze_x_preferred":[
-        "R\u00e9vf\u00fcl\u00f6p"
-    ],
     "name:deu_x_preferred":[
-        "R\u00e9vf\u00fcl\u00f6p"
-    ],
-    "name:dut_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e9vf\u00fcl\u00f6p"
-    ],
-    "name:ger_x_preferred":[
-        "R\u00e9vf\u00fcl\u00f6p"
-    ],
     "name:hun_x_colloquial":[
         "Revfueloep",
         "Revfulop"
@@ -55,9 +43,6 @@
         "R\u00e9vf\u00fcl\u00f6p"
     ],
     "name:ita_x_preferred":[
-        "R\u00e9vf\u00fcl\u00f6p"
-    ],
-    "name:may_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
     "name:msa_x_preferred":[
@@ -72,13 +57,10 @@
     "name:ron_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e9vf\u00fcl\u00f6p"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0432\u0444\u044e\u043b\u0435\u043f"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
     "name:slv_x_preferred":[
@@ -141,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1544744652,
+    "wof:lastmodified":1561751550,
     "wof:name":"R\u00e9vf\u00fcl\u00f6p",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

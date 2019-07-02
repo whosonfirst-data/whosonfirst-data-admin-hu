@@ -16,13 +16,7 @@
     "mps:longitude":16.479118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u68ee\u7279\u4f69\u6cf0\u5c14\u798f"
-    ],
     "name:deu_x_preferred":[
-        "Szentp\u00e9terfa"
-    ],
-    "name:dut_x_preferred":[
         "Szentp\u00e9terfa"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +26,6 @@
         "Szentp\u00e9terfa"
     ],
     "name:fra_x_preferred":[
-        "Szentp\u00e9terfa"
-    ],
-    "name:fre_x_preferred":[
-        "Szentp\u00e9terfa"
-    ],
-    "name:ger_x_preferred":[
         "Szentp\u00e9terfa"
     ],
     "name:hrv_x_preferred":[
@@ -52,9 +40,6 @@
     "name:ita_x_preferred":[
         "Szentp\u00e9terfa"
     ],
-    "name:may_x_preferred":[
-        "Szentp\u00e9terfa"
-    ],
     "name:msa_x_preferred":[
         "Szentp\u00e9terfa"
     ],
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Szentp\u00e9terfa"
     ],
-    "name:rum_x_preferred":[
-        "Szentp\u00e9terfa"
-    ],
     "name:slk_x_preferred":[
-        "Szentp\u00e9terfa"
-    ],
-    "name:slo_x_preferred":[
         "Szentp\u00e9terfa"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Szentp\u00e9terfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7279\u4f69\u6cf0\u5c14\u798f"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Vas",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715902,
+    "wof:lastmodified":1561751593,
     "wof:name":"Szentp\u00e9terfa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

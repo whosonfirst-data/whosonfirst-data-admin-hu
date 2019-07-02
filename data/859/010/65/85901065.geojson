@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002062,
-    "geom:area_square_m":17255473.87421,
+    "geom:area_square_m":17255473.874209,
     "geom:bbox":"18.971628418,47.3902082884,19.0294977507,47.4401156102",
     "geom:latitude":47.415043,
     "geom:longitude":19.001818,
@@ -25,11 +25,8 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e8c\u5341\u4e8c\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Budapest"
+    "name:deu_x_preferred":[
+        "Budafok-T\u00e9t\u00e9ny"
     ],
     "name:eng_x_preferred":[
         "Budapest"
@@ -40,11 +37,8 @@
     "name:est_x_preferred":[
         "Budapesti XXII rajoon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "22e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Budafok-T\u00e9t\u00e9ny"
     ],
     "name:hun_x_preferred":[
         "Budafok"
@@ -54,13 +48,16 @@
         "Promontor",
         "Budapest XXII. ker\u00fclete"
     ],
+    "name:nld_x_preferred":[
+        "Budapest"
+    ],
     "name:pol_x_preferred":[
         "Budafok-T\u00e9t\u00e9ny"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Budafok-T\u00e9t\u00e9ny"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "XXII. obvod"
     ],
     "name:srp_x_preferred":[
@@ -69,11 +66,14 @@
     "name:tur_x_preferred":[
         "Budafok"
     ],
+    "name:unk_x_variant":[
+        "Budafok"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XXII"
     ],
-    "name:unk_x_variant":[
-        "Budafok"
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e8c\u5341\u4e8c\u533a"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -134,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527638949,
+    "wof:lastmodified":1561751511,
     "wof:name":"Budafok",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

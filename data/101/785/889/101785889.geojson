@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":877543.996239,
+    "geom:area_square_m":877543.996238,
     "geom:bbox":"19.536417495,47.7172704333,19.5570887729,47.7275750972",
     "geom:latitude":47.722591,
     "geom:longitude":19.546371,
@@ -16,13 +16,7 @@
     "mps:longitude":19.545667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u97e6\u5c14\u8c22\u683c"
-    ],
     "name:deu_x_preferred":[
-        "Verseg"
-    ],
-    "name:dut_x_preferred":[
         "Verseg"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Verseg"
     ],
-    "name:fre_x_preferred":[
-        "Verseg"
-    ],
-    "name:ger_x_preferred":[
-        "Verseg"
-    ],
     "name:hun_x_preferred":[
         "Verseg"
     ],
     "name:ita_x_preferred":[
-        "Verseg"
-    ],
-    "name:may_x_preferred":[
         "Verseg"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Verseg"
     ],
-    "name:rum_x_preferred":[
-        "Verseg"
-    ],
     "name:slk_x_preferred":[
-        "Verseg"
-    ],
-    "name:slo_x_preferred":[
         "Verseg"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677693,
+    "wof:lastmodified":1561751555,
     "wof:name":"Verseg",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

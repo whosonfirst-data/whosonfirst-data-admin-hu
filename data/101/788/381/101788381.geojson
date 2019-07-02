@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1705462.549585,
+    "geom:area_square_m":1705462.549584,
     "geom:bbox":"21.4177489916,47.1272131251,21.4473017567,47.1446960584",
     "geom:latitude":47.134788,
     "geom:longitude":21.432293,
@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Zs\u00e1ka"
     ],
-    "name:dut_x_preferred":[
-        "Zs\u00e1ka"
-    ],
     "name:eng_x_preferred":[
         "Zs\u00e1ka"
     ],
@@ -29,12 +26,6 @@
         "Zs\u00e1ka"
     ],
     "name:fra_x_preferred":[
-        "Zs\u00e1ka"
-    ],
-    "name:fre_x_preferred":[
-        "Zs\u00e1ka"
-    ],
-    "name:ger_x_preferred":[
         "Zs\u00e1ka"
     ],
     "name:hun_x_colloquial":[
@@ -46,9 +37,6 @@
     "name:ita_x_preferred":[
         "Zs\u00e1ka"
     ],
-    "name:may_x_preferred":[
-        "Zs\u00e1ka"
-    ],
     "name:msa_x_preferred":[
         "Zs\u00e1ka"
     ],
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Jaca"
     ],
-    "name:rum_x_preferred":[
-        "Jaca"
-    ],
     "name:slk_x_preferred":[
-        "Zs\u00e1ka"
-    ],
-    "name:slo_x_preferred":[
         "Zs\u00e1ka"
     ],
     "name:slv_x_preferred":[
@@ -119,7 +101,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715578,
+    "wof:lastmodified":1561751579,
     "wof:name":"Zs\u00e1ka",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

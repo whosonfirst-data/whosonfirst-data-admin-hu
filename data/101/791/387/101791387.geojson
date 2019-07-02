@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1187110.23003,
+    "geom:area_square_m":1187110.230031,
     "geom:bbox":"17.1795766922,46.1620567285,17.1953108113,46.1874029717",
     "geom:latitude":46.174539,
     "geom:longitude":17.188058,
@@ -19,10 +19,7 @@
     "name:cat_x_preferred":[
         "Somogyudvarhely"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u83ab\u4e45\u5fb7\u6c83\u5c14\u6d77\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Somogyudvarhely"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +31,6 @@
     "name:fra_x_preferred":[
         "Somogyudvarhely"
     ],
-    "name:fre_x_preferred":[
-        "Somogyudvarhely"
-    ],
-    "name:ger_x_preferred":[
-        "Somogyudvarhely"
-    ],
     "name:hrv_x_preferred":[
         "Dvori\u0161\u010de"
     ],
@@ -47,9 +38,6 @@
         "Somogyudvarhely"
     ],
     "name:ita_x_preferred":[
-        "Somogyudvarhely"
-    ],
-    "name:may_x_preferred":[
         "Somogyudvarhely"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Somogyudvarhely"
     ],
-    "name:rum_x_preferred":[
-        "Somogyudvarhely"
-    ],
     "name:slk_x_preferred":[
-        "Somogyudvarhely"
-    ],
-    "name:slo_x_preferred":[
         "Somogyudvarhely"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561751542,
     "wof:name":"Somogyudvarhely",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -17,13 +17,7 @@
     "mps:longitude":18.866339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5305\u52de\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Baracs"
-    ],
-    "name:dut_x_preferred":[
         "Baracs"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +29,10 @@
     "name:fra_x_preferred":[
         "Baracs"
     ],
-    "name:fre_x_preferred":[
-        "Baracs"
-    ],
-    "name:ger_x_preferred":[
-        "Baracs"
-    ],
     "name:hun_x_preferred":[
         "Baracs"
     ],
     "name:ita_x_preferred":[
-        "Baracs"
-    ],
-    "name:may_x_preferred":[
         "Baracs"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +47,7 @@
     "name:ron_x_preferred":[
         "Baracs"
     ],
-    "name:rum_x_preferred":[
-        "Baracs"
-    ],
     "name:slk_x_preferred":[
-        "Baracs"
-    ],
-    "name:slo_x_preferred":[
         "Baracs"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642627,
+    "wof:lastmodified":1561751548,
     "wof:name":"Baracs",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

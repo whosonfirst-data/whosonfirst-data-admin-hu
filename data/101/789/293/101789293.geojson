@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1984718.281307,
+    "geom:area_square_m":1984718.281308,
     "geom:bbox":"16.5686638616,47.1298826822,16.5927541043,47.1554544272",
     "geom:latitude":47.142742,
     "geom:longitude":16.581213,
@@ -20,17 +20,11 @@
     "name:cat_x_preferred":[
         "J\u00e1k"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u514b"
-    ],
     "name:deu_x_preferred":[
         "J\u00e1k"
     ],
     "name:deu_x_variant":[
         "Sankt Georgen"
-    ],
-    "name:dut_x_preferred":[
-        "J\u00e1k"
     ],
     "name:eng_x_preferred":[
         "J\u00e1k"
@@ -44,12 +38,6 @@
     "name:fra_x_preferred":[
         "J\u00e1k"
     ],
-    "name:fre_x_preferred":[
-        "J\u00e1k"
-    ],
-    "name:ger_x_preferred":[
-        "J\u00e1k"
-    ],
     "name:hun_x_colloquial":[
         "Jak"
     ],
@@ -57,9 +45,6 @@
         "J\u00e1k"
     ],
     "name:ita_x_preferred":[
-        "J\u00e1k"
-    ],
-    "name:may_x_preferred":[
         "J\u00e1k"
     ],
     "name:msa_x_preferred":[
@@ -80,13 +65,7 @@
     "name:ron_x_preferred":[
         "J\u00e1k"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1k"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1k"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1k"
     ],
     "name:slv_x_preferred":[
@@ -103,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1k"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Vas",
@@ -154,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751589,
     "wof:name":"J\u00e1k",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

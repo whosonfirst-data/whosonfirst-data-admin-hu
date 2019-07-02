@@ -16,10 +16,7 @@
     "mps:longitude":17.923728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7fc1\u591a\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Andocs"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Andocs"
     ],
-    "name:fre_x_preferred":[
-        "Andocs"
-    ],
-    "name:ger_x_preferred":[
-        "Andocs"
-    ],
     "name:hun_x_preferred":[
         "Andocs"
     ],
     "name:ita_x_preferred":[
-        "Andocs"
-    ],
-    "name:may_x_preferred":[
         "Andocs"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Andocs"
     ],
-    "name:rum_x_preferred":[
-        "Andocs"
-    ],
     "name:slk_x_preferred":[
-        "Andocs"
-    ],
-    "name:slo_x_preferred":[
         "Andocs"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561751533,
     "wof:name":"Andocs",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -18,10 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u535a\u5fb7\u7f57\u683c\u57fa\u4ec0\u798f\u5362\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bodrogkisfalud"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +27,7 @@
     "name:epo_x_preferred":[
         "Bodrogkisfalud"
     ],
-    "name:fre_x_preferred":[
-        "Bodrogkisfalud"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bodrogkisfalud"
     ],
     "name:hun_x_preferred":[
@@ -42,19 +36,22 @@
     "name:ita_x_preferred":[
         "Bodrogkisfalud"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bodrogkisfalud"
     ],
     "name:nan_x_preferred":[
         "Bodrogkisfalud"
     ],
+    "name:nld_x_preferred":[
+        "Bodrogkisfalud"
+    ],
     "name:pol_x_preferred":[
         "Bodrogkisfalud"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bodrogkisfalud"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bodrogkisfalud"
     ],
     "name:slv_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "Bodrogkisfalud"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5fb7\u7f57\u683c\u57fa\u4ec0\u798f\u5362\u5fb7"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125986713,
-    "wof:lastmodified":1514447901,
+    "wof:lastmodified":1561751604,
     "wof:name":"Bodrogkisfalud",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "mps:longitude":18.341065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u8428\u5c14\u6d77\u5409"
-    ],
-    "name:dut_x_preferred":[
-        "K\u0151sz\u00e1rhegy"
-    ],
     "name:eng_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
-    "name:fre_x_preferred":[
-        "K\u0151sz\u00e1rhegy"
-    ],
     "name:hun_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
     "name:ita_x_preferred":[
-        "K\u0151sz\u00e1rhegy"
-    ],
-    "name:may_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
-    "name:rum_x_preferred":[
-        "K\u0151sz\u00e1rhegy"
-    ],
     "name:slk_x_preferred":[
-        "K\u0151sz\u00e1rhegy"
-    ],
-    "name:slo_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u0151sz\u00e1rhegy"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u8428\u5c14\u6d77\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -115,7 +100,7 @@
         }
     ],
     "wof:id":101789431,
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1561751589,
     "wof:name":"K\u0151sz\u00e1rhegy",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

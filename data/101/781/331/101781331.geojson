@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":3041006.779409,
+    "geom:area_square_m":3041006.779408,
     "geom:bbox":"22.1502751674,48.3944591497,22.1928963565,48.4160081223",
     "geom:latitude":48.404604,
     "geom:longitude":22.174826,
@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Z\u00e1hony"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u970d\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Z\u00e1hony"
-    ],
     "name:deu_x_preferred":[
-        "Z\u00e1hony"
-    ],
-    "name:dut_x_preferred":[
         "Z\u00e1hony"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
     "name:fra_x_preferred":[
         "Z\u00e1hony"
     ],
-    "name:fre_x_preferred":[
-        "Z\u00e1hony"
-    ],
-    "name:ger_x_preferred":[
-        "Z\u00e1hony"
-    ],
     "name:hun_x_colloquial":[
         "Zahony"
     ],
@@ -57,9 +42,6 @@
         "Z\u00e1hony"
     ],
     "name:ita_x_preferred":[
-        "Z\u00e1hony"
-    ],
-    "name:may_x_preferred":[
         "Z\u00e1hony"
     ],
     "name:msa_x_preferred":[
@@ -71,7 +53,7 @@
     "name:pol_x_preferred":[
         "Z\u00e1hony"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Z\u00e1hony"
     ],
     "name:rup_x_preferred":[
@@ -80,7 +62,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u0445\u043e\u043d\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1hony"
     ],
     "name:slv_x_preferred":[
@@ -100,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "Z\u00e1hony"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u970d\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -151,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715623,
+    "wof:lastmodified":1561751579,
     "wof:name":"Z\u00e1hony",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

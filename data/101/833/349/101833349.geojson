@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043c\u043e\u043d\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u83ab\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Domony"
-    ],
-    "name:dut_x_preferred":[
         "Domony"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Domony"
     ],
-    "name:fre_x_preferred":[
-        "Domony"
-    ],
-    "name:ger_x_preferred":[
-        "Domony"
-    ],
     "name:hun_x_preferred":[
         "Domony"
     ],
     "name:ita_x_preferred":[
-        "Domony"
-    ],
-    "name:may_x_preferred":[
         "Domony"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Domony"
     ],
-    "name:rum_x_preferred":[
-        "Domony"
-    ],
     "name:slk_x_preferred":[
-        "Domony"
-    ],
-    "name:slo_x_preferred":[
         "Domony"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642924,
+    "wof:lastmodified":1561751551,
     "wof:name":"Domony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

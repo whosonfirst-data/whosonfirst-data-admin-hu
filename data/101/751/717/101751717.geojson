@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005904,
-    "geom:area_square_m":49288889.936466,
+    "geom:area_square_m":49288889.936467,
     "geom:bbox":"21.5566845,47.485775,21.6887645,47.56583",
     "geom:latitude":47.53108,
     "geom:longitude":21.627124,
@@ -24,17 +24,11 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0631\u062a\u0633\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u0562\u0580\u0565\u0581\u0565\u0576"
-    ],
     "name:aze_x_preferred":[
         "Debrecen"
     ],
     "name:bak_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Debrecen"
     ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u0431\u0440\u044d\u0446\u044d\u043d"
@@ -57,19 +51,13 @@
     "name:che_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u5e03\u52d2\u68ee"
-    ],
-    "name:cze_x_preferred":[
-        "Debrec\u00edn"
+    "name:cym_x_preferred":[
+        "Debrecen"
     ],
     "name:dan_x_preferred":[
         "Debrecen"
     ],
     "name:deu_x_preferred":[
-        "Debrecen"
-    ],
-    "name:dut_x_preferred":[
         "Debrecen"
     ],
     "name:ell_x_preferred":[
@@ -89,6 +77,9 @@
     "name:est_x_preferred":[
         "Debrecen"
     ],
+    "name:eus_x_preferred":[
+        "Debrecen"
+    ],
     "name:fao_x_preferred":[
         "Debrecen"
     ],
@@ -101,20 +92,8 @@
     "name:fra_x_preferred":[
         "Debrecen"
     ],
-    "name:fre_x_preferred":[
-        "Debrecen"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d1\u10e0\u10d4\u10ea\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Debrecen"
-    ],
     "name:glg_x_preferred":[
         "Debrecen"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03ad\u03bc\u03c0\u03c1\u03b5\u03c4\u03c3\u03b5\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Debrecen"
@@ -147,9 +126,6 @@
     "name:hye_x_preferred":[
         "\u0534\u0565\u0562\u0580\u0565\u0581\u0565\u0576"
     ],
-    "name:ice_x_preferred":[
-        "Debrecen"
-    ],
     "name:ido_x_preferred":[
         "Debrecen"
     ],
@@ -157,6 +133,9 @@
         "Debrecen"
     ],
     "name:ind_x_preferred":[
+        "Debrecen"
+    ],
+    "name:isl_x_preferred":[
         "Debrecen"
     ],
     "name:ita_x_preferred":[
@@ -195,14 +174,8 @@
     "name:lmo_x_preferred":[
         "Debrecen"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0435\u0431\u0440\u0435\u0446\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u092c\u094d\u0930\u0947\u0938\u0947\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Debrecen"
     ],
     "name:mhr_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
@@ -215,6 +188,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Debrecen"
     ],
     "name:nan_x_preferred":[
         "Debrecen"
@@ -234,9 +210,6 @@
     "name:oci_x_preferred":[
         "Debrecen"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0628\u0631\u0633\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u062f\u06cc\u0628\u0631\u06cc\u0633\u06cc\u0646"
     ],
@@ -252,9 +225,6 @@
     "name:ron_x_preferred":[
         "Debre\u021bin"
     ],
-    "name:rum_x_preferred":[
-        "Debre\u021bin"
-    ],
     "name:rup_x_preferred":[
         "Debrecen"
     ],
@@ -268,9 +238,6 @@
         "\u0da9\u0dd9\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dc3\u0dd9\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Debrec\u00edn"
-    ],
-    "name:slo_x_preferred":[
         "Debrec\u00edn"
     ],
     "name:slv_x_preferred":[
@@ -337,9 +304,6 @@
         "Debrecen"
     ],
     "name:war_x_preferred":[
-        "Debrecen"
-    ],
-    "name:wel_x_preferred":[
         "Debrecen"
     ],
     "name:zho_x_preferred":[
@@ -487,7 +451,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527714366,
+    "wof:lastmodified":1561751571,
     "wof:name":"Debrecen",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

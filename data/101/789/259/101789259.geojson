@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":3391237.993623,
+    "geom:area_square_m":3391237.993624,
     "geom:bbox":"18.9695005193,46.7909996726,19.0166611425,46.8206143187",
     "geom:latitude":46.804157,
     "geom:longitude":18.996911,
@@ -20,16 +20,10 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u7d39\u723e\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Solt"
     ],
     "name:deu_x_preferred":[
-        "Solt"
-    ],
-    "name:dut_x_preferred":[
         "Solt"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Solt"
     ],
     "name:fra_x_preferred":[
-        "Solt"
-    ],
-    "name:fre_x_preferred":[
-        "Solt"
-    ],
-    "name:ger_x_preferred":[
         "Solt"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
         "Solt"
     ],
     "name:ita_x_preferred":[
-        "Solt"
-    ],
-    "name:may_x_preferred":[
         "Solt"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Solt"
     ],
-    "name:rum_x_preferred":[
-        "Solt"
-    ],
     "name:rup_x_preferred":[
         "Solt"
     ],
@@ -87,9 +69,6 @@
         "\u0428\u043e\u043b\u044c\u0442"
     ],
     "name:slk_x_preferred":[
-        "Solt"
-    ],
-    "name:slo_x_preferred":[
         "Solt"
     ],
     "name:slv_x_preferred":[
@@ -160,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751588,
     "wof:name":"Solt",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

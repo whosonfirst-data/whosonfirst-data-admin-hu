@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
-    "geom:area_square_m":1276903.743398,
+    "geom:area_square_m":1276903.743397,
     "geom:bbox":"18.8647083621,46.1332854413,18.8910554603,46.1502947398",
     "geom:latitude":46.142426,
     "geom:longitude":18.878962,
@@ -19,15 +19,6 @@
     "name:ces_x_preferred":[
         "Szeremle"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u8d56\u59c6\u83b1"
-    ],
-    "name:cze_x_preferred":[
-        "Szeremle"
-    ],
-    "name:dut_x_preferred":[
-        "Szeremle"
-    ],
     "name:eng_x_preferred":[
         "Szeremle"
     ],
@@ -37,9 +28,6 @@
     "name:fra_x_preferred":[
         "Szeremle"
     ],
-    "name:fre_x_preferred":[
-        "Szeremle"
-    ],
     "name:hrv_x_preferred":[
         "Srimljan"
     ],
@@ -47,9 +35,6 @@
         "Szeremle"
     ],
     "name:ita_x_preferred":[
-        "Szeremle"
-    ],
-    "name:may_x_preferred":[
         "Szeremle"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Szeremle"
     ],
-    "name:rum_x_preferred":[
-        "Szeremle"
-    ],
     "name:slk_x_preferred":[
-        "Szeremle"
-    ],
-    "name:slo_x_preferred":[
         "Szeremle"
     ],
     "name:slv_x_preferred":[
@@ -144,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641957,
+    "wof:lastmodified":1561751542,
     "wof:name":"Szeremle",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

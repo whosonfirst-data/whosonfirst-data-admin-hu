@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":2602657.701256,
+    "geom:area_square_m":2602657.701257,
     "geom:bbox":"17.351945027,47.8099901105,17.3849744398,47.8354015918",
     "geom:latitude":47.822679,
     "geom:longitude":17.368929,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043c\u043b\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u59c6\u83b1"
-    ],
-    "name:dut_x_preferred":[
-        "Kimle"
-    ],
     "name:eng_x_preferred":[
         "Kimle"
     ],
@@ -33,9 +27,6 @@
         "Kimle"
     ],
     "name:fra_x_preferred":[
-        "Kimle"
-    ],
-    "name:fre_x_preferred":[
         "Kimle"
     ],
     "name:hrv_x_preferred":[
@@ -48,9 +39,6 @@
         "Horv\u00e1tkimle"
     ],
     "name:ita_x_preferred":[
-        "Kimle"
-    ],
-    "name:may_x_preferred":[
         "Kimle"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +56,7 @@
     "name:ron_x_preferred":[
         "Kimle"
     ],
-    "name:rum_x_preferred":[
-        "Kimle"
-    ],
     "name:slk_x_preferred":[
-        "Kimle"
-    ],
-    "name:slo_x_preferred":[
         "Kimle"
     ],
     "name:slv_x_preferred":[
@@ -141,7 +123,7 @@
         }
     ],
     "wof:id":101785849,
-    "wof:lastmodified":1527684900,
+    "wof:lastmodified":1561751557,
     "wof:name":"Kimle",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

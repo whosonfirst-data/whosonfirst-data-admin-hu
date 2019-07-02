@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":957222.040062,
+    "geom:area_square_m":957222.040063,
     "geom:bbox":"20.3622542592,48.1615483032,20.3830332501,48.1732390332",
     "geom:latitude":48.166636,
     "geom:longitude":20.373247,
@@ -16,13 +16,7 @@
     "mps:longitude":20.373089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e54\u514b\u6c83\u6b27\u9a6c\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Csokvaom\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "Csokvaom\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -34,12 +28,6 @@
     "name:fra_x_preferred":[
         "Csokvaom\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Csokvaom\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "Csokvaom\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Csokvaomany"
     ],
@@ -47,9 +35,6 @@
         "Csokvaom\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Csokvaom\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Csokvaom\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Csokvaom\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Csokvaom\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Csokvaom\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Csokvaom\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Csokvaom\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u514b\u6c83\u6b27\u9a6c\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688503,
+    "wof:lastmodified":1561751565,
     "wof:name":"Csokvaom\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

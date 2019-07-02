@@ -16,22 +16,13 @@
     "mps:longitude":20.480342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Novaj"
-    ],
-    "name:chi_x_preferred":[
-        "\u8bfa\u6c83\u4f0a"
-    ],
-    "name:dut_x_preferred":[
-        "Novaj"
-    ],
     "name:eng_x_preferred":[
         "Novaj"
     ],
     "name:epo_x_preferred":[
         "Novaj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novaj"
     ],
     "name:hun_x_preferred":[
@@ -40,19 +31,25 @@
     "name:ita_x_preferred":[
         "Novaj"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Novaj"
     ],
     "name:nan_x_preferred":[
         "Novaj"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Novaj"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Novaj"
+    ],
+    "name:slk_x_preferred":[
         "Novaj"
     ],
     "name:slv_x_preferred":[
+        "Novaj"
+    ],
+    "name:sqi_x_preferred":[
         "Novaj"
     ],
     "name:swe_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Novaj"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u6c83\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -108,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1514448223,
+    "wof:lastmodified":1561751566,
     "wof:name":"Novaj",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

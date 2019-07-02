@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "Somogyv\u00e1r"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u83ab\u5409\u74e6\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Somogyv\u00e1r"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Somogyv\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Somogyv\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Somogyv\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Somogyv\u00e1r"
-    ],
     "name:hun_x_colloquial":[
         "Somogyvar"
     ],
@@ -51,9 +39,6 @@
         "Somogyv\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Somogyv\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Somogyv\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Somogyv\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Somogyv\u00e1r"
-    ],
     "name:slk_x_preferred":[
-        "Somogyv\u00e1r"
-    ],
-    "name:slo_x_preferred":[
         "Somogyv\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Somogyv\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u83ab\u5409\u74e6\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641594,
+    "wof:lastmodified":1561751532,
     "wof:name":"Somogyv\u00e1r",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

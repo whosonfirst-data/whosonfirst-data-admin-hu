@@ -19,12 +19,6 @@
     "name:cbk_zam_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u5c14\u68ee\u5854\u6208\u9676"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e1rszent\u00e1gota"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
@@ -34,9 +28,6 @@
     "name:fra_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1rszent\u00e1gota"
-    ],
     "name:hun_x_colloquial":[
         "Sarszentagota"
     ],
@@ -44,9 +35,6 @@
         "S\u00e1rszent\u00e1gota"
     ],
     "name:ita_x_preferred":[
-        "S\u00e1rszent\u00e1gota"
-    ],
-    "name:may_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
-    "name:rum_x_preferred":[
-        "S\u00e1rszent\u00e1gota"
-    ],
     "name:slk_x_preferred":[
-        "S\u00e1rszent\u00e1gota"
-    ],
-    "name:slo_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vol_x_preferred":[
         "S\u00e1rszent\u00e1gota"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5c14\u68ee\u5854\u6208\u9676"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715901,
+    "wof:lastmodified":1561751592,
     "wof:name":"S\u00e1rszent\u00e1gota",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -18,10 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u7ea6\u4ec0\u6c83\u5f17"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +27,7 @@
     "name:epo_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
-    "name:fre_x_preferred":[
-        "J\u00f3svaf\u0151"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
     "name:hun_x_preferred":[
@@ -42,19 +36,22 @@
     "name:ita_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
     "name:nan_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
+    "name:nld_x_preferred":[
+        "J\u00f3svaf\u0151"
+    ],
     "name:pol_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
     "name:slv_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00f3svaf\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea6\u4ec0\u6c83\u5f17"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125816175,
-    "wof:lastmodified":1514448098,
+    "wof:lastmodified":1561751599,
     "wof:name":"J\u00f3svaf\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

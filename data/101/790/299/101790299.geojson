@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":2453742.505071,
+    "geom:area_square_m":2453742.505072,
     "geom:bbox":"17.6202744712,46.6592930972,17.6552385167,46.6790759075",
     "geom:latitude":46.668595,
     "geom:longitude":17.637125,
@@ -17,13 +17,7 @@
     "mps:longitude":17.638582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u502b\u5091\u723e\u6258\u8482"
-    ],
     "name:deu_x_preferred":[
-        "Lengyelt\u00f3ti"
-    ],
-    "name:dut_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
-    "name:fre_x_preferred":[
-        "Lengyelt\u00f3ti"
-    ],
-    "name:ger_x_preferred":[
-        "Lengyelt\u00f3ti"
-    ],
     "name:hun_x_colloquial":[
         "Lengyeltoti"
     ],
@@ -48,9 +36,6 @@
         "Lengyelt\u00f3ti"
     ],
     "name:ita_x_preferred":[
-        "Lengyelt\u00f3ti"
-    ],
-    "name:may_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,10 @@
     "name:ron_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
-    "name:rum_x_preferred":[
-        "Lengyelt\u00f3ti"
-    ],
     "name:rup_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
     "name:slk_x_preferred":[
-        "Lengyelt\u00f3ti"
-    ],
-    "name:slo_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
     "name:slv_x_preferred":[
@@ -94,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Lengyelt\u00f3ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u5091\u723e\u6258\u8482"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -145,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641603,
+    "wof:lastmodified":1561751539,
     "wof:name":"Lengyelt\u00f3ti",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

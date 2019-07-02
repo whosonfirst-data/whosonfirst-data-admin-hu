@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Szentistv\u00e1n"
     ],
-    "name:dut_x_preferred":[
-        "Szentistv\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Szentistv\u00e1n"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Szentistv\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Szentistv\u00e1n"
-    ],
-    "name:ger_x_preferred":[
-        "Szentistv\u00e1n"
-    ],
     "name:hun_x_colloquial":[
         "Szentistvan"
     ],
@@ -45,9 +36,6 @@
         "Szentistv\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Szentistv\u00e1n"
-    ],
-    "name:may_x_preferred":[
         "Szentistv\u00e1n"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Szentistv\u00e1n"
     ],
-    "name:rum_x_preferred":[
-        "Szentistv\u00e1n"
-    ],
     "name:slk_x_preferred":[
-        "Szentistv\u00e1n"
-    ],
-    "name:slo_x_preferred":[
         "Szentistv\u00e1n"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688537,
+    "wof:lastmodified":1561751566,
     "wof:name":"Szentistv\u00e1n",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

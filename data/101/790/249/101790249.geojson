@@ -16,10 +16,7 @@
     "mps:longitude":18.902189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u76d6\u5c14\u5ef6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gerjen"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Gerjen"
     ],
-    "name:fre_x_preferred":[
-        "Gerjen"
-    ],
-    "name:ger_x_preferred":[
-        "Gerjen"
-    ],
     "name:hun_x_preferred":[
         "Gerjen"
     ],
     "name:ita_x_preferred":[
-        "Gerjen"
-    ],
-    "name:may_x_preferred":[
         "Gerjen"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Gerjen"
     ],
-    "name:rum_x_preferred":[
-        "Gerjen"
-    ],
     "name:slk_x_preferred":[
-        "Gerjen"
-    ],
-    "name:slo_x_preferred":[
         "Gerjen"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641601,
+    "wof:lastmodified":1561751537,
     "wof:name":"Gerjen",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

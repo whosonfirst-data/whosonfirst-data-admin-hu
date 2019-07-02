@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":3261719.871638,
+    "geom:area_square_m":3261719.871637,
     "geom:bbox":"16.5150654932,46.6128050159,16.5521373184,46.632923632",
     "geom:latitude":46.622323,
     "geom:longitude":16.535264,
@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Lenti"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u8482"
-    ],
-    "name:cze_x_preferred":[
-        "Lenti"
-    ],
     "name:deu_x_preferred":[
-        "Lenti"
-    ],
-    "name:dut_x_preferred":[
         "Lenti"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
     "name:fra_x_preferred":[
         "Lenti"
     ],
-    "name:fre_x_preferred":[
-        "Lenti"
-    ],
-    "name:ger_x_preferred":[
-        "Lenti"
-    ],
     "name:hbs_x_preferred":[
         "Lenti"
     ],
@@ -57,9 +42,6 @@
         "Lenti"
     ],
     "name:ita_x_preferred":[
-        "Lenti"
-    ],
-    "name:may_x_preferred":[
         "Lenti"
     ],
     "name:msa_x_preferred":[
@@ -77,9 +59,6 @@
     "name:ron_x_preferred":[
         "Lenti"
     ],
-    "name:rum_x_preferred":[
-        "Lenti"
-    ],
     "name:rup_x_preferred":[
         "Lenti"
     ],
@@ -87,9 +66,6 @@
         "\u041b\u0435\u043d\u0442\u0438"
     ],
     "name:slk_x_preferred":[
-        "Lenti"
-    ],
-    "name:slo_x_preferred":[
         "Lenti"
     ],
     "name:slv_x_preferred":[
@@ -163,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561751532,
     "wof:name":"Lenti",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

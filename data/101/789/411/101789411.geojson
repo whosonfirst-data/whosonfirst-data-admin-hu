@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":3630685.890234,
+    "geom:area_square_m":3630685.890235,
     "geom:bbox":"21.2212511076,46.7230617082,21.2588877956,46.7465830826",
     "geom:latitude":46.733986,
     "geom:longitude":21.240948,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u043e\u0437"
     ],
-    "name:dut_x_preferred":[
-        "Doboz"
-    ],
     "name:eng_x_preferred":[
         "Doboz"
     ],
@@ -32,16 +29,10 @@
     "name:fra_x_preferred":[
         "Doboz"
     ],
-    "name:fre_x_preferred":[
-        "Doboz"
-    ],
     "name:hun_x_preferred":[
         "Doboz"
     ],
     "name:ita_x_preferred":[
-        "Doboz"
-    ],
-    "name:may_x_preferred":[
         "Doboz"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Doboz"
     ],
-    "name:rum_x_preferred":[
-        "Doboz"
-    ],
     "name:slk_x_preferred":[
-        "Doboz"
-    ],
-    "name:slo_x_preferred":[
         "Doboz"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715900,
+    "wof:lastmodified":1561751591,
     "wof:name":"Doboz",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000255,
-    "geom:area_square_m":279278.490535,
+    "geom:area_square_m":2154434.389061,
     "geom:bbox":"18.6606496413,46.7924291964,18.6993586635,46.8266934",
     "geom:latitude":46.806835,
     "geom:longitude":18.684324,
@@ -17,10 +17,7 @@
     "mps:longitude":18.666212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0561\u057a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alap"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +35,6 @@
     "name:fra_x_preferred":[
         "Alap"
     ],
-    "name:fre_x_preferred":[
-        "Alap"
-    ],
-    "name:ger_x_preferred":[
-        "Alap"
-    ],
     "name:hun_x_preferred":[
         "Alap"
     ],
@@ -51,9 +42,6 @@
         "\u0531\u056c\u0561\u057a"
     ],
     "name:ita_x_preferred":[
-        "Alap"
-    ],
-    "name:may_x_preferred":[
         "Alap"
     ],
     "name:msa_x_preferred":[
@@ -68,19 +56,10 @@
     "name:nld_x_preferred":[
         "Alap"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0627\u067e\u060c \u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
-    ],
     "name:ron_x_preferred":[
         "Alap"
     ],
-    "name:rum_x_preferred":[
-        "Alap"
-    ],
     "name:slk_x_preferred":[
-        "Alap"
-    ],
-    "name:slo_x_preferred":[
         "Alap"
     ],
     "name:slv_x_preferred":[
@@ -144,7 +123,7 @@
         }
     ],
     "wof:id":1175612757,
-    "wof:lastmodified":1534985950,
+    "wof:lastmodified":1561751528,
     "wof:name":"Alap",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

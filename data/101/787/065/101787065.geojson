@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0431\u0430\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u6d3e\u5c14\u5df4\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Perb\u00e1l"
-    ],
-    "name:dut_x_preferred":[
         "Perb\u00e1l"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Perb\u00e1l"
     ],
-    "name:fre_x_preferred":[
-        "Perb\u00e1l"
-    ],
-    "name:ger_x_preferred":[
-        "Perb\u00e1l"
-    ],
     "name:hun_x_colloquial":[
         "Perbal"
     ],
@@ -51,9 +39,6 @@
         "Perb\u00e1l"
     ],
     "name:ita_x_preferred":[
-        "Perb\u00e1l"
-    ],
-    "name:may_x_preferred":[
         "Perb\u00e1l"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Perb\u00e1l"
     ],
-    "name:rum_x_preferred":[
-        "Perb\u00e1l"
-    ],
     "name:slk_x_preferred":[
-        "Perb\u00e1l"
-    ],
-    "name:slo_x_preferred":[
         "Perb\u00e1l"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Perb\u00e1l"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u5c14\u5df4\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715844,
+    "wof:lastmodified":1561751584,
     "wof:name":"Perb\u00e1l",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

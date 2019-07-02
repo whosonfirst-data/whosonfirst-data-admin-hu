@@ -17,10 +17,7 @@
     "mps:longitude":19.363701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u5e93\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kakucs"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Kakucs"
     ],
-    "name:fre_x_preferred":[
-        "Kakucs"
-    ],
-    "name:ger_x_preferred":[
-        "Kakucs"
-    ],
     "name:hun_x_preferred":[
         "Kakucs"
     ],
     "name:ita_x_preferred":[
-        "Kakucs"
-    ],
-    "name:may_x_preferred":[
         "Kakucs"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Kakucs"
     ],
-    "name:rum_x_preferred":[
-        "Kakucs"
-    ],
     "name:slk_x_preferred":[
-        "Kakucs"
-    ],
-    "name:slo_x_preferred":[
         "Kakucs"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715568,
+    "wof:lastmodified":1561751571,
     "wof:name":"Kakucs",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

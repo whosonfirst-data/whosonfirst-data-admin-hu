@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0441\u0437\u0442\u0430\u0441\u0437\u0435\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u65af\u9676\u585e\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Pusztaszer"
-    ],
     "name:eng_x_preferred":[
         "Pusztaszer"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Pusztaszer"
     ],
-    "name:fre_x_preferred":[
-        "Pusztaszer"
-    ],
     "name:hun_x_preferred":[
         "Pusztaszer"
     ],
     "name:ita_x_preferred":[
-        "Pusztaszer"
-    ],
-    "name:may_x_preferred":[
         "Pusztaszer"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Pusztaszer"
     ],
-    "name:rum_x_preferred":[
-        "Pusztaszer"
-    ],
     "name:slk_x_preferred":[
-        "Pusztaszer"
-    ],
-    "name:slo_x_preferred":[
         "Pusztaszer"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561751536,
     "wof:name":"Pusztaszer",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1047506.559255,
+    "geom:area_square_m":1047506.559256,
     "geom:bbox":"18.2330922264,45.9371040708,18.2513152886,45.9564866391",
     "geom:latitude":45.948102,
     "geom:longitude":18.241468,
@@ -16,12 +16,6 @@
     "mps:longitude":18.238569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u5170\u9676"
-    ],
-    "name:dut_x_preferred":[
-        "Szal\u00e1nta"
-    ],
     "name:eng_x_preferred":[
         "Szal\u00e1nta"
     ],
@@ -29,9 +23,6 @@
         "Szal\u00e1nta"
     ],
     "name:fra_x_preferred":[
-        "Szal\u00e1nta"
-    ],
-    "name:fre_x_preferred":[
         "Szal\u00e1nta"
     ],
     "name:hrv_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "Szal\u00e1nta"
     ],
-    "name:may_x_preferred":[
-        "Szal\u00e1nta"
-    ],
     "name:msa_x_preferred":[
         "Szal\u00e1nta"
     ],
@@ -68,13 +56,7 @@
     "name:ron_x_preferred":[
         "Szal\u00e1nta"
     ],
-    "name:rum_x_preferred":[
-        "Szal\u00e1nta"
-    ],
     "name:slk_x_preferred":[
-        "Szal\u00e1nta"
-    ],
-    "name:slo_x_preferred":[
         "Szal\u00e1nta"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +70,9 @@
     ],
     "name:vol_x_preferred":[
         "Szal\u00e1nta"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u5170\u9676"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Baranya",
@@ -138,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641953,
+    "wof:lastmodified":1561751540,
     "wof:name":"Szal\u00e1nta",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

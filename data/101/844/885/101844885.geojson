@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1137180.65945,
+    "geom:area_square_m":1137180.659449,
     "geom:bbox":"17.638892174,46.3530169528,17.685805857,46.3648134285",
     "geom:latitude":46.359329,
     "geom:longitude":17.662287,
@@ -16,10 +16,7 @@
     "mps:longitude":17.659977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8003\u6ce2\u4ec0\u5f17"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kaposf\u0151"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kaposf\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Kaposf\u0151"
-    ],
-    "name:ger_x_preferred":[
-        "Kaposf\u0151"
-    ],
     "name:hun_x_preferred":[
         "Kaposf\u0151"
     ],
     "name:ita_x_preferred":[
-        "Kaposf\u0151"
-    ],
-    "name:may_x_preferred":[
         "Kaposf\u0151"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Kaposf\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Kaposf\u0151"
-    ],
     "name:slk_x_preferred":[
-        "Kaposf\u0151"
-    ],
-    "name:slo_x_preferred":[
         "Kaposf\u0151"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Kaposf\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u6ce2\u4ec0\u5f17"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101844885,
-    "wof:lastmodified":1527642628,
+    "wof:lastmodified":1561751549,
     "wof:name":"Kaposf\u0151",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

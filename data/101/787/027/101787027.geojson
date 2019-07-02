@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1874852.037914,
+    "geom:area_square_m":1874852.037915,
     "geom:bbox":"17.2206729181,47.4855944785,17.2455892388,47.5137827616",
     "geom:latitude":47.499538,
     "geom:longitude":17.233434,
@@ -16,13 +16,7 @@
     "mps:longitude":17.234284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u897f\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Szil"
-    ],
-    "name:dut_x_preferred":[
         "Szil"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Szil"
     ],
-    "name:fre_x_preferred":[
-        "Szil"
-    ],
-    "name:ger_x_preferred":[
-        "Szil"
-    ],
     "name:hun_x_preferred":[
         "Szil"
     ],
     "name:ita_x_preferred":[
-        "Szil"
-    ],
-    "name:may_x_preferred":[
         "Szil"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Szil"
     ],
-    "name:rum_x_preferred":[
-        "Szil"
-    ],
     "name:slk_x_preferred":[
-        "Szil"
-    ],
-    "name:slo_x_preferred":[
         "Szil"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715849,
+    "wof:lastmodified":1561751585,
     "wof:name":"Szil",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000706,
-    "geom:area_square_m":5809534.5008,
+    "geom:area_square_m":5809534.500799,
     "geom:bbox":"20.5935056233,48.2294568086,20.6437914013,48.2671580551",
     "geom:latitude":48.250018,
     "geom:longitude":20.62063,
@@ -23,12 +23,6 @@
     "name:ces_x_preferred":[
         "Kazincbarcika"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u6d25\u8328\u5305\u723e\u9f4a\u8003"
-    ],
-    "name:cze_x_preferred":[
-        "Kazincbarcika"
-    ],
     "name:dan_x_preferred":[
         "Kazincbarcika"
     ],
@@ -36,9 +30,6 @@
         "Kazincbarcika"
     ],
     "name:dsb_x_preferred":[
-        "Kazincbarcika"
-    ],
-    "name:dut_x_preferred":[
         "Kazincbarcika"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u06a9\u0627\u0632\u06cc\u0646\u062a\u0628\u0627\u0631\u062a\u06cc\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
-        "Kazincbarcika"
-    ],
-    "name:fre_x_preferred":[
-        "Kazincbarcika"
-    ],
-    "name:ger_x_preferred":[
         "Kazincbarcika"
     ],
     "name:hbs_x_preferred":[
@@ -89,9 +74,6 @@
     "name:lit_x_preferred":[
         "Kazincbarcika"
     ],
-    "name:may_x_preferred":[
-        "Kazincbarcika"
-    ],
     "name:msa_x_preferred":[
         "Kazincbarcika"
     ],
@@ -104,9 +86,6 @@
     "name:nno_x_preferred":[
         "Kazincbarcika"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0632\u06cc\u0646\u062a\u0628\u0627\u0631\u062a\u06cc\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Kazincbarcika"
     ],
@@ -116,9 +95,6 @@
     "name:ron_x_preferred":[
         "Kazincbarcika"
     ],
-    "name:rum_x_preferred":[
-        "Kazincbarcika"
-    ],
     "name:rup_x_preferred":[
         "Kazincbarcika"
     ],
@@ -126,9 +102,6 @@
         "\u041a\u0430\u0437\u0438\u043d\u0446\u0431\u0430\u0440\u0446\u0438\u043a\u0430"
     ],
     "name:slk_x_preferred":[
-        "Kazincbarcika"
-    ],
-    "name:slo_x_preferred":[
         "Kazincbarcika"
     ],
     "name:slv_x_preferred":[
@@ -215,7 +188,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642925,
+    "wof:lastmodified":1561751552,
     "wof:name":"Kazincbarcika",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

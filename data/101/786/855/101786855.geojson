@@ -17,12 +17,6 @@
     "mps:longitude":18.657285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9a6c\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "M\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "M\u00e1ny"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "M\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "M\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Many"
     ],
@@ -42,9 +33,6 @@
         "M\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "M\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "M\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "M\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "M\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "M\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "M\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715652,
+    "wof:lastmodified":1561751583,
     "wof:name":"M\u00e1ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

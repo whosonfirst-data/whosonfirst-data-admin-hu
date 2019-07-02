@@ -17,19 +17,10 @@
     "mps:longitude":19.665787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0566\u0561\u0576\u056f"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043d\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6d2a\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Szank"
-    ],
-    "name:dut_x_preferred":[
         "Szank"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "Szank"
     ],
     "name:fra_x_preferred":[
-        "Szank"
-    ],
-    "name:fre_x_preferred":[
-        "Szank"
-    ],
-    "name:ger_x_preferred":[
         "Szank"
     ],
     "name:hrv_x_preferred":[
@@ -57,9 +42,6 @@
         "\u054d\u0566\u0561\u0576\u056f"
     ],
     "name:ita_x_preferred":[
-        "Szank"
-    ],
-    "name:may_x_preferred":[
         "Szank"
     ],
     "name:msa_x_preferred":[
@@ -77,13 +59,7 @@
     "name:ron_x_preferred":[
         "Szank"
     ],
-    "name:rum_x_preferred":[
-        "Szank"
-    ],
     "name:slk_x_preferred":[
-        "Szank"
-    ],
-    "name:slo_x_preferred":[
         "Szank"
     ],
     "name:slv_x_preferred":[
@@ -151,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641602,
+    "wof:lastmodified":1561751537,
     "wof:name":"Szank",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

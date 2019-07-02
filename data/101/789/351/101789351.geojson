@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":827841.619103,
+    "geom:area_square_m":827841.619102,
     "geom:bbox":"17.878402074,46.9051971094,17.8942051088,46.9188059583",
     "geom:latitude":46.912914,
     "geom:longitude":17.888061,
@@ -29,16 +29,7 @@
     "name:ces_x_preferred":[
         "Tihany"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u8c6a\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Tihany"
-    ],
     "name:deu_x_preferred":[
-        "Tihany"
-    ],
-    "name:dut_x_preferred":[
         "Tihany"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "Tihany"
     ],
     "name:fra_x_preferred":[
-        "Tihany"
-    ],
-    "name:fre_x_preferred":[
-        "Tihany"
-    ],
-    "name:ger_x_preferred":[
         "Tihany"
     ],
     "name:glg_x_preferred":[
@@ -80,9 +65,6 @@
     "name:kor_x_preferred":[
         "\ud2f0\ud5c8\ub2c8"
     ],
-    "name:may_x_preferred":[
-        "Tihany"
-    ],
     "name:msa_x_preferred":[
         "Tihany"
     ],
@@ -104,16 +86,10 @@
     "name:ron_x_preferred":[
         "Tihany"
     ],
-    "name:rum_x_preferred":[
-        "Tihany"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0445\u0430\u043d\u044c"
     ],
     "name:slk_x_preferred":[
-        "Tihany"
-    ],
-    "name:slo_x_preferred":[
         "Tihany"
     ],
     "name:slv_x_preferred":[
@@ -193,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1561751591,
     "wof:name":"Tihany",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

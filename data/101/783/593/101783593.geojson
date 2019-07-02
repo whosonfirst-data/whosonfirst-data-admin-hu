@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":977196.694615,
+    "geom:area_square_m":977196.694616,
     "geom:bbox":"20.678467242,48.0012378831,20.6991450342,48.0142037753",
     "geom:latitude":48.008999,
     "geom:longitude":20.68852,
@@ -16,13 +16,7 @@
     "mps:longitude":20.688676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c0f\u54f2\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Kisgy\u0151r"
-    ],
-    "name:dut_x_preferred":[
         "Kisgy\u0151r"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Kisgy\u0151r"
     ],
-    "name:fre_x_preferred":[
-        "Kisgy\u0151r"
-    ],
-    "name:ger_x_preferred":[
-        "Kisgy\u0151r"
-    ],
     "name:hun_x_preferred":[
         "Kisgy\u0151r"
     ],
     "name:ita_x_preferred":[
-        "Kisgy\u0151r"
-    ],
-    "name:may_x_preferred":[
         "Kisgy\u0151r"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Kisgy\u0151r"
     ],
-    "name:rum_x_preferred":[
-        "Kisgy\u0151r"
-    ],
     "name:slk_x_preferred":[
-        "Kisgy\u0151r"
-    ],
-    "name:slo_x_preferred":[
         "Kisgy\u0151r"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Kisgy\u0151r"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u54f2\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -121,7 +103,7 @@
         }
     ],
     "wof:id":101783593,
-    "wof:lastmodified":1527688492,
+    "wof:lastmodified":1561751561,
     "wof:name":"Kisgy\u0151r",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

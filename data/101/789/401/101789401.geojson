@@ -16,12 +16,6 @@
     "mps:longitude":21.040013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7a46\u7f57\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Murony"
-    ],
     "name:eng_x_preferred":[
         "Murony"
     ],
@@ -29,9 +23,6 @@
         "Murony"
     ],
     "name:fra_x_preferred":[
-        "Murony"
-    ],
-    "name:fre_x_preferred":[
         "Murony"
     ],
     "name:hun_x_colloquial":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Murony"
     ],
-    "name:may_x_preferred":[
-        "Murony"
-    ],
     "name:msa_x_preferred":[
         "Murony"
     ],
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Murony"
     ],
-    "name:rum_x_preferred":[
-        "Murony"
-    ],
     "name:slk_x_preferred":[
-        "Murony"
-    ],
-    "name:slo_x_preferred":[
         "Murony"
     ],
     "name:slv_x_preferred":[
@@ -138,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751588,
     "wof:name":"Murony",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

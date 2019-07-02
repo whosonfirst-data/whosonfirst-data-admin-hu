@@ -17,10 +17,7 @@
     "mps:longitude":18.458469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u99ac\u7d10\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagym\u00e1nyok"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +27,6 @@
         "Nagym\u00e1nyok"
     ],
     "name:fra_x_preferred":[
-        "Nagym\u00e1nyok"
-    ],
-    "name:fre_x_preferred":[
-        "Nagym\u00e1nyok"
-    ],
-    "name:ger_x_preferred":[
         "Nagym\u00e1nyok"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "Nagym\u00e1nyok"
     ],
-    "name:may_x_preferred":[
-        "Nagym\u00e1nyok"
-    ],
     "name:msa_x_preferred":[
         "Nagym\u00e1nyok"
     ],
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Nagym\u00e1nyok"
     ],
-    "name:rum_x_preferred":[
-        "Nagym\u00e1nyok"
-    ],
     "name:slk_x_preferred":[
-        "Nagym\u00e1nyok"
-    ],
-    "name:slo_x_preferred":[
         "Nagym\u00e1nyok"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagym\u00e1nyok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u99ac\u7d10\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641596,
+    "wof:lastmodified":1561751534,
     "wof:name":"Nagym\u00e1nyok",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

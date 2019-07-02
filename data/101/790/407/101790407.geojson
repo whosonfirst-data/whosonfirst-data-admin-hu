@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0442\u0435\u043b\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5c0f\u6cf0\u840a\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Kistelek"
-    ],
-    "name:dut_x_preferred":[
         "Kistelek"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Kistelek"
     ],
     "name:fra_x_preferred":[
-        "Kistelek"
-    ],
-    "name:fre_x_preferred":[
-        "Kistelek"
-    ],
-    "name:ger_x_preferred":[
         "Kistelek"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +47,6 @@
     "name:jav_x_preferred":[
         "Kistelek"
     ],
-    "name:may_x_preferred":[
-        "Kistelek"
-    ],
     "name:msa_x_preferred":[
         "Kistelek"
     ],
@@ -77,9 +62,6 @@
     "name:ron_x_preferred":[
         "Kistelek"
     ],
-    "name:rum_x_preferred":[
-        "Kistelek"
-    ],
     "name:rup_x_preferred":[
         "Kistelek"
     ],
@@ -87,9 +69,6 @@
         "\u041a\u0438\u0448\u0442\u0435\u043b\u0435\u043a"
     ],
     "name:slk_x_preferred":[
-        "Kistelek"
-    ],
-    "name:slo_x_preferred":[
         "Kistelek"
     ],
     "name:slv_x_preferred":[
@@ -162,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1514448127,
+    "wof:lastmodified":1561751535,
     "wof:name":"Kistelek",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

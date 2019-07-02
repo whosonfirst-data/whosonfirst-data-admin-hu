@@ -173,9 +173,6 @@
     "name:cym_x_preferred":[
         "Hwngari"
     ],
-    "name:cze_x_preferred":[
-        "Ma\u010farsko"
-    ],
     "name:dan_x_preferred":[
         "Ungarn"
     ],
@@ -674,9 +671,6 @@
     "name:rue_x_preferred":[
         "\u041c\u0430\u0434\u044f\u0440\u044c\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
-        "Ungaria"
-    ],
     "name:run_x_preferred":[
         "Hungariya"
     ],
@@ -923,9 +917,6 @@
     "name:zho_x_preferred":[
         "\u5308\u7259\u5229"
     ],
-    "name:zho_x_variant":[
-        "\u5308\u7259\u5229"
-    ],
     "name:zho_yue_x_preferred":[
         "\u5308\u7259\u5229"
     ],
@@ -1081,7 +1072,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1544059186,
+    "wof:lastmodified":1561751511,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

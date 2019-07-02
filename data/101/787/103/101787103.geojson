@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0415\u0431\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u62dc\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "Ebes"
-    ],
-    "name:dut_x_preferred":[
         "Ebes"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Ebes"
     ],
-    "name:fre_x_preferred":[
-        "Ebes"
-    ],
-    "name:ger_x_preferred":[
-        "Ebes"
-    ],
     "name:hun_x_preferred":[
         "Ebes"
     ],
     "name:ita_x_preferred":[
-        "Ebes"
-    ],
-    "name:may_x_preferred":[
         "Ebes"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Ebes"
     ],
-    "name:rum_x_preferred":[
-        "Ebes"
-    ],
     "name:slk_x_preferred":[
-        "Ebes"
-    ],
-    "name:slo_x_preferred":[
         "Ebes"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715842,
+    "wof:lastmodified":1561751583,
     "wof:name":"Ebes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

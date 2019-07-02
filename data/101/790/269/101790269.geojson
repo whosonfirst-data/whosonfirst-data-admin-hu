@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1316725.894643,
+    "geom:area_square_m":1316725.894641,
     "geom:bbox":"18.551918735,46.3963515551,18.5736014097,46.4271921992",
     "geom:latitude":46.414709,
     "geom:longitude":18.562381,
@@ -17,13 +17,7 @@
     "mps:longitude":18.561477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5b97\u9c8d"
-    ],
     "name:deu_x_preferred":[
-        "Zomba"
-    ],
-    "name:dut_x_preferred":[
         "Zomba"
     ],
     "name:eng_x_preferred":[
@@ -35,22 +29,16 @@
     "name:fra_x_preferred":[
         "Zomba"
     ],
-    "name:fre_x_preferred":[
-        "Zomba"
-    ],
-    "name:ger_x_preferred":[
-        "Zomba"
-    ],
     "name:hun_x_preferred":[
         "Zomba"
     ],
     "name:ita_x_preferred":[
         "Zomba"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zomba"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Zomba"
     ],
     "name:pol_x_preferred":[
@@ -59,16 +47,10 @@
     "name:ron_x_preferred":[
         "Zomba"
     ],
-    "name:rum_x_preferred":[
-        "Zomba"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u043c\u0431\u0430"
     ],
     "name:slk_x_preferred":[
-        "Zomba"
-    ],
-    "name:slo_x_preferred":[
         "Zomba"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Zomba",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

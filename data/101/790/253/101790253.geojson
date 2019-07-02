@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":1835402.598189,
+    "geom:area_square_m":1835402.59819,
     "geom:bbox":"18.6734403174,46.4691123185,18.6948511593,46.4901887391",
     "geom:latitude":46.478686,
     "geom:longitude":18.683103,
@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0435\u0434\u0440\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5fb7\u8d56\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szedres"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +32,10 @@
     "name:fra_x_preferred":[
         "Szedres"
     ],
-    "name:fre_x_preferred":[
-        "Szedres"
-    ],
-    "name:ger_x_preferred":[
-        "Szedres"
-    ],
     "name:hun_x_preferred":[
         "Szedres"
     ],
     "name:ita_x_preferred":[
-        "Szedres"
-    ],
-    "name:may_x_preferred":[
         "Szedres"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Szedres"
     ],
-    "name:rum_x_preferred":[
-        "Szedres"
-    ],
     "name:slk_x_preferred":[
-        "Szedres"
-    ],
-    "name:slo_x_preferred":[
         "Szedres"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641602,
+    "wof:lastmodified":1561751538,
     "wof:name":"Szedres",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

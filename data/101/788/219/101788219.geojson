@@ -20,15 +20,6 @@
     "name:ces_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u85a9\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "\u00dajsz\u00e1sz"
-    ],
-    "name:dut_x_preferred":[
-        "\u00dajsz\u00e1sz"
-    ],
     "name:eng_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
@@ -36,9 +27,6 @@
         "\u00dajsz\u00e1sz"
     ],
     "name:fra_x_preferred":[
-        "\u00dajsz\u00e1sz"
-    ],
-    "name:fre_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
     "name:hbs_x_preferred":[
@@ -56,9 +44,6 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30fc\u30a4\u30b5\u30fc\u30b9"
     ],
-    "name:may_x_preferred":[
-        "\u00dajsz\u00e1sz"
-    ],
     "name:msa_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
@@ -71,13 +56,10 @@
     "name:ron_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
-    "name:rum_x_preferred":[
-        "\u00dajsz\u00e1sz"
-    ],
     "name:rup_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00dajsz\u00e1sz"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00dajsz\u00e1sz"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u85a9\u65af"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -139,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715570,
+    "wof:lastmodified":1561751573,
     "wof:name":"\u00dajsz\u00e1sz",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

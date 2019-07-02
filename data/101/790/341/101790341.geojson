@@ -16,10 +16,7 @@
     "mps:longitude":17.681734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u5c14\u675c\u5fb7\u6c83\u5c14\u8bfa\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "B\u00e1rdudvarnok"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "B\u00e1rdudvarnok"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e1rdudvarnok"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00e1rdudvarnok"
-    ],
     "name:hun_x_colloquial":[
         "Bardudvarnok"
     ],
@@ -44,9 +35,6 @@
         "B\u00e1rdudvarnok"
     ],
     "name:ita_x_preferred":[
-        "B\u00e1rdudvarnok"
-    ],
-    "name:may_x_preferred":[
         "B\u00e1rdudvarnok"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "B\u00e1rdudvarnok"
     ],
-    "name:rum_x_preferred":[
-        "B\u00e1rdudvarnok"
-    ],
     "name:slk_x_preferred":[
-        "B\u00e1rdudvarnok"
-    ],
-    "name:slo_x_preferred":[
         "B\u00e1rdudvarnok"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00e1rdudvarnok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5c14\u675c\u5fb7\u6c83\u5c14\u8bfa\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"B\u00e1rdudvarnok",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

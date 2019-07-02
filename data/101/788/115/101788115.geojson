@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1526048.206103,
+    "geom:area_square_m":1526048.206104,
     "geom:bbox":"20.6383749575,46.8172003467,20.6656477456,46.8318360563",
     "geom:latitude":46.824242,
     "geom:longitude":20.649904,
@@ -16,9 +16,6 @@
     "mps:longitude":20.649904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Csabacs\u0171d"
-    ],
     "name:eng_x_preferred":[
         "Csabacs\u0171d"
     ],
@@ -28,16 +25,10 @@
     "name:fra_x_preferred":[
         "Csabacs\u0171d"
     ],
-    "name:fre_x_preferred":[
-        "Csabacs\u0171d"
-    ],
     "name:hun_x_preferred":[
         "Csabacs\u0171d"
     ],
     "name:ita_x_preferred":[
-        "Csabacs\u0171d"
-    ],
-    "name:may_x_preferred":[
         "Csabacs\u0171d"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +46,7 @@
     "name:ron_x_preferred":[
         "Csabacs\u0171d"
     ],
-    "name:rum_x_preferred":[
-        "Csabacs\u0171d"
-    ],
     "name:slk_x_preferred":[
-        "Csabacs\u0171d"
-    ],
-    "name:slo_x_preferred":[
         "Csabacs\u0171d"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +97,7 @@
         }
     ],
     "wof:id":101788115,
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751578,
     "wof:name":"Csabacs\u0171d",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

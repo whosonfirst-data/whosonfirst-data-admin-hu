@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Tiszal\u00fac"
     ],
-    "name:dut_x_preferred":[
-        "Tiszal\u00fac"
-    ],
     "name:eng_x_preferred":[
         "Tiszalucz"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Tiszal\u00fac"
     ],
-    "name:fre_x_preferred":[
-        "Tiszal\u00fac"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszal\u00fac"
-    ],
     "name:hun_x_colloquial":[
         "Tiszaluc"
     ],
@@ -45,9 +36,6 @@
         "Tiszal\u00fac"
     ],
     "name:ita_x_preferred":[
-        "Tiszal\u00fac"
-    ],
-    "name:may_x_preferred":[
         "Tiszal\u00fac"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Tiszal\u00fac"
     ],
-    "name:rum_x_preferred":[
-        "Tiszal\u00fac"
-    ],
     "name:slk_x_preferred":[
-        "Tiszal\u00fac"
-    ],
-    "name:slo_x_preferred":[
         "Tiszal\u00fac"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688494,
+    "wof:lastmodified":1561751561,
     "wof:name":"Tiszal\u00fac",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

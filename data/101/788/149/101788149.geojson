@@ -16,12 +16,6 @@
     "mps:longitude":18.327902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6070\u514b\u62dc\u96f7\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Cs\u00e1kber\u00e9ny"
-    ],
     "name:eng_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
     ],
-    "name:fre_x_preferred":[
-        "Cs\u00e1kber\u00e9ny"
-    ],
     "name:hun_x_colloquial":[
         "Csakbereny"
     ],
@@ -41,9 +32,6 @@
         "Cs\u00e1kber\u00e9ny"
     ],
     "name:ita_x_preferred":[
-        "Cs\u00e1kber\u00e9ny"
-    ],
-    "name:may_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
     ],
-    "name:rum_x_preferred":[
-        "Cs\u00e1kber\u00e9ny"
-    ],
     "name:slk_x_preferred":[
-        "Cs\u00e1kber\u00e9ny"
-    ],
-    "name:slo_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u514b\u62dc\u96f7\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715578,
+    "wof:lastmodified":1561751579,
     "wof:name":"Cs\u00e1kber\u00e9ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1276685.514373,
+    "geom:area_square_m":1276685.514374,
     "geom:bbox":"21.1686306904,46.8601873787,21.1916605079,46.8791962719",
     "geom:latitude":46.871605,
     "geom:longitude":21.182035,
@@ -19,15 +19,6 @@
     "name:ces_x_preferred":[
         "B\u00e9lmegyer"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14\u8fc8\u6770\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "B\u00e9lmegyer"
-    ],
-    "name:dut_x_preferred":[
-        "B\u00e9lmegyer"
-    ],
     "name:eng_x_preferred":[
         "Bolmogyer"
     ],
@@ -37,9 +28,6 @@
     "name:fra_x_preferred":[
         "B\u00e9lmegyer"
     ],
-    "name:fre_x_preferred":[
-        "B\u00e9lmegyer"
-    ],
     "name:hun_x_colloquial":[
         "Belmegyer"
     ],
@@ -47,9 +35,6 @@
         "B\u00e9lmegyer"
     ],
     "name:ita_x_preferred":[
-        "B\u00e9lmegyer"
-    ],
-    "name:may_x_preferred":[
         "B\u00e9lmegyer"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "B\u00e9lmegyer"
     ],
-    "name:rum_x_preferred":[
-        "B\u00e9lmegyer"
-    ],
     "name:slk_x_preferred":[
-        "B\u00e9lmegyer"
-    ],
-    "name:slo_x_preferred":[
         "B\u00e9lmegyer"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00e9lmegyer"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u8fc8\u6770\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -131,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715574,
+    "wof:lastmodified":1561751576,
     "wof:name":"B\u00e9lmegyer",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

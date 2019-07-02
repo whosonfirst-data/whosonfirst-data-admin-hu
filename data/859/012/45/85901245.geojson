@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u0577\u057f"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0448\u0442"
     ],
@@ -51,11 +48,8 @@
     "name:ces_x_preferred":[
         "Pe\u0161\u0165"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Pe\u0161\u0165"
+    "name:cym_x_preferred":[
+        "Pla"
     ],
     "name:dan_x_preferred":[
         "Pest"
@@ -63,8 +57,8 @@
     "name:deu_x_preferred":[
         "Pest"
     ],
-    "name:dut_x_preferred":[
-        "Pest"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Pest"
@@ -75,23 +69,14 @@
     "name:est_x_preferred":[
         "Pest"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u067e\u0633\u062a"
+    ],
     "name:fin_x_preferred":[
         "Pest"
     ],
     "name:fra_x_preferred":[
         "Pest"
-    ],
-    "name:fre_x_preferred":[
-        "Pest"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Pest"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c3\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab8\u0acd\u0a9f"
@@ -114,6 +99,9 @@
     "name:hun_x_variant":[
         "Pest"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0577\u057f"
+    ],
     "name:ind_x_preferred":[
         "Pest"
     ],
@@ -125,6 +113,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc0\u0c9f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e8\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud398\uc288\ud2b8"
@@ -138,17 +129,14 @@
     "name:lit_x_preferred":[
         "Pe\u0161tas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0435\u0448\u0442\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0938\u094d\u091f"
     ],
-    "name:may_x_preferred":[
-        "Pest"
-    ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0448\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Pest"
     ],
     "name:nld_x_preferred":[
         "Pest"
@@ -162,9 +150,6 @@
     "name:nor_x_preferred":[
         "Pest"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u067e\u0633\u062a"
-    ],
     "name:pol_x_preferred":[
         "Peszt"
     ],
@@ -174,9 +159,6 @@
     "name:ron_x_preferred":[
         "Pesta"
     ],
-    "name:rum_x_preferred":[
-        "Pesta"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0448\u0442"
     ],
@@ -184,9 +166,6 @@
         "\u0db4\u0dd9\u0dc3\u0dca\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Pe\u0161\u0165"
-    ],
-    "name:slo_x_preferred":[
         "Pe\u0161\u0165"
     ],
     "name:slv_x_preferred":[
@@ -225,9 +204,6 @@
     ],
     "name:vie_x_preferred":[
         "Pest"
-    ],
-    "name:wel_x_preferred":[
-        "Pla"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u65af"
@@ -295,7 +271,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536868708,
+    "wof:lastmodified":1561751510,
     "wof:name":"Pestj",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

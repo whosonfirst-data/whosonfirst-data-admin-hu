@@ -16,12 +16,6 @@
     "mps:longitude":18.645634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u6d1b\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Nagyl\u00f3k"
-    ],
     "name:eng_x_preferred":[
         "Nagyl\u00f3k"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Nagyl\u00f3k"
     ],
-    "name:fre_x_preferred":[
-        "Nagyl\u00f3k"
-    ],
     "name:hun_x_colloquial":[
         "Nagylok"
     ],
@@ -41,9 +32,6 @@
         "Nagyl\u00f3k"
     ],
     "name:ita_x_preferred":[
-        "Nagyl\u00f3k"
-    ],
-    "name:may_x_preferred":[
         "Nagyl\u00f3k"
     ],
     "name:msa_x_preferred":[
@@ -58,16 +46,10 @@
     "name:ron_x_preferred":[
         "Nagyl\u00f3k"
     ],
-    "name:rum_x_preferred":[
-        "Nagyl\u00f3k"
-    ],
     "name:rup_x_preferred":[
         "Nagyl\u00f3k"
     ],
     "name:slk_x_preferred":[
-        "Nagyl\u00f3k"
-    ],
-    "name:slo_x_preferred":[
         "Nagyl\u00f3k"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyl\u00f3k"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6d1b\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1561751588,
     "wof:name":"Nagyl\u00f3k",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

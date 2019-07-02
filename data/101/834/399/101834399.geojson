@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000798,
-    "geom:area_square_m":6765008.255136,
+    "geom:area_square_m":6765008.255131,
     "geom:bbox":"17.515790062,46.7211626121,17.5996003764,46.7626704066",
     "geom:latitude":46.742149,
     "geom:longitude":17.555746,
@@ -17,22 +17,10 @@
     "mps:longitude":17.551656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0576\u0575\u0578\u0564"
-    ],
     "name:ces_x_preferred":[
         "Fony\u00f3d"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u7d10\u5fb7"
-    ],
-    "name:cze_x_preferred":[
-        "Fony\u00f3d"
-    ],
     "name:deu_x_preferred":[
-        "Fony\u00f3d"
-    ],
-    "name:dut_x_preferred":[
         "Fony\u00f3d"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +32,6 @@
     "name:fra_x_preferred":[
         "Fony\u00f3d"
     ],
-    "name:fre_x_preferred":[
-        "Fony\u00f3d"
-    ],
-    "name:ger_x_preferred":[
-        "Fony\u00f3d"
-    ],
     "name:hrv_x_preferred":[
         "Fony\u00f3d"
     ],
@@ -59,10 +41,10 @@
     "name:hun_x_preferred":[
         "Fony\u00f3d"
     ],
-    "name:ita_x_preferred":[
-        "Fony\u00f3d"
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0576\u0575\u0578\u0564"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Fony\u00f3d"
     ],
     "name:msa_x_preferred":[
@@ -77,13 +59,13 @@
     "name:pol_x_preferred":[
         "Fony\u00f3d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fony\u00f3d"
     ],
     "name:rup_x_preferred":[
         "Fony\u00f3d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fony\u00f3d"
     ],
     "name:slv_x_preferred":[
@@ -97,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Fony\u00f3d"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u7d10\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -148,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642930,
+    "wof:lastmodified":1561751553,
     "wof:name":"Fony\u00f3d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

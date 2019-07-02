@@ -17,10 +17,7 @@
     "mps:longitude":22.33633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c3c\u5c14\u4e54\u970d\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ny\u00edrcsaholy"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Ny\u00edrcsaholy"
     ],
-    "name:fre_x_preferred":[
-        "Ny\u00edrcsaholy"
-    ],
-    "name:ger_x_preferred":[
-        "Ny\u00edrcsaholy"
-    ],
     "name:hun_x_colloquial":[
         "Nyircsaholy"
     ],
@@ -45,9 +36,6 @@
         "Ny\u00edrcsaholy"
     ],
     "name:ita_x_preferred":[
-        "Ny\u00edrcsaholy"
-    ],
-    "name:may_x_preferred":[
         "Ny\u00edrcsaholy"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Ny\u00edrcsaholy"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00edrcsaholy"
-    ],
     "name:slk_x_preferred":[
-        "Ny\u00edrcsaholy"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00edrcsaholy"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Ny\u00edrcsaholy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u5c14\u4e54\u970d\u4f0a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -129,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688504,
+    "wof:lastmodified":1561751565,
     "wof:name":"Ny\u00edrcsaholy",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

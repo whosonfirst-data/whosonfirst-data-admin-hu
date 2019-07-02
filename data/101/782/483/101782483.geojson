@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2004203.344357,
+    "geom:area_square_m":2004203.344358,
     "geom:bbox":"21.3334813861,48.1198306822,21.3518998567,48.1422359963",
     "geom:latitude":48.130749,
     "geom:longitude":21.342906,
@@ -17,13 +17,7 @@
     "mps:longitude":21.343081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9676\u5c14\u66f9\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Tarcal"
-    ],
-    "name:dut_x_preferred":[
         "Tarcal"
     ],
     "name:eng_x_preferred":[
@@ -35,19 +29,10 @@
     "name:fra_x_preferred":[
         "Tarcal"
     ],
-    "name:fre_x_preferred":[
-        "Tarcal"
-    ],
-    "name:ger_x_preferred":[
-        "Tarcal"
-    ],
     "name:hun_x_preferred":[
         "Tarcal"
     ],
     "name:ita_x_preferred":[
-        "Tarcal"
-    ],
-    "name:may_x_preferred":[
         "Tarcal"
     ],
     "name:msa_x_preferred":[
@@ -65,16 +50,10 @@
     "name:ron_x_preferred":[
         "Tarcal"
     ],
-    "name:rum_x_preferred":[
-        "Tarcal"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0446\u0430\u043b\u044c"
     ],
     "name:slk_x_preferred":[
-        "Tarcal"
-    ],
-    "name:slo_x_preferred":[
         "Tarcal"
     ],
     "name:swe_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688316,
+    "wof:lastmodified":1561751558,
     "wof:name":"Tarcal",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

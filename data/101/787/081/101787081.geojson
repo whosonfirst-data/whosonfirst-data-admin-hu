@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000738,
-    "geom:area_square_m":6163061.100111,
+    "geom:area_square_m":6163061.100112,
     "geom:bbox":"18.9097466227,47.4933690766,18.9504782925,47.5345340142",
     "geom:latitude":47.511155,
     "geom:longitude":18.930983,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043a\u0435\u0441\u0437\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u51ef\u5e0c"
-    ],
     "name:deu_x_preferred":[
-        "Budakeszi"
-    ],
-    "name:dut_x_preferred":[
         "Budakeszi"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "\u0628\u0648\u062f\u0627\u06a9\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Budakeszi"
-    ],
-    "name:fre_x_preferred":[
-        "Budakeszi"
-    ],
-    "name:ger_x_preferred":[
         "Budakeszi"
     ],
     "name:hbs_x_preferred":[
@@ -62,9 +50,6 @@
     "name:kor_x_preferred":[
         "\ubd80\ub354\ucf00\uc2dc"
     ],
-    "name:may_x_preferred":[
-        "Budakeszi"
-    ],
     "name:msa_x_preferred":[
         "Budakeszi"
     ],
@@ -74,16 +59,10 @@
     "name:nld_x_preferred":[
         "Budakeszi"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u062f\u0627\u06a9\u0633\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Budakeszi"
     ],
     "name:ron_x_preferred":[
-        "Budakeszi"
-    ],
-    "name:rum_x_preferred":[
         "Budakeszi"
     ],
     "name:rup_x_preferred":[
@@ -96,9 +75,6 @@
         "Budakeszi"
     ],
     "name:slk_x_preferred":[
-        "Budakeszi"
-    ],
-    "name:slo_x_preferred":[
         "Budakeszi"
     ],
     "name:slv_x_preferred":[
@@ -172,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715850,
+    "wof:lastmodified":1561751585,
     "wof:name":"Budakeszi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

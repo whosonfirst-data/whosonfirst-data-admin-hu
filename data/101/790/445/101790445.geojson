@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000185,
-    "geom:area_square_m":1576090.308716,
+    "geom:area_square_m":1576090.308717,
     "geom:bbox":"20.7309131872,46.312089962,20.747760829,46.3272367971",
     "geom:latitude":46.319978,
     "geom:longitude":20.73843,
@@ -16,12 +16,6 @@
     "mps:longitude":20.73827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u76ae\u7279\u6c83\u7f57\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Pitvaros"
-    ],
     "name:eng_x_preferred":[
         "Pitvaros"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Pitvaros"
     ],
-    "name:fre_x_preferred":[
-        "Pitvaros"
-    ],
     "name:hun_x_preferred":[
         "Pitvaros"
     ],
     "name:ita_x_preferred":[
-        "Pitvaros"
-    ],
-    "name:may_x_preferred":[
         "Pitvaros"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Pitvaros"
     ],
-    "name:rum_x_preferred":[
-        "Pitvaros"
-    ],
     "name:slk_x_preferred":[
-        "Pitvaro\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Pitvaro\u0161"
     ],
     "name:slv_x_preferred":[
@@ -122,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641602,
+    "wof:lastmodified":1561751538,
     "wof:name":"Pitvaros",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

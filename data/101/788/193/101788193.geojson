@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0441\u0437\u0430\u0440\u043e\u0444"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u7f57\u592b\u592b"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszaroff"
-    ],
     "name:eng_x_preferred":[
         "Tiszaroff"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Tiszaroff"
     ],
-    "name:fre_x_preferred":[
-        "Tiszaroff"
-    ],
     "name:hun_x_preferred":[
         "Tiszaroff"
     ],
     "name:ita_x_preferred":[
-        "Tiszaroff"
-    ],
-    "name:may_x_preferred":[
         "Tiszaroff"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Tiszaroff"
     ],
-    "name:rum_x_preferred":[
-        "Tiszaroff"
-    ],
     "name:slk_x_preferred":[
-        "Tiszaroff"
-    ],
-    "name:slo_x_preferred":[
         "Tiszaroff"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715569,
+    "wof:lastmodified":1561751572,
     "wof:name":"Tiszaroff",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

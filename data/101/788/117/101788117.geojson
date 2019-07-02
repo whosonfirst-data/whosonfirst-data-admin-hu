@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":1456241.363987,
+    "geom:area_square_m":1456241.363989,
     "geom:bbox":"21.1986014709,46.7995344016,21.2210005196,46.8208483006",
     "geom:latitude":46.812106,
     "geom:longitude":21.212106,
@@ -16,12 +16,6 @@
     "mps:longitude":21.214143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9676\u5c14\u970d\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Tarhos"
-    ],
     "name:eng_x_preferred":[
         "Tarhos"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Tarhos"
     ],
-    "name:fre_x_preferred":[
-        "Tarhos"
-    ],
     "name:hun_x_preferred":[
         "Tarhos"
     ],
     "name:ita_x_preferred":[
-        "Tarhos"
-    ],
-    "name:may_x_preferred":[
         "Tarhos"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Tarhos"
     ],
-    "name:rum_x_preferred":[
-        "Tarhos"
-    ],
     "name:slk_x_preferred":[
-        "Tarhos"
-    ],
-    "name:slo_x_preferred":[
         "Tarhos"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Tarhos",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

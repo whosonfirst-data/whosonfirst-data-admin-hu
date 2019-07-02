@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2144105.395343,
+    "geom:area_square_m":2144105.395346,
     "geom:bbox":"19.5267941827,47.5078293379,19.5566272916,47.5293059714",
     "geom:latitude":47.518073,
     "geom:longitude":19.542739,
@@ -17,10 +17,7 @@
     "mps:longitude":19.542513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8fbe\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "D\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "D\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "D\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "D\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Dany"
     ],
@@ -45,9 +36,6 @@
         "D\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "D\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "D\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "D\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "D\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "D\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "D\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "D\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715843,
+    "wof:lastmodified":1561751584,
     "wof:name":"D\u00e1ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

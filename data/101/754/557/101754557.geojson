@@ -17,13 +17,10 @@
     "mps:longitude":18.862881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5854\u5c14\u8bfa\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "T\u00e1rnok"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "T\u00e1rnok"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +35,6 @@
     "name:fra_x_preferred":[
         "T\u00e1rnok"
     ],
-    "name:fre_x_preferred":[
-        "T\u00e1rnok"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00e1rnok"
-    ],
     "name:hun_x_colloquial":[
         "Tarnok"
     ],
@@ -51,9 +42,6 @@
         "T\u00e1rnok"
     ],
     "name:ita_x_preferred":[
-        "T\u00e1rnok"
-    ],
-    "name:may_x_preferred":[
         "T\u00e1rnok"
     ],
     "name:msa_x_preferred":[
@@ -65,19 +53,10 @@
     "name:nld_x_preferred":[
         "T\u00e1rnok"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0631\u0646\u0648\u06a9"
-    ],
     "name:ron_x_preferred":[
         "T\u00e1rnok"
     ],
-    "name:rum_x_preferred":[
-        "T\u00e1rnok"
-    ],
     "name:slk_x_preferred":[
-        "T\u00e1rnok"
-    ],
-    "name:slo_x_preferred":[
         "T\u00e1rnok"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00e1rnok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5c14\u8bfa\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -140,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641852,
+    "wof:lastmodified":1561751540,
     "wof:name":"T\u00e1rnok",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

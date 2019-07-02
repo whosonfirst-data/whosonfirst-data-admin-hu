@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1775134.498855,
+    "geom:area_square_m":1775134.498856,
     "geom:bbox":"19.9911490306,47.4697639845,20.0167064954,47.4956328421",
     "geom:latitude":47.482031,
     "geom:longitude":20.003553,
@@ -16,12 +16,6 @@
     "mps:longitude":20.004424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9a\u65af\u6cf0\u83b1\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "J\u00e1sztelek"
-    ],
     "name:eng_x_preferred":[
         "J\u00e1sztelek"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "J\u00e1sztelek"
     ],
-    "name:fre_x_preferred":[
-        "J\u00e1sztelek"
-    ],
     "name:hun_x_colloquial":[
         "Jasztelek"
     ],
@@ -41,9 +32,6 @@
         "J\u00e1sztelek"
     ],
     "name:ita_x_preferred":[
-        "J\u00e1sztelek"
-    ],
-    "name:may_x_preferred":[
         "J\u00e1sztelek"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "J\u00e1sztelek"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1sztelek"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1sztelek"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1sztelek"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1sztelek"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u65af\u6cf0\u83b1\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -119,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715654,
+    "wof:lastmodified":1561751583,
     "wof:name":"J\u00e1sztelek",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

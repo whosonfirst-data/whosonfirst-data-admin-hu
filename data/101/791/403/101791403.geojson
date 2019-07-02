@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1286907.997427,
+    "geom:area_square_m":1286907.997426,
     "geom:bbox":"17.334585029,46.0280098761,17.353009858,46.046369381",
     "geom:latitude":46.037541,
     "geom:longitude":17.343024,
@@ -17,13 +17,7 @@
     "mps:longitude":17.345327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u535a\u4e54"
-    ],
     "name:deu_x_preferred":[
-        "Bab\u00f3csa"
-    ],
-    "name:dut_x_preferred":[
         "Bab\u00f3csa"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Bab\u00f3csa"
     ],
     "name:fra_x_preferred":[
-        "Bab\u00f3csa"
-    ],
-    "name:fre_x_preferred":[
-        "Bab\u00f3csa"
-    ],
-    "name:ger_x_preferred":[
         "Bab\u00f3csa"
     ],
     "name:hrv_x_preferred":[
@@ -51,9 +39,6 @@
         "Bab\u00f3csa"
     ],
     "name:ita_x_preferred":[
-        "Bab\u00f3csa"
-    ],
-    "name:may_x_preferred":[
         "Bab\u00f3csa"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Bab\u00f3csa"
     ],
-    "name:rum_x_preferred":[
-        "Bab\u00f3csa"
-    ],
     "name:slk_x_preferred":[
-        "Bab\u00f3csa"
-    ],
-    "name:slo_x_preferred":[
         "Bab\u00f3csa"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Bab\u00f3csa"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u535a\u4e54"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -142,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561751542,
     "wof:name":"Bab\u00f3csa",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

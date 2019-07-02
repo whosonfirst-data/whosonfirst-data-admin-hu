@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":4770838.706991,
+    "geom:area_square_m":4770838.70699,
     "geom:bbox":"19.0517050241,47.6886780579,19.0917207359,47.7332222256",
     "geom:latitude":47.71017,
     "geom:longitude":19.083242,
@@ -17,7 +17,7 @@
     "mps:longitude":19.084222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Le\u00e1nyfalu"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +29,6 @@
     "name:fra_x_preferred":[
         "Le\u00e1nyfalu"
     ],
-    "name:fre_x_preferred":[
-        "Le\u00e1nyfalu"
-    ],
-    "name:ger_x_preferred":[
-        "Le\u00e1nyfalu"
-    ],
     "name:hun_x_colloquial":[
         "Leanyfalu"
     ],
@@ -42,9 +36,6 @@
         "Le\u00e1nyfalu"
     ],
     "name:ita_x_preferred":[
-        "Le\u00e1nyfalu"
-    ],
-    "name:may_x_preferred":[
         "Le\u00e1nyfalu"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Le\u00e1nyfalu"
     ],
-    "name:rum_x_preferred":[
-        "Le\u00e1nyfalu"
-    ],
     "name:slk_x_preferred":[
-        "Le\u00e1nyfalu"
-    ],
-    "name:slo_x_preferred":[
         "Le\u00e1nyfalu"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642920,
+    "wof:lastmodified":1561751550,
     "wof:name":"Le\u00e1nyfalu",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

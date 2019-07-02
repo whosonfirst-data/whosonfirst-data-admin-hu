@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
-    "geom:area_square_m":2363166.784771,
+    "geom:area_square_m":2363166.784772,
     "geom:bbox":"21.9087028018,48.103359678,21.9392578039,48.1263870609",
     "geom:latitude":48.114676,
     "geom:longitude":21.9231,
@@ -17,10 +17,7 @@
     "mps:longitude":21.929534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4ee3\u9081\u5207\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Demecser"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Demecser"
     ],
-    "name:fre_x_preferred":[
-        "Demecser"
-    ],
-    "name:ger_x_preferred":[
-        "Demecser"
-    ],
     "name:hun_x_preferred":[
         "Demecser"
     ],
     "name:ita_x_preferred":[
-        "Demecser"
-    ],
-    "name:may_x_preferred":[
         "Demecser"
     ],
     "name:msa_x_preferred":[
@@ -62,9 +50,6 @@
     "name:ron_x_preferred":[
         "Demecser"
     ],
-    "name:rum_x_preferred":[
-        "Demecser"
-    ],
     "name:rup_x_preferred":[
         "Demecser"
     ],
@@ -72,9 +57,6 @@
         "\u0414\u0435\u043c\u0435\u0447\u0435\u0440"
     ],
     "name:slk_x_preferred":[
-        "Demecser"
-    ],
-    "name:slo_x_preferred":[
         "Demecser"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1561751559,
     "wof:name":"Demecser",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

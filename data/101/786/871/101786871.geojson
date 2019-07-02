@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
-    "geom:area_square_m":2493060.873156,
+    "geom:area_square_m":2493060.873155,
     "geom:bbox":"18.1642379207,47.6600534953,18.199710459,47.6818004915",
     "geom:latitude":47.67102,
     "geom:longitude":18.182863,
@@ -17,12 +17,6 @@
     "mps:longitude":18.184341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u83ab\u4e54"
-    ],
-    "name:dut_x_preferred":[
-        "Mocsa"
-    ],
     "name:eng_x_preferred":[
         "Mocsa"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "Mocsa"
     ],
-    "name:fre_x_preferred":[
-        "Mocsa"
-    ],
     "name:hun_x_preferred":[
         "Mocsa"
     ],
     "name:ita_x_preferred":[
-        "Mocsa"
-    ],
-    "name:may_x_preferred":[
         "Mocsa"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Mocsa"
     ],
-    "name:rum_x_preferred":[
-        "Mocsa"
-    ],
     "name:slk_x_preferred":[
-        "Mocsa"
-    ],
-    "name:slo_x_preferred":[
         "Mocsa"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715650,
+    "wof:lastmodified":1561751582,
     "wof:name":"Mocsa",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

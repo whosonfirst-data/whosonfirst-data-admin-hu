@@ -19,12 +19,6 @@
     "name:cbk_zam_x_preferred":[
         "V\u00e9rtesacsa"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5c14\u6cf0\u7ecd\u4e54"
-    ],
-    "name:dut_x_preferred":[
-        "V\u00e9rtesacsa"
-    ],
     "name:eng_x_preferred":[
         "V\u00e9rtesacsa"
     ],
@@ -34,9 +28,6 @@
     "name:fra_x_preferred":[
         "V\u00e9rtesacsa"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e9rtesacsa"
-    ],
     "name:hun_x_colloquial":[
         "Vertesacsa"
     ],
@@ -44,9 +35,6 @@
         "V\u00e9rtesacsa"
     ],
     "name:ita_x_preferred":[
-        "V\u00e9rtesacsa"
-    ],
-    "name:may_x_preferred":[
         "V\u00e9rtesacsa"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "V\u00e9rtesacsa"
     ],
-    "name:rum_x_preferred":[
-        "V\u00e9rtesacsa"
-    ],
     "name:slk_x_preferred":[
-        "V\u00e9rtesacsa"
-    ],
-    "name:slo_x_preferred":[
         "V\u00e9rtesacsa"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vol_x_preferred":[
         "V\u00e9rtesacsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u5c14\u6cf0\u7ecd\u4e54"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715574,
+    "wof:lastmodified":1561751576,
     "wof:name":"V\u00e9rtesacsa",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

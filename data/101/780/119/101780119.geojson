@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":2562511.696551,
+    "geom:area_square_m":2562511.696552,
     "geom:bbox":"21.4186409318,48.2346641542,21.4605136802,48.2615841502",
     "geom:latitude":48.247944,
     "geom:longitude":21.437163,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u041e\u043b\u0430\u0441\u0437\u043b\u0438\u0441\u0437\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6b27\u6d1b\u65af\u5229\u65af\u8003"
-    ],
     "name:deu_x_preferred":[
-        "Olaszliszka"
-    ],
-    "name:dut_x_preferred":[
         "Olaszliszka"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Olaszliszka"
     ],
-    "name:fre_x_preferred":[
-        "Olaszliszka"
-    ],
-    "name:ger_x_preferred":[
-        "Olaszliszka"
-    ],
     "name:hun_x_preferred":[
         "Olaszliszka"
     ],
     "name:ita_x_preferred":[
-        "Olaszliszka"
-    ],
-    "name:may_x_preferred":[
         "Olaszliszka"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Olaszliszka"
     ],
-    "name:rum_x_preferred":[
-        "Olaszliszka"
-    ],
     "name:slk_x_preferred":[
-        "Olaszliszka"
-    ],
-    "name:slo_x_preferred":[
         "Olaszliszka"
     ],
     "name:slv_x_preferred":[
@@ -142,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715870,
+    "wof:lastmodified":1561751586,
     "wof:name":"Olaszliszka",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

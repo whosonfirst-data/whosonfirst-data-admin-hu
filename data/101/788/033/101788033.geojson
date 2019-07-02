@@ -16,10 +16,7 @@
     "mps:longitude":17.064061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u5e0c\u83ab\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nagysimonyi"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Nagysimonyi"
     ],
-    "name:fre_x_preferred":[
-        "Nagysimonyi"
-    ],
-    "name:ger_x_preferred":[
-        "Nagysimonyi"
-    ],
     "name:hun_x_preferred":[
         "Nagysimonyi"
     ],
     "name:ita_x_preferred":[
-        "Nagysimonyi"
-    ],
-    "name:may_x_preferred":[
         "Nagysimonyi"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Nagysimonyi"
     ],
-    "name:rum_x_preferred":[
-        "Nagysimonyi"
-    ],
     "name:slk_x_preferred":[
-        "Nagysimonyi"
-    ],
-    "name:slo_x_preferred":[
         "Nagysimonyi"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715576,
+    "wof:lastmodified":1561751578,
     "wof:name":"Nagysimonyi",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

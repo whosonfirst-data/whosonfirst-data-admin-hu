@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":4259226.885874,
+    "geom:area_square_m":4259226.885875,
     "geom:bbox":"19.3709712522,46.5640089551,19.4135758003,46.5925965926",
     "geom:latitude":46.579096,
     "geom:longitude":19.393016,
@@ -20,13 +20,10 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0442\u0432\u0430\u0434\u043a\u0435\u0440\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u7d39\u723e\u7279\u6c83\u5fb7\u51f1\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Soltvadkert"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Soltvadkert"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +33,6 @@
         "Soltvadkert"
     ],
     "name:fra_x_preferred":[
-        "Soltvadkert"
-    ],
-    "name:fre_x_preferred":[
-        "Soltvadkert"
-    ],
-    "name:ger_x_preferred":[
         "Soltvadkert"
     ],
     "name:heb_x_preferred":[
@@ -54,9 +45,6 @@
         "Soltvadkert"
     ],
     "name:ita_x_preferred":[
-        "Soltvadkert"
-    ],
-    "name:may_x_preferred":[
         "Soltvadkert"
     ],
     "name:msa_x_preferred":[
@@ -74,9 +62,6 @@
     "name:ron_x_preferred":[
         "Soltvadkert"
     ],
-    "name:rum_x_preferred":[
-        "Soltvadkert"
-    ],
     "name:rup_x_preferred":[
         "Soltvadkert"
     ],
@@ -84,9 +69,6 @@
         "\u0428\u043e\u043b\u044c\u0442\u0432\u0430\u0434\u043a\u0435\u0440\u0442"
     ],
     "name:slk_x_preferred":[
-        "Soltvadkert"
-    ],
-    "name:slo_x_preferred":[
         "Soltvadkert"
     ],
     "name:slv_x_preferred":[
@@ -160,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641601,
+    "wof:lastmodified":1561751537,
     "wof:name":"Soltvadkert",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1007144.816357,
+    "geom:area_square_m":1007144.816358,
     "geom:bbox":"20.4842781291,47.8813749999,20.508764302,47.8996806886",
     "geom:latitude":47.890704,
     "geom:longitude":20.495128,
@@ -16,13 +16,7 @@
     "mps:longitude":20.495314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7d22\u83ab\u5c27"
-    ],
     "name:deu_x_preferred":[
-        "Szomolya"
-    ],
-    "name:dut_x_preferred":[
         "Szomolya"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Szomolya"
     ],
-    "name:fre_x_preferred":[
-        "Szomolya"
-    ],
-    "name:ger_x_preferred":[
-        "Szomolya"
-    ],
     "name:hun_x_preferred":[
         "Szomolya"
     ],
     "name:ita_x_preferred":[
-        "Szomolya"
-    ],
-    "name:may_x_preferred":[
         "Szomolya"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Szomolya"
     ],
-    "name:rum_x_preferred":[
-        "Szomolya"
-    ],
     "name:slk_x_preferred":[
-        "Szomolya"
-    ],
-    "name:slo_x_preferred":[
         "Szomolya"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688538,
+    "wof:lastmodified":1561751566,
     "wof:name":"Szomolya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

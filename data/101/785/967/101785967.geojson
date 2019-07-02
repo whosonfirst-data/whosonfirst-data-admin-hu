@@ -20,16 +20,10 @@
     "name:deu_x_preferred":[
         "Poroszl\u00f3"
     ],
-    "name:dut_x_preferred":[
-        "Poroszl\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Poroszl\u00f3"
     ],
     "name:epo_x_preferred":[
-        "Poroszl\u00f3"
-    ],
-    "name:ger_x_preferred":[
         "Poroszl\u00f3"
     ],
     "name:hun_x_colloquial":[
@@ -50,13 +44,7 @@
     "name:ron_x_preferred":[
         "Poroszl\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Poroszl\u00f3"
-    ],
     "name:slk_x_preferred":[
-        "Poroszl\u00f3"
-    ],
-    "name:slo_x_preferred":[
         "Poroszl\u00f3"
     ],
     "name:slv_x_preferred":[
@@ -114,7 +102,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527684898,
+    "wof:lastmodified":1561751556,
     "wof:name":"Poroszl\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

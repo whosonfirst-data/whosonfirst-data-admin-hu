@@ -19,12 +19,6 @@
     "name:cbk_zam_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u9c8d\u4ee3\u5409\u54c8\u4f50"
-    ],
-    "name:dut_x_preferred":[
-        "Szabadegyh\u00e1za"
-    ],
     "name:eng_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
@@ -32,9 +26,6 @@
         "Szabadegyh\u00e1za"
     ],
     "name:fra_x_preferred":[
-        "Szabadegyh\u00e1za"
-    ],
-    "name:fre_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
     "name:hun_x_colloquial":[
@@ -48,9 +39,6 @@
         "Szolgaegyh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Szabadegyh\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +56,7 @@
     "name:ron_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Szabadegyh\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "Szabadegyh\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +73,9 @@
     ],
     "name:vol_x_preferred":[
         "Szabadegyh\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u9c8d\u4ee3\u5409\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -138,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715896,
+    "wof:lastmodified":1561751589,
     "wof:name":"Szabadegyh\u00e1za",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

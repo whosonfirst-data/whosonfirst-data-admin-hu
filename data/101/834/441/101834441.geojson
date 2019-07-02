@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000861,
-    "geom:area_square_m":7214694.67303,
+    "geom:area_square_m":7214694.673031,
     "geom:bbox":"18.9607525073,47.3288621155,19.0165538679,47.3721204033",
     "geom:latitude":47.351371,
     "geom:longitude":18.983671,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0441\u0442\u0435\u043b\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u8c6a\u62c9\u65af\u6cf0\u840a\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Hal\u00e1sztelek"
-    ],
-    "name:dut_x_preferred":[
         "Hal\u00e1sztelek"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Hal\u00e1sztelek"
     ],
     "name:fra_x_preferred":[
-        "Hal\u00e1sztelek"
-    ],
-    "name:fre_x_preferred":[
-        "Hal\u00e1sztelek"
-    ],
-    "name:ger_x_preferred":[
         "Hal\u00e1sztelek"
     ],
     "name:hbs_x_preferred":[
@@ -56,9 +44,6 @@
     "name:ita_x_preferred":[
         "Hal\u00e1sztelek"
     ],
-    "name:may_x_preferred":[
-        "Hal\u00e1sztelek"
-    ],
     "name:msa_x_preferred":[
         "Hal\u00e1sztelek"
     ],
@@ -71,13 +56,10 @@
     "name:ron_x_preferred":[
         "Hal\u00e1sztelek"
     ],
-    "name:rum_x_preferred":[
-        "Hal\u00e1sztelek"
-    ],
     "name:rup_x_preferred":[
         "Hal\u00e1sztelek"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hal\u00e1sztelek"
     ],
     "name:slv_x_preferred":[
@@ -91,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Hal\u00e1sztelek"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u62c9\u65af\u6cf0\u840a\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -142,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642931,
+    "wof:lastmodified":1561751553,
     "wof:name":"Hal\u00e1sztelek",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

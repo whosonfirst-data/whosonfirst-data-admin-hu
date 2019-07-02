@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000574,
-    "geom:area_square_m":4798737.055775,
+    "geom:area_square_m":4798737.055777,
     "geom:bbox":"19.1052246094,47.4862109176,19.1354370117,47.5172006978",
     "geom:latitude":47.504152,
     "geom:longitude":19.122315,
@@ -26,13 +26,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u56db\u533a"
-    ],
     "name:deu_x_preferred":[
-        "Zugl\u00f3"
-    ],
-    "name:dut_x_preferred":[
         "Zugl\u00f3"
     ],
     "name:eng_x_preferred":[
@@ -46,12 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "14e arrondissement de Budapest"
-    ],
-    "name:fre_x_preferred":[
-        "14e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Zugl\u00f3"
     ],
     "name:hun_x_colloquial":[
         "Zuglo"
@@ -68,22 +56,19 @@
     "name:jpn_x_preferred":[
         "14\u533a"
     ],
+    "name:nld_x_preferred":[
+        "Zugl\u00f3"
+    ],
     "name:pol_x_preferred":[
         "Zugl\u00f3"
     ],
     "name:ron_x_preferred":[
         "Zugl\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Zugl\u00f3"
-    ],
     "name:sco_x_preferred":[
         "Zugl\u00f3"
     ],
     "name:slk_x_preferred":[
-        "XIV. obvod"
-    ],
-    "name:slo_x_preferred":[
         "XIV. obvod"
     ],
     "name:srp_x_preferred":[
@@ -159,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1561751510,
     "wof:name":"Zugl\u00f3",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2303531.69016,
+    "geom:area_square_m":2303531.690158,
     "geom:bbox":"20.4676258504,47.7638288702,20.4994081098,47.7851818828",
     "geom:latitude":47.774091,
     "geom:longitude":20.483701,
@@ -20,19 +20,13 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0438\u0445\u0430\u043b\u043e\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u8c6a\u6d1b\u59c6"
-    ],
-    "name:dut_x_preferred":[
-        "Szihalom"
-    ],
     "name:eng_x_preferred":[
         "Szihalom"
     ],
     "name:epo_x_preferred":[
         "Szihalom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Szihalom"
     ],
     "name:hun_x_preferred":[
@@ -41,16 +35,19 @@
     "name:ita_x_preferred":[
         "Szihalom"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Szihalom"
     ],
     "name:nan_x_preferred":[
         "Szihalom"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Szihalom"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Szihalom"
+    ],
+    "name:slk_x_preferred":[
         "Szihalom"
     ],
     "name:slv_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Szihalom"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u8c6a\u6d1b\u59c6"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -110,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1514448348,
+    "wof:lastmodified":1561751570,
     "wof:name":"Szihalom",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

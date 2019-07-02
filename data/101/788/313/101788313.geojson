@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":3311114.826553,
+    "geom:area_square_m":3311114.826555,
     "geom:bbox":"19.1316592536,47.2133903653,19.1729920338,47.2379315748",
     "geom:latitude":47.226266,
     "geom:longitude":19.150771,
@@ -20,7 +20,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0433\u0438\u0439"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bugyi"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +32,10 @@
     "name:fra_x_preferred":[
         "Bugyi"
     ],
-    "name:fre_x_preferred":[
-        "Bugyi"
-    ],
-    "name:ger_x_preferred":[
-        "Bugyi"
-    ],
     "name:hun_x_preferred":[
         "Bugyi"
     ],
     "name:ita_x_preferred":[
-        "Bugyi"
-    ],
-    "name:may_x_preferred":[
         "Bugyi"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Bugyi"
     ],
-    "name:rum_x_preferred":[
-        "Bugyi"
-    ],
     "name:slk_x_preferred":[
-        "Bugyi"
-    ],
-    "name:slo_x_preferred":[
         "Bugyi"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1561751575,
     "wof:name":"Bugyi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

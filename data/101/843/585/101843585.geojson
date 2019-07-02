@@ -16,10 +16,7 @@
     "mps:longitude":22.248521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9a\u5c14\u7c73"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "J\u00e1rmi"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "J\u00e1rmi"
     ],
-    "name:fre_x_preferred":[
-        "J\u00e1rmi"
-    ],
-    "name:ger_x_preferred":[
-        "J\u00e1rmi"
-    ],
     "name:hun_x_colloquial":[
         "Jarmi"
     ],
@@ -44,9 +35,6 @@
         "J\u00e1rmi"
     ],
     "name:ita_x_preferred":[
-        "J\u00e1rmi"
-    ],
-    "name:may_x_preferred":[
         "J\u00e1rmi"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "J\u00e1rmi"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1rmi"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1rmi"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1rmi"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1rmi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u5c14\u7c73"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642600,
+    "wof:lastmodified":1561751546,
     "wof:name":"J\u00e1rmi",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

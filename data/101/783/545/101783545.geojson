@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2632523.022341,
+    "geom:area_square_m":2632523.02234,
     "geom:bbox":"22.2506638733,47.8989573475,22.2797258134,47.9295089446",
     "geom:latitude":47.916587,
     "geom:longitude":22.26756,
@@ -17,10 +17,7 @@
     "mps:longitude":22.273835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5c3c\u5c14\u8fc8\u683c\u6770\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ny\u00edrmeggyes"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Ny\u00edrmeggyes"
     ],
-    "name:fre_x_preferred":[
-        "Ny\u00edrmeggyes"
-    ],
-    "name:ger_x_preferred":[
-        "Ny\u00edrmeggyes"
-    ],
     "name:hun_x_colloquial":[
         "Nyirmeggyes"
     ],
@@ -45,9 +36,6 @@
         "Ny\u00edrmeggyes"
     ],
     "name:ita_x_preferred":[
-        "Ny\u00edrmeggyes"
-    ],
-    "name:may_x_preferred":[
         "Ny\u00edrmeggyes"
     ],
     "name:msa_x_preferred":[
@@ -62,16 +50,10 @@
     "name:ron_x_preferred":[
         "Ny\u00edrmeggyes"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00edrmeggyes"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u0438\u0440\u043c\u0435\u0434\u0434\u044c\u0435\u0448"
     ],
     "name:slk_x_preferred":[
-        "Ny\u00edrmeggyes"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00edrmeggyes"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Ny\u00edrmeggyes"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u5c14\u8fc8\u683c\u6770\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688498,
+    "wof:lastmodified":1561751563,
     "wof:name":"Ny\u00edrmeggyes",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "M\u00facsony"
     ],
-    "name:dut_x_preferred":[
-        "M\u00facsony"
-    ],
     "name:eng_x_preferred":[
         "M\u00facsony"
     ],
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "M\u00facsony"
     ],
-    "name:fre_x_preferred":[
-        "M\u00facsony"
-    ],
-    "name:ger_x_preferred":[
-        "M\u00facsony"
-    ],
     "name:hun_x_colloquial":[
         "Mucsony"
     ],
@@ -45,9 +36,6 @@
         "M\u00facsony"
     ],
     "name:ita_x_preferred":[
-        "M\u00facsony"
-    ],
-    "name:may_x_preferred":[
         "M\u00facsony"
     ],
     "name:msa_x_preferred":[
@@ -68,10 +56,7 @@
     "name:rue_x_preferred":[
         "\u041c\u0443\u0447\u043e\u043d\u044c"
     ],
-    "name:rum_x_preferred":[
-        "M\u00facsony"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mu\u010do\u0148"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642926,
+    "wof:lastmodified":1561751552,
     "wof:name":"M\u00facsony",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

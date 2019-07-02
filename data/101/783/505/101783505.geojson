@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000357,
-    "geom:area_square_m":2951540.640261,
+    "geom:area_square_m":2951540.64026,
     "geom:bbox":"21.3561619934,48.0078555168,21.3935181671,48.0254905216",
     "geom:latitude":48.016352,
     "geom:longitude":21.37602,
@@ -17,13 +17,7 @@
     "mps:longitude":21.37602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u85a9\u52d2\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Tiszal\u00f6k"
-    ],
-    "name:dut_x_preferred":[
         "Tiszal\u00f6k"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Tiszal\u00f6k"
     ],
-    "name:fre_x_preferred":[
-        "Tiszal\u00f6k"
-    ],
-    "name:ger_x_preferred":[
-        "Tiszal\u00f6k"
-    ],
     "name:hun_x_colloquial":[
         "Tiszaloek",
         "Tiszalok"
@@ -49,9 +37,6 @@
         "Tiszal\u00f6k"
     ],
     "name:ita_x_preferred":[
-        "Tiszal\u00f6k"
-    ],
-    "name:may_x_preferred":[
         "Tiszal\u00f6k"
     ],
     "name:msa_x_preferred":[
@@ -69,13 +54,10 @@
     "name:ron_x_preferred":[
         "Tiszal\u00f6k"
     ],
-    "name:rum_x_preferred":[
-        "Tiszal\u00f6k"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0441\u0430\u043b\u0451\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tiszal\u00f6k"
     ],
     "name:slv_x_preferred":[
@@ -89,6 +71,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszal\u00f6k"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u85a9\u52d2\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -140,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688493,
+    "wof:lastmodified":1561751561,
     "wof:name":"Tiszal\u00f6k",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

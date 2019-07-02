@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000443,
-    "geom:area_square_m":3709927.271952,
+    "geom:area_square_m":3709927.271954,
     "geom:bbox":"21.7096460677,47.3841630907,21.7523924259,47.4031862805",
     "geom:latitude":47.394768,
     "geom:longitude":21.731013,
@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
-    "name:dut_x_preferred":[
-        "Hossz\u00fap\u00e1lyi"
-    ],
     "name:eng_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
@@ -30,12 +27,6 @@
         "Hossz\u00fap\u00e1lyi"
     ],
     "name:fra_x_preferred":[
-        "Hossz\u00fap\u00e1lyi"
-    ],
-    "name:fre_x_preferred":[
-        "Hossz\u00fap\u00e1lyi"
-    ],
-    "name:ger_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
     "name:hun_x_colloquial":[
@@ -51,9 +42,6 @@
     "name:ita_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
-    "name:may_x_preferred":[
-        "Hossz\u00fap\u00e1lyi"
-    ],
     "name:msa_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
@@ -66,13 +54,7 @@
     "name:ron_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
-    "name:rum_x_preferred":[
-        "Hossz\u00fap\u00e1lyi"
-    ],
     "name:slk_x_preferred":[
-        "Hossz\u00fap\u00e1lyi"
-    ],
-    "name:slo_x_preferred":[
         "Hossz\u00fap\u00e1lyi"
     ],
     "name:slv_x_preferred":[
@@ -137,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715847,
+    "wof:lastmodified":1561751585,
     "wof:name":"Hossz\u00fap\u00e1lyi",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

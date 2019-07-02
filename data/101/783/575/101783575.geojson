@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2094075.978208,
+    "geom:area_square_m":2094075.978207,
     "geom:bbox":"22.5335097242,47.8432787307,22.5733326272,47.8623867191",
     "geom:latitude":47.851834,
     "geom:longitude":22.554139,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Tyukod"
     ],
-    "name:dut_x_preferred":[
-        "Tyukod"
-    ],
     "name:eng_x_preferred":[
         "Tyukod"
     ],
@@ -38,19 +35,10 @@
     "name:fra_x_preferred":[
         "Tyukod"
     ],
-    "name:fre_x_preferred":[
-        "Tyukod"
-    ],
-    "name:ger_x_preferred":[
-        "Tyukod"
-    ],
     "name:hun_x_preferred":[
         "Tyukod"
     ],
     "name:ita_x_preferred":[
-        "Tyukod"
-    ],
-    "name:may_x_preferred":[
         "Tyukod"
     ],
     "name:msa_x_preferred":[
@@ -62,22 +50,13 @@
     "name:nld_x_preferred":[
         "Tyukod"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0648\u06a9\u062f"
-    ],
     "name:ron_x_preferred":[
-        "Tyukod"
-    ],
-    "name:rum_x_preferred":[
         "Tyukod"
     ],
     "name:rus_x_preferred":[
         "\u0422\u044c\u044e\u043a\u043e\u0434"
     ],
     "name:slk_x_preferred":[
-        "Tyukod"
-    ],
-    "name:slo_x_preferred":[
         "Tyukod"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688498,
+    "wof:lastmodified":1561751563,
     "wof:name":"Tyukod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

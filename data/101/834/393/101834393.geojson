@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
-    "geom:area_square_m":5297700.544564,
+    "geom:area_square_m":5297700.544563,
     "geom:bbox":"17.6659006269,46.7691248859,17.7230555099,46.7964731405",
     "geom:latitude":46.783136,
     "geom:longitude":17.693358,
@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u043e\u043d\u043b\u0435\u043b\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u9813\u840a\u840a"
-    ],
     "name:deu_x_preferred":[
-        "Balatonlelle"
-    ],
-    "name:dut_x_preferred":[
         "Balatonlelle"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Balatonlelle"
     ],
     "name:fra_x_preferred":[
-        "Balatonlelle"
-    ],
-    "name:fre_x_preferred":[
-        "Balatonlelle"
-    ],
-    "name:ger_x_preferred":[
         "Balatonlelle"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +42,6 @@
         "Balatonlelle"
     ],
     "name:ita_x_preferred":[
-        "Balatonlelle"
-    ],
-    "name:may_x_preferred":[
         "Balatonlelle"
     ],
     "name:msa_x_preferred":[
@@ -74,16 +59,10 @@
     "name:ron_x_preferred":[
         "Balatonlelle"
     ],
-    "name:rum_x_preferred":[
-        "Balatonlelle"
-    ],
     "name:rup_x_preferred":[
         "Balatonlelle"
     ],
     "name:slk_x_preferred":[
-        "Balatonlelle"
-    ],
-    "name:slo_x_preferred":[
         "Balatonlelle"
     ],
     "name:slv_x_preferred":[
@@ -154,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642935,
+    "wof:lastmodified":1561751554,
     "wof:name":"Balatonlelle",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

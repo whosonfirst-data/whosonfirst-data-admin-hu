@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":2174693.086402,
+    "geom:area_square_m":2174693.086403,
     "geom:bbox":"19.772329036,46.1896836466,19.7935276445,46.2123875703",
     "geom:latitude":46.200405,
     "geom:longitude":19.782386,
@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "\u00c1sotthalom"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7ecd\u7279\u9676\u6d1b\u59c6"
-    ],
-    "name:cze_x_preferred":[
-        "\u00c1sotthalom"
-    ],
     "name:deu_x_preferred":[
-        "\u00c1sotthalom"
-    ],
-    "name:dut_x_preferred":[
         "\u00c1sotthalom"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +30,6 @@
         "\u00c1sotthalom"
     ],
     "name:fra_x_preferred":[
-        "\u00c1sotthalom"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c1sotthalom"
-    ],
-    "name:ger_x_preferred":[
         "\u00c1sotthalom"
     ],
     "name:hrv_x_preferred":[
@@ -59,9 +44,6 @@
     "name:ita_x_preferred":[
         "\u00c1sotthalom"
     ],
-    "name:may_x_preferred":[
-        "\u00c1sotthalom"
-    ],
     "name:msa_x_preferred":[
         "\u00c1sotthalom"
     ],
@@ -74,13 +56,13 @@
     "name:nor_x_preferred":[
         "\u00c1sotthalom"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00c1sotthalom"
     ],
     "name:sco_x_preferred":[
         "\u00c1sotthalom"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u00c1sotthalom"
     ],
     "name:slv_x_preferred":[
@@ -94,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00c1sotthalom"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7ecd\u7279\u9676\u6d1b\u59c6"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Csongr\u00e1d",
@@ -145,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641602,
+    "wof:lastmodified":1561751538,
     "wof:name":"\u00c1sotthalom",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

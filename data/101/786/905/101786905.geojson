@@ -17,12 +17,6 @@
     "mps:longitude":18.498299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u5229\u76d6\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Sz\u00e1rliget"
-    ],
     "name:eng_x_preferred":[
         "Sz\u00e1rliget"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Sz\u00e1rliget"
     ],
-    "name:fre_x_preferred":[
-        "Sz\u00e1rliget"
-    ],
     "name:hun_x_preferred":[
         "Sz\u00e1rliget"
     ],
@@ -42,9 +33,6 @@
         "\u00dajsz\u00e1r"
     ],
     "name:ita_x_preferred":[
-        "Sz\u00e1rliget"
-    ],
-    "name:may_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Sz\u00e1rliget"
     ],
-    "name:rum_x_preferred":[
-        "Sz\u00e1rliget"
-    ],
     "name:slk_x_preferred":[
-        "Sz\u00e1rliget"
-    ],
-    "name:slo_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Sz\u00e1rliget"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u5229\u76d6\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":101786905,
-    "wof:lastmodified":1527715649,
+    "wof:lastmodified":1561751582,
     "wof:name":"Sz\u00e1rliget",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000147,
-    "geom:area_square_m":1256898.468793,
+    "geom:area_square_m":1256898.468792,
     "geom:bbox":"17.4414407253,46.3239291007,17.4692842895,46.3460451035",
     "geom:latitude":46.333078,
     "geom:longitude":17.453437,
@@ -19,13 +19,7 @@
     "name:ces_x_preferred":[
         "Kutas"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u9676\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Kutas"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kutas"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +31,10 @@
     "name:fra_x_preferred":[
         "Kutas"
     ],
-    "name:fre_x_preferred":[
-        "Kutas"
-    ],
-    "name:ger_x_preferred":[
-        "Kutas"
-    ],
     "name:hun_x_preferred":[
         "Kutas"
     ],
     "name:ita_x_preferred":[
-        "Kutas"
-    ],
-    "name:may_x_preferred":[
         "Kutas"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Kutas"
     ],
-    "name:rum_x_preferred":[
-        "Kutas"
-    ],
     "name:slk_x_preferred":[
-        "Kutas"
-    ],
-    "name:slo_x_preferred":[
         "Kutas"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561751533,
     "wof:name":"Kutas",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

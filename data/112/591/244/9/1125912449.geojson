@@ -18,16 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Lovas"
-    ],
     "name:eng_x_preferred":[
         "Lovas"
     ],
     "name:epo_x_preferred":[
         "Lovas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lovas"
     ],
     "name:hun_x_preferred":[
@@ -36,16 +33,19 @@
     "name:ita_x_preferred":[
         "Lovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lovas"
     ],
     "name:nan_x_preferred":[
         "Lovas"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Lovas"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Lovas"
+    ],
+    "name:slk_x_preferred":[
         "Lovas"
     ],
     "name:slv_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125912449,
-    "wof:lastmodified":1514448161,
+    "wof:lastmodified":1561751603,
     "wof:name":"Lovas",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -29,19 +29,11 @@
     "name:ces_x_preferred":[
         "Erzs\u00e9betv\u00e1ros"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u4e3d\u838e\u767d\u57ce"
-    ],
-    "name:cze_x_preferred":[
-        "Erzs\u00e9betv\u00e1ros"
-    ],
     "name:deu_x_preferred":[
         "VII. Budapester Bezirk"
     ],
     "name:deu_x_variant":[
-        "Elisabethstadt"
-    ],
-    "name:dut_x_preferred":[
+        "Elisabethstadt",
         "Erzs\u00e9betv\u00e1ros"
     ],
     "name:eng_x_preferred":[
@@ -52,12 +44,6 @@
     ],
     "name:fra_x_preferred":[
         "7e arrondissement de Budapest"
-    ],
-    "name:fre_x_preferred":[
-        "7e arrondissement de Budapest"
-    ],
-    "name:ger_x_preferred":[
-        "Erzs\u00e9betv\u00e1ros"
     ],
     "name:hun_x_colloquial":[
         "Erzsebetvaros"
@@ -74,22 +60,19 @@
     "name:ita_x_preferred":[
         "Erzs\u00e9betv\u00e1ros"
     ],
+    "name:nld_x_preferred":[
+        "Erzs\u00e9betv\u00e1ros"
+    ],
     "name:pol_x_preferred":[
         "Erzs\u00e9betv\u00e1ros"
     ],
     "name:ron_x_preferred":[
         "Erzs\u00e9betv\u00e1ros"
     ],
-    "name:rum_x_preferred":[
-        "Erzs\u00e9betv\u00e1ros"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0436\u0435\u0431\u0435\u0442\u0432\u0430\u0440\u043e\u0448"
     ],
     "name:slk_x_preferred":[
-        "VII. obvod"
-    ],
-    "name:slo_x_preferred":[
         "VII. obvod"
     ],
     "name:srp_x_preferred":[
@@ -165,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1561751511,
     "wof:name":"Erzs\u00e9betv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

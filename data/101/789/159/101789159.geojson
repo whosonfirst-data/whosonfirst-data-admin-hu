@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Balatonszabadi"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u901a\u7ecd\u9c8d\u8fea"
-    ],
-    "name:cze_x_preferred":[
-        "Balatonszabadi"
-    ],
     "name:deu_x_preferred":[
-        "Balatonszabadi"
-    ],
-    "name:dut_x_preferred":[
         "Balatonszabadi"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Balatonszabadi"
     ],
     "name:fra_x_preferred":[
-        "Balatonszabadi"
-    ],
-    "name:fre_x_preferred":[
-        "Balatonszabadi"
-    ],
-    "name:ger_x_preferred":[
         "Balatonszabadi"
     ],
     "name:hun_x_colloquial":[
@@ -62,9 +47,6 @@
     "name:ita_x_preferred":[
         "Balatonszabadi"
     ],
-    "name:may_x_preferred":[
-        "Balatonszabadi"
-    ],
     "name:msa_x_preferred":[
         "Balatonszabadi"
     ],
@@ -77,13 +59,7 @@
     "name:ron_x_preferred":[
         "Balatonszabadi"
     ],
-    "name:rum_x_preferred":[
-        "Balatonszabadi"
-    ],
     "name:slk_x_preferred":[
-        "Balatonszabadi"
-    ],
-    "name:slo_x_preferred":[
         "Balatonszabadi"
     ],
     "name:slv_x_preferred":[
@@ -154,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1561751587,
     "wof:name":"Balatonszabadi",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

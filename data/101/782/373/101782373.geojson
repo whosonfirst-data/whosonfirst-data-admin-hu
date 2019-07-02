@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2093980.150813,
+    "geom:area_square_m":2093980.150812,
     "geom:bbox":"22.499661294,48.0528222471,22.5314706888,48.0678943146",
     "geom:latitude":48.059854,
     "geom:longitude":22.514778,
@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Kisar"
     ],
-    "name:baq_x_preferred":[
-        "Kisar"
-    ],
     "name:bar_x_preferred":[
         "Kisar"
     ],
@@ -37,22 +34,19 @@
     "name:cat_x_preferred":[
         "Kisar"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7ecd\u5c14"
+    "name:ces_x_preferred":[
+        "Kisar"
     ],
     "name:cos_x_preferred":[
         "Kisar"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kisar"
     ],
     "name:dan_x_preferred":[
         "Kisar"
     ],
     "name:deu_x_preferred":[
-        "Kisar"
-    ],
-    "name:dut_x_preferred":[
         "Kisar"
     ],
     "name:eng_x_preferred":[
@@ -64,22 +58,19 @@
     "name:est_x_preferred":[
         "Kisar"
     ],
+    "name:eus_x_preferred":[
+        "Kisar"
+    ],
     "name:fin_x_preferred":[
         "Kisar"
     ],
     "name:fra_x_preferred":[
         "Kisar"
     ],
-    "name:fre_x_preferred":[
-        "Kisar"
-    ],
     "name:frp_x_preferred":[
         "Kisar"
     ],
     "name:fur_x_preferred":[
-        "Kisar"
-    ],
-    "name:ger_x_preferred":[
         "Kisar"
     ],
     "name:gla_x_preferred":[
@@ -100,9 +91,6 @@
     "name:hun_x_preferred":[
         "Kisar"
     ],
-    "name:ice_x_preferred":[
-        "Kisar"
-    ],
     "name:ido_x_preferred":[
         "Kisar"
     ],
@@ -114,6 +102,9 @@
     ],
     "name:ind_x_preferred":[
         "Pulau Kisar"
+    ],
+    "name:isl_x_preferred":[
+        "Kisar"
     ],
     "name:ita_x_preferred":[
         "Kisar"
@@ -130,13 +121,13 @@
     "name:ltz_x_preferred":[
         "Kisar"
     ],
-    "name:may_x_preferred":[
-        "Kisar"
-    ],
     "name:min_x_preferred":[
         "Kisar"
     ],
     "name:mlg_x_preferred":[
+        "Kisar"
+    ],
+    "name:msa_x_preferred":[
         "Kisar"
     ],
     "name:nap_x_preferred":[
@@ -175,7 +166,7 @@
     "name:roh_x_preferred":[
         "Kisar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kisar"
     ],
     "name:scn_x_preferred":[
@@ -184,7 +175,7 @@
     "name:sco_x_preferred":[
         "Kisar"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kisar"
     ],
     "name:slv_x_preferred":[
@@ -214,14 +205,14 @@
     "name:vol_x_preferred":[
         "Kisar"
     ],
-    "name:wel_x_preferred":[
-        "Kisar"
-    ],
     "name:wln_x_preferred":[
         "Kisar"
     ],
     "name:wol_x_preferred":[
         "Kisar"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7ecd\u5c14"
     ],
     "name:zul_x_preferred":[
         "Kisar"
@@ -272,7 +263,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688324,
+    "wof:lastmodified":1561751561,
     "wof:name":"Kisar",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

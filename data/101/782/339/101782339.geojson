@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1595373.843195,
+    "geom:area_square_m":1595373.843194,
     "geom:bbox":"22.0967523121,48.1259221548,22.1273495351,48.1437770785",
     "geom:latitude":48.136623,
     "geom:longitude":22.11442,
@@ -17,10 +17,7 @@
     "mps:longitude":22.114652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e45\u6d1b\u54c8\u4f50"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gyulah\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Gyulah\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "Gyulah\u00e1za"
-    ],
-    "name:ger_x_preferred":[
-        "Gyulah\u00e1za"
-    ],
     "name:hun_x_colloquial":[
         "Gyulahaza"
     ],
@@ -45,9 +36,6 @@
         "Gyulah\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "Gyulah\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "Gyulah\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Gyulah\u00e1za"
     ],
-    "name:rum_x_preferred":[
-        "Gyulah\u00e1za"
-    ],
     "name:slk_x_preferred":[
-        "Gyulah\u00e1za"
-    ],
-    "name:slo_x_preferred":[
         "Gyulah\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Gyulah\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e45\u6d1b\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Gyulah\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

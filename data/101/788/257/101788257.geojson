@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":2024487.515694,
+    "geom:area_square_m":2024487.515695,
     "geom:bbox":"18.8135692973,47.3971512978,18.841613152,47.413542612",
     "geom:latitude":47.404649,
     "geom:longitude":18.827182,
@@ -20,13 +20,7 @@
     "name:ces_x_preferred":[
         "\u0160o\u0161k\u00fat"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u4ec0\u5e93\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160o\u0161k\u00fat"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "S\u00f3sk\u00fat"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "S\u00f3sk\u00fat"
     ],
-    "name:fre_x_preferred":[
-        "S\u00f3sk\u00fat"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00f3sk\u00fat"
-    ],
     "name:hun_x_colloquial":[
         "Soskut"
     ],
@@ -51,9 +39,6 @@
         "S\u00f3sk\u00fat"
     ],
     "name:ita_x_preferred":[
-        "S\u00f3sk\u00fat"
-    ],
-    "name:may_x_preferred":[
         "S\u00f3sk\u00fat"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "S\u00f3sk\u00fat"
     ],
-    "name:rum_x_preferred":[
-        "S\u00f3sk\u00fat"
-    ],
     "name:slk_x_preferred":[
-        "\u0160o\u0161k\u00fat"
-    ],
-    "name:slo_x_preferred":[
         "\u0160o\u0161k\u00fat"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00f3sk\u00fat"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u4ec0\u5e93\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715571,
+    "wof:lastmodified":1561751573,
     "wof:name":"S\u00f3sk\u00fat",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

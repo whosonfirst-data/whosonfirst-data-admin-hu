@@ -20,12 +20,6 @@
     "name:ces_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
-    "name:chi_x_preferred":[
-        "\u68df\u535a\u5821"
-    ],
-    "name:cze_x_preferred":[
-        "Domb\u00f3v\u00e1r"
-    ],
     "name:dan_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
@@ -33,9 +27,6 @@
         "Domb\u00f3v\u00e1r"
     ],
     "name:dsb_x_preferred":[
-        "Domb\u00f3v\u00e1r"
-    ],
-    "name:dut_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -53,12 +44,6 @@
     "name:fra_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
-    "name:fre_x_preferred":[
-        "Domb\u00f3v\u00e1r"
-    ],
-    "name:ger_x_preferred":[
-        "Domb\u00f3v\u00e1r"
-    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05de\u05d1\u05d5\u05d1\u05d0\u05e8"
     ],
@@ -71,17 +56,17 @@
     "name:ita_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
     "name:nan_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0645\u0628\u0648\u0648\u0631"
+    "name:nob_x_preferred":[
+        "Domb\u00f3v\u00e1r"
     ],
     "name:pol_x_preferred":[
         "Domb\u00f3v\u00e1r"
@@ -89,7 +74,7 @@
     "name:por_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
     "name:rup_x_preferred":[
@@ -98,7 +83,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u043c\u0431\u043e\u0432\u0430\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -121,6 +106,9 @@
     ],
     "name:vie_x_preferred":[
         "Domb\u00f3v\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u68df\u535a\u5821"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Tolna",
@@ -172,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641596,
+    "wof:lastmodified":1561751533,
     "wof:name":"Domb\u00f3v\u00e1r",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

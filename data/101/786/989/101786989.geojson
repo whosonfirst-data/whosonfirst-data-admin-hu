@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":777839.058512,
+    "geom:area_square_m":777839.058511,
     "geom:bbox":"16.5916797422,47.6270360377,16.6083911784,47.642186166",
     "geom:latitude":47.634493,
     "geom:longitude":16.600294,
@@ -19,20 +19,11 @@
     "name:ces_x_preferred":[
         "Harka"
     ],
-    "name:chi_x_preferred":[
-        "\u8c6a\u5c14\u8003"
-    ],
-    "name:cze_x_preferred":[
-        "Harka"
-    ],
     "name:deu_x_preferred":[
         "Harka"
     ],
     "name:deu_x_variant":[
         "Harkau"
-    ],
-    "name:dut_x_preferred":[
-        "Harka"
     ],
     "name:eng_x_preferred":[
         "Magyarfalva"
@@ -41,12 +32,6 @@
         "Harka"
     ],
     "name:fra_x_preferred":[
-        "Harka"
-    ],
-    "name:fre_x_preferred":[
-        "Harka"
-    ],
-    "name:ger_x_preferred":[
         "Harka"
     ],
     "name:hrv_x_preferred":[
@@ -60,9 +45,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30eb\u30ab\u6751"
-    ],
-    "name:may_x_preferred":[
-        "Harka"
     ],
     "name:msa_x_preferred":[
         "Harka"
@@ -79,13 +61,7 @@
     "name:ron_x_preferred":[
         "Harka"
     ],
-    "name:rum_x_preferred":[
-        "Harka"
-    ],
     "name:slk_x_preferred":[
-        "Harka"
-    ],
-    "name:slo_x_preferred":[
         "Harka"
     ],
     "name:slv_x_preferred":[
@@ -149,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561751583,
     "wof:name":"Harka",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

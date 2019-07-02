@@ -16,16 +16,10 @@
     "mps:longitude":18.519829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0566\u0561\u0580"
-    ],
     "name:cbk_zam_x_preferred":[
         "Sz\u00e1r"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Sz\u00e1r"
     ],
     "name:eng_x_preferred":[
@@ -35,9 +29,6 @@
         "Sz\u00e1r"
     ],
     "name:fra_x_preferred":[
-        "Sz\u00e1r"
-    ],
-    "name:fre_x_preferred":[
         "Sz\u00e1r"
     ],
     "name:hun_x_colloquial":[
@@ -50,9 +41,6 @@
         "\u054d\u0566\u0561\u0580"
     ],
     "name:ita_x_preferred":[
-        "Sz\u00e1r"
-    ],
-    "name:may_x_preferred":[
         "Sz\u00e1r"
     ],
     "name:msa_x_preferred":[
@@ -73,10 +61,7 @@
     "name:ron_x_preferred":[
         "Sz\u00e1r"
     ],
-    "name:rum_x_preferred":[
-        "Sz\u00e1r"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sz\u00e1r"
     ],
     "name:slv_x_preferred":[
@@ -88,8 +73,8 @@
     "name:vol_x_preferred":[
         "Sz\u00e1r"
     ],
-    "name:wel_x_preferred":[
-        "Sz\u00e1r"
+    "name:zho_x_preferred":[
+        "\u8428\u5c14"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -140,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715652,
+    "wof:lastmodified":1561751583,
     "wof:name":"Sz\u00e1r",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -17,10 +17,7 @@
     "mps:longitude":18.264806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5965\u5c14\u9a6c\u4ec0\u83f2\u9f50\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Alm\u00e1sf\u00fczit\u0151"
-    ],
-    "name:ger_x_preferred":[
-        "Alm\u00e1sf\u00fczit\u0151"
-    ],
     "name:hun_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
@@ -48,9 +39,6 @@
         "Kiskol\u00f3nia"
     ],
     "name:ita_x_preferred":[
-        "Alm\u00e1sf\u00fczit\u0151"
-    ],
-    "name:may_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
     "name:msa_x_preferred":[
@@ -62,22 +50,13 @@
     "name:nld_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0633\u0641\u0648\u0632\u06cc\u062a\u0648"
-    ],
     "name:pol_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
     "name:ron_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Alm\u00e1sf\u00fczit\u0151"
-    ],
     "name:slk_x_preferred":[
-        "Alm\u00e1sf\u00fczit\u0151"
-    ],
-    "name:slo_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u9a6c\u4ec0\u83f2\u9f50\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -135,7 +117,7 @@
         }
     ],
     "wof:id":101785791,
-    "wof:lastmodified":1527677692,
+    "wof:lastmodified":1561751555,
     "wof:name":"Alm\u00e1sf\u00fczit\u0151",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

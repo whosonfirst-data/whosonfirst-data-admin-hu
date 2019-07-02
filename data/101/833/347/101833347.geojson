@@ -20,13 +20,7 @@
     "name:bul_x_preferred":[
         "\u0418\u043a\u043b\u0430\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u514b\u6d1b\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Iklad"
-    ],
-    "name:dut_x_preferred":[
         "Iklad"
     ],
     "name:eng_x_preferred":[
@@ -38,19 +32,10 @@
     "name:fra_x_preferred":[
         "Iklad"
     ],
-    "name:fre_x_preferred":[
-        "Iklad"
-    ],
-    "name:ger_x_preferred":[
-        "Iklad"
-    ],
     "name:hun_x_preferred":[
         "Iklad"
     ],
     "name:ita_x_preferred":[
-        "Iklad"
-    ],
-    "name:may_x_preferred":[
         "Iklad"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "Iklad"
     ],
-    "name:rum_x_preferred":[
-        "Iklad"
-    ],
     "name:slk_x_preferred":[
-        "Iklad"
-    ],
-    "name:slo_x_preferred":[
         "Iklad"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642924,
+    "wof:lastmodified":1561751551,
     "wof:name":"Iklad",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

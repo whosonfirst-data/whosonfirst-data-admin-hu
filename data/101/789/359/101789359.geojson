@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":668273.903199,
+    "geom:area_square_m":668273.903198,
     "geom:bbox":"17.3765879078,46.7974301196,17.3862154072,46.8166784519",
     "geom:latitude":46.804516,
     "geom:longitude":17.38088,
@@ -16,13 +16,7 @@
     "mps:longitude":17.380807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u6258\u5948\u4ee3\u91cc\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Balatonederics"
-    ],
-    "name:dut_x_preferred":[
         "Balatonederics"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Balatonederics"
     ],
-    "name:fre_x_preferred":[
-        "Balatonederics"
-    ],
-    "name:ger_x_preferred":[
-        "Balatonederics"
-    ],
     "name:hun_x_preferred":[
         "Balatonederics"
     ],
     "name:ita_x_preferred":[
-        "Balatonederics"
-    ],
-    "name:may_x_preferred":[
         "Balatonederics"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Balatonederics"
     ],
-    "name:rum_x_preferred":[
-        "Balatonederics"
-    ],
     "name:slk_x_preferred":[
-        "Balatonederics"
-    ],
-    "name:slo_x_preferred":[
         "Balatonederics"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"Balatonederics",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

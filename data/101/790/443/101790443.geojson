@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1506278.516569,
+    "geom:area_square_m":1506278.51657,
     "geom:bbox":"19.9094289072,46.3131805254,19.933401942,46.3266724492",
     "geom:latitude":46.319751,
     "geom:longitude":19.921589,
@@ -17,12 +17,6 @@
     "mps:longitude":19.922406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u535a\u5c14\u8fbe\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Bord\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "Kistemplomtanya"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Bord\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Bord\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Bordany"
     ],
@@ -42,9 +33,6 @@
         "Bord\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Bord\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Bord\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Bord\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Bord\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Bord\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Bord\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Bord\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u8fbe\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Csongr\u00e1d",
@@ -133,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641601,
+    "wof:lastmodified":1561751537,
     "wof:name":"Bord\u00e1ny",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

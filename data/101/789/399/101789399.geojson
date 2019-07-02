@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":2294086.857628,
+    "geom:area_square_m":2294086.857629,
     "geom:bbox":"21.4297776599,46.7648194239,21.4600328342,46.781417769",
     "geom:latitude":46.773714,
     "geom:longitude":21.444212,
@@ -17,12 +17,6 @@
     "mps:longitude":21.442951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6885\u8d6b\u51ef\u96f7\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "M\u00e9hker\u00e9k"
-    ],
     "name:eng_x_preferred":[
         "M\u00e9hker\u00e9k"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "M\u00e9hker\u00e9k"
     ],
-    "name:fre_x_preferred":[
-        "M\u00e9hker\u00e9k"
-    ],
     "name:hun_x_colloquial":[
         "Mehkerek"
     ],
@@ -42,9 +33,6 @@
         "M\u00e9hker\u00e9k"
     ],
     "name:ita_x_preferred":[
-        "M\u00e9hker\u00e9k"
-    ],
-    "name:may_x_preferred":[
         "M\u00e9hker\u00e9k"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Micherechi"
     ],
-    "name:rum_x_preferred":[
-        "Micherechi"
-    ],
     "name:slk_x_preferred":[
-        "M\u00e9hker\u00e9k"
-    ],
-    "name:slo_x_preferred":[
         "M\u00e9hker\u00e9k"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e9hker\u00e9k"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u8d6b\u51ef\u96f7\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1561751587,
     "wof:name":"M\u00e9hker\u00e9k",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

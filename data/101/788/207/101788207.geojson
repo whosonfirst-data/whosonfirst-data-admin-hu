@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000441,
-    "geom:area_square_m":3689987.127642,
+    "geom:area_square_m":3689987.127641,
     "geom:bbox":"20.1440341093,47.3556455088,20.1826407735,47.3764673654",
     "geom:latitude":47.366602,
     "geom:longitude":20.165125,
@@ -20,12 +20,6 @@
     "name:ces_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
-    "name:cze_x_preferred":[
-        "J\u00e1szlad\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
-        "J\u00e1szlad\u00e1ny"
-    ],
     "name:eng_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
@@ -33,9 +27,6 @@
         "J\u00e1szlad\u00e1ny"
     ],
     "name:fra_x_preferred":[
-        "J\u00e1szlad\u00e1ny"
-    ],
-    "name:fre_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
     "name:heb_x_preferred":[
@@ -50,9 +41,6 @@
     "name:ita_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
-    "name:may_x_preferred":[
-        "J\u00e1szlad\u00e1ny"
-    ],
     "name:msa_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1szlad\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1szlad\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715576,
+    "wof:lastmodified":1561751577,
     "wof:name":"J\u00e1szlad\u00e1ny",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

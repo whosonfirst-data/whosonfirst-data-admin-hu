@@ -20,10 +20,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0447\u0435\u043f"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u76d6\u7279\u5207\u666e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szigetcs\u00e9p"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
     "name:fra_x_preferred":[
         "Szigetcs\u00e9p"
     ],
-    "name:fre_x_preferred":[
-        "Szigetcs\u00e9p"
-    ],
-    "name:ger_x_preferred":[
-        "Szigetcs\u00e9p"
-    ],
     "name:hun_x_colloquial":[
         "Szigetcsep"
     ],
@@ -48,9 +39,6 @@
         "Szigetcs\u00e9p"
     ],
     "name:ita_x_preferred":[
-        "Szigetcs\u00e9p"
-    ],
-    "name:may_x_preferred":[
         "Szigetcs\u00e9p"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +53,7 @@
     "name:ron_x_preferred":[
         "Szigetcs\u00e9p"
     ],
-    "name:rum_x_preferred":[
-        "Szigetcs\u00e9p"
-    ],
     "name:slk_x_preferred":[
-        "Szigetcs\u00e9p"
-    ],
-    "name:slo_x_preferred":[
         "Szigetcs\u00e9p"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Szigetcs\u00e9p"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u76d6\u7279\u5207\u666e"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642929,
+    "wof:lastmodified":1561751553,
     "wof:name":"Szigetcs\u00e9p",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

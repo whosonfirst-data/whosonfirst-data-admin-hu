@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000652,
-    "geom:area_square_m":5475284.060254,
+    "geom:area_square_m":5475284.060255,
     "geom:bbox":"18.8661831412,47.235854229,18.9170425398,47.2590359239",
     "geom:latitude":47.248436,
     "geom:longitude":18.893612,
@@ -17,13 +17,7 @@
     "mps:longitude":18.897465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u5947"
-    ],
     "name:deu_x_preferred":[
-        "Ercsi"
-    ],
-    "name:dut_x_preferred":[
         "Ercsi"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Ercsi"
     ],
     "name:fra_x_preferred":[
-        "Ercsi"
-    ],
-    "name:fre_x_preferred":[
-        "Ercsi"
-    ],
-    "name:ger_x_preferred":[
         "Ercsi"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +47,6 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30c1"
     ],
-    "name:may_x_preferred":[
-        "Ercsi"
-    ],
     "name:msa_x_preferred":[
         "Ercsi"
     ],
@@ -77,16 +62,10 @@
     "name:ron_x_preferred":[
         "Ercsi"
     ],
-    "name:rum_x_preferred":[
-        "Ercsi"
-    ],
     "name:rup_x_preferred":[
         "Ercsi"
     ],
     "name:slk_x_preferred":[
-        "Ercsi"
-    ],
-    "name:slo_x_preferred":[
         "Ercsi"
     ],
     "name:slv_x_preferred":[
@@ -160,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751579,
     "wof:name":"Ercsi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

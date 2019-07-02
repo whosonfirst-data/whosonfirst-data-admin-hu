@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1635267.059718,
+    "geom:area_square_m":1635267.059717,
     "geom:bbox":"20.8160136763,48.1719441236,20.8413193695,48.1887631077",
     "geom:latitude":48.180366,
     "geom:longitude":20.829553,
@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
-    "name:chi_x_preferred":[
-        "\u7ecd\u7ea6\u74e6\u83ab\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Saj\u00f3v\u00e1mos"
-    ],
     "name:deu_x_preferred":[
-        "Saj\u00f3v\u00e1mos"
-    ],
-    "name:dut_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +38,6 @@
     "name:fra_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
-    "name:fre_x_preferred":[
-        "Saj\u00f3v\u00e1mos"
-    ],
-    "name:ger_x_preferred":[
-        "Saj\u00f3v\u00e1mos"
-    ],
     "name:hrv_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
@@ -68,10 +53,13 @@
     "name:lav_x_preferred":[
         "\u0160ajov\u0101mo\u0161a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
     "name:nan_x_preferred":[
+        "Saj\u00f3v\u00e1mos"
+    ],
+    "name:nld_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
     "name:nno_x_preferred":[
@@ -86,13 +74,13 @@
     "name:por_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
     "name:sco_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
     "name:slv_x_preferred":[
@@ -106,6 +94,9 @@
     ],
     "name:vie_x_preferred":[
         "Saj\u00f3v\u00e1mos"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u7ea6\u74e6\u83ab\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -157,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688321,
+    "wof:lastmodified":1561751560,
     "wof:name":"Saj\u00f3v\u00e1mos",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

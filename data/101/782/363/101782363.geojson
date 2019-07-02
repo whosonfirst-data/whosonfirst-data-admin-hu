@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1425885.166618,
+    "geom:area_square_m":1425885.166617,
     "geom:bbox":"22.6090426333,48.0779883503,22.6475003435,48.0964493547",
     "geom:latitude":48.085898,
     "geom:longitude":22.62606,
@@ -16,10 +16,7 @@
     "mps:longitude":22.624166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u7279\u9a6c\u5c14\u5207\u51ef"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Szatm\u00e1rcseke"
     ],
     "name:eng_x_preferred":[
@@ -29,12 +26,6 @@
         "Szatm\u00e1rcseke"
     ],
     "name:fra_x_preferred":[
-        "Szatm\u00e1rcseke"
-    ],
-    "name:fre_x_preferred":[
-        "Szatm\u00e1rcseke"
-    ],
-    "name:ger_x_preferred":[
         "Szatm\u00e1rcseke"
     ],
     "name:heb_x_preferred":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Szatm\u00e1rcseke"
     ],
-    "name:may_x_preferred":[
-        "Szatm\u00e1rcseke"
-    ],
     "name:msa_x_preferred":[
         "Szatm\u00e1rcseke"
     ],
@@ -64,16 +52,10 @@
     "name:ron_x_preferred":[
         "Szatm\u00e1rcseke"
     ],
-    "name:rum_x_preferred":[
-        "Szatm\u00e1rcseke"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0442\u043c\u0430\u0440\u0447\u0435\u043a\u0435"
     ],
     "name:slk_x_preferred":[
-        "Szatm\u00e1rcseke"
-    ],
-    "name:slo_x_preferred":[
         "Szatm\u00e1rcseke"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Szatm\u00e1rcseke"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u7279\u9a6c\u5c14\u5207\u51ef"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688316,
+    "wof:lastmodified":1561751558,
     "wof:name":"Szatm\u00e1rcseke",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

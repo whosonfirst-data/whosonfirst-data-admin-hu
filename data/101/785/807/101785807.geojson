@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1346246.902881,
+    "geom:area_square_m":1346246.902882,
     "geom:bbox":"18.3332486843,47.6731221177,18.3503324412,47.6916999823",
     "geom:latitude":47.682739,
     "geom:longitude":18.341269,
@@ -17,12 +17,6 @@
     "mps:longitude":18.342563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7d22\u83ab\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "Szom\u00f3d"
-    ],
     "name:eng_x_preferred":[
         "Szom\u00f3d"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "Szom\u00f3d"
     ],
-    "name:fre_x_preferred":[
-        "Szom\u00f3d"
-    ],
     "name:hun_x_colloquial":[
         "Szomod"
     ],
@@ -42,9 +33,6 @@
         "Szom\u00f3d"
     ],
     "name:ita_x_preferred":[
-        "Szom\u00f3d"
-    ],
-    "name:may_x_preferred":[
         "Szom\u00f3d"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Szom\u00f3d"
     ],
-    "name:rum_x_preferred":[
-        "Szom\u00f3d"
-    ],
     "name:slk_x_preferred":[
-        "Szom\u00f3d"
-    ],
-    "name:slo_x_preferred":[
         "Szom\u00f3d"
     ],
     "name:slv_x_preferred":[
@@ -76,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "Szom\u00f3d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u83ab\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Kom\u00e1rom-Esztergom",
@@ -127,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527684901,
+    "wof:lastmodified":1561751557,
     "wof:name":"Szom\u00f3d",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

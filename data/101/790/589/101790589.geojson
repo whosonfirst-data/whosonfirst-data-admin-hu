@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1805483.992606,
+    "geom:area_square_m":1805483.992607,
     "geom:bbox":"20.8135183287,46.4509937459,20.8365481191,46.4688131602",
     "geom:latitude":46.459695,
     "geom:longitude":20.82549,
@@ -20,12 +20,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0441\u0437\u0430\u043f\u0435\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u7ecd\u6d3e\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Kaszaper"
-    ],
     "name:eng_x_preferred":[
         "Kaszaper"
     ],
@@ -35,16 +29,10 @@
     "name:fra_x_preferred":[
         "Kaszaper"
     ],
-    "name:fre_x_preferred":[
-        "Kaszaper"
-    ],
     "name:hun_x_preferred":[
         "Kaszaper"
     ],
     "name:ita_x_preferred":[
-        "Kaszaper"
-    ],
-    "name:may_x_preferred":[
         "Kaszaper"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Kaszaper"
     ],
-    "name:rum_x_preferred":[
-        "Kaszaper"
-    ],
     "name:slk_x_preferred":[
-        "Kaszaper"
-    ],
-    "name:slo_x_preferred":[
         "Kaszaper"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561751536,
     "wof:name":"Kaszaper",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

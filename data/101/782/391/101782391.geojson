@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":2552460.742691,
+    "geom:area_square_m":2552460.742692,
     "geom:bbox":"20.715006405,48.390065656,20.7434938833,48.4153428034",
     "geom:latitude":48.403542,
     "geom:longitude":20.727332,
@@ -17,13 +17,7 @@
     "mps:longitude":20.731109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u68ee\u5fb7\u52d2"
-    ],
     "name:deu_x_preferred":[
-        "Szendr\u0151"
-    ],
-    "name:dut_x_preferred":[
         "Szendr\u0151"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Szendr\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Szendr\u0151"
-    ],
-    "name:ger_x_preferred":[
-        "Szendr\u0151"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d3\u05e8\u05d4"
     ],
@@ -48,9 +36,6 @@
         "Szendr\u0151"
     ],
     "name:ita_x_preferred":[
-        "Szendr\u0151"
-    ],
-    "name:may_x_preferred":[
         "Szendr\u0151"
     ],
     "name:msa_x_preferred":[
@@ -68,16 +53,13 @@
     "name:ron_x_preferred":[
         "Szendr\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Szendr\u0151"
-    ],
     "name:rup_x_preferred":[
         "Szendr\u0151"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0434\u0440\u0451"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Szendr\u0151"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Szendr\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u5fb7\u52d2"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -135,7 +120,7 @@
         }
     ],
     "wof:id":101782391,
-    "wof:lastmodified":1553815498,
+    "wof:lastmodified":1561751558,
     "wof:name":"Szendr\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

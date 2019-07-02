@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1545700.70124,
+    "geom:area_square_m":1545700.701241,
     "geom:bbox":"18.5879984989,47.6440090642,18.6129876795,47.6609191934",
     "geom:latitude":47.653113,
     "geom:longitude":18.60095,
@@ -17,10 +17,7 @@
     "mps:longitude":18.602844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u4f0a\u7459"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bajna"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Bajna"
     ],
-    "name:fre_x_preferred":[
-        "Bajna"
-    ],
-    "name:ger_x_preferred":[
-        "Bajna"
-    ],
     "name:hun_x_preferred":[
         "Bajna"
     ],
     "name:ita_x_preferred":[
-        "Bajna"
-    ],
-    "name:may_x_preferred":[
         "Bajna"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Bajna"
     ],
-    "name:rum_x_preferred":[
-        "Bajna"
-    ],
     "name:slk_x_preferred":[
-        "Bajna"
-    ],
-    "name:slo_x_preferred":[
         "Bajna"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715645,
+    "wof:lastmodified":1561751581,
     "wof:name":"Bajna",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

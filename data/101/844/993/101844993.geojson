@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
-    "geom:area_square_m":1735193.564616,
+    "geom:area_square_m":1735193.564617,
     "geom:bbox":"17.5159503108,47.5899128855,17.5469265085,47.6084464227",
     "geom:latitude":47.600148,
     "geom:longitude":17.531042,
@@ -16,12 +16,6 @@
     "mps:longitude":17.524309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u79d1\u9f99\u63aa"
-    ],
-    "name:dut_x_preferred":[
-        "Koronc\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Koronc\u00f3"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Koronc\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Koronc\u00f3"
-    ],
     "name:hun_x_colloquial":[
         "Koronco"
     ],
@@ -41,9 +32,6 @@
         "Koronc\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Koronc\u00f3"
-    ],
-    "name:may_x_preferred":[
         "Koronc\u00f3"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Koronc\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Koronc\u00f3"
-    ],
     "name:slk_x_preferred":[
-        "Koronc\u00f3"
-    ],
-    "name:slo_x_preferred":[
         "Koronc\u00f3"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Koronc\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9f99\u63aa"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1561751548,
     "wof:name":"Koronc\u00f3",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -17,12 +17,6 @@
     "mps:longitude":20.484535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u4f2f"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszab\u0151"
-    ],
     "name:eng_x_preferred":[
         "Tiszab\u0151"
     ],
@@ -32,16 +26,10 @@
     "name:fra_x_preferred":[
         "Tiszab\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Tiszab\u0151"
-    ],
     "name:hun_x_preferred":[
         "Tiszab\u0151"
     ],
     "name:ita_x_preferred":[
-        "Tiszab\u0151"
-    ],
-    "name:may_x_preferred":[
         "Tiszab\u0151"
     ],
     "name:msa_x_preferred":[
@@ -56,13 +44,7 @@
     "name:ron_x_preferred":[
         "Tiszab\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Tiszab\u0151"
-    ],
     "name:slk_x_preferred":[
-        "Tiszab\u0151"
-    ],
-    "name:slo_x_preferred":[
         "Tiszab\u0151"
     ],
     "name:slv_x_preferred":[
@@ -73,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszab\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u4f2f"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":101788215,
-    "wof:lastmodified":1527715575,
+    "wof:lastmodified":1561751577,
     "wof:name":"Tiszab\u0151",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

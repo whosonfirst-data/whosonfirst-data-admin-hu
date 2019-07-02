@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000148,
-    "geom:area_square_m":1216408.307102,
+    "geom:area_square_m":1216408.307101,
     "geom:bbox":"21.1184515782,48.3739402329,21.1305856187,48.3992675987",
     "geom:latitude":48.385642,
     "geom:longitude":21.124505,
@@ -16,13 +16,7 @@
     "mps:longitude":21.12593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u6d1b\u68ee\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Szalaszend"
-    ],
-    "name:dut_x_preferred":[
         "Szalaszend"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Szalaszend"
     ],
-    "name:fre_x_preferred":[
-        "Szalaszend"
-    ],
-    "name:ger_x_preferred":[
-        "Szalaszend"
-    ],
     "name:hun_x_preferred":[
         "Szalaszend"
     ],
     "name:ita_x_preferred":[
-        "Szalaszend"
-    ],
-    "name:may_x_preferred":[
         "Szalaszend"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Szalaszend"
     ],
-    "name:rum_x_preferred":[
-        "Szalaszend"
-    ],
     "name:slk_x_preferred":[
-        "Szalaszend"
-    ],
-    "name:slo_x_preferred":[
         "Szalaszend"
     ],
     "name:slv_x_preferred":[
@@ -132,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Szalaszend",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

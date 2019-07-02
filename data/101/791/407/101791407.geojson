@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00051,
-    "geom:area_square_m":4369411.366459,
+    "geom:area_square_m":4369411.366457,
     "geom:bbox":"19.3172690065,46.1132074684,19.351484868,46.1388684723",
     "geom:latitude":46.126308,
     "geom:longitude":19.333258,
@@ -17,16 +17,10 @@
     "mps:longitude":19.330666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u55ac\u723e\u99ac\u4ec0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
     "name:deu_x_preferred":[
-        "B\u00e1csalm\u00e1s"
-    ],
-    "name:dut_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "B\u00e1csalm\u00e1s"
     ],
     "name:fra_x_preferred":[
-        "B\u00e1csalm\u00e1s"
-    ],
-    "name:fre_x_preferred":[
-        "B\u00e1csalm\u00e1s"
-    ],
-    "name:ger_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
     "name:heb_x_preferred":[
@@ -63,9 +51,6 @@
     "name:ita_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
-    "name:may_x_preferred":[
-        "B\u00e1csalm\u00e1s"
-    ],
     "name:msa_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
@@ -81,16 +66,13 @@
     "name:ron_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
-    "name:rum_x_preferred":[
-        "B\u00e1csalm\u00e1s"
-    ],
     "name:rup_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0447\u0430\u043b\u044c\u043c\u0430\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u00e1csalm\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -113,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00e1csalm\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u55ac\u723e\u99ac\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -164,7 +149,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641955,
+    "wof:lastmodified":1561751541,
     "wof:name":"B\u00e1csalm\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

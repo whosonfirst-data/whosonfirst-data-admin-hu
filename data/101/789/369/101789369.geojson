@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000775,
-    "geom:area_square_m":6542868.661314,
+    "geom:area_square_m":6542868.661316,
     "geom:bbox":"17.8559761326,46.9414208303,17.9173035591,46.975062462",
     "geom:latitude":46.959537,
     "geom:longitude":17.886382,
@@ -17,16 +17,7 @@
     "mps:longitude":17.886382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056c\u0561\u057f\u0578\u0576\u0586\u0575\u0578\u0582\u0580\u0565\u0564"
-    ],
     "name:ces_x_preferred":[
-        "Balatonf\u00fcred"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u9813\u83f2\u8cf4\u5fb7"
-    ],
-    "name:cze_x_preferred":[
         "Balatonf\u00fcred"
     ],
     "name:dan_x_preferred":[
@@ -36,9 +27,6 @@
         "Balatonf\u00fcred"
     ],
     "name:dsb_x_preferred":[
-        "Balatonf\u00fcred"
-    ],
-    "name:dut_x_preferred":[
         "Balatonf\u00fcred"
     ],
     "name:eng_x_preferred":[
@@ -53,12 +41,6 @@
     "name:fra_x_preferred":[
         "Balatonf\u00fcred"
     ],
-    "name:fre_x_preferred":[
-        "Balatonf\u00fcred"
-    ],
-    "name:ger_x_preferred":[
-        "Balatonf\u00fcred"
-    ],
     "name:hrv_x_preferred":[
         "Balatonfured"
     ],
@@ -69,6 +51,9 @@
     "name:hun_x_preferred":[
         "Balatonf\u00fcred"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0561\u057f\u0578\u0576\u0586\u0575\u0578\u0582\u0580\u0565\u0564"
+    ],
     "name:ita_x_preferred":[
         "Balatonf\u00fcred"
     ],
@@ -78,10 +63,13 @@
     "name:lit_x_preferred":[
         "Balatonfiuredas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Balatonf\u00fcred"
     ],
     "name:nan_x_preferred":[
+        "Balatonf\u00fcred"
+    ],
+    "name:nld_x_preferred":[
         "Balatonf\u00fcred"
     ],
     "name:nno_x_preferred":[
@@ -90,13 +78,10 @@
     "name:nob_x_preferred":[
         "Balatonf\u00fcred"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u0627\u062a\u0646\u0641\u0648\u0631\u062f"
-    ],
     "name:pol_x_preferred":[
         "Balatonf\u00fcred"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Balatonf\u00fcred"
     ],
     "name:rup_x_preferred":[
@@ -105,7 +90,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u043e\u043d\u0444\u044e\u0440\u0435\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Balatonf\u00fcred"
     ],
     "name:slv_x_preferred":[
@@ -183,7 +168,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1561751590,
     "wof:name":"Balatonf\u00fcred",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

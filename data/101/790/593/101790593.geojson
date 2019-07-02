@@ -20,16 +20,7 @@
     "name:ces_x_preferred":[
         "L\u0151k\u00f6sh\u00e1za"
     ],
-    "name:chi_x_preferred":[
-        "\u52d2\u514b\u4ec0\u54c8\u4f50"
-    ],
-    "name:cze_x_preferred":[
-        "L\u0151k\u00f6sh\u00e1za"
-    ],
     "name:deu_x_preferred":[
-        "L\u0151k\u00f6sh\u00e1za"
-    ],
-    "name:dut_x_preferred":[
         "L\u0151k\u00f6sh\u00e1za"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +32,10 @@
     "name:fra_x_preferred":[
         "L\u0151k\u00f6sh\u00e1za"
     ],
-    "name:fre_x_preferred":[
-        "L\u0151k\u00f6sh\u00e1za"
-    ],
-    "name:ger_x_preferred":[
-        "L\u0151k\u00f6sh\u00e1za"
-    ],
     "name:hun_x_preferred":[
         "L\u0151k\u00f6sh\u00e1za"
     ],
     "name:ita_x_preferred":[
-        "L\u00f6k\u00f6sh\u00e1za"
-    ],
-    "name:may_x_preferred":[
         "L\u00f6k\u00f6sh\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -71,10 +53,10 @@
     "name:ron_x_preferred":[
         "Leucu\u0219haz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "L\u0151k\u00f6sh\u00e1za"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "L\u0151k\u00f6sh\u00e1za"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "L\u0151k\u00f6sh\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u514b\u4ec0\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -132,7 +117,7 @@
         }
     ],
     "wof:id":101790593,
-    "wof:lastmodified":1527641594,
+    "wof:lastmodified":1561751532,
     "wof:name":"L\u0151k\u00f6sh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
-    "geom:area_square_m":4468040.433388,
+    "geom:area_square_m":4468040.43339,
     "geom:bbox":"18.9175304293,47.2018737037,18.9754048203,47.2424031548",
     "geom:latitude":47.226373,
     "geom:longitude":18.952316,
@@ -17,10 +17,7 @@
     "mps:longitude":18.959113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u897f\u76d6\u56fe\u4f0a\u798f\u5362"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sziget\u00fajfalu"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +29,6 @@
     "name:fra_x_preferred":[
         "Sziget\u00fajfalu"
     ],
-    "name:fre_x_preferred":[
-        "Sziget\u00fajfalu"
-    ],
-    "name:ger_x_preferred":[
-        "Sziget\u00fajfalu"
-    ],
     "name:hun_x_colloquial":[
         "Szigetujfalu"
     ],
@@ -45,9 +36,6 @@
         "Sziget\u00fajfalu"
     ],
     "name:ita_x_preferred":[
-        "Sziget\u00fajfalu"
-    ],
-    "name:may_x_preferred":[
         "Sziget\u00fajfalu"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "Sziget\u00fajfalu"
     ],
-    "name:rum_x_preferred":[
-        "Sziget\u00fajfalu"
-    ],
     "name:slk_x_preferred":[
-        "Sziget\u00fajfalu"
-    ],
-    "name:slo_x_preferred":[
         "Sziget\u00fajfalu"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Sziget\u00fajfalu"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u76d6\u56fe\u4f0a\u798f\u5362"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751578,
     "wof:name":"Sziget\u00fajfalu",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

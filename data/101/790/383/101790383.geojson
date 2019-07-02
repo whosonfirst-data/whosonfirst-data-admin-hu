@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":728143.656407,
+    "geom:area_square_m":728143.656406,
     "geom:bbox":"20.1014604177,46.6585085004,20.1170107304,46.6693217622",
     "geom:latitude":46.664262,
     "geom:longitude":20.110095,
@@ -16,12 +16,6 @@
     "mps:longitude":20.110861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8d39\u5c14\u54f2"
-    ],
-    "name:dut_x_preferred":[
-        "Felgy\u0151"
-    ],
     "name:eng_x_preferred":[
         "Felgy\u0151"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Felgy\u0151"
     ],
-    "name:fre_x_preferred":[
-        "Felgy\u0151"
-    ],
     "name:hun_x_preferred":[
         "Felgy\u0151"
     ],
     "name:ita_x_preferred":[
-        "Felgy\u0151"
-    ],
-    "name:may_x_preferred":[
         "Felgy\u0151"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Felgy\u0151"
     ],
-    "name:rum_x_preferred":[
-        "Felgy\u0151"
-    ],
     "name:slk_x_preferred":[
-        "Felgy\u0151"
-    ],
-    "name:slo_x_preferred":[
         "Felgy\u0151"
     ],
     "name:slv_x_preferred":[
@@ -69,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Felgy\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u54f2"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Csongr\u00e1d",
@@ -112,7 +97,7 @@
         }
     ],
     "wof:id":101790383,
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Felgy\u0151",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

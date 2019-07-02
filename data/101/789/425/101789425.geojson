@@ -20,9 +20,6 @@
     "name:cbk_zam_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
-    "name:dut_x_preferred":[
-        "Szabadbatty\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
@@ -32,9 +29,6 @@
     "name:fra_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Szabadbatty\u00e1n"
-    ],
     "name:hun_x_colloquial":[
         "Szabadbattyan"
     ],
@@ -42,9 +36,6 @@
         "Szabadbatty\u00e1n"
     ],
     "name:ita_x_preferred":[
-        "Szabadbatty\u00e1n"
-    ],
-    "name:may_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +50,7 @@
     "name:ron_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
-    "name:rum_x_preferred":[
-        "Szabadbatty\u00e1n"
-    ],
     "name:slk_x_preferred":[
-        "Szabadbatty\u00e1n"
-    ],
-    "name:slo_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1535390527,
+    "wof:lastmodified":1561751588,
     "wof:name":"Szabadbatty\u00e1n",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

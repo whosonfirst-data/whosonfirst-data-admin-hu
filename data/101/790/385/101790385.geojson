@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001431,
-    "geom:area_square_m":12149056.211246,
+    "geom:area_square_m":12149056.211248,
     "geom:bbox":"20.2279128006,46.6234983176,20.2871427386,46.6786746992",
     "geom:latitude":46.654243,
     "geom:longitude":20.259846,
@@ -21,19 +21,10 @@
     "name:ces_x_preferred":[
         "Szentes"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u7279\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Szentes"
-    ],
     "name:deu_x_preferred":[
         "Szentes"
     ],
     "name:dsb_x_preferred":[
-        "Szentes"
-    ],
-    "name:dut_x_preferred":[
         "Szentes"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +40,6 @@
         "\u0633\u0646\u062a\u0634"
     ],
     "name:fra_x_preferred":[
-        "Szentes"
-    ],
-    "name:fre_x_preferred":[
-        "Szentes"
-    ],
-    "name:ger_x_preferred":[
         "Szentes"
     ],
     "name:hbs_x_preferred":[
@@ -78,9 +63,6 @@
     "name:kor_x_preferred":[
         "\uc13c\ud14c\uc2dc"
     ],
-    "name:may_x_preferred":[
-        "Szentes"
-    ],
     "name:msa_x_preferred":[
         "Szentes"
     ],
@@ -93,9 +75,6 @@
     "name:nno_x_preferred":[
         "Szentes"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a\u0634"
-    ],
     "name:pol_x_preferred":[
         "Szentes"
     ],
@@ -105,7 +84,7 @@
     "name:ron_x_preferred":[
         "Szentes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "S\u00e2ntam\u0103ria"
     ],
     "name:rup_x_preferred":[
@@ -115,9 +94,6 @@
         "\u0421\u0435\u043d\u0442\u0435\u0448"
     ],
     "name:slk_x_preferred":[
-        "Szentes"
-    ],
-    "name:slo_x_preferred":[
         "Szentes"
     ],
     "name:slv_x_preferred":[
@@ -192,7 +168,7 @@
         }
     ],
     "wof:id":101790385,
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561751535,
     "wof:name":"Szentes",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

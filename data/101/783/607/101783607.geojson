@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":1834761.974793,
+    "geom:area_square_m":1834761.974792,
     "geom:bbox":"20.7283952671,47.9507780666,20.7507736246,47.9811574889",
     "geom:latitude":47.967615,
     "geom:longitude":20.740645,
@@ -17,13 +17,7 @@
     "mps:longitude":20.73895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c6a\u5c14\u6c99\u5c3c"
-    ],
     "name:deu_x_preferred":[
-        "Hars\u00e1ny"
-    ],
-    "name:dut_x_preferred":[
         "Hars\u00e1ny"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "Hars\u00e1ny"
     ],
-    "name:fre_x_preferred":[
-        "Hars\u00e1ny"
-    ],
-    "name:ger_x_preferred":[
-        "Hars\u00e1ny"
-    ],
     "name:hun_x_colloquial":[
         "Harsany"
     ],
@@ -48,9 +36,6 @@
         "Hars\u00e1ny"
     ],
     "name:ita_x_preferred":[
-        "Hars\u00e1ny"
-    ],
-    "name:may_x_preferred":[
         "Hars\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +53,7 @@
     "name:ron_x_preferred":[
         "Hars\u00e1ny"
     ],
-    "name:rum_x_preferred":[
-        "Hars\u00e1ny"
-    ],
     "name:slk_x_preferred":[
-        "Hars\u00e1ny"
-    ],
-    "name:slo_x_preferred":[
         "Hars\u00e1ny"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Hars\u00e1ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u5c14\u6c99\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -136,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815499,
+    "wof:lastmodified":1561751565,
     "wof:name":"Hars\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

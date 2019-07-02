@@ -17,10 +17,7 @@
     "mps:longitude":21.838145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62dc\u65af\u6cf0\u8d56\u8328"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beszterec"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,10 @@
     "name:fra_x_preferred":[
         "Beszterec"
     ],
-    "name:fre_x_preferred":[
-        "Beszterec"
-    ],
-    "name:ger_x_preferred":[
-        "Beszterec"
-    ],
     "name:hun_x_preferred":[
         "Beszterec"
     ],
     "name:ita_x_preferred":[
-        "Beszterec"
-    ],
-    "name:may_x_preferred":[
         "Beszterec"
     ],
     "name:msa_x_preferred":[
@@ -59,13 +47,7 @@
     "name:ron_x_preferred":[
         "Beszterec"
     ],
-    "name:rum_x_preferred":[
-        "Beszterec"
-    ],
     "name:slk_x_preferred":[
-        "Beszterec"
-    ],
-    "name:slo_x_preferred":[
         "Beszterec"
     ],
     "name:slv_x_preferred":[
@@ -120,7 +102,7 @@
         }
     ],
     "wof:id":101782331,
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Beszterec",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

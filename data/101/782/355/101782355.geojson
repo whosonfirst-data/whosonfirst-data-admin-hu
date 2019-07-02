@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1954367.543269,
+    "geom:area_square_m":1954367.543271,
     "geom:bbox":"22.5179852563,48.094443521,22.5502650521,48.1183370402",
     "geom:latitude":48.106404,
     "geom:longitude":22.533145,
@@ -20,7 +20,7 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u043f\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tarpa"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +32,10 @@
     "name:fra_x_preferred":[
         "Tarpa"
     ],
-    "name:fre_x_preferred":[
-        "Tarpa"
-    ],
-    "name:ger_x_preferred":[
-        "Tarpa"
-    ],
     "name:hun_x_preferred":[
         "Tarpa"
     ],
     "name:ita_x_preferred":[
-        "Tarpa"
-    ],
-    "name:may_x_preferred":[
         "Tarpa"
     ],
     "name:msa_x_preferred":[
@@ -59,16 +50,10 @@
     "name:ron_x_preferred":[
         "Tarpa"
     ],
-    "name:rum_x_preferred":[
-        "Tarpa"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u043f\u0430"
     ],
     "name:slk_x_preferred":[
-        "Tarpa"
-    ],
-    "name:slo_x_preferred":[
         "Tarpa"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688315,
+    "wof:lastmodified":1561751558,
     "wof:name":"Tarpa",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

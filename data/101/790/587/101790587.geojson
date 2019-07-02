@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":1865334.03426,
+    "geom:area_square_m":1865334.034262,
     "geom:bbox":"20.8919756615,46.4512462046,20.9153746618,46.4711117448",
     "geom:latitude":46.460024,
     "geom:longitude":20.90276,
@@ -16,12 +16,6 @@
     "mps:longitude":20.900811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u73ed\u6d77\u6770\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Nagyb\u00e1nhegyes"
-    ],
     "name:eng_x_preferred":[
         "Nagyb\u00e1nhegyes"
     ],
@@ -31,9 +25,6 @@
     "name:fra_x_preferred":[
         "Nagyb\u00e1nhegyes"
     ],
-    "name:fre_x_preferred":[
-        "Nagyb\u00e1nhegyes"
-    ],
     "name:hun_x_colloquial":[
         "Nagybanhegyes"
     ],
@@ -41,9 +32,6 @@
         "Nagyb\u00e1nhegyes"
     ],
     "name:ita_x_preferred":[
-        "Nagyb\u00e1nhegyes"
-    ],
-    "name:may_x_preferred":[
         "Nagyb\u00e1nhegyes"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "Nagyb\u00e1nhegyes"
     ],
-    "name:rum_x_preferred":[
-        "Nagyb\u00e1nhegyes"
-    ],
     "name:slk_x_preferred":[
-        "Slovensk\u00fd B\u00e1nhede\u0161"
-    ],
-    "name:slo_x_preferred":[
         "Slovensk\u00fd B\u00e1nhede\u0161"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Nagyb\u00e1nhegyes"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u73ed\u6d77\u6770\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -122,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561751536,
     "wof:name":"Nagyb\u00e1nhegyes",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

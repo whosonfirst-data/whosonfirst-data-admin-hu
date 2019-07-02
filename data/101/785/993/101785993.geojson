@@ -17,7 +17,7 @@
     "mps:longitude":22.130452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ny\u00edrb\u00e9ltek"
     ],
     "name:eng_x_preferred":[
@@ -27,12 +27,6 @@
         "Ny\u00edrb\u00e9ltek"
     ],
     "name:fra_x_preferred":[
-        "Ny\u00edrb\u00e9ltek"
-    ],
-    "name:fre_x_preferred":[
-        "Ny\u00edrb\u00e9ltek"
-    ],
-    "name:ger_x_preferred":[
         "Ny\u00edrb\u00e9ltek"
     ],
     "name:hun_x_colloquial":[
@@ -48,9 +42,6 @@
     "name:ita_x_preferred":[
         "Ny\u00edrb\u00e9ltek"
     ],
-    "name:may_x_preferred":[
-        "Ny\u00edrb\u00e9ltek"
-    ],
     "name:msa_x_preferred":[
         "Ny\u00edrb\u00e9ltek"
     ],
@@ -63,16 +54,10 @@
     "name:ron_x_preferred":[
         "Ny\u00edrb\u00e9ltek"
     ],
-    "name:rum_x_preferred":[
-        "Ny\u00edrb\u00e9ltek"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u0438\u0440\u0431\u0435\u043b\u044c\u0442\u0435\u043a"
     ],
     "name:slk_x_preferred":[
-        "Ny\u00edrb\u00e9ltek"
-    ],
-    "name:slo_x_preferred":[
         "Ny\u00edrb\u00e9ltek"
     ],
     "name:slv_x_preferred":[
@@ -140,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677699,
+    "wof:lastmodified":1561751556,
     "wof:name":"Ny\u00edrb\u00e9ltek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -16,13 +16,7 @@
     "mps:longitude":18.005297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7459\u5409\u62dc\u5c14\u57fa"
-    ],
     "name:deu_x_preferred":[
-        "Nagyberki"
-    ],
-    "name:dut_x_preferred":[
         "Nagyberki"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Nagyberki"
     ],
-    "name:fre_x_preferred":[
-        "Nagyberki"
-    ],
-    "name:ger_x_preferred":[
-        "Nagyberki"
-    ],
     "name:hun_x_preferred":[
         "Nagyberki"
     ],
     "name:ita_x_preferred":[
-        "Nagyberki"
-    ],
-    "name:may_x_preferred":[
         "Nagyberki"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Nagyberki"
     ],
-    "name:rum_x_preferred":[
-        "Nagyberki"
-    ],
     "name:slk_x_preferred":[
-        "Nagyberki"
-    ],
-    "name:slo_x_preferred":[
         "Nagyberki"
     ],
     "name:slv_x_preferred":[
@@ -132,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642936,
+    "wof:lastmodified":1561751554,
     "wof:name":"Nagyberki",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

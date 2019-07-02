@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1486254.874581,
+    "geom:area_square_m":1486254.87458,
     "geom:bbox":"17.9319437526,46.5238151823,17.9493354549,46.5511056368",
     "geom:latitude":46.539136,
     "geom:longitude":17.940054,
@@ -16,13 +16,7 @@
     "mps:longitude":17.938012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u9ad8\u723e"
-    ],
     "name:deu_x_preferred":[
-        "Igal"
-    ],
-    "name:dut_x_preferred":[
         "Igal"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Igal"
     ],
-    "name:fre_x_preferred":[
-        "Igal"
-    ],
-    "name:ger_x_preferred":[
-        "Igal"
-    ],
     "name:hun_x_preferred":[
         "Igal"
     ],
     "name:ita_x_preferred":[
-        "Igal"
-    ],
-    "name:may_x_preferred":[
         "Igal"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Igal"
     ],
-    "name:rum_x_preferred":[
-        "Igal"
-    ],
     "name:slk_x_preferred":[
-        "Igal"
-    ],
-    "name:slo_x_preferred":[
         "Igal"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1553815504,
+    "wof:lastmodified":1561751532,
     "wof:name":"Igal",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

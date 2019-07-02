@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1486297.285699,
+    "geom:area_square_m":1486297.2857,
     "geom:bbox":"18.4477844961,46.3977506144,18.464047649,46.4253868603",
     "geom:latitude":46.410162,
     "geom:longitude":18.455218,
@@ -16,10 +16,7 @@
     "mps:longitude":18.455095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6cf0\u97e6\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tevel"
     ],
     "name:eng_x_preferred":[
@@ -31,19 +28,10 @@
     "name:fra_x_preferred":[
         "Tevel"
     ],
-    "name:fre_x_preferred":[
-        "Tevel"
-    ],
-    "name:ger_x_preferred":[
-        "Tevel"
-    ],
     "name:hun_x_preferred":[
         "Tevel"
     ],
     "name:ita_x_preferred":[
-        "Tevel"
-    ],
-    "name:may_x_preferred":[
         "Tevel"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +46,7 @@
     "name:ron_x_preferred":[
         "Tevel"
     ],
-    "name:rum_x_preferred":[
-        "Tevel"
-    ],
     "name:slk_x_preferred":[
-        "Tevel"
-    ],
-    "name:slo_x_preferred":[
         "Tevel"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561751535,
     "wof:name":"Tevel",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

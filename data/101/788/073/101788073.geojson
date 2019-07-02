@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1296506.60561,
+    "geom:area_square_m":1296506.605611,
     "geom:bbox":"17.2913007603,47.266386325,17.3152319856,47.2823127682",
     "geom:latitude":47.274076,
     "geom:longitude":17.301126,
@@ -16,12 +16,6 @@
     "mps:longitude":17.299313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5948\u8fc8\u4ec0\u7ecd\u6d1b\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Nemesszal\u00f3k"
-    ],
     "name:eng_x_preferred":[
         "Nemesszal\u00f3k"
     ],
@@ -29,9 +23,6 @@
         "Nemesszal\u00f3k"
     ],
     "name:fra_x_preferred":[
-        "Nemesszal\u00f3k"
-    ],
-    "name:fre_x_preferred":[
         "Nemesszal\u00f3k"
     ],
     "name:hun_x_colloquial":[
@@ -49,9 +40,6 @@
     "name:ita_x_preferred":[
         "Nemesszal\u00f3k"
     ],
-    "name:may_x_preferred":[
-        "Nemesszal\u00f3k"
-    ],
     "name:msa_x_preferred":[
         "Nemesszal\u00f3k"
     ],
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "Nemesszal\u00f3k"
     ],
-    "name:rum_x_preferred":[
-        "Nemesszal\u00f3k"
-    ],
     "name:slk_x_preferred":[
-        "Nemesszal\u00f3k"
-    ],
-    "name:slo_x_preferred":[
         "Nemesszal\u00f3k"
     ],
     "name:slv_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Nemesszal\u00f3k"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u8fc8\u4ec0\u7ecd\u6d1b\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -128,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715575,
+    "wof:lastmodified":1561751576,
     "wof:name":"Nemesszal\u00f3k",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

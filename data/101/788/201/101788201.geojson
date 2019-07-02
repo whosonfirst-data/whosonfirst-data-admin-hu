@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":3301025.470847,
+    "geom:area_square_m":3301025.470845,
     "geom:bbox":"20.0802059495,47.353099376,20.1051611746,47.3833441111",
     "geom:latitude":47.370001,
     "geom:longitude":20.093233,
@@ -20,15 +20,6 @@
     "name:ces_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u7ecd\u5c14\u7ecd\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
-    "name:cze_x_preferred":[
-        "J\u00e1szals\u00f3szentgy\u00f6rgy"
-    ],
-    "name:dut_x_preferred":[
-        "J\u00e1szals\u00f3szentgy\u00f6rgy"
-    ],
     "name:eng_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
@@ -36,9 +27,6 @@
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
     "name:fra_x_preferred":[
-        "J\u00e1szals\u00f3szentgy\u00f6rgy"
-    ],
-    "name:fre_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
     "name:hun_x_colloquial":[
@@ -49,9 +37,6 @@
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "J\u00e1szals\u00f3szentgy\u00f6rgy"
-    ],
-    "name:may_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
     "name:msa_x_preferred":[
@@ -66,13 +51,7 @@
     "name:ron_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "J\u00e1szals\u00f3szentgy\u00f6rgy"
-    ],
     "name:slk_x_preferred":[
-        "J\u00e1szals\u00f3szentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -86,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "J\u00e1szals\u00f3szentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u7ecd\u5c14\u7ecd\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -138,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715576,
+    "wof:lastmodified":1561751578,
     "wof:name":"J\u00e1szals\u00f3szentgy\u00f6rgy",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

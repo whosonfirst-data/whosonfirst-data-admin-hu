@@ -17,10 +17,7 @@
     "mps:longitude":19.017205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e8e\u52d2\u59c6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00dcr\u00f6m"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +27,6 @@
         "\u00dcr\u00f6m"
     ],
     "name:fra_x_preferred":[
-        "\u00dcr\u00f6m"
-    ],
-    "name:fre_x_preferred":[
-        "\u00dcr\u00f6m"
-    ],
-    "name:ger_x_preferred":[
         "\u00dcr\u00f6m"
     ],
     "name:hrv_x_preferred":[
@@ -51,9 +42,6 @@
     "name:ita_x_preferred":[
         "\u00dcr\u00f6m"
     ],
-    "name:may_x_preferred":[
-        "\u00dcr\u00f6m"
-    ],
     "name:msa_x_preferred":[
         "\u00dcr\u00f6m"
     ],
@@ -63,16 +51,10 @@
     "name:ron_x_preferred":[
         "\u00dcr\u00f6m"
     ],
-    "name:rum_x_preferred":[
-        "\u00dcr\u00f6m"
-    ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u0451\u043c"
     ],
     "name:slk_x_preferred":[
-        "\u00dcr\u00f6m"
-    ],
-    "name:slo_x_preferred":[
         "\u00dcr\u00f6m"
     ],
     "name:slv_x_preferred":[
@@ -86,6 +68,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00dcr\u00f6m"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8e\u52d2\u59c6"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -137,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641858,
+    "wof:lastmodified":1561751540,
     "wof:name":"\u00dcr\u00f6m",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

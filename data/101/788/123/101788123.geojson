@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":1835195.156203,
+    "geom:area_square_m":1835195.156205,
     "geom:bbox":"21.5844259141,46.9620641255,21.6237150614,46.9782289746",
     "geom:latitude":46.968319,
     "geom:longitude":21.600908,
@@ -16,13 +16,7 @@
     "mps:longitude":21.60061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u8c6a\u9c81\u683c\u52b3"
-    ],
     "name:deu_x_preferred":[
-        "Biharugra"
-    ],
-    "name:dut_x_preferred":[
         "Biharugra"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Biharugra"
     ],
-    "name:fre_x_preferred":[
-        "Biharugra"
-    ],
-    "name:ger_x_preferred":[
-        "Biharugra"
-    ],
     "name:hun_x_preferred":[
         "Biharugra"
     ],
     "name:ita_x_preferred":[
-        "Biharugra"
-    ],
-    "name:may_x_preferred":[
         "Biharugra"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Biharugra"
     ],
-    "name:rum_x_preferred":[
-        "Biharugra"
-    ],
     "name:slk_x_preferred":[
-        "Biharugra"
-    ],
-    "name:slo_x_preferred":[
         "Biharugra"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715577,
+    "wof:lastmodified":1561751578,
     "wof:name":"Biharugra",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

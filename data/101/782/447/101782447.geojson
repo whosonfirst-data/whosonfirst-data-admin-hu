@@ -16,16 +16,7 @@
     "mps:longitude":20.5241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0563\u056b\u0562\u0561\u0580\u0581\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u5927\u9c8d\u5c14\u66f9"
-    ],
     "name:deu_x_preferred":[
-        "Nagybarca"
-    ],
-    "name:dut_x_preferred":[
         "Nagybarca"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +28,13 @@
     "name:fra_x_preferred":[
         "Nagybarca"
     ],
-    "name:fre_x_preferred":[
-        "Nagybarca"
-    ],
-    "name:ger_x_preferred":[
-        "Nagybarca"
-    ],
     "name:hun_x_preferred":[
         "Nagybarca"
     ],
-    "name:ita_x_preferred":[
-        "Nagybarca"
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0563\u056b\u0562\u0561\u0580\u0581\u0561"
     ],
-    "name:may_x_preferred":[
+    "name:ita_x_preferred":[
         "Nagybarca"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +52,7 @@
     "name:ron_x_preferred":[
         "Nagybarca"
     ],
-    "name:rum_x_preferred":[
-        "Nagybarca"
-    ],
     "name:slk_x_preferred":[
-        "Nagybarca"
-    ],
-    "name:slo_x_preferred":[
         "Nagybarca"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688316,
+    "wof:lastmodified":1561751558,
     "wof:name":"Nagybarca",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

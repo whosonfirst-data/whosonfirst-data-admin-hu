@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":697971.664011,
+    "geom:area_square_m":697971.66401,
     "geom:bbox":"20.1977950654,48.1841627501,20.2219880849,48.194571898",
     "geom:latitude":48.188742,
     "geom:longitude":20.207159,
@@ -19,16 +19,7 @@
     "name:ces_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u5c14\u7ecd\u5fb7\u68ee\u7279\u54f2\u5c14\u5409"
-    ],
-    "name:cze_x_preferred":[
-        "Borsodszentgy\u00f6rgy"
-    ],
     "name:deu_x_preferred":[
-        "Borsodszentgy\u00f6rgy"
-    ],
-    "name:dut_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +31,6 @@
     "name:fra_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
-    "name:fre_x_preferred":[
-        "Borsodszentgy\u00f6rgy"
-    ],
-    "name:ger_x_preferred":[
-        "Borsodszentgy\u00f6rgy"
-    ],
     "name:hun_x_colloquial":[
         "Borsodszentgyoergy",
         "Borsodszentgyorgy"
@@ -54,9 +39,6 @@
         "Borsodszentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
-        "Borsodszentgy\u00f6rgy"
-    ],
-    "name:may_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
     "name:msa_x_preferred":[
@@ -74,10 +56,7 @@
     "name:ron_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
-    "name:rum_x_preferred":[
-        "Borsodszentgy\u00f6rgy"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
     "name:slv_x_preferred":[
@@ -85,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Borsodszentgy\u00f6rgy"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u7ecd\u5fb7\u68ee\u7279\u54f2\u5c14\u5409"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -132,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688501,
+    "wof:lastmodified":1561751564,
     "wof:name":"Borsodszentgy\u00f6rgy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

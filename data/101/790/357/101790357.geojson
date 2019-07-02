@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":927646.544927,
+    "geom:area_square_m":927646.544928,
     "geom:bbox":"16.9796305744,46.5923582882,16.9984105463,46.6113420725",
     "geom:latitude":46.600736,
     "geom:longitude":16.990221,
@@ -16,13 +16,7 @@
     "mps:longitude":16.991644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u76d6\u5c14\u8c22"
-    ],
     "name:deu_x_preferred":[
-        "Gelse"
-    ],
-    "name:dut_x_preferred":[
         "Gelse"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Gelse"
     ],
-    "name:fre_x_preferred":[
-        "Gelse"
-    ],
-    "name:ger_x_preferred":[
-        "Gelse"
-    ],
     "name:hun_x_preferred":[
         "Gelse"
     ],
     "name:ita_x_preferred":[
-        "Gelse"
-    ],
-    "name:may_x_preferred":[
         "Gelse"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Gelse"
     ],
-    "name:rum_x_preferred":[
-        "Gelse"
-    ],
     "name:slk_x_preferred":[
-        "Gelse"
-    ],
-    "name:slo_x_preferred":[
         "Gelse"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561751536,
     "wof:name":"Gelse",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

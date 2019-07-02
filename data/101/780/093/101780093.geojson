@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
-    "geom:area_square_m":538477.397668,
+    "geom:area_square_m":538477.397669,
     "geom:bbox":"18.8673312265,47.8617539919,18.8807679282,47.8700018093",
     "geom:latitude":47.865396,
     "geom:longitude":18.873323,
@@ -16,10 +16,7 @@
     "mps:longitude":18.873323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9a6c\u91cc\u5965\u8bfa\u65af\u7279\u52b3"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M\u00e1rianosztra"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "M\u00e1rianosztra"
     ],
-    "name:fre_x_preferred":[
-        "M\u00e1rianosztra"
-    ],
-    "name:ger_x_preferred":[
-        "M\u00e1rianosztra"
-    ],
     "name:hun_x_colloquial":[
         "Marianosztra"
     ],
@@ -44,9 +35,6 @@
         "M\u00e1rianosztra"
     ],
     "name:ita_x_preferred":[
-        "M\u00e1rianosztra"
-    ],
-    "name:may_x_preferred":[
         "M\u00e1rianosztra"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +49,7 @@
     "name:ron_x_preferred":[
         "M\u00e1rianosztra"
     ],
-    "name:rum_x_preferred":[
-        "M\u00e1rianosztra"
-    ],
     "name:slk_x_preferred":[
-        "M\u00e1rianostra"
-    ],
-    "name:slo_x_preferred":[
         "M\u00e1rianostra"
     ],
     "name:slv_x_preferred":[
@@ -75,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e1rianosztra"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u91cc\u5965\u8bfa\u65af\u7279\u52b3"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715876,
+    "wof:lastmodified":1561751586,
     "wof:name":"M\u00e1rianosztra",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

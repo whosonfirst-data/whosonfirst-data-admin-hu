@@ -19,10 +19,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u675c\u7459\u5965\u5c14\u9a6c\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dunaalm\u00e1s"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +28,7 @@
     "name:epo_x_preferred":[
         "Dunaalm\u00e1s"
     ],
-    "name:fre_x_preferred":[
-        "Dunaalm\u00e1s"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dunaalm\u00e1s"
     ],
     "name:hun_x_preferred":[
@@ -43,16 +37,19 @@
     "name:ita_x_preferred":[
         "Dunaalm\u00e1s"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dunaalm\u00e1s"
     ],
     "name:nan_x_preferred":[
         "Dunaalm\u00e1s"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Dunaalm\u00e1s"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Dunaalm\u00e1s"
+    ],
+    "name:slk_x_preferred":[
         "Dunaalm\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Dunaalm\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u7459\u5965\u5c14\u9a6c\u4ec0"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1126029673,
-    "wof:lastmodified":1514447982,
+    "wof:lastmodified":1561751597,
     "wof:name":"Dunaalm\u00e1s",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

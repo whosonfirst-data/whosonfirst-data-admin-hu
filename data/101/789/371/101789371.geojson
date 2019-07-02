@@ -19,15 +19,6 @@
     "name:ces_x_preferred":[
         "Monostorap\u00e1ti"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u8bfa\u4ec0\u6258\u52b3\u5e15\u8482"
-    ],
-    "name:cze_x_preferred":[
-        "Monostorap\u00e1ti"
-    ],
-    "name:dut_x_preferred":[
-        "Monostorap\u00e1ti"
-    ],
     "name:eng_x_preferred":[
         "Monostorap\u00e1ti"
     ],
@@ -37,9 +28,6 @@
     "name:fra_x_preferred":[
         "Monostorap\u00e1ti"
     ],
-    "name:fre_x_preferred":[
-        "Monostorap\u00e1ti"
-    ],
     "name:hun_x_colloquial":[
         "Monostorapati"
     ],
@@ -47,9 +35,6 @@
         "Monostorap\u00e1ti"
     ],
     "name:ita_x_preferred":[
-        "Monostorap\u00e1ti"
-    ],
-    "name:may_x_preferred":[
         "Monostorap\u00e1ti"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Monostorap\u00e1ti"
     ],
-    "name:rum_x_preferred":[
-        "Monostorap\u00e1ti"
-    ],
     "name:slk_x_preferred":[
-        "Monostorap\u00e1ti"
-    ],
-    "name:slo_x_preferred":[
         "Monostorap\u00e1ti"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Monostorap\u00e1ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8bfa\u4ec0\u6258\u52b3\u5e15\u8482"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Veszpr\u00e9m",
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715898,
+    "wof:lastmodified":1561751590,
     "wof:name":"Monostorap\u00e1ti",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

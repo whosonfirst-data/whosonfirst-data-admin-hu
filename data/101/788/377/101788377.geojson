@@ -16,13 +16,7 @@
     "mps:longitude":21.438808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9c8d\u5b54\u585e\u683c"
-    ],
     "name:deu_x_preferred":[
-        "Bakonszeg"
-    ],
-    "name:dut_x_preferred":[
         "Bakonszeg"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Bakonszeg"
     ],
-    "name:fre_x_preferred":[
-        "Bakonszeg"
-    ],
-    "name:ger_x_preferred":[
-        "Bakonszeg"
-    ],
     "name:hun_x_preferred":[
         "Bakonszeg"
     ],
     "name:ita_x_preferred":[
-        "Bakonszeg"
-    ],
-    "name:may_x_preferred":[
         "Bakonszeg"
     ],
     "name:msa_x_preferred":[
@@ -61,13 +46,7 @@
     "name:ron_x_preferred":[
         "Bakonszeg"
     ],
-    "name:rum_x_preferred":[
-        "Bakonszeg"
-    ],
     "name:slk_x_preferred":[
-        "Bakonszeg"
-    ],
-    "name:slo_x_preferred":[
         "Bakonszeg"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715572,
+    "wof:lastmodified":1561751574,
     "wof:name":"Bakonszeg",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

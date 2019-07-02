@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1376202.019116,
+    "geom:area_square_m":1376202.019117,
     "geom:bbox":"20.6281728434,47.5020068389,20.6511158376,47.5157631112",
     "geom:latitude":47.510206,
     "geom:longitude":20.640209,
@@ -16,12 +16,6 @@
     "mps:longitude":20.641165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8482\u7ecd\u4ee3\u5c14\u65e5"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszaderzs"
-    ],
     "name:eng_x_preferred":[
         "Tiszaderzs"
     ],
@@ -31,16 +25,10 @@
     "name:fra_x_preferred":[
         "Tiszaderzs"
     ],
-    "name:fre_x_preferred":[
-        "Tiszaderzs"
-    ],
     "name:hun_x_preferred":[
         "Tiszaderzs"
     ],
     "name:ita_x_preferred":[
-        "Tiszaderzs"
-    ],
-    "name:may_x_preferred":[
         "Tiszaderzs"
     ],
     "name:msa_x_preferred":[
@@ -55,13 +43,7 @@
     "name:ron_x_preferred":[
         "Tiszaderzs"
     ],
-    "name:rum_x_preferred":[
-        "Tiszaderzs"
-    ],
     "name:slk_x_preferred":[
-        "Tiszaderzs"
-    ],
-    "name:slo_x_preferred":[
         "Tiszaderzs"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561751583,
     "wof:name":"Tiszaderzs",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

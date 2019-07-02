@@ -17,25 +17,16 @@
     "mps:longitude":18.613763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "G\u00e1rdony"
-    ],
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u062f\u0648\u0646\u064a"
     ],
     "name:cat_x_preferred":[
         "G\u00e1rdony"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u723e\u591a\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:deu_x_preferred":[
-        "G\u00e1rdony"
-    ],
-    "name:dut_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
     "name:fra_x_preferred":[
         "G\u00e1rdony"
     ],
-    "name:fre_x_preferred":[
-        "G\u00e1rdony"
-    ],
-    "name:ger_x_preferred":[
-        "G\u00e1rdony"
-    ],
     "name:hun_x_colloquial":[
         "Gardony"
     ],
@@ -68,28 +53,34 @@
     "name:lit_x_preferred":[
         "Gardonis"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:nan_x_preferred":[
         "G\u00e1rdony"
     ],
+    "name:nld_x_preferred":[
+        "G\u00e1rdony"
+    ],
     "name:pol_x_preferred":[
         "G\u00e1rdony"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:rup_x_preferred":[
         "G\u00e1rdony"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:slv_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:spa_x_preferred":[
+        "G\u00e1rdony"
+    ],
+    "name:sqi_x_preferred":[
         "G\u00e1rdony"
     ],
     "name:srp_x_preferred":[
@@ -103,6 +94,9 @@
     ],
     "name:vol_x_preferred":[
         "G\u00e1rdony"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u723e\u591a\u5c3c"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -154,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642937,
+    "wof:lastmodified":1561751554,
     "wof:name":"G\u00e1rdony",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

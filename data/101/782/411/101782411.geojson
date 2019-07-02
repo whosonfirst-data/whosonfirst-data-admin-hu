@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1196480.84251,
+    "geom:area_square_m":1196480.842511,
     "geom:bbox":"21.0767714156,48.3144002926,21.1005509125,48.3309486262",
     "geom:latitude":48.323983,
     "geom:longitude":21.088722,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "Forr\u00f3"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Forr\u00f3"
     ],
     "name:deu_x_preferred":[
-        "Forr\u00f3"
-    ],
-    "name:dut_x_preferred":[
         "Forr\u00f3"
     ],
     "name:eng_x_preferred":[
@@ -37,12 +34,6 @@
     "name:fra_x_preferred":[
         "Forr\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Forr\u00f3"
-    ],
-    "name:ger_x_preferred":[
-        "Forr\u00f3"
-    ],
     "name:hun_x_colloquial":[
         "Forro"
     ],
@@ -50,9 +41,6 @@
         "Forr\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Forr\u00f3"
-    ],
-    "name:may_x_preferred":[
         "Forr\u00f3"
     ],
     "name:msa_x_preferred":[
@@ -67,13 +55,7 @@
     "name:ron_x_preferred":[
         "Forr\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Forr\u00f3"
-    ],
     "name:slk_x_preferred":[
-        "Forov"
-    ],
-    "name:slo_x_preferred":[
         "Forov"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1514448014,
+    "wof:lastmodified":1561751560,
     "wof:name":"Forr\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

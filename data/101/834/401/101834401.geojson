@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Balatonfenyves"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u6d1b\u901a\u8d39\u5c3c\u97e6\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Balatonfenyves"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balatonfenyves"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +35,6 @@
     "name:fra_x_preferred":[
         "Balatonfenyves"
     ],
-    "name:fre_x_preferred":[
-        "Balatonfenyves"
-    ],
-    "name:ger_x_preferred":[
-        "Balatonfenyves"
-    ],
     "name:hrv_x_preferred":[
         "Balatonfenyves"
     ],
@@ -54,9 +42,6 @@
         "Balatonfenyves"
     ],
     "name:ita_x_preferred":[
-        "Balatonfenyves"
-    ],
-    "name:may_x_preferred":[
         "Balatonfenyves"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Balatonfenyves"
     ],
-    "name:rum_x_preferred":[
-        "Balatonfenyves"
-    ],
     "name:slk_x_preferred":[
-        "Balatonfenyves"
-    ],
-    "name:slo_x_preferred":[
         "Balatonfenyves"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642932,
+    "wof:lastmodified":1561751553,
     "wof:name":"Balatonfenyves",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

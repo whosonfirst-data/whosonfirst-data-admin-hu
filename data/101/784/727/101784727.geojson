@@ -17,13 +17,7 @@
     "mps:longitude":19.195823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u8c22\u514b\u6c83\u5fb7\u51ef\u5c14\u7279"
-    ],
     "name:deu_x_preferred":[
-        "\u00c9rsekvadkert"
-    ],
-    "name:dut_x_preferred":[
         "\u00c9rsekvadkert"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +29,6 @@
     "name:fra_x_preferred":[
         "\u00c9rsekvadkert"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9rsekvadkert"
-    ],
-    "name:ger_x_preferred":[
-        "\u00c9rsekvadkert"
-    ],
     "name:hun_x_colloquial":[
         "Ersekvadkert"
     ],
@@ -48,9 +36,6 @@
         "\u00c9rsekvadkert"
     ],
     "name:ita_x_preferred":[
-        "\u00c9rsekvadkert"
-    ],
-    "name:may_x_preferred":[
         "\u00c9rsekvadkert"
     ],
     "name:msa_x_preferred":[
@@ -65,13 +50,7 @@
     "name:ron_x_preferred":[
         "\u00c9rsekvadkert"
     ],
-    "name:rum_x_preferred":[
-        "\u00c9rsekvadkert"
-    ],
     "name:slk_x_preferred":[
-        "\u00c9rsekvadkert"
-    ],
-    "name:slo_x_preferred":[
         "\u00c9rsekvadkert"
     ],
     "name:slv_x_preferred":[
@@ -82,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00c9rsekvadkert"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u8c22\u514b\u6c83\u5fb7\u51ef\u5c14\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
@@ -132,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688547,
+    "wof:lastmodified":1561751570,
     "wof:name":"\u00c9rsekvadkert",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

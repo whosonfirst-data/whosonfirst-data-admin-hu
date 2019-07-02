@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001668,
-    "geom:area_square_m":13981638.390676,
+    "geom:area_square_m":13981638.390677,
     "geom:bbox":"19.0131477032,47.302202892,19.0730660336,47.3619711432",
     "geom:latitude":47.335944,
     "geom:longitude":19.035737,
@@ -23,19 +23,10 @@
     "name:ces_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u84cb\u7279\u8056\u7c73\u514b\u6d1b\u4ec0"
-    ],
-    "name:cze_x_preferred":[
-        "Szigetszentmikl\u00f3s"
-    ],
     "name:deu_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
     "name:dsb_x_preferred":[
-        "Szigetszentmikl\u00f3s"
-    ],
-    "name:dut_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
     "name:eng_x_preferred":[
@@ -57,15 +48,6 @@
     "name:fra_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
-    "name:fre_x_preferred":[
-        "Szigetszentmikl\u00f3s"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d2\u10d4\u10e2\u10e1\u10d4\u10dc\u10e2\u10db\u10d8\u10d9\u10da\u10dd\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Szigetszentmikl\u00f3s"
-    ],
     "name:hun_x_colloquial":[
         "Szigetszentmiklos"
     ],
@@ -78,25 +60,28 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30b2\u30c8\u30bb\u30f3\u30c8\u30df\u30af\u30ed\u30fc\u30b7\u30e5"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d2\u10d4\u10e2\u10e1\u10d4\u10dc\u10e2\u10db\u10d8\u10d9\u10da\u10dd\u10e8\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2dc\uac8c\ud2b8\uc13c\ud2b8\ubbf8\ud074\ub85c\uc2dc"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
     "name:nan_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u06af\u062a\u0632\u0646\u062a\u0645\u06cc\u06a9\u0644\u0648\u0634"
+    "name:nld_x_preferred":[
+        "Szigetszentmikl\u00f3s"
     ],
     "name:pol_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
     "name:rup_x_preferred":[
@@ -105,7 +90,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
     "name:slv_x_preferred":[
@@ -128,6 +113,9 @@
     ],
     "name:vie_x_preferred":[
         "Szigetszentmikl\u00f3s"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u84cb\u7279\u8056\u7c73\u514b\u6d1b\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -179,7 +167,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642935,
+    "wof:lastmodified":1561751554,
     "wof:name":"Szigetszentmikl\u00f3s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000472,
-    "geom:area_square_m":3977445.730293,
+    "geom:area_square_m":3977445.730294,
     "geom:bbox":"18.9113654325,47.0133410362,18.9509588341,47.04792001",
     "geom:latitude":47.026958,
     "geom:longitude":18.935426,
@@ -17,13 +17,7 @@
     "mps:longitude":18.930776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u66f9\u723e\u99ac\u4ec0"
-    ],
     "name:deu_x_preferred":[
-        "R\u00e1calm\u00e1s"
-    ],
-    "name:dut_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "R\u00e1calm\u00e1s"
     ],
     "name:fra_x_preferred":[
-        "R\u00e1calm\u00e1s"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e1calm\u00e1s"
-    ],
-    "name:ger_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
     "name:ita_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
-    "name:may_x_preferred":[
-        "R\u00e1calm\u00e1s"
-    ],
     "name:msa_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
@@ -72,16 +57,10 @@
     "name:ron_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e1calm\u00e1s"
-    ],
     "name:rup_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
     "name:slk_x_preferred":[
-        "R\u00e1calm\u00e1s"
-    ],
-    "name:slo_x_preferred":[
         "R\u00e1calm\u00e1s"
     ],
     "name:slv_x_preferred":[
@@ -98,6 +77,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e1calm\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u66f9\u723e\u99ac\u4ec0"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Fej\u00e9r",
@@ -149,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642932,
+    "wof:lastmodified":1561751553,
     "wof:name":"R\u00e1calm\u00e1s",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

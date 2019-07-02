@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":907388.092361,
+    "geom:area_square_m":907388.092362,
     "geom:bbox":"20.6236686154,48.0585192644,20.6439761303,48.0719700442",
     "geom:latitude":48.065952,
     "geom:longitude":20.631341,
@@ -19,16 +19,7 @@
     "name:ces_x_preferred":[
         "B\u00fckkszentkereszt"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u514b\u514b\u68ee\u7279\u51ef\u8d56\u65af\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "B\u00fckkszentkereszt"
-    ],
     "name:deu_x_preferred":[
-        "B\u00fckkszentkereszt"
-    ],
-    "name:dut_x_preferred":[
         "B\u00fckkszentkereszt"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +31,6 @@
     "name:fra_x_preferred":[
         "B\u00fckkszentkereszt"
     ],
-    "name:fre_x_preferred":[
-        "B\u00fckkszentkereszt"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00fckkszentkereszt"
-    ],
     "name:hun_x_colloquial":[
         "Buekkszentkereszt",
         "Bukkszentkereszt"
@@ -54,9 +39,6 @@
         "B\u00fckkszentkereszt"
     ],
     "name:ita_x_preferred":[
-        "B\u00fckkszentkereszt"
-    ],
-    "name:may_x_preferred":[
         "B\u00fckkszentkereszt"
     ],
     "name:msa_x_preferred":[
@@ -74,10 +56,7 @@
     "name:ron_x_preferred":[
         "B\u00fckkszentkereszt"
     ],
-    "name:rum_x_preferred":[
-        "B\u00fckkszentkereszt"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nov\u00e1 Huta"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00fckkszentkereszt"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u514b\u514b\u68ee\u7279\u51ef\u8d56\u65af\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -138,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688502,
+    "wof:lastmodified":1561751565,
     "wof:name":"B\u00fckkszentkereszt",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

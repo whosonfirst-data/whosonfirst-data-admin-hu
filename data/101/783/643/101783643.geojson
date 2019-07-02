@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0001,
-    "geom:area_square_m":827605.632615,
+    "geom:area_square_m":827605.632614,
     "geom:bbox":"20.3267073826,48.1392732,20.3519740479,48.1498333729",
     "geom:latitude":48.144385,
     "geom:longitude":20.339613,
@@ -16,13 +16,7 @@
     "mps:longitude":20.341527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5207\u5c14\u5948\u4f0a"
-    ],
     "name:deu_x_preferred":[
-        "Csernely"
-    ],
-    "name:dut_x_preferred":[
         "Csernely"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,10 @@
     "name:fra_x_preferred":[
         "Csernely"
     ],
-    "name:fre_x_preferred":[
-        "Csernely"
-    ],
-    "name:ger_x_preferred":[
-        "Csernely"
-    ],
     "name:hun_x_preferred":[
         "Csernely"
     ],
     "name:ita_x_preferred":[
-        "Csernely"
-    ],
-    "name:may_x_preferred":[
         "Csernely"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +49,7 @@
     "name:ron_x_preferred":[
         "Csernely"
     ],
-    "name:rum_x_preferred":[
-        "Csernely"
-    ],
     "name:slk_x_preferred":[
-        "Csernely"
-    ],
-    "name:slo_x_preferred":[
         "Csernely"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688494,
+    "wof:lastmodified":1561751562,
     "wof:name":"Csernely",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

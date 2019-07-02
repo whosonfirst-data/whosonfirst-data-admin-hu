@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000171,
-    "geom:area_square_m":1456345.332462,
+    "geom:area_square_m":1456345.332464,
     "geom:bbox":"17.6978293169,46.482762566,17.7251681383,46.4970279075",
     "geom:latitude":46.491428,
     "geom:longitude":17.712326,
@@ -16,10 +16,7 @@
     "mps:longitude":17.71709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ecd\u83ab\u5409\u4e9a\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Somogyj\u00e1d"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +28,6 @@
     "name:fra_x_preferred":[
         "Somogyj\u00e1d"
     ],
-    "name:fre_x_preferred":[
-        "Somogyj\u00e1d"
-    ],
-    "name:ger_x_preferred":[
-        "Somogyj\u00e1d"
-    ],
     "name:hun_x_colloquial":[
         "Somogyjad"
     ],
@@ -44,9 +35,6 @@
         "Somogyj\u00e1d"
     ],
     "name:ita_x_preferred":[
-        "Somogyj\u00e1d"
-    ],
-    "name:may_x_preferred":[
         "Somogyj\u00e1d"
     ],
     "name:msa_x_preferred":[
@@ -64,13 +52,7 @@
     "name:ron_x_preferred":[
         "Somogyj\u00e1d"
     ],
-    "name:rum_x_preferred":[
-        "Somogyj\u00e1d"
-    ],
     "name:slk_x_preferred":[
-        "Somogyj\u00e1d"
-    ],
-    "name:slo_x_preferred":[
         "Somogyj\u00e1d"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Somogyj\u00e1d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u83ab\u5409\u4e9a\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -125,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561751536,
     "wof:name":"Somogyj\u00e1d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

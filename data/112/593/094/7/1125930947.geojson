@@ -19,19 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u96c4\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "Sand"
-    ],
     "name:eng_x_preferred":[
         "Sand"
     ],
     "name:epo_x_preferred":[
         "Sand"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sand"
     ],
     "name:hun_x_preferred":[
@@ -40,13 +34,16 @@
     "name:ita_x_preferred":[
         "Sand"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sand"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
         "Sand"
     ],
-    "name:slo_x_preferred":[
+    "name:ron_x_preferred":[
+        "Sand"
+    ],
+    "name:slk_x_preferred":[
         "Sand"
     ],
     "name:slv_x_preferred":[
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "Sand"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c4\u5fb7"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125930947,
-    "wof:lastmodified":1553816639,
+    "wof:lastmodified":1561751596,
     "wof:name":"Sand",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

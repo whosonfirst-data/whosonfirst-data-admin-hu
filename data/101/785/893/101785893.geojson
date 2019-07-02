@@ -23,13 +23,10 @@
     "name:ces_x_preferred":[
         "Pilisszentkereszt"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5229\u4ec0\u68ee\u7279\u51ef\u8d56\u65af\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Mlynky"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pilisszentkereszt"
     ],
     "name:eng_x_preferred":[
@@ -41,19 +38,10 @@
     "name:fra_x_preferred":[
         "Pilisszentkereszt"
     ],
-    "name:fre_x_preferred":[
-        "Pilisszentkereszt"
-    ],
-    "name:ger_x_preferred":[
-        "Pilisszentkereszt"
-    ],
     "name:hun_x_preferred":[
         "Pilisszentkereszt"
     ],
     "name:ita_x_preferred":[
-        "Pilisszentkereszt"
-    ],
-    "name:may_x_preferred":[
         "Pilisszentkereszt"
     ],
     "name:msa_x_preferred":[
@@ -68,13 +56,7 @@
     "name:ron_x_preferred":[
         "Pilisszentkereszt"
     ],
-    "name:rum_x_preferred":[
-        "Pilisszentkereszt"
-    ],
     "name:slk_x_preferred":[
-        "Mlynky"
-    ],
-    "name:slo_x_preferred":[
         "Mlynky"
     ],
     "name:slv_x_preferred":[
@@ -145,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527677695,
+    "wof:lastmodified":1561751555,
     "wof:name":"Pilisszentkereszt",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

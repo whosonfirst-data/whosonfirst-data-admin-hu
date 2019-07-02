@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000622,
-    "geom:area_square_m":5185596.373838,
+    "geom:area_square_m":5185596.373839,
     "geom:bbox":"18.806621097,47.6212913292,18.8576018797,47.6504683643",
     "geom:latitude":47.63566,
     "geom:longitude":18.833088,
@@ -17,7 +17,7 @@
     "mps:longitude":18.83135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Piliscsaba"
     ],
     "name:eng_x_preferred":[
@@ -27,12 +27,6 @@
         "Piliscsaba"
     ],
     "name:fra_x_preferred":[
-        "Piliscsaba"
-    ],
-    "name:fre_x_preferred":[
-        "Piliscsaba"
-    ],
-    "name:ger_x_preferred":[
         "Piliscsaba"
     ],
     "name:glg_x_preferred":[
@@ -54,9 +48,6 @@
     "name:jpn_x_preferred":[
         "\u30d4\u30ea\u30b7\u30e5\u30c1\u30e3\u30d0"
     ],
-    "name:may_x_preferred":[
-        "Piliscsaba"
-    ],
     "name:msa_x_preferred":[
         "Piliscsaba"
     ],
@@ -69,16 +60,10 @@
     "name:ron_x_preferred":[
         "Piliscsaba"
     ],
-    "name:rum_x_preferred":[
-        "Piliscsaba"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u043b\u0438\u0448\u0447\u0430\u0431\u0430"
     ],
     "name:slk_x_preferred":[
-        "Pili\u0161sk\u00e1 \u010caba"
-    ],
-    "name:slo_x_preferred":[
         "Pili\u0161sk\u00e1 \u010caba"
     ],
     "name:slv_x_preferred":[
@@ -149,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715845,
+    "wof:lastmodified":1561751584,
     "wof:name":"Piliscsaba",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

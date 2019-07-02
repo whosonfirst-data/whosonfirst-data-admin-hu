@@ -18,14 +18,8 @@
     "mps:longitude":16.540927,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u6258\u7f57\u5c3c"
-    ],
     "name:deu_x_preferred":[
         "Dienling"
-    ],
-    "name:dut_x_preferred":[
-        "Torony"
     ],
     "name:eng_x_preferred":[
         "Torony"
@@ -34,9 +28,6 @@
         "Torony"
     ],
     "name:fra_x_preferred":[
-        "Torony"
-    ],
-    "name:fre_x_preferred":[
         "Torony"
     ],
     "name:hrv_x_preferred":[
@@ -54,9 +45,6 @@
     "name:ita_x_preferred":[
         "Torony"
     ],
-    "name:may_x_preferred":[
-        "Torony"
-    ],
     "name:msa_x_preferred":[
         "Torony"
     ],
@@ -69,13 +57,7 @@
     "name:ron_x_preferred":[
         "Torony"
     ],
-    "name:rum_x_preferred":[
-        "Torony"
-    ],
     "name:slk_x_preferred":[
-        "Torony"
-    ],
-    "name:slo_x_preferred":[
         "Torony"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1534985950,
+    "wof:lastmodified":1561751547,
     "wof:name":"Torony",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

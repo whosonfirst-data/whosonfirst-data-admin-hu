@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2083937.663069,
+    "geom:area_square_m":2083937.66307,
     "geom:bbox":"21.0443188902,48.1796996094,21.0686883253,48.1996955489",
     "geom:latitude":48.188155,
     "geom:longitude":21.056008,
@@ -20,13 +20,7 @@
     "name:bar_x_preferred":[
         "Megyasz\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u8fc8\u7126\u7d22"
-    ],
     "name:deu_x_preferred":[
-        "Megyasz\u00f3"
-    ],
-    "name:dut_x_preferred":[
         "Megyasz\u00f3"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Megyasz\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Megyasz\u00f3"
-    ],
-    "name:ger_x_preferred":[
-        "Megyasz\u00f3"
-    ],
     "name:hun_x_colloquial":[
         "Megyaszo"
     ],
@@ -51,9 +39,6 @@
         "Megyasz\u00f3"
     ],
     "name:ita_x_preferred":[
-        "Megyasz\u00f3"
-    ],
-    "name:may_x_preferred":[
         "Megyasz\u00f3"
     ],
     "name:msa_x_preferred":[
@@ -71,13 +56,7 @@
     "name:ron_x_preferred":[
         "Megyasz\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Megyasz\u00f3"
-    ],
     "name:slk_x_preferred":[
-        "Megyasz\u00f3"
-    ],
-    "name:slo_x_preferred":[
         "Megyasz\u00f3"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Megyasz\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u7126\u7d22"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Borsod-Aba\u00faj-Zempl\u00e9n",
@@ -139,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527688322,
+    "wof:lastmodified":1561751560,
     "wof:name":"Megyasz\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

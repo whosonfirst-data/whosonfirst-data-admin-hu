@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":2672583.096232,
+    "geom:area_square_m":2672583.096231,
     "geom:bbox":"17.4643647637,47.6218266255,17.4963218848,47.6477099226",
     "geom:latitude":47.631989,
     "geom:longitude":17.481517,
@@ -17,12 +17,6 @@
     "mps:longitude":17.481517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u9c8d\u4fdd\u6258\u7459"
-    ],
-    "name:dut_x_preferred":[
-        "R\u00e1bapatona"
-    ],
     "name:eng_x_preferred":[
         "R\u00e1bapatona"
     ],
@@ -32,9 +26,6 @@
     "name:fra_x_preferred":[
         "R\u00e1bapatona"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e1bapatona"
-    ],
     "name:hun_x_colloquial":[
         "Rabapatona"
     ],
@@ -42,9 +33,6 @@
         "R\u00e1bapatona"
     ],
     "name:ita_x_preferred":[
-        "R\u00e1bapatona"
-    ],
-    "name:may_x_preferred":[
         "R\u00e1bapatona"
     ],
     "name:msa_x_preferred":[
@@ -62,13 +50,7 @@
     "name:ron_x_preferred":[
         "R\u00e1bapatona"
     ],
-    "name:rum_x_preferred":[
-        "R\u00e1bapatona"
-    ],
     "name:slk_x_preferred":[
-        "R\u00e1bapatona"
-    ],
-    "name:slo_x_preferred":[
         "R\u00e1bapatona"
     ],
     "name:slv_x_preferred":[
@@ -79,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "R\u00e1bapatona"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u9c8d\u4fdd\u6258\u7459"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -130,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715653,
+    "wof:lastmodified":1561751583,
     "wof:name":"R\u00e1bapatona",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

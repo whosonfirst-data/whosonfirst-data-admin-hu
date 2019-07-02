@@ -30,12 +30,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u0627\u0628\u0648\u0644\u0643\u0633-\u0632\u0627\u062a\u0645\u0627\u0631-\u0628\u064a\u0631\u064a\u062c"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0562\u0578\u056c\u0573-\u054d\u0561\u057f\u0574\u0561\u0580-\u0532\u0565\u0580\u0565\u0563 \u0577\u0580\u057b\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Szabolcs-Szatm\u00e1r-Bereg"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0431\u0430\u043b\u044c\u0447-\u0421\u0430\u0442\u043c\u0430\u0440-\u0411\u0435\u0440\u044d\u0433"
     ],
@@ -54,20 +48,14 @@
     "name:ces_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u535a\u723e\u5947-\u7d22\u7279\u99ac\u723e-\u8c9d\u62c9\u683c\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Szabolcs-Szatm\u00e1r-Bereg"
-    ],
     "name:dan_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
     ],
     "name:deu_x_preferred":[
         "Komitat Szabolcs-Szatm\u00e1r-Bereg"
     ],
-    "name:dut_x_preferred":[
-        "Szabolcs-Szatm\u00e1r-Bereg"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b6\u03b1\u03bc\u03c0\u03cc\u03bb\u03ba\u03c2-\u03a3\u03b6\u03b1\u03c4\u03bc\u03ac\u03c1-\u039c\u03c0\u03b5\u03c1\u03ad\u03ba"
     ],
     "name:eng_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
@@ -78,6 +66,9 @@
     "name:est_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Beregi komitaat"
     ],
+    "name:eus_x_preferred":[
+        "Szabolcs-Szatm\u00e1r-Bereg"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u0628\u0648\u0644\u06a9\u0633-\u0632\u0627\u062a\u0645\u0627\u0631-\u0628\u0631\u06cc\u062c"
     ],
@@ -87,20 +78,8 @@
     "name:fra_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
     ],
-    "name:fre_x_preferred":[
-        "Szabolcs-Szatm\u00e1r-Bereg"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d1\u10dd\u10da\u10e9-\u10e1\u10d0\u10e2\u10db\u10d0\u10e0-\u10d1\u10d4\u10e0\u10d4\u10d2\u10d8\u10e1 \u10db\u10d4\u10d3\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Komitat Szabolcs-Szatm\u00e1r-Bereg"
-    ],
     "name:glg_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b6\u03b1\u03bc\u03c0\u03cc\u03bb\u03ba\u03c2-\u03a3\u03b6\u03b1\u03c4\u03bc\u03ac\u03c1-\u039c\u03c0\u03b5\u03c1\u03ad\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
@@ -119,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0562\u0578\u056c\u0573-\u054d\u0561\u057f\u0574\u0561\u0580-\u0532\u0565\u0580\u0565\u0563 \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
@@ -144,20 +126,17 @@
     "name:lit_x_preferred":[
         "Sabol\u010das-Satmaras-Beregas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0431\u043e\u043b\u0447-\u0421\u0430\u0442\u043c\u0430\u0440-\u0411\u0435\u0440\u0435\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u091d\u092c\u0949\u0932\u094d\u0915\u094d\u0938-\u091d\u093e\u091f\u092e\u093e\u0930-\u092c\u0947\u092f\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Szabolcs-Szatm\u00e1r-Bereg"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0431\u043e\u043b\u0447-\u0421\u0430\u0442\u043c\u0430\u0440-\u0411\u0435\u0440\u0435\u0433"
     ],
     "name:msa_x_preferred":[
         "Wilayah Szabolcs-Szatm\u00e1r-Bereg"
+    ],
+    "name:msa_x_variant":[
+        "Szabolcs-Szatm\u00e1r-Bereg"
     ],
     "name:nan_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
@@ -167,9 +146,6 @@
     ],
     "name:nob_x_preferred":[
         "Szaboles Szatmar Bereg fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0628\u0648\u0644\u06a9\u0633-\u0632\u0627\u062a\u0645\u0627\u0631-\u0628\u0631\u06cc\u062c"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0628\u0648\u0644\u0686 \u0634\u0627\u062a\u0645\u0627\u0631 \u0628\u06cc\u0631\u06af \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -183,9 +159,6 @@
     "name:ron_x_preferred":[
         "Jude\u021bul Szabolcs-Szatm\u00e1r-Bereg"
     ],
-    "name:rum_x_preferred":[
-        "Jude\u021bul Szabolcs-Szatm\u00e1r-Bereg"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0431\u043e\u043b\u044c\u0447-\u0421\u0430\u0442\u043c\u0430\u0440-\u0411\u0435\u0440\u0435\u0433"
     ],
@@ -196,9 +169,6 @@
         "\u0dc3\u0dca\u0d9a\u0db6\u0ddd\u0dbd\u0dca\u0d9a\u0dca\u0dc3\u0dca-\u0dc3\u0da7\u0dca\u0db8\u0dcf\u0dbb\u0dca-\u0db6\u0dd9\u0dbb\u0dd9\u0d9c\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Sabol\u010dsko-satm\u00e1rsko-bere\u017esk\u00e1 \u017eupa"
-    ],
-    "name:slo_x_preferred":[
         "Sabol\u010dsko-satm\u00e1rsko-bere\u017esk\u00e1 \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -377,7 +347,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1553550761,
+    "wof:lastmodified":1561751514,
     "wof:name":"Szabolcs-Szatm\u00e1r-Bereg",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1416012.270535,
+    "geom:area_square_m":1416012.270536,
     "geom:bbox":"19.7519688422,47.7943710201,19.7708179945,47.8119488245",
     "geom:latitude":47.803049,
     "geom:longitude":19.761527,
@@ -19,13 +19,10 @@
     "name:cat_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
-    "name:chi_x_preferred":[
-        "\u53d9\u5947"
-    ],
     "name:deu_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Sz\u0171csi"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +34,7 @@
     "name:fra_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
-    "name:fre_x_preferred":[
-        "Sz\u0171csi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Sz\u0171csi"
     ],
     "name:hun_x_preferred":[
@@ -49,10 +43,13 @@
     "name:ita_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sz\u0171csi"
     ],
     "name:nan_x_preferred":[
+        "Sz\u0171csi"
+    ],
+    "name:nld_x_preferred":[
         "Sz\u0171csi"
     ],
     "name:pol_x_preferred":[
@@ -61,13 +58,13 @@
     "name:ron_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Sz\u0171csi"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0437\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sz\u0171csi"
     ],
     "name:slv_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "Sz\u0171csi"
+    ],
+    "name:zho_x_preferred":[
+        "\u53d9\u5947"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":101784701,
-    "wof:lastmodified":1514448359,
+    "wof:lastmodified":1561751566,
     "wof:name":"Sz\u00fccsi",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",
