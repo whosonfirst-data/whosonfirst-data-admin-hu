@@ -12,6 +12,15 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Farkashegyi aerodrome"
+    ],
+    "name:hun_x_preferred":[
+        "Farkashegyi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30eb\u30ab\u30b9\u30d8\u30b8\u7a7a\u6e2f"
+    ],
     "oa:elevation_ft":"690",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":102547561,
-    "wof:lastmodified":1543856641,
+    "wof:lastmodified":1563235896,
     "wof:name":"Farkashegy Repuloter",
     "wof:parent_id":85684899,
     "wof:placetype":"campus",

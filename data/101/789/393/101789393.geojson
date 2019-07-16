@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0435\u0433\u0445\u0430\u043b\u043e\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Szeghalom"
+    ],
+    "name:ces_x_preferred":[
+        "Szeghalom"
+    ],
     "name:deu_x_preferred":[
         "Szeghalom"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Szeghalom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06af\u0647\u0627\u0644\u0648\u0645"
     ],
     "name:fra_x_preferred":[
         "Szeghalom"
@@ -145,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237563,
     "wof:name":"Szeghalom",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

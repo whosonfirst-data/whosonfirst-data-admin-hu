@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Kunsziget"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u0633\u06cc\u06af\u062a"
+    ],
     "name:fra_x_preferred":[
         "Kunsziget"
     ],
@@ -53,6 +56,9 @@
         "Kunsziget"
     ],
     "name:slv_x_preferred":[
+        "Kunsziget"
+    ],
+    "name:spa_x_preferred":[
         "Kunsziget"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751557,
+    "wof:lastmodified":1563237145,
     "wof:name":"Kunsziget",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

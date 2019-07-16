@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0448\u043a\u044c\u043e\u0440\u044c\u043e\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Kisk\u0151r\u00f6s"
+    ],
     "name:ces_x_preferred":[
         "Kisk\u0151r\u00f6s"
     ],
@@ -33,6 +36,9 @@
         "Kisk\u0151r\u00f6s"
     ],
     "name:epo_x_preferred":[
+        "Kisk\u0151r\u00f6s"
+    ],
+    "name:est_x_preferred":[
         "Kisk\u0151r\u00f6s"
     ],
     "name:fas_x_preferred":[
@@ -53,6 +59,9 @@
     "name:hye_x_preferred":[
         "\u053f\u056b\u0577\u056f\u0575\u0578\u0580\u0575\u0578\u0577"
     ],
+    "name:ind_x_preferred":[
+        "Kisk\u0151r\u00f6s"
+    ],
     "name:ita_x_preferred":[
         "Kisk\u0151r\u00f6s"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0a4\uc288\ucfa8\ub8b0\uc2dc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u0448\u043a\u0435\u0440\u0435\u0448"
     ],
     "name:msa_x_preferred":[
         "Kisk\u0151r\u00f6s"
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":101790475,
-    "wof:lastmodified":1561751537,
+    "wof:lastmodified":1563236895,
     "wof:name":"Kisk\u0151r\u00f6s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

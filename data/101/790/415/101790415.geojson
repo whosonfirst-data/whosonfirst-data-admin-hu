@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0420\u044c\u043e\u0441\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00f6szke"
+    ],
     "name:ces_x_preferred":[
         "R\u00f6szke"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "R\u00f6szke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
         "R\u00f6szke"
@@ -60,6 +66,9 @@
         "R\u00f6szke"
     ],
     "name:nld_x_preferred":[
+        "R\u00f6szke"
+    ],
+    "name:pol_x_preferred":[
         "R\u00f6szke"
     ],
     "name:ron_x_preferred":[
@@ -143,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751534,
+    "wof:lastmodified":1563236849,
     "wof:name":"R\u00f6szke",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

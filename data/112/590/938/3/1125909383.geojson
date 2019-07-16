@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "P\u00fcsp\u00f6kmoln\u00e1ri"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0634\u067e\u0648\u06a9\u0645\u0648\u0644\u0646\u0627\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "P\u00fcsp\u00f6kmoln\u00e1ri"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125909383,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237737,
     "wof:name":"P\u00fcsp\u00f6kmoln\u00e1ri",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

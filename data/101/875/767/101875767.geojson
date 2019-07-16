@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0648\u0634\u0647\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "K\u0151r\u00f6shegy"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101875767,
-    "wof:lastmodified":1561751544,
+    "wof:lastmodified":1563236980,
     "wof:name":"K\u0151r\u00f6shegy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

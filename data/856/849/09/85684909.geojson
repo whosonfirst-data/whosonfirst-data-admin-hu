@@ -27,8 +27,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0641\u0634"
     ],
+    "name:aze_x_preferred":[
+        "Xeve\u015f"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u0435\u0432\u0435\u0448"
+    ],
+    "name:bel_x_variant":[
+        "\u043c\u0435\u0434\u0437\u044c\u0435 \u0425\u0435\u0432\u0435\u0448"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09ad\u09c7\u09b8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -38,6 +44,9 @@
     ],
     "name:cat_x_preferred":[
         "Heves"
+    ],
+    "name:ceb_x_preferred":[
+        "Heves megye"
     ],
     "name:ces_x_preferred":[
         "Heves"
@@ -53,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Heves"
+    ],
+    "name:eng_x_variant":[
+        "Heves County"
     ],
     "name:epo_x_preferred":[
         "Heves"
@@ -93,6 +105,9 @@
     "name:hun_x_preferred":[
         "Heves megye"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0587\u0565\u0577"
+    ],
     "name:ind_x_preferred":[
         "Heves"
     ],
@@ -110,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud5e4\ubca0\uc2dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud5e4\ubca0\uc2dc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Heve\u0161as me\u0123e"
@@ -146,6 +164,9 @@
     ],
     "name:ron_x_preferred":[
         "Jude\u021bul Heves"
+    ],
+    "name:ron_x_variant":[
+        "Heves"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0432\u0435\u0448"
@@ -332,7 +353,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751514,
+    "wof:lastmodified":1563236114,
     "wof:name":"Heves",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

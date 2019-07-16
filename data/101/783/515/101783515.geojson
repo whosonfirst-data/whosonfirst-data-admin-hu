@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Vaja"
     ],
+    "name:ceb_x_preferred":[
+        "Vaja"
+    ],
     "name:ces_x_preferred":[
         "Vaja"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Vaja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Vaja"
@@ -61,6 +67,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0439\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u044f"
     ],
     "name:slk_x_preferred":[
         "Vaja"
@@ -136,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237249,
     "wof:name":"Vaja",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0410\u043f\u0430\u0433\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Apagy"
+    ],
+    "name:ces_x_preferred":[
+        "Apagy"
+    ],
     "name:deu_x_preferred":[
         "Apagy"
     ],
@@ -29,8 +35,14 @@
     "name:epo_x_preferred":[
         "Apagy"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u0627\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Apagy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05d2'"
     ],
     "name:hun_x_preferred":[
         "Apagy"
@@ -118,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237197,
     "wof:name":"Apagy",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

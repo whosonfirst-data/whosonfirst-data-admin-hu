@@ -17,6 +17,12 @@
     "mps:longitude":18.137073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Dombovar"
+    ],
+    "name:ceb_x_preferred":[
+        "Domb\u00f3v\u00e1r"
+    ],
     "name:ces_x_preferred":[
         "Domb\u00f3v\u00e1r"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:ita_x_preferred":[
         "Domb\u00f3v\u00e1r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30e0\u30dc\u30fc\u30f4\u30a1\u30fc\u30eb"
     ],
     "name:msa_x_preferred":[
         "Domb\u00f3v\u00e1r"
@@ -160,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751533,
+    "wof:lastmodified":1563236842,
     "wof:name":"Domb\u00f3v\u00e1r",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

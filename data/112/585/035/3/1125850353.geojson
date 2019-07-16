@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Tagyon"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06af\u06cc\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Tagyon"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125850353,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237801,
     "wof:name":"Tagyon",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

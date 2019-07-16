@@ -20,14 +20,26 @@
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0441\u0442\u0435\u043b\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Hal\u00e1sztelek"
+    ],
+    "name:ces_x_preferred":[
+        "Hal\u00e1sztelek"
+    ],
     "name:deu_x_preferred":[
         "Hal\u00e1sztelek"
     ],
     "name:eng_x_preferred":[
         "Hermina-Major"
     ],
+    "name:eng_x_variant":[
+        "Hal\u00e1sztelek"
+    ],
     "name:epo_x_preferred":[
         "Hal\u00e1sztelek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0644\u0627\u0633\u062a\u0644\u06a9"
     ],
     "name:fra_x_preferred":[
         "Hal\u00e1sztelek"
@@ -64,6 +76,9 @@
     ],
     "name:slv_x_preferred":[
         "Hal\u00e1sztelek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0441\u0442\u0435\u043b\u0435\u043a"
     ],
     "name:swe_x_preferred":[
         "Hal\u00e1sztelek"
@@ -127,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237092,
     "wof:name":"Hal\u00e1sztelek",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

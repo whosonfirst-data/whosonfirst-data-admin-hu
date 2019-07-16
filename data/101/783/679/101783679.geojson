@@ -25,13 +25,22 @@
     "name:epo_x_preferred":[
         "Berz\u00e9k"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Berz\u00e9k"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d6\u05e7"
     ],
     "name:hun_x_colloquial":[
         "Berzek"
     ],
     "name:hun_x_preferred":[
+        "Berz\u00e9k"
+    ],
+    "name:ind_x_preferred":[
         "Berz\u00e9k"
     ],
     "name:ita_x_preferred":[
@@ -110,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751564,
+    "wof:lastmodified":1563237236,
     "wof:name":"Berz\u00e9k",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

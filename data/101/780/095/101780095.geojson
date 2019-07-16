@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Penc"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Penc"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751586,
+    "wof:lastmodified":1563237503,
     "wof:name":"Penc",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

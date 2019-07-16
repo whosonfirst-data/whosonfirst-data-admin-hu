@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Felgy\u0151"
     ],
+    "name:pol_x_preferred":[
+        "Felgy\u0151"
+    ],
     "name:ron_x_preferred":[
         "Felgy\u0151"
     ],
@@ -47,6 +50,9 @@
         "Felgy\u0151"
     ],
     "name:slv_x_preferred":[
+        "Felgy\u0151"
+    ],
+    "name:spa_x_preferred":[
         "Felgy\u0151"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101790383,
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1563236866,
     "wof:name":"Felgy\u0151",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

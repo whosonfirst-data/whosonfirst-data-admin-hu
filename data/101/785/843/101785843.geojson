@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Darn\u00f3zseli"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0646\u0648\u0698\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Darn\u00f3zseli"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751555,
+    "wof:lastmodified":1563237119,
     "wof:name":"Darn\u00f3zseli",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

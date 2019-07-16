@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "P\u00e9nzesgy\u0151r"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u0632\u0634\u06af\u06cc\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "P\u00e9nzesgy\u0151r"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125816339,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237705,
     "wof:name":"P\u00e9nzesgy\u0151r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

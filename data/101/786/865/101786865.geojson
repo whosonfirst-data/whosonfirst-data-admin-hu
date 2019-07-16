@@ -40,6 +40,9 @@
     "name:ile_x_preferred":[
         "Felcs\u00fat"
     ],
+    "name:ind_x_preferred":[
+        "Felcs\u00fat"
+    ],
     "name:ita_x_preferred":[
         "Felcs\u00fat"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3a0\ucd94\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Fel\u010dutas"
     ],
     "name:msa_x_preferred":[
         "Felcs\u00fat"
@@ -122,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751582,
+    "wof:lastmodified":1563237455,
     "wof:name":"Felcs\u00fat",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

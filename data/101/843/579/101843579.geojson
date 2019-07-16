@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Ny\u00edribrony"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06cc\u0631\u06cc\u0628\u0631\u0648\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Ny\u00edribrony"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751546,
+    "wof:lastmodified":1563237008,
     "wof:name":"Ny\u00edribrony",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

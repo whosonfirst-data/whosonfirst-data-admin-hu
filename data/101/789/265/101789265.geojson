@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Kunsz\u00e1ll\u00e1s"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u0633\u0627\u0644\u0627\u0634"
+    ],
     "name:fra_x_preferred":[
         "Kunsz\u00e1ll\u00e1s"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751592,
+    "wof:lastmodified":1563237581,
     "wof:name":"Kunsz\u00e1ll\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

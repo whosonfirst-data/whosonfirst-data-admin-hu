@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Nagyvisny\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u0648\u06cc\u0634\u0646\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Nagyvisny\u00f3"
     ],
@@ -106,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237239,
     "wof:name":"Nagyvisny\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

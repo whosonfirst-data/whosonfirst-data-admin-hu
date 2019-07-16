@@ -20,6 +20,9 @@
     "name:cbk_zam_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00e1ckereszt\u00far"
+    ],
     "name:deu_x_preferred":[
         "R\u00e1ckereszt\u00far"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "R\u00e1ckereszt\u00far"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062a\u0633\u06a9\u0631\u0633\u062a\u0648\u0631"
     ],
     "name:fra_x_preferred":[
         "R\u00e1ckereszt\u00far"
@@ -121,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751579,
+    "wof:lastmodified":1563237418,
     "wof:name":"R\u00e1ckereszt\u00far",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "name:epo_x_preferred":[
         "Vitny\u00e9d"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0646\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
         "Vitny\u00e9d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d8\u05e0\u05d9\u05d9\u05d3"
     ],
     "name:hun_x_colloquial":[
         "Vitnyed"
@@ -114,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751582,
+    "wof:lastmodified":1563237446,
     "wof:name":"Vitny\u00e9d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

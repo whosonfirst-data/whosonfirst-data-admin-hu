@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Homokm\u00e9gy"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0645\u0648\u06a9\u0645\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Homokm\u00e9gy"
     ],
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751536,
+    "wof:lastmodified":1563236874,
     "wof:name":"Homokm\u00e9gy",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

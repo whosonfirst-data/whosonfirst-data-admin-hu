@@ -17,6 +17,12 @@
     "mps:longitude":18.654583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Velence"
+    ],
+    "name:ces_x_preferred":[
+        "Velence"
+    ],
     "name:deu_x_preferred":[
         "Velence"
     ],
@@ -66,6 +72,9 @@
         "Velence"
     ],
     "name:slv_x_preferred":[
+        "Velence"
+    ],
+    "name:spa_x_preferred":[
         "Velence"
     ],
     "name:swe_x_preferred":[
@@ -133,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237095,
     "wof:name":"Velence",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

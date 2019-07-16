@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Szil"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "Szil"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751585,
+    "wof:lastmodified":1563237487,
     "wof:name":"Szil",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

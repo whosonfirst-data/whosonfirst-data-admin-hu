@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Fels\u0151rajk"
+    ],
+    "name:deu_x_preferred":[
+        "Fels\u0151rajk"
+    ],
     "name:eng_x_preferred":[
         "Fels\u0151rajk"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125921369,
-    "wof:lastmodified":1561751597,
+    "wof:lastmodified":1563237672,
     "wof:name":"Fels\u0151rajk",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

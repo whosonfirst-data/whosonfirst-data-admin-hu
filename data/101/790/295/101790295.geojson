@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0643\u0633\u0627\u0631\u062f"
     ],
+    "name:aze_x_preferred":[
+        "Seksard"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043a\u0441\u0430\u0440\u0434"
     ],
@@ -37,11 +40,17 @@
     "name:cat_x_preferred":[
         "Szeksz\u00e1rd"
     ],
+    "name:ceb_x_preferred":[
+        "Szeksz\u00e1rd"
+    ],
     "name:ces_x_preferred":[
         "Szeksz\u00e1rd"
     ],
     "name:che_x_preferred":[
         "\u0421\u0435\u043a\u0441\u0430\u0440\u0434"
+    ],
+    "name:cym_x_preferred":[
+        "Szeksz\u00e1rd"
     ],
     "name:dan_x_preferred":[
         "Szeksz\u00e1rd"
@@ -384,7 +393,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751534,
+    "wof:lastmodified":1563236855,
     "wof:name":"Szeksz\u00e1rd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

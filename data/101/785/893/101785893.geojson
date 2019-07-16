@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u043b\u0438\u0441\u0437\u0435\u043d\u0442\u043a\u0435\u0440\u0435\u0441\u0437\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Pilisszentkereszt"
+    ],
     "name:ces_x_preferred":[
         "Pilisszentkereszt"
     ],
@@ -32,8 +35,14 @@
     "name:eng_x_preferred":[
         "Pilisszenkereszt"
     ],
+    "name:eng_x_variant":[
+        "Pilisszentkereszt"
+    ],
     "name:epo_x_preferred":[
         "Pilisszentkereszt"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u06cc\u0634\u0633\u0646\u062a\u06a9\u0631\u0633\u062a"
     ],
     "name:fra_x_preferred":[
         "Pilisszentkereszt"
@@ -127,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751555,
+    "wof:lastmodified":1563237122,
     "wof:name":"Pilisszentkereszt",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Tibolddar\u00f3c"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0628\u0648\u0644\u062f\u062f\u0627\u0631\u0648\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Tibolddar\u00f3c"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05d1\u05d5\u05dc\u05d3\u05e8\u05d5\u05e5"
     ],
     "name:hun_x_colloquial":[
         "Tibolddaroc"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237257,
     "wof:name":"Tibolddar\u00f3c",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

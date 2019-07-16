@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Miske"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0634\u06a9\u0647"
+    ],
     "name:fra_x_preferred":[
         "Miske"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "Miske"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u043a\u0435"
     ],
     "name:slk_x_preferred":[
         "Mi\u0161ke"
@@ -113,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1563236865,
     "wof:name":"Miske",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

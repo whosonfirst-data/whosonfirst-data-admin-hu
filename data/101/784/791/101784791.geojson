@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Balk\u00e1ny"
     ],
+    "name:ceb_x_preferred":[
+        "Balk\u00e1ny"
+    ],
     "name:ces_x_preferred":[
         "Balk\u00e1ny"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "Balk\u00e1ny"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06a9\u0627\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Balk\u00e1ny"
@@ -145,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237253,
     "wof:name":"Balk\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

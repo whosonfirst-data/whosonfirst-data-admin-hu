@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u041c\u043e\u0448\u0430\u043d\u0448\u0435\u043d\u0442\u043c\u0456\u043a\u043b\u0430\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Mosonszentmikl\u00f3s"
+    ],
     "name:deu_x_preferred":[
         "Mosonszentmikl\u00f3s"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Mosonszentmikl\u00f3s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0634\u0648\u0646\u0633\u0646\u062a\u0645\u06cc\u06a9\u0644\u0648\u0634"
     ],
     "name:fra_x_preferred":[
         "Mosonszentmikl\u00f3s"
@@ -69,6 +75,9 @@
         "Mosonszentmikl\u00f3s"
     ],
     "name:slv_x_preferred":[
+        "Mosonszentmikl\u00f3s"
+    ],
+    "name:spa_x_preferred":[
         "Mosonszentmikl\u00f3s"
     ],
     "name:swe_x_preferred":[
@@ -130,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751580,
+    "wof:lastmodified":1563237431,
     "wof:name":"Mosonszentmikl\u00f3s",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

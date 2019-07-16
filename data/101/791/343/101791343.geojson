@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Szentl\u0151rinc"
     ],
+    "name:ceb_x_preferred":[
+        "Szentl\u0151rinc"
+    ],
     "name:ces_x_preferred":[
         "Szentl\u0151rinc"
     ],
@@ -32,6 +35,9 @@
     "name:epo_x_preferred":[
         "Szentl\u0151rinc"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0644\u0648\u0631\u06cc\u0646\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Szentl\u0151rinc"
     ],
@@ -43,6 +49,12 @@
     ],
     "name:ita_x_preferred":[
         "Szentl\u0151rinc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30ec\u30fc\u30ea\u30f3\u30c4"
+    ],
+    "name:lav_x_preferred":[
+        "Sentl\u0113rinca"
     ],
     "name:msa_x_preferred":[
         "Szentl\u0151rinc"
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":101791343,
-    "wof:lastmodified":1561751542,
+    "wof:lastmodified":1563236967,
     "wof:name":"Szentl\u0151rinc",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

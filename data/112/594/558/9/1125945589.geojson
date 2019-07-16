@@ -63,6 +63,9 @@
     "name:slv_x_preferred":[
         "Sopronhorp\u00e1cs"
     ],
+    "name:spa_x_preferred":[
+        "Sopronhorp\u00e1cs"
+    ],
     "name:vie_x_preferred":[
         "Sopronhorp\u00e1cs"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125945589,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237657,
     "wof:name":"Sopronhorp\u00e1cs",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

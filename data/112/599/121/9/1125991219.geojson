@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "D\u00f6rgicse"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u06af\u06cc\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "D\u00f6rgicse"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125991219,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237734,
     "wof:name":"D\u00f6rgicse",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

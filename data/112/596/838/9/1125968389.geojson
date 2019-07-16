@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Ipolydam\u00e1sd"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u067e\u0648\u0644\u06cc\u062f\u0627\u0645\u0627\u0634\u062f"
+    ],
     "name:fra_x_preferred":[
         "Ipolydam\u00e1sd"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125968389,
-    "wof:lastmodified":1561751602,
+    "wof:lastmodified":1563237752,
     "wof:name":"Ipolydam\u00e1sd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

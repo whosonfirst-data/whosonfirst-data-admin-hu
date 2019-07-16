@@ -23,10 +23,16 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0446"
     ],
+    "name:bel_x_variant":[
+        "\u0412\u0430\u0446"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0446"
     ],
     "name:cat_x_preferred":[
+        "V\u00e1c"
+    ],
+    "name:ceb_x_preferred":[
         "V\u00e1c"
     ],
     "name:ces_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:dsb_x_preferred":[
         "V\u00e1c"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Waitzen"
@@ -92,6 +101,9 @@
     ],
     "name:lit_x_preferred":[
         "Vacas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0446"
     ],
     "name:msa_x_preferred":[
         "V\u00e1c"
@@ -220,7 +232,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751555,
+    "wof:lastmodified":1563237118,
     "wof:name":"V\u00e1c",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

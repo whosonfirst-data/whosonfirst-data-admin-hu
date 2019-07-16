@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Saj\u00f3ecseg"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u06cc\u0648\u0686\u06af"
+    ],
     "name:fra_x_preferred":[
         "Saj\u00f3ecseg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d9\u05d5\u05d0\u05e6'\u05d2"
     ],
     "name:hun_x_colloquial":[
         "Sajoecseg"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751558,
+    "wof:lastmodified":1563237159,
     "wof:name":"Saj\u00f3ecseg",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

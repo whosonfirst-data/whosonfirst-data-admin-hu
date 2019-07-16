@@ -49,6 +49,9 @@
     "name:epo_x_preferred":[
         "\u00dajpest"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u067e\u0634\u062a"
+    ],
     "name:fin_x_preferred":[
         "\u00dajpest"
     ],
@@ -70,6 +73,9 @@
     "name:hun_x_variant":[
         "IV. ker\u00fclet",
         "Budapest IV. ker\u00fclete"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dajpest"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30fc\u30a4\u30da\u30b7\u30e5\u30c8"
@@ -166,7 +172,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751510,
+    "wof:lastmodified":1563236072,
     "wof:name":"\u00dajpest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

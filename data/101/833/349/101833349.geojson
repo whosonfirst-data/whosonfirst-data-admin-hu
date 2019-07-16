@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043c\u043e\u043d\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Domony"
+    ],
     "name:deu_x_preferred":[
         "Domony"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Domony"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Domony"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1563237066,
     "wof:name":"Domony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

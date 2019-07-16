@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u062a\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Tata"
+    ],
+    "name:ceb_x_preferred":[
+        "Tata"
+    ],
     "name:ces_x_preferred":[
         "Tata"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud130\ud130"
+    ],
+    "name:lit_x_preferred":[
+        "Tata"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0442\u0430"
@@ -201,7 +210,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751552,
+    "wof:lastmodified":1563237074,
     "wof:name":"Tata",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

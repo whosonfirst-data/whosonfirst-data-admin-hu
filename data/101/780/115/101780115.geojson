@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "N\u0151tincs"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u062a\u06cc\u0646\u0686"
+    ],
     "name:fra_x_preferred":[
         "N\u0151tincs"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101780115,
-    "wof:lastmodified":1561751586,
+    "wof:lastmodified":1563237504,
     "wof:name":"N\u0151tincs",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

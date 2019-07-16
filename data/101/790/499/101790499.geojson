@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0456\u0448\u043a\u0443\u043d\u043c\u0430\u0439\u0448\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kiskunmajsa"
+    ],
     "name:ces_x_preferred":[
         "Kiskunmajsa"
     ],
@@ -30,6 +33,9 @@
         "Kiskunmajsa"
     ],
     "name:epo_x_preferred":[
+        "Kiskunmajsa"
+    ],
+    "name:est_x_preferred":[
         "Kiskunmajsa"
     ],
     "name:fas_x_preferred":[
@@ -53,11 +59,17 @@
     "name:hye_x_preferred":[
         "\u053f\u056b\u0577\u056f\u0578\u0582\u0576\u0574\u0561\u0575\u0577\u0561"
     ],
+    "name:isl_x_preferred":[
+        "Kiskunmajsa"
+    ],
     "name:ita_x_preferred":[
         "Kiskunmajsa"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30b7\u30e5\u30af\u30f3\u30de\u30a4\u30b7\u30e3\u5e02"
+    ],
+    "name:kal_x_preferred":[
+        "Kiskunmajsa"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\uc288\ucfe4\uba38\uc774\uc154"
@@ -93,6 +105,9 @@
         "\u041a\u0438\u0448\u043a\u0443\u043d\u043c\u0430\u0458\u0448\u0430"
     ],
     "name:swe_x_preferred":[
+        "Kiskunmajsa"
+    ],
+    "name:tur_x_preferred":[
         "Kiskunmajsa"
     ],
     "name:ukr_x_preferred":[
@@ -160,7 +175,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751534,
+    "wof:lastmodified":1563236857,
     "wof:name":"Kiskunmajsa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

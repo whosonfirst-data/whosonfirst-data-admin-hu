@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u06a9\u0648\u0646\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
@@ -106,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751533,
+    "wof:lastmodified":1563236838,
     "wof:name":"Nagyk\u00f3nyi",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

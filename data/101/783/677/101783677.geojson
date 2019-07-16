@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Saj\u00f3petri"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u06cc\u0648\u067e\u062a\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Saj\u00f3petri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d9\u05d5\u05e4\u05d8\u05e8\u05d9"
     ],
     "name:hun_x_colloquial":[
         "Sajopetri"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751564,
+    "wof:lastmodified":1563237237,
     "wof:name":"Saj\u00f3petri",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

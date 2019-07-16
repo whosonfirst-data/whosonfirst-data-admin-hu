@@ -17,6 +17,9 @@
     "mps:longitude":18.447196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "D\u00e9g"
+    ],
     "name:deu_x_preferred":[
         "D\u00e9g"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:epo_x_preferred":[
         "D\u00e9g"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06af"
     ],
     "name:fra_x_preferred":[
         "D\u00e9g"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751592,
+    "wof:lastmodified":1563237584,
     "wof:name":"D\u00e9g",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

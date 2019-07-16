@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Nagylak"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u0644\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Nagylak"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125816307,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237712,
     "wof:name":"Nagylak",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

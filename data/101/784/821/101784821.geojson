@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Nemesbikk"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0634\u0628\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Nemesbikk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05e9\u05d1\u05d9\u05e7"
     ],
     "name:hun_x_preferred":[
         "Nemesbikk"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237259,
     "wof:name":"Nemesbikk",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

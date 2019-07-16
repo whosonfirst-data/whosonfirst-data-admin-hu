@@ -33,10 +33,10 @@
     "name:ast_x_preferred":[
         "B\u00e1cs-Kiskun"
     ],
-    "name:bel_x_preferred":[
-        "\u0411\u0430\u0447-\u041a\u0456\u0448\u043a\u0443\u043d"
+    "name:aze_x_preferred":[
+        "Ba\u00e7-Ki\u015fkun"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0411\u0430\u0447-\u041a\u0456\u0448\u043a\u0443\u043d"
     ],
     "name:ben_x_preferred":[
@@ -47,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "B\u00e1cs-Kiskun"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00e1cs-Kiskun county"
     ],
     "name:ces_x_preferred":[
         "B\u00e1cs-Kiskun"
@@ -125,6 +128,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uce58\ud0a4\uc288\ucfe4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uce58\ud0a4\uc288\ucfe4\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Comitatus B\u00e1csiensis et Cumania Minor"
     ],
@@ -169,6 +175,9 @@
     ],
     "name:ron_x_preferred":[
         "Jude\u021bul B\u00e1cs-Kiskun"
+    ],
+    "name:ron_x_variant":[
+        "B\u00e1cs-Kiskun"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0447-\u041a\u0438\u0448\u043a\u0443\u043d"
@@ -352,7 +361,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751512,
+    "wof:lastmodified":1563236102,
     "wof:name":"B\u00e1cs-Kiskun",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

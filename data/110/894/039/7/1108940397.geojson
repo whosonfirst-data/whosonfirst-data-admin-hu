@@ -36,6 +36,9 @@
     "name:est_x_preferred":[
         "Budapesti XVII rajoon"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06a9\u0648\u0634\u0645\u0646\u062a\u0647"
+    ],
     "name:fra_x_preferred":[
         "17e arrondissement de Budapest"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108940397,
-    "wof:lastmodified":1561751528,
+    "wof:lastmodified":1563236655,
     "wof:name":"Rakosmente",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

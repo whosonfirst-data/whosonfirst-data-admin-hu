@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0648\u0634\u0628\u0644"
+    ],
     "name:fra_x_preferred":[
         "M\u00f3nosb\u00e9l"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125874525,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237730,
     "wof:name":"M\u00f3nosb\u00e9l",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

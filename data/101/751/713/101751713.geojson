@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0628\u0631\u0648\u0646"
     ],
+    "name:aze_x_preferred":[
+        "\u015eopron"
+    ],
     "name:bar_x_preferred":[
         "\u00d6denburg"
     ],
@@ -41,7 +44,16 @@
     "name:cat_x_preferred":[
         "Sopron"
     ],
+    "name:ceb_x_preferred":[
+        "Sopron"
+    ],
     "name:ces_x_preferred":[
+        "Sopron"
+    ],
+    "name:ces_x_variant":[
+        "\u0160opro\u0148"
+    ],
+    "name:cym_x_preferred":[
         "Sopron"
     ],
     "name:dan_x_preferred":[
@@ -127,6 +139,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e8\u10dd\u10de\u10e0\u10dd\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043e\u043f\u0440\u043e\u043d"
     ],
     "name:kor_x_preferred":[
         "\uc1fc\ud504\ub860"
@@ -302,7 +317,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751570,
+    "wof:lastmodified":1563237310,
     "wof:name":"Sopron",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

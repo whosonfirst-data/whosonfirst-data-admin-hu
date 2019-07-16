@@ -12,8 +12,17 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00e9k\u00e9s Airport"
+    ],
     "name:hun_x_preferred":[
         "B\u00e9k\u00e9scsabai rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30fc\u30b1\u30fc\u30b7\u30e5\u7a7a\u6e2f"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul B\u00e9k\u00e9s"
     ],
     "oa:elevation_ft":"279",
     "oa:type":"small_airport",
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":102547493,
-    "wof:lastmodified":1543792156,
+    "wof:lastmodified":1563235897,
     "wof:name":"Bekescsaba Airport",
     "wof:parent_id":85684875,
     "wof:placetype":"campus",

@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "M\u00e1riak\u00e1lnok"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u06a9\u0627\u0644\u0646\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "M\u00e1riak\u00e1lnok"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751557,
+    "wof:lastmodified":1563237143,
     "wof:name":"M\u00e1riak\u00e1lnok",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

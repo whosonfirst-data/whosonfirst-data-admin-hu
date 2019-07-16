@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Rum"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
         "Rum"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751589,
+    "wof:lastmodified":1563237532,
     "wof:name":"Rum",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

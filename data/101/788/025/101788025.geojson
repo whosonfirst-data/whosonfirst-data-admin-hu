@@ -17,7 +17,16 @@
     "mps:longitude":16.541745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "K\u0151szeg"
+    ],
     "name:ces_x_preferred":[
+        "K\u0151szeg"
+    ],
+    "name:cym_x_preferred":[
+        "K\u0151szeg"
+    ],
+    "name:dan_x_preferred":[
         "K\u0151szeg"
     ],
     "name:deu_x_preferred":[
@@ -26,10 +35,16 @@
     "name:deu_x_variant":[
         "K\u00f6szeg"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bf\u03cd\u03b6\u03b5\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "K\u0151szeg"
     ],
     "name:epo_x_preferred":[
+        "K\u0151szeg"
+    ],
+    "name:est_x_preferred":[
         "K\u0151szeg"
     ],
     "name:fas_x_preferred":[
@@ -58,6 +73,9 @@
     ],
     "name:lat_x_preferred":[
         "Ginsium"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0435\u0441\u0435\u0433"
     ],
     "name:msa_x_preferred":[
         "K\u0151szeg"
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":101788025,
-    "wof:lastmodified":1561751573,
+    "wof:lastmodified":1563237347,
     "wof:name":"K\u0151szeg",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

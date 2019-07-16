@@ -17,6 +17,9 @@
     "mps:longitude":19.526519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gomba"
+    ],
     "name:deu_x_preferred":[
         "Gomba"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:epo_x_preferred":[
         "Gomba"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0645\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Gomba"
@@ -114,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1563237071,
     "wof:name":"Gomba",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Szeremle"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0645\u0644\u0647"
+    ],
     "name:fra_x_preferred":[
         "Szeremle"
     ],
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751542,
+    "wof:lastmodified":1563236960,
     "wof:name":"Szeremle",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

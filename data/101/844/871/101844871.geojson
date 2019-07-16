@@ -17,6 +17,9 @@
     "mps:longitude":17.390874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "K\u00e9thely"
+    ],
     "name:deu_x_preferred":[
         "K\u00e9thely"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:epo_x_preferred":[
         "K\u00e9thely"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u062a\u0647\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
         "K\u00e9thely"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1563237033,
     "wof:name":"K\u00e9thely",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

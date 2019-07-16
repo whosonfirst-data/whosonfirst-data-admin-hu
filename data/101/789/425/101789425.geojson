@@ -20,11 +20,17 @@
     "name:cbk_zam_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
+    "name:ceb_x_preferred":[
+        "Szabadbatty\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
     "name:epo_x_preferred":[
         "Szabadbatty\u00e1n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0628\u0627\u062f\u0628\u0627\u062a\u06a9\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Szabadbatty\u00e1n"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237522,
     "wof:name":"Szabadbatty\u00e1n",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

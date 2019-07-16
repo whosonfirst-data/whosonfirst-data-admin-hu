@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u063a\u0631\u0627\u062f"
     ],
+    "name:aze_x_preferred":[
+        "Noqrad"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "N\u00f3gr\u00e1d"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00f3gr\u00e1d megye"
     ],
     "name:ces_x_preferred":[
         "N\u00f3gr\u00e1d"
@@ -56,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "N\u00f3gr\u00e1d"
+    ],
+    "name:eng_x_variant":[
+        "N\u00f3gr\u00e1d County"
     ],
     "name:epo_x_preferred":[
         "N\u00f3gr\u00e1d"
@@ -114,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ub178\uadf8\ub77c\ub4dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub178\uadf8\ub77c\ub4dc\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Nogr\u0101das me\u0123e"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:ron_x_preferred":[
         "Jude\u021bul N\u00f3gr\u00e1d"
+    ],
+    "name:ron_x_variant":[
+        "N\u00f3gr\u00e1d"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0433\u0440\u0430\u0434"
@@ -332,7 +347,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751514,
+    "wof:lastmodified":1563236115,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

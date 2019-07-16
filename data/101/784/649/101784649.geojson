@@ -17,6 +17,12 @@
     "mps:longitude":21.42668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hajd\u00fan\u00e1n\u00e1s"
+    ],
+    "name:ces_x_preferred":[
+        "Hajd\u00fan\u00e1n\u00e1s"
+    ],
     "name:deu_x_preferred":[
         "Hajd\u00fan\u00e1n\u00e1s"
     ],
@@ -53,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30a4\u30c9\u30a5\u30fc\u30ca\u30fc\u30ca\u30fc\u30b7\u30e5"
     ],
+    "name:kor_x_preferred":[
+        "\ud5c8\uc774\ub450\ub098\ub098\uc2dc"
+    ],
     "name:msa_x_preferred":[
         "Hajd\u00fan\u00e1n\u00e1s"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:rup_x_preferred":[
         "Hajd\u00fan\u00e1n\u00e1s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0443\u043d\u0430\u043d\u0430\u0448"
     ],
     "name:slk_x_preferred":[
         "Hajd\u00fan\u00e1n\u00e1s"
@@ -145,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751568,
+    "wof:lastmodified":1563237280,
     "wof:name":"Hajd\u00fan\u00e1n\u00e1s",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

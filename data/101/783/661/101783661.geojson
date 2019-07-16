@@ -17,6 +17,12 @@
     "mps:longitude":20.883317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Als\u00f3zsolca"
+    ],
+    "name:ces_x_preferred":[
+        "Als\u00f3zsolca"
+    ],
     "name:deu_x_preferred":[
         "Als\u00f3zsolca"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Als\u00f3zsolca"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05e9\u05d5\u05d6'\u05d5\u05dc\u05e6\u05d4"
     ],
     "name:hun_x_colloquial":[
         "Alsozsolca"
@@ -130,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751563,
+    "wof:lastmodified":1563237215,
     "wof:name":"Als\u00f3zsolca",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

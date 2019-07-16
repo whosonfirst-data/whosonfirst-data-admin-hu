@@ -16,11 +16,17 @@
     "mps:longitude":17.299313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Nemesszal\u00f3k"
+    ],
     "name:eng_x_preferred":[
         "Nemesszal\u00f3k"
     ],
     "name:epo_x_preferred":[
         "Nemesszal\u00f3k"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0634\u0633\u0627\u0644\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
         "Nemesszal\u00f3k"
@@ -113,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751576,
+    "wof:lastmodified":1563237386,
     "wof:name":"Nemesszal\u00f3k",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

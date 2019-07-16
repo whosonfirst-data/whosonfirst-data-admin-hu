@@ -17,11 +17,20 @@
     "mps:longitude":20.752842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tiszaf\u00fcred"
+    ],
+    "name:ces_x_preferred":[
+        "Tiszaf\u00fcred"
+    ],
     "name:deu_x_preferred":[
         "Tiszaf\u00fcred"
     ],
     "name:eng_x_preferred":[
         "Tiszafiired"
+    ],
+    "name:eng_x_variant":[
+        "Tiszaf\u00fcred"
     ],
     "name:epo_x_preferred":[
         "Tiszaf\u00fcred"
@@ -68,6 +77,9 @@
         "Tiszaf\u00fcred"
     ],
     "name:slv_x_preferred":[
+        "Tiszaf\u00fcred"
+    ],
+    "name:spa_x_preferred":[
         "Tiszaf\u00fcred"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237136,
     "wof:name":"Tiszaf\u00fcred",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

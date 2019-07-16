@@ -26,6 +26,9 @@
     "name:epo_x_preferred":[
         "Lov\u00e1szi"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0627\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Lov\u00e1szi"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751533,
+    "wof:lastmodified":1563236838,
     "wof:name":"Lov\u00e1szi",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

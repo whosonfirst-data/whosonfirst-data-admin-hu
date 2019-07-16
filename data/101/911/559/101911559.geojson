@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Feln\u00e9met"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u043b\u044c\u043d\u0435\u043c\u0435\u0442"
+    ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
     "qs:a1r":"9\u00c9szak-Magyarorsz\u00e1g",
@@ -76,7 +79,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1563237327,
     "wof:name":"Feln\u00e9met",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

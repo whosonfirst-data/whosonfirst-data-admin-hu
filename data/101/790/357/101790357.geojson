@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Gelse"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0634\u0647"
+    ],
     "name:fra_x_preferred":[
         "Gelse"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751536,
+    "wof:lastmodified":1563236881,
     "wof:name":"Gelse",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

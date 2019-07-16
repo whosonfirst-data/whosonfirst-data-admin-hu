@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u0430\u043b\u044c\u043d\u0430\u0448\u043d\u044c\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00e1poln\u00e1sny\u00e9k"
+    ],
     "name:eng_x_preferred":[
         "K\u00e1poln\u00e1sny\u00e9k"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:ron_x_preferred":[
         "K\u00e1poln\u00e1sny\u00e9k"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043e\u043b\u044c\u043d\u0430\u0448\u043d\u044c\u0435\u043a"
     ],
     "name:slk_x_preferred":[
         "K\u00e1poln\u00e1sny\u00e9k"
@@ -124,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751554,
+    "wof:lastmodified":1563237101,
     "wof:name":"K\u00e1poln\u00e1sny\u00e9k",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

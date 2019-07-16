@@ -17,7 +17,13 @@
     "mps:longitude":18.970562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kalocsa"
+    ],
     "name:ces_x_preferred":[
+        "Kalocsa"
+    ],
+    "name:cym_x_preferred":[
         "Kalocsa"
     ],
     "name:deu_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:kor_x_preferred":[
         "\uceec\ub85c\ucc98"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u0447\u0430"
     ],
     "name:msa_x_preferred":[
         "Kalocsa"
@@ -169,7 +178,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751532,
+    "wof:lastmodified":1563236831,
     "wof:name":"Kalocsa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0424\u0435\u0433\u0439\u0432\u0435\u0440\u043d\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Fegyvernek"
+    ],
+    "name:ces_x_preferred":[
+        "Fegyvernek"
+    ],
     "name:eng_x_preferred":[
         "Fegyvernek"
     ],
@@ -115,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751572,
+    "wof:lastmodified":1563237339,
     "wof:name":"Fegyvernek",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

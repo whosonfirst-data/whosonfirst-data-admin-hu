@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
+    "name:epo_x_variant":[
+        "Sz\u0171csi"
+    ],
     "name:fra_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
@@ -40,8 +43,14 @@
     "name:hun_x_preferred":[
         "Bajza J\u00f3zsef"
     ],
+    "name:hun_x_variant":[
+        "Sz\u0171csi"
+    ],
     "name:ita_x_preferred":[
         "J\u00f3zsef Bajza"
+    ],
+    "name:ita_x_variant":[
+        "Sz\u0171csi"
     ],
     "name:msa_x_preferred":[
         "Sz\u0171csi"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101784701,
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237251,
     "wof:name":"Sz\u00fccsi",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mps:longitude":20.859999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fels\u0151zsolca"
+    ],
+    "name:ces_x_preferred":[
+        "Fels\u0151zsolca"
+    ],
     "name:deu_x_preferred":[
         "Fels\u0151zsolca"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Fels\u0151zsolca"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05e9\u05d6'\u05d5\u05dc\u05e6\u05d4"
     ],
     "name:hun_x_preferred":[
         "Fels\u0151zsolca"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":101783653,
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237241,
     "wof:name":"Fels\u0151zsolca",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

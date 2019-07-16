@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "P\u00f3cspetri"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0686\u067e\u062a\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "P\u00f3cspetri"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237199,
     "wof:name":"P\u00f3cspetri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

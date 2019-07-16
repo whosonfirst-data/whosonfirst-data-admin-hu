@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Kemence"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0646\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Kemence"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751569,
+    "wof:lastmodified":1563237287,
     "wof:name":"Kemence",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

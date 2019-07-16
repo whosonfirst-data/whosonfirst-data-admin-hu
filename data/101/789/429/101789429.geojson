@@ -16,6 +16,9 @@
     "mps:longitude":18.246001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Jen\u0151"
+    ],
     "name:eng_x_preferred":[
         "Jen\u0151"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:est_x_preferred":[
         "Jen\u0151"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Jen\u0151"
@@ -54,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Jen\u0151"
+    ],
+    "name:vie_x_variant":[
+        "Helv\u00e9cia"
     ],
     "name:zho_x_preferred":[
         "\u8036\u5185"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":101789429,
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237573,
     "wof:name":"Jen\u0151",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

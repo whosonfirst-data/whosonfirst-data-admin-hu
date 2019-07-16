@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Zsennye"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0646\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Zsennye"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125912395,
-    "wof:lastmodified":1561751603,
+    "wof:lastmodified":1563237761,
     "wof:name":"Zsennye",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

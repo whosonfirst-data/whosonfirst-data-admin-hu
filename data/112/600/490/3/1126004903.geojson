@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Lenti"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u043d\u0442\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Lenti"
     ],
     "name:ces_x_preferred":[
         "Lenti"
@@ -34,6 +40,9 @@
     "name:epo_x_preferred":[
         "Lenti"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Lenti"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "Lenti"
+    ],
+    "name:kor_x_preferred":[
+        "\ub80c\ud2f0"
     ],
     "name:msa_x_preferred":[
         "Lenti"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":1126004903,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237785,
     "wof:name":"M\u00e1homfa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Fels\u0151ny\u00e1r\u00e1d"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05e9\u05e0\u05d9\u05d0\u05e8\u05d0\u05d3"
+    ],
     "name:hun_x_preferred":[
         "Fels\u0151ny\u00e1r\u00e1d"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101833409,
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1563237061,
     "wof:name":"Fels\u0151ny\u00e1r\u00e1d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

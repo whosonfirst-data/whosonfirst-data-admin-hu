@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Biri"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Biri"
     ],
@@ -101,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751563,
+    "wof:lastmodified":1563237222,
     "wof:name":"Biri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

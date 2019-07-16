@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Mosonszolnok"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0634\u0648\u0646\u0633\u0648\u0644\u0646\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Mosonszolnok"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237134,
     "wof:name":"Mosonszolnok",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

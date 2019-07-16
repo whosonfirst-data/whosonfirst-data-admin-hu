@@ -17,6 +17,12 @@
     "mps:longitude":21.384351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sarkad"
+    ],
+    "name:ces_x_preferred":[
+        "Sarkad"
+    ],
     "name:deu_x_preferred":[
         "Sarkad"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Sarkad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05e8\u05e7\u05d0\u05d3"
     ],
     "name:hrv_x_preferred":[
         "Sarkad"
@@ -143,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751589,
+    "wof:lastmodified":1563237536,
     "wof:name":"Sarkad",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

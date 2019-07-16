@@ -26,6 +26,9 @@
     "name:epo_x_preferred":[
         "Hortob\u00e1gy"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u062a\u0648\u0628\u0627\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Hortob\u00e1gy"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Hortob\u00e1gy"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0440\u0442\u043e\u0431\u0430\u0453"
     ],
     "name:nan_x_preferred":[
         "Hortob\u00e1gy"
@@ -123,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751558,
+    "wof:lastmodified":1563237150,
     "wof:name":"Hortob\u00e1gy",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

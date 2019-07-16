@@ -55,6 +55,9 @@
     "name:szl_x_preferred":[
         "Patak"
     ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u9676\u514b"
+    ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*N\u00f3gr\u00e1d",
     "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
@@ -100,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237250,
     "wof:name":"Patak",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

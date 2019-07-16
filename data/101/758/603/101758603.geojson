@@ -17,6 +17,9 @@
     "mps:longitude":18.953711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Di\u00f3sd"
+    ],
     "name:ces_x_preferred":[
         "Di\u00f3sd"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Di\u00f3sd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u0634\u062f"
     ],
     "name:fra_x_preferred":[
         "Di\u00f3sd"
@@ -59,14 +65,23 @@
     "name:ron_x_preferred":[
         "Di\u00f3sd"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043e\u0448\u0434"
+    ],
     "name:slk_x_preferred":[
         "Di\u00f3sd"
     ],
     "name:slv_x_preferred":[
         "Di\u00f3sd"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u043e\u0448\u0434"
+    ],
     "name:swe_x_preferred":[
         "Di\u00f3sd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u043e\u0448\u0434"
     ],
     "name:vie_x_preferred":[
         "Di\u00f3sd"
@@ -124,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751570,
+    "wof:lastmodified":1563237298,
     "wof:name":"Di\u00f3sd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

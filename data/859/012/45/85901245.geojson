@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0633\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Pe\u015ft"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0448\u0442"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:ces_x_preferred":[
         "Pe\u0161\u0165"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0448\u0442"
     ],
     "name:cym_x_preferred":[
         "Pla"
@@ -128,6 +137,9 @@
     ],
     "name:lit_x_preferred":[
         "Pe\u0161tas"
+    ],
+    "name:ltz_x_preferred":[
+        "Pescht"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0938\u094d\u091f"
@@ -271,7 +283,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751510,
+    "wof:lastmodified":1563236063,
     "wof:name":"Pestj",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

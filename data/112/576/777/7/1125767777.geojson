@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "\u00dany"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "\u00dany"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125767777,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237794,
     "wof:name":"\u00dany",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

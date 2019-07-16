@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16437470.674285,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.105476,46.680795,21.105476,46.680795",
     "geom:latitude":46.680795,
     "geom:longitude":21.105476,
@@ -25,8 +25,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Csabaszabadi"
+    ],
     "name:epo_x_preferred":[
         "Csabaszabadi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0628\u0627\u0633\u0627\u0628\u0627\u062f\u06cc"
     ],
     "name:fra_x_preferred":[
         "Csabaszabadi"
@@ -38,6 +44,9 @@
         "Csabaszabadi"
     ],
     "name:msa_x_preferred":[
+        "Csabaszabadi"
+    ],
+    "name:nan_x_preferred":[
         "Csabaszabadi"
     ],
     "name:nld_x_preferred":[
@@ -99,11 +108,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":49,
     "wof:belongsto":[
-        85684875,
         102191581,
         85633237,
         404227487,
-        101751697
+        101751697,
+        85684875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932428,
+    "wof:lastmodified":1563236092,
     "wof:name":"Csabaszabadi",
     "wof:parent_id":101751697,
     "wof:placetype":"neighbourhood",

@@ -20,11 +20,17 @@
     "name:aze_x_preferred":[
         "Dy\u00f6ndy\u00f6\u015f"
     ],
+    "name:aze_x_variant":[
+        "Gy\u00f6ngy\u00f6\u015f"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u044c\u0451\u043d\u0434\u0437\u044c\u0451\u0448"
     ],
     "name:bul_x_preferred":[
         "\u0414\u044c\u043e\u043d\u0434\u044c\u043e\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Gy\u00f6ngy\u00f6s"
     ],
     "name:ces_x_preferred":[
         "Gy\u00f6ngy\u00f6s"
@@ -80,6 +86,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc8c8\uc8c4\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Dende\u0161as"
     ],
     "name:mkd_x_preferred":[
         "\u0403\u0435\u043d\u0453\u0435\u0448"
@@ -200,7 +209,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237254,
     "wof:name":"Gy\u00f6ngy\u00f6s",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

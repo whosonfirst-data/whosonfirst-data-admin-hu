@@ -64,6 +64,9 @@
     "name:ron_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u0442\u0451\u0441\u0435\u043f\u043b\u0430\u043a"
+    ],
     "name:slk_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101833315,
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1563237065,
     "wof:name":"Fert\u0151sz\u00e9plak",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

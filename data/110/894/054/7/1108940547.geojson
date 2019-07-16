@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Budat\u00e9teny"
     ],
+    "name:hun_x_variant":[
+        "Budat\u00e9t\u00e9ny"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108940547,
-    "wof:lastmodified":1561751527,
+    "wof:lastmodified":1563236649,
     "wof:name":"Budateteny",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

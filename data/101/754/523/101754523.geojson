@@ -17,6 +17,12 @@
     "mps:longitude":18.930947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Solym\u00e1r"
+    ],
+    "name:ces_x_preferred":[
+        "Solym\u00e1r"
+    ],
     "name:deu_x_preferred":[
         "Solym\u00e1r"
     ],
@@ -68,6 +74,9 @@
     "name:vie_x_preferred":[
         "Solym\u00e1r"
     ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5229\u4ec0\u68ee\u8482\u4e07"
+    ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
     "qs:a1r":"0K\u00f6z\u00e9p-Magyarorsz\u00e1g",
@@ -118,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751540,
+    "wof:lastmodified":1563236936,
     "wof:name":"Solym\u00e1r",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

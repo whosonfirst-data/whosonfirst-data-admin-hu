@@ -17,8 +17,17 @@
     "mps:longitude":19.403177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0406\u0448\u0430\u0441\u0435\u0433"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u0430\u0441\u0437\u0435\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Isaszeg"
+    ],
+    "name:ces_x_preferred":[
+        "Isaszeg"
     ],
     "name:deu_x_preferred":[
         "Isaszeg"
@@ -136,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237472,
     "wof:name":"Isaszeg",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

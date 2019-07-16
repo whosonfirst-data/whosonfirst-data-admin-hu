@@ -26,6 +26,9 @@
     "name:epo_x_preferred":[
         "B\u00e1ta"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "B\u00e1ta"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:hun_x_preferred":[
         "B\u00e1ta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057f\u0561"
     ],
     "name:ita_x_preferred":[
         "B\u00e1ta"
@@ -111,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1563237017,
     "wof:name":"B\u00e1ta",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

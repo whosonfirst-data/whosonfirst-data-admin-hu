@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Solt"
+    ],
     "name:ces_x_preferred":[
         "Solt"
     ],
@@ -83,6 +86,9 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043b\u044c\u0442"
     ],
+    "name:vie_x_preferred":[
+        "Solt"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Solt"
     ],
@@ -139,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237531,
     "wof:name":"Solt",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

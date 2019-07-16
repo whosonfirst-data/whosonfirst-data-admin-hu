@@ -17,17 +17,32 @@
     "mps:longitude":21.064445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tiszal\u00fac"
+    ],
+    "name:ces_x_preferred":[
+        "Tiszal\u00fac"
+    ],
     "name:deu_x_preferred":[
         "Tiszal\u00fac"
     ],
     "name:eng_x_preferred":[
         "Tiszalucz"
     ],
+    "name:eng_x_variant":[
+        "Tiszal\u00fac"
+    ],
     "name:epo_x_preferred":[
         "Tiszal\u00fac"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u0644\u0648\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Tiszal\u00fac"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05dc\u05d5\u05e5"
     ],
     "name:hun_x_colloquial":[
         "Tiszaluc"
@@ -57,6 +72,9 @@
         "Tiszal\u00fac"
     ],
     "name:slv_x_preferred":[
+        "Tiszal\u00fac"
+    ],
+    "name:spa_x_preferred":[
         "Tiszal\u00fac"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237202,
     "wof:name":"Tiszal\u00fac",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

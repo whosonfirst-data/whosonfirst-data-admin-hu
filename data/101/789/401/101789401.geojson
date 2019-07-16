@@ -16,11 +16,17 @@
     "mps:longitude":21.040013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Murony"
+    ],
     "name:eng_x_preferred":[
         "Murony"
     ],
     "name:epo_x_preferred":[
         "Murony"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Murony"
@@ -120,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237530,
     "wof:name":"Murony",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

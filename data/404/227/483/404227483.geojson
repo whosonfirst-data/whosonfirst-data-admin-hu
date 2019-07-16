@@ -15,6 +15,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0645\u0627\u0644 \u0627\u0644\u0633\u0647\u0644 \u0627\u0644\u0639\u0638\u064a\u0645"
     ],
+    "name:aze_x_preferred":[
+        "\u015eimali Alf\u00f6ld"
+    ],
     "name:deu_x_preferred":[
         "N\u00f6rdliche Gro\u00dfe Tiefebene"
     ],
@@ -125,7 +128,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751595,
+    "wof:lastmodified":1563237652,
     "wof:name":"Northern Great Plain",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

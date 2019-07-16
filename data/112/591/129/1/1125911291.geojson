@@ -51,6 +51,9 @@
     "name:ron_x_preferred":[
         "Szarvask\u0151"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0432\u0430\u0448\u043a\u0451"
+    ],
     "name:slk_x_preferred":[
         "Szarvask\u0151"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125911291,
-    "wof:lastmodified":1561751603,
+    "wof:lastmodified":1563237759,
     "wof:name":"Szarvask\u0151",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

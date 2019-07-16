@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Monorierd\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0648\u0631\u06cc\u0631\u062f\u0648"
+    ],
     "name:fra_x_preferred":[
         "Monorierd\u0151"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126019161,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237784,
     "wof:name":"Monorierd\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

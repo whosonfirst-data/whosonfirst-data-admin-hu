@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "\u00dajpetre"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u067e\u062a\u0631\u0647"
+    ],
     "name:fra_x_preferred":[
         "\u00dajpetre"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751541,
+    "wof:lastmodified":1563236954,
     "wof:name":"\u00dajpetre",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

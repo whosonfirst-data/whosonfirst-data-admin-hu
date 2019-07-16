@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Nagys\u00e1p"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u0634\u0627\u067e"
+    ],
     "name:fra_x_preferred":[
         "Nagys\u00e1p"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751555,
+    "wof:lastmodified":1563237123,
     "wof:name":"Nagys\u00e1p",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "mps:longitude":18.890395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nagykov\u00e1csi"
+    ],
+    "name:ces_x_preferred":[
+        "Nagykov\u00e1csi"
+    ],
     "name:deu_x_preferred":[
         "Nagykov\u00e1csi"
     ],
@@ -24,6 +30,9 @@
     ],
     "name:epo_x_preferred":[
         "Nagykov\u00e1csi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u06a9\u0648\u0648\u0627\u0686\u06cc"
     ],
     "name:fra_x_preferred":[
         "Nagykov\u00e1csi"
@@ -111,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237473,
     "wof:name":"Nagykov\u00e1csi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

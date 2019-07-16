@@ -24,11 +24,17 @@
     "name:deu_x_preferred":[
         "Jackfall"
     ],
+    "name:deu_x_variant":[
+        "Kisjakabfalva"
+    ],
     "name:eng_x_preferred":[
         "Kisjakabfalva"
     ],
     "name:epo_x_preferred":[
         "Kisjakabfalva"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u06cc\u0627\u06a9\u0627\u0628\u0641\u0627\u0644\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Kisjakabfalva"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1126057889,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237690,
     "wof:name":"Kisjakabfalva",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

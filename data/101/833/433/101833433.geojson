@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Varb\u00f3"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05e8\u05d1\u05d5"
+    ],
     "name:hun_x_colloquial":[
         "Varbo"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751552,
+    "wof:lastmodified":1563237080,
     "wof:name":"Varb\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Ken\u00e9zl\u0151"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d6\u05dc\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Ken\u00e9zl\u0151"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101782463,
-    "wof:lastmodified":1561751559,
+    "wof:lastmodified":1563237165,
     "wof:name":"Ken\u00e9zl\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

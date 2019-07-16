@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0431\u043e\u043d\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Abony"
+    ],
     "name:ces_x_preferred":[
         "Abony"
     ],
@@ -47,6 +50,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d5\u05e0\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05d5\u05df"
+    ],
     "name:hun_x_preferred":[
         "Abony"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:ita_x_preferred":[
         "Abony"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0431\u043e\u045a"
     ],
     "name:msa_x_preferred":[
         "Abony"
@@ -66,6 +75,9 @@
         "Abony"
     ],
     "name:pol_x_preferred":[
+        "Abony"
+    ],
+    "name:por_x_preferred":[
         "Abony"
     ],
     "name:ron_x_preferred":[
@@ -154,7 +166,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751578,
+    "wof:lastmodified":1563237408,
     "wof:name":"Abony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

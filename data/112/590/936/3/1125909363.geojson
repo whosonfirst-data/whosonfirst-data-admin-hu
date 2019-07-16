@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "P\u00fcski"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0634\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "P\u00fcski"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125909363,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237736,
     "wof:name":"P\u00fcski",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

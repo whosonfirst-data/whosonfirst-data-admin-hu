@@ -17,6 +17,12 @@
     "mps:longitude":21.37602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tiszal\u00f6k"
+    ],
+    "name:ces_x_preferred":[
+        "Tiszal\u00f6k"
+    ],
     "name:deu_x_preferred":[
         "Tiszal\u00f6k"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Tiszal\u00f6k"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u0644\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
         "Tiszal\u00f6k"
@@ -71,6 +80,9 @@
     ],
     "name:vie_x_preferred":[
         "Tiszal\u00f6k"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05d0\u05dc\u05d0\u05e7"
     ],
     "name:zho_x_preferred":[
         "\u8482\u85a9\u52d2\u514b"
@@ -125,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237198,
     "wof:name":"Tiszal\u00f6k",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

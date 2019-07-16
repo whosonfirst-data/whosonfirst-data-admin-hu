@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Pusztaszemes"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u062a\u0627\u0633\u0645\u0634"
+    ],
     "name:fra_x_preferred":[
         "Pusztaszemes"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125816375,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237712,
     "wof:name":"Pusztaszemes",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

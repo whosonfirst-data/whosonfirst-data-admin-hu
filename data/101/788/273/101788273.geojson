@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u043e\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Monor"
+    ],
+    "name:ces_x_preferred":[
+        "Monor"
+    ],
     "name:cym_x_preferred":[
         "Monor"
     ],
@@ -86,6 +92,9 @@
     "name:swe_x_preferred":[
         "Monor"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u043e\u0440"
+    ],
     "name:vie_x_preferred":[
         "Monor"
     ],
@@ -145,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751572,
+    "wof:lastmodified":1563237343,
     "wof:name":"Monor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Cered"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0631\u062f"
+    ],
     "name:fra_x_preferred":[
         "Cered"
     ],
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751563,
+    "wof:lastmodified":1563237217,
     "wof:name":"Cered",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

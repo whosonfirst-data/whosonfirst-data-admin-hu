@@ -38,6 +38,9 @@
     "name:est_x_preferred":[
         "Zugl\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u06af\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "14e arrondissement de Budapest"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:slk_x_preferred":[
         "XIV. obvod"
+    ],
+    "name:spa_x_preferred":[
+        "Zugl\u00f3"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 XIV \u043e\u043a\u0440\u0443\u0433"
@@ -144,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751510,
+    "wof:lastmodified":1563236073,
     "wof:name":"Zugl\u00f3",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

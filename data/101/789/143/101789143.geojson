@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Magyarkeszi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u06cc\u0627\u0631\u06a9\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Magyarkeszi"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751590,
+    "wof:lastmodified":1563237549,
     "wof:name":"Magyarkeszi",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

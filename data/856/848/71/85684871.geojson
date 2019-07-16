@@ -27,8 +27,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0633\u0628\u0631\u0645"
     ],
+    "name:aze_x_preferred":[
+        "Vesprem"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0435\u0441\u043f\u0440\u044d\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u043c\u0435\u0434\u0437\u044c\u0435 \u0412\u0435\u0441\u043f\u0440\u044d\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09c7\u09b8\u09cd\u09aa\u09cd\u09b0\u09c7\u09ae \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -38,6 +44,9 @@
     ],
     "name:cat_x_preferred":[
         "Veszpr\u00e9m"
+    ],
+    "name:ceb_x_preferred":[
+        "Veszpr\u00e9m megye"
     ],
     "name:ces_x_preferred":[
         "Veszpr\u00e9m"
@@ -53,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Veszpr\u00e9m"
+    ],
+    "name:eng_x_variant":[
+        "Veszpr\u00e9m County"
     ],
     "name:epo_x_preferred":[
         "Veszpr\u00e9m"
@@ -111,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ubca0\uc2a4\ud504\ub818 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubca0\uc2a4\ud504\ub818\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Comitatus Vesprimensis"
     ],
@@ -147,6 +162,9 @@
     "name:ron_x_preferred":[
         "Jude\u021bul Veszpr\u00e9m"
     ],
+    "name:ron_x_variant":[
+        "Veszpr\u00e9m"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0441\u043f\u0440\u0435\u043c"
     ],
@@ -182,6 +200,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e0b\u0e2a\u0e40\u0e1e\u0e23\u0e21 \u0e04\u0e31\u0e19\u0e17\u0e23\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e41\u0e27\u0e47\u0e2a\u0e40\u0e1b\u0e23\u0e21"
     ],
     "name:tur_x_preferred":[
         "Veszpr\u00e9m ili"
@@ -269,7 +290,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751513,
+    "wof:lastmodified":1563236112,
     "wof:name":"Veszpr\u00e9m",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Nadap"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062f\u0627\u067e"
+    ],
     "name:fra_x_preferred":[
         "Nadap"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125816289,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237702,
     "wof:name":"Nadap",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

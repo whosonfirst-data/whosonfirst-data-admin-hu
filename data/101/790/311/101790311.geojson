@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Mernye"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0646\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "Mernye"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751539,
+    "wof:lastmodified":1563236916,
     "wof:name":"Mernye",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

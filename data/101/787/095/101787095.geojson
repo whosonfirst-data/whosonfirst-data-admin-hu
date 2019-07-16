@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Ecser"
     ],
+    "name:amh_x_preferred":[
+        "\u12a7\u1278\u122d"
+    ],
     "name:ang_x_preferred":[
         "Ecser"
     ],
@@ -27,6 +30,9 @@
         "\u0623\u062a\u0634\u0631"
     ],
     "name:arg_x_preferred":[
+        "Ecser"
+    ],
+    "name:ast_x_preferred":[
         "Ecser"
     ],
     "name:aze_x_preferred":[
@@ -191,6 +197,9 @@
     "name:myv_x_preferred":[
         "\u042d\u0447\u0435\u0440"
     ],
+    "name:myv_x_variant":[
+        "\u042d\u0447\u0435\u0440 \u043e\u0448"
+    ],
     "name:nah_x_preferred":[
         "Ecser"
     ],
@@ -287,6 +296,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e17\u0e40\u0e0a\u0e2d"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e2d\u0e47\u0e15\u0e41\u0e0a\u0e23\u0e4c"
+    ],
     "name:tpi_x_preferred":[
         "Ecser"
     ],
@@ -379,7 +391,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751585,
+    "wof:lastmodified":1563237493,
     "wof:name":"Ecser",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

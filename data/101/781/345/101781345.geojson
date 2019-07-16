@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Holl\u00f3h\u00e1za"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644\u0648\u0647\u0627\u0632\u0627"
+    ],
     "name:fra_x_preferred":[
         "Holl\u00f3h\u00e1za"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05dc\u05d5\u05d4\u05d0\u05d6\u05d4"
     ],
     "name:hun_x_colloquial":[
         "Hollohaza"
@@ -54,6 +60,9 @@
     ],
     "name:slk_x_preferred":[
         "Holl\u00f3h\u00e1za"
+    ],
+    "name:slk_x_variant":[
+        "Holoh\u00e1z"
     ],
     "name:slv_x_preferred":[
         "Holl\u00f3h\u00e1za"
@@ -113,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751580,
+    "wof:lastmodified":1563237426,
     "wof:name":"Holl\u00f3h\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

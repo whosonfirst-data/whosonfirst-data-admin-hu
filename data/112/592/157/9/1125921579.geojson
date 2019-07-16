@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "V\u00e1g"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06af"
+    ],
     "name:fra_x_preferred":[
         "V\u00e1g"
     ],
@@ -49,6 +52,9 @@
         "V\u00e1g"
     ],
     "name:slk_x_preferred":[
+        "V\u00e1g"
+    ],
+    "name:slv_x_preferred":[
         "V\u00e1g"
     ],
     "name:swe_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125921579,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237668,
     "wof:name":"V\u00e1g",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

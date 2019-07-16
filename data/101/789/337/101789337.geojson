@@ -20,11 +20,20 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0442\u0435\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Lit\u00e9r"
+    ],
+    "name:deu_x_preferred":[
+        "Lit\u00e9r"
+    ],
     "name:eng_x_preferred":[
         "Lit\u00e9r"
     ],
     "name:epo_x_preferred":[
         "Lit\u00e9r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062a\u0631"
     ],
     "name:fra_x_preferred":[
         "Lit\u00e9r"
@@ -115,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751587,
+    "wof:lastmodified":1563237511,
     "wof:name":"Lit\u00e9r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

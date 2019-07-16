@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Palotabozsok"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0648\u062a\u0627\u0628\u0648\u0698\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Palotabozsok"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1563237016,
     "wof:name":"Palotabozsok",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bel_x_variant":[
         "\u0425\u044d\u0432\u0456\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00e9v\u00edz"
+    ],
     "name:ces_x_preferred":[
         "H\u00e9v\u00edz"
     ],
@@ -35,8 +38,14 @@
     "name:epo_x_preferred":[
         "H\u00e9v\u00edz"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06cc\u0632"
+    ],
     "name:fra_x_preferred":[
         "H\u00e9v\u00edz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d5\u05d9\u05d6"
     ],
     "name:hun_x_colloquial":[
         "Heviz"
@@ -49,6 +58,9 @@
     ],
     "name:ita_x_preferred":[
         "H\u00e9v\u00edz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0435\u0432\u0438\u0437"
     ],
     "name:msa_x_preferred":[
         "H\u00e9v\u00edz"
@@ -142,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751589,
+    "wof:lastmodified":1563237540,
     "wof:name":"H\u00e9v\u00edz",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Als\u00f3pet\u00e9ny"
+    ],
     "name:eng_x_preferred":[
         "Als\u00f3pet\u00e9ny"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125986667,
-    "wof:lastmodified":1561751603,
+    "wof:lastmodified":1563237767,
     "wof:name":"Als\u00f3pet\u00e9ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

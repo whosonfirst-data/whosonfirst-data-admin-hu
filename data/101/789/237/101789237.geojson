@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0438\u0442\u0435\u043b\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Lakitelek"
+    ],
     "name:deu_x_preferred":[
         "Lakitelek"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Lakitelek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06a9\u06cc\u062a\u0644\u06a9"
     ],
     "name:fra_x_preferred":[
         "Lakitelek"
@@ -124,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751592,
+    "wof:lastmodified":1563237584,
     "wof:name":"Lakitelek",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

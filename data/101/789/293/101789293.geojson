@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "J\u00e1k"
     ],
+    "name:ceb_x_preferred":[
+        "J\u00e1k"
+    ],
     "name:deu_x_preferred":[
         "J\u00e1k"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "J\u00e1k"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u06a9"
     ],
     "name:fin_x_preferred":[
         "J\u00e1k"
@@ -136,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751589,
+    "wof:lastmodified":1563237537,
     "wof:name":"J\u00e1k",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

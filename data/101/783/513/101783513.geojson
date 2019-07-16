@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "S\u00e9ny\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "S\u00e9ny\u0151"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101783513,
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237245,
     "wof:name":"S\u00e9ny\u0151",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

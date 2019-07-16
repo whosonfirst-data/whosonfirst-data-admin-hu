@@ -19,6 +19,9 @@
     "name:ces_x_preferred":[
         "Fokt\u0151"
     ],
+    "name:deu_x_preferred":[
+        "Fokt\u0151"
+    ],
     "name:eng_x_preferred":[
         "Fokt\u0151"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101790507,
-    "wof:lastmodified":1561751536,
+    "wof:lastmodified":1563236885,
     "wof:name":"Fokt\u0151",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

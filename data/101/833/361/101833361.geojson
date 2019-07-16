@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Budajen\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062f\u0627\u06cc\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
         "Budajen\u0151"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101833361,
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1563237068,
     "wof:name":"Budajen\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

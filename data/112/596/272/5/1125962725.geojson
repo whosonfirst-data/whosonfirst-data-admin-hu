@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Veszpr\u00e9mfajsz"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u067e\u0631\u0645\u0641\u0627\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
         "Veszpr\u00e9mfajsz"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125962725,
-    "wof:lastmodified":1561751602,
+    "wof:lastmodified":1563237746,
     "wof:name":"Veszpr\u00e9mfajsz",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

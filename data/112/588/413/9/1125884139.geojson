@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Vajta"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Vajta"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125884139,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237716,
     "wof:name":"Vajta",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

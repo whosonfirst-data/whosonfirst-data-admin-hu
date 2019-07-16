@@ -17,6 +17,12 @@
     "mps:longitude":20.284482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Heves"
+    ],
+    "name:ces_x_preferred":[
+        "Heves"
+    ],
     "name:deu_x_preferred":[
         "Heves"
     ],
@@ -135,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237126,
     "wof:name":"Heves",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

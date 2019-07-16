@@ -17,6 +17,9 @@
     "mps:longitude":20.945716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hej\u0151b\u00e1ba"
+    ],
     "name:deu_x_preferred":[
         "Hej\u0151b\u00e1ba"
     ],
@@ -26,8 +29,14 @@
     "name:epo_x_preferred":[
         "Hej\u0151b\u00e1ba"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0648\u0628\u0627\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Hej\u0151b\u00e1ba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d9\u05d1\u05d0\u05d1\u05d4"
     ],
     "name:hun_x_preferred":[
         "Hej\u0151b\u00e1ba"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":101783623,
-    "wof:lastmodified":1561751564,
+    "wof:lastmodified":1563237234,
     "wof:name":"Hej\u0151b\u00e1ba",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Novajidr\u00e1ny"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0627\u06cc\u06cc\u062f\u0631\u0627\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Novajidr\u00e1ny"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d0\u05d9\u05d9\u05d3\u05e8\u05d0\u05df"
     ],
     "name:hun_x_colloquial":[
         "Novajidrany"
@@ -54,6 +60,9 @@
     ],
     "name:slk_x_preferred":[
         "Novajidr\u00e1ny"
+    ],
+    "name:slk_x_variant":[
+        "Novaj-Garadn\u00e1"
     ],
     "name:slv_x_preferred":[
         "Novajidr\u00e1ny"
@@ -113,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751560,
+    "wof:lastmodified":1563237177,
     "wof:name":"Novajidr\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

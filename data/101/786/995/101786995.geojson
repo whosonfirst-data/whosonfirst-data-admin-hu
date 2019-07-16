@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Hegyk\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06af\u06cc\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Hegyk\u0151"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101786995,
-    "wof:lastmodified":1561751582,
+    "wof:lastmodified":1563237447,
     "wof:name":"Hegyk\u0151",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

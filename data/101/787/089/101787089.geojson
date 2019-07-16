@@ -17,6 +17,12 @@
     "mps:longitude":18.829373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Biatorb\u00e1gy"
+    ],
+    "name:ces_x_preferred":[
+        "Biatorb\u00e1gy"
+    ],
     "name:deu_x_preferred":[
         "Biatorb\u00e1gy"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:ita_x_preferred":[
         "Biatorb\u00e1gy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30a2\u30c8\u30eb\u30d0\u30ae\u30fc"
     ],
     "name:msa_x_preferred":[
         "Biatorb\u00e1gy"
@@ -79,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Biatorb\u00e1gy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0430\u0442\u043e\u0440\u0431\u0430\u0434\u044c"
     ],
     "name:vie_x_preferred":[
         "Biatorb\u00e1gy"
@@ -136,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751585,
+    "wof:lastmodified":1563237485,
     "wof:name":"Biatorb\u00e1gy",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

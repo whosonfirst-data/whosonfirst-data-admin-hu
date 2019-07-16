@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Pusztaz\u00e1mor"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u062a\u0627\u0632\u0627\u0645\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Pusztaz\u00e1mor"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125909401,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237739,
     "wof:name":"Pusztaz\u00e1mor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

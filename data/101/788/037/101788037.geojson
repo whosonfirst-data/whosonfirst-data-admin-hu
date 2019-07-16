@@ -17,7 +17,13 @@
     "mps:longitude":17.149508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Celld\u00f6m\u00f6lk"
+    ],
     "name:ces_x_preferred":[
+        "Celld\u00f6m\u00f6lk"
+    ],
+    "name:dan_x_preferred":[
         "Celld\u00f6m\u00f6lk"
     ],
     "name:deu_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Celld\u00f6m\u00f6lk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05dc\u05d3\u05de\u05dc\u05e7"
     ],
     "name:hun_x_colloquial":[
         "Celldoemoelk",
@@ -146,7 +155,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751574,
+    "wof:lastmodified":1563237360,
     "wof:name":"Celld\u00f6m\u00f6lk",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

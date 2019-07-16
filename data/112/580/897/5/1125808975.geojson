@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Pilisszentl\u00e1szl\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u06cc\u0634\u0633\u0646\u062a\u0644\u0627\u0633\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Pilisszentl\u00e1szl\u00f3"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125808975,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237728,
     "wof:name":"Pilisszentl\u00e1szl\u00f3",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

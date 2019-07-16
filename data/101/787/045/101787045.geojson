@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Lengyelfalva"
     ],
+    "name:eng_x_variant":[
+        "\u00dajlengyel"
+    ],
     "name:epo_x_preferred":[
         "\u00dajlengyel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0646\u06af\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
         "\u00dajlengyel"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751585,
+    "wof:lastmodified":1563237486,
     "wof:name":"\u00dajlengyel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

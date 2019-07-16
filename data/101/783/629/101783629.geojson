@@ -28,8 +28,14 @@
     "name:epo_x_preferred":[
         "Domah\u00e1za"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0627\u0647\u0627\u0632\u0627"
+    ],
     "name:fra_x_preferred":[
         "Domah\u00e1za"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d4\u05d0\u05d6\u05d4"
     ],
     "name:hun_x_colloquial":[
         "Domahaza"
@@ -113,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751562,
+    "wof:lastmodified":1563237208,
     "wof:name":"Domah\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

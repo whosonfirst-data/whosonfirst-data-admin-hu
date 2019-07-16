@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Gy\u00e9k\u00e9nyes"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u06a9\u0646\u06cc\u0634"
+    ],
     "name:fra_x_preferred":[
         "Gy\u00e9k\u00e9nyes"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6770\u51ef\u6d85\u4ec0"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u6d85\u514b"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1563237014,
     "wof:name":"Gy\u00e9k\u00e9nyes",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

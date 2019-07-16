@@ -17,7 +17,13 @@
     "mps:longitude":20.430951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Beseny\u0151telek"
+    ],
     "name:ces_x_preferred":[
+        "Beseny\u0151telek"
+    ],
+    "name:deu_x_preferred":[
         "Beseny\u0151telek"
     ],
     "name:eng_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101785947,
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237125,
     "wof:name":"Beseny\u0151telek",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

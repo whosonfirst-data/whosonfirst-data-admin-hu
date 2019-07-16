@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0442\u0432\u0430\u0434\u043a\u0435\u0440\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Soltvadkert"
+    ],
     "name:ces_x_preferred":[
         "Soltvadkert"
     ],
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751537,
+    "wof:lastmodified":1563236894,
     "wof:name":"Soltvadkert",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mps:longitude":16.707442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Csepreg"
+    ],
     "name:ces_x_preferred":[
         "Csepreg"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Csepreg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u067e\u0631\u06af"
     ],
     "name:fra_x_preferred":[
         "Csepreg"
@@ -147,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751572,
+    "wof:lastmodified":1563237341,
     "wof:name":"Csepreg",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

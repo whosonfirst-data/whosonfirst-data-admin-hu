@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u062a\u06a9\u0648\u0632\u0628\u0631\u0646\u0686"
+    ],
     "name:fra_x_preferred":[
         "R\u00e9tk\u00f6zberencs"
     ],
@@ -108,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751546,
+    "wof:lastmodified":1563237006,
     "wof:name":"R\u00e9tk\u00f6zberencs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

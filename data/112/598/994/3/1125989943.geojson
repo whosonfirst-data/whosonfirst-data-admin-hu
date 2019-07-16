@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "R\u00e9p\u00e1shuta"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e4\u05d0\u05e9\u05d4\u05d5\u05d8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "R\u00e9p\u00e1shuta"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125989943,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237771,
     "wof:name":"R\u00e9p\u00e1shuta",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

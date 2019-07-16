@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001013,
-    "geom:area_square_m":8416687.905043,
+    "geom:area_square_m":8416687.905041,
     "geom:bbox":"18.7247713015,47.7602483396,18.7604542313,47.8120273697",
     "geom:latitude":47.785861,
     "geom:longitude":18.742705,
@@ -17,16 +17,31 @@
     "mps:longitude":18.737974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0632\u062a\u0631\u063a\u0648\u0645"
+    ],
     "name:arg_x_preferred":[
         "Esztergom"
+    ],
+    "name:aze_x_preferred":[
+        "Esterqom"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0441\u0442\u044d\u0440\u0433\u0430\u043c"
     ],
+    "name:bel_x_variant":[
+        "\u042d\u0441\u0442\u044d\u0440\u0433\u0430\u043c"
+    ],
     "name:bre_x_preferred":[
         "Esztergom"
     ],
+    "name:bul_x_preferred":[
+        "\u0415\u0441\u0437\u0442\u0435\u0440\u0433\u043e\u043c"
+    ],
     "name:cat_x_preferred":[
+        "Esztergom"
+    ],
+    "name:ceb_x_preferred":[
         "Esztergom"
     ],
     "name:ces_x_preferred":[
@@ -43,6 +58,9 @@
     ],
     "name:dsb_x_preferred":[
         "Esztergom"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03c3\u03c4\u03b5\u03c1\u03b3\u03ba\u03bf\u03bc"
     ],
     "name:eng_x_preferred":[
         "Gran"
@@ -113,6 +131,9 @@
     "name:lat_x_preferred":[
         "Strigonium"
     ],
+    "name:lav_x_preferred":[
+        "Estergoma"
+    ],
     "name:lit_x_preferred":[
         "Estergomas"
     ],
@@ -125,13 +146,22 @@
     "name:mhr_x_preferred":[
         "\u042d\u0441\u0442\u0435\u0440\u0433\u043e\u043c"
     ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0441\u0442\u0435\u0440\u0433\u043e\u043c"
+    ],
     "name:msa_x_preferred":[
+        "Esztergom"
+    ],
+    "name:nan_x_preferred":[
         "Esztergom"
     ],
     "name:nld_x_preferred":[
         "Esztergom"
     ],
     "name:nno_x_preferred":[
+        "Esztergom"
+    ],
+    "name:nob_x_preferred":[
         "Esztergom"
     ],
     "name:nor_x_preferred":[
@@ -151,6 +181,9 @@
     ],
     "name:ron_x_variant":[
         "Strigoniu"
+    ],
+    "name:rup_x_preferred":[
+        "Esztergom"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0441\u0442\u0435\u0440\u0433\u043e\u043c"
@@ -185,6 +218,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u0442\u0435\u0440\u0491\u043e\u043c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0415\u0441\u0442\u0435\u0440\u0433\u043e\u043c"
     ],
     "name:unk_x_variant":[
         "Pilisszentl\u00e9lek"
@@ -260,7 +296,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642921,
+    "wof:lastmodified":1563237056,
     "wof:name":"Esztergom",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

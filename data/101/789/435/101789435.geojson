@@ -31,6 +31,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u060c \u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "T\u00e1c"
     ],
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751593,
+    "wof:lastmodified":1563237586,
     "wof:name":"T\u00e1c",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

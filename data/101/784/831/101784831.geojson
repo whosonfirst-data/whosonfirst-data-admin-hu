@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Tiszatarj\u00e1n"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05d8\u05e8\u05d9\u05d0\u05df"
+    ],
     "name:hun_x_colloquial":[
         "Tiszatarjan"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751569,
+    "wof:lastmodified":1563237286,
     "wof:name":"Tiszatarj\u00e1n",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

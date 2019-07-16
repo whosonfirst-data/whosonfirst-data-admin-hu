@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006658,
-    "geom:area_square_m":56924413.377783,
+    "geom:area_square_m":56924413.377805,
     "geom:bbox":"20.0474350009,46.1991186849,20.217143724,46.2942497984",
     "geom:latitude":46.253541,
     "geom:longitude":20.141051,
@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0433\u0435\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Szeged"
+    ],
     "name:deu_x_preferred":[
         "Szegedin"
     ],
@@ -30,10 +33,17 @@
     "name:eng_x_variant":[
         "QZD",
         "Segedin",
-        "Seghedin"
+        "Seghedin",
+        "Sz\u0151reg"
+    ],
+    "name:hrv_x_preferred":[
+        "Sirik"
     ],
     "name:hun_x_preferred":[
         "Szeged",
+        "Sz\u0151reg"
+    ],
+    "name:nld_x_preferred":[
         "Sz\u0151reg"
     ],
     "name:ota_x_preferred":[
@@ -204,7 +214,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1507750655,
+    "wof:lastmodified":1563237302,
     "wof:name":"Szeged",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

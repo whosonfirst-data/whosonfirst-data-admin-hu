@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Medina"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062f\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Medina"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u062f\u06cc\u0646\u06c1\u060c \u06c1\u0646\u06af\u0631\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u062f\u06cc\u0646\u06c1"
     ],
     "name:zho_x_preferred":[
         "\u8fc8\u8fea\u7459"
@@ -104,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751538,
+    "wof:lastmodified":1563236913,
     "wof:name":"Medina",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

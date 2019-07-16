@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0686\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Per\u0151cs\u00e9ny"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125938045,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237662,
     "wof:name":"Per\u0151cs\u00e9ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

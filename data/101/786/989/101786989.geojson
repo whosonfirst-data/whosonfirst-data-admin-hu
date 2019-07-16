@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Magyarfalva"
     ],
+    "name:eng_x_variant":[
+        "Harka"
+    ],
     "name:epo_x_preferred":[
         "Harka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Harka"
@@ -69,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Magyarfalva"
+    ],
+    "name:vie_x_preferred":[
+        "Harka"
     ],
     "name:zho_min_nan_x_preferred":[
         "Harka"
@@ -125,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237462,
     "wof:name":"Harka",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

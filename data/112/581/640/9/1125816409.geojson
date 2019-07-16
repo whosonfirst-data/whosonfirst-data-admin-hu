@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "\u015ealf\u00f6ld"
+    ],
     "name:eng_x_preferred":[
         "Salf\u00f6ld"
     ],
     "name:epo_x_preferred":[
         "Salf\u00f6ld"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0644\u0641\u0648\u0644\u062f"
     ],
     "name:fra_x_preferred":[
         "Salf\u00f6ld"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125816409,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237710,
     "wof:name":"Salf\u00f6ld",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

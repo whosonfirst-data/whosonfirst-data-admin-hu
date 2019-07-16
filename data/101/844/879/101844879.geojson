@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "G\u00f6lle"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0647"
+    ],
     "name:fra_x_preferred":[
         "G\u00f6lle"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1563237030,
     "wof:name":"G\u00f6lle",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

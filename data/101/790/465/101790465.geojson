@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0441\u0437\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Deszk"
+    ],
     "name:eng_x_preferred":[
         "Deszk"
     ],
     "name:epo_x_preferred":[
         "Deszk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0633\u06a9"
     ],
     "name:fra_x_preferred":[
         "Deszk"
@@ -45,6 +51,9 @@
         "Deszk"
     ],
     "name:nld_x_preferred":[
+        "Deszk"
+    ],
+    "name:pol_x_preferred":[
         "Deszk"
     ],
     "name:ron_x_preferred":[
@@ -124,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1563236864,
     "wof:name":"Deszk",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":3766662.48066,
+    "geom:area_square_m":3766662.480662,
     "geom:bbox":"17.794697843,46.801285783,17.8543608779,46.8419934127",
     "geom:latitude":46.825872,
     "geom:longitude":17.827756,
@@ -23,8 +23,14 @@
     "name:deu_x_preferred":[
         "Balaton\u0151sz\u00f6d"
     ],
+    "name:eng_x_preferred":[
+        "Balaton\u0151sz\u00f6d"
+    ],
     "name:epo_x_preferred":[
         "Balaton\u0151sz\u00f6d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u062a\u0648\u0646\u0648\u0633\u0648\u062f"
     ],
     "name:fra_x_preferred":[
         "Balaton\u0151sz\u00f6d"
@@ -45,14 +51,29 @@
     "name:msa_x_preferred":[
         "Balaton\u0151sz\u00f6d"
     ],
+    "name:nan_x_preferred":[
+        "Balaton\u0151sz\u00f6d"
+    ],
     "name:nld_x_preferred":[
         "Balaton\u0151sz\u00f6d"
     ],
     "name:ron_x_preferred":[
         "Balaton\u0151sz\u00f6d"
     ],
+    "name:slk_x_preferred":[
+        "Balaton\u0151sz\u00f6d"
+    ],
+    "name:slv_x_preferred":[
+        "Balaton\u0151sz\u00f6d"
+    ],
     "name:unk_x_variant":[
         "Balaton\u0151sz\u00f6d"
+    ],
+    "name:vie_x_preferred":[
+        "Balaton\u0151sz\u00f6d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u6d1b\u6258\u5185\u745f\u5fb7"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Somogy",
@@ -103,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1507750726,
+    "wof:lastmodified":1563237104,
     "wof:name":"Balatonsz\u00e1rsz\u00f3",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

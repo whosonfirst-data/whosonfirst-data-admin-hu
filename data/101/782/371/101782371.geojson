@@ -55,6 +55,9 @@
     "name:epo_x_preferred":[
         "Sz\u00e9kely"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Sz\u00e9kely"
     ],
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751559,
+    "wof:lastmodified":1563237171,
     "wof:name":"Sz\u00e9kely",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

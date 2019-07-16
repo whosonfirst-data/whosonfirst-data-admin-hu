@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u0426\u0451\u0440\u044d\u043a\u0441\u0435\u043d\u0442\u043c\u0456\u043a\u043b\u0430\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "T\u00f6r\u00f6kszentmikl\u00f3s"
+    ],
     "name:ces_x_preferred":[
         "T\u00f6r\u00f6kszentmikl\u00f3s"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u043e\u043a\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0451\u0440\u0451\u043a\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
     ],
     "name:slk_x_preferred":[
         "T\u00f6r\u00f6kszentmikl\u00f3s"
@@ -157,7 +163,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751573,
+    "wof:lastmodified":1563237348,
     "wof:name":"T\u00f6r\u00f6kszentmikl\u00f3s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

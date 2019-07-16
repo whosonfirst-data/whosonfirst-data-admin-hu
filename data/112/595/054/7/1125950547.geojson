@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "K\u00f6k\u00e9ny"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "K\u00f6k\u00e9ny"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:ron_x_preferred":[
         "K\u00f6k\u00e9ny"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u043a\u0435\u043d\u044c"
     ],
     "name:slk_x_preferred":[
         "K\u00f6k\u00e9ny"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125950547,
-    "wof:lastmodified":1561751597,
+    "wof:lastmodified":1563237677,
     "wof:name":"K\u00f6k\u00e9ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

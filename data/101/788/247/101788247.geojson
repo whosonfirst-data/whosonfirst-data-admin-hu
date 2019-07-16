@@ -17,11 +17,17 @@
     "mps:longitude":20.30099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Szajol"
+    ],
     "name:eng_x_preferred":[
         "Szajol"
     ],
     "name:epo_x_preferred":[
         "Szajol"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06cc\u0648\u0644"
     ],
     "name:fra_x_preferred":[
         "Szajol"
@@ -112,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751577,
+    "wof:lastmodified":1563237390,
     "wof:name":"Szajol",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

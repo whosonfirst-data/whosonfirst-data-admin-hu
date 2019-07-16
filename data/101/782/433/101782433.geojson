@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "In\u00e1ncs"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d0\u05e0\u05e5'"
+    ],
     "name:hun_x_colloquial":[
         "Inancs"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751560,
+    "wof:lastmodified":1563237185,
     "wof:name":"In\u00e1ncs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

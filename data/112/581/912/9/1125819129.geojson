@@ -27,8 +27,14 @@
     "name:epo_x_preferred":[
         "Hejce"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Hejce"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d9\u05e6\u05d4"
     ],
     "name:hun_x_preferred":[
         "Hejce"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1125819129,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237707,
     "wof:name":"Hejce",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

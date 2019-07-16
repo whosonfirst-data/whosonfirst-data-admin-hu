@@ -17,6 +17,12 @@
     "mps:longitude":16.508221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00c1gfalva"
+    ],
+    "name:ces_x_preferred":[
+        "\u00c1gfalva"
+    ],
     "name:deu_x_preferred":[
         "\u00c1gfalva"
     ],
@@ -66,6 +72,9 @@
         "\u00c1gfalva"
     ],
     "name:slv_x_preferred":[
+        "\u00c1gfalva"
+    ],
+    "name:spa_x_preferred":[
         "\u00c1gfalva"
     ],
     "name:swe_x_preferred":[
@@ -127,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237466,
     "wof:name":"\u00c1gfalva",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

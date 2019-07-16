@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Szentg\u00e1l"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u06af\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Szentg\u00e1l"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751593,
+    "wof:lastmodified":1563237589,
     "wof:name":"Szentg\u00e1l",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

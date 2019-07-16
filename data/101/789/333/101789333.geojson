@@ -17,6 +17,12 @@
     "mps:longitude":17.43908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Devecser"
+    ],
+    "name:ces_x_preferred":[
+        "Devecser"
+    ],
     "name:deu_x_preferred":[
         "Devecser"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Devecser"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0686\u0631"
     ],
     "name:fra_x_preferred":[
         "Devecser"
@@ -142,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237564,
     "wof:name":"Devecser",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

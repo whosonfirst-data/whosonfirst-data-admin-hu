@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Cs\u00f3r"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Cs\u00f3r"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751579,
+    "wof:lastmodified":1563237419,
     "wof:name":"Cs\u00f3r",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

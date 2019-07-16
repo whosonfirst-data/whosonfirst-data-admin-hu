@@ -17,6 +17,9 @@
     "mps:longitude":17.089808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mih\u00e1lyi"
+    ],
     "name:deu_x_preferred":[
         "Mih\u00e1lyi"
     ],
@@ -26,8 +29,14 @@
     "name:epo_x_preferred":[
         "Mih\u00e1lyi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0647\u0627\u0644\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Mih\u00e1lyi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d4\u05d0\u05d9\u05d9"
     ],
     "name:hun_x_colloquial":[
         "Mihalyi"
@@ -127,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237471,
     "wof:name":"Mih\u00e1lyi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

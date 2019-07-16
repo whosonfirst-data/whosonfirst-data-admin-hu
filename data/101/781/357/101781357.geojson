@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Szalonna"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0648\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Szalonna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d5\u05e0\u05d4"
     ],
     "name:hun_x_preferred":[
         "Szalonna"
@@ -103,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751580,
+    "wof:lastmodified":1563237425,
     "wof:name":"Szalonna",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Csaroda"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u0648\u062f\u0627"
+    ],
     "name:fra_x_preferred":[
         "Csaroda"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126045825,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237695,
     "wof:name":"Csaroda",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

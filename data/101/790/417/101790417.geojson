@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Tiszasziget"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u0633\u06cc\u06af\u062a"
+    ],
     "name:fra_x_preferred":[
         "Tiszasziget"
     ],
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751537,
+    "wof:lastmodified":1563236893,
     "wof:name":"Tiszasziget",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

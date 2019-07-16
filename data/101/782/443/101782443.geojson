@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Borsodszir\u00e1k"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u0648\u062f\u0633\u06cc\u0631\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Borsodszir\u00e1k"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05e9\u05d5\u05d3\u05e1\u05d9\u05e8\u05d0\u05e7"
     ],
     "name:hun_x_colloquial":[
         "Borsodszirak"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751560,
+    "wof:lastmodified":1563237179,
     "wof:name":"Borsodszir\u00e1k",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

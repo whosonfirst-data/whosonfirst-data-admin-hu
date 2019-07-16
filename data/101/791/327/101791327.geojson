@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Mozsg\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0698\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
         "Mozsg\u00f3"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751542,
+    "wof:lastmodified":1563236962,
     "wof:name":"Mozsg\u00f3",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

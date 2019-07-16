@@ -17,7 +17,13 @@
     "mps:longitude":17.753351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pannonhalma"
+    ],
     "name:ces_x_preferred":[
+        "Pannonhalma"
+    ],
+    "name:cym_x_preferred":[
         "Pannonhalma"
     ],
     "name:deu_x_preferred":[
@@ -48,6 +54,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e0\u05d5\u05e0\u05d4\u05dc\u05de\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u0928\u094d\u0928\u094b\u0928\u094d\u0939\u093e\u0932\u094d\u092e\u093e"
+    ],
     "name:hun_x_colloquial":[
         "Gyorszentmarton"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f3\u30ce\u30f3\u30cf\u30eb\u30de"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043d\u043e\u043d\u0445\u0430\u043b\u043c\u0430"
     ],
     "name:msa_x_preferred":[
         "Pannonhalma"
@@ -168,7 +180,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237468,
     "wof:name":"Pannonhalma",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

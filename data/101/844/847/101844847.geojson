@@ -17,14 +17,23 @@
     "mps:longitude":18.397103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ozora"
+    ],
     "name:deu_x_preferred":[
         "Ozora"
     ],
     "name:eng_x_preferred":[
         "Ozors"
     ],
+    "name:eng_x_variant":[
+        "Ozora"
+    ],
     "name:epo_x_preferred":[
         "Ozora"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632\u0648\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Ozora"
@@ -118,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751549,
+    "wof:lastmodified":1563237034,
     "wof:name":"Ozora",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

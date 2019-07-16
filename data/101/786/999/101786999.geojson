@@ -17,6 +17,12 @@
     "mps:longitude":16.699985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Naqi\u00e7enk"
+    ],
+    "name:ceb_x_preferred":[
+        "Nagycenk"
+    ],
     "name:ces_x_preferred":[
         "Nagycenk"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:epo_x_preferred":[
         "Nagycenk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u062a\u0633\u0646\u06a9"
     ],
     "name:fra_x_preferred":[
         "Nagycenk"
@@ -74,6 +83,9 @@
         "Nagycenk"
     ],
     "name:slv_x_preferred":[
+        "Nagycenk"
+    ],
+    "name:spa_x_preferred":[
         "Nagycenk"
     ],
     "name:swe_x_preferred":[
@@ -135,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751581,
+    "wof:lastmodified":1563237433,
     "wof:name":"Nagycenk",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

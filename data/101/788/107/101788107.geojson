@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Bolmogyer"
     ],
+    "name:eng_x_variant":[
+        "B\u00e9lmegyer"
+    ],
     "name:epo_x_preferred":[
         "B\u00e9lmegyer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0645\u06af\u06cc\u0631"
     ],
     "name:fra_x_preferred":[
         "B\u00e9lmegyer"
@@ -113,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751576,
+    "wof:lastmodified":1563237378,
     "wof:name":"B\u00e9lmegyer",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

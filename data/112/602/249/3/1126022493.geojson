@@ -30,6 +30,9 @@
     "name:fin_x_preferred":[
         "Lillaf\u00fcred"
     ],
+    "name:fra_x_preferred":[
+        "Lillaf\u00fcred"
+    ],
     "name:hun_x_preferred":[
         "Lillaf\u00fcred"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126022493,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237687,
     "wof:name":"Lillaf\u00fcred",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

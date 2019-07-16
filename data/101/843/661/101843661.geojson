@@ -17,10 +17,19 @@
     "mps:longitude":20.285963,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "\u00d3zd"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0437\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d3zd"
+    ],
     "name:ces_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:cym_x_preferred":[
         "\u00d3zd"
     ],
     "name:dan_x_preferred":[
@@ -30,6 +39,9 @@
         "\u00d3zd"
     ],
     "name:dsb_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:eng_x_preferred":[
         "\u00d3zd"
     ],
     "name:epo_x_preferred":[
@@ -50,8 +62,50 @@
     "name:hun_x_preferred":[
         "Susa"
     ],
+    "name:hun_x_variant":[
+        "\u00d3zd"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc988\ub4dc"
+    ],
+    "name:lit_x_preferred":[
+        "Ozdas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0437\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:nno_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:pol_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:que_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:ron_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:rup_x_preferred":[
+        "\u00d3zd"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0437\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:slv_x_preferred":[
+        "\u00d3zd"
     ],
     "name:spa_x_preferred":[
         "\u00d3zd"
@@ -62,8 +116,26 @@
     "name:srp_x_variant":[
         "Ozd"
     ],
+    "name:swe_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:szl_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0437\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0437\u0434"
+    ],
     "name:unk_x_variant":[
         "Bolyok"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d3zd"
+    ],
+    "name:vol_x_preferred":[
+        "\u00d3zd"
     ],
     "name:zho_x_preferred":[
         "\u6b50\u8332\u5fb7"
@@ -118,7 +190,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642593,
+    "wof:lastmodified":1563236993,
     "wof:name":"\u00d3zd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

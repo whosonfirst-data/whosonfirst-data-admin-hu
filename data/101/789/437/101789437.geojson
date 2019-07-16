@@ -19,11 +19,17 @@
     "name:cbk_zam_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
+    "name:deu_x_preferred":[
+        "Szabadegyh\u00e1za"
+    ],
     "name:eng_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
     "name:epo_x_preferred":[
         "Szabadegyh\u00e1za"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0628\u0627\u062f\u06af\u06cc\u0647\u0627\u0632\u0627"
     ],
     "name:fra_x_preferred":[
         "Szabadegyh\u00e1za"
@@ -123,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751589,
+    "wof:lastmodified":1563237531,
     "wof:name":"Szabadegyh\u00e1za",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Tevel"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Tevel"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1563236859,
     "wof:name":"Tevel",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

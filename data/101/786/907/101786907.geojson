@@ -16,11 +16,17 @@
     "mps:longitude":18.366001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "V\u00e9rtessoml\u00f3"
+    ],
     "name:eng_x_preferred":[
         "V\u00e9rtessoml\u00f3"
     ],
     "name:epo_x_preferred":[
         "V\u00e9rtessoml\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u062a\u0634\u0648\u0645\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "V\u00e9rtessoml\u00f3"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751580,
+    "wof:lastmodified":1563237428,
     "wof:name":"V\u00e9rtessoml\u00f3",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

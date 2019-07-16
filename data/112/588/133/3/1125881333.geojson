@@ -27,8 +27,14 @@
     "name:epo_x_preferred":[
         "Kishuta"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u0647\u0648\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Kishuta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e9\u05d4\u05d5\u05d8\u05d4"
     ],
     "name:hun_x_preferred":[
         "Kishuta"
@@ -53,6 +59,9 @@
     ],
     "name:slk_x_preferred":[
         "Kishuta"
+    ],
+    "name:slk_x_variant":[
+        "Mal\u00e1 Huta"
     ],
     "name:slv_x_preferred":[
         "Kishuta"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1125881333,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237716,
     "wof:name":"Kishuta",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

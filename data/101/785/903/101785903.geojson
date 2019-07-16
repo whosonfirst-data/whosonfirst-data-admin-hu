@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0424\u043e\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "F\u00f3t"
+    ],
+    "name:ces_x_preferred":[
+        "F\u00f3t"
+    ],
     "name:deu_x_preferred":[
         "F\u00f3t"
     ],
@@ -80,11 +86,17 @@
     "name:slv_x_preferred":[
         "F\u00f3t"
     ],
+    "name:spa_x_preferred":[
+        "F\u00f3t"
+    ],
     "name:srp_x_preferred":[
         "\u0424\u043e\u0442"
     ],
     "name:swe_x_preferred":[
         "F\u00f3t"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0442"
     ],
     "name:vie_x_preferred":[
         "F\u00f3t"
@@ -145,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237130,
     "wof:name":"F\u00f3t",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

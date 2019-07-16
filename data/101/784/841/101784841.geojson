@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0441\u0437\u0430\u043a\u0435\u0441\u0437\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Tiszakeszi"
+    ],
     "name:deu_x_preferred":[
         "Tiszakeszi"
     ],
@@ -29,8 +32,14 @@
     "name:epo_x_preferred":[
         "Tiszakeszi"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u06a9\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Tiszakeszi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05e7\u05e1\u05d9"
     ],
     "name:hun_x_preferred":[
         "Tiszakeszi"
@@ -121,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751568,
+    "wof:lastmodified":1563237278,
     "wof:name":"Tiszakeszi",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

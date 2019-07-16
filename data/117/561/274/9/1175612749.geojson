@@ -17,6 +17,12 @@
     "mps:longitude":20.248846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tiszaf\u00f6ldv\u00e1r"
+    ],
+    "name:ces_x_preferred":[
+        "Tiszaf\u00f6ldv\u00e1r"
+    ],
     "name:deu_x_preferred":[
         "Tiszaf\u00f6ldv\u00e1r"
     ],
@@ -70,6 +76,9 @@
         "Tiszaf\u00f6ldv\u00e1r"
     ],
     "name:slv_x_preferred":[
+        "Tiszaf\u00f6ldv\u00e1r"
+    ],
+    "name:spa_x_preferred":[
         "Tiszaf\u00f6ldv\u00e1r"
     ],
     "name:srp_x_preferred":[
@@ -135,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751528,
+    "wof:lastmodified":1563236668,
     "wof:name":"Tiszaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

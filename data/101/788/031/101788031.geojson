@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "R\u00e1bapaty"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0628\u0627\u067e\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "R\u00e1bapaty"
     ],
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751573,
+    "wof:lastmodified":1563237355,
     "wof:name":"R\u00e1bapaty",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

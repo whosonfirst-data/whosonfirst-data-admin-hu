@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Kisoroszi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u0648\u0631\u0648\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Kisoroszi"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125937933,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237664,
     "wof:name":"Kisoroszi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -17,14 +17,23 @@
     "mps:longitude":18.358911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Neszm\u00e9ly"
+    ],
     "name:eng_x_preferred":[
         "Neszm\u00e9ly"
     ],
     "name:epo_x_preferred":[
         "Neszm\u00e9ly"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u0645\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Neszm\u00e9ly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e1\u05de\u05d9\u05d9"
     ],
     "name:hrv_x_preferred":[
         "Nesmilje"
@@ -56,6 +65,9 @@
     ],
     "name:ron_x_preferred":[
         "Neszm\u00e9ly"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u043c\u0435\u0439"
     ],
     "name:slk_x_preferred":[
         "Neszm\u00e9ly"
@@ -126,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1563237027,
     "wof:name":"Neszm\u00e9ly",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

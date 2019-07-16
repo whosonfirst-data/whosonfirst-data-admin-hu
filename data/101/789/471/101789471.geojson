@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Nagyl\u00f3k"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u0644\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Nagyl\u00f3k"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237520,
     "wof:name":"Nagyl\u00f3k",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

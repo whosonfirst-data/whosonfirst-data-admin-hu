@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Pen\u00e9szlek"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u0633\u0644\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Pen\u00e9szlek"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751544,
+    "wof:lastmodified":1563236985,
     "wof:name":"Pen\u00e9szlek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

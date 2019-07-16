@@ -17,6 +17,15 @@
     "mps:longitude":17.28021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015e\u00fcmeq"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0443\u043c\u0435\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00fcmeg"
+    ],
     "name:ces_x_preferred":[
         "S\u00fcmeg"
     ],
@@ -28,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "S\u00fcmeg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0645\u06af"
     ],
     "name:fra_x_preferred":[
         "S\u00fcmeg"
@@ -149,7 +161,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751587,
+    "wof:lastmodified":1563237508,
     "wof:name":"S\u00fcmeg",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

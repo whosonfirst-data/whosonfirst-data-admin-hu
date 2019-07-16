@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0437\u0441\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ruzsa"
+    ],
     "name:eng_x_preferred":[
         "Ruzsa"
     ],
     "name:epo_x_preferred":[
         "Ruzsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0698\u0627"
     ],
     "name:fra_x_preferred":[
         "Ruzsa"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751533,
+    "wof:lastmodified":1563236842,
     "wof:name":"Ruzsa",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

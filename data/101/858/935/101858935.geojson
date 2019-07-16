@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Szokolya"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0644\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Szokolya"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ron_x_preferred":[
         "Szokolya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u044f"
     ],
     "name:slk_x_preferred":[
         "Szokolya"
@@ -111,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751550,
+    "wof:lastmodified":1563237047,
     "wof:name":"Szokolya",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

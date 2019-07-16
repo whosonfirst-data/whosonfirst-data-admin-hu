@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u043e\u0431"
     ],
+    "name:ceb_x_preferred":[
+        "Szob"
+    ],
     "name:ces_x_preferred":[
         "Szob"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:ita_x_preferred":[
         "Szob"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u0431"
     ],
     "name:msa_x_preferred":[
         "Szob"
@@ -79,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Szob"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0431"
     ],
     "name:vie_x_preferred":[
         "Szob"
@@ -139,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1563237065,
     "wof:name":"Szob",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mps:longitude":20.912596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Onga"
+    ],
+    "name:ces_x_preferred":[
+        "Onga"
+    ],
     "name:deu_x_preferred":[
         "Onga"
     ],
@@ -26,8 +32,14 @@
     "name:epo_x_preferred":[
         "Onga"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u06af\u0627"
+    ],
     "name:fra_x_preferred":[
         "Onga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05d2\u05d4"
     ],
     "name:hun_x_preferred":[
         "Onga"
@@ -118,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751564,
+    "wof:lastmodified":1563237233,
     "wof:name":"Onga",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

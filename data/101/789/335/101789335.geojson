@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":9155723.715943,
+    "geom:area_square_m":9155723.715942,
     "geom:bbox":"17.5186452114,47.076251159,17.5890366234,47.126019933",
     "geom:latitude":47.101939,
     "geom:longitude":17.555739,
@@ -17,7 +17,19 @@
     "mps:longitude":17.559205,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u064a\u0643\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0439\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ajka"
+    ],
     "name:ces_x_preferred":[
+        "Ajka"
+    ],
+    "name:dan_x_preferred":[
         "Ajka"
     ],
     "name:deu_x_preferred":[
@@ -29,8 +41,20 @@
     "name:eng_x_variant":[
         "Ajka"
     ],
+    "name:epo_x_preferred":[
+        "Ajka"
+    ],
+    "name:est_x_preferred":[
+        "Ajka"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06cc\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Ajka"
+    ],
+    "name:fra_x_preferred":[
+        "Ajka"
     ],
     "name:hun_x_colloquial":[
         "Csekut",
@@ -42,6 +66,12 @@
     "name:hun_x_variant":[
         "Cs\u00e9k\u00fat",
         "T\u00f3sok"
+    ],
+    "name:ind_x_preferred":[
+        "Ajka"
+    ],
+    "name:ita_x_preferred":[
+        "Ajka"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30ab"
@@ -55,14 +85,50 @@
     "name:lit_x_preferred":[
         "Aika"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0458\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ajka"
+    ],
+    "name:nan_x_preferred":[
+        "Ajka"
+    ],
     "name:nld_x_preferred":[
+        "Ajka"
+    ],
+    "name:nno_x_preferred":[
+        "Ajka"
+    ],
+    "name:nob_x_preferred":[
         "Ajka"
     ],
     "name:pol_x_preferred":[
         "Ajka"
     ],
+    "name:que_x_preferred":[
+        "Ajka"
+    ],
+    "name:ron_x_preferred":[
+        "Ajka"
+    ],
+    "name:rup_x_preferred":[
+        "Ajka"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Ajka"
+    ],
+    "name:slk_x_preferred":[
+        "Ajka"
+    ],
+    "name:slv_x_preferred":[
+        "Ajka"
+    ],
+    "name:spa_x_preferred":[
+        "Ajka"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0458\u043a\u0430"
@@ -78,6 +144,12 @@
     ],
     "name:unk_x_variant":[
         "Padragk\u00fat"
+    ],
+    "name:vie_x_preferred":[
+        "Ajka"
+    ],
+    "name:vol_x_preferred":[
+        "Ajka"
     ],
     "name:zho_x_preferred":[
         "\u5967\u4f0a\u8003"
@@ -132,7 +204,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715899,
+    "wof:lastmodified":1563237559,
     "wof:name":"Ajka",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

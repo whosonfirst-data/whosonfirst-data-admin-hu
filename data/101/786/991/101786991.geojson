@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Sarr\u00f3d"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u062f"
+    ],
     "name:fra_x_preferred":[
         "Sarr\u00f3d"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751580,
+    "wof:lastmodified":1563237430,
     "wof:name":"Sarr\u00f3d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

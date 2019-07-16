@@ -19,6 +19,9 @@
     "name:ara_x_variant":[
         "\u062a\u0631\u0627\u0646\u0633\u062f\u0627\u0646\u0648\u0628\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
     ],
+    "name:aze_x_preferred":[
+        "C\u0259nubi-Zadunay b\u00f6lg\u0259si"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430-\u0417\u0430\u0434\u0443\u043d\u0430\u0439\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -26,12 +29,14 @@
     "name:ben_x_preferred":[],
     "name:ben_x_variant":[],
     "name:deu_x_preferred":[],
+    "name:deu_x_variant":[
+        "S\u00fcdtransdanubien"
+    ],
     "name:ell_x_preferred":[],
     "name:eng_x_colloquial":[],
     "name:eng_x_preferred":[
         "Southern Transdanubia"
     ],
-    "name:eng_x_variant":[],
     "name:epo_x_preferred":[
         "Suda Transdanubio"
     ],
@@ -45,6 +50,9 @@
         "\u062a\u0631\u0627\u0646\u0633\u062f\u0627\u0646\u0648\u0628\u06cc\u0627 \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:fra_x_preferred":[],
+    "name:fra_x_variant":[
+        "Transdanubie m\u00e9ridionale"
+    ],
     "name:fre_x_colloquial":[],
     "name:fre_x_variant":[
         "Transdanubie m\u00e9ridionale"
@@ -71,7 +79,6 @@
     "name:hun_x_preferred":[
         "D\u00e9l-Dun\u00e1nt\u00fal"
     ],
-    "name:hun_x_variant":[],
     "name:ita_x_colloquial":[],
     "name:ita_x_preferred":[],
     "name:ita_x_variant":[
@@ -83,6 +90,9 @@
     "name:kor_x_colloquial":[],
     "name:kor_x_preferred":[],
     "name:kor_x_variant":[],
+    "name:mkd_x_preferred":[
+        "\u0408\u0443\u0436\u0435\u043d \u043f\u0440\u0435\u043a\u0443\u0434\u0443\u043d\u0430\u0432\u0441\u043a\u0438 \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
     "name:nld_x_preferred":[
         "Southern Transdanubia"
     ],
@@ -173,7 +183,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751595,
+    "wof:lastmodified":1563237653,
     "wof:name":"Southern Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
