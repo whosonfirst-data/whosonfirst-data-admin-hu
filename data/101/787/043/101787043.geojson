@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002002,
-    "geom:area_square_m":16784686.550929,
+    "geom:area_square_m":16784686.550939,
     "geom:bbox":"18.8770670798,47.2644217371,18.9527024827,47.3393766049",
     "geom:latitude":47.303854,
     "geom:longitude":18.91097,
@@ -17,10 +17,22 @@
     "mps:longitude":18.894639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:ces_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
     "name:deu_x_preferred":[
         "Sz\u00e1zhalombatta"
     ],
+    "name:eng_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
     "name:epo_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:est_x_preferred":[
         "Sz\u00e1zhalombatta"
     ],
     "name:fas_x_preferred":[
@@ -44,11 +56,41 @@
     "name:msa_x_preferred":[
         "Sz\u00e1zhalombatta"
     ],
+    "name:nan_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
     "name:nld_x_preferred":[
         "Sz\u00e1zhalombatta"
     ],
     "name:pol_x_preferred":[
         "Sz\u00e1zhalombatta"
+    ],
+    "name:ron_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:rup_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0437\u0445\u0430\u043b\u043e\u043c\u0431\u0430\u0442\u0442\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:slv_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0437\u0445\u0430\u043b\u043e\u043c\u0431\u0430\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:vie_x_preferred":[
+        "Sz\u00e1zhalombatta"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u8332\u8c6a\u9686\u5305\u9676"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -100,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715850,
+    "wof:lastmodified":1563237490,
     "wof:name":"Sz\u00e1zhalombatta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

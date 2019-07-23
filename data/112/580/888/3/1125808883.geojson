@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Cserk\u00fat"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u06a9\u0648\u062a"
+    ],
     "name:fra_x_preferred":[
         "Cserk\u00fat"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125808883,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237724,
     "wof:name":"Cserk\u00fat",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

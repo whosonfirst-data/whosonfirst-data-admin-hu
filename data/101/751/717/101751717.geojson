@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0631\u062a\u0633\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Debrecen"
+    ],
     "name:aze_x_preferred":[
         "Debrecen"
     ],
@@ -36,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09ac\u09cd\u09b0\u09c7\u099a\u09c7\u09a8"
     ],
+    "name:bos_x_preferred":[
+        "Debrecen"
+    ],
     "name:bre_x_preferred":[
         "Debrecen"
     ],
@@ -43,6 +49,9 @@
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
     ],
     "name:cat_x_preferred":[
+        "Debrecen"
+    ],
+    "name:ceb_x_preferred":[
         "Debrecen"
     ],
     "name:ces_x_preferred":[
@@ -153,6 +162,9 @@
     "name:kaz_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
     ],
+    "name:kir_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
+    ],
     "name:koi_x_preferred":[
         "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d"
     ],
@@ -192,6 +204,9 @@
     "name:msa_x_preferred":[
         "Debrecen"
     ],
+    "name:myv_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d \u043e\u0448"
+    ],
     "name:nan_x_preferred":[
         "Debrecen"
     ],
@@ -208,6 +223,9 @@
         "Debrecen"
     ],
     "name:oci_x_preferred":[
+        "Debrecen"
+    ],
+    "name:olo_x_preferred":[
         "Debrecen"
     ],
     "name:pnb_x_preferred":[
@@ -305,6 +323,9 @@
     ],
     "name:war_x_preferred":[
         "Debrecen"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fb7\u5e03\u52d2\u68ee"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5e03\u52d2\u68ee"
@@ -451,7 +472,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1563237325,
     "wof:name":"Debrecen",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

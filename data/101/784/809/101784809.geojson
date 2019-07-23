@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Cser\u00e9pfalu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05e4\u05e4\u05dc\u05d5"
+    ],
     "name:hun_x_colloquial":[
         "Cserepfalu"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "Cser\u00e9pfalu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u043f\u0444\u0430\u043b\u0443"
     ],
     "name:slk_x_preferred":[
         "Cser\u00e9pfalu"
@@ -116,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751569,
+    "wof:lastmodified":1563237287,
     "wof:name":"Cser\u00e9pfalu",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

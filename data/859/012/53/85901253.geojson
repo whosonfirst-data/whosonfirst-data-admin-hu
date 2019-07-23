@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001583,
-    "geom:area_square_m":13243853.006511,
+    "geom:area_square_m":13243853.006509,
     "geom:bbox":"19.1748754883,47.3939263332,19.2333276368,47.4436612459",
     "geom:latitude":47.420185,
     "geom:longitude":19.201931,
@@ -33,6 +33,9 @@
     ],
     "name:fra_x_preferred":[
         "Pestszentl\u0151rinc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e9\u05d8\u05e1\u05e0\u05d8\u05dc\u05e8\u05d9\u05e0\u05e5"
     ],
     "name:hun_x_colloquial":[
         "Pestszentlorinc"
@@ -100,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527268753,
+    "wof:lastmodified":1563236065,
     "wof:name":"Pestszentlorinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

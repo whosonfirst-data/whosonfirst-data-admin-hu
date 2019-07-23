@@ -17,7 +17,13 @@
     "mps:longitude":18.326002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "K\u00f6rnye"
+    ],
     "name:ces_x_preferred":[
+        "K\u00f6rnye"
+    ],
+    "name:deu_x_preferred":[
         "K\u00f6rnye"
     ],
     "name:eng_x_preferred":[
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "K\u00f6rnye"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0646\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
         "K\u00f6rnye"
@@ -115,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237458,
     "wof:name":"K\u00f6rnye",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

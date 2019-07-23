@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000533,
-    "geom:area_square_m":4508320.930087,
+    "geom:area_square_m":4508320.930083,
     "geom:bbox":"20.2714085517,46.8227995728,20.3013520056,46.8561392153",
     "geom:latitude":46.839477,
     "geom:longitude":20.28672,
@@ -17,17 +17,35 @@
     "mps:longitude":20.288195,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u043d\u0441\u0435\u043d\u0442\u043c\u0430\u0440\u0442\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
+    "name:ceb_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
+    "name:ces_x_preferred":[
         "Kunszentm\u00e1rton"
     ],
     "name:deu_x_preferred":[
         "Kunszentm\u00e1rton"
     ],
+    "name:eng_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
     "name:epo_x_preferred":[
         "Kunszentm\u00e1rton"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u0633\u0646\u062a\u0645\u0627\u0631\u062a\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Kunszentm\u00e1rton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05e1\u05e0\u05d8\u05de\u05d0\u05e8\u05d8\u05d5\u05df"
     ],
     "name:hun_x_colloquial":[
         "Kunszentmarton"
@@ -41,6 +59,9 @@
     "name:msa_x_preferred":[
         "Kunszentm\u00e1rton"
     ],
+    "name:nan_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
     "name:nld_x_preferred":[
         "Kunszentm\u00e1rton"
     ],
@@ -50,8 +71,29 @@
     "name:ron_x_preferred":[
         "Kunszentm\u00e1rton"
     ],
+    "name:rup_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
+    "name:slk_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
+    "name:slv_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043d\u0441\u0435\u043d\u0442\u043c\u0430\u0440\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
     "name:unk_x_variant":[
         "Szelev\u00e9ny"
+    ],
+    "name:vie_x_preferred":[
+        "Kunszentm\u00e1rton"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u8056\u99ac\u723e\u901a"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*J\u00e1sz-Nagykun-Szolnok",
@@ -104,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715894,
+    "wof:lastmodified":1563237514,
     "wof:name":"Kunszentm\u00e1rton",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

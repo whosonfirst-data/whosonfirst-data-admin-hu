@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2303939.219834,
+    "geom:area_square_m":2303939.219833,
     "geom:bbox":"18.4427870269,46.9976860268,18.4685019649,47.0279202621",
     "geom:latitude":47.010314,
     "geom:longitude":18.455305,
@@ -17,7 +17,16 @@
     "mps:longitude":18.459786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043f\u043e\u043d\u044f"
+    ],
     "name:cbk_zam_x_preferred":[
+        "Soponya"
+    ],
+    "name:ceb_x_preferred":[
+        "Soponya"
+    ],
+    "name:eng_x_preferred":[
         "Soponya"
     ],
     "name:epo_x_preferred":[
@@ -41,11 +50,17 @@
     "name:msa_x_preferred":[
         "Soponya"
     ],
+    "name:nan_x_preferred":[
+        "Soponya"
+    ],
     "name:nld_x_preferred":[
         "Soponya"
     ],
     "name:ron_x_preferred":[
         "Soponya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043f\u043e\u043d\u044c\u044f"
     ],
     "name:slk_x_preferred":[
         "Soponya"
@@ -118,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715895,
+    "wof:lastmodified":1563237521,
     "wof:name":"Soponya",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

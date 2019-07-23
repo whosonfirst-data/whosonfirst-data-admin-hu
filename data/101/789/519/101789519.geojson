@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
+    "geom:area_square_m":748014.692796,
     "geom:bbox":"19.0788773348,47.1097266142,19.1011259337,47.1179793647",
     "geom:latitude":47.113907,
     "geom:longitude":19.087986,
@@ -15,11 +16,20 @@
     "mps:longitude":19.084109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Apaj"
+    ],
     "name:deu_x_preferred":[
+        "Apaj"
+    ],
+    "name:eng_x_preferred":[
         "Apaj"
     ],
     "name:epo_x_preferred":[
         "Apaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
         "Apaj"
@@ -34,6 +44,9 @@
         "Apaj"
     ],
     "name:msa_x_preferred":[
+        "Apaj"
+    ],
+    "name:nan_x_preferred":[
         "Apaj"
     ],
     "name:nld_x_preferred":[
@@ -103,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715897,
+    "wof:lastmodified":1563237546,
     "wof:name":"Apaj",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

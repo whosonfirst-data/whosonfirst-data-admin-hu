@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Szepetnek"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u062a\u0646\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Szepetnek"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751539,
+    "wof:lastmodified":1563236923,
     "wof:name":"Szepetnek",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mps:longitude":20.414611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Andornakt\u00e1lya"
+    ],
+    "name:ces_x_preferred":[
+        "Andornakt\u00e1lya"
+    ],
     "name:deu_x_preferred":[
         "Andornakt\u00e1lya"
     ],
@@ -118,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751545,
+    "wof:lastmodified":1563236998,
     "wof:name":"Andornakt\u00e1lya",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

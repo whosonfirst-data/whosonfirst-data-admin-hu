@@ -60,6 +60,9 @@
     "name:slv_x_preferred":[
         "Fert\u0151endr\u00e9d"
     ],
+    "name:spa_x_preferred":[
+        "Fert\u0151endr\u00e9d"
+    ],
     "name:vie_x_preferred":[
         "Fert\u0151endr\u00e9d"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125921383,
-    "wof:lastmodified":1561751597,
+    "wof:lastmodified":1563237673,
     "wof:name":"Fert\u0151endr\u00e9d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

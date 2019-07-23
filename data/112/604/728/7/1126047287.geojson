@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
     "name:eng_x_preferred":[
         "Soml\u00f3jen\u0151"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126047287,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237696,
     "wof:name":"Soml\u00f3jen\u0151",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Sz\u00e1r"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Sz\u00e1r"
     ],
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237458,
     "wof:name":"Sz\u00e1r",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

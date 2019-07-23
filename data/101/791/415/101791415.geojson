@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "B\u00e1tmonostor"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0645\u0648\u0646\u0648\u0634\u062a\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "B\u00e1tmonostor"
     ],
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751541,
+    "wof:lastmodified":1563236944,
     "wof:name":"B\u00e1tmonostor",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

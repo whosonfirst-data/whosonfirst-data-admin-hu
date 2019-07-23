@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0438\u0445\u0430\u043b\u043e\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Szihalom"
+    ],
     "name:eng_x_preferred":[
         "Szihalom"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751570,
+    "wof:lastmodified":1563237295,
     "wof:name":"Szihalom",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

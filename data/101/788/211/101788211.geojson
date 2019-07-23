@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "K\u0151telek"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062a\u0644\u06a9"
+    ],
     "name:fra_x_preferred":[
         "K\u0151telek"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "K\u0151telek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30fc\u30c6\u30ec\u30af"
     ],
     "name:msa_x_preferred":[
         "K\u0151telek"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":101788211,
-    "wof:lastmodified":1561751572,
+    "wof:lastmodified":1563237340,
     "wof:name":"K\u0151telek",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

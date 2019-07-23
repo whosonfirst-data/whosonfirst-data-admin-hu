@@ -17,6 +17,12 @@
     "mps:longitude":21.25178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Elek"
+    ],
+    "name:ces_x_preferred":[
+        "Elek"
+    ],
     "name:deu_x_preferred":[
         "Elek"
     ],
@@ -63,6 +69,9 @@
         "Elek"
     ],
     "name:slv_x_preferred":[
+        "Elek"
+    ],
+    "name:spa_x_preferred":[
         "Elek"
     ],
     "name:swe_x_preferred":[
@@ -133,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751539,
+    "wof:lastmodified":1563236922,
     "wof:name":"Elek",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

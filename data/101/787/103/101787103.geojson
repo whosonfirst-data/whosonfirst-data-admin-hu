@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0431\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Ebes"
+    ],
     "name:deu_x_preferred":[
         "Ebes"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Ebes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0634"
     ],
     "name:fra_x_preferred":[
         "Ebes"
@@ -57,6 +63,9 @@
         "Ebes"
     ],
     "name:slv_x_preferred":[
+        "Ebes"
+    ],
+    "name:spa_x_preferred":[
         "Ebes"
     ],
     "name:swe_x_preferred":[
@@ -121,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237466,
     "wof:name":"Ebes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Mecs\u00e9r"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0686\u0631"
+    ],
     "name:fra_x_preferred":[
         "Mecs\u00e9r"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125850325,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237801,
     "wof:name":"Mecs\u00e9r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

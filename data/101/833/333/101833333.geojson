@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "P\u00f3csmegyer"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0686\u0645\u06af\u06cc\u0631"
+    ],
     "name:fra_x_preferred":[
         "P\u00f3csmegyer"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751552,
+    "wof:lastmodified":1563237073,
     "wof:name":"P\u00f3csmegyer",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

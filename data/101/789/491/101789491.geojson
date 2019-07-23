@@ -17,6 +17,9 @@
     "mps:longitude":20.14956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "T\u00f3szeg"
+    ],
     "name:deu_x_preferred":[
         "T\u00f3szeg"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u00f3szeg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0441\u0435\u0433"
     ],
     "name:vie_x_preferred":[
         "T\u00f3szeg"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751589,
+    "wof:lastmodified":1563237541,
     "wof:name":"T\u00f3szeg",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

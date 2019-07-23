@@ -17,6 +17,12 @@
     "mps:longitude":19.24844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mogyor\u00f3d"
+    ],
+    "name:ces_x_preferred":[
+        "Mogyor\u00f3d"
+    ],
     "name:deu_x_preferred":[
         "Mogyor\u00f3d"
     ],
@@ -68,6 +74,9 @@
     "name:pol_x_preferred":[
         "Mogyor\u00f3d"
     ],
+    "name:por_x_preferred":[
+        "Mogyor\u00f3d"
+    ],
     "name:ron_x_preferred":[
         "Mogyor\u00f3d"
     ],
@@ -82,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "Mogyor\u00f3d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0434\u044c\u043e\u0440\u043e\u0434"
     ],
     "name:vie_x_preferred":[
         "Mogyor\u00f3d"
@@ -139,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237479,
     "wof:name":"Mogyor\u00f3d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

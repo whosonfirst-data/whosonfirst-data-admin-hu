@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "K\u00e9kcse"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "K\u00e9kcse"
     ],
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237193,
     "wof:name":"K\u00e9kcse",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

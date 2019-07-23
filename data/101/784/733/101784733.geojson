@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Borsosber\u00e9ny"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u0648\u0634\u0628\u0631\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Borsosber\u00e9ny"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751568,
+    "wof:lastmodified":1563237274,
     "wof:name":"Borsosber\u00e9ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

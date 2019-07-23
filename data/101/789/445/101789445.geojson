@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Cs\u0151sz"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Cs\u0151sz"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101789445,
-    "wof:lastmodified":1561751592,
+    "wof:lastmodified":1563237577,
     "wof:name":"Cs\u0151sz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

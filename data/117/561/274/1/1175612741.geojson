@@ -58,6 +58,9 @@
     "name:ron_x_preferred":[
         "B\u00f3csa"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0447\u0430"
+    ],
     "name:slk_x_preferred":[
         "B\u00f3csa"
     ],
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751528,
+    "wof:lastmodified":1563236669,
     "wof:name":"B\u00f3csa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

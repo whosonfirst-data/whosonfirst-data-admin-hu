@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001323,
-    "geom:area_square_m":11038960.807595,
+    "geom:area_square_m":11038960.807599,
     "geom:bbox":"19.0969848633,47.5264744938,19.1494396067,47.5698473067",
     "geom:latitude":47.549791,
     "geom:longitude":19.125349,
@@ -36,6 +36,18 @@
         "Pestujhely"
     ],
     "name:hun_x_preferred":[
+        "Pest\u00fajhely"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0577\u057f\u0578\u0582\u0575\u0570\u0565\u056c\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Pest\u00fajhely"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0443\u0439\u0445\u0435\u0439"
+    ],
+    "name:slv_x_preferred":[
         "Pest\u00fajhely"
     ],
     "name:unk_x_variant":[
@@ -102,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527638339,
+    "wof:lastmodified":1563236066,
     "wof:name":"Pestujhely",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

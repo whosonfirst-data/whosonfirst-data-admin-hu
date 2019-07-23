@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "G\u00f6rcs\u00f6ny"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0686\u0648\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "G\u00f6rcs\u00f6ny"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751541,
+    "wof:lastmodified":1563236952,
     "wof:name":"G\u00f6rcs\u00f6ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Tiszaderzs"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u062f\u0631\u0698"
+    ],
     "name:fra_x_preferred":[
         "Tiszaderzs"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237464,
     "wof:name":"Tiszaderzs",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

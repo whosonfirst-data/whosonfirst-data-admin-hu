@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "P\u00fcsp\u00f6khatvan"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0634\u067e\u0648\u06a9\u0647\u0627\u062a\u0648\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "P\u00fcsp\u00f6khatvan"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "P\u00fcsp\u00f6khatvan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30b7\u30e5\u30dd\u30ab\u30c8\u30d0\u30f3"
     ],
     "name:msa_x_preferred":[
         "P\u00fcsp\u00f6khatvan"
@@ -112,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237135,
     "wof:name":"P\u00fcsp\u00f6khatvan",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

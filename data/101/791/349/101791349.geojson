@@ -20,10 +20,19 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u043e\u0445\u0430\u0447"
     ],
+    "name:bjn_x_preferred":[
+        "Moh\u00e1cs"
+    ],
+    "name:bre_x_preferred":[
+        "Moh\u00e1cs"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0445\u0430\u0447"
     ],
     "name:cat_x_preferred":[
+        "Moh\u00e1cs"
+    ],
+    "name:ceb_x_preferred":[
         "Moh\u00e1cs"
     ],
     "name:ces_x_preferred":[
@@ -34,6 +43,9 @@
     ],
     "name:dsb_x_preferred":[
         "Moh\u00e1cs"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03c7\u03b1\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Moh\u00e1cs"
@@ -56,6 +68,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05d4\u05d0\u05e5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05d4\u05d0\u05e5'"
+    ],
     "name:hrv_x_preferred":[
         "Moha\u010d"
     ],
@@ -63,6 +78,9 @@
         "Mohacs"
     ],
     "name:hun_x_preferred":[
+        "Moh\u00e1cs"
+    ],
+    "name:ind_x_preferred":[
         "Moh\u00e1cs"
     ],
     "name:ita_x_preferred":[
@@ -79,6 +97,12 @@
     ],
     "name:lat_x_preferred":[
         "Moh\u00e1cs"
+    ],
+    "name:lav_x_preferred":[
+        "Moh\u0101\u010da"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0445\u0430\u0447"
     ],
     "name:msa_x_preferred":[
         "Moh\u00e1cs"
@@ -190,7 +214,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751541,
+    "wof:lastmodified":1563236950,
     "wof:name":"Moh\u00e1cs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

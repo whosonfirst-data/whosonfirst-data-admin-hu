@@ -35,6 +35,9 @@
     "name:epo_x_preferred":[
         "Pesterzs\u00e9bet"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u062a\u0631\u0698\u0628\u062a"
+    ],
     "name:fra_x_preferred":[
         "20e arrondissement de Budapest"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:hun_x_variant":[
         "Budapest XX. ker\u00fclete"
+    ],
+    "name:ita_x_preferred":[
+        "Pesterzs\u00e9bet"
     ],
     "name:nld_x_preferred":[
         "Pesterzs\u00e9bet"
@@ -132,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751510,
+    "wof:lastmodified":1563236060,
     "wof:name":"Pestszenterzs\u00e9bet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

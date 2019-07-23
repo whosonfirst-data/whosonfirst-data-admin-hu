@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Nagyberki"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u0628\u0631\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Nagyberki"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751554,
+    "wof:lastmodified":1563237102,
     "wof:name":"Nagyberki",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

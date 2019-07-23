@@ -17,6 +17,9 @@
     "mps:longitude":20.195773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sirok"
+    ],
     "name:deu_x_preferred":[
         "Sirok"
     ],
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751569,
+    "wof:lastmodified":1563237289,
     "wof:name":"Sirok",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0441\u043d\u043e\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Dusnok"
+    ],
     "name:eng_x_preferred":[
         "Dusnok"
     ],
     "name:epo_x_preferred":[
         "Dusnok"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0634\u0646\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
         "Dusnok"
@@ -121,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751536,
+    "wof:lastmodified":1563236873,
     "wof:name":"Dusnok",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

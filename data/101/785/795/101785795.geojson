@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0440\u043e\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Dorog"
+    ],
     "name:ces_x_preferred":[
         "Dorog"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ita_x_preferred":[
         "Dorog"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ed\u30b0"
     ],
     "name:kor_x_preferred":[
         "\ub3c4\ub85c\uadf8"
@@ -154,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237133,
     "wof:name":"Dorog",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

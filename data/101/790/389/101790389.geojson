@@ -17,6 +17,9 @@
     "mps:longitude":20.112369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Csanytelek"
+    ],
     "name:deu_x_preferred":[
         "Csanytelek"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:epo_x_preferred":[
         "Csanytelek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0646\u06cc\u062a\u0644\u06a9"
     ],
     "name:fra_x_preferred":[
         "Csanytelek"
@@ -44,6 +50,9 @@
     "name:nld_x_preferred":[
         "Csanytelek"
     ],
+    "name:pol_x_preferred":[
+        "Csanytelek"
+    ],
     "name:ron_x_preferred":[
         "Csanytelek"
     ],
@@ -51,6 +60,9 @@
         "Csanytelek"
     ],
     "name:slv_x_preferred":[
+        "Csanytelek"
+    ],
+    "name:spa_x_preferred":[
         "Csanytelek"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751539,
+    "wof:lastmodified":1563236917,
     "wof:name":"Csanytelek",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

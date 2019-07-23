@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "L\u00f3cs"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0686"
+    ],
     "name:fra_x_preferred":[
         "L\u00f3cs"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125850621,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237796,
     "wof:name":"L\u00f3cs",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

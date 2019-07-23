@@ -20,6 +20,9 @@
     "name:cbk_zam_x_preferred":[
         "P\u00e1kozd"
     ],
+    "name:ceb_x_preferred":[
+        "P\u00e1kozd"
+    ],
     "name:deu_x_preferred":[
         "P\u00e1kozd"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "P\u00e1kozd"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0648\u0632\u062f"
     ],
     "name:fra_x_preferred":[
         "P\u00e1kozd"
@@ -122,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751550,
+    "wof:lastmodified":1563237048,
     "wof:name":"P\u00e1kozd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

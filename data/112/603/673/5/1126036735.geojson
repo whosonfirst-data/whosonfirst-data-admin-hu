@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Zalah\u00e1sh\u00e1gy"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0644\u0627\u0647\u0627\u0634\u0647\u0627\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Zalah\u00e1sh\u00e1gy"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126036735,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237697,
     "wof:name":"Zalah\u00e1sh\u00e1gy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

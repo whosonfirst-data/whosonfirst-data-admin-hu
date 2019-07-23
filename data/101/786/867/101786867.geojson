@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0442\u0439\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Etyek"
+    ],
     "name:deu_x_preferred":[
         "Etyek"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Etyek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c1\u30a7\u30af"
     ],
     "name:msa_x_preferred":[
         "Etyek"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751581,
+    "wof:lastmodified":1563237440,
     "wof:name":"Etyek",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
+    "geom:area_square_m":1675363.784959,
     "geom:bbox":"17.3427414586,47.5787582651,17.3789425419,47.6016656569",
     "geom:latitude":47.58739,
     "geom:longitude":17.360516,
@@ -15,6 +16,12 @@
     "mps:longitude":17.362025,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "B\u00e1gyogszov\u00e1t"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00e1gyogszov\u00e1t"
+    ],
     "name:epo_x_preferred":[
         "B\u00e1gyogszov\u00e1t"
     ],
@@ -39,7 +46,13 @@
     "name:ita_x_preferred":[
         "B\u00e1gyogszov\u00e1t"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b8\u30e7\u30af\u30bd\u30f4\u30a1\u30fc\u30c8"
+    ],
     "name:msa_x_preferred":[
+        "B\u00e1gyogszov\u00e1t"
+    ],
+    "name:nan_x_preferred":[
         "B\u00e1gyogszov\u00e1t"
     ],
     "name:nld_x_preferred":[
@@ -54,8 +67,20 @@
     "name:slk_x_preferred":[
         "B\u00e1gyogszov\u00e1t"
     ],
+    "name:slv_x_preferred":[
+        "B\u00e1gyogszov\u00e1t"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00e1gyogszov\u00e1t"
+    ],
     "name:unk_x_variant":[
         "R\u00e1baszov\u00e1t"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e1gyogszov\u00e1t"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7126\u683c\u7d22\u74e6\u7279"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Gyor-Moson-Sopron",
@@ -103,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1563237024,
     "wof:name":"B\u00e1gyogszov\u00e1t",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

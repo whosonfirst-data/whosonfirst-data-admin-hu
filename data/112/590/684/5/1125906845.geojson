@@ -22,11 +22,17 @@
     "name:bul_x_preferred":[
         "\u0423\u0437\u0441\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Uzsa"
+    ],
     "name:eng_x_preferred":[
         "Uzsa"
     ],
     "name:epo_x_preferred":[
         "Uzsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0698\u0627"
     ],
     "name:fra_x_preferred":[
         "Uzsa"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1125906845,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237740,
     "wof:name":"Uzsa-Erd\u00e9sztelep",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

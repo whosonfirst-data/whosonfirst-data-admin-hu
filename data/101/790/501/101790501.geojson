@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Baja"
+    ],
     "name:ces_x_preferred":[
         "Baja"
     ],
@@ -86,6 +89,9 @@
     "name:lit_x_preferred":[
         "Baja"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0430"
+    ],
     "name:msa_x_preferred":[
         "Baja"
     ],
@@ -125,6 +131,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u044f"
+    ],
     "name:sco_x_preferred":[
         "Baja"
     ],
@@ -145,6 +154,9 @@
     ],
     "name:swe_x_preferred":[
         "Baja"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u044f"
     ],
     "name:tur_x_preferred":[
         "Baja"
@@ -220,7 +232,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751536,
+    "wof:lastmodified":1563236881,
     "wof:name":"Baja",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

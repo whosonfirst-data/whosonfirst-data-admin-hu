@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Paks"
     ],
+    "name:ceb_x_preferred":[
+        "Paks"
+    ],
     "name:ces_x_preferred":[
         "Paks"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1126040629,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237692,
     "wof:name":"Dunak\u00f6ml\u0151d",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Gy\u00f6m\u00f6re"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u0645\u0648\u0631\u0647"
+    ],
     "name:fra_x_preferred":[
         "Gy\u00f6m\u00f6re"
     ],
@@ -108,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237477,
     "wof:name":"Gy\u00f6m\u00f6re",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

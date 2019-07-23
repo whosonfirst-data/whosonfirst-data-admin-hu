@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Sz\u0151ke"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0647"
+    ],
     "name:fra_x_preferred":[
         "Sz\u0151ke"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125987467,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237770,
     "wof:name":"Sz\u0151ke",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

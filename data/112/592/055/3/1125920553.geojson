@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Monoszl\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0648\u0633\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Monoszl\u00f3"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:slv_x_preferred":[
         "Monoszl\u00f3"
+    ],
+    "name:slv_x_variant":[
+        "Moslavina"
     ],
     "name:swe_x_preferred":[
         "Monoszl\u00f3"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125920553,
-    "wof:lastmodified":1561751597,
+    "wof:lastmodified":1563237670,
     "wof:name":"Monoszl\u00f3",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

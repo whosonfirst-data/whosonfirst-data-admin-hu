@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u062a\u0648\u0627\u0631"
     ],
+    "name:aze_x_preferred":[
+        "Siqetvar"
+    ],
     "name:cat_x_preferred":[
+        "Szigetv\u00e1r"
+    ],
+    "name:ceb_x_preferred":[
         "Szigetv\u00e1r"
     ],
     "name:ces_x_preferred":[
@@ -29,8 +35,14 @@
     "name:cym_x_preferred":[
         "Szigetv\u00e1r"
     ],
+    "name:dan_x_preferred":[
+        "Szigetv\u00e1r"
+    ],
     "name:deu_x_preferred":[
         "Szigetv\u00e1r"
+    ],
+    "name:diq_x_preferred":[
+        "Zigetvar"
     ],
     "name:eng_x_preferred":[
         "Szigetv\u00e1r"
@@ -42,6 +54,9 @@
         "\u0633\u06cc\u06af\u062a\u0648\u0627\u0631"
     ],
     "name:fra_x_preferred":[
+        "Szigetv\u00e1r"
+    ],
+    "name:gla_x_preferred":[
         "Szigetv\u00e1r"
     ],
     "name:hbs_x_preferred":[
@@ -76,6 +91,12 @@
     ],
     "name:lat_x_preferred":[
         "Sigethum"
+    ],
+    "name:lav_x_preferred":[
+        "Sigetv\u0101ra"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0433\u0435\u0442"
     ],
     "name:msa_x_preferred":[
         "Szigetv\u00e1r"
@@ -178,7 +199,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751541,
+    "wof:lastmodified":1563236940,
     "wof:name":"Szigetv\u00e1r",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -27,8 +27,14 @@
     "name:epo_x_preferred":[
         "Meszes"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u0634"
+    ],
     "name:fra_x_preferred":[
         "Meszes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05e9"
     ],
     "name:hun_x_preferred":[
         "Meszes"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125954899,
-    "wof:lastmodified":1561751597,
+    "wof:lastmodified":1563237678,
     "wof:name":"Meszes",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

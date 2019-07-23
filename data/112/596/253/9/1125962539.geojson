@@ -30,8 +30,14 @@
     "name:epo_x_preferred":[
         "Nek\u00e9zseny"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06a9\u0698\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Nek\u00e9zseny"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e7\u05d6'\u05df"
     ],
     "name:hun_x_preferred":[
         "Nek\u00e9zseny"
@@ -59,6 +65,9 @@
     ],
     "name:slv_x_preferred":[
         "Nek\u00e9zseny"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0442\u0430\u043b\u0430"
     ],
     "name:vie_x_preferred":[
         "Nek\u00e9zseny"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1125962539,
-    "wof:lastmodified":1561751602,
+    "wof:lastmodified":1563237754,
     "wof:name":"Nek\u00e9zseny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

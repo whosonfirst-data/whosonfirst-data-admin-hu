@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0628\u06a9\u0627\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125982615,
-    "wof:lastmodified":1561751603,
+    "wof:lastmodified":1563237766,
     "wof:name":"Szentb\u00e9kk\u00e1lla",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

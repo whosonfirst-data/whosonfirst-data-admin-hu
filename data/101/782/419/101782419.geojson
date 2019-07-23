@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0634\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Karcsa"
+    ],
     "name:ces_x_preferred":[
         "Karcsa"
     ],
@@ -32,8 +35,14 @@
     "name:epo_x_preferred":[
         "Karcsa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0686\u0627"
+    ],
     "name:fra_x_preferred":[
         "Karcsa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e6'\u05d4"
     ],
     "name:hun_x_preferred":[
         "Karcsa"
@@ -125,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751560,
+    "wof:lastmodified":1563237178,
     "wof:name":"Karcsa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

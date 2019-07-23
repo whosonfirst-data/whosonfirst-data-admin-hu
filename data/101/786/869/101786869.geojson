@@ -20,11 +20,17 @@
     "name:cbk_zam_x_preferred":[
         "Pusztav\u00e1m"
     ],
+    "name:ceb_x_preferred":[
+        "Pusztav\u00e1m"
+    ],
     "name:eng_x_preferred":[
         "Pusztav\u00e1m"
     ],
     "name:epo_x_preferred":[
         "Pusztav\u00e1m"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u062a\u0627\u0648\u0627\u0645"
     ],
     "name:fra_x_preferred":[
         "Pusztav\u00e1m"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751581,
+    "wof:lastmodified":1563237439,
     "wof:name":"Pusztav\u00e1m",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

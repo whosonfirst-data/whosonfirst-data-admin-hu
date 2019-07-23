@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Ilk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Ilk"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751559,
+    "wof:lastmodified":1563237172,
     "wof:name":"Ilk",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

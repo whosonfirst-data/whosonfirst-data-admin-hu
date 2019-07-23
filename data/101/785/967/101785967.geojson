@@ -26,6 +26,9 @@
     "name:epo_x_preferred":[
         "Poroszl\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0648\u0633\u0644\u0648"
+    ],
     "name:hun_x_colloquial":[
         "Poroszlo"
     ],
@@ -102,7 +105,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751556,
+    "wof:lastmodified":1563237131,
     "wof:name":"Poroszl\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

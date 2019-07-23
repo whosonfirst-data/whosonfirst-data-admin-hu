@@ -53,6 +53,9 @@
     "name:hun_x_variant":[
         "Soroks\u00e1r"
     ],
+    "name:ita_x_preferred":[
+        "Soroks\u00e1r"
+    ],
     "name:nld_x_preferred":[
         "Budapest District XXIII"
     ],
@@ -131,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751510,
+    "wof:lastmodified":1563236063,
     "wof:name":"Soroksar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

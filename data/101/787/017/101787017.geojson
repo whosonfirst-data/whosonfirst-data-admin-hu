@@ -75,6 +75,9 @@
     "name:slv_x_preferred":[
         "Sopronk\u00f6vesd"
     ],
+    "name:spa_x_preferred":[
+        "Sopronk\u00f6vesd"
+    ],
     "name:vie_x_preferred":[
         "Sopronk\u00f6vesd"
     ],
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751585,
+    "wof:lastmodified":1563237490,
     "wof:name":"Sopronk\u00f6vesd",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

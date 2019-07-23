@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u043c\u043e\u043d\u0442\u043e\u0440\u043d\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Simontornya"
+    ],
+    "name:ces_x_preferred":[
+        "Simontornya"
+    ],
     "name:deu_x_preferred":[
         "Simontornya"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:rup_x_preferred":[
         "Simontornya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043c\u043e\u043d\u0442\u043e\u0440\u043d\u044c\u044f"
     ],
     "name:slk_x_preferred":[
         "Simontornya"
@@ -142,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751581,
+    "wof:lastmodified":1563237438,
     "wof:name":"Simontornya",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

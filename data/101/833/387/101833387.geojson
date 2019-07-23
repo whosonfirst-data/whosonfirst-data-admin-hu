@@ -65,6 +65,9 @@
     "name:vie_x_preferred":[
         "K\u00e1polna"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u6ce2\u5c14\u7459"
+    ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Heves",
     "qs:a1r":"0\u00c9szak-Magyarorsz\u00e1g",
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237085,
     "wof:name":"K\u00e1polna",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

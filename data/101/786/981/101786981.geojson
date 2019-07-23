@@ -17,6 +17,9 @@
     "mps:longitude":17.870092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "B\u0151ny"
+    ],
     "name:deu_x_preferred":[
         "B\u0151ny"
     ],
@@ -60,6 +63,9 @@
         "B\u0151ny"
     ],
     "name:slv_x_preferred":[
+        "B\u0151ny"
+    ],
+    "name:spa_x_preferred":[
         "B\u0151ny"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101786981,
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237465,
     "wof:name":"B\u0151ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

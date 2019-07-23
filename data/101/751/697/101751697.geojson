@@ -24,11 +24,15 @@
     "name:ast_x_preferred":[
         "B\u00e9k\u00e9scsaba"
     ],
+    "name:aze_x_preferred":[
+        "Beke\u015f\u00e7aba"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043a\u0435\u0448\u0447\u0430\u0431\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0411\u044d\u043a\u0435\u0448\u0447\u0430\u0431\u0430"
+        "\u0411\u044d\u043a\u0435\u0448\u0447\u0430\u0431\u0430",
+        "\u0411\u0435\u043a\u0435\u0448\u0447\u0430\u0431\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0995\u09c7\u09b8\u09b8\u09be\u09ac\u09be"
@@ -40,6 +44,9 @@
         "\u0411\u0435\u043a\u0435\u0448\u0447\u0430\u0431\u0430"
     ],
     "name:cat_x_preferred":[
+        "B\u00e9k\u00e9scsaba"
+    ],
+    "name:ceb_x_preferred":[
         "B\u00e9k\u00e9scsaba"
     ],
     "name:ces_x_preferred":[
@@ -93,6 +100,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e7\u05e9\u05e6\u05d0\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e7\u05e9\u05e6'\u05d0\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0915\u094d\u0938\u0938\u094d\u0915\u093e\u092c\u093e"
@@ -208,6 +218,9 @@
     "name:swe_x_preferred":[
         "B\u00e9k\u00e9scsaba"
     ],
+    "name:szl_x_preferred":[
+        "B\u00e9k\u00e9scsaba"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0b95\u0bb8\u0bcd\u0bb8\u0baa\u0bbe"
     ],
@@ -234,6 +247,9 @@
     ],
     "name:vep_x_preferred":[
         "Beke\u0161\u010dab"
+    ],
+    "name:vep_x_variant":[
+        "Beke\u0161'\u010dab"
     ],
     "name:vie_x_preferred":[
         "B\u00e9k\u00e9scsaba"
@@ -405,7 +421,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751570,
+    "wof:lastmodified":1563237319,
     "wof:name":"B\u00e9k\u00e9scsaba",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

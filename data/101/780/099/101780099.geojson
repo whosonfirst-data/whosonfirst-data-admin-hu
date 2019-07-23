@@ -17,6 +17,12 @@
     "mps:longitude":21.343446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Balmaz\u00fajv\u00e1ros"
+    ],
+    "name:ces_x_preferred":[
+        "Balmaz\u00fajv\u00e1ros"
+    ],
     "name:deu_x_preferred":[
         "Balmaz\u00fajv\u00e1ros"
     ],
@@ -56,6 +62,9 @@
     "name:kor_x_preferred":[
         "\ubc8c\uba38\uc8fc\uc774\ubc14\ub85c\uc2dc"
     ],
+    "name:lit_x_preferred":[
+        "Balmazujvaro\u0161as"
+    ],
     "name:msa_x_preferred":[
         "Balmaz\u00fajv\u00e1ros"
     ],
@@ -74,6 +83,9 @@
     "name:rup_x_preferred":[
         "Balmaz\u00fajv\u00e1ros"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043c\u0430\u0437\u0443\u0439\u0432\u0430\u0440\u043e\u0448"
+    ],
     "name:slk_x_preferred":[
         "Balmaz\u00fajv\u00e1ros"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:swe_x_preferred":[
         "Balmaz\u00fajv\u00e1ros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043c\u0430\u0437\u0443\u0439\u0432\u0430\u0440\u043e\u0448"
     ],
     "name:vie_x_preferred":[
         "Balmaz\u00fajv\u00e1ros"
@@ -148,7 +163,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751586,
+    "wof:lastmodified":1563237500,
     "wof:name":"Balmaz\u00fajv\u00e1ros",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

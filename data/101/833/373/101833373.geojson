@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "B\u00e9nye"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "B\u00e9nye"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237084,
     "wof:name":"B\u00e9nye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

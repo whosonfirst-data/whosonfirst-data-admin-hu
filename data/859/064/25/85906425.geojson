@@ -25,11 +25,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "R\u00f3zsadomb"
+    ],
     "name:ces_x_preferred":[
         "R\u00f3zsadomb"
     ],
     "name:deu_x_preferred":[
         "Rosenh\u00fcgel"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f3zsadomb"
     ],
     "name:fra_x_preferred":[
         "R\u00f3zsadomb"
@@ -38,6 +44,15 @@
         "Rozsadomb"
     ],
     "name:hun_x_variant":[
+        "R\u00f3zsadomb"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8594\u8587\u30f6\u4e18"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00f3zsadomb"
+    ],
+    "name:pol_x_preferred":[
         "R\u00f3zsadomb"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864516,
+    "wof:lastmodified":1563236082,
     "wof:name":"Rozsadomb",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

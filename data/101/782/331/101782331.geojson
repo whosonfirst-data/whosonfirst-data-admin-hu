@@ -26,6 +26,9 @@
     "name:epo_x_preferred":[
         "Beszterec"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u062a\u0631\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Beszterec"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101782331,
-    "wof:lastmodified":1561751558,
+    "wof:lastmodified":1563237154,
     "wof:name":"Beszterec",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -17,11 +17,17 @@
     "mps:longitude":19.877351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ny\u00e1rl\u0151rinc"
+    ],
     "name:eng_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
     "name:epo_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u0631\u0644\u0648\u0631\u06cc\u0646\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101789241,
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237568,
     "wof:name":"Ny\u00e1rl\u0151rinc",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

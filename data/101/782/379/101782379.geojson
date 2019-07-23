@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Laskod"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0634\u06a9\u0648\u062f"
+    ],
     "name:fra_x_preferred":[
         "Laskod"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751559,
+    "wof:lastmodified":1563237169,
     "wof:name":"Laskod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

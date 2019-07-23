@@ -19,6 +19,9 @@
     "name:ces_x_preferred":[
         "Balaton"
     ],
+    "name:deu_x_preferred":[
+        "Balaton"
+    ],
     "name:eng_x_preferred":[
         "Balaton"
     ],
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751544,
+    "wof:lastmodified":1563236984,
     "wof:name":"Balaton",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

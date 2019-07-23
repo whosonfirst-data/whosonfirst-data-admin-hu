@@ -19,8 +19,14 @@
     "name:eng_x_preferred":[
         "Godisa"
     ],
+    "name:eng_x_variant":[
+        "Mindszentgodisa"
+    ],
     "name:epo_x_preferred":[
         "Mindszentgodisa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u062f\u0633\u0646\u062a\u06af\u0648\u062f\u06cc\u0634\u0627"
     ],
     "name:fra_x_preferred":[
         "Mindszentgodisa"
@@ -127,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751549,
+    "wof:lastmodified":1563237043,
     "wof:name":"Mindszentgodisa",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

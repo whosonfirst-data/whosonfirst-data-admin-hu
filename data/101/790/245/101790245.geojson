@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "K\u00f6lesd"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0634\u062f"
+    ],
     "name:fra_x_preferred":[
         "K\u00f6lesd"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751533,
+    "wof:lastmodified":1563236845,
     "wof:name":"K\u00f6lesd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

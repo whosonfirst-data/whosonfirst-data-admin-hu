@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Orci"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Orci"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125921477,
-    "wof:lastmodified":1561751597,
+    "wof:lastmodified":1563237675,
     "wof:name":"Orci",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

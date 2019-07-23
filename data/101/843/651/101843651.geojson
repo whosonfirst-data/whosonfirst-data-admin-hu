@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "M\u00e9ra"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "M\u00e9ra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d4"
     ],
     "name:hun_x_colloquial":[
         "Mera"
@@ -107,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751544,
+    "wof:lastmodified":1563236990,
     "wof:name":"M\u00e9ra",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

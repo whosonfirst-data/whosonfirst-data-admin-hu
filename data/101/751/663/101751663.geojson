@@ -23,8 +23,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0634"
     ],
+    "name:ast_x_preferred":[
+        "P\u00e9cs"
+    ],
+    "name:aze_x_preferred":[
+        "Pe\u00e7"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0435\u0447"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0435\u0447"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0435\u0447"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u0995\u09b8"
@@ -39,6 +51,9 @@
         "\u041f\u0435\u0447"
     ],
     "name:cat_x_preferred":[
+        "P\u00e9cs"
+    ],
+    "name:ceb_x_preferred":[
         "P\u00e9cs"
     ],
     "name:ces_x_preferred":[
@@ -97,6 +112,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05e5'"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u0915\u094d\u0938"
@@ -159,6 +177,9 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u091a"
     ],
+    "name:mar_x_variant":[
+        "\u092a\u0947\u0915\u094d\u0938"
+    ],
     "name:mhr_x_preferred":[
         "\u041f\u0435\u0447"
     ],
@@ -194,6 +215,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041f\u0435\u0447"
+    ],
+    "name:pms_x_preferred":[
+        "P\u00e9cs"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0686"
@@ -368,7 +392,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1563237321,
     "wof:name":"P\u00e9cs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Hej\u0151papi"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0648\u067e\u0627\u067e\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Hej\u0151papi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d9\u05e4\u05e4\u05d9"
     ],
     "name:hun_x_preferred":[
         "Hej\u0151papi"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":101784817,
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237259,
     "wof:name":"Hej\u0151papi",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

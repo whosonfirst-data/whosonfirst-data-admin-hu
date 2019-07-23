@@ -24,8 +24,14 @@
     "name:epo_x_preferred":[
         "D\u00e9nesfa"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0634\u0641\u0627"
+    ],
     "name:fra_x_preferred":[
         "D\u00e9nesfa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e0\u05e9\u05e4\u05d4"
     ],
     "name:hun_x_preferred":[
         "D\u00e9nesfa"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125986851,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237771,
     "wof:name":"D\u00e9nesfa",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:cbk_zam_x_preferred":[
         "Sereg\u00e9lyes"
     ],
+    "name:ceb_x_preferred":[
+        "Sereg\u00e9lyes"
+    ],
     "name:ces_x_preferred":[
         "Sereg\u00e9lyes"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:est_x_preferred":[
         "Sereg\u00e9lyes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u06af\u0644\u06cc\u0634"
     ],
     "name:fra_x_preferred":[
         "Sereg\u00e9lyes"
@@ -142,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751592,
+    "wof:lastmodified":1563237574,
     "wof:name":"Sereg\u00e9lyes",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

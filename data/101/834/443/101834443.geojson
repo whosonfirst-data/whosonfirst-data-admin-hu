@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Szigetszentmikl\u00f3s"
+    ],
     "name:ces_x_preferred":[
         "Szigetszentmikl\u00f3s"
     ],
@@ -167,7 +170,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751554,
+    "wof:lastmodified":1563237100,
     "wof:name":"Szigetszentmikl\u00f3s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

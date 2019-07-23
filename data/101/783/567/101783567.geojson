@@ -17,6 +17,12 @@
     "mps:longitude":22.021922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "M\u00e1riap\u00f3cs"
+    ],
+    "name:ces_x_preferred":[
+        "M\u00e1riap\u00f3cs"
+    ],
     "name:deu_x_preferred":[
         "M\u00e1riap\u00f3cs"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "M\u00e1riap\u00f3cs"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u067e\u0648\u0686"
     ],
     "name:fra_x_preferred":[
         "M\u00e1riap\u00f3cs"
@@ -77,6 +86,9 @@
     "name:vie_x_preferred":[
         "M\u00e1riap\u00f3cs"
     ],
+    "name:yid_x_preferred":[
+        "\u05de\u05d0\u05e8\u05d9\u05d0\u05e4\u05d0\u05d8\u05e9"
+    ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
     "qs:a1r":"0\u00c9szak-Alf\u00f6ld",
@@ -127,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237197,
     "wof:name":"M\u00e1riap\u00f3cs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

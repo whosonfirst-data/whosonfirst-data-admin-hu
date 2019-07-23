@@ -20,11 +20,20 @@
     "name:bel_x_preferred":[
         "\u0421\u0435\u0441\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Cece"
+    ],
+    "name:ces_x_preferred":[
+        "Cece"
+    ],
     "name:eng_x_preferred":[
         "Cece"
     ],
     "name:epo_x_preferred":[
         "Cece"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Cece"
@@ -112,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237520,
     "wof:name":"Cece",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

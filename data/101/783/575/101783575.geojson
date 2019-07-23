@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0422\u044e\u043a\u043e\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Tyukod"
+    ],
     "name:deu_x_preferred":[
         "Tyukod"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:slv_x_preferred":[
         "Tyukod"
+    ],
+    "name:srp_x_preferred":[
+        "\u040b\u0443\u043a\u043e\u0434"
     ],
     "name:swe_x_preferred":[
         "Tyukod"
@@ -124,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751563,
+    "wof:lastmodified":1563237220,
     "wof:name":"Tyukod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

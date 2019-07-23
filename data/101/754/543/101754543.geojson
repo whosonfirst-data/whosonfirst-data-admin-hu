@@ -17,6 +17,12 @@
     "mps:longitude":19.017205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00dcr\u00f6m"
+    ],
+    "name:ces_x_preferred":[
+        "\u00dcr\u00f6m"
+    ],
     "name:deu_x_preferred":[
         "\u00dcr\u00f6m"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "\u00dcr\u00f6m"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0645"
     ],
     "name:fra_x_preferred":[
         "\u00dcr\u00f6m"
@@ -61,6 +70,9 @@
         "\u00dcr\u00f6m"
     ],
     "name:swe_x_preferred":[
+        "\u00dcr\u00f6m"
+    ],
+    "name:szl_x_preferred":[
         "\u00dcr\u00f6m"
     ],
     "name:ukr_x_preferred":[
@@ -122,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751540,
+    "wof:lastmodified":1563236930,
     "wof:name":"\u00dcr\u00f6m",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

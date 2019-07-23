@@ -44,6 +44,9 @@
     "name:hun_x_preferred":[
         "Tab\u00e1n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d0\u30fc\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Tab\u00e1n"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751510,
+    "wof:lastmodified":1563236070,
     "wof:name":"Tab\u00e1n",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "F\u00fcz\u00e9r"
+    ],
     "name:deu_x_preferred":[
         "F\u00fcz\u00e9r"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:fra_x_preferred":[
         "F\u00fcz\u00e9r"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d6\u05e8"
     ],
     "name:hun_x_preferred":[
         "F\u00fcz\u00e9r"
@@ -53,6 +59,9 @@
     ],
     "name:slk_x_preferred":[
         "F\u00fcz\u00e9r"
+    ],
+    "name:slk_x_variant":[
+        "Fiz\u00e9r"
     ],
     "name:slv_x_preferred":[
         "F\u00fcz\u00e9r"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1125898171,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237721,
     "wof:name":"F\u00fcz\u00e9r",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

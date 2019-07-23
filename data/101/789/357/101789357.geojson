@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0634\u06af\u0648\u0644\u0627\u0686"
+    ],
     "name:fra_x_preferred":[
         "Nemesgul\u00e1cs"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751590,
+    "wof:lastmodified":1563237556,
     "wof:name":"Nemesgul\u00e1cs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

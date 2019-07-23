@@ -20,11 +20,17 @@
     "name:cbk_zam_x_preferred":[
         "Z\u00e1moly"
     ],
+    "name:ceb_x_preferred":[
+        "Z\u00e1moly"
+    ],
     "name:eng_x_preferred":[
         "Z\u00e1moly"
     ],
     "name:epo_x_preferred":[
         "Z\u00e1moly"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645\u0648\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
         "Z\u00e1moly"
@@ -57,6 +63,9 @@
         "Z\u00e1moly"
     ],
     "name:swe_x_preferred":[
+        "Z\u00e1moly"
+    ],
+    "name:szl_x_preferred":[
         "Z\u00e1moly"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751582,
+    "wof:lastmodified":1563237453,
     "wof:name":"Z\u00e1moly",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u043e\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "Doboz"
+    ],
     "name:eng_x_preferred":[
         "Doboz"
     ],
     "name:epo_x_preferred":[
         "Doboz"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0648\u0632"
     ],
     "name:fra_x_preferred":[
         "Doboz"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237572,
     "wof:name":"Doboz",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

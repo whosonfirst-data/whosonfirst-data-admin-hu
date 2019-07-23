@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Pusztatenk"
     ],
+    "name:eng_x_variant":[
+        "Tenk"
+    ],
     "name:epo_x_preferred":[
         "Tenk"
     ],
@@ -105,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751554,
+    "wof:lastmodified":1563237108,
     "wof:name":"Tenk",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

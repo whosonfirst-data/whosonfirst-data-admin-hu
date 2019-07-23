@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Lev\u00e9l"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Lev\u00e9l"
     ],
@@ -56,6 +59,9 @@
         "Lev\u00e9l"
     ],
     "name:slv_x_preferred":[
+        "Lev\u00e9l"
+    ],
+    "name:spa_x_preferred":[
         "Lev\u00e9l"
     ],
     "name:tur_x_preferred":[
@@ -116,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751557,
+    "wof:lastmodified":1563237140,
     "wof:name":"Lev\u00e9l",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

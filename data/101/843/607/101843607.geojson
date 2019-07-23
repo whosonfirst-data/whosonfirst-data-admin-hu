@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Pap"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u067e"
+    ],
     "name:fra_x_preferred":[
         "Pap"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4fdd\u666e"
+    ],
+    "name:zho_x_variant":[
+        "\u8c22\u96f7\u5c3c\u798f\u5c14\u6c83"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Szabolcs-Szatm\u00e1r-Bereg",
@@ -97,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751546,
+    "wof:lastmodified":1563237006,
     "wof:name":"Pap",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

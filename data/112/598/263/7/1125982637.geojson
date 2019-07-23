@@ -27,8 +27,14 @@
     "name:epo_x_preferred":[
         "Vizsoly"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0698\u0648\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Vizsoly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d5\u05d9"
     ],
     "name:hun_x_preferred":[
         "Vizsoly"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1125982637,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237774,
     "wof:name":"Vizsoly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

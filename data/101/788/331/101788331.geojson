@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0426\u0435\u0433\u043b\u0435\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Cegl\u00e9d"
+    ],
     "name:ces_x_preferred":[
         "Cegl\u00e9d"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Czegled"
+    ],
+    "name:eng_x_variant":[
+        "Cegl\u00e9d"
     ],
     "name:epo_x_preferred":[
         "Cegl\u00e9d"
@@ -79,6 +85,9 @@
     ],
     "name:lit_x_preferred":[
         "Cegl\u0117das"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u0433\u043b\u0435\u0434"
     ],
     "name:msa_x_preferred":[
         "Cegl\u00e9d"
@@ -126,6 +135,9 @@
         "Cegled"
     ],
     "name:swe_x_preferred":[
+        "Cegl\u00e9d"
+    ],
+    "name:tur_x_preferred":[
         "Cegl\u00e9d"
     ],
     "name:ukr_x_preferred":[
@@ -193,7 +205,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1563237331,
     "wof:name":"Cegl\u00e9d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

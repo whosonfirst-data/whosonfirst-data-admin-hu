@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Sima"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05de\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Sima"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125816503,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237706,
     "wof:name":"Sima",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

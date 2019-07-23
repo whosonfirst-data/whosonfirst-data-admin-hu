@@ -17,6 +17,9 @@
     "mps:longitude":20.317397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tiszap\u00fcsp\u00f6ki"
+    ],
     "name:deu_x_preferred":[
         "Tiszap\u00fcsp\u00f6ki"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:epo_x_preferred":[
         "Tiszap\u00fcsp\u00f6ki"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u067e\u0648\u0634\u067e\u0648\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
         "Tiszap\u00fcsp\u00f6ki"
@@ -116,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751574,
+    "wof:lastmodified":1563237361,
     "wof:name":"Tiszap\u00fcsp\u00f6ki",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

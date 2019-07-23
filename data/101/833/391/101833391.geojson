@@ -20,14 +20,23 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u043f\u043e\u043b\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Kompolt"
+    ],
     "name:ces_x_preferred":[
         "Kompolt"
     ],
     "name:eng_x_preferred":[
         "Komoplt"
     ],
+    "name:eng_x_variant":[
+        "Kompolt"
+    ],
     "name:epo_x_preferred":[
         "Kompolt"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u067e\u0648\u0644\u062a"
     ],
     "name:fra_x_preferred":[
         "Kompolt"
@@ -124,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751550,
+    "wof:lastmodified":1563237051,
     "wof:name":"Kompolt",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

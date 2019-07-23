@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Buzs\u00e1k"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0698\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Buzs\u00e1k"
     ],
@@ -53,6 +56,9 @@
         "Buzs\u00e1k"
     ],
     "name:slv_x_preferred":[
+        "Buzs\u00e1k"
+    ],
+    "name:spa_x_preferred":[
         "Buzs\u00e1k"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1563237017,
     "wof:name":"Buzs\u00e1k",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

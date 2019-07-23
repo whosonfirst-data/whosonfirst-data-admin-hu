@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Ince"
     ],
+    "name:eng_x_variant":[
+        "Inke"
+    ],
     "name:epo_x_preferred":[
         "Inke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u06a9"
     ],
     "name:fra_x_preferred":[
         "Inke"
@@ -114,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1563237016,
     "wof:name":"Inke",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

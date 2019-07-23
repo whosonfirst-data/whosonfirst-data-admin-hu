@@ -30,6 +30,9 @@
     "name:epo_x_preferred":[
         "Velem"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0645"
+    ],
     "name:fra_x_preferred":[
         "Velem"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125921595,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237668,
     "wof:name":"Velem",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

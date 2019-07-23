@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Nagykereki"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u06a9\u0631\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Nagykereki"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751574,
+    "wof:lastmodified":1563237362,
     "wof:name":"Nagykereki",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

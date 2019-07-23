@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u0442\u0439\u043c\u0430\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "Szatymaz"
+    ],
     "name:eng_x_preferred":[
         "Szatymaz"
     ],
     "name:epo_x_preferred":[
         "Szatymaz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0645\u0627\u0632"
     ],
     "name:fra_x_preferred":[
         "Szatymaz"
@@ -45,6 +51,9 @@
         "Szatymaz"
     ],
     "name:nld_x_preferred":[
+        "Szatymaz"
+    ],
+    "name:pol_x_preferred":[
         "Szatymaz"
     ],
     "name:ron_x_preferred":[
@@ -122,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1563236860,
     "wof:name":"Szatymaz",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

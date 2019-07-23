@@ -20,7 +20,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0438\u043d\u0446\u0431\u0430\u0440\u0446\u0438\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kazincbarcika"
+    ],
     "name:ces_x_preferred":[
+        "Kazincbarcika"
+    ],
+    "name:cym_x_preferred":[
         "Kazincbarcika"
     ],
     "name:dan_x_preferred":[
@@ -53,6 +59,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05d6\u05d9\u05e0\u05e6\u05d1\u05d0\u05e8\u05e6\u05d9\u05e7\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d6\u05d9\u05e0\u05e6\u05d1\u05e8\u05e6\u05d9\u05e7\u05d4"
+    ],
     "name:hun_x_colloquial":[
         "Sajokazinc"
     ],
@@ -74,6 +83,9 @@
     "name:lit_x_preferred":[
         "Kazincbarcika"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0437\u0438\u043d\u0446\u0431\u0430\u0440\u0446\u0438\u043a\u0430"
+    ],
     "name:msa_x_preferred":[
         "Kazincbarcika"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:ron_x_preferred":[
         "Kazincbarcika"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u0430\u0437\u0438\u043d\u0446\u0431\u0430\u0440\u0446\u0438\u043a\u0430"
     ],
     "name:rup_x_preferred":[
         "Kazincbarcika"
@@ -117,6 +132,9 @@
         "Kazincbarcika"
     ],
     "name:swe_x_preferred":[
+        "Kazincbarcika"
+    ],
+    "name:tur_x_preferred":[
         "Kazincbarcika"
     ],
     "name:ukr_x_preferred":[
@@ -188,7 +206,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751552,
+    "wof:lastmodified":1563237075,
     "wof:name":"Kazincbarcika",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

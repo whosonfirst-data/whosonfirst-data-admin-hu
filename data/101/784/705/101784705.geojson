@@ -17,6 +17,12 @@
     "mps:longitude":19.694439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Apc"
+    ],
+    "name:ces_x_preferred":[
+        "Apc"
+    ],
     "name:deu_x_preferred":[
         "Apc"
     ],
@@ -26,8 +32,14 @@
     "name:epo_x_preferred":[
         "Apc"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Apc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05e5"
     ],
     "name:hun_x_preferred":[
         "Apc"
@@ -57,6 +69,9 @@
         "Apc"
     ],
     "name:swe_x_preferred":[
+        "Apc"
+    ],
+    "name:vie_x_preferred":[
         "Apc"
     ],
     "name:zho_x_preferred":[
@@ -110,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751568,
+    "wof:lastmodified":1563237273,
     "wof:name":"Apc",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Ep\u00f6l"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Ep\u00f6l"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125816107,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237701,
     "wof:name":"Ep\u00f6l",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

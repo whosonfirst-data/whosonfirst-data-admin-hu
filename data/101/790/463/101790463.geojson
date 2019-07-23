@@ -17,6 +17,12 @@
     "mps:longitude":19.884867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "M\u00f3rahalom"
+    ],
+    "name:ces_x_preferred":[
+        "M\u00f3rahalom"
+    ],
     "name:deu_x_preferred":[
         "M\u00f3rahalom"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "M\u00f3rahalom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0647\u0627\u0644\u0648\u0645"
     ],
     "name:fra_x_preferred":[
         "M\u00f3rahalom"
@@ -144,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751534,
+    "wof:lastmodified":1563236855,
     "wof:name":"M\u00f3rahalom",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

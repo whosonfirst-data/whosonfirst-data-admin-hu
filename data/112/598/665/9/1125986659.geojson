@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u0627\u0645\u0647\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125986659,
-    "wof:lastmodified":1561751604,
+    "wof:lastmodified":1563237773,
     "wof:name":"\u00c1brah\u00e1mhegy",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

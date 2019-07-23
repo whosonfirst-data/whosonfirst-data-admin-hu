@@ -60,6 +60,9 @@
     "name:ita_x_preferred":[
         "Horn\u00e1d"
     ],
+    "name:ita_x_variant":[
+        "Hern\u00e1d"
+    ],
     "name:msa_x_preferred":[
         "Hern\u00e1d"
     ],
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1563237334,
     "wof:name":"Hern\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

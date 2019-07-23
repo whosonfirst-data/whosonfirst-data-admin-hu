@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Szentgy\u00f6rgyv\u00f6lgy"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u06af\u06cc\u0648\u0631\u06af\u06cc\u0648\u0648\u0644\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Szentgy\u00f6rgyv\u00f6lgy"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125945605,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237657,
     "wof:name":"Szentgy\u00f6rgyv\u00f6lgy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

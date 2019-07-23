@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "P\u00e1lfa"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0641\u0627"
+    ],
     "name:fra_x_preferred":[
         "P\u00e1lfa"
     ],
@@ -106,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751587,
+    "wof:lastmodified":1563237516,
     "wof:name":"P\u00e1lfa",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

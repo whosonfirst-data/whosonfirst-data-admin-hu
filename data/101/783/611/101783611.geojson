@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "B\u00fckkzs\u00e9rc"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0698\u0631\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "B\u00fckkzs\u00e9rc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e7\u05d6'\u05e8\u05e5"
     ],
     "name:hun_x_colloquial":[
         "Buekkzserc",
@@ -52,6 +58,9 @@
     ],
     "name:ron_x_preferred":[
         "B\u00fckkzs\u00e9rc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u043a\u043a\u0436\u0435\u0440\u0446"
     ],
     "name:slk_x_preferred":[
         "B\u00fckkzs\u00e9rc"
@@ -111,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751562,
+    "wof:lastmodified":1563237208,
     "wof:name":"B\u00fckkzs\u00e9rc",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

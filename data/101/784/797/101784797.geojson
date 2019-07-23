@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043a\u043e\u043b\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Szakoly"
+    ],
     "name:deu_x_preferred":[
         "Szakoly"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Szakoly"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0648\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
         "Szakoly"
@@ -119,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237249,
     "wof:name":"Szakoly",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

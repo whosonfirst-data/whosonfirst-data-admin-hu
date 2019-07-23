@@ -27,10 +27,16 @@
     "name:epo_x_preferred":[
         "Kolont\u00e1r"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u0646\u062a\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Kolont\u00e1r"
     ],
     "name:hun_x_preferred":[
+        "Kolont\u00e1r"
+    ],
+    "name:ind_x_preferred":[
         "Kolont\u00e1r"
     ],
     "name:ita_x_preferred":[
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1125937955,
-    "wof:lastmodified":1561751596,
+    "wof:lastmodified":1563237665,
     "wof:name":"Kolont\u00e1r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

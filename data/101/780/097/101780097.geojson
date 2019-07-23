@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Bocskaikert"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0686\u06a9\u0627\u06cc\u06a9\u0631\u062a"
+    ],
     "name:fra_x_preferred":[
         "Bocskaikert"
     ],
@@ -50,6 +53,9 @@
         "Bocskaikert"
     ],
     "name:slv_x_preferred":[
+        "Bocskaikert"
+    ],
+    "name:spa_x_preferred":[
         "Bocskaikert"
     ],
     "name:unk_x_variant":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101780097,
-    "wof:lastmodified":1561751586,
+    "wof:lastmodified":1563237500,
     "wof:name":"Bocskaikert",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

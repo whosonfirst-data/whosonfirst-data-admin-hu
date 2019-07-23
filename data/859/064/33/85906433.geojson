@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u00dajpalota"
+    ],
     "name:fra_x_preferred":[
         "\u00dajpalota"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864516,
+    "wof:lastmodified":1563236079,
     "wof:name":"Ujpalota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

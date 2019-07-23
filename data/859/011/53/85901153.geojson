@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":4527451.026152,
+    "geom:area_square_m":4527451.026151,
     "geom:bbox":"19.1204861992,47.4258851277,19.1595335042,47.448522274",
     "geom:latitude":47.43857,
     "geom:longitude":19.140123,
@@ -26,8 +26,17 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0441\u043f\u0435\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Kispest"
+    ],
     "name:deu_x_preferred":[
         "Klein-Pest"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u067e\u0634\u062a"
     ],
     "name:hun_x_preferred":[
         "Kispest"
@@ -35,9 +44,27 @@
     "name:hun_x_variant":[
         "XIX. ker\u00fclet"
     ],
+    "name:ita_x_preferred":[
+        "distretto XIX"
+    ],
+    "name:pol_x_preferred":[
+        "Kispest"
+    ],
+    "name:slk_x_preferred":[
+        "XIX. obvod"
+    ],
+    "name:swe_x_preferred":[
+        "Kispest"
+    ],
     "name:unk_x_variant":[
         "Klein-Pest",
         "Kispest"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn XIX"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e5d\u533a"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -98,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497313690,
+    "wof:lastmodified":1563236087,
     "wof:name":"Kispest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

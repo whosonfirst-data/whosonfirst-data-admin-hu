@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Hencida"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0646\u062a\u0633\u06cc\u062f\u0627"
+    ],
     "name:fra_x_preferred":[
         "Hencida"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751575,
+    "wof:lastmodified":1563237374,
     "wof:name":"Hencida",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

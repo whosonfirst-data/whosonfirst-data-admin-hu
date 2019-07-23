@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Pilisj\u00e1szfalu"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u06cc\u0634\u06cc\u0627\u0633\u0641\u0627\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Pilisj\u00e1szfalu"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125964687,
-    "wof:lastmodified":1561751602,
+    "wof:lastmodified":1563237755,
     "wof:name":"Pilisj\u00e1szfalu",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

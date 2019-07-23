@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Mencshely"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0686\u0647\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Mencshely"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125792589,
-    "wof:lastmodified":1561751606,
+    "wof:lastmodified":1563237806,
     "wof:name":"Mencshely",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

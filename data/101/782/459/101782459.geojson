@@ -20,17 +20,32 @@
     "name:bar_x_preferred":[
         "Monok"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Monok"
+    ],
     "name:deu_x_preferred":[
         "Monok"
     ],
     "name:eng_x_preferred":[
         "Morok"
     ],
+    "name:eng_x_variant":[
+        "Monok"
+    ],
     "name:epo_x_preferred":[
         "Monok"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0648\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Monok"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d5\u05e7"
     ],
     "name:hun_x_preferred":[
         "Monok"
@@ -58,6 +73,9 @@
     ],
     "name:ron_x_preferred":[
         "Monok"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043e\u043a"
     ],
     "name:slk_x_preferred":[
         "Monok"
@@ -133,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751560,
+    "wof:lastmodified":1563237187,
     "wof:name":"Monok",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

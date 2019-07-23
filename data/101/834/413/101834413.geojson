@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0632\u062a\u064a\u0644\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Kesthey"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u0441\u0442\u0445\u0435\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u099c\u09a5\u09c7\u09b2\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u0441\u0437\u0442\u0445\u0435\u043b\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Keszthely"
     ],
     "name:ces_x_preferred":[
         "Keszthely"
@@ -41,8 +50,14 @@
     "name:dsb_x_preferred":[
         "Keszthely"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03b6\u03c4\u03b5\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Keszthelyi"
+    ],
+    "name:eng_x_variant":[
+        "Keszthely"
     ],
     "name:epo_x_preferred":[
         "Keszthely"
@@ -68,7 +83,13 @@
     "name:hrv_x_preferred":[
         "Kestel"
     ],
+    "name:hrv_x_variant":[
+        "Keszthely"
+    ],
     "name:hun_x_preferred":[
+        "Keszthely"
+    ],
+    "name:ind_x_preferred":[
         "Keszthely"
     ],
     "name:ita_x_preferred":[
@@ -118,6 +139,9 @@
     ],
     "name:slv_x_preferred":[
         "Blatenski Kostel"
+    ],
+    "name:slv_x_variant":[
+        "Keszthely"
     ],
     "name:spa_x_preferred":[
         "Keszthely"
@@ -200,7 +224,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237091,
     "wof:name":"Keszthely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

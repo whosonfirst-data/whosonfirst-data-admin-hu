@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "M\u00e1rianosztra"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u0646\u0648\u0633\u062a\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "M\u00e1rianosztra"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751586,
+    "wof:lastmodified":1563237504,
     "wof:name":"M\u00e1rianosztra",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "S\u00e9nye"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u06cc\u0647"
+    ],
     "name:fra_x_preferred":[
         "S\u00e9nye"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1126046173,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237691,
     "wof:name":"S\u00e9nye",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

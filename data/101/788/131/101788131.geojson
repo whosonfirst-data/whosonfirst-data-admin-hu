@@ -19,8 +19,14 @@
     "name:eng_x_preferred":[
         "Pusztaecseg"
     ],
+    "name:eng_x_variant":[
+        "Ecsegfalva"
+    ],
     "name:epo_x_preferred":[
         "Ecsegfalva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0686\u06af\u0641\u0627\u0644\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Ecsegfalva"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751575,
+    "wof:lastmodified":1563237377,
     "wof:name":"Ecsegfalva",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

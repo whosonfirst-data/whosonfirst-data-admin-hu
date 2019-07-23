@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Szenna"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Szenna"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125770119,
-    "wof:lastmodified":1561751606,
+    "wof:lastmodified":1563237811,
     "wof:name":"Szenna",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

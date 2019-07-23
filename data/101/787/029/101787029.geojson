@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "L\u00f6v\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "L\u00f6v\u0151"
     ],
@@ -68,6 +71,9 @@
         "L\u00f6v\u0151"
     ],
     "name:slv_x_preferred":[
+        "L\u00f6v\u0151"
+    ],
+    "name:spa_x_preferred":[
         "L\u00f6v\u0151"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":101787029,
-    "wof:lastmodified":1561751585,
+    "wof:lastmodified":1563237488,
     "wof:name":"L\u00f6v\u0151",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

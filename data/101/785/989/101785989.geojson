@@ -76,6 +76,9 @@
     "name:ron_x_preferred":[
         "Tarnaszentmikl\u00f3s"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u043d\u0430\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
+    ],
     "name:slk_x_preferred":[
         "Tarnaszentmikl\u00f3s"
     ],
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751557,
+    "wof:lastmodified":1563237149,
     "wof:name":"Tarnaszentmikl\u00f3s",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

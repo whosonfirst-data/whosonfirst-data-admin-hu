@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "P\u00e9ly"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u064d\u06cc"
+    ],
     "name:fra_x_preferred":[
         "P\u00e9ly"
     ],
@@ -46,13 +49,25 @@
     "name:nld_x_preferred":[
         "P\u00e9ly"
     ],
+    "name:por_x_preferred":[
+        "P\u00e9ly"
+    ],
     "name:ron_x_preferred":[
+        "P\u00e9ly"
+    ],
+    "name:sco_x_preferred":[
         "P\u00e9ly"
     ],
     "name:slk_x_preferred":[
         "P\u00e9ly"
     ],
     "name:slv_x_preferred":[
+        "P\u00e9ly"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00e9ly"
+    ],
+    "name:swe_x_preferred":[
         "P\u00e9ly"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237467,
     "wof:name":"P\u00e9ly",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

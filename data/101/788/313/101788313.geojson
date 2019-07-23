@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0433\u0438\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Bugyi"
+    ],
+    "name:ces_x_preferred":[
+        "Bugyi"
+    ],
     "name:deu_x_preferred":[
         "Bugyi"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:epo_x_preferred":[
         "Bugyi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u06cc\u06cc"
     ],
     "name:fra_x_preferred":[
         "Bugyi"
@@ -118,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751575,
+    "wof:lastmodified":1563237371,
     "wof:name":"Bugyi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

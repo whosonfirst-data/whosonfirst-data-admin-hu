@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Kesz\u00fc"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Kesz\u00fc"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125816203,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237705,
     "wof:name":"Kesz\u00fc",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

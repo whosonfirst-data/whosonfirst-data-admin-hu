@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d6\u05e8\u05d3\u05d5\u05d5\u05d0\u05df"
+    ],
     "name:hun_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:slk_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
+    ],
+    "name:slk_x_variant":[
+        "Radva\u0148"
     ],
     "name:slv_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125825755,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237792,
     "wof:name":"F\u00fcz\u00e9rradv\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Dad"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u062f"
+    ],
     "name:fra_x_preferred":[
         "Dad"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u0924\u093e"
     ],
     "name:hun_x_preferred":[
         "Dad"
@@ -51,6 +57,9 @@
     ],
     "name:slv_x_preferred":[
         "Dad"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c28\u0c4d\u0c28"
     ],
     "name:vie_x_preferred":[
         "Dad"
@@ -107,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751582,
+    "wof:lastmodified":1563237449,
     "wof:name":"Dad",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

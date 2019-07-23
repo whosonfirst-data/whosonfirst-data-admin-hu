@@ -103,6 +103,9 @@
     "name:ind_x_preferred":[
         "Pulau Kisar"
     ],
+    "name:ind_x_variant":[
+        "Kisar"
+    ],
     "name:isl_x_preferred":[
         "Kisar"
     ],
@@ -184,6 +187,9 @@
     "name:spa_x_preferred":[
         "Isla Kisar"
     ],
+    "name:spa_x_variant":[
+        "Kisar"
+    ],
     "name:srd_x_preferred":[
         "Kisar"
     ],
@@ -263,7 +269,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237191,
     "wof:name":"Kisar",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

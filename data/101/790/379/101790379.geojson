@@ -19,6 +19,9 @@
     "name:ces_x_preferred":[
         "T\u00f3tszerdahely"
     ],
+    "name:deu_x_preferred":[
+        "T\u00f3tszerdahely"
+    ],
     "name:eng_x_preferred":[
         "T\u00f3tszerdahely"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1563236865,
     "wof:name":"T\u00f3tszerdahely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

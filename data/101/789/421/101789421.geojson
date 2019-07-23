@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "\u00darhida"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0647\u06cc\u062f\u0627"
+    ],
     "name:fra_x_preferred":[
         "\u00darhida"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237567,
     "wof:name":"\u00darhida",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

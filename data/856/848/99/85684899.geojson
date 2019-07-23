@@ -30,14 +30,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0634\u062a"
     ],
+    "name:aze_x_preferred":[
+        "Pe\u015ft medyesi"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0448\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u043c\u0435\u0434\u0437\u044c\u0435 \u041f\u0435\u0448\u0442"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0449"
     ],
     "name:cat_x_preferred":[
         "Pest"
+    ],
+    "name:ceb_x_preferred":[
+        "Pest megye"
     ],
     "name:ces_x_preferred":[
         "Pest"
@@ -53,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Pest"
+    ],
+    "name:eng_x_variant":[
+        "Pest County"
     ],
     "name:epo_x_preferred":[
         "Pest"
@@ -87,6 +99,9 @@
     "name:hun_x_preferred":[
         "Pest"
     ],
+    "name:hun_x_variant":[
+        "Pest megye"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0577\u057f"
     ],
@@ -106,7 +121,8 @@
         "\ud398\uc2a4\ud2b8"
     ],
     "name:kor_x_variant":[
-        "\ud398\uc288\ud2b8 \uc8fc"
+        "\ud398\uc288\ud2b8 \uc8fc",
+        "\ud398\uc288\ud2b8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Pe\u0161tas me\u0123e"
@@ -140,6 +156,9 @@
     ],
     "name:pol_x_preferred":[
         "Pest"
+    ],
+    "name:pol_x_variant":[
+        "Komitat Pest"
     ],
     "name:por_x_preferred":[
         "Pest"
@@ -325,7 +344,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751512,
+    "wof:lastmodified":1563236108,
     "wof:name":"Pest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

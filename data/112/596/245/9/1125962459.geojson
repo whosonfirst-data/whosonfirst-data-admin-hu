@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "F\u00fcz\u00e9rkoml\u00f3s"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d6\u05e8\u05e7\u05d5\u05de\u05dc\u05d5\u05e9"
+    ],
     "name:hun_x_preferred":[
         "F\u00fcz\u00e9rkoml\u00f3s"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:slk_x_preferred":[
         "F\u00fcz\u00e9rkoml\u00f3s"
+    ],
+    "name:slk_x_variant":[
+        "Koml\u00f3\u0161"
     ],
     "name:slv_x_preferred":[
         "F\u00fcz\u00e9rkoml\u00f3s"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125962459,
-    "wof:lastmodified":1561751602,
+    "wof:lastmodified":1563237744,
     "wof:name":"F\u00fcz\u00e9rkoml\u00f3s",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

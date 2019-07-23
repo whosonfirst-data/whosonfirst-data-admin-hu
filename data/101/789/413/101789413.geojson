@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "K\u00e9tsoprony"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u062a\u0634\u0648\u067e\u0631\u0648\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "K\u00e9tsoprony"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237523,
     "wof:name":"K\u00e9tsoprony",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0431\u0435\u0440\u0442\u0438\u0440\u0441\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Albertirsa"
+    ],
+    "name:ces_x_preferred":[
+        "Albertirsa"
+    ],
     "name:deu_x_preferred":[
         "Albertirsa"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:hbs_x_preferred":[
         "Albertirsa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d1\u05e8\u05d8\u05d9\u05e8\u05e9\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Albertirsa"
@@ -153,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1563237330,
     "wof:name":"Albertirsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

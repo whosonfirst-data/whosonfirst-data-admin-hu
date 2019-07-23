@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Egyh\u00e1zasr\u00e1d\u00f3c"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u06cc\u0647\u0627\u0632\u0627\u0634\u0631\u0627\u062f\u0648\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Egyh\u00e1zasr\u00e1d\u00f3c"
     ],
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1563237029,
     "wof:name":"Egyh\u00e1zasr\u00e1d\u00f3c",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

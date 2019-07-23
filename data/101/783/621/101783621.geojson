@@ -17,6 +17,12 @@
     "mps:longitude":20.815192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Em\u0151d"
+    ],
+    "name:ces_x_preferred":[
+        "Em\u0151d"
+    ],
     "name:deu_x_preferred":[
         "Em\u0151d"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Em\u0151d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d5\u05d3"
     ],
     "name:hun_x_preferred":[
         "Em\u0151d"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":101783621,
-    "wof:lastmodified":1561751562,
+    "wof:lastmodified":1563237205,
     "wof:name":"Em\u0151d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

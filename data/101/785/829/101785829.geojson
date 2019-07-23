@@ -35,6 +35,9 @@
     "name:epo_x_preferred":[
         "Hegyeshalom"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u06af\u06cc\u0634\u0647\u0627\u0644\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
         "Hegyeshalom"
     ],
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751555,
+    "wof:lastmodified":1563237113,
     "wof:name":"Hegyeshalom",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

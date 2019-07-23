@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Dobronhegy"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0646\u0647\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Dobronhegy"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125962441,
-    "wof:lastmodified":1561751602,
+    "wof:lastmodified":1563237745,
     "wof:name":"Dobronhegy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

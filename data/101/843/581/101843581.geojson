@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Ny\u00edrt\u00e9t"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06cc\u0631\u062a\u062a"
+    ],
     "name:fra_x_preferred":[
         "Ny\u00edrt\u00e9t"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751545,
+    "wof:lastmodified":1563236994,
     "wof:name":"Ny\u00edrt\u00e9t",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

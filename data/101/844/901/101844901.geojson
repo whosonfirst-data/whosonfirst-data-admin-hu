@@ -16,6 +16,12 @@
     "mps:longitude":17.169543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Al\u015fopahok"
+    ],
+    "name:ces_x_preferred":[
+        "Als\u00f3p\u00e1hok"
+    ],
     "name:eng_x_preferred":[
         "Als\u00f3p\u00e1hok"
     ],
@@ -113,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751546,
+    "wof:lastmodified":1563237011,
     "wof:name":"Als\u00f3p\u00e1hok",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Hobol"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0628\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Hobol"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751549,
+    "wof:lastmodified":1563237035,
     "wof:name":"Hobol",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

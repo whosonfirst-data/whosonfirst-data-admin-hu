@@ -20,6 +20,12 @@
     "name:cat_x_preferred":[
         "Bicske"
     ],
+    "name:ceb_x_preferred":[
+        "Bicske"
+    ],
+    "name:ces_x_preferred":[
+        "Bicske"
+    ],
     "name:deu_x_preferred":[
         "Bicske"
     ],
@@ -45,6 +51,9 @@
         "\u05d1\u05d9\u05e6'\u05e7\u05d4"
     ],
     "name:hun_x_preferred":[
+        "Bicske"
+    ],
+    "name:ind_x_preferred":[
         "Bicske"
     ],
     "name:ita_x_preferred":[
@@ -151,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751581,
+    "wof:lastmodified":1563237437,
     "wof:name":"Bicske",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

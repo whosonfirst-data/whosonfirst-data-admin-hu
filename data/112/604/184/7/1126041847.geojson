@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "B\u00f3zsva"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0698\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
         "B\u00f3zsva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d6'\u05d5\u05d5\u05d4"
     ],
     "name:hun_x_preferred":[
         "B\u00f3zsva"
@@ -51,6 +57,9 @@
     ],
     "name:slk_x_preferred":[
         "B\u00f3zsva"
+    ],
+    "name:slk_x_variant":[
+        "Bo\u017eva"
     ],
     "name:slv_x_preferred":[
         "B\u00f3zsva"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1126041847,
-    "wof:lastmodified":1561751598,
+    "wof:lastmodified":1563237696,
     "wof:name":"B\u00f3zsva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Rohod"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0647\u0648\u062f"
+    ],
     "name:fra_x_preferred":[
         "Rohod"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751561,
+    "wof:lastmodified":1563237190,
     "wof:name":"Rohod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

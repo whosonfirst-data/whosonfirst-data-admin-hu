@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0645\u0648\u06a9\u0633\u0646\u062a\u06af\u06cc\u0648\u0631\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1563237021,
     "wof:name":"Homokszentgy\u00f6rgy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

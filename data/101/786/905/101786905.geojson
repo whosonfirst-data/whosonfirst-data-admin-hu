@@ -17,11 +17,17 @@
     "mps:longitude":18.498299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sz\u00e1rliget"
+    ],
     "name:eng_x_preferred":[
         "Sz\u00e1rliget"
     ],
     "name:epo_x_preferred":[
         "Sz\u00e1rliget"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0644\u06cc\u06af\u062a"
     ],
     "name:fra_x_preferred":[
         "Sz\u00e1rliget"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101786905,
-    "wof:lastmodified":1561751582,
+    "wof:lastmodified":1563237451,
     "wof:name":"Sz\u00e1rliget",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

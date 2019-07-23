@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Becske"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0686\u06a9\u0647"
+    ],
     "name:fra_x_preferred":[
         "Becske"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125825747,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237792,
     "wof:name":"Becske",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Besny\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0646\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Besny\u0151"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101786851,
-    "wof:lastmodified":1561751581,
+    "wof:lastmodified":1563237439,
     "wof:name":"Besny\u0151",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

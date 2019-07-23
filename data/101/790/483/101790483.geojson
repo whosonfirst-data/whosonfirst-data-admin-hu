@@ -19,11 +19,17 @@
     "name:ces_x_preferred":[
         "Usz\u00f3d"
     ],
+    "name:deu_x_preferred":[
+        "Usz\u00f3d"
+    ],
     "name:eng_x_preferred":[
         "Usz\u00f3d"
     ],
     "name:epo_x_preferred":[
         "Usz\u00f3d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u0648\u062f"
     ],
     "name:fra_x_preferred":[
         "Usz\u00f3d"
@@ -112,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751534,
+    "wof:lastmodified":1563236846,
     "wof:name":"Usz\u00f3d",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

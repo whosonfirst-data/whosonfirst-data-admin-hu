@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Taktaken\u00e9z"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06a9\u062a\u0627\u06a9\u0646\u0632"
+    ],
     "name:fra_x_preferred":[
         "Taktaken\u00e9z"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e7\u05d8\u05e7\u05e0\u05d6"
     ],
     "name:hun_x_colloquial":[
         "Taktakenez"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751565,
+    "wof:lastmodified":1563237240,
     "wof:name":"Taktaken\u00e9z",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

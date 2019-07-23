@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
-    "geom:area_square_m":5473824.838158,
+    "geom:area_square_m":5473824.838161,
     "geom:bbox":"21.6423834683,48.3764249766,21.679985118,48.4166460833",
     "geom:latitude":48.395955,
     "geom:longitude":21.659174,
@@ -17,6 +17,15 @@
     "mps:longitude":21.657892,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eatoralyauyhey"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
     "name:ces_x_preferred":[
         "S\u00e1toralja\u00fajhely"
     ],
@@ -33,6 +42,9 @@
         "S\u00e1toralja\u00fajhely"
     ],
     "name:epo_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:est_x_preferred":[
         "S\u00e1toralja\u00fajhely"
     ],
     "name:fas_x_preferred":[
@@ -63,10 +75,31 @@
     "name:ita_x_preferred":[
         "S\u00e1toralja\u00fajhely"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30fc\u30c8\u30eb\u30a2\u30a4\u30e4\u30a6\u30fc\u30a4\u30d8\u30a4"
+    ],
     "name:kor_x_preferred":[
         "\uc0e4\ud1a0\ub7ec\uc5ec\uc6b0\uc774\ud5e4\uc774"
     ],
+    "name:msa_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:oci_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
     "name:pol_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
+    ],
+    "name:rup_x_preferred":[
         "S\u00e1toralja\u00fajhely"
     ],
     "name:rus_x_preferred":[
@@ -74,6 +107,9 @@
     ],
     "name:slk_x_preferred":[
         "Nov\u00e9 Mesto pod \u0160iatrom"
+    ],
+    "name:slv_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u0442\u043e\u0440\u0430\u0459\u0430\u0443\u0458\u0445\u0435\u0459"
@@ -84,8 +120,14 @@
     "name:swe_x_preferred":[
         "S\u00e1toralja\u00fajhely"
     ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0442\u043e\u0440\u0430\u043b\u044c\u044f\u0443\u0439\u0445\u0435\u0439"
+    ],
     "name:unk_x_variant":[
         "K\u00e1rolyfalva"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e1toralja\u00fajhely"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05d4\u05e2\u05dc"
@@ -144,7 +186,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715628,
+    "wof:lastmodified":1563237424,
     "wof:name":"S\u00e1toralja\u00fajhely",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

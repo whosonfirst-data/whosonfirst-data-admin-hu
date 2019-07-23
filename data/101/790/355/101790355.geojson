@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "R\u00e9dics"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u062f\u06cc\u0686"
+    ],
     "name:fra_x_preferred":[
         "R\u00e9dics"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751533,
+    "wof:lastmodified":1563236837,
     "wof:name":"R\u00e9dics",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

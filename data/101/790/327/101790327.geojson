@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Juta"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Juta"
     ],
@@ -103,7 +106,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751539,
+    "wof:lastmodified":1563236915,
     "wof:name":"Juta",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

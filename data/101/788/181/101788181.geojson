@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "S\u00e1rkeresztes"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u06a9\u0631\u0633\u062a\u0634"
+    ],
     "name:fra_x_preferred":[
         "S\u00e1rkeresztes"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ron_x_preferred":[
         "S\u00e1rkeresztes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043a\u0435\u0440\u0435\u0441\u0442\u0435\u0441"
     ],
     "name:slk_x_preferred":[
         "S\u00e1rkeresztes"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751575,
+    "wof:lastmodified":1563237370,
     "wof:name":"S\u00e1rkeresztes",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

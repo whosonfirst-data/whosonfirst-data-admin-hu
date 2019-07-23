@@ -17,6 +17,12 @@
     "mps:longitude":21.114101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Polg\u00e1r"
+    ],
+    "name:ces_x_preferred":[
+        "Polg\u00e1r"
+    ],
     "name:deu_x_preferred":[
         "Polg\u00e1r"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Polg\u00e1r"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u06af\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Polg\u00e1r"
@@ -127,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1563237257,
     "wof:name":"Polg\u00e1r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

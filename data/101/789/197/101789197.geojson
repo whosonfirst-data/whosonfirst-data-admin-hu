@@ -16,11 +16,17 @@
     "mps:longitude":16.854692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Egerv\u00e1r"
+    ],
     "name:eng_x_preferred":[
         "Egerv\u00e1r"
     ],
     "name:epo_x_preferred":[
         "Egerv\u00e1r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0631\u0648\u0627\u0631"
     ],
     "name:fra_x_preferred":[
         "Egerv\u00e1r"
@@ -104,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751591,
+    "wof:lastmodified":1563237561,
     "wof:name":"Egerv\u00e1r",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

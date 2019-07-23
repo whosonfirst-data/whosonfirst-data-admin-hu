@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001201,
-    "geom:area_square_m":10093024.738038,
+    "geom:area_square_m":10093024.738041,
     "geom:bbox":"19.2612740683,47.1606695909,19.3510203294,47.2269897609",
     "geom:latitude":47.188317,
     "geom:longitude":19.31245,
@@ -17,10 +17,28 @@
     "mps:longitude":19.322989,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0431\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Dabas"
+    ],
+    "name:ces_x_preferred":[
+        "Dabas"
+    ],
+    "name:cym_x_preferred":[
+        "Dabas"
+    ],
     "name:deu_x_preferred":[
         "Dabas"
     ],
+    "name:eng_x_preferred":[
+        "Dabas"
+    ],
     "name:epo_x_preferred":[
+        "Dabas"
+    ],
+    "name:est_x_preferred":[
         "Dabas"
     ],
     "name:fas_x_preferred":[
@@ -35,6 +53,9 @@
     "name:hbs_x_preferred":[
         "Dabas"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05e9"
+    ],
     "name:hun_x_colloquial":[
         "Sari"
     ],
@@ -45,7 +66,19 @@
     "name:ita_x_preferred":[
         "Dabas"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30d0\u30b7\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354\ubc84\uc2dc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0431\u0430\u0448"
+    ],
     "name:msa_x_preferred":[
+        "Dabas"
+    ],
+    "name:nan_x_preferred":[
         "Dabas"
     ],
     "name:nld_x_preferred":[
@@ -55,6 +88,9 @@
         "Dabas"
     ],
     "name:ron_x_preferred":[
+        "Dabas"
+    ],
+    "name:rup_x_preferred":[
         "Dabas"
     ],
     "name:rus_x_preferred":[
@@ -71,6 +107,9 @@
     ],
     "name:swe_x_preferred":[
         "Dabas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0431\u0430\u0448"
     ],
     "name:unk_x_variant":[
         "S\u00e1ri"
@@ -134,7 +173,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527715573,
+    "wof:lastmodified":1563237372,
     "wof:name":"Dabas",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

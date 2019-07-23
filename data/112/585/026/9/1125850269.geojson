@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Hossz\u00fav\u00f6lgy"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0634\u0633\u0648\u0648\u0648\u0644\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Hossz\u00fav\u00f6lgy"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125850269,
-    "wof:lastmodified":1561751605,
+    "wof:lastmodified":1563237800,
     "wof:name":"Hossz\u00fav\u00f6lgy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Pereszteg"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0633\u062a\u06af"
+    ],
     "name:fra_x_preferred":[
         "Pereszteg"
     ],
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751584,
+    "wof:lastmodified":1563237476,
     "wof:name":"Pereszteg",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

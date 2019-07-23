@@ -17,11 +17,20 @@
     "mps:longitude":18.774789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mez\u0151falva"
+    ],
+    "name:deu_x_preferred":[
+        "Mez\u0151falva"
+    ],
     "name:eng_x_preferred":[
         "Mez\u0151falva"
     ],
     "name:epo_x_preferred":[
         "Mez\u0151falva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0648\u0641\u0627\u0644\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Mez\u0151falva"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":101789483,
-    "wof:lastmodified":1561751588,
+    "wof:lastmodified":1563237525,
     "wof:name":"Mez\u0151falva",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

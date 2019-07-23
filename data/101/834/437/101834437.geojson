@@ -19,8 +19,14 @@
     "name:eng_x_preferred":[
         "Kulcspuszta"
     ],
+    "name:eng_x_variant":[
+        "Kulcs"
+    ],
     "name:epo_x_preferred":[
         "Kulcs"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0686"
     ],
     "name:fra_x_preferred":[
         "Kulcs"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237094,
     "wof:name":"Kulcs",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

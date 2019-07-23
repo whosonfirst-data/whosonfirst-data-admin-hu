@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Raposka"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u067e\u0648\u0634\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Raposka"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125816391,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237714,
     "wof:name":"Raposka",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mps:longitude":20.664271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "S\u00e1ly"
+    ],
     "name:deu_x_preferred":[
         "S\u00e1ly"
     ],
@@ -26,8 +29,14 @@
     "name:epo_x_preferred":[
         "S\u00e1ly"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0644\u06cc"
+    ],
     "name:fra_x_preferred":[
         "S\u00e1ly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d9"
     ],
     "name:hun_x_colloquial":[
         "Saly"
@@ -57,6 +66,9 @@
         "S\u00e1ly"
     ],
     "name:slv_x_preferred":[
+        "S\u00e1ly"
+    ],
+    "name:swe_x_preferred":[
         "S\u00e1ly"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751564,
+    "wof:lastmodified":1563237231,
     "wof:name":"S\u00e1ly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

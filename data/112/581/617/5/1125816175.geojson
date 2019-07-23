@@ -27,8 +27,14 @@
     "name:epo_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0634\u0648\u0627\u0641\u0648"
+    ],
     "name:fra_x_preferred":[
         "J\u00f3svaf\u0151"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05e9\u05d5\u05d5\u05e4\u05d4"
     ],
     "name:hun_x_preferred":[
         "J\u00f3svaf\u0151"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125816175,
-    "wof:lastmodified":1561751599,
+    "wof:lastmodified":1563237702,
     "wof:name":"J\u00f3svaf\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

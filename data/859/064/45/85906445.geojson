@@ -28,6 +28,9 @@
     "name:deu_x_preferred":[
         "Pasar\u00e9t"
     ],
+    "name:eng_x_preferred":[
+        "Pasar\u00e9t"
+    ],
     "name:fra_x_preferred":[
         "Pasar\u00e9t"
     ],
@@ -35,6 +38,9 @@
         "Pasaret"
     ],
     "name:hun_x_variant":[
+        "Pasar\u00e9t"
+    ],
+    "name:nld_x_preferred":[
         "Pasar\u00e9t"
     ],
     "name:unk_x_variant":[
@@ -97,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864516,
+    "wof:lastmodified":1563236079,
     "wof:name":"Pasaret",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

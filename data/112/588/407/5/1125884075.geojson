@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Mikl\u00f3si"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0644\u0648\u0634\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Mikl\u00f3si"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125884075,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237717,
     "wof:name":"Mikl\u00f3si",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

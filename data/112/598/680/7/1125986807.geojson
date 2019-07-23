@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "B\u0151sz\u00e9nfa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u0641\u0627"
+    ],
     "name:fra_x_preferred":[
         "B\u0151sz\u00e9nfa"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125986807,
-    "wof:lastmodified":1561751603,
+    "wof:lastmodified":1563237765,
     "wof:name":"B\u0151sz\u00e9nfa",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

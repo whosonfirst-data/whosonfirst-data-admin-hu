@@ -17,6 +17,12 @@
     "mps:longitude":20.775101,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gyomaendr\u0151d"
+    ],
+    "name:ces_x_preferred":[
+        "Gyomaendr\u0151d"
+    ],
     "name:deu_x_preferred":[
         "Gyomaendr\u0151d"
     ],
@@ -86,6 +92,9 @@
     "name:vie_x_preferred":[
         "Gyomaendr\u0151d"
     ],
+    "name:zho_x_preferred":[
+        "\u5409\u5967\u99ac\u6069\u5fb7\u52d2\u5fb7"
+    ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
     "qs:a1r":"0D\u00e9l-Alf\u00f6ld",
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1175612755,
-    "wof:lastmodified":1561751528,
+    "wof:lastmodified":1563236672,
     "wof:name":"Gyomaendr\u0151d",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

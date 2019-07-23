@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "R\u00e1d"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062f"
+    ],
     "name:fra_x_preferred":[
         "R\u00e1d"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751543,
+    "wof:lastmodified":1563236970,
     "wof:name":"R\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

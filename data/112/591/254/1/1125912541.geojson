@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Tabajd"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0628\u0627\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
         "Tabajd"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125912541,
-    "wof:lastmodified":1561751603,
+    "wof:lastmodified":1563237760,
     "wof:name":"Tabajd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "B\u00fck"
+    ],
     "name:ces_x_preferred":[
         "B\u00fck"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "B\u00fck"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
         "B\u00fck"
@@ -140,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751577,
+    "wof:lastmodified":1563237388,
     "wof:name":"B\u00fck",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Geszter\u00e9d"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0633\u062a\u0631\u062f"
+    ],
     "name:fra_x_preferred":[
         "Geszter\u00e9d"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751568,
+    "wof:lastmodified":1563237277,
     "wof:name":"Geszter\u00e9d",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "B\u00e9k\u00e9s"
     ],
+    "name:ceb_x_preferred":[
+        "Bekes County"
+    ],
     "name:ces_x_preferred":[
         "B\u00e9k\u00e9s"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Bekes"
+    ],
+    "name:eng_x_variant":[
+        "B\u00e9k\u00e9s County"
     ],
     "name:epo_x_preferred":[
         "B\u00e9k\u00e9s"
@@ -111,6 +117,9 @@
     "name:kor_x_preferred":[
         "\ubca0\ucf00\uc2dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubca0\ucf00\uc2dc\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "B\u0113k\u0113\u0161as me\u0123e"
     ],
@@ -143,6 +152,9 @@
     ],
     "name:ron_x_preferred":[
         "Jude\u021bul B\u00e9k\u00e9s"
+    ],
+    "name:ron_x_variant":[
+        "B\u00e9k\u00e9s"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043a\u0435\u0448"
@@ -329,7 +341,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751512,
+    "wof:lastmodified":1563236103,
     "wof:name":"B\u00e9k\u00e9s",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Kom\u00e1rno"
     ],
+    "name:ceb_x_preferred":[
+        "Kom\u00e1rno"
+    ],
     "name:ces_x_preferred":[
         "Kom\u00e1rno"
     ],
@@ -54,6 +57,9 @@
         "Kom\u00e1rno"
     ],
     "name:est_x_preferred":[
+        "Kom\u00e1rno"
+    ],
+    "name:eus_x_preferred":[
         "Kom\u00e1rno"
     ],
     "name:fas_x_preferred":[
@@ -82,6 +88,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub9c8\ub974\ub178"
+    ],
+    "name:lat_x_preferred":[
+        "Kom\u00e1rno"
     ],
     "name:lav_x_preferred":[
         "Kom\u0101rno"
@@ -195,7 +204,7 @@
         }
     ],
     "wof:id":101833307,
-    "wof:lastmodified":1561751550,
+    "wof:lastmodified":1563237049,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

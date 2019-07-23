@@ -17,6 +17,12 @@
     "mps:longitude":19.237942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fels\u0151pakony"
+    ],
+    "name:ces_x_preferred":[
+        "Fels\u0151pakony"
+    ],
     "name:deu_x_preferred":[
         "Fels\u0151pakony"
     ],
@@ -51,6 +57,9 @@
         "Fels\u0151pakony"
     ],
     "name:slv_x_preferred":[
+        "Fels\u0151pakony"
+    ],
+    "name:spa_x_preferred":[
         "Fels\u0151pakony"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":101788275,
-    "wof:lastmodified":1561751573,
+    "wof:lastmodified":1563237350,
     "wof:name":"Fels\u0151pakony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

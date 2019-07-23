@@ -17,8 +17,17 @@
     "mps:longitude":17.518695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Tet"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u00e9t"
+    ],
+    "name:ces_x_preferred":[
+        "T\u00e9t"
     ],
     "name:deu_x_preferred":[
         "T\u00e9t"
@@ -31,6 +40,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u062a\u060c \u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u062a"
     ],
     "name:fra_x_preferred":[
         "T\u00e9t"
@@ -46,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30fc\u30c8"
+    ],
+    "name:mkd_x_preferred":[
+        "Te\u0442"
     ],
     "name:msa_x_preferred":[
         "T\u00e9t"
@@ -136,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751583,
+    "wof:lastmodified":1563237468,
     "wof:name":"T\u00e9t",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

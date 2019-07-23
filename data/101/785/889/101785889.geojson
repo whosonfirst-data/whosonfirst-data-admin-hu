@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Verseg"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0634\u06af"
+    ],
     "name:fra_x_preferred":[
         "Verseg"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751555,
+    "wof:lastmodified":1563237115,
     "wof:name":"Verseg",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

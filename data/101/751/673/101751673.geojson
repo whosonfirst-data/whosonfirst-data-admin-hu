@@ -21,11 +21,18 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0644\u0627\u062c\u064a\u0631\u0633\u064a\u062c"
     ],
+    "name:aze_x_preferred":[
+        "Zalaeqerseq"
+    ],
+    "name:bak_x_preferred":[
+        "\u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u0435\u0433"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u0435\u0433"
     ],
     "name:bel_x_variant":[
-        "\u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u044d\u0433"
+        "\u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u044d\u0433",
+        "\u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u0435\u0433"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b2\u09be\u09af\u09bc\u09c7\u09b8\u09c7\u0997"
@@ -39,11 +46,17 @@
     "name:cat_x_preferred":[
         "Zalaegerszeg"
     ],
+    "name:ceb_x_preferred":[
+        "Zalaegerszeg"
+    ],
     "name:ces_x_preferred":[
         "Zalaegerszeg"
     ],
     "name:che_x_preferred":[
         "\u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u0435\u0433"
+    ],
+    "name:cym_x_preferred":[
+        "Zalaegerszeg"
     ],
     "name:dan_x_preferred":[
         "Zalaegerszeg"
@@ -122,6 +135,9 @@
     ],
     "name:lat_x_preferred":[
         "Zalaegerszegium"
+    ],
+    "name:lat_x_variant":[
+        "Zalaegerszeg"
     ],
     "name:lav_x_preferred":[
         "Zalaegersega"
@@ -404,7 +420,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751570,
+    "wof:lastmodified":1563237305,
     "wof:name":"Zalaegerszeg",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

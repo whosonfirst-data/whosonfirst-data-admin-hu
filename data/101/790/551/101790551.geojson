@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "R\u00e9m"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0645"
+    ],
     "name:fra_x_preferred":[
         "R\u00e9m"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "R\u00e9m"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043c"
     ],
     "name:slk_x_preferred":[
         "R\u00e9m"
@@ -116,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751532,
+    "wof:lastmodified":1563236826,
     "wof:name":"R\u00e9m",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

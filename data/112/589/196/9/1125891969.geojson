@@ -27,6 +27,9 @@
     "name:deu_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03bb\u03bf\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05dc\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b\u0932\u094b\u0915\u094b"
     ],
     "name:hrv_x_preferred":[
         "Holl\u00f3k\u0151"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1125891969,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237722,
     "wof:name":"Holl\u00f3k\u0151",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -17,11 +17,17 @@
     "mps:longitude":19.848831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u00dcll\u00e9s"
+    ],
     "name:eng_x_preferred":[
         "\u00dcll\u00e9s"
     ],
     "name:epo_x_preferred":[
         "\u00dcll\u00e9s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0634"
     ],
     "name:fra_x_preferred":[
         "\u00dcll\u00e9s"
@@ -123,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751538,
+    "wof:lastmodified":1563236907,
     "wof:name":"\u00dcll\u00e9s",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Piricse"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "Piricse"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751568,
+    "wof:lastmodified":1563237275,
     "wof:name":"Piricse",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

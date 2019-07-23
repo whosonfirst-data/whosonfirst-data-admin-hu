@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "Olaszfalu"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u0633\u0641\u0627\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Olaszfalu"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751572,
+    "wof:lastmodified":1563237344,
     "wof:name":"Olaszfalu",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

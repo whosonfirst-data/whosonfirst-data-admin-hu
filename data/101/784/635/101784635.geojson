@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Dunakiliti"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0627\u06a9\u06cc\u0644\u06cc\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Dunakiliti"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751567,
+    "wof:lastmodified":1563237265,
     "wof:name":"Dunakiliti",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

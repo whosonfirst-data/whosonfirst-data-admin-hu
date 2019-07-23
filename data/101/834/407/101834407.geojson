@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Mosd\u00f3s"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0634\u062f\u0648\u0634"
+    ],
     "name:fra_x_preferred":[
         "Mosd\u00f3s"
     ],
@@ -108,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751553,
+    "wof:lastmodified":1563237095,
     "wof:name":"Mosd\u00f3s",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

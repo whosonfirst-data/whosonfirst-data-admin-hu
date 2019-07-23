@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Nick"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u062a\u0633\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Nick"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125999203,
-    "wof:lastmodified":1561751601,
+    "wof:lastmodified":1563237735,
     "wof:name":"Nick",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

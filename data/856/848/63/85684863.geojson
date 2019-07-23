@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0412\u0430\u0448"
     ],
+    "name:bel_x_variant":[
+        "\u043c\u0435\u0434\u0437\u044c\u0435 \u0412\u0430\u0448"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Vas"
+    ],
+    "name:ceb_x_preferred":[
+        "Vas megye"
     ],
     "name:ces_x_preferred":[
         "Vas"
@@ -53,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Vas"
+    ],
+    "name:eng_x_variant":[
+        "Vas County"
     ],
     "name:epo_x_preferred":[
         "Vas"
@@ -114,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ubc84\uc2dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc84\uc2dc\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Comitatus Castriferreus"
     ],
@@ -127,6 +139,9 @@
         "\u0935\u093e\u0938 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
     "name:mkd_x_preferred":[
+        "\u0412\u0430\u0448"
+    ],
+    "name:mon_x_preferred":[
         "\u0412\u0430\u0448"
     ],
     "name:msa_x_preferred":[
@@ -152,6 +167,9 @@
     ],
     "name:ron_x_preferred":[
         "Jude\u021bul Vas"
+    ],
+    "name:ron_x_variant":[
+        "Vas"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0448"
@@ -337,7 +355,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1561751513,
+    "wof:lastmodified":1563236109,
     "wof:name":"Vas",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

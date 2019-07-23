@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043d\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Szank"
+    ],
     "name:deu_x_preferred":[
         "Szank"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:epo_x_preferred":[
         "Szank"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u06a9"
     ],
     "name:fra_x_preferred":[
         "Szank"
@@ -58,6 +64,9 @@
     ],
     "name:ron_x_preferred":[
         "Szank"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a"
     ],
     "name:slk_x_preferred":[
         "Szank"
@@ -127,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751537,
+    "wof:lastmodified":1563236899,
     "wof:name":"Szank",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:epo_x_preferred":[
         "Porva"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
         "Porva"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125816365,
-    "wof:lastmodified":1561751600,
+    "wof:lastmodified":1563237715,
     "wof:name":"Porva",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

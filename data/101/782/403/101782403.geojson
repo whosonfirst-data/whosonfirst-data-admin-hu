@@ -25,8 +25,14 @@
     "name:epo_x_preferred":[
         "Szendr\u0151l\u00e1d"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062f\u0631\u0648\u0644\u0627\u062f"
+    ],
     "name:fra_x_preferred":[
         "Szendr\u0151l\u00e1d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d3\u05e8\u05dc\u05d0\u05d3"
     ],
     "name:hun_x_preferred":[
         "Szendr\u0151l\u00e1d"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":101782403,
-    "wof:lastmodified":1561751560,
+    "wof:lastmodified":1563237188,
     "wof:name":"Szendr\u0151l\u00e1d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",
