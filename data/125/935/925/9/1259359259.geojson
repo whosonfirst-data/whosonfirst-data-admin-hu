@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:epo_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0644\u0648\u0634\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:hrv_x_preferred":[
+        "Komlu\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:ita_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:msa_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:nld_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:ron_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:slk_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:slv_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:swe_x_preferred":[
+        "Koml\u00f3sd"
+    ],
     "name:und_x_variant":[
         "Koml\u00f3sd"
+    ],
+    "name:vie_x_preferred":[
+        "Koml\u00f3sd"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u59c6\u6d1b\u4ec0\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1259359259,
-    "wof:lastmodified":1537626231,
+    "wof:lastmodified":1564161209,
     "wof:name":"Komlosd",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

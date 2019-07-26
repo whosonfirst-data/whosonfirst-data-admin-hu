@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Bisse"
+    ],
+    "name:deu_x_preferred":[
+        "Bisse"
+    ],
+    "name:epo_x_preferred":[
+        "Bisse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0634\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bisse"
+    ],
+    "name:hrv_x_preferred":[
+        "Bi\u0161ira"
+    ],
+    "name:hun_x_preferred":[
+        "Bisse"
+    ],
+    "name:ita_x_preferred":[
+        "Bisse"
+    ],
+    "name:msa_x_preferred":[
+        "Bisse"
+    ],
+    "name:pol_x_preferred":[
+        "Bisse"
+    ],
+    "name:ron_x_preferred":[
+        "Bisse"
+    ],
+    "name:slk_x_preferred":[
+        "Bisse"
+    ],
+    "name:slv_x_preferred":[
+        "Bisse"
+    ],
+    "name:vie_x_preferred":[
+        "Bisse"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4ec0\u8c22"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1293490815,
-    "wof:lastmodified":1537563401,
+    "wof:lastmodified":1564160220,
     "wof:name":"Bisse",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

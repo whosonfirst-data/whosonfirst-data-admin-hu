@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u06af\u0631\u0634\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:hun_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:ita_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:msa_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:nld_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:ron_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:slk_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:slv_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:vie_x_preferred":[
+        "Nagygeresd"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u76d6\u8d56\u4ec0\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1309974973,
-    "wof:lastmodified":1537563379,
+    "wof:lastmodified":1564160908,
     "wof:name":"Nagygeresd",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

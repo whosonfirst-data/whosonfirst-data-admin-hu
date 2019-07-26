@@ -28,11 +28,47 @@
     "name:deu_x_preferred":[
         "Kroatisch Sch\u00fctzen"
     ],
+    "name:deu_x_variant":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:epo_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u0648\u0627\u062a\u0644\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
     "name:hrv_x_preferred":[
         "Hrvatske \u0160ice"
     ],
     "name:hun_x_preferred":[
         "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:msa_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:nld_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:ron_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:slk_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:slv_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:vie_x_preferred":[
+        "Horv\u00e1tl\u00f6v\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u5c14\u74e6\u7279\u52d2\u6c83"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1260136595,
-    "wof:lastmodified":1537626239,
+    "wof:lastmodified":1564160670,
     "wof:name":"Horvatlovo",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

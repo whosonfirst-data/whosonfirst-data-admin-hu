@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06a9\u0627\u0641\u0627\u0644\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:hun_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:msa_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:nld_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:ron_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:slk_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:slv_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:vie_x_preferred":[
+        "Kerkafalva"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u5c14\u8003\u798f\u5c14\u6c83"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1259451323,
-    "wof:lastmodified":1537563386,
+    "wof:lastmodified":1564161234,
     "wof:name":"Kerkafalva",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

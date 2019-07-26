@@ -25,8 +25,50 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:epo_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:fra_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:hrv_x_preferred":[
+        "Na\u0107fa"
+    ],
+    "name:hun_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:msa_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:nld_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:pol_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:ron_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:slk_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:slv_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
     "name:und_x_variant":[
         "Sikl\u00f3snagyfalu"
+    ],
+    "name:vie_x_preferred":[
+        "Sikl\u00f3snagyfalu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u514b\u6d1b\u4ec0\u7459\u5409\u798f\u5362"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1292906623,
-    "wof:lastmodified":1537626213,
+    "wof:lastmodified":1564160263,
     "wof:name":"Siklosnagyfalu",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

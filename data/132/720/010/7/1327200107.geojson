@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0645\u0627\u0646\u0633\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:hun_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:ita_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:msa_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:nld_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:ron_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:slk_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:slv_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
     "name:und_x_variant":[
         "Herm\u00e1nszeg"
+    ],
+    "name:vie_x_preferred":[
+        "Herm\u00e1nszeg"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5c14\u66fc\u585e\u683c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1327200107,
-    "wof:lastmodified":1537626182,
+    "wof:lastmodified":1564159971,
     "wof:name":"Hermanszeg",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Magor"
+    ],
+    "name:ceb_x_preferred":[
+        "Magor"
+    ],
+    "name:ces_x_preferred":[
+        "Magor"
+    ],
+    "name:deu_x_preferred":[
+        "Magor"
+    ],
+    "name:fra_x_preferred":[
+        "Magor"
+    ],
+    "name:hun_x_preferred":[
+        "Magor"
+    ],
+    "name:nld_x_preferred":[
+        "Magor"
+    ],
+    "name:spa_x_preferred":[
+        "Magor"
+    ],
+    "name:swe_x_preferred":[
+        "Magor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1259685955,
-    "wof:lastmodified":1537060750,
+    "wof:lastmodified":1564161201,
     "wof:name":"Magor",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

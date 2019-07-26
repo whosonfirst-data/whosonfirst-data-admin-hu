@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:epo_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0631\u0627\u062a\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:hun_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:ita_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:msa_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:nld_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:ron_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:slk_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:slv_x_preferred":[
+        "Murar\u00e1tka"
+    ],
     "name:und_x_variant":[
         "Murar\u00e1tka"
+    ],
+    "name:vie_x_preferred":[
+        "Murar\u00e1tka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u52b3\u62c9\u7279\u8003"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1344112835,
-    "wof:lastmodified":1537626224,
+    "wof:lastmodified":1564160102,
     "wof:name":"Muraratka",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

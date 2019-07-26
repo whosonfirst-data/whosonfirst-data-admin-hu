@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:epo_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:fra_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:hun_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:ita_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:msa_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:nld_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:ron_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:slk_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:slv_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:vie_x_preferred":[
+        "Kaposgyarmat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u6ce2\u4ec0\u7126\u5c14\u6bdb\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1292977147,
-    "wof:lastmodified":1537563388,
+    "wof:lastmodified":1564160265,
     "wof:name":"Kaposgyarmat",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

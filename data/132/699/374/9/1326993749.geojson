@@ -25,6 +25,21 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Leves"
+    ],
+    "name:ita_x_preferred":[
+        "Leves"
+    ],
+    "name:lit_x_preferred":[
+        "Leviai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0438\u0441\u044b"
+    ],
+    "name:slv_x_preferred":[
+        "Leves"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326993749,
-    "wof:lastmodified":1536815593,
+    "wof:lastmodified":1564159933,
     "wof:name":"Leves",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

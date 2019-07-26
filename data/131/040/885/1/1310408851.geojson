@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:epo_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u06cc\u0627\u0631\u06af\u0631\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:hrv_x_preferred":[
+        "Gre\u0111a"
+    ],
+    "name:hun_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:ita_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:msa_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:nld_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:pol_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:ron_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:slk_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:slv_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:vie_x_preferred":[
+        "Magyaregregy"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u7126\u8d56\u683c\u8d56\u5409"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1310408851,
-    "wof:lastmodified":1537563382,
+    "wof:lastmodified":1564160754,
     "wof:name":"Magyaregregy",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

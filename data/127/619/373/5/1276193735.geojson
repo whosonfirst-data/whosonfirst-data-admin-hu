@@ -28,9 +28,45 @@
     "name:eng_x_preferred":[
         "Tornyiszentmikl\u00f3s"
     ],
+    "name:epo_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u06cc\u06cc\u0633\u0646\u062a\u0645\u06cc\u06a9\u0644\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:hun_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:ita_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:msa_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:nld_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:ron_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:slk_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:slv_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
     "name:und_x_variant":[
         "Kerka Szent Mikl\u00f3s",
         "\u0422\u043e\u0440\u043d\u0438\u0441\u0435\u043d\u0442\u043c\u0438\u043a\u043b\u043e\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Tornyiszentmikl\u00f3s"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u5c3c\u68ee\u7279\u7c73\u514b\u6d1b\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1276193735,
-    "wof:lastmodified":1537626206,
+    "wof:lastmodified":1564160332,
     "wof:name":"Tornyiszentmiklos",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

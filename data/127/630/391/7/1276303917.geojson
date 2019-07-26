@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Iharos"
+    ],
+    "name:epo_x_preferred":[
+        "Iharos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0647\u0627\u0631\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Iharos"
+    ],
+    "name:hrv_x_preferred":[
+        "Iharos"
+    ],
+    "name:hun_x_preferred":[
+        "Iharos"
+    ],
+    "name:ita_x_preferred":[
+        "Iharos"
+    ],
+    "name:msa_x_preferred":[
+        "Iharos"
+    ],
+    "name:nld_x_preferred":[
+        "Iharos"
+    ],
+    "name:ron_x_preferred":[
+        "Iharos"
+    ],
+    "name:slk_x_preferred":[
+        "Iharos"
+    ],
+    "name:slv_x_preferred":[
+        "Iharos"
+    ],
+    "name:vie_x_preferred":[
+        "Iharos"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8c6a\u7f57\u4ec0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1276303917,
-    "wof:lastmodified":1537563389,
+    "wof:lastmodified":1564160439,
     "wof:name":"Iharos",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

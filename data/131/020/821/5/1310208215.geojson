@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Liget"
+    ],
+    "name:epo_x_preferred":[
+        "Liget"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u06af\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Liget"
+    ],
+    "name:hrv_x_preferred":[
+        "Liget"
+    ],
+    "name:hun_x_preferred":[
+        "Liget"
+    ],
+    "name:ita_x_preferred":[
+        "Liget"
+    ],
+    "name:msa_x_preferred":[
+        "Liget"
+    ],
+    "name:nld_x_preferred":[
+        "Liget"
+    ],
+    "name:pol_x_preferred":[
+        "Liget"
+    ],
+    "name:ron_x_preferred":[
+        "Liget"
+    ],
+    "name:slk_x_preferred":[
+        "Liget"
+    ],
+    "name:slv_x_preferred":[
+        "Liget"
+    ],
+    "name:vie_x_preferred":[
+        "Liget"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u76d6\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1310208215,
-    "wof:lastmodified":1537563382,
+    "wof:lastmodified":1564160791,
     "wof:name":"Liget",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

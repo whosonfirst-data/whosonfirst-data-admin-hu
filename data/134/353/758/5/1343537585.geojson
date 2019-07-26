@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gyugy"
+    ],
+    "name:epo_x_preferred":[
+        "Gyugy"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0648\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Gyugy"
+    ],
+    "name:hun_x_preferred":[
+        "Gyugy"
+    ],
+    "name:ita_x_preferred":[
+        "Gyugy"
+    ],
+    "name:msa_x_preferred":[
+        "Gyugy"
+    ],
+    "name:nld_x_preferred":[
+        "Gyugy"
+    ],
+    "name:ron_x_preferred":[
+        "Gyugy"
+    ],
+    "name:slk_x_preferred":[
+        "Gyugy"
+    ],
+    "name:slv_x_preferred":[
+        "Gyugy"
+    ],
+    "name:vie_x_preferred":[
+        "Gyugy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1343537585,
-    "wof:lastmodified":1537563391,
+    "wof:lastmodified":1564159990,
     "wof:name":"Gyugy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

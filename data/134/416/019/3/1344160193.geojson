@@ -25,6 +25,63 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0902\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kerajaan Alengka"
+    ],
+    "name:jav_x_preferred":[
+        "Alengka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30ab\u30fc\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0c82\u0c95\u0cbe"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0919\u094d\u0915\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0902\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u0902\u0915\u093e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a32\u0a70\u0a15\u0a3e"
+    ],
+    "name:por_x_preferred":[
+        "Lanka"
+    ],
+    "name:ron_x_preferred":[
+        "Lanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u043a\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0d82\u0d9a\u0dcf\u0db4\u0dd4\u0dbb"
+    ],
+    "name:sun_x_preferred":[
+        "Karajaan Al\u00e9ngka"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba8\u0bbe\u0b9f\u0bc1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043d\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0646\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lanka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +105,7 @@
         }
     ],
     "wof:id":1344160193,
-    "wof:lastmodified":1536731924,
+    "wof:lastmodified":1564160104,
     "wof:name":"Lanka",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

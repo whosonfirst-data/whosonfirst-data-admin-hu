@@ -25,9 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0633\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:hun_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:msa_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:slk_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:slv_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
     "name:und_x_variant":[
         "Kaj\u00e1sz\u00f3szentp\u00e9ter",
         "Kaj\u00e1sz\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "Kaj\u00e1sz\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u4e9a\u7d22"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1276319017,
-    "wof:lastmodified":1537626237,
+    "wof:lastmodified":1564160456,
     "wof:name":"Kajaszo",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

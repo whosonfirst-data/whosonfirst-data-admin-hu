@@ -25,6 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Piliny"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u06cc\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Piliny"
+    ],
+    "name:hun_x_preferred":[
+        "Piliny"
+    ],
+    "name:ita_x_preferred":[
+        "Piliny"
+    ],
+    "name:msa_x_preferred":[
+        "Piliny"
+    ],
+    "name:nld_x_preferred":[
+        "Piliny"
+    ],
+    "name:pol_x_preferred":[
+        "Piliny"
+    ],
+    "name:ron_x_preferred":[
+        "Piliny"
+    ],
+    "name:slk_x_preferred":[
+        "Piliny"
+    ],
+    "name:slv_x_preferred":[
+        "Piliny"
+    ],
+    "name:vie_x_preferred":[
+        "Piliny"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5229\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1343733341,
-    "wof:lastmodified":1537563374,
+    "wof:lastmodified":1564160121,
     "wof:name":"Piliny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -25,9 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:fra_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:hun_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:msa_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:nld_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:ron_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:slk_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:slv_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
     "name:und_x_variant":[
         "Fityeh\u00e1za",
         "Fityeh\u00e1z"
+    ],
+    "name:vie_x_preferred":[
+        "Fityeh\u00e1z"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u6770\u54c8\u5179"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1276609427,
-    "wof:lastmodified":1537626245,
+    "wof:lastmodified":1564160363,
     "wof:name":"Fityehaz",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

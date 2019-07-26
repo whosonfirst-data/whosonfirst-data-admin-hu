@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0634\u0627\u0631\u0648\u0634\u0645\u06cc\u0634\u06a9\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:msa_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:ron_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:slv_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
     "name:und_x_variant":[
         "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00e1s\u00e1rosmiske"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u6c99\u7f57\u4ec0\u7c73\u4ec0\u51ef"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1326486885,
-    "wof:lastmodified":1537626204,
+    "wof:lastmodified":1564159928,
     "wof:name":"Vasarosmiske",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

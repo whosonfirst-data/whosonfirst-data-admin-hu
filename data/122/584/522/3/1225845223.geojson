@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kupa"
+    ],
+    "name:epo_x_preferred":[
+        "Kupa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kupa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kupa"
+    ],
+    "name:ita_x_preferred":[
+        "Kupa"
+    ],
+    "name:msa_x_preferred":[
+        "Kupa"
+    ],
+    "name:nld_x_preferred":[
+        "Kupa"
+    ],
+    "name:pol_x_preferred":[
+        "Kupa"
+    ],
+    "name:ron_x_preferred":[
+        "Kupa"
+    ],
+    "name:slk_x_preferred":[
+        "Kupa"
+    ],
+    "name:slv_x_preferred":[
+        "Kupa"
+    ],
+    "name:vie_x_preferred":[
+        "Kupa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1225845223,
-    "wof:lastmodified":1537563354,
+    "wof:lastmodified":1564161410,
     "wof:name":"Kupa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

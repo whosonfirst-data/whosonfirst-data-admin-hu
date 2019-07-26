@@ -25,10 +25,58 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:epo_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0686\u0648\u0646\u06cc\u062f\u0648\u0628\u0648\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:hrv_x_preferred":[
+        "Duboka"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:pol_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:ron_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:slk_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:slv_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u043f\u0441\u043a\u0438 \u0413\u0430\u0440\u0447\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Cseledoboka",
         "Cseleg\u00f6rcs\u00f6ny",
         "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:vie_x_preferred":[
+        "G\u00f6rcs\u00f6nydoboka"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c14\u5f7b\u5c3c\u591a\u535a\u8003"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +102,7 @@
         }
     ],
     "wof:id":1259883185,
-    "wof:lastmodified":1537626243,
+    "wof:lastmodified":1564161243,
     "wof:name":"Gorcsonydoboka",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

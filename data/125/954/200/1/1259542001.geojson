@@ -25,6 +25,39 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Katafa"
+    ],
+    "name:fra_x_preferred":[
+        "Katafa"
+    ],
+    "name:hun_x_preferred":[
+        "Katafa"
+    ],
+    "name:ita_x_preferred":[
+        "Katafa"
+    ],
+    "name:msa_x_preferred":[
+        "Katafa"
+    ],
+    "name:nld_x_preferred":[
+        "Katafa"
+    ],
+    "name:ron_x_preferred":[
+        "Katafa"
+    ],
+    "name:slk_x_preferred":[
+        "Katafa"
+    ],
+    "name:slv_x_preferred":[
+        "Katafa"
+    ],
+    "name:vie_x_preferred":[
+        "Katafa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u9676\u798f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1259542001,
-    "wof:lastmodified":1537563387,
+    "wof:lastmodified":1564161150,
     "wof:name":"Katafa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

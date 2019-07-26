@@ -25,6 +25,24 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dakos"
+    ],
+    "name:deu_x_preferred":[
+        "Dakos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03ba\u03bf\u03c2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30b3\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Dakos"
+    ],
+    "name:spa_x_preferred":[
+        "Koukouvagia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1225907495,
-    "wof:lastmodified":1536925561,
+    "wof:lastmodified":1564161330,
     "wof:name":"Dakos",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

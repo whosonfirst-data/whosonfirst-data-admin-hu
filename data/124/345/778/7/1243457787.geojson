@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06a9\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:hrv_x_preferred":[
+        "Tike\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:pol_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:ron_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:slk_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:slv_x_preferred":[
+        "T\u00e9kes"
+    ],
     "name:und_x_variant":[
         "T\u00e9kes"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u06a9\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e9kes"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u51ef\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1243457787,
-    "wof:lastmodified":1537626207,
+    "wof:lastmodified":1564161134,
     "wof:name":"Tekes",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

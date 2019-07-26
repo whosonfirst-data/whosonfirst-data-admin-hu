@@ -28,11 +28,47 @@
     "name:deu_x_preferred":[
         "Butsching"
     ],
+    "name:deu_x_variant":[
+        "Bucsu"
+    ],
+    "name:epo_x_preferred":[
+        "Bucsu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0686\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Bucsu"
+    ],
     "name:hrv_x_preferred":[
         "Bu\u010dura"
     ],
     "name:hrv_x_variant":[
         "Bu\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Bucsu"
+    ],
+    "name:ita_x_preferred":[
+        "Bucsu"
+    ],
+    "name:msa_x_preferred":[
+        "Bucsu"
+    ],
+    "name:nld_x_preferred":[
+        "Bucsu"
+    ],
+    "name:ron_x_preferred":[
+        "Bucsu"
+    ],
+    "name:slk_x_preferred":[
+        "Bucsu"
+    ],
+    "name:slv_x_preferred":[
+        "Bucsu"
+    ],
+    "name:vie_x_preferred":[
+        "Bucsu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1226603319,
-    "wof:lastmodified":1537626262,
+    "wof:lastmodified":1564161304,
     "wof:name":"Bucsu",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

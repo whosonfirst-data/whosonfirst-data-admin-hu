@@ -25,6 +25,78 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0631\u0648\u063a"
+    ],
+    "name:ceb_x_preferred":[
+        "Dorog"
+    ],
+    "name:ces_x_preferred":[
+        "Dorog"
+    ],
+    "name:deu_x_preferred":[
+        "Dorog"
+    ],
+    "name:epo_x_preferred":[
+        "Dorog"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Dorog"
+    ],
+    "name:hun_x_preferred":[
+        "Dorog"
+    ],
+    "name:ita_x_preferred":[
+        "Dorog"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ub85c\uadf8"
+    ],
+    "name:lit_x_preferred":[
+        "Dorogas"
+    ],
+    "name:msa_x_preferred":[
+        "Dorog"
+    ],
+    "name:nld_x_preferred":[
+        "Dorog"
+    ],
+    "name:pol_x_preferred":[
+        "Dorog"
+    ],
+    "name:ron_x_preferred":[
+        "Dorog"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u043e\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Dorog"
+    ],
+    "name:slv_x_preferred":[
+        "Dorog"
+    ],
+    "name:spa_x_preferred":[
+        "Dorog"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0440\u043e\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Dorog"
+    ],
+    "name:vie_x_preferred":[
+        "Dorog"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d0\u05e8\u05d0\u05d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7f85\u683c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1225903227,
-    "wof:lastmodified":1536931736,
+    "wof:lastmodified":1564161331,
     "wof:name":"Dorog",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0648\u0627\u0631\u0641\u0627\u0644\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:nld_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:ron_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:slk_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:slv_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
     "name:und_x_variant":[
         "\u00dajv\u00e1rfalva"
+    ],
+    "name:vie_x_preferred":[
+        "\u00dajv\u00e1rfalva"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u4f0a\u74e6\u5c14\u798f\u5c14\u6c83"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1327110811,
-    "wof:lastmodified":1537626205,
+    "wof:lastmodified":1564159967,
     "wof:name":"Ujvarfalva",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

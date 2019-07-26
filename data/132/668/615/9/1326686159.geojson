@@ -25,6 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u06cc\u0627\u06a9\u0627\u0628\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:hun_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:ita_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:msa_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:nld_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:ron_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:slk_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:slv_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:swe_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:vie_x_preferred":[
+        "Szentjakabfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u7279\u5c27\u8003\u5e03\u798f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1326686159,
-    "wof:lastmodified":1537563369,
+    "wof:lastmodified":1564159876,
     "wof:name":"Szentjakabfa",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

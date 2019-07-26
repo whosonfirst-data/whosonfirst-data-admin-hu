@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Szalapa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Szalapa"
+    ],
+    "name:hun_x_preferred":[
+        "Szalapa"
+    ],
+    "name:ita_x_preferred":[
+        "Szalapa"
+    ],
+    "name:msa_x_preferred":[
+        "Szalapa"
+    ],
+    "name:nld_x_preferred":[
+        "Szalapa"
+    ],
+    "name:ron_x_preferred":[
+        "Szalapa"
+    ],
+    "name:slk_x_preferred":[
+        "Szalapa"
+    ],
+    "name:slv_x_preferred":[
+        "Szalapa"
+    ],
+    "name:vie_x_preferred":[
+        "Szalapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u6d1b\u4fdd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1327191951,
-    "wof:lastmodified":1537563370,
+    "wof:lastmodified":1564159952,
     "wof:name":"Szalapa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

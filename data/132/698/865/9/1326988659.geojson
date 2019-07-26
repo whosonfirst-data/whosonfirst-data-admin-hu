@@ -28,11 +28,50 @@
     "name:deu_x_preferred":[
         "Deutschdorf"
     ],
+    "name:epo_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u06af\u062f\u0648\u0631\u0648\u0633\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
     "name:hrv_x_preferred":[
         "Duorslov"
     ],
+    "name:hun_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:slk_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:slv_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
     "name:und_x_variant":[
         "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0151szegdoroszl\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u585e\u683c\u591a\u7f57\u65af\u6d1b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +97,7 @@
         }
     ],
     "wof:id":1326988659,
-    "wof:lastmodified":1537626231,
+    "wof:lastmodified":1564159945,
     "wof:name":"Koszegdoroszlo",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

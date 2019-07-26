@@ -25,6 +25,39 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:fra_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:hun_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:ita_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:msa_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:nld_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:ron_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:slk_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:slv_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:vie_x_preferred":[
+        "Tarnabod"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u5c14\u7459\u535a\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1277064655,
-    "wof:lastmodified":1536793628,
+    "wof:lastmodified":1564160310,
     "wof:name":"Tarnabod",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

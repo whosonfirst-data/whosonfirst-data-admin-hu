@@ -25,9 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0646\u0634\u0645\u06cc\u0647\u0627\u0644\u06cc\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:hun_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:ita_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:msa_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:nld_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:ron_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:slk_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:slv_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
     "name:und_x_variant":[
         "Mih\u00e1lyfa",
         "Kemenesmih\u00e1lyfa"
+    ],
+    "name:vie_x_preferred":[
+        "Kemenesmih\u00e1lyfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u8fc8\u5948\u4ec0\u7c73\u54c8\u4f0a\u798f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1293545867,
-    "wof:lastmodified":1537626235,
+    "wof:lastmodified":1564160178,
     "wof:name":"Kemenesmihalyfa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

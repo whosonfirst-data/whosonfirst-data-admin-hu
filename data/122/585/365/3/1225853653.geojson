@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u0627\u0634\u0633\u0648\u0646\u06cc\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:hrv_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:hun_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:ita_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:msa_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:nld_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:pol_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:ron_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:slk_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:slv_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:vie_x_preferred":[
+        "Kisasszonyfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7ecd\u4ec0\u7d22\u5c3c\u798f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1225853653,
-    "wof:lastmodified":1537563386,
+    "wof:lastmodified":1564161406,
     "wof:name":"Kisasszonyfa",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

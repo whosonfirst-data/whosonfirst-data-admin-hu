@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:epo_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0627\u0633\u0646\u062a\u06cc\u0627\u06a9\u0627\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05e0\u05e1\u05e0\u05d8\u05d9\u05d0\u05e7\u05d0\u05d1"
+    ],
+    "name:hun_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:ita_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:msa_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:nld_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:pol_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:ron_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:slk_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:slv_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:vie_x_preferred":[
+        "Tornaszentjakab"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u7459\u68ee\u7279\u5c27\u8003\u5e03"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -43,7 +88,7 @@
         }
     ],
     "wof:id":1209416065,
-    "wof:lastmodified":1537563348,
+    "wof:lastmodified":1564160522,
     "wof:name":"Tornaszentjakab",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Batida"
+    ],
+    "name:fra_x_preferred":[
+        "Batida"
+    ],
+    "name:ita_x_preferred":[
+        "Batida"
+    ],
+    "name:por_x_preferred":[
+        "Batida"
+    ],
     "name:und_x_variant":[
         "Batida Tanya",
         "Batida"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226240047,
-    "wof:lastmodified":1537626196,
+    "wof:lastmodified":1564161360,
     "wof:name":"Batida",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

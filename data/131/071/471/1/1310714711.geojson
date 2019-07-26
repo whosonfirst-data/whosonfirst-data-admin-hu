@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u06cc\u0627\u0631\u0647\u0631\u062a\u0644\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:hrv_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:ita_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:msa_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:nld_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:pol_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:ron_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:slk_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:slv_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:vie_x_preferred":[
+        "Magyarhertelend"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u7126\u5c14\u6d77\u5c14\u6cf0\u4f26\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1310714711,
-    "wof:lastmodified":1537563382,
+    "wof:lastmodified":1564160750,
     "wof:name":"Magyarhertelend",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

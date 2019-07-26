@@ -28,8 +28,44 @@
     "name:deu_x_preferred":[
         "Radling"
     ],
+    "name:epo_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0646\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:msa_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:slk_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:slv_x_preferred":[
+        "Renik"
+    ],
     "name:und_x_variant":[
         "R\u00f6n\u00f6k"
+    ],
+    "name:vie_x_preferred":[
+        "R\u00f6n\u00f6k"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u5185\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +91,7 @@
         }
     ],
     "wof:id":1259451925,
-    "wof:lastmodified":1537626214,
+    "wof:lastmodified":1564161235,
     "wof:name":"Ronok",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

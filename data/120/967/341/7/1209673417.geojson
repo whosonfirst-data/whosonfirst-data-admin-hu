@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u0628\u0627\u06a9\u0648\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:hun_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:ita_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:msa_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:nld_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:ron_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:slk_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:slv_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
     "name:und_x_variant":[
         "Nagybak\u00f3nak"
+    ],
+    "name:vie_x_preferred":[
+        "Nagybak\u00f3nak"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u9c8d\u79d1\u7459\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1209673417,
-    "wof:lastmodified":1537626224,
+    "wof:lastmodified":1564160562,
     "wof:name":"Nagybakonak",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

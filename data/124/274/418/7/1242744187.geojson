@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Panyola"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0646\u06cc\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Panyola"
+    ],
+    "name:hun_x_preferred":[
+        "Panyola"
+    ],
+    "name:ita_x_preferred":[
+        "Panyola"
+    ],
+    "name:msa_x_preferred":[
+        "Panyola"
+    ],
+    "name:nld_x_preferred":[
+        "Panyola"
+    ],
+    "name:ron_x_preferred":[
+        "Panyola"
+    ],
+    "name:slk_x_preferred":[
+        "Panyola"
+    ],
+    "name:slv_x_preferred":[
+        "Panyola"
+    ],
+    "name:vie_x_preferred":[
+        "Panyola"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u7ebd\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1242744187,
-    "wof:lastmodified":1537563352,
+    "wof:lastmodified":1564161005,
     "wof:name":"Panyola",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

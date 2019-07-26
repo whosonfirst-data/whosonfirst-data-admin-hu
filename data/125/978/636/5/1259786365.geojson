@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:epo_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u0627\u0641\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:hrv_x_preferred":[
+        "Fok"
+    ],
+    "name:hun_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:ita_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:msa_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:nld_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:pol_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:ron_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:slk_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:slv_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
     "name:und_x_variant":[
         "Dr\u00e1vafok"
+    ],
+    "name:vie_x_preferred":[
+        "Dr\u00e1vafok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u6c83\u798f\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1259786365,
-    "wof:lastmodified":1537626250,
+    "wof:lastmodified":1564161190,
     "wof:name":"Dravafok",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

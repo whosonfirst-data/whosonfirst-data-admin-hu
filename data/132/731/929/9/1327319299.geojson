@@ -25,6 +25,9 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Piros"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327319299,
-    "wof:lastmodified":1536843168,
+    "wof:lastmodified":1564159841,
     "wof:name":"Piros",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

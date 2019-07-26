@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ohid"
+    ],
+    "name:epo_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0647\u06cc\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:msa_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:ron_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:slk_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:slv_x_preferred":[
+        "\u00d3hid"
+    ],
     "name:und_x_variant":[
         "\u00d3hid"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d3h\u00edd"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u5e0c\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1260138107,
-    "wof:lastmodified":1537626221,
+    "wof:lastmodified":1564160670,
     "wof:name":"Ohid",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

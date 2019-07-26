@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u062a\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:hrv_x_preferred":[
+        "Slatnik"
+    ],
+    "name:hun_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:ita_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:msa_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:nld_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:pol_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:ron_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:slk_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:slv_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:vie_x_preferred":[
+        "Szalatnak"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u6d1b\u7279\u7459\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1344166053,
-    "wof:lastmodified":1537563370,
+    "wof:lastmodified":1564160103,
     "wof:name":"Szalatnak",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

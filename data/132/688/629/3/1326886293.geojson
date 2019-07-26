@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:nld_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:ron_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:slk_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:slv_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
     "name:und_x_variant":[
         "D\u00f6br\u00f6ce"
+    ],
+    "name:vie_x_preferred":[
+        "D\u00f6br\u00f6ce"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5e03\u52d2\u91c7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1326886293,
-    "wof:lastmodified":1537626251,
+    "wof:lastmodified":1564159848,
     "wof:name":"Dobroce",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

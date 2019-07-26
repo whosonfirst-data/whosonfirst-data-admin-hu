@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06a9\u0647\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:hun_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:ita_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:msa_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:nld_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:ron_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:slk_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:slv_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:vie_x_preferred":[
+        "Lakhegy"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u514b\u6d77\u5409"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1293557599,
-    "wof:lastmodified":1537563383,
+    "wof:lastmodified":1564160194,
     "wof:name":"Lakhegy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

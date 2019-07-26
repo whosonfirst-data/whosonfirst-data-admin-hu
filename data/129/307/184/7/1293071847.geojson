@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hugyag"
+    ],
+    "name:epo_x_preferred":[
+        "Hugyag"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06af\u06cc\u0627\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Hugyag"
+    ],
+    "name:hun_x_preferred":[
+        "Hugyag"
+    ],
+    "name:ita_x_preferred":[
+        "Hugyag"
+    ],
+    "name:msa_x_preferred":[
+        "Hugyag"
+    ],
+    "name:nld_x_preferred":[
+        "Hugyag"
+    ],
+    "name:pol_x_preferred":[
+        "Hugyag"
+    ],
+    "name:ron_x_preferred":[
+        "Hugyag"
+    ],
+    "name:slk_x_preferred":[
+        "Hugyag"
+    ],
+    "name:slv_x_preferred":[
+        "Hugyag"
+    ],
+    "name:swe_x_preferred":[
+        "Hugyag"
+    ],
+    "name:vie_x_preferred":[
+        "Hugyag"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u7126\u683c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1293071847,
-    "wof:lastmodified":1537563389,
+    "wof:lastmodified":1564160167,
     "wof:name":"Hugyag",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

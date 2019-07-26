@@ -25,6 +25,39 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Somodor"
+    ],
+    "name:fra_x_preferred":[
+        "Somodor"
+    ],
+    "name:hun_x_preferred":[
+        "Somodor"
+    ],
+    "name:ita_x_preferred":[
+        "Somodor"
+    ],
+    "name:msa_x_preferred":[
+        "Somodor"
+    ],
+    "name:nld_x_preferred":[
+        "Somodor"
+    ],
+    "name:ron_x_preferred":[
+        "Somodor"
+    ],
+    "name:slk_x_preferred":[
+        "Somodor"
+    ],
+    "name:slv_x_preferred":[
+        "Somodor"
+    ],
+    "name:vie_x_preferred":[
+        "Somodor"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u83ab\u591a\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1225907817,
-    "wof:lastmodified":1537563371,
+    "wof:lastmodified":1564161334,
     "wof:name":"Somodor",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

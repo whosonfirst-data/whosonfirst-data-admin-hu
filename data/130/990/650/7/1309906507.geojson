@@ -25,8 +25,56 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:deu_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:epo_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u0628\u0631\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05e9\u05d5\u05d1\u05e8\u05e6\u05e7\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:ita_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:msa_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:nld_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:pol_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:ron_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:slk_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:slv_x_preferred":[
+        "Als\u00f3berecki"
+    ],
     "name:und_x_variant":[
         "Als\u00f3berecki"
+    ],
+    "name:vie_x_preferred":[
+        "Als\u00f3berecki"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u62dc\u8d56\u57fa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1309906507,
-    "wof:lastmodified":1537626198,
+    "wof:lastmodified":1564160911,
     "wof:name":"Alsoberecki",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

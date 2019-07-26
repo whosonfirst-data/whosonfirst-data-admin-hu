@@ -28,11 +28,53 @@
     "name:deu_x_preferred":[
         "Holling"
     ],
+    "name:deu_x_variant":[
+        "Fert\u0151boz"
+    ],
+    "name:epo_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:fra_x_preferred":[
+        "Fert\u0151boz"
+    ],
     "name:hrv_x_preferred":[
         "Buza"
     ],
+    "name:hun_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:ita_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:msa_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:nld_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:pol_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:ron_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:slk_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:slv_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:spa_x_preferred":[
+        "Fert\u0151boz"
+    ],
     "name:und_x_variant":[
         "Fert\u0151boz"
+    ],
+    "name:vie_x_preferred":[
+        "Fert\u0151boz"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u7279\u535a\u5179"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +100,7 @@
         }
     ],
     "wof:id":1344146771,
-    "wof:lastmodified":1537626245,
+    "wof:lastmodified":1564160015,
     "wof:name":"Fertoboz",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

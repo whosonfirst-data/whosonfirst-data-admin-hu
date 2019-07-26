@@ -26,9 +26,57 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:epo_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0646\u0627\u062f\u0633\u0648\u0631\u062f\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05e0\u05d0\u05d3\u05e1\u05d5\u05e8\u05d3\u05d5\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:ita_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:msa_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:nld_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:pol_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:ron_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:slk_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:slv_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:swe_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
     "name:und_x_variant":[
         "Hern\u00e1dzsurdok",
         "Hern\u00e1dszurdok"
+    ],
+    "name:vie_x_preferred":[
+        "Hern\u00e1dszurdok"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5c14\u7eb3\u5fb7\u82cf\u5c14\u591a\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1209439181,
-    "wof:lastmodified":1537626182,
+    "wof:lastmodified":1564160613,
     "wof:name":"Hernadszurdok",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

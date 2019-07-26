@@ -26,9 +26,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0646\u06cc\u0627\u0628\u0634\u0646\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:hun_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:msa_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:nld_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:ron_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:slk_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:slv_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
     "name:und_x_variant":[
         "Rinyabesny\u0151",
         "Rinyabeseny\u0151"
+    ],
+    "name:vie_x_preferred":[
+        "Rinyabeseny\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5c3c\u5965\u62dc\u8c22\u6d85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1243143577,
-    "wof:lastmodified":1537626215,
+    "wof:lastmodified":1564161056,
     "wof:name":"Rinyabesenyo",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

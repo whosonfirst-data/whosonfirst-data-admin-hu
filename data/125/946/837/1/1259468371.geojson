@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:epo_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:hun_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:ita_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:msa_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:nld_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:ron_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:slk_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:slv_x_preferred":[
+        "F\u00fcle"
+    ],
     "name:und_x_variant":[
         "F\u00fcle"
+    ],
+    "name:vie_x_preferred":[
+        "F\u00fcle"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u83b1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1259468371,
-    "wof:lastmodified":1537626244,
+    "wof:lastmodified":1564161188,
     "wof:name":"Fule",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

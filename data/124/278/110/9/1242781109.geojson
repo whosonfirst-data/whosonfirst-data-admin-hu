@@ -25,6 +25,54 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Udvar"
+    ],
+    "name:epo_x_preferred":[
+        "Udvar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0648\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Udvar"
+    ],
+    "name:hrv_x_preferred":[
+        "Dvor"
+    ],
+    "name:hun_x_preferred":[
+        "Udvar"
+    ],
+    "name:ita_x_preferred":[
+        "Udvar"
+    ],
+    "name:msa_x_preferred":[
+        "Udvar"
+    ],
+    "name:nld_x_preferred":[
+        "Udvar"
+    ],
+    "name:pol_x_preferred":[
+        "Udvar"
+    ],
+    "name:ron_x_preferred":[
+        "Udvar"
+    ],
+    "name:slk_x_preferred":[
+        "Udvar"
+    ],
+    "name:slv_x_preferred":[
+        "Udvar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0434\u0432\u0430\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Udvar"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u5fb7\u6c83\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +97,7 @@
         }
     ],
     "wof:id":1242781109,
-    "wof:lastmodified":1537563366,
+    "wof:lastmodified":1564161106,
     "wof:name":"Udvar",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

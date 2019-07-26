@@ -25,8 +25,56 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:epo_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06af\u0627\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d2\u05d0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:msa_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:nld_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:pol_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:ron_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:slk_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:slv_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0433\u0430\u0459"
+    ],
     "name:und_x_variant":[
         "Rag\u00e1ly"
+    ],
+    "name:vie_x_preferred":[
+        "Rag\u00e1ly"
+    ],
+    "name:zho_x_preferred":[
+        "\u52b3\u52a0\u4f0a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1242583459,
-    "wof:lastmodified":1537626170,
+    "wof:lastmodified":1564161033,
     "wof:name":"Ragaly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -25,8 +25,59 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:epo_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0646\u0686\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:hrv_x_preferred":[
+        "Lapand\u017ea"
+    ],
+    "name:hun_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:ita_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:msa_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:nld_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:pol_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:ron_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:slk_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:slv_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u043f\u0430\u043d\u0447\u0430"
+    ],
     "name:und_x_variant":[
         "Lap\u00e1ncsa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0646\u06a9\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lap\u00e1ncsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u6f58\u4e54"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +97,7 @@
         }
     ],
     "wof:id":1209528393,
-    "wof:lastmodified":1537626229,
+    "wof:lastmodified":1564160504,
     "wof:name":"Lapancsa",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

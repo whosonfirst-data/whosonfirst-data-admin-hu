@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062f\u0648\u0627\u0644\u0646\u06a9\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d3\u05d5\u05d5\u05d0\u05dc\u05e0\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:slk_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:slv_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
     "name:und_x_variant":[
         "B\u00f3dvalenke"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f3dvalenke"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5fb7\u6c83\u4f26\u51ef"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1210016877,
-    "wof:lastmodified":1537626194,
+    "wof:lastmodified":1564160620,
     "wof:name":"Bodvalenke",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

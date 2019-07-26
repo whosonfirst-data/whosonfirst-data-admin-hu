@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Tivadar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648\u0627\u062f\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Tivadar"
+    ],
+    "name:hun_x_preferred":[
+        "Tivadar"
+    ],
+    "name:ita_x_preferred":[
+        "Tivadar"
+    ],
+    "name:msa_x_preferred":[
+        "Tivadar"
+    ],
+    "name:nld_x_preferred":[
+        "Tivadar"
+    ],
+    "name:ron_x_preferred":[
+        "Tivadar"
+    ],
+    "name:slk_x_preferred":[
+        "Tivadar"
+    ],
+    "name:slv_x_preferred":[
+        "Tivadar"
+    ],
+    "name:vie_x_preferred":[
+        "Tivadar"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u6c83\u9053\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1343436899,
-    "wof:lastmodified":1537563349,
+    "wof:lastmodified":1564160140,
     "wof:name":"Tivadar",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

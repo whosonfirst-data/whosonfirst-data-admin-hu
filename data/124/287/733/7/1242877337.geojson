@@ -25,14 +25,62 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ibafa"
+    ],
+    "name:deu_x_preferred":[
+        "Ibafa"
+    ],
+    "name:epo_x_preferred":[
+        "Ibafa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0628\u0627\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ibafa"
+    ],
+    "name:hrv_x_preferred":[
+        "Ibaba"
+    ],
     "name:hun_x_preferred":[
         "Gy\u0171r\u0171f\u0171"
+    ],
+    "name:hun_x_variant":[
+        "Ibafa"
+    ],
+    "name:ita_x_preferred":[
+        "Ibafa"
+    ],
+    "name:msa_x_preferred":[
+        "Ibafa"
+    ],
+    "name:nld_x_preferred":[
+        "Ibafa"
+    ],
+    "name:pol_x_preferred":[
+        "Ibafa"
+    ],
+    "name:ron_x_preferred":[
+        "Ibafa"
+    ],
+    "name:slk_x_preferred":[
+        "Ibafa"
+    ],
+    "name:slv_x_preferred":[
+        "Ibafa"
     ],
     "name:und_x_variant":[
         "Gy\u016fr\u016ff\u016f",
         "Korp\u00e1d",
         "Sormas",
         "Ibafa"
+    ],
+    "name:vie_x_preferred":[
+        "Ibafa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u9c8d\u798f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +106,7 @@
         }
     ],
     "wof:id":1242877337,
-    "wof:lastmodified":1537626239,
+    "wof:lastmodified":1564161009,
     "wof:name":"Ibafa",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

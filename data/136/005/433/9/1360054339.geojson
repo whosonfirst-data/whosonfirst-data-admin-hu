@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:epo_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0648\u0631\u0647\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:nld_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:ron_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:slk_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:slv_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
     "name:und_x_variant":[
         "D\u00f6b\u00f6rhegy"
+    ],
+    "name:vie_x_preferred":[
+        "D\u00f6b\u00f6rhegy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u4f2f\u5c14\u6d77\u5409"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1360054339,
-    "wof:lastmodified":1537626251,
+    "wof:lastmodified":1564160889,
     "wof:name":"Doborhegy",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

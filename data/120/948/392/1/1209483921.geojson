@@ -25,6 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:epo_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0634\u0648\u06cc\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:hun_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:ita_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:msa_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:nld_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:ron_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:slk_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:slv_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:vie_x_preferred":[
+        "Nemesvita"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u8fc8\u4ec0\u7ef4\u9676"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -43,7 +82,7 @@
         }
     ],
     "wof:id":1209483921,
-    "wof:lastmodified":1537563377,
+    "wof:lastmodified":1564160509,
     "wof:name":"Nemesvita",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

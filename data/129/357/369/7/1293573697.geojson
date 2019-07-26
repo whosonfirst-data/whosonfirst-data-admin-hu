@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u0648\u0634\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05d3\u05d5\u05e9\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:ita_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:msa_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:nld_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:pol_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:ron_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:slk_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:slv_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:vie_x_preferred":[
+        "Vadosfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u591a\u4ec0\u798f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1293573697,
-    "wof:lastmodified":1537563365,
+    "wof:lastmodified":1564160237,
     "wof:name":"Vadosfa",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -25,8 +25,59 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:epo_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u06a9\u0631\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cikerija"
+    ],
+    "name:hun_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:ita_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:msa_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:nld_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:pol_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:ron_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:slk_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:slv_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:spa_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u043a\u0435\u0440\u0438\u0458\u0430"
+    ],
     "name:und_x_variant":[
         "Csik\u00e9ria"
+    ],
+    "name:vie_x_preferred":[
+        "Csik\u00e9ria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u51ef\u91cc\u5965"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +103,7 @@
         }
     ],
     "wof:id":1293204683,
-    "wof:lastmodified":1537626256,
+    "wof:lastmodified":1564160271,
     "wof:name":"Csikeria",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

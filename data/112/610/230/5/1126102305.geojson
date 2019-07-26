@@ -18,6 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09be\u0997"
+    ],
+    "name:deu_x_preferred":[
+        "Alag"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0641\u0627\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Alag"
+    ],
+    "name:ind_x_preferred":[
+        "Alag"
+    ],
+    "name:ita_x_preferred":[
+        "Alag"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u0932\u0917"
+    ],
+    "name:pol_x_preferred":[
+        "Alag"
+    ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,11 +69,11 @@
     "woe:name_adm1":"Pest",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101754535
+        101754535,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1126102305,
-    "wof:lastmodified":1509412190,
+    "wof:lastmodified":1564160957,
     "wof:name":"Alag",
     "wof:parent_id":101754535,
     "wof:placetype":"neighbourhood",

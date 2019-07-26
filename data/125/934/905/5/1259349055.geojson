@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Garbolc"
+    ],
+    "name:deu_x_preferred":[
+        "Garbolc"
+    ],
+    "name:epo_x_preferred":[
+        "Garbolc"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0631\u0628\u0648\u0644\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Garbolc"
+    ],
+    "name:hun_x_preferred":[
+        "Garbolc"
+    ],
+    "name:ita_x_preferred":[
+        "Garbolc"
+    ],
+    "name:msa_x_preferred":[
+        "Garbolc"
+    ],
+    "name:nld_x_preferred":[
+        "Garbolc"
+    ],
+    "name:ron_x_preferred":[
+        "Garbolc"
+    ],
+    "name:slk_x_preferred":[
+        "Garbolc"
+    ],
+    "name:slv_x_preferred":[
+        "Garbolc"
+    ],
+    "name:vie_x_preferred":[
+        "Garbolc"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5c14\u535a\u5c14\u8328"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1259349055,
-    "wof:lastmodified":1537563357,
+    "wof:lastmodified":1564161225,
     "wof:name":"Garbolc",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

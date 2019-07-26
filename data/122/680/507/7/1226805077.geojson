@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u067e\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:hun_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:ita_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:msa_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:nld_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:ron_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:slk_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:slv_x_preferred":[
+        "Vasp\u00f6r"
+    ],
     "name:und_x_variant":[
         "Vasp\u00f6r"
+    ],
+    "name:vie_x_preferred":[
+        "Vasp\u00f6r"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u4ec0\u73c0\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1226805077,
-    "wof:lastmodified":1537626204,
+    "wof:lastmodified":1564161282,
     "wof:name":"Vaspor",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

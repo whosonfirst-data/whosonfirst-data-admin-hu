@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:epo_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0648\u06a9\u0648\u0631\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d9\u05e7\u05d9\u05e8\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:ita_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:msa_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:nld_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:pol_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:ron_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:slk_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:slv_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
     "name:und_x_variant":[
         "Hej\u0151k\u00fcrt"
+    ],
+    "name:vie_x_preferred":[
+        "Hej\u0151k\u00fcrt"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u7ea6\u5c48\u5c14\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1225869113,
-    "wof:lastmodified":1537626182,
+    "wof:lastmodified":1564161324,
     "wof:name":"Hejokurt",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

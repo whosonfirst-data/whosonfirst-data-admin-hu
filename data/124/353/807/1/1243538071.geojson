@@ -25,6 +25,39 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Hont"
+    ],
+    "name:fra_x_preferred":[
+        "Hont"
+    ],
+    "name:hun_x_preferred":[
+        "Hont"
+    ],
+    "name:ita_x_preferred":[
+        "Hont"
+    ],
+    "name:msa_x_preferred":[
+        "Hont"
+    ],
+    "name:pol_x_preferred":[
+        "Hont"
+    ],
+    "name:ron_x_preferred":[
+        "Hont"
+    ],
+    "name:slk_x_preferred":[
+        "Hont"
+    ],
+    "name:slv_x_preferred":[
+        "Hont"
+    ],
+    "name:swe_x_preferred":[
+        "Hont"
+    ],
+    "name:vie_x_preferred":[
+        "Hont"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1243538071,
-    "wof:lastmodified":1537563390,
+    "wof:lastmodified":1564160994,
     "wof:name":"Hont",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Mike"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Mike"
+    ],
+    "name:hun_x_preferred":[
+        "Mike"
+    ],
+    "name:ita_x_preferred":[
+        "Mike"
+    ],
+    "name:msa_x_preferred":[
+        "Mike"
+    ],
+    "name:ron_x_preferred":[
+        "Mike"
+    ],
+    "name:slk_x_preferred":[
+        "Mike"
+    ],
+    "name:slv_x_preferred":[
+        "Mike"
+    ],
+    "name:vie_x_preferred":[
+        "Mike"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1343424625,
-    "wof:lastmodified":1537563380,
+    "wof:lastmodified":1564160117,
     "wof:name":"Mike",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

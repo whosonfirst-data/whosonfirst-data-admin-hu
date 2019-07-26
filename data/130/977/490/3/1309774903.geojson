@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0646\u0634\u067e\u0627\u0644\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:hun_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:ita_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:msa_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:nld_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:ron_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:slk_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:slv_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
     "name:und_x_variant":[
         "Kemenesp\u00e1lfa"
+    ],
+    "name:vie_x_preferred":[
+        "Kemenesp\u00e1lfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u8fc8\u5948\u4ec0\u5e15\u5c14\u798f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1309774903,
-    "wof:lastmodified":1537626235,
+    "wof:lastmodified":1564160915,
     "wof:name":"Kemenespalfa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

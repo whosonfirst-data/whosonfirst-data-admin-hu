@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u067e\u0648\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:msa_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:slk_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:slv_x_preferred":[
+        "R\u00e1polt"
+    ],
     "name:und_x_variant":[
         "R\u00e1polt"
+    ],
+    "name:vie_x_preferred":[
+        "R\u00e1polt"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6ce2\u5c14\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1193100329,
-    "wof:lastmodified":1537626170,
+    "wof:lastmodified":1564160663,
     "wof:name":"Rapolt",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

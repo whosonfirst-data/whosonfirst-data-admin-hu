@@ -25,9 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:fra_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:hun_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:ita_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:msa_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:nld_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:ron_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:slk_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:slv_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
     "name:und_x_variant":[
         "Sorkit\u00f3tfalu",
         "Sorkik\u00e1polna"
+    ],
+    "name:vie_x_preferred":[
+        "Sorkik\u00e1polna"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u5c14\u57fa\u5361\u6ce2\u5c14\u7459"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1293742255,
-    "wof:lastmodified":1537626212,
+    "wof:lastmodified":1564160291,
     "wof:name":"Sorkikapolna",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

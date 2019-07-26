@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:deu_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:epo_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06af\u06cc\u062a\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:hun_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:ita_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:msa_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:nld_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:ron_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:slk_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:slv_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:vie_x_preferred":[
+        "Nagytevel"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6cf0\u97e6\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1193105723,
-    "wof:lastmodified":1537563378,
+    "wof:lastmodified":1564160661,
     "wof:name":"Nagytevel",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:epo_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u06a9\u0627\u0645\u0627\u0631\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:hun_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:msa_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:nld_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:ron_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:slk_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:slv_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:tur_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
     "name:und_x_variant":[
         "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:vie_x_preferred":[
+        "Alm\u00e1skamar\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u9a6c\u4ec0\u8003\u6bdb\u62c9\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1327145979,
-    "wof:lastmodified":1537626199,
+    "wof:lastmodified":1564159885,
     "wof:name":"Almaskamaras",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

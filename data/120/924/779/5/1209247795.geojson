@@ -25,6 +25,15 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "B\u00e1lv\u00e1nyosf\u00fcrd\u0151"
+    ],
+    "name:ron_x_preferred":[
+        "Balvanyos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0432\u0430\u043d\u044c\u043e\u0448"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209247795,
-    "wof:lastmodified":1536293103,
+    "wof:lastmodified":1564160524,
     "wof:name":"Balvanyos",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

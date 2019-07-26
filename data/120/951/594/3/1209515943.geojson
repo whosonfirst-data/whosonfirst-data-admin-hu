@@ -26,11 +26,59 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:epo_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u06cc\u0648\u0634\u0646\u0645\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05e0\u05d9\u05d5\u05e9\u05e0\u05de\u05d8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:ita_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:msa_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:nld_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:pol_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:ron_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:slk_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:slv_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:swe_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
     "name:und_x_variant":[
         "Tornvosn\u00e9meti",
         "Torryosn\u00e9meti",
         "Toryosn\u00e9meti",
         "Tornyosn\u00e9meti"
+    ],
+    "name:vie_x_preferred":[
+        "Tornyosn\u00e9meti"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u7ebd\u4ec0\u5185\u8fc8\u8482"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +98,7 @@
         }
     ],
     "wof:id":1209515943,
-    "wof:lastmodified":1537626164,
+    "wof:lastmodified":1564160574,
     "wof:name":"Tornyosnemeti",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
+    "geom:area_square_m":907390.560777,
     "geom:bbox":"19.3144091212,48.0299692953,19.3340392592,48.0389006221",
     "geom:latitude":48.034701,
     "geom:longitude":19.325857,
@@ -14,11 +15,45 @@
     "mps:latitude":48.034756,
     "mps:longitude":19.327025,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:fra_x_preferred":[
+        "Sz\u00fcgy"
+    ],
     "name:hun_x_colloquial":[
         "Szuegy",
         "Szugy"
     ],
     "name:hun_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:ita_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:msa_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:nld_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:pol_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:ron_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:slk_x_preferred":[
+        "Sudice"
+    ],
+    "name:slv_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:swe_x_preferred":[
+        "Sz\u00fcgy"
+    ],
+    "name:vie_x_preferred":[
         "Sz\u00fcgy"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
@@ -50,7 +85,7 @@
         "qs:id":939798
     },
     "wof:country":"HU",
-    "wof:geomhash":"b238a82bb08a9c0a231004d452829b3f",
+    "wof:geomhash":"808a012bf9425c49762d019ab4d545ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +99,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1466625929,
+    "wof:lastmodified":1564160897,
     "wof:name":"Sz\u00fcgy",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",
