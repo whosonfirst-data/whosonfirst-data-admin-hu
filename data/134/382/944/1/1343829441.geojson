@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:epo_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u062a\u0648\u0646\u0648\u06cc\u0644\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:hun_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:ita_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:msa_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:nld_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:ron_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:slk_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:slv_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
     "name:und_x_variant":[
         "Balaton\u00fajlak"
+    ],
+    "name:vie_x_preferred":[
+        "Balaton\u00fajlak"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u6d1b\u6258\u52aa\u4f0a\u6d1b\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1343829441,
-    "wof:lastmodified":1537626270,
+    "wof:lastmodified":1564160056,
     "wof:name":"Balatonujlak",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

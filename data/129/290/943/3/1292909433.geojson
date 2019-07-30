@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:epo_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u06cc\u0648\u0645\u0631\u0686\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d9\u05d5\u05de\u05e8\u05e6'\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:ita_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:msa_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:nld_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:pol_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:ron_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:slk_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:slv_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
     "name:und_x_variant":[
         "Saj\u00f3mercse"
+    ],
+    "name:vie_x_preferred":[
+        "Saj\u00f3mercse"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u7ea6\u8fc8\u5c14\u5207"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1292909433,
-    "wof:lastmodified":1537626169,
+    "wof:lastmodified":1564160264,
     "wof:name":"Sajomercse",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

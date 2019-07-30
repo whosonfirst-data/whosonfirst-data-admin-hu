@@ -21,8 +21,47 @@
     "name:deu_x_preferred":[
         "Pinier"
     ],
+    "name:deu_x_variant":[
+        "Pinnye"
+    ],
+    "name:epo_x_preferred":[
+        "Pinnye"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u0646\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Pinnye"
+    ],
     "name:hrv_x_preferred":[
         "Pinjija"
+    ],
+    "name:hun_x_preferred":[
+        "Pinnye"
+    ],
+    "name:ita_x_preferred":[
+        "Pinnye"
+    ],
+    "name:msa_x_preferred":[
+        "Pinnye"
+    ],
+    "name:nld_x_preferred":[
+        "Pinnye"
+    ],
+    "name:pol_x_preferred":[
+        "Pinnye"
+    ],
+    "name:ron_x_preferred":[
+        "Pinnye"
+    ],
+    "name:slk_x_preferred":[
+        "Pinnye"
+    ],
+    "name:slv_x_preferred":[
+        "Pinnye"
+    ],
+    "name:vie_x_preferred":[
+        "Pinnye"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -75,7 +114,7 @@
         }
     ],
     "wof:id":1125976893,
-    "wof:lastmodified":1509404460,
+    "wof:lastmodified":1564160966,
     "wof:name":"Pinnye",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -25,9 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0646\u0634\u0634\u0648\u0645\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:hun_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:msa_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:nld_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:ron_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:slk_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:slv_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
     "name:und_x_variant":[
         "Somj\u00e9n",
         "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:vie_x_preferred":[
+        "Kemeness\u00f6mj\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u8fc8\u5948\u4ec0\u820d\u59c6\u5ef6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1259451899,
-    "wof:lastmodified":1537626235,
+    "wof:lastmodified":1564161237,
     "wof:name":"Kemenessomjen",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

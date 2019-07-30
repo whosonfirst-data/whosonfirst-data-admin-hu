@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:epo_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u067e\u0627\u0634\u0627\u0644\u0627\u0645\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:ron_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:slv_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
     "name:und_x_variant":[
         "P\u00e1pasalamon"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00e1pasalamon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u4fdd\u7ecd\u6d1b\u8499"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1343826403,
-    "wof:lastmodified":1537626219,
+    "wof:lastmodified":1564160053,
     "wof:name":"Papasalamon",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

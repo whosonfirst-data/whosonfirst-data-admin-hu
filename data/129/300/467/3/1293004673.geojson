@@ -25,9 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u067e\u0633\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:hrv_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:hun_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:msa_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:nld_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:pol_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:ron_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:slk_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:slv_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
     "name:und_x_variant":[
         "Als\u00f3pesz\u00e9r",
         "Kunpesz\u00e9r"
+    ],
+    "name:vie_x_preferred":[
+        "Kunpesz\u00e9r"
+    ],
+    "name:zho_x_preferred":[
+        "\u6606\u6d3e\u585e\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1293004673,
-    "wof:lastmodified":1537626230,
+    "wof:lastmodified":1564160170,
     "wof:name":"Kunpeszer",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u043a\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Buki"
+    ],
+    "name:deu_x_preferred":[
+        "Buki"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u056f\u056b"
+    ],
+    "name:lav_x_preferred":[
+        "Buki"
+    ],
+    "name:pol_x_preferred":[
+        "Buki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u0438"
+    ],
     "name:und_x_variant":[
         "Buki Cs\u00e1rda",
         "Buki"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226719699,
-    "wof:lastmodified":1537626261,
+    "wof:lastmodified":1564161352,
     "wof:name":"Buki",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

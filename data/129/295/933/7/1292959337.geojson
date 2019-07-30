@@ -25,6 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Pankasz"
+    ],
+    "name:epo_x_preferred":[
+        "Pankasz"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0646\u06a9\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Pankasz"
+    ],
+    "name:hun_x_preferred":[
+        "Pankasz"
+    ],
+    "name:ita_x_preferred":[
+        "Pankasz"
+    ],
+    "name:msa_x_preferred":[
+        "Pankasz"
+    ],
+    "name:nld_x_preferred":[
+        "Pankasz"
+    ],
+    "name:ron_x_preferred":[
+        "Pankasz"
+    ],
+    "name:slk_x_preferred":[
+        "Pankasz"
+    ],
+    "name:slv_x_preferred":[
+        "Pankasz"
+    ],
+    "name:vie_x_preferred":[
+        "Pankasz"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ec\u8003\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1292959337,
-    "wof:lastmodified":1537563375,
+    "wof:lastmodified":1564160201,
     "wof:name":"Pankasz",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

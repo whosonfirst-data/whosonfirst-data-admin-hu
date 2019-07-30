@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:epo_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0686\u06cc\u0633\u06cc\u06af\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:ita_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:msa_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:nld_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:ron_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:slk_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:slv_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
     "name:und_x_variant":[
         "Sz\u00e9csisziget"
+    ],
+    "name:vie_x_preferred":[
+        "Sz\u00e9csisziget"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5947\u897f\u76d6\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1293739853,
-    "wof:lastmodified":1537626210,
+    "wof:lastmodified":1564160284,
     "wof:name":"Szecsisziget",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

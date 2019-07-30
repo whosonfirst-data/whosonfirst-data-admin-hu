@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:epo_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u0646\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:ita_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:msa_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:nld_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:ron_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:slk_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:slv_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
     "name:und_x_variant":[
         "Als\u00f3ny\u00e9k"
+    ],
+    "name:vie_x_preferred":[
+        "Als\u00f3ny\u00e9k"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6d85\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1343822321,
-    "wof:lastmodified":1537626275,
+    "wof:lastmodified":1564160051,
     "wof:name":"Alsonyek",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

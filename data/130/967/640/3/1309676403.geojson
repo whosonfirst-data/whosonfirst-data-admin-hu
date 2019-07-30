@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:epo_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u0627\u0646\u06cc\u0633\u0627\u0646\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:hun_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:msa_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:ron_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:slk_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:slv_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
     "name:und_x_variant":[
         "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:vie_x_preferred":[
+        "Kopp\u00e1nysz\u00e1nt\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u666e\u5e15\u5c3c\u6851\u6258"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1309676403,
-    "wof:lastmodified":1537626231,
+    "wof:lastmodified":1564160932,
     "wof:name":"Koppanyszanto",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

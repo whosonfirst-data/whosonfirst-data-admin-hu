@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:epo_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0648\u0645\u06cc\u0647\u0627\u0644\u06cc\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:hun_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:ita_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:msa_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:nld_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:ron_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:slk_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:slv_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
     "name:und_x_variant":[
         "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:vie_x_preferred":[
+        "Pet\u0151mih\u00e1lyfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u7279\u7c73\u54c8\u4f0a\u798f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1260345167,
-    "wof:lastmodified":1537626218,
+    "wof:lastmodified":1564160714,
     "wof:name":"Petomihalyfa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

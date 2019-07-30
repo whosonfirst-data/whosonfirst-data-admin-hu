@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:epo_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0648\u0627\u067e\u06cc\u0634\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:hrv_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:hun_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:ita_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:msa_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:nld_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:pol_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:ron_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:slk_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:slv_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
     "name:und_x_variant":[
         "Dr\u00e1vapiski"
+    ],
+    "name:vie_x_preferred":[
+        "Dr\u00e1vapiski"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u6c83\u76ae\u4ec0\u57fa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1327444527,
-    "wof:lastmodified":1537626249,
+    "wof:lastmodified":1564159949,
     "wof:name":"Dravapiski",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

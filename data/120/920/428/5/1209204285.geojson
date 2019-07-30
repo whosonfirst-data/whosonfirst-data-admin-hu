@@ -28,11 +28,53 @@
     "name:deu_x_preferred":[
         "Amhagen"
     ],
+    "name:deu_x_variant":[
+        "Fert\u0151homok"
+    ],
+    "name:epo_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:fra_x_preferred":[
+        "Fert\u0151homok"
+    ],
     "name:hrv_x_preferred":[
         "Umok"
     ],
+    "name:hun_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:ita_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:msa_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:nld_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:pol_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:ron_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:slk_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:slv_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:spa_x_preferred":[
+        "Fert\u0151homok"
+    ],
     "name:und_x_variant":[
         "Fert\u0151homok"
+    ],
+    "name:vie_x_preferred":[
+        "Fert\u0151homok"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u7279\u970d\u83ab\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1209204285,
-    "wof:lastmodified":1537626245,
+    "wof:lastmodified":1564160582,
     "wof:name":"Fertohomok",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

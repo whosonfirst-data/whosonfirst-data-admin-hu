@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u062f\u0627\u0648\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:msa_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:ron_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:slk_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:slv_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
     "name:und_x_variant":[
         "\u00d3budav\u00e1r"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d3budav\u00e1r"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u5e03\u9053\u74e6\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1326786623,
-    "wof:lastmodified":1537626221,
+    "wof:lastmodified":1564159916,
     "wof:name":"Obudavar",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

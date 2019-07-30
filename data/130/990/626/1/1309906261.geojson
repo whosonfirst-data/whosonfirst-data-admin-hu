@@ -25,8 +25,56 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:deu_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:epo_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u06af\u0627\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05e9\u05d5\u05d2\u05d2'"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:ita_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:msa_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:nld_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:pol_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:ron_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:slk_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:slv_x_preferred":[
+        "Als\u00f3gagy"
+    ],
     "name:und_x_variant":[
         "Als\u00f3gagy"
+    ],
+    "name:vie_x_preferred":[
+        "Als\u00f3gagy"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9ad8\u5409"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1309906261,
-    "wof:lastmodified":1537626198,
+    "wof:lastmodified":1564160910,
     "wof:name":"Alsogagy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

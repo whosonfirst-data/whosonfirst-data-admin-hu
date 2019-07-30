@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:epo_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0648\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:ron_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:slk_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:slv_x_preferred":[
+        "K\u00f6vegy"
+    ],
     "name:und_x_variant":[
         "K\u00f6vegy"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00f6vegy"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u97e6\u5409"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1360077689,
-    "wof:lastmodified":1537626177,
+    "wof:lastmodified":1564160859,
     "wof:name":"Kovegy",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

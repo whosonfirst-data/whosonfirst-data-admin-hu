@@ -25,6 +25,15 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Korakas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:swe_x_preferred":[
+        "Korakas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242574885,
-    "wof:lastmodified":1537064735,
+    "wof:lastmodified":1564161015,
     "wof:name":"Korakas",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

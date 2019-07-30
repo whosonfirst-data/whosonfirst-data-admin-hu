@@ -25,6 +25,39 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:fra_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:hun_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:ita_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:msa_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:nld_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:ron_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:slk_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:slv_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:vie_x_preferred":[
+        "Kacorlak"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u63aa\u5c14\u6d1b\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1276824809,
-    "wof:lastmodified":1537563388,
+    "wof:lastmodified":1564160404,
     "wof:name":"Kacorlak",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

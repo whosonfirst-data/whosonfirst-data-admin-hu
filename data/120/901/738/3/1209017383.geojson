@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:epo_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0646\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:hrv_x_preferred":[
+        "Ti\u0161na"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:nld_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:pol_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:ron_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:slk_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:slv_x_preferred":[
+        "T\u00e9senfa"
+    ],
     "name:und_x_variant":[
         "T\u00e9senfa"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e9senfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u7533\u798f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1209017383,
-    "wof:lastmodified":1537626207,
+    "wof:lastmodified":1564160478,
     "wof:name":"Tesenfa",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

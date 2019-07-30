@@ -26,8 +26,50 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Szaporca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u067e\u0648\u0631\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Szaporca"
+    ],
+    "name:hrv_x_preferred":[
+        "Sporica"
+    ],
+    "name:hun_x_preferred":[
+        "Szaporca"
+    ],
+    "name:ita_x_preferred":[
+        "Szaporca"
+    ],
+    "name:msa_x_preferred":[
+        "Szaporca"
+    ],
+    "name:nld_x_preferred":[
+        "Szaporca"
+    ],
+    "name:pol_x_preferred":[
+        "Szaporca"
+    ],
+    "name:ron_x_preferred":[
+        "Szaporca"
+    ],
+    "name:slk_x_preferred":[
+        "Szaporca"
+    ],
+    "name:slv_x_preferred":[
+        "Szaporca"
+    ],
     "name:und_x_variant":[
         "Szaporea"
+    ],
+    "name:vie_x_preferred":[
+        "Szaporca"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u6ce2\u5c14\u66f9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1309724959,
-    "wof:lastmodified":1537626210,
+    "wof:lastmodified":1564160949,
     "wof:name":"Szaporca",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

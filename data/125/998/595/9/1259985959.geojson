@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Fony"
+    ],
+    "name:deu_x_preferred":[
+        "Fony"
+    ],
+    "name:epo_x_preferred":[
+        "Fony"
+    ],
+    "name:fra_x_preferred":[
+        "Fony"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Fony"
+    ],
+    "name:ita_x_preferred":[
+        "Fony"
+    ],
+    "name:msa_x_preferred":[
+        "Fony"
+    ],
+    "name:nld_x_preferred":[
+        "Fony"
+    ],
+    "name:pol_x_preferred":[
+        "Fony"
+    ],
+    "name:ron_x_preferred":[
+        "Fony"
+    ],
+    "name:slk_x_preferred":[
+        "Fony"
+    ],
+    "name:slv_x_preferred":[
+        "Fony"
+    ],
+    "name:swe_x_preferred":[
+        "Fony"
+    ],
+    "name:vie_x_preferred":[
+        "Fony"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1259985959,
-    "wof:lastmodified":1537563358,
+    "wof:lastmodified":1564161153,
     "wof:name":"Fony",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

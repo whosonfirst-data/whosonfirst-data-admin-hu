@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Tikos"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u06a9\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Tikos"
+    ],
+    "name:hun_x_preferred":[
+        "Tikos"
+    ],
+    "name:ita_x_preferred":[
+        "Tikos"
+    ],
+    "name:msa_x_preferred":[
+        "Tikos"
+    ],
+    "name:nld_x_preferred":[
+        "Tikos"
+    ],
+    "name:ron_x_preferred":[
+        "Tikos"
+    ],
+    "name:slk_x_preferred":[
+        "Tikos"
+    ],
+    "name:slv_x_preferred":[
+        "Tikos"
+    ],
+    "name:vie_x_preferred":[
+        "Tikos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u79d1\u4ec0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1276202359,
-    "wof:lastmodified":1537563367,
+    "wof:lastmodified":1564160346,
     "wof:name":"Tikos",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

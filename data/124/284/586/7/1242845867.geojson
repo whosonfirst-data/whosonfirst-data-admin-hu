@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0647\u0627\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:hun_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:msa_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:nld_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:ron_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:slk_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:slv_x_preferred":[
+        "Bolh\u00e1s"
+    ],
     "name:und_x_variant":[
         "Bolh\u00e1s"
+    ],
+    "name:vie_x_preferred":[
+        "Bolh\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u54c8\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1242845867,
-    "wof:lastmodified":1537626263,
+    "wof:lastmodified":1564161095,
     "wof:name":"Bolhas",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

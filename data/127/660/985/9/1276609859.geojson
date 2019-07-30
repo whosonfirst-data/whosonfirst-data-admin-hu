@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Pula"
+    ],
+    "name:deu_x_preferred":[
+        "Pula"
+    ],
+    "name:epo_x_preferred":[
+        "Pula"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Pula"
+    ],
+    "name:hun_x_preferred":[
+        "Pula"
+    ],
+    "name:ita_x_preferred":[
+        "Pula"
+    ],
+    "name:msa_x_preferred":[
+        "Pula"
+    ],
+    "name:ron_x_preferred":[
+        "Pula"
+    ],
+    "name:slk_x_preferred":[
+        "Pula"
+    ],
+    "name:slv_x_preferred":[
+        "Pula"
+    ],
+    "name:vie_x_preferred":[
+        "Pula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1276609859,
-    "wof:lastmodified":1537563374,
+    "wof:lastmodified":1564160362,
     "wof:name":"Pula",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

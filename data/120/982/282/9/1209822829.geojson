@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0634\u062f\u0648\u0645\u0628\u06af\u06cc\u0647\u0627\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:hun_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:ita_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:msa_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:nld_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:pol_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:ron_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:slk_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:slv_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
     "name:und_x_variant":[
         "Kisdombegyh\u00e1z"
+    ],
+    "name:vie_x_preferred":[
+        "Kisdombegyh\u00e1z"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u4ec0\u4e1c\u62dc\u5409\u54c8\u5179"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1209822829,
-    "wof:lastmodified":1537626179,
+    "wof:lastmodified":1564160539,
     "wof:name":"Kisdombegyhaz",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

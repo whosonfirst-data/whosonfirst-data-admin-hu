@@ -26,6 +26,33 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maga"
+    ],
+    "name:deu_x_preferred":[
+        "Maga"
+    ],
+    "name:fra_x_preferred":[
+        "Maga"
+    ],
+    "name:nds_x_preferred":[
+        "Maga"
+    ],
+    "name:nld_x_preferred":[
+        "Maga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Maga"
+    ],
+    "name:swe_x_preferred":[
+        "Maga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0433\u0430"
+    ],
     "name:und_x_variant":[
         "M\u00e1gah\u00edd",
         "M\u00e1ga"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1243517655,
-    "wof:lastmodified":1537626176,
+    "wof:lastmodified":1564161081,
     "wof:name":"Maga",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

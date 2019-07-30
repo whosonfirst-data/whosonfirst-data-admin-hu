@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Szenta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Szenta"
+    ],
+    "name:hrv_x_preferred":[
+        "Szenta"
+    ],
+    "name:hun_x_preferred":[
+        "Szenta"
+    ],
+    "name:ita_x_preferred":[
+        "Szenta"
+    ],
+    "name:msa_x_preferred":[
+        "Szenta"
+    ],
+    "name:nld_x_preferred":[
+        "Szenta"
+    ],
+    "name:ron_x_preferred":[
+        "Szenta"
+    ],
+    "name:slk_x_preferred":[
+        "Szenta"
+    ],
+    "name:slv_x_preferred":[
+        "Szenta"
+    ],
+    "name:vie_x_preferred":[
+        "Szenta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1310577481,
-    "wof:lastmodified":1537563369,
+    "wof:lastmodified":1564160831,
     "wof:name":"Szenta",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

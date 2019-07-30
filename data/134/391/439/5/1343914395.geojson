@@ -25,8 +25,50 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:deu_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:epo_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0634\u0633\u0632\u0648\u0641\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:hun_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:ita_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:msa_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:nld_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:ron_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:slk_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:slv_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
     "name:und_x_variant":[
         "Vashossz\u00fafalu"
+    ],
+    "name:vie_x_preferred":[
+        "Vashossz\u00fafalu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u4ec0\u970d\u4ec0\u82cf\u798f\u5362"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1343914395,
-    "wof:lastmodified":1537626204,
+    "wof:lastmodified":1564159976,
     "wof:name":"Vashosszufalu",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

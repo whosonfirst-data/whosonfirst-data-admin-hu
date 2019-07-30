@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Zsana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zsana"
+    ],
+    "name:hrv_x_preferred":[
+        "Zsana"
+    ],
+    "name:hun_x_preferred":[
+        "Zsana"
+    ],
+    "name:ita_x_preferred":[
+        "Zsana"
+    ],
+    "name:msa_x_preferred":[
+        "Zsana"
+    ],
+    "name:nld_x_preferred":[
+        "Zsana"
+    ],
+    "name:pol_x_preferred":[
+        "Zsana"
+    ],
+    "name:ron_x_preferred":[
+        "Zsana"
+    ],
+    "name:slk_x_preferred":[
+        "Zsana"
+    ],
+    "name:slv_x_preferred":[
+        "Zsana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Zsana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1243472053,
-    "wof:lastmodified":1537563362,
+    "wof:lastmodified":1564161051,
     "wof:name":"Zsana",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -25,6 +25,39 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Misefa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0634\u0641\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Misefa"
+    ],
+    "name:hun_x_preferred":[
+        "Misefa"
+    ],
+    "name:ita_x_preferred":[
+        "Misefa"
+    ],
+    "name:msa_x_preferred":[
+        "Misefa"
+    ],
+    "name:ron_x_preferred":[
+        "Misefa"
+    ],
+    "name:slk_x_preferred":[
+        "Misefa"
+    ],
+    "name:slv_x_preferred":[
+        "Misefa"
+    ],
+    "name:vie_x_preferred":[
+        "Misefa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u8c22\u798f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1193094975,
-    "wof:lastmodified":1537563380,
+    "wof:lastmodified":1564160628,
     "wof:name":"Misefa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

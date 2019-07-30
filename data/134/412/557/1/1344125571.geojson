@@ -25,9 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:epo_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9\u0648\u0646\u06cc\u0633\u0648\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:hun_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:ita_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:msa_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:nld_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:ron_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:slk_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:slv_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
     "name:und_x_variant":[
         "Sz\u00fccs",
         "Bakonysz\u00fccs"
+    ],
+    "name:vie_x_preferred":[
+        "Bakonysz\u00fccs"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u79d1\u5c3c\u53d9\u5947"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1344125571,
-    "wof:lastmodified":1537626271,
+    "wof:lastmodified":1564160019,
     "wof:name":"Bakonyszucs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

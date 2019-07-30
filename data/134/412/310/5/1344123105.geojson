@@ -25,9 +25,57 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:epo_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0698\u0648\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6'\u05d5\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:ita_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:msa_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:nld_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:pol_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:ron_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:slk_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:slv_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:swe_x_preferred":[
+        "Vizsoly"
+    ],
     "name:und_x_variant":[
         "Vizsoly-puszta",
         "Vizsoly"
+    ],
+    "name:vie_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u82e5\u4f0a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +98,7 @@
         }
     ],
     "wof:id":1344123105,
-    "wof:lastmodified":1537626163,
+    "wof:lastmodified":1564160021,
     "wof:name":"Vizsoly",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

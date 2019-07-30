@@ -25,8 +25,41 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:slk_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:slv_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
     "name:und_x_variant":[
         "S\u00fcmegcsehi"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00fcmegcsehi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb8\u8fc8\u683c\u5207\u5e0c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1225902149,
-    "wof:lastmodified":1537626211,
+    "wof:lastmodified":1564161333,
     "wof:name":"Sumegcsehi",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0634\u0648\u0634\u0627\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:ron_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:slk_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:slv_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
     "name:und_x_variant":[
         "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00fcls\u0151s\u00e1rd"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c48\u5c14\u820d\u6c99\u5c14\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1209584003,
-    "wof:lastmodified":1537626230,
+    "wof:lastmodified":1564160567,
     "wof:name":"Kulsosard",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

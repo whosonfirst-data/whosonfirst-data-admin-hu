@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:epo_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0633\u0627\u06a9\u0648\u0631\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:hun_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:msa_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:ron_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:slk_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:slv_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
     "name:und_x_variant":[
         "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:vie_x_preferred":[
+        "Tiszak\u00f3r\u00f3d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7ecd\u79d1\u7f57\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1243339469,
-    "wof:lastmodified":1537626165,
+    "wof:lastmodified":1564161088,
     "wof:name":"Tiszakorod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

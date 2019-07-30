@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zubogy"
+    ],
+    "name:epo_x_preferred":[
+        "Zubogy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0628\u0648\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Zubogy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d5\u05d1\u05d5\u05d2'"
+    ],
+    "name:hun_x_preferred":[
+        "Zubogy"
+    ],
+    "name:ita_x_preferred":[
+        "Zubogy"
+    ],
+    "name:msa_x_preferred":[
+        "Zubogy"
+    ],
+    "name:nld_x_preferred":[
+        "Zubogy"
+    ],
+    "name:pol_x_preferred":[
+        "Zubogy"
+    ],
+    "name:ron_x_preferred":[
+        "Zubogy"
+    ],
+    "name:slk_x_preferred":[
+        "Zubogy"
+    ],
+    "name:slv_x_preferred":[
+        "Zubogy"
+    ],
+    "name:vie_x_preferred":[
+        "Zubogy"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u535a\u5409"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1309804527,
-    "wof:lastmodified":1537563347,
+    "wof:lastmodified":1564160939,
     "wof:name":"Zubogy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

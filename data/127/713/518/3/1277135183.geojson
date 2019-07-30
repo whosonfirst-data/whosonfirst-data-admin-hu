@@ -25,6 +25,42 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06af\u06cc\u0634\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:hun_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:ita_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:msa_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:nld_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:ron_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:slk_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:slv_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:vie_x_preferred":[
+        "Hegyesd"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u6770\u4ec0\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +85,7 @@
         }
     ],
     "wof:id":1277135183,
-    "wof:lastmodified":1537563391,
+    "wof:lastmodified":1564160382,
     "wof:name":"Hegyesd",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

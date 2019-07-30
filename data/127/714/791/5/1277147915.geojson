@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:hun_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:msa_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:ron_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:slk_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:slv_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
     "name:und_x_variant":[
         "Kisharty\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Kisharty\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u4ec0\u8c6a\u5c14\u8a79"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1277147915,
-    "wof:lastmodified":1537626233,
+    "wof:lastmodified":1564160384,
     "wof:name":"Kishartyan",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

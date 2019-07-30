@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:epo_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u06a9\u0627\u067e\u062a\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:hrv_x_preferred":[
+        "Botka"
+    ],
+    "name:hun_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:ita_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:msa_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:nld_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:pol_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:ron_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:slk_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:slv_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:vie_x_preferred":[
+        "Botykapeterd"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5409\u8003\u6d3e\u6cf0\u5c14\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1360187817,
-    "wof:lastmodified":1537563399,
+    "wof:lastmodified":1564160870,
     "wof:name":"Botykapeterd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

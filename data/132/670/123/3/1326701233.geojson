@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:fra_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:msa_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:nld_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:pol_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:ron_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:slk_x_preferred":[
+        "Horn\u00e9 Pe\u0165any"
+    ],
+    "name:slv_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
     "name:und_x_variant":[
         "Fels\u0151pet\u00e9ny"
+    ],
+    "name:vie_x_preferred":[
+        "Fels\u0151pet\u00e9ny"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6d3e\u6cf0\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1326701233,
-    "wof:lastmodified":1537626246,
+    "wof:lastmodified":1564159922,
     "wof:name":"Felsopeteny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

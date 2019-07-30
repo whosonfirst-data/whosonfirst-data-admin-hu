@@ -25,6 +25,102 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0627\u0646\u063a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Aranga"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u0627\u0646\u062e\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Aranga"
+    ],
+    "name:cat_x_preferred":[
+        "Aranga"
+    ],
+    "name:ceb_x_preferred":[
+        "Aranga"
+    ],
+    "name:deu_x_preferred":[
+        "Aranga"
+    ],
+    "name:eus_x_preferred":[
+        "Aranga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0646\u062e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Aranga"
+    ],
+    "name:glg_x_preferred":[
+        "Aranga"
+    ],
+    "name:hun_x_preferred":[
+        "Aranga"
+    ],
+    "name:ita_x_preferred":[
+        "Aranga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30f3\u30ac"
+    ],
+    "name:lmo_x_preferred":[
+        "Aranga"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Aranga"
+    ],
+    "name:nld_x_preferred":[
+        "Aranga"
+    ],
+    "name:oci_x_preferred":[
+        "Aranga"
+    ],
+    "name:pam_x_preferred":[
+        "Aranga"
+    ],
+    "name:pol_x_preferred":[
+        "Aranga"
+    ],
+    "name:por_x_preferred":[
+        "Aranga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0433\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Aranga"
+    ],
+    "name:spa_x_preferred":[
+        "Aranga"
+    ],
+    "name:swe_x_preferred":[
+        "Aranga"
+    ],
+    "name:tur_x_preferred":[
+        "Aranga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0433\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Aranga"
+    ],
+    "name:vie_x_preferred":[
+        "Aranga"
+    ],
+    "name:war_x_preferred":[
+        "Aranga"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5170\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +144,7 @@
         }
     ],
     "wof:id":1326804517,
-    "wof:lastmodified":1537085619,
+    "wof:lastmodified":1564159855,
     "wof:name":"Aranga",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

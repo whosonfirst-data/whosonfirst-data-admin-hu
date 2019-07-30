@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:epo_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u0645\u0627\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:hun_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:msa_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:nld_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:ron_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:slk_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:slv_x_preferred":[
+        "Hajm\u00e1s"
+    ],
     "name:und_x_variant":[
         "Hajm\u00e1s"
+    ],
+    "name:vie_x_preferred":[
+        "Hajm\u00e1s"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u4f0a\u9a6c\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1327110861,
-    "wof:lastmodified":1537626242,
+    "wof:lastmodified":1564159967,
     "wof:name":"Hajmas",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -25,6 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:epo_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u06af\u0631\u0633\u0632\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:hun_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:ita_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:msa_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:nld_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:ron_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:slk_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:slv_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:vie_x_preferred":[
+        "Vasegerszeg"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u8c22\u76d6\u5c14\u585e\u683c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1243024699,
-    "wof:lastmodified":1537563365,
+    "wof:lastmodified":1564161092,
     "wof:name":"Vasegerszeg",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

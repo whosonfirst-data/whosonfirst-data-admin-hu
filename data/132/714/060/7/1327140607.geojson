@@ -25,7 +25,52 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:deu_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:epo_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:ron_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:slk_x_preferred":[
+        "L\u00e9h"
+    ],
+    "name:slv_x_preferred":[
+        "L\u00e9h"
+    ],
     "name:und_x_variant":[
+        "L\u00e9h"
+    ],
+    "name:vie_x_preferred":[
         "L\u00e9h"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1327140607,
-    "wof:lastmodified":1537626176,
+    "wof:lastmodified":1564159886,
     "wof:name":"Leh",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -25,8 +25,56 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:deu_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:epo_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u06cc\u0648\u067e\u0648\u0634\u067e\u0648\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d9\u05d5\u05e4\u05d9\u05e9\u05e4\u05e7\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:ita_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:msa_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:nld_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:pol_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:ron_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:slk_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:slv_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
     "name:und_x_variant":[
         "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:vie_x_preferred":[
+        "Saj\u00f3p\u00fcsp\u00f6ki"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u7ea6\u76ae\u4ec0\u73c0\u57fa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1259383079,
-    "wof:lastmodified":1537626169,
+    "wof:lastmodified":1564161146,
     "wof:name":"Sajopuspoki",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:epo_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u06cc\u0627\u0631\u0645\u0686\u06a9\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:hrv_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:hun_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:ita_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:msa_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:nld_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:pol_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:ron_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:slk_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:slv_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:vie_x_preferred":[
+        "Magyarmecske"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u7126\u5c14\u8fc8\u5947\u51ef"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1327440399,
-    "wof:lastmodified":1537563382,
+    "wof:lastmodified":1564159949,
     "wof:name":"Magyarmecske",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

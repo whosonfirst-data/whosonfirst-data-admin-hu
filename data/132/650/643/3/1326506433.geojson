@@ -25,10 +25,49 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:epo_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0648\u0646\u06cc\u0645\u06af\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:slk_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:slv_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
     "name:und_x_variant":[
         "Kopp\u00e1nymegyer",
         "Nagyb\u00e1bony",
         "B\u00e1bonymegyer"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e1bonymegyer"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u535a\u5c3c\u8fc8\u6770\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1326506433,
-    "wof:lastmodified":1537626272,
+    "wof:lastmodified":1564159877,
     "wof:name":"Babonymegyer",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

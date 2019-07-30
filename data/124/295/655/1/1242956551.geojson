@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:epo_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:fra_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:ita_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:msa_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:nld_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:pol_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:ron_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:slk_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:slv_x_preferred":[
+        "Fels\u0151told"
+    ],
     "name:und_x_variant":[
         "Fels\u0151told"
+    ],
+    "name:vie_x_preferred":[
+        "Fels\u0151told"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6258\u5c14\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1242956551,
-    "wof:lastmodified":1537626246,
+    "wof:lastmodified":1564161022,
     "wof:name":"Felsotold",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

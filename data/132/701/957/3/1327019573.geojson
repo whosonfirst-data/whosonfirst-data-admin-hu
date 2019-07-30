@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Himod"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0645\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Himod"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05de\u05d5\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Himod"
+    ],
+    "name:ita_x_preferred":[
+        "Himod"
+    ],
+    "name:msa_x_preferred":[
+        "Himod"
+    ],
+    "name:nld_x_preferred":[
+        "Himod"
+    ],
+    "name:pol_x_preferred":[
+        "Himod"
+    ],
+    "name:ron_x_preferred":[
+        "Himod"
+    ],
+    "name:slk_x_preferred":[
+        "Himod"
+    ],
+    "name:slv_x_preferred":[
+        "Himod"
+    ],
+    "name:spa_x_preferred":[
+        "Himod"
+    ],
+    "name:vie_x_preferred":[
+        "Himod"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u83ab\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1327019573,
-    "wof:lastmodified":1537563390,
+    "wof:lastmodified":1564159827,
     "wof:name":"Himod",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

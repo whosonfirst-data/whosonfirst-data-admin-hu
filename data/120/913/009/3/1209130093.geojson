@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:epo_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u06af\u06cc\u0648\u0646\u062f\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d2'\u05d5\u05d5\u05e0\u05d3\u05d2\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:ita_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:msa_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:nld_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:pol_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:ron_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:slk_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:slv_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
     "name:und_x_variant":[
         "Gagyvend\u00e9gi"
+    ],
+    "name:vie_x_preferred":[
+        "Gagyvend\u00e9gi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5409\u6587\u4ee3\u5409"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1209130093,
-    "wof:lastmodified":1537626184,
+    "wof:lastmodified":1564160543,
     "wof:name":"Gagyvendegi",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

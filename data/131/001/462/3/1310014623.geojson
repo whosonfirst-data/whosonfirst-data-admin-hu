@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:epo_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u06cc\u0647\u0627\u0632\u0627\u0634\u0647\u0627\u0631\u0627\u0633\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:hrv_x_preferred":[
+        "Rastince"
+    ],
+    "name:hun_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:ita_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:msa_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:nld_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:pol_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:ron_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:slk_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:slv_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
     "name:und_x_variant":[
         "Egyh\u00e1zasharaszti"
+    ],
+    "name:vie_x_preferred":[
+        "Egyh\u00e1zasharaszti"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u5409\u54c8\u4f50\u4ec0\u8c6a\u52b3\u65af\u8482"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1310014623,
-    "wof:lastmodified":1537626248,
+    "wof:lastmodified":1564160783,
     "wof:name":"Egyhazasharaszti",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

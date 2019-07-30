@@ -25,10 +25,46 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u0634\u06a9\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:slk_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:slv_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
     "name:und_x_variant":[
         "Gyerty\u00e1nk\u00fat",
         "H\u00e1rs\u00e1gypuszta",
         "H\u00e1rsk\u00fat"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00e1rsk\u00fat"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5c14\u4ec0\u5e93\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1343519861,
-    "wof:lastmodified":1537626241,
+    "wof:lastmodified":1564160082,
     "wof:name":"Harskut",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

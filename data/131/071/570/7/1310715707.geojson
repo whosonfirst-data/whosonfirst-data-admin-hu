@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:epo_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0627\u0633\u0646\u062a\u0628\u0646\u062f\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:hrv_x_preferred":[
+        "Sabendak"
+    ],
+    "name:hun_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:ita_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:msa_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:nld_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:pol_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:ron_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:slk_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:slv_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:vie_x_preferred":[
+        "Dunaszentbenedek"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u7459\u68ee\u7279\u62dc\u5948\u4ee3\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1310715707,
-    "wof:lastmodified":1537563395,
+    "wof:lastmodified":1564160752,
     "wof:name":"Dunaszentbenedek",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

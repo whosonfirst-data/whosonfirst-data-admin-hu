@@ -25,6 +25,51 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u067e\u062a\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:hrv_x_preferred":[
+        "Litoba"
+    ],
+    "name:hun_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:ita_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:msa_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:nld_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:pol_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:ron_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:slk_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:slv_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0442\u043e\u0431\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Lipt\u00f3d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u666e\u6258\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1193024869,
-    "wof:lastmodified":1537563382,
+    "wof:lastmodified":1564160645,
     "wof:name":"Liptod",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

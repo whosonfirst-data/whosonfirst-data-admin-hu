@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:hun_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:nld_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:pol_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:ron_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:slk_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:slv_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
     "name:und_x_variant":[
         "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00f3gr\u00e1dmarcal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u683c\u62c9\u5fb7\u6bdb\u5c14\u66f9\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1343936757,
-    "wof:lastmodified":1537626221,
+    "wof:lastmodified":1564160087,
     "wof:name":"Nogradmarcal",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -25,8 +25,50 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:epo_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631\u06af\u0648\u0646\u0627\u06af\u06cc\u0645\u0627\u0631\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:hrv_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:hun_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:ita_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:msa_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:nld_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:ron_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:slk_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:slv_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
     "name:und_x_variant":[
         "Csurg\u00f3nagymarton"
+    ],
+    "name:vie_x_preferred":[
+        "Csurg\u00f3nagymarton"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u5c14\u6208\u7459\u5409\u6bdb\u5c14\u901a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1209185655,
-    "wof:lastmodified":1537626253,
+    "wof:lastmodified":1564160589,
     "wof:name":"Csurgonagymarton",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:epo_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0686\u0647\u0627\u0632\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:hrv_x_preferred":[
+        "Den\u010daz"
+    ],
+    "name:hun_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:ita_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:msa_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:nld_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:pol_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:ron_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:slk_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:slv_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
     "name:und_x_variant":[
         "Dencsh\u00e1za"
+    ],
+    "name:vie_x_preferred":[
+        "Dencsh\u00e1za"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u5947\u54c8\u4f50"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1242780857,
-    "wof:lastmodified":1537626252,
+    "wof:lastmodified":1564161106,
     "wof:name":"Dencshaza",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06af\u06cc\u0627\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:hun_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:ita_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:msa_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:nld_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:ron_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:slk_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:slv_x_preferred":[
+        "Rigy\u00e1c"
+    ],
     "name:und_x_variant":[
         "Rigy\u00e1c"
+    ],
+    "name:vie_x_preferred":[
+        "Rigy\u00e1c"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u8d3e\u8328"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1242633197,
-    "wof:lastmodified":1537626215,
+    "wof:lastmodified":1564161124,
     "wof:name":"Rigyac",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

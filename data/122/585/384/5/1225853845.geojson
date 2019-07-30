@@ -25,7 +25,46 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:hrv_x_preferred":[
+        "Zuka"
+    ],
+    "name:hun_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:nld_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:ron_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00f3k"
+    ],
+    "name:slv_x_preferred":[
+        "Z\u00f3k"
+    ],
     "name:und_x_variant":[
+        "Z\u00f3k"
+    ],
+    "name:vie_x_preferred":[
         "Z\u00f3k"
     ],
     "src:geom":"geonames",
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1225853845,
-    "wof:lastmodified":1537626200,
+    "wof:lastmodified":1564161406,
     "wof:name":"Zok",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

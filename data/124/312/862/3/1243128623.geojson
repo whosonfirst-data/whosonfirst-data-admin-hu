@@ -25,8 +25,50 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:deu_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:epo_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0647\u0631\u0646\u0644\u0647\u0627\u0632\u0627\u062f\u0627\u0645\u0648\u0646\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:hun_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:ita_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:msa_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:nld_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:ron_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:slk_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:slv_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
     "name:und_x_variant":[
         "Chernelh\u00e1zadamonya"
+    ],
+    "name:vie_x_preferred":[
+        "Chernelh\u00e1zadamonya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u5c14\u5948\u5c14\u54c8\u4f50\u9053\u83ab\u5c3c\u5965"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1243128623,
-    "wof:lastmodified":1537626260,
+    "wof:lastmodified":1564161050,
     "wof:name":"Chernelhazadamonya",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

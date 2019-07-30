@@ -25,8 +25,44 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0648\u067e\u062a\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:ron_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:slk_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:slv_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
     "name:und_x_variant":[
         "L\u00f6v\u0151petri"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00f6v\u0151petri"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u6c83\u6d3e\u7279\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1243031271,
-    "wof:lastmodified":1537626176,
+    "wof:lastmodified":1564161068,
     "wof:name":"Lovopetri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

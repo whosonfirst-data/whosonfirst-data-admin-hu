@@ -25,8 +25,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:epo_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u06cc\u0648\u0634\u0646\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d9\u05d5\u05e9\u05e0\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:ita_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:msa_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:nld_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:pol_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:ron_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:slk_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:slv_x_preferred":[
+        "Saj\u00f3senye"
+    ],
     "name:und_x_variant":[
         "Saj\u00f3senye"
+    ],
+    "name:vie_x_preferred":[
+        "Saj\u00f3senye"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ecd\u7ea6\u8c22\u6d85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1360009649,
-    "wof:lastmodified":1537626169,
+    "wof:lastmodified":1564160859,
     "wof:name":"Sajosenye",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

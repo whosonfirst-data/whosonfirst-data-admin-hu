@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u0628\u0627\u0644\u0648\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:msa_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:ron_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:slv_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00e1rbalog"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5c14\u9c8d\u6d1b\u683c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1360282075,
-    "wof:lastmodified":1537563365,
+    "wof:lastmodified":1564160877,
     "wof:name":"Varbalog",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -25,8 +25,47 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:epo_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0645\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:hun_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:ita_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:msa_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:nld_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:ron_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:slk_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:slv_x_preferred":[
+        "Cs\u00f6mend"
+    ],
     "name:und_x_variant":[
         "Cs\u00f6mend"
+    ],
+    "name:vie_x_preferred":[
+        "Cs\u00f6mend"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7b\u95e8\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1226820641,
-    "wof:lastmodified":1537626254,
+    "wof:lastmodified":1564161347,
     "wof:name":"Csomend",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

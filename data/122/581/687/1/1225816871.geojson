@@ -25,6 +25,45 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Szorosad"
+    ],
+    "name:epo_x_preferred":[
+        "Szorosad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u0634\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Szorosad"
+    ],
+    "name:hun_x_preferred":[
+        "Szorosad"
+    ],
+    "name:ita_x_preferred":[
+        "Szorosad"
+    ],
+    "name:msa_x_preferred":[
+        "Szorosad"
+    ],
+    "name:nld_x_preferred":[
+        "Szorosad"
+    ],
+    "name:ron_x_preferred":[
+        "Szorosad"
+    ],
+    "name:slk_x_preferred":[
+        "Szorosad"
+    ],
+    "name:slv_x_preferred":[
+        "Szorosad"
+    ],
+    "name:vie_x_preferred":[
+        "Szorosad"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u7f57\u7ecd\u5fb7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1225816871,
-    "wof:lastmodified":1537563368,
+    "wof:lastmodified":1564161325,
     "wof:name":"Szorosad",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

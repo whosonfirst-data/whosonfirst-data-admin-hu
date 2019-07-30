@@ -26,8 +26,53 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:epo_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u06cc\u0634\u062a\u0648\u0627\u0646\u0628\u0627\u06a9\u0634\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d0\u05d9\u05e9\u05d8\u05d5\u05d5\u05d0\u05e0\u05d1\u05e7\u05e9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:ita_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:msa_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:nld_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:pol_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:ron_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:slk_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:slv_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
     "name:und_x_variant":[
         "Szentistv\u00e1nbaksa"
+    ],
+    "name:vie_x_preferred":[
+        "Szentistv\u00e1nbaksa"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u8482\u4ec0\u7279\u4e07\u9c8d\u514b\u7ecd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1326530875,
-    "wof:lastmodified":1537626168,
+    "wof:lastmodified":1564159945,
     "wof:name":"Szentistvanbaksa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

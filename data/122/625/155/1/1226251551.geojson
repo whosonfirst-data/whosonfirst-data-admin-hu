@@ -25,6 +25,48 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Szemely"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Szemely"
+    ],
+    "name:hrv_x_preferred":[
+        "Semelj"
+    ],
+    "name:hun_x_preferred":[
+        "Szemely"
+    ],
+    "name:ita_x_preferred":[
+        "Szemely"
+    ],
+    "name:msa_x_preferred":[
+        "Szemely"
+    ],
+    "name:nld_x_preferred":[
+        "Szemely"
+    ],
+    "name:pol_x_preferred":[
+        "Szemely"
+    ],
+    "name:ron_x_preferred":[
+        "Szemely"
+    ],
+    "name:slk_x_preferred":[
+        "Szemely"
+    ],
+    "name:slv_x_preferred":[
+        "Szemely"
+    ],
+    "name:vie_x_preferred":[
+        "Szemely"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u8fc8\u4f0a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1226251551,
-    "wof:lastmodified":1537563369,
+    "wof:lastmodified":1564161342,
     "wof:name":"Szemely",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

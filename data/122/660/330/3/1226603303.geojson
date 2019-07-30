@@ -28,6 +28,45 @@
     "name:deu_x_preferred":[
         "Ginisdorf"
     ],
+    "name:deu_x_variant":[
+        "Nemesmedves"
+    ],
+    "name:epo_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0634\u0645\u062f\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:hun_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:ita_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:msa_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:nld_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:ron_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:slk_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:slv_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:vie_x_preferred":[
+        "Nemesmedves"
+    ],
+    "name:zho_x_preferred":[
+        "\u5948\u8fc8\u4ec0\u8fc8\u5fb7\u97e6\u4ec0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1226603303,
-    "wof:lastmodified":1537626222,
+    "wof:lastmodified":1564161304,
     "wof:name":"Nemesmedves",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -25,8 +25,56 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:deu_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:epo_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0627\u0648\u0633\u200c\u0632\u0648\u0644\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d0\u05d5\u05d9\u05e1\u05d5\u05dc\u05e0\u05d5\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:ita_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:msa_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:nld_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:pol_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:ron_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:slk_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:slv_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
     "name:und_x_variant":[
         "Aba\u00fajszolnok"
+    ],
+    "name:vie_x_preferred":[
+        "Aba\u00fajszolnok"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u9c8d\u4e4c\u4f0a\u7d22\u5c14\u8bfa\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1193143247,
-    "wof:lastmodified":1537626199,
+    "wof:lastmodified":1564160640,
     "wof:name":"Abaujszolnok",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

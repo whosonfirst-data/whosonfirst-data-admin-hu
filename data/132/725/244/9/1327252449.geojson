@@ -28,11 +28,50 @@
     "name:deu_x_preferred":[
         "Heils"
     ],
+    "name:epo_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u067e\u062a\u0633\u0648\u06cc\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9pcevis"
+    ],
     "name:hrv_x_preferred":[
         "Vi\u0161ija"
     ],
+    "name:hun_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:msa_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:nld_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:slk_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:slv_x_preferred":[
+        "R\u00e9pcevis"
+    ],
     "name:und_x_variant":[
         "R\u00e9pcevis"
+    ],
+    "name:vie_x_preferred":[
+        "R\u00e9pcevis"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u666e\u91c7\u7ef4\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +97,7 @@
         }
     ],
     "wof:id":1327252449,
-    "wof:lastmodified":1537626215,
+    "wof:lastmodified":1564159881,
     "wof:name":"Repcevis",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

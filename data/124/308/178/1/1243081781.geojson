@@ -26,10 +26,55 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:epo_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0644\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:hrv_x_preferred":[
+        "Rislak"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:nld_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:ron_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:slk_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:slv_x_preferred":[
+        "\u00dajtelek"
+    ],
     "name:und_x_variant":[
         "R\u00e9sztelek",
         "R\u00e9sztelek-Keser\u016ftelek",
         "\u00dajtelek"
+    ],
+    "name:vie_x_preferred":[
+        "\u00dajtelek"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8e\u4f0a\u6cf0\u83b1\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +100,7 @@
         }
     ],
     "wof:id":1243081781,
-    "wof:lastmodified":1537626215,
+    "wof:lastmodified":1564160997,
     "wof:name":"Ujtelek",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

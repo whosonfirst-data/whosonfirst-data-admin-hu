@@ -26,9 +26,54 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:epo_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u0648\u062f\u0628\u0648\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05e9\u05d5\u05d3\u05d1\u05d5\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:ita_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:msa_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:nld_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:pol_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:ron_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:slk_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:slv_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
     "name:und_x_variant":[
         "B\u00f3ta",
         "Borsodb\u00f3ta"
+    ],
+    "name:vie_x_preferred":[
+        "Borsodb\u00f3ta"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u7ecd\u5fb7\u535a\u9676"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +99,7 @@
         }
     ],
     "wof:id":1293789813,
-    "wof:lastmodified":1537626193,
+    "wof:lastmodified":1564160224,
     "wof:name":"Borsodbota",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

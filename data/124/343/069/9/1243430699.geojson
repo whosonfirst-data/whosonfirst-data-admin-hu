@@ -25,8 +25,50 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:epo_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u06cc\u0644\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:hrv_x_preferred":[
+        "Tilo\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:ita_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:msa_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:nld_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:ron_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:slk_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:slv_x_preferred":[
+        "\u0150rtilos"
+    ],
     "name:und_x_variant":[
         "\u0150rtilos"
+    ],
+    "name:vie_x_preferred":[
+        "\u0150rtilos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5384\u5c14\u8482\u6d1b\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1243430699,
-    "wof:lastmodified":1537626220,
+    "wof:lastmodified":1564161145,
     "wof:name":"Ortilos",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

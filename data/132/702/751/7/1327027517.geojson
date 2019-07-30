@@ -25,6 +25,18 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Varas"
+    ],
+    "name:deu_x_preferred":[
+        "Varas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Varas"
+    ],
     "name:und_x_variant":[
         "Varash\u00e1t"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1327027517,
-    "wof:lastmodified":1537626164,
+    "wof:lastmodified":1564159901,
     "wof:name":"Varas",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",
