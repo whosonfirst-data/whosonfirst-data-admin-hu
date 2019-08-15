@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KE"
+    ],
     "lbl:latitude":47.600738,
     "lbl:longitude":18.349163,
     "mps:latitude":47.600738,
@@ -363,7 +366,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236111,
+    "wof:lastmodified":1565714758,
     "wof:name":"Kom\u00e1rom-Esztergom",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

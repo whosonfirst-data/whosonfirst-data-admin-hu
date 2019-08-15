@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":46.74515,
     "lbl:longitude":20.999402,
     "mps:latitude":46.74515,
@@ -341,7 +344,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236103,
+    "wof:lastmodified":1565714757,
     "wof:name":"B\u00e9k\u00e9s",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JN"
+    ],
     "lbl:latitude":47.177442,
     "lbl:longitude":20.488031,
     "mps:latitude":47.177442,
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236107,
+    "wof:lastmodified":1565714758,
     "wof:name":"J\u00e1sz-Nagykun-Szolnok",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

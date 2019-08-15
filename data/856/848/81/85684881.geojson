@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "capital city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":47.489899,
     "lbl:longitude":19.107708,
     "mps:latitude":47.489899,
@@ -739,7 +742,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236107,
+    "wof:lastmodified":1565714757,
     "wof:name":"Budapest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

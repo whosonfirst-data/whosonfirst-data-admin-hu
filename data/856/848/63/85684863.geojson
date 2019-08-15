@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":47.181789,
     "lbl:longitude":16.749676,
     "mps:latitude":47.181789,
@@ -355,7 +358,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236109,
+    "wof:lastmodified":1565714758,
     "wof:name":"Vas",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

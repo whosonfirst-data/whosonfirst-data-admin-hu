@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VE"
+    ],
     "lbl:latitude":47.112462,
     "lbl:longitude":17.518474,
     "mps:latitude":47.112462,
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236112,
+    "wof:lastmodified":1565714758,
     "wof:name":"Veszpr\u00e9m",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

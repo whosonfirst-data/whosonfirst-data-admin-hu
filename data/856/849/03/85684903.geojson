@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HB"
+    ],
     "lbl:latitude":47.436399,
     "lbl:longitude":21.467364,
     "mps:latitude":47.436399,
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236113,
+    "wof:lastmodified":1565714758,
     "wof:name":"Hajd\u00fa-Bihar",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":46.479579,
     "lbl:longitude":17.563426,
     "mps:latitude":46.479579,
@@ -359,7 +362,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236103,
+    "wof:lastmodified":1565714757,
     "wof:name":"Somogy",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

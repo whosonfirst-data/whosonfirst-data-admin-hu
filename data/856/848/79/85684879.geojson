@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FE"
+    ],
     "lbl:latitude":47.146464,
     "lbl:longitude":18.54601,
     "mps:latitude":47.146464,
@@ -368,7 +371,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236110,
+    "wof:lastmodified":1565714758,
     "wof:name":"Fej\u00e9r",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

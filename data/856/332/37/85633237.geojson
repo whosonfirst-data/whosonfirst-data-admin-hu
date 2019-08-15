@@ -14,6 +14,9 @@
     "itu:country_code":[
         "36"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HU"
+    ],
     "lbl:latitude":47.086857,
     "lbl:longitude":19.447899,
     "mps:latitude":47.086857,
@@ -1149,16 +1152,13 @@
         }
     ],
     "wof:id":85633237,
-    "wof:lang":[
-        "hun"
-    ],
     "wof:lang_x_official":[
         "hun"
     ],
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236101,
+    "wof:lastmodified":1565714757,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

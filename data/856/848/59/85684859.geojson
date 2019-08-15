@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "lbl:latitude":46.600499,
     "lbl:longitude":19.379514,
     "mps:latitude":46.600499,
@@ -361,7 +364,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236102,
+    "wof:lastmodified":1565714757,
     "wof:name":"B\u00e1cs-Kiskun",
     "wof:parent_id":404227487,
     "wof:placetype":"region",
@@ -370,6 +373,7 @@
     "wof:population":408920,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-hu",
+    "wof:shortcode":"BK",
     "wof:subdivision":"HU-BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],

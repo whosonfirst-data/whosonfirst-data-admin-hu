@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":46.478797,
     "lbl:longitude":18.572348,
     "mps:latitude":46.478797,
@@ -350,7 +353,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236110,
+    "wof:lastmodified":1565714758,
     "wof:name":"Tolna",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

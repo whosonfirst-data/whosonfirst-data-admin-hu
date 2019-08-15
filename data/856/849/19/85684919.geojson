@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BZ"
+    ],
     "lbl:latitude":48.220611,
     "lbl:longitude":20.814273,
     "mps:latitude":48.220611,
@@ -359,7 +362,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236113,
+    "wof:lastmodified":1565714759,
     "wof:name":"Borsod-Aba\u00faj-Zempl\u00e9n",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SZ"
+    ],
     "lbl:latitude":47.988395,
     "lbl:longitude":22.081483,
     "mps:latitude":47.988395,
@@ -371,7 +374,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236115,
+    "wof:lastmodified":1565714759,
     "wof:name":"Szabolcs-Szatm\u00e1r-Bereg",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

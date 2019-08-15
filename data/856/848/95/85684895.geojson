@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GS"
+    ],
     "lbl:latitude":47.644541,
     "lbl:longitude":17.279963,
     "mps:latitude":47.644541,
@@ -366,7 +369,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236102,
+    "wof:lastmodified":1565714757,
     "wof:name":"Gyor-Moson-Sopron",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

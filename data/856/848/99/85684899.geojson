@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PT"
+    ],
     "lbl:latitude":47.359059,
     "lbl:longitude":19.526869,
     "mps:latitude":47.359059,
@@ -344,7 +347,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236108,
+    "wof:lastmodified":1565714758,
     "wof:name":"Pest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

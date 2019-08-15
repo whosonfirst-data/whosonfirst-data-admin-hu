@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HE"
+    ],
     "lbl:latitude":47.831909,
     "lbl:longitude":20.184616,
     "mps:latitude":47.831909,
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236114,
+    "wof:lastmodified":1565714759,
     "wof:name":"Heves",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

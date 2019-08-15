@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":46.428605,
     "lbl:longitude":20.245636,
     "mps:latitude":46.428605,
@@ -338,7 +341,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563236109,
+    "wof:lastmodified":1565714758,
     "wof:name":"Csongr\u00e1d",
     "wof:parent_id":404227487,
     "wof:placetype":"region",
