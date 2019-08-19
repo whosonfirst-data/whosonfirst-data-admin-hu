@@ -51,7 +51,8 @@
     ],
     "name:hun_x_variant":[
         "J\u00f3zsefv\u00e1ros",
-        "Jozsefvaros"
+        "Jozsefvaros",
+        "VIII. ker\u00fclet"
     ],
     "name:ind_x_preferred":[
         "J\u00f3zsefv\u00e1ros"
@@ -97,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":668,
     "wof:belongsto":[
         102191581,
@@ -130,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236080,
+    "wof:lastmodified":1566247547,
     "wof:name":"Jozsefvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

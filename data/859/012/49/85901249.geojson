@@ -132,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -169,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236068,
+    "wof:lastmodified":1566247545,
     "wof:name":"Pestl\u0151rinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

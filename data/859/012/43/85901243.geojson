@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003986,
-    "geom:area_square_m":33265105.283446,
+    "geom:area_square_m":33265105.283442,
     "geom:bbox":"18.9057104492,47.5127652377,19.0026147461,47.5772605732",
     "geom:latitude":47.546954,
     "geom:longitude":18.952007,
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -97,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497313690,
+    "wof:lastmodified":1566247545,
     "wof:name":"Pesthidegkut",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

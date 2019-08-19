@@ -54,7 +54,8 @@
         "Budapest X. ker\u00fclete"
     ],
     "name:hun_x_variant":[
-        "K\u0151b\u00e1nya"
+        "K\u0151b\u00e1nya",
+        "X. ker\u00fclet"
     ],
     "name:ita_x_preferred":[
         "K\u0151b\u00e1nya"
@@ -114,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":981,
     "wof:belongsto":[
         102191581,
@@ -148,7 +149,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236086,
+    "wof:lastmodified":1566247545,
     "wof:name":"Kobanya",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

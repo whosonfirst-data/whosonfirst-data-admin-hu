@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":9404459.47104,
+    "geom:area_square_m":9404459.471041,
     "geom:bbox":"18.9736259732,47.4589395458,19.0200805664,47.5001311862",
     "geom:latitude":47.48012,
     "geom:longitude":18.999171,
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -96,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497313225,
+    "wof:lastmodified":1566247545,
     "wof:name":"Martonhegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

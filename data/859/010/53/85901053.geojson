@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001295,
-    "geom:area_square_m":10821232.064389,
+    "geom:area_square_m":10821232.064391,
     "geom:bbox":"18.9345495606,47.4782316057,18.9966150821,47.5233363041",
     "geom:latitude":47.499268,
     "geom:longitude":18.965353,
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497313688,
+    "wof:lastmodified":1566247544,
     "wof:name":"Auwinkel",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

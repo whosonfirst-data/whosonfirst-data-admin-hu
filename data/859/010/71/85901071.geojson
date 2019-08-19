@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001215,
-    "geom:area_square_m":10163807.792341,
+    "geom:area_square_m":10163807.792343,
     "geom:bbox":"19.0543663625,47.3939263332,19.1134643555,47.4340052102",
     "geom:latitude":47.41422,
     "geom:longitude":19.08044,
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -89,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497313878,
+    "wof:lastmodified":1566247544,
     "wof:name":"Chepel",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
