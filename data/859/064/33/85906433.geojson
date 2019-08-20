@@ -68,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":383,
     "wof:belongsto":[
         85633237,
@@ -96,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236079,
+    "wof:lastmodified":1566247547,
     "wof:name":"Ujpalota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

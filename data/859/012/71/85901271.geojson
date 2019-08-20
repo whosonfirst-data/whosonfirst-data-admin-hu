@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00119,
-    "geom:area_square_m":9929284.604084,
+    "geom:area_square_m":9929284.604081,
     "geom:bbox":"19.0210668946,47.5615187473,19.0777587891,47.5957891496",
     "geom:latitude":47.578251,
     "geom:longitude":19.050347,
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -97,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497313691,
+    "wof:lastmodified":1566247546,
     "wof:name":"Romaifurdo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

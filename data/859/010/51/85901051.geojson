@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001235,
-    "geom:area_square_m":10304349.695432,
+    "geom:area_square_m":10304349.695431,
     "geom:bbox":"19.1848754883,47.5285740299,19.2443139649,47.5624329913",
     "geom:latitude":47.544231,
     "geom:longitude":19.216583,
@@ -54,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -83,7 +83,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527269215,
+    "wof:lastmodified":1566247569,
     "wof:name":"Arpadfold",
     "wof:parent_id":101754545,
     "wof:placetype":"neighbourhood",

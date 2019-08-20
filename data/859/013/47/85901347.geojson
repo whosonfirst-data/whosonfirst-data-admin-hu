@@ -51,7 +51,8 @@
         "Budapest XIV. ker\u00fclete"
     ],
     "name:hun_x_variant":[
-        "Zugl\u00f3"
+        "Zugl\u00f3",
+        "XIV. ker\u00fclet"
     ],
     "name:ita_x_preferred":[
         "Zugl\u00f3"
@@ -116,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":434,
     "wof:belongsto":[
         102191581,
@@ -150,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236073,
+    "wof:lastmodified":1566247546,
     "wof:name":"Zugl\u00f3",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

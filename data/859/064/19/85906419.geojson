@@ -52,7 +52,8 @@
     ],
     "name:hun_x_variant":[
         "Ter\u00e9zv\u00e1ros",
-        "Terezvaros"
+        "Terezvaros",
+        "VI. ker\u00fclet"
     ],
     "name:ita_x_preferred":[
         "Ter\u00e9zv\u00e1ros"
@@ -112,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":178,
     "wof:belongsto":[
         102191581,
@@ -145,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236080,
+    "wof:lastmodified":1566247546,
     "wof:name":"Ter\u00e9zv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

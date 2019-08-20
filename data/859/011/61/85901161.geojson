@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00104,
-    "geom:area_square_m":8694133.877035,
+    "geom:area_square_m":8694133.877034,
     "geom:bbox":"19.1134643555,47.4416948069,19.16015625,47.4745192018",
     "geom:latitude":47.458712,
     "geom:longitude":19.137025,
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -87,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527269183,
+    "wof:lastmodified":1566247545,
     "wof:name":"Klein-Pest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

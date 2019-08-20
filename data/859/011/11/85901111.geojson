@@ -62,7 +62,8 @@
     ],
     "name:hun_x_variant":[
         "Ferencvaros",
-        "Ferencv\u00e1ros"
+        "Ferencv\u00e1ros",
+        "IX. ker\u00fclet"
     ],
     "name:ind_x_preferred":[
         "Ferencv\u00e1ros"
@@ -136,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2269,
     "wof:belongsto":[
         102191581,
@@ -168,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236084,
+    "wof:lastmodified":1566247544,
     "wof:name":"Ferencvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

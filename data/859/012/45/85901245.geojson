@@ -247,7 +247,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":47.5,
     "wd:longitude":19.1,
     "wd:wordcount":330,
@@ -283,7 +283,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236063,
+    "wof:lastmodified":1566247545,
     "wof:name":"Pestj",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

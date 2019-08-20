@@ -25,14 +25,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:deu_x_variant":[
+        "Auwinkel"
+    ],
     "name:epo_x_preferred":[
         "Monto J\u00e1nos"
     ],
     "name:fra_x_preferred":[
         "J\u00e1nos-hegy"
-    ],
-    "name:ger_x_variant":[
-        "Auwinkel"
     ],
     "name:hun_x_preferred":[
         "Zugliget"
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -112,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1566247546,
     "wof:name":"Zugliget",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

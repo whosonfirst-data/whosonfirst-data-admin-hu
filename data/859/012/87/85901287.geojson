@@ -51,7 +51,8 @@
         "Budapest XXIII. ker\u00fclete"
     ],
     "name:hun_x_variant":[
-        "Soroks\u00e1r"
+        "Soroks\u00e1r",
+        "XXIII. ker\u00fclet"
     ],
     "name:ita_x_preferred":[
         "Soroks\u00e1r"
@@ -107,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":28,
     "wof:belongsto":[
         85633237,
@@ -134,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236063,
+    "wof:lastmodified":1566247523,
     "wof:name":"Soroksar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

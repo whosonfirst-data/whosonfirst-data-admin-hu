@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000591,
-    "geom:area_square_m":4933860.491266,
+    "geom:area_square_m":4933860.491265,
     "geom:bbox":"19.0859985352,47.4854748251,19.1198740545,47.5149710288",
     "geom:latitude":47.499585,
     "geom:longitude":19.103588,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -86,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527268911,
+    "wof:lastmodified":1566247547,
     "wof:name":"Istvanmezo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

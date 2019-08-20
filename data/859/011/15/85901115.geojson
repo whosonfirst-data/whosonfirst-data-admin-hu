@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":247,
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527269184,
+    "wof:lastmodified":1566247544,
     "wof:name":"Gellert",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

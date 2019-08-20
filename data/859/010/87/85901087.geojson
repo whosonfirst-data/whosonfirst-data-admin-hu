@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000862,
-    "geom:area_square_m":7201958.116183,
+    "geom:area_square_m":7201958.116185,
     "geom:bbox":"19.1876220703,47.4645193329,19.2315673828,47.4931726833",
     "geom:latitude":47.480235,
     "geom:longitude":19.209356,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -86,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1527269215,
+    "wof:lastmodified":1566247544,
     "wof:name":"Erzsebet-Telep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

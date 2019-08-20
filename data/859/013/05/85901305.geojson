@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":47.491667,
     "wd:longitude":19.038611,
     "wd:wordcount":535,
@@ -99,7 +99,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236070,
+    "wof:lastmodified":1566247546,
     "wof:name":"Tab\u00e1n",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

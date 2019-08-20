@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000981,
-    "geom:area_square_m":8199222.994421,
+    "geom:area_square_m":8199222.994422,
     "geom:bbox":"19.1776225279,47.4278577964,19.2223413086,47.4653130539",
     "geom:latitude":47.450329,
     "geom:longitude":19.201788,
@@ -27,9 +27,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:hun_x_preferred":[
-        "Szemere-Telep"
-    ],
-    "name:hun_x_variant":[
         "Szemere-Telep"
     ],
     "name:unk_x_variant":[
@@ -62,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -93,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1497312545,
+    "wof:lastmodified":1566247546,
     "wof:name":"Szemeretelep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

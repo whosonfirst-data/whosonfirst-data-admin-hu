@@ -147,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":737,
     "wof:belongsto":[
         102191581,
@@ -180,7 +180,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236085,
+    "wof:lastmodified":1566247544,
     "wof:name":"Gellerthegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
