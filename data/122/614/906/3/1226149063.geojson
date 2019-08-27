@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.41333,48.29667,21.45333,48.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Erd\u0151horv\u00e1ti"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Erd\u0151horv\u00e1ti"
     ],
-    "name:und_x_variant":[
-        "Erd\u0151horv\u00e1ti"
-    ],
     "name:vie_x_preferred":[
         "Erd\u0151horv\u00e1ti"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226149063,
-    "wof:lastmodified":1564161338,
+    "wof:lastmodified":1566650777,
     "wof:name":"Erdohorvati",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

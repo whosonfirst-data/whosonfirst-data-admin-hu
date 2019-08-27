@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.600994,
     "lbl:longitude":20.44074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.600994,
     "mps:longitude":20.44074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00f6ml\u0151"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":718630,
         "gp:id":810286,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q640731"
     },
     "wof:country":"HU",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101785981,
-    "wof:lastmodified":1563237152,
+    "wof:lastmodified":1566650251,
     "wof:name":"K\u00f6ml\u0151",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

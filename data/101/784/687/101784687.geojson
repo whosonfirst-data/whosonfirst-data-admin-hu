@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.824141,
     "lbl:longitude":20.055927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.824141,
     "mps:longitude":20.055927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Markaz"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"1163c730-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717818,
         "gp:id":811612,
-        "qs:id":477790,
         "qs_pg:id":477790,
         "wd:id":"Q1165484",
         "wk:page":"Markaz, Hungary"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751566,
+    "wof:lastmodified":1566650287,
     "wof:name":"Markaz",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

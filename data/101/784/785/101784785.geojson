@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.805174,
     "lbl:longitude":21.756711,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.805174,
     "mps:longitude":21.756711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u00c9rpatak"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"1162efa4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721100,
         "gp:id":805968,
-        "qs:id":917542,
+        "qs_pg:id":917542,
         "wd:id":"Q1185173",
         "wk:page":"\u00c9rpatak"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237270,
+    "wof:lastmodified":1566650290,
     "wof:name":"\u00c9rpatak",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

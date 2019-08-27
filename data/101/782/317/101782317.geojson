@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.250089,
     "lbl:longitude":22.222881,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.250089,
     "mps:longitude":22.222881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u00dajken\u00e9z"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"1164e57a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714455,
         "gp:id":817020,
-        "qs:id":1270725,
+        "qs_pg:id":1270725,
         "wd:id":"Q643006",
         "wk:page":"\u00dajken\u00e9z"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237192,
+    "wof:lastmodified":1566650264,
     "wof:name":"\u00dajken\u00e9z",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

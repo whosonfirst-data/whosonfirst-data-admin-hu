@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.78262,47.33925,16.82262,47.37925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "G\u00f3r"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "G\u00f3r"
     ],
-    "name:und_x_variant":[
-        "G\u00f3r"
-    ],
     "name:vie_x_preferred":[
         "G\u00f3r"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1310669635,
-    "wof:lastmodified":1564160822,
+    "wof:lastmodified":1566650092,
     "wof:name":"Gor",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

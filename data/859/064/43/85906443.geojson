@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.491204,
     "lbl:longitude":19.081506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.492153,
     "mps:longitude":19.08463,
     "mz:hierarchy_label":1,
@@ -111,7 +112,6 @@
     "wof:concordances":{
         "gn:id":7284826,
         "gp:id":22723962,
-        "qs:id":224738,
         "qs_pg:id":224738,
         "wd:id":"Q597182"
     },
@@ -131,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566649578,
     "wof:name":"Jozsefvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

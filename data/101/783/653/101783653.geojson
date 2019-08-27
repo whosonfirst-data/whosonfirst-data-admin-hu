@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.103737,
     "lbl:longitude":20.859999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.103737,
     "mps:longitude":20.859999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fels\u0151zsolca"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":703,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":720857,
         "gp:id":806537,
-        "qs:id":275630,
         "qs_pg:id":275630,
         "wd:id":"Q368429",
         "wk:page":"Fels\u0151zsolca"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101783653,
-    "wof:lastmodified":1563237241,
+    "wof:lastmodified":1566650280,
     "wof:name":"Fels\u0151zsolca",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

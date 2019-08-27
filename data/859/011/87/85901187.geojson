@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18304515.372525,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.361424,47.596499,19.361424,47.596499",
     "geom:latitude":47.596499,
     "geom:longitude":19.361424,
     "gn:latitude":47.6,
     "gn:longitude":19.36667,
     "iso:country":"HU",
+    "lbl:bbox":"19.356424,47.591499,19.366424,47.601499",
     "lbl:latitude":47.596499,
     "lbl:longitude":19.361424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.591495,
     "mps:longitude":19.364612,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Kozpontimajor"
     ],
     "name:hun_x_preferred":[
-        "K\u00f6zpontimajor"
-    ],
-    "name:unk_x_variant":[
         "K\u00f6zpontimajor"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101845021
+        101845021,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3049201,
         "gp:id":810629,
-        "qs:id":313033,
         "qs_pg:id":313033
     },
     "wof:country":"HU",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932452,
+    "wof:lastmodified":1566649582,
     "wof:name":"K\u00f6zpontimajor",
     "wof:parent_id":101845021,
     "wof:placetype":"neighbourhood",

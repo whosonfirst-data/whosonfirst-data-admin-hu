@@ -11,12 +11,16 @@
     "geom:longitude":19.080054,
     "gn:population":2506,
     "iso:country":"HU",
+    "lbl:bbox":"19.060054,47.234391,19.100054,47.274391",
     "lbl:latitude":47.254391,
     "lbl:longitude":19.080054,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.254391,
     "mps:longitude":19.080054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u00e9legyh\u00e1za"
     ],
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -102,7 +106,6 @@
         "fct:id":"1162cc5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053760,
         "gp:id":805342,
-        "qs:id":145197,
         "qs_pg:id":145197,
         "wd:id":"Q986788",
         "wk:page":"D\u00e9legyh\u00e1za"
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237045,
+    "wof:lastmodified":1566650216,
     "wof:name":"D\u00e9legyh\u00e1za",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

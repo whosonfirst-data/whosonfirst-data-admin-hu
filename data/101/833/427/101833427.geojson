@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.217735,
     "lbl:longitude":20.704995,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.217735,
     "mps:longitude":20.704995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Saj\u00f3szentp\u00e9ter"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":278,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "fct:id":"1164688e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715945,
         "gp:id":814623,
-        "qs:id":42360,
         "qs_pg:id":42360,
         "wd:id":"Q855086",
         "wk:page":"Saj\u00f3szentp\u00e9ter"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237077,
+    "wof:lastmodified":1566650227,
     "wof:name":"Saj\u00f3szentp\u00e9ter",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

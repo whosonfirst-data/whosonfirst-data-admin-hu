@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.819451,
     "lbl:longitude":19.98902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.819451,
     "mps:longitude":19.98902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tiszaalp\u00e1r"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -106,10 +109,12 @@
     "wof:concordances":{
         "gn:id":3338787,
         "gp:id":816601,
-        "qs:id":215469,
         "qs_pg:id":95378,
         "wd:id":"Q914786",
         "wk:page":"Tiszaalp\u00e1r"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":215469
     },
     "wof:country":"HU",
     "wof:geomhash":"d91a363ef391329cf5b961c237cd401e",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101789255,
-    "wof:lastmodified":1563237587,
+    "wof:lastmodified":1566650391,
     "wof:name":"Tiszaalp\u00e1r",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

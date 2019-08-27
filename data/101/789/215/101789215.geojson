@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.72026,
     "lbl:longitude":17.011769,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.72026,
     "mps:longitude":17.011769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Pa\u00e7a"
     ],
@@ -84,9 +87,6 @@
     "name:swe_x_preferred":[
         "Pacsa"
     ],
-    "name:unk_x_variant":[
-        "Pacsat\u00fctt\u00f6s"
-    ],
     "name:vie_x_preferred":[
         "Pacsa"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -126,7 +126,6 @@
         "fct:id":"11642a2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046800,
         "gp:id":813366,
-        "qs:id":1218881,
         "qs_pg:id":1218881,
         "wd:id":"Q519596",
         "wk:page":"Pacsa"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237569,
+    "wof:lastmodified":1566650384,
     "wof:name":"Pacsa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.602594,
     "lbl:longitude":19.598332,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.602594,
     "mps:longitude":19.598332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tura"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":725,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "fct:id":"1164e142-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043678,
         "gp:id":816856,
-        "qs:id":242650,
         "qs_pg:id":242650,
         "wd:id":"Q1064032",
         "wk:page":"Tura, Hungary"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237107,
+    "wof:lastmodified":1566650237,
     "wof:name":"Tura",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

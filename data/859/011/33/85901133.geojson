@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13863775.093635,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.845874,46.837543,16.845874,46.837543",
     "geom:latitude":46.837543,
     "geom:longitude":16.845874,
     "gn:latitude":46.85,
     "gn:longitude":16.83333,
     "iso:country":"HU",
+    "lbl:bbox":"16.840874,46.832543,16.850874,46.842543",
     "lbl:latitude":46.837543,
     "lbl:longitude":16.845874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.841143,
     "mps:longitude":16.832623,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Kaszahaza"
     ],
     "name:hun_x_preferred":[
-        "Kaszah\u00e1za"
-    ],
-    "name:unk_x_variant":[
         "Kaszah\u00e1za"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684849,
         102191581,
         85633237,
         404227481,
-        101751673
+        101751673,
+        85684849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3050507,
         "gp:id":809086,
-        "qs:id":1167198,
         "qs_pg:id":1167198
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932440,
+    "wof:lastmodified":1566649581,
     "wof:name":"Kaszah\u00e1za",
     "wof:parent_id":101751673,
     "wof:placetype":"neighbourhood",

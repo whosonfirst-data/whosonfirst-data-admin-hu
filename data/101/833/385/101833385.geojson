@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.283408,
     "lbl:longitude":21.772492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.283408,
     "mps:longitude":21.772492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Eszt\u00e1r"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"1162f10c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721079,
         "gp:id":806017,
-        "qs:id":998214,
+        "qs_pg:id":998214,
         "wd:id":"Q991905",
         "wk:page":"Eszt\u00e1r"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751551,
+    "wof:lastmodified":1566650224,
     "wof:name":"Eszt\u00e1r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.866462,
     "lbl:longitude":22.174652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.866462,
     "mps:longitude":22.174652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ny\u00edrcs\u00e1sz\u00e1ri"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
         "fct:id":"116410d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716939,
         "gp:id":812894,
-        "qs:id":1270215,
+        "qs_pg:id":1270215,
         "wd:id":"Q1072213"
     },
     "wof:country":"HU",
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237196,
+    "wof:lastmodified":1566650265,
     "wof:name":"Ny\u00edrcs\u00e1sz\u00e1ri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

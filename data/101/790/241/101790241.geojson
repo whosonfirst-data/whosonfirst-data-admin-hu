@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.508811,
     "lbl:longitude":18.294526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.508811,
     "mps:longitude":18.294526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Gyulaj"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"116325aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051944,
         "gp:id":807458,
-        "qs:id":1269602,
+        "qs_pg:id":1269602,
         "wd:id":"Q389896",
         "wk:page":"Gyulaj"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236892,
+    "wof:lastmodified":1566650168,
     "wof:name":"Gyulaj",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

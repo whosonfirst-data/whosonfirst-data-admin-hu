@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15252542.908335,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.727904,47.719586,18.727904,47.719586",
     "geom:latitude":47.719586,
     "geom:longitude":18.727904,
     "gn:latitude":47.71667,
     "gn:longitude":18.73333,
     "iso:country":"HU",
+    "lbl:bbox":"18.722904,47.714586,18.732904,47.724586",
     "lbl:latitude":47.719586,
     "lbl:longitude":18.727904,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.712523,
     "mps:longitude":18.732122,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Tomedekakna"
     ],
     "name:hun_x_preferred":[
-        "T\u00f6med\u00e9kakna"
-    ],
-    "name:unk_x_variant":[
         "T\u00f6med\u00e9kakna"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684885,
         102191581,
         85633237,
         404227479,
-        101785795
+        101785795,
+        85684885
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3043829,
         "gp:id":816676,
-        "qs:id":1167261,
         "qs_pg:id":1167261
     },
     "wof:country":"HU",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932472,
+    "wof:lastmodified":1566649573,
     "wof:name":"T\u00f6med\u00e9kakna",
     "wof:parent_id":101785795,
     "wof:placetype":"neighbourhood",

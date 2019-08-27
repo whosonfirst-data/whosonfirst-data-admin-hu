@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.78305,46.10756,17.82305,46.14756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szulim\u00e1n"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Szulim\u00e1n"
     ],
-    "name:und_x_variant":[
-        "Szulim\u00e1n"
-    ],
     "name:vie_x_preferred":[
         "Szulim\u00e1n"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1243277061,
-    "wof:lastmodified":1564161127,
+    "wof:lastmodified":1566650617,
     "wof:name":"Szuliman",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

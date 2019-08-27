@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.304114,
     "lbl:longitude":16.928837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.304114,
     "mps:longitude":16.928837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "R\u00e1bapaty"
     ],
@@ -63,9 +66,6 @@
     "name:slv_x_preferred":[
         "R\u00e1bapaty"
     ],
-    "name:unk_x_variant":[
-        "Als\u00f3paty"
-    ],
     "name:vie_x_preferred":[
         "R\u00e1bapaty"
     ],
@@ -86,7 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,7 @@
         "fct:id":"116452ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046055,
         "gp:id":814152,
-        "qs:id":183871,
+        "qs_pg:id":183871,
         "wd:id":"Q261804",
         "wk:page":"R\u00e1bapaty"
     },
@@ -118,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237355,
+    "wof:lastmodified":1566650314,
     "wof:name":"R\u00e1bapaty",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

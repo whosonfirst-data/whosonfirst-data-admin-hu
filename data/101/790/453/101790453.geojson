@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.27069,
     "lbl:longitude":20.340995,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.27069,
     "mps:longitude":20.340995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043e\u0441\u043b\u0435\u043b\u0435"
     ],
@@ -72,9 +75,6 @@
     "name:swe_x_preferred":[
         "Maroslele"
     ],
-    "name:unk_x_variant":[
-        "P\u00fcsp\u00f6klele"
-    ],
     "name:vie_x_preferred":[
         "Maroslele"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":780,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"1163c960-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717805,
         "gp:id":811641,
-        "qs:id":1028673,
         "qs_pg:id":1028673,
         "wd:id":"Q1165687",
         "wk:page":"Maroslele"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236862,
+    "wof:lastmodified":1566650158,
     "wof:name":"Maroslele",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

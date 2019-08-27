@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13695456.996979,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.151672,46.711751,20.151672,46.711751",
     "geom:latitude":46.711751,
     "geom:longitude":20.151672,
     "gn:latitude":46.71667,
     "gn:longitude":20.15,
     "iso:country":"HU",
+    "lbl:bbox":"20.146672,46.706751,20.156672,46.716751",
     "lbl:latitude":46.711751,
     "lbl:longitude":20.151672,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.709254,
     "mps:longitude":20.150762,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Kisret"
     ],
     "name:hun_x_preferred":[
-        "Kisr\u00e9t"
-    ],
-    "name:unk_x_variant":[
         "Kisr\u00e9t"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101789219
+        101789219,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":718836,
         "gp:id":809953,
-        "qs:id":983544,
         "qs_pg:id":983544
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932444,
+    "wof:lastmodified":1566649584,
     "wof:name":"Kisr\u00e9t",
     "wof:parent_id":101789219,
     "wof:placetype":"neighbourhood",

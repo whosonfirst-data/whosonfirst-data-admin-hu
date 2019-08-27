@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.760422,
     "lbl:longitude":20.245581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.760422,
     "mps:longitude":20.245581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K\u00e1polna"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -94,7 +97,7 @@
         "fct:id":"11636038-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":719440,
         "gp:id":808919,
-        "qs:id":219017,
+        "qs_pg:id":219017,
         "wd:id":"Q512050"
     },
     "wof:country":"HU",
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237085,
+    "wof:lastmodified":1566650229,
     "wof:name":"K\u00e1polna",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

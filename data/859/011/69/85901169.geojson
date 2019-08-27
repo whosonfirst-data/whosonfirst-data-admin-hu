@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18383881.538384,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.246338,46.764122,17.246338,46.764122",
     "geom:latitude":46.764122,
     "geom:longitude":17.246338,
     "gn:latitude":46.76667,
     "gn:longitude":17.25,
     "iso:country":"HU",
+    "lbl:bbox":"17.241338,46.759122,17.251338,46.769122",
     "lbl:latitude":46.764122,
     "lbl:longitude":17.246338,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.766203,
     "mps:longitude":17.243788,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Kofejto"
     ],
     "name:hun_x_preferred":[
-        "K\u0151fejt\u0151"
-    ],
-    "name:unk_x_variant":[
         "K\u0151fejt\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684849,
         102191581,
         85633237,
         404227481,
-        101834413
+        101834413,
+        85684849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3049610,
         "gp:id":810191,
-        "qs:id":1167206,
         "qs_pg:id":1167206
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932447,
+    "wof:lastmodified":1566649580,
     "wof:name":"K\u0151fejt\u0151",
     "wof:parent_id":101834413,
     "wof:placetype":"neighbourhood",

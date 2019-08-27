@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.116942,
     "lbl:longitude":19.659263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.116942,
     "mps:longitude":19.659263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Karancss\u00e1g"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"11636574-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050571,
         "gp:id":808997,
-        "qs:id":1269761,
+        "qs_pg:id":1269761,
         "wd:id":"Q261861"
     },
     "wof:country":"HU",
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237054,
+    "wof:lastmodified":1566650219,
     "wof:name":"Karancss\u00e1g",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

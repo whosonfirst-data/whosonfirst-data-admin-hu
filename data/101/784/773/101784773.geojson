@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.856193,
     "lbl:longitude":19.693855,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.856193,
     "mps:longitude":19.693855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Szurdokp\u00fcsp\u00f6ki"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,6 @@
         "fct:id":"1164b488-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044227,
         "gp:id":816137,
-        "qs:id":42361,
         "qs_pg:id":42361,
         "wd:id":"Q1186325"
     },
@@ -117,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237294,
+    "wof:lastmodified":1566650298,
     "wof:name":"Szurdokp\u00fcsp\u00f6ki",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

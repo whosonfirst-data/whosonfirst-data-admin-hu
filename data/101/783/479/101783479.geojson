@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.070315,
     "lbl:longitude":19.295148,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.070315,
     "mps:longitude":19.295148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Bala\u015f\u015fadyarmat"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u043b\u0430\u0448\u0448\u0430\u0434\u044c\u044f\u0440\u043c\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ipolysz\u00f6g"
     ],
     "name:vie_x_preferred":[
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":464,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
         "fct:id":"1162722c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055601,
         "gp:id":803213,
-        "qs:id":1218617,
         "qs_pg:id":1218617,
         "wd:id":"Q789233",
         "wk:page":"Balassagyarmat"
@@ -184,7 +186,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237207,
+    "wof:lastmodified":1566650269,
     "wof:name":"Balassagyarmat",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

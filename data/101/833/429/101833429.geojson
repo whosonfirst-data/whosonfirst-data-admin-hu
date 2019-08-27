@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.214217,
     "lbl:longitude":21.228444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.214217,
     "mps:longitude":21.228444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "R\u00e1tka"
     ],
@@ -93,7 +96,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
         "fct:id":"11645948-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716160,
         "gp:id":814288,
-        "qs:id":1270385,
+        "qs_pg:id":1270385,
         "wd:id":"Q387198",
         "wk:page":"R\u00e1tka"
     },
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237077,
+    "wof:lastmodified":1566650227,
     "wof:name":"R\u00e1tka",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

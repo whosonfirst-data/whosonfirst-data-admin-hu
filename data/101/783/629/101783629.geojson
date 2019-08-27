@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.182586,
     "lbl:longitude":20.103206,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.182586,
     "mps:longitude":20.103206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Domah\u00e1za"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         "fct:id":"1162d424-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721317,
         "gp:id":805555,
-        "qs:id":1269400,
+        "qs_pg:id":1269400,
         "wd:id":"Q536404",
         "wk:page":"Domah\u00e1za"
     },
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237208,
+    "wof:lastmodified":1566650269,
     "wof:name":"Domah\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

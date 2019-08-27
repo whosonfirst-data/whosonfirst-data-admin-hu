@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11612370.922456,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.93871,47.249668,16.93871,47.249668",
     "geom:latitude":47.249668,
     "geom:longitude":16.93871,
     "gn:latitude":47.25,
     "gn:longitude":16.93333,
     "iso:country":"HU",
+    "lbl:bbox":"16.93371,47.244668,16.94371,47.254668",
     "lbl:latitude":47.249668,
     "lbl:longitude":16.93871,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.251271,
     "mps:longitude":16.932563,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Sarsziget"
     ],
     "name:hun_x_preferred":[
-        "S\u00e1rsziget"
-    ],
-    "name:unk_x_variant":[
         "S\u00e1rsziget"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684863,
         102191581,
         85633237,
         404227481,
-        101788035
+        101788035,
+        85684863
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3045490,
         "gp:id":814784,
-        "qs:id":1083315,
         "qs_pg:id":1083315
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932465,
+    "wof:lastmodified":1566649567,
     "wof:name":"S\u00e1rsziget",
     "wof:parent_id":101788035,
     "wof:placetype":"neighbourhood",

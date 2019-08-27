@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":46.68042,
     "lbl:longitude":21.082999,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":46.68042,
     "mps:longitude":21.082999,
     "mz:hierarchy_label":1,
@@ -239,7 +241,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043a\u0435\u0448\u0447\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mez\u0151megyer"
     ],
     "name:urd_x_preferred":[
@@ -371,9 +373,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"194",
     "statoids:area_mi":"75",
     "statoids:as_of_date":"2011-10-01",
@@ -401,7 +403,6 @@
         "gp:id":803660,
         "hasc:id":"HU.BC",
         "iso:id":"HU-BC",
-        "qs:id":211551,
         "qs_pg:id":211551,
         "wd:id":"Q178878",
         "wk:page":"B\u00e9k\u00e9scsaba"
@@ -421,11 +422,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237319,
+    "wof:lastmodified":1566650302,
     "wof:name":"B\u00e9k\u00e9scsaba",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":62050,
     "wof:population_rank":8,

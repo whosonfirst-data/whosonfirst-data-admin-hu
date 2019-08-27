@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.645644,
     "lbl:longitude":21.282373,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.645644,
     "mps:longitude":21.282373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bar_x_preferred":[
         "Gyula"
     ],
@@ -150,7 +153,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044c\u044e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gyulav\u00e1ri"
     ],
     "name:vie_x_preferred":[
@@ -178,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":665,
     "wof:belongsto":[
@@ -192,7 +195,6 @@
         "fct:id":"116324f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720334,
         "gp:id":807445,
-        "qs:id":238611,
         "qs_pg:id":238611,
         "wd:id":"Q214938",
         "wk:page":"Gyula, Hungary"
@@ -212,7 +214,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236887,
+    "wof:lastmodified":1566650166,
     "wof:name":"Gyula",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

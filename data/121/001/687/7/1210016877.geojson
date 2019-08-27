@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.79667,48.53,20.83667,48.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "B\u00f3dvalenke"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "B\u00f3dvalenke"
     ],
-    "name:und_x_variant":[
-        "B\u00f3dvalenke"
-    ],
     "name:vie_x_preferred":[
         "B\u00f3dvalenke"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1210016877,
-    "wof:lastmodified":1564160620,
+    "wof:lastmodified":1566649933,
     "wof:name":"Bodvalenke",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

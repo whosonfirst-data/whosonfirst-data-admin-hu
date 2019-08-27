@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.40802,46.94492,16.44802,46.98492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "R\u00e1t\u00f3t"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "R\u00e1t\u00f3t"
     ],
-    "name:und_x_variant":[
-        "R\u00e1t\u00f3t"
-    ],
     "name:vie_x_preferred":[
         "R\u00e1t\u00f3t"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1277044305,
-    "wof:lastmodified":1564160395,
+    "wof:lastmodified":1566649772,
     "wof:name":"Ratot",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

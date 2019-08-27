@@ -14,10 +14,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.23582,
     "lbl:longitude":16.633795,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.231325,
     "mps:longitude":16.621026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0632\u0648\u0645\u0628\u0627\u062b\u0644\u064a"
     ],
@@ -255,7 +258,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043c\u0431\u0430\u0442\u0433\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olad"
     ],
     "name:urd_x_preferred":[
@@ -298,9 +301,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"98",
     "statoids:area_mi":"38",
     "statoids:as_of_date":"2011-10-01",
@@ -328,7 +331,6 @@
         "gp:id":816031,
         "hasc:id":"HU.SH",
         "iso:id":"HU-SH",
-        "qs:id":235309,
         "qs_pg:id":235309,
         "wd:id":"Q42007",
         "wk:page":"Szombathely"
@@ -348,11 +350,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237304,
+    "wof:lastmodified":1566650300,
     "wof:name":"Szombathely",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":78884,
     "wof:population_rank":8,

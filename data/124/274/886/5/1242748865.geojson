@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.41067,48.0339,19.45067,48.0739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Csit\u00e1r"
     ],
@@ -61,9 +65,6 @@
     "name:swe_x_preferred":[
         "Csit\u00e1r"
     ],
-    "name:und_x_variant":[
-        "Csit\u00e1r"
-    ],
     "name:vie_x_preferred":[
         "Csit\u00e1r"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1242748865,
-    "wof:lastmodified":1564161003,
+    "wof:lastmodified":1566650517,
     "wof:name":"Csitar",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

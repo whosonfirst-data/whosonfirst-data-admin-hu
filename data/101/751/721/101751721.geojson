@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":47.953171,
     "lbl:longitude":21.721436,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.953171,
     "mps:longitude":21.721436,
     "mz:hierarchy_label":1,
@@ -253,7 +255,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u0457\u0440\u0435\u0434\u044c\u0433\u0430\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ny\u00edrsz\u0151ll\u0151s"
     ],
     "name:urd_x_preferred":[
@@ -388,9 +390,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"275",
     "statoids:area_mi":"106",
     "statoids:as_of_date":"2011-10-01",
@@ -422,7 +424,6 @@
         "gp:id":812897,
         "hasc:id":"HU.NY",
         "iso:id":"HU-NY",
-        "qs:id":568679,
         "qs_pg:id":568679,
         "wd:id":"Q171223",
         "wk:page":"Ny\u00edregyh\u00e1za"
@@ -442,11 +443,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237324,
+    "wof:lastmodified":1566650303,
     "wof:name":"Ny\u00edregyh\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":118125,
     "wof:population_rank":9,

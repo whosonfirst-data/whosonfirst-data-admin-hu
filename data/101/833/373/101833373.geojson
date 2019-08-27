@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.353505,
     "lbl:longitude":19.542032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.353505,
     "mps:longitude":19.542032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "B\u00e9nye"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"11628ae6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055134,
         "gp:id":803779,
-        "qs:id":939425,
+        "qs_pg:id":939425,
         "wd:id":"Q854493",
         "wk:page":"B\u00e9nye"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237084,
+    "wof:lastmodified":1566650229,
     "wof:name":"B\u00e9nye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

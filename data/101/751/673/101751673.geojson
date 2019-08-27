@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":46.837936,
     "lbl:longitude":16.838053,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":46.837936,
     "mps:longitude":16.838053,
     "mz:hierarchy_label":1,
@@ -370,9 +372,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"102",
     "statoids:area_mi":"40",
     "statoids:as_of_date":"2011-10-01",
@@ -400,7 +402,6 @@
         "gp:id":818054,
         "hasc:id":"HU.ZE",
         "iso:id":"HU-ZE",
-        "qs:id":241075,
         "qs_pg:id":241075,
         "wd:id":"Q60037",
         "wk:page":"Zalaegerszeg"
@@ -420,11 +421,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237305,
+    "wof:lastmodified":1566650300,
     "wof:name":"Zalaegerszeg",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":59499,
     "wof:population_rank":8,

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.692233,
     "lbl:longitude":18.901651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.692233,
     "mps:longitude":18.901651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u043b\u0438\u0441\u0437\u0435\u043d\u0442\u043a\u0435\u0440\u0435\u0441\u0437\u0442"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Pilisszentkereszt"
     ],
-    "name:unk_x_variant":[
-        "Pilisszenkereszt"
-    ],
     "name:vie_x_preferred":[
         "Pilisszentkereszt"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":289,
     "wof:belongsto":[
@@ -116,7 +116,6 @@
         "fct:id":"11644192-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046343,
         "gp:id":813842,
-        "qs:id":491708,
         "qs_pg:id":491708,
         "wd:id":"Q1095184",
         "wk:page":"Pilisszentkereszt"
@@ -136,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237122,
+    "wof:lastmodified":1566650241,
     "wof:name":"Pilisszentkereszt",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

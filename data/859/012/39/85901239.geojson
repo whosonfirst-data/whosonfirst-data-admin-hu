@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6701273.798274,
+    "geom:area_square_m":0.0,
     "geom:bbox":"22.129517,47.838561,22.129517,47.838561",
     "geom:latitude":47.838561,
     "geom:longitude":22.129517,
     "gn:latitude":47.83333,
     "gn:longitude":22.13333,
     "iso:country":"HU",
+    "lbl:bbox":"22.124517,47.833561,22.134517,47.843561",
     "lbl:latitude":47.838561,
     "lbl:longitude":22.129517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.839772,
     "mps:longitude":22.128098,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
         "Peresfold"
     ],
     "name:hun_x_preferred":[
-        "Peresf\u00f6ld"
-    ],
-    "name:unk_x_variant":[
-        "Peres",
         "Peresf\u00f6ld"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -72,19 +70,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684915,
         102191581,
         85633237,
         404227483,
-        101783579
+        101783579,
+        85684915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":716472,
         "gp:id":813711,
-        "qs:id":910519,
         "qs_pg:id":910519
     },
     "wof:country":"HU",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932462,
+    "wof:lastmodified":1566649569,
     "wof:name":"Peresf\u00f6ld",
     "wof:parent_id":101783579,
     "wof:placetype":"neighbourhood",

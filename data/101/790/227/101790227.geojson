@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.192878,
     "lbl:longitude":18.720465,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.192878,
     "mps:longitude":18.720465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Batasek"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -128,7 +131,6 @@
         "fct:id":"1162824e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055298,
         "gp:id":803556,
-        "qs:id":218967,
         "qs_pg:id":218967,
         "wd:id":"Q853623",
         "wk:page":"B\u00e1tasz\u00e9k"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236840,
+    "wof:lastmodified":1566650151,
     "wof:name":"B\u00e1tasz\u00e9k",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

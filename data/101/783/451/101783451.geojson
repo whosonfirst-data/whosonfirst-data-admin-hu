@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.138914,
     "lbl:longitude":20.424924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.138914,
     "mps:longitude":20.424924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Nagyvisny\u00f3"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"11640010-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717058,
         "gp:id":812670,
-        "qs:id":1140278,
+        "qs_pg:id":1140278,
         "wd:id":"Q597377"
     },
     "wof:country":"HU",
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237239,
+    "wof:lastmodified":1566650280,
     "wof:name":"Nagyvisny\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"19.1381835938,47.4050788934,19.1968200626,47.4633788419",
     "geom:latitude":47.432717,
     "geom:longitude":19.168238,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPLX",
     "gn:latitude":47.42977,
     "gn:longitude":19.21592,
+    "gn:population":0,
     "iso:country":"HU",
     "lbl:latitude":47.441242,
     "lbl:longitude":19.170127,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.428783,
     "mps:longitude":19.165355,
     "mz:hierarchy_label":1,
@@ -75,9 +76,8 @@
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 XVIII \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
-        "Pestszentl\u0151rinc",
-        "Pestl\u0151rinc"
+    "name:und_x_variant":[
+        "Pestszentl\u0151rinc"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XVIII"
@@ -144,7 +144,6 @@
     "wof:concordances":{
         "gn:id":7284836,
         "gp:id":813754,
-        "qs:id":1083310,
         "qs_pg:id":671121,
         "wd:id":"Q11384977",
         "wk:page":"Pestszentl\u0151rinc-Pestszentimre"
@@ -169,7 +168,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247545,
+    "wof:lastmodified":1566649572,
     "wof:name":"Pestl\u0151rinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.7035,47.30416,18.7435,47.34416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kaj\u00e1sz\u00f3"
     ],
@@ -56,8 +60,7 @@
         "Kaj\u00e1sz\u00f3"
     ],
     "name:und_x_variant":[
-        "Kaj\u00e1sz\u00f3szentp\u00e9ter",
-        "Kaj\u00e1sz\u00f3"
+        "Kaj\u00e1sz\u00f3szentp\u00e9ter"
     ],
     "name:vie_x_preferred":[
         "Kaj\u00e1sz\u00f3"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1276319017,
-    "wof:lastmodified":1564160456,
+    "wof:lastmodified":1566649818,
     "wof:name":"Kajaszo",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

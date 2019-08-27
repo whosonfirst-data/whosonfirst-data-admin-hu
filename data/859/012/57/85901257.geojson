@@ -12,8 +12,10 @@
     "gn:latitude":47.18333,
     "gn:longitude":20.2,
     "iso:country":"HU",
+    "lbl:bbox":"20.189447,47.169204,20.199447,47.179204",
     "lbl:latitude":47.174204,
     "lbl:longitude":20.194447,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.177332,
     "mps:longitude":20.190129,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:ron_x_preferred":[
         "Piroska Szamor\u00e1nsky"
     ],
-    "name:unk_x_variant":[
-        "Piroska"
-    ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":715126,
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":716389,
         "gp:id":813877,
-        "qs:id":907138,
         "qs_pg:id":907138
     },
     "wof:country":"HU",
@@ -107,7 +105,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1564160146,
+    "wof:lastmodified":1566649565,
     "wof:name":"Piroska",
     "wof:parent_id":101751709,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.51333,46.39667,17.55333,46.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u00f6d\u00f6c\u00f6k",
         "B\u00f6d\u00f6c\u00f6kpuszta"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293177191,
-    "wof:lastmodified":1537626264,
+    "wof:lastmodified":1566649694,
     "wof:name":"Bodocokpuszta",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

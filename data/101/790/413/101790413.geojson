@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.185804,
     "lbl:longitude":20.424896,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.185804,
     "mps:longitude":20.424896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kiszombor"
     ],
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Kiszombor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zombor"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":347,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11639274-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718723,
         "gp:id":810112,
-        "qs:id":128894,
         "qs_pg:id":128894,
         "wd:id":"Q1112590",
         "wk:page":"Kiszombor"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236844,
+    "wof:lastmodified":1566650153,
     "wof:name":"Kiszombor",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

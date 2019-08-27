@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.486121,
     "lbl:longitude":19.584568,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.486121,
     "mps:longitude":19.584568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00f3ka"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11639472-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3049574,
         "gp:id":810213,
-        "qs:id":1042870,
         "qs_pg:id":1042870,
         "wd:id":"Q1124858",
         "wk:page":"K\u00f3ka"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237486,
+    "wof:lastmodified":1566650357,
     "wof:name":"K\u00f3ka",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

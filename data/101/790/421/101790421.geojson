@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.42312,
     "lbl:longitude":20.008173,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.42312,
     "mps:longitude":20.008173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bal\u00e1stya"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Bal\u00e1stya"
     ],
-    "name:unk_x_variant":[
-        "Fels\u0151k\u00f6zpont"
-    ],
     "name:vie_x_preferred":[
         "Bal\u00e1stya"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -118,7 +118,6 @@
         "fct:id":"11627268-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722676,
         "gp:id":803215,
-        "qs:id":759206,
         "qs_pg:id":759206,
         "wd:id":"Q789832",
         "wk:page":"Bal\u00e1stya"
@@ -138,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236891,
+    "wof:lastmodified":1566650167,
     "wof:name":"Bal\u00e1stya",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8528085.587673,
+    "geom:area_square_m":0.0,
     "geom:bbox":"22.072579,48.229117,22.072579,48.229117",
     "geom:latitude":48.229117,
     "geom:longitude":22.072579,
     "iso:country":"HU",
+    "lbl:bbox":"22.067579,48.224117,22.077579,48.234117",
     "lbl:latitude":48.229117,
     "lbl:longitude":22.072579,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.233309,
     "mps:longitude":22.073791,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Farkashegy"
-    ],
-    "name:unk_x_variant":[
         "Farkashegy"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684915,
         102191581,
         85633237,
         404227483,
-        101782321
+        101782321,
+        85684915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932432,
+    "wof:lastmodified":1566649586,
     "wof:name":"Farkashegy",
     "wof:parent_id":101782321,
     "wof:placetype":"neighbourhood",

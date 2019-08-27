@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.428621,
     "lbl:longitude":18.779208,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.428621,
     "mps:longitude":18.779208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Tolna"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043b\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tolma"
-    ],
     "name:vie_x_preferred":[
         "Tolna"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
@@ -140,7 +140,6 @@
         "fct:id":"1164d8e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043849,
         "gp:id":816657,
-        "qs:id":1042824,
         "qs_pg:id":1042824,
         "wd:id":"Q843021",
         "wk:page":"Tolna, Hungary"
@@ -160,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236912,
+    "wof:lastmodified":1566650174,
     "wof:name":"Tolna",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

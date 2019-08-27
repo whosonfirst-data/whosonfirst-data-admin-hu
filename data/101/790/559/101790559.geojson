@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.197887,
     "lbl:longitude":19.602575,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.197887,
     "mps:longitude":19.602575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0435\u0431\u0438\u0430"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "fct:id":"11636d44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050406,
         "gp:id":809202,
-        "qs:id":906934,
         "qs_pg:id":906934,
         "wd:id":"Q914507",
         "wk:page":"Kelebia"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236832,
+    "wof:lastmodified":1566650149,
     "wof:name":"Kelebia",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

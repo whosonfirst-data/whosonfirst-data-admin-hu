@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.759591,
     "lbl:longitude":17.648649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.759591,
     "mps:longitude":17.648649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "V\u00e1mosszabadi"
     ],
@@ -76,9 +79,6 @@
     "name:spa_x_preferred":[
         "V\u00e1mosszabadi"
     ],
-    "name:unk_x_variant":[
-        "Gy\u0151rszabadi"
-    ],
     "name:vie_x_preferred":[
         "V\u00e1mosszabadi"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":12,
     "wof:belongsto":[
         102191581,
@@ -114,7 +114,6 @@
         "fct:id":"1164f2d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043205,
         "gp:id":817416,
-        "qs:id":57373,
         "qs_pg:id":57373,
         "wd:id":"Q303485",
         "wk:page":"V\u00e1mosszabadi"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237121,
+    "wof:lastmodified":1566650241,
     "wof:name":"V\u00e1mosszabadi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

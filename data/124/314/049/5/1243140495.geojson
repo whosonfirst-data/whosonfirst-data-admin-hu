@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.03572,46.65365,17.07572,46.69365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Dioskal"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Di\u00f3sk\u00e1l"
     ],
-    "name:und_x_variant":[
-        "Di\u00f3sk\u00e1l"
-    ],
     "name:vie_x_preferred":[
         "Di\u00f3sk\u00e1l"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1243140495,
-    "wof:lastmodified":1564161055,
+    "wof:lastmodified":1566650559,
     "wof:name":"Dioskal",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

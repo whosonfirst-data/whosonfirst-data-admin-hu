@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14711505.534822,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.13222,46.260741,20.13222,46.260741",
     "geom:latitude":46.260741,
     "geom:longitude":20.13222,
     "gn:latitude":46.26955,
     "gn:longitude":20.13966,
     "iso:country":"HU",
+    "lbl:bbox":"20.12722,46.255741,20.13722,46.265741",
     "lbl:latitude":46.260741,
     "lbl:longitude":20.13222,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.268142,
     "mps:longitude":20.131308,
     "mz:hierarchy_label":0,
@@ -42,10 +44,6 @@
     ],
     "name:spa_x_preferred":[
         "R\u00e1k\u00f3czi \u00fat"
-    ],
-    "name:unk_x_variant":[
-        "R\u00f3kusi Feketef\u00f6ldek",
-        "R\u00f3kus"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -76,19 +74,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101751681
+        101751681,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":716049,
         "gp:id":814483,
-        "qs:id":313098,
         "qs_pg:id":313098
     },
     "wof:country":"HU",
@@ -107,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932464,
+    "wof:lastmodified":1566649566,
     "wof:name":"R\u00f3kus",
     "wof:parent_id":101751681,
     "wof:placetype":"neighbourhood",

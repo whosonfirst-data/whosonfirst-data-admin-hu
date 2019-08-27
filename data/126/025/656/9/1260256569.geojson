@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.11334,46.59135,18.15334,46.63135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "\u00c9rt\u00e9ny"
     ],
@@ -53,9 +57,6 @@
         "\u00c9rt\u00e9ny"
     ],
     "name:slv_x_preferred":[
-        "\u00c9rt\u00e9ny"
-    ],
-    "name:und_x_variant":[
         "\u00c9rt\u00e9ny"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1260256569,
-    "wof:lastmodified":1564160674,
+    "wof:lastmodified":1566649974,
     "wof:name":"Erteny",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

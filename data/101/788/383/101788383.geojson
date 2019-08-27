@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.130297,
     "lbl:longitude":21.460091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.130297,
     "mps:longitude":21.460091,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Furta"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         "fct:id":"116307e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720698,
         "gp:id":806819,
-        "qs:id":915083,
+        "qs_pg:id":915083,
         "wd:id":"Q302805",
         "wk:page":"Furta"
     },
@@ -108,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237363,
+    "wof:lastmodified":1566650317,
     "wof:name":"Furta",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

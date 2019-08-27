@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.13,45.78,18.17,45.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zs\u00fch\u0151cz",
         "Zs\u00fch\u0151c"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193140507,
-    "wof:lastmodified":1537626199,
+    "wof:lastmodified":1566649948,
     "wof:name":"Zsuhoc",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

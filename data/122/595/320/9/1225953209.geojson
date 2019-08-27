@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.50364,46.08835,18.54364,46.12835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Geresdlak"
     ],
@@ -73,8 +77,7 @@
     ],
     "name:und_x_variant":[
         "P\u00fcsp\u00f6klak",
-        "Geresd",
-        "Geresdlak"
+        "Geresd"
     ],
     "name:vie_x_preferred":[
         "Geresdlak"
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1225953209,
-    "wof:lastmodified":1564161257,
+    "wof:lastmodified":1566650716,
     "wof:name":"Geresdlak",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

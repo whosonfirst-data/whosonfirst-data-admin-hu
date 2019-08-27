@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.649474,
     "lbl:longitude":17.870092,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.649474,
     "mps:longitude":17.870092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0151ny"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "B\u0151ny"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0151nyr\u00e9talap"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":293,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":3054811,
         "gp:id":804181,
-        "qs:id":39082,
         "qs_pg:id":39082,
         "wd:id":"Q855792",
         "wk:page":"B\u0151ny"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":101786981,
-    "wof:lastmodified":1563237465,
+    "wof:lastmodified":1566650351,
     "wof:name":"B\u0151ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

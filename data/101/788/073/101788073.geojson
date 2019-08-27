@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.275522,
     "lbl:longitude":17.299313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.275522,
     "mps:longitude":17.299313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nemesszal\u00f3k"
     ],
@@ -64,9 +67,6 @@
     "name:slv_x_preferred":[
         "Nemesszal\u00f3k"
     ],
-    "name:unk_x_variant":[
-        "P\u00f3rszal\u00f3k"
-    ],
     "name:vie_x_preferred":[
         "Nemesszal\u00f3k"
     ],
@@ -87,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,7 @@
         "fct:id":"11640736-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047391,
         "gp:id":812757,
-        "qs:id":401866,
+        "qs_pg:id":401866,
         "wd:id":"Q585181",
         "wk:page":"Nemesszal\u00f3k"
     },
@@ -119,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237386,
+    "wof:lastmodified":1566650324,
     "wof:name":"Nemesszal\u00f3k",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

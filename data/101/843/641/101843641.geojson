@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.833466,
     "lbl:longitude":22.005589,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.833466,
     "mps:longitude":22.005589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kisl\u00e9ta"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"116387fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718897,
         "gp:id":809842,
-        "qs:id":1269846,
         "qs_pg:id":1269846,
         "wd:id":"Q740899",
         "wk:page":"Kisl\u00e9ta"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237001,
+    "wof:lastmodified":1566650201,
     "wof:name":"Kisl\u00e9ta",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

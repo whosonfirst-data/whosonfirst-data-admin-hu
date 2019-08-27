@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.889892,
     "lbl:longitude":20.495314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.889892,
     "mps:longitude":20.495314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szomolya"
     ],
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Szomolya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f6mb\u00f6sfalva"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":17,
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
         "fct:id":"1164b118-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715081,
         "gp:id":816040,
-        "qs:id":477844,
         "qs_pg:id":477844,
         "wd:id":"Q1016764",
         "wk:page":"Szomolya"
@@ -125,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237260,
+    "wof:lastmodified":1566650286,
     "wof:name":"Szomolya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

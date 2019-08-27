@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4621877.159121,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.279717,47.868134,17.279717,47.868134",
     "geom:latitude":47.868134,
     "geom:longitude":17.279717,
     "gn:latitude":47.86667,
     "gn:longitude":17.28333,
     "iso:country":"HU",
+    "lbl:bbox":"17.274717,47.863134,17.284717,47.873134",
     "lbl:latitude":47.868134,
     "lbl:longitude":17.279717,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.867837,
     "mps:longitude":17.280625,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
         "Kozlikmajor"
     ],
     "name:hun_x_preferred":[
-        "Kozliktanya"
-    ],
-    "name:unk_x_variant":[
-        "Kozlikmajor",
         "Kozliktanya"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684895,
         102191581,
         85633237,
         404227481,
-        101785837
+        101785837,
+        85684895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3049210,
         "gp:id":810620,
-        "qs:id":57173,
         "qs_pg:id":57173
     },
     "wof:country":"HU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932452,
+    "wof:lastmodified":1566649585,
     "wof:name":"Kozliktanya",
     "wof:parent_id":101785837,
     "wof:placetype":"neighbourhood",

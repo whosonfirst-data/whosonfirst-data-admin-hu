@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.490302,
     "lbl:longitude":20.343003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.490302,
     "mps:longitude":20.343003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "P\u00e9ly"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -102,7 +105,7 @@
         "fct:id":"11643922-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716501,
         "gp:id":813674,
-        "qs:id":915146,
+        "qs_pg:id":915146,
         "wd:id":"Q1072222"
     },
     "wof:country":"HU",
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237467,
+    "wof:lastmodified":1566650351,
     "wof:name":"P\u00e9ly",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

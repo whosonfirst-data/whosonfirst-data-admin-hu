@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10793065.501462,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.640186,47.686728,17.640186,47.686728",
     "geom:latitude":47.686728,
     "geom:longitude":17.640186,
     "iso:country":"HU",
+    "lbl:bbox":"17.635186,47.681728,17.645186,47.691728",
     "lbl:latitude":47.686728,
     "lbl:longitude":17.640186,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.684662,
     "mps:longitude":17.658607,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Somosmajor"
-    ],
-    "name:unk_x_variant":[
         "Somosmajor"
     ],
     "qs:gn_id":0,
@@ -54,13 +53,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684895,
         102191581,
         85633237,
         404227481,
-        101751711
+        101751711,
+        85684895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,7 +81,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932467,
+    "wof:lastmodified":1566649571,
     "wof:name":"Somosmajor",
     "wof:parent_id":101751711,
     "wof:placetype":"neighbourhood",

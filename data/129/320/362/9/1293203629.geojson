@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.45385,46.13593,18.49385,46.17593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Lov\u00e1szhet\u00e9ny"
     ],
@@ -63,8 +67,7 @@
         "Lov\u00e1szhet\u00e9ny"
     ],
     "name:und_x_variant":[
-        "Lov\u00e1szhet\u00e1ny",
-        "Lov\u00e1szhet\u00e9ny"
+        "Lov\u00e1szhet\u00e1ny"
     ],
     "name:vie_x_preferred":[
         "Lov\u00e1szhet\u00e9ny"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1293203629,
-    "wof:lastmodified":1564160269,
+    "wof:lastmodified":1566649674,
     "wof:name":"Lovaszheteny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

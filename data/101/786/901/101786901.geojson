@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.520423,
     "lbl:longitude":18.310679,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.520423,
     "mps:longitude":18.310679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kecsk\u00e9d"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":12,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11636b6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050447,
         "gp:id":809163,
-        "qs:id":939556,
         "qs_pg:id":939556,
         "wd:id":"Q656250",
         "wk:page":"Kecsk\u00e9d"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237430,
+    "wof:lastmodified":1566650339,
     "wof:name":"Kecsk\u00e9d",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

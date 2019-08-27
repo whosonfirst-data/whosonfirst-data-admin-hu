@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.07534,46.73749,19.11534,46.77749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dunatet\u00e9tlen"
     ],
@@ -67,9 +71,6 @@
     "name:slv_x_preferred":[
         "Dunatet\u00e9tlen"
     ],
-    "name:und_x_variant":[
-        "Dunatet\u00e9tlen"
-    ],
     "name:vie_x_preferred":[
         "Dunatet\u00e9tlen"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1209014007,
-    "wof:lastmodified":1564160479,
+    "wof:lastmodified":1566649834,
     "wof:name":"Dunatetetlen",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

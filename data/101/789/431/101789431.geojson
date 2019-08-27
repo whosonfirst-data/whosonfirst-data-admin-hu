@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.092891,
     "lbl:longitude":18.341065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.092891,
     "mps:longitude":18.341065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K\u0151sz\u00e1rhegy"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":3049367,
         "gp:id":810456,
-        "qs:id":1167208,
         "qs_pg:id":1167208,
         "wd:id":"Q1126783",
         "wk:page":"K\u0151sz\u00e1rhegy"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101789431,
-    "wof:lastmodified":1563237537,
+    "wof:lastmodified":1566650373,
     "wof:name":"K\u0151sz\u00e1rhegy",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

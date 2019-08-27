@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.433361,
     "lbl:longitude":17.64342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.433361,
     "mps:longitude":17.64342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mez\u0151csokonya"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3048113,
         "gp:id":811901,
-        "qs:id":1270044,
+        "qs_pg:id":1270044,
         "wd:id":"Q1089181",
         "wk:page":"Mez\u0151csokonya"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101790319,
-    "wof:lastmodified":1563236921,
+    "wof:lastmodified":1566650177,
     "wof:name":"Mez\u0151csokonya",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

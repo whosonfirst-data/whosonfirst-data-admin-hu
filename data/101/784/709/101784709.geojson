@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.77791,
     "lbl:longitude":19.927915,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.77791,
     "mps:longitude":19.927915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aze_x_preferred":[
         "Dy\u00f6ndy\u00f6\u015f"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":460,
     "wof:belongsto":[
@@ -189,7 +192,6 @@
         "fct:id":"11631f92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052040,
         "gp:id":807370,
-        "qs:id":568605,
         "qs_pg:id":568605,
         "wd:id":"Q209983",
         "wk:page":"Gy\u00f6ngy\u00f6s"
@@ -209,7 +211,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237254,
+    "wof:lastmodified":1566650284,
     "wof:name":"Gy\u00f6ngy\u00f6s",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

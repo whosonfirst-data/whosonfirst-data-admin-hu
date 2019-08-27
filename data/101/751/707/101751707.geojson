@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":47.576439,
     "lbl:longitude":18.395146,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.576439,
     "mps:longitude":18.395146,
     "mz:hierarchy_label":1,
@@ -360,9 +362,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"91",
     "statoids:area_mi":"35",
     "statoids:as_of_date":"2011-10-01",
@@ -390,7 +392,6 @@
         "gp:id":816298,
         "hasc:id":"HU.TB",
         "iso:id":"HU-TB",
-        "qs:id":491757,
         "qs_pg:id":491757,
         "wd:id":"Q187821",
         "wk:page":"Tatab\u00e1nya"
@@ -410,11 +411,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237302,
+    "wof:lastmodified":1566650299,
     "wof:name":"Tatab\u00e1nya",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":67753,
     "wof:population_rank":8,

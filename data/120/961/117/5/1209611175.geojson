@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.84667,47.63,17.88667,47.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":3055871
     },
     "wof:country":"HU",
-    "wof:geomhash":"a39895e8f1c78c673233660a52b34c06",
+    "wof:geomhash":"edca644fa5d8190ab2b9397eddd999ca",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209611175,
-    "wof:lastmodified":1536281842,
+    "wof:lastmodified":1566649883,
     "wof:name":"Aranyosdomb",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.866670000000006,
+    17.86667000000001,
     47.65,
-    17.866670000000006,
+    17.86667000000001,
     47.65
 ],
   "geometry": {"coordinates":[17.86667000000001,47.65],"type":"Point"}

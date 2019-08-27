@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.49218,46.07669,17.53218,46.11669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Csertelek-puszta",
         "Csertelek"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310368947,
-    "wof:lastmodified":1537626256,
+    "wof:lastmodified":1566650053,
     "wof:name":"Csertelek",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

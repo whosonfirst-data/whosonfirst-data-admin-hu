@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4954965.28971,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.549927,46.856436,20.549927,46.856436",
     "geom:latitude":46.856436,
     "geom:longitude":20.549927,
     "gn:latitude":46.86667,
     "gn:longitude":20.55,
     "iso:country":"HU",
+    "lbl:bbox":"20.544927,46.851436,20.554927,46.861436",
     "lbl:latitude":46.856436,
     "lbl:longitude":20.549927,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.854557,
     "mps:longitude":20.580139,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Erzsebetliget"
     ],
     "name:hun_x_preferred":[
-        "Erzs\u00e9betliget"
-    ],
-    "name:unk_x_variant":[
         "Erzs\u00e9betliget"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,13 +62,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684875,
         102191581,
         85633237,
         404227487,
-        101788111
+        101788111,
+        85684875
     ],
     "wof:breaches":[
         85901171
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gn:id":721096,
         "gp:id":805984,
-        "qs:id":909542,
         "qs_pg:id":909542
     },
     "wof:country":"HU",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932431,
+    "wof:lastmodified":1566649588,
     "wof:name":"Erzs\u00e9betliget",
     "wof:parent_id":101788111,
     "wof:placetype":"neighbourhood",

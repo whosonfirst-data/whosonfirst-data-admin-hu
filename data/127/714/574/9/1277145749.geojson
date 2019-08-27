@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.55384,47.3228,16.59384,47.3628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Luk\u00e1csh\u00e1za"
     ],
@@ -60,8 +64,7 @@
     ],
     "name:und_x_variant":[
         "Nagycs\u00f6m\u00f6te",
-        "Kiscs\u00f6m\u00f6te",
-        "Luk\u00e1csh\u00e1za"
+        "Kiscs\u00f6m\u00f6te"
     ],
     "name:vie_x_preferred":[
         "Luk\u00e1csh\u00e1za"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1277145749,
-    "wof:lastmodified":1564160386,
+    "wof:lastmodified":1566649764,
     "wof:name":"Lukacshaza",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

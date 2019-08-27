@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.401006,
     "lbl:longitude":16.799265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.401006,
     "mps:longitude":16.799265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "T\u00f3tszerdahely"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"1164df76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043722,
         "gp:id":816803,
-        "qs:id":1270698,
+        "qs_pg:id":1270698,
         "wd:id":"Q766372",
         "wk:page":"T\u00f3tszerdahely"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236865,
+    "wof:lastmodified":1566650159,
     "wof:name":"T\u00f3tszerdahely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

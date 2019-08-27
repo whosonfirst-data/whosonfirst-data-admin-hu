@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.01333,48.36333,21.05333,48.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Baktak\u00e9k"
     ],
@@ -72,8 +76,7 @@
         "Baktak\u00e9k"
     ],
     "name:und_x_variant":[
-        "Sz\u00e1razk\u00e9k",
-        "Baktak\u00e9k"
+        "Sz\u00e1razk\u00e9k"
     ],
     "name:vie_x_preferred":[
         "Baktak\u00e9k"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1193016287,
-    "wof:lastmodified":1564160629,
+    "wof:lastmodified":1566649939,
     "wof:name":"Baktakek",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

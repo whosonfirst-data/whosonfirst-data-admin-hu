@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.461115,
     "lbl:longitude":16.817842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.461115,
     "mps:longitude":16.817842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u00dajk\u00e9r"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":10,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         "fct:id":"1164e5ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043525,
         "gp:id":817021,
-        "qs:id":268203,
+        "qs_pg:id":268203,
         "wd:id":"Q51701",
         "wk:page":"\u00dajk\u00e9r"
     },
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236969,
+    "wof:lastmodified":1566650191,
     "wof:name":"\u00dajk\u00e9r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

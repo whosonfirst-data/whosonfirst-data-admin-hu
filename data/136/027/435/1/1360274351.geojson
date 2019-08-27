@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.29667,47.09667,21.33667,47.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Csiffi-major",
         "Csiffitany\u00e1k",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360274351,
-    "wof:lastmodified":1537626190,
+    "wof:lastmodified":1566650129,
     "wof:name":"Csiff",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

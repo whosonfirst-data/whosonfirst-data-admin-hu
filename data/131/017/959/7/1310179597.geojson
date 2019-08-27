@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.79667,47.33,20.83667,47.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karcag-Gergely-oldali Tany\u00e1k",
         "Gergelyr\u00e9sz"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310179597,
-    "wof:lastmodified":1537626184,
+    "wof:lastmodified":1566650083,
     "wof:name":"Gergelyresz",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

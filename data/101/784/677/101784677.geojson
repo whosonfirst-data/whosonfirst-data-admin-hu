@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.852972,
     "lbl:longitude":20.147239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.852972,
     "mps:longitude":20.147239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kisn\u00e1na"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":391,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"116389fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718865,
         "gp:id":809888,
-        "qs:id":894586,
         "qs_pg:id":894586,
         "wd:id":"Q980033",
         "wk:page":"Kisn\u00e1na"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237285,
+    "wof:lastmodified":1566650295,
     "wof:name":"Kisn\u00e1na",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

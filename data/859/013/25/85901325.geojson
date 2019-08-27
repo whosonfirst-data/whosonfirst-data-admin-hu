@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10921447.878148,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.180861,46.245082,20.180861,46.245082",
     "geom:latitude":46.245082,
     "geom:longitude":20.180861,
     "gn:latitude":46.24754,
     "gn:longitude":20.16571,
     "iso:country":"HU",
+    "lbl:bbox":"20.175861,46.240082,20.185861,46.250082",
     "lbl:latitude":46.245082,
     "lbl:longitude":20.180861,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.242249,
     "mps:longitude":20.188255,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     ],
     "name:por_x_preferred":[
         "S\u00e1ndor Cs\u00f6rg\u0151"
-    ],
-    "name:unk_x_variant":[
-        "\u00dajszeged"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -73,19 +72,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101751681
+        101751681,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":714419,
         "gp:id":817112,
-        "qs:id":1167267,
         "qs_pg:id":1167267
     },
     "wof:country":"HU",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932476,
+    "wof:lastmodified":1566649576,
     "wof:name":"\u00dajszeged",
     "wof:parent_id":101751681,
     "wof:placetype":"neighbourhood",

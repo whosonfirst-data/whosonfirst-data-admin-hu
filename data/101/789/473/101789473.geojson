@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.970506,
     "lbl:longitude":18.563281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.970506,
     "mps:longitude":18.563281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cbk_zam_x_preferred":[
         "S\u00e1rszent\u00e1gota"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,6 @@
         "fct:id":"11647068-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045496,
         "gp:id":814780,
-        "qs:id":264724,
         "qs_pg:id":264724,
         "wd:id":"Q1073401",
         "wk:page":"S\u00e1rszent\u00e1gota"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237576,
+    "wof:lastmodified":1566650387,
     "wof:name":"S\u00e1rszent\u00e1gota",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

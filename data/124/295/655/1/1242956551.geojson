@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.59047,47.95154,19.63047,47.99154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Fels\u0151told"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Fels\u0151told"
     ],
-    "name:und_x_variant":[
-        "Fels\u0151told"
-    ],
     "name:vie_x_preferred":[
         "Fels\u0151told"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1242956551,
-    "wof:lastmodified":1564161022,
+    "wof:lastmodified":1566650532,
     "wof:name":"Felsotold",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

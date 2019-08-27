@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9912785.759819,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.23291,46.182874,18.23291,46.182874",
     "geom:latitude":46.182874,
     "geom:longitude":18.23291,
     "gn:latitude":46.17647,
     "gn:longitude":18.22909,
     "iso:country":"HU",
+    "lbl:bbox":"18.22791,46.177874,18.23791,46.187874",
     "lbl:latitude":46.182874,
     "lbl:longitude":18.23291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.177773,
     "mps:longitude":18.221339,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     ],
     "name:hun_x_variant":[
         "Sikondagy\u00f3gyf\u00fcrd\u0151"
-    ],
-    "name:unk_x_variant":[
-        "Sikondagy\u00f3gyf\u00fcrd\u0151",
-        "Sikonda"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -68,18 +66,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684839,
         102191581,
         85633237,
-        404227491
+        404227491,
+        85684839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3045359,
         "gp:id":814904,
-        "qs:id":419325,
         "qs_pg:id":419325
     },
     "wof:country":"HU",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932466,
+    "wof:lastmodified":1566649568,
     "wof:name":"Sikonda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

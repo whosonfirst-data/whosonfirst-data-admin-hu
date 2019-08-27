@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.755465,
     "lbl:longitude":18.541561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.755465,
     "mps:longitude":18.541561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u043c\u043e\u043d\u0442\u043e\u0440\u043d\u044f"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"11647752-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045341,
         "gp:id":814927,
-        "qs:id":907199,
         "qs_pg:id":907199,
         "wd:id":"Q911674",
         "wk:page":"Simontornya"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237438,
+    "wof:lastmodified":1566650342,
     "wof:name":"Simontornya",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

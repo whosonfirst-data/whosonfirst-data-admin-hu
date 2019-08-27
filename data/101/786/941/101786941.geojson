@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.501745,
     "lbl:longitude":19.910226,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.501745,
     "mps:longitude":19.910226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "J\u00e1szber\u00e9ny"
     ],
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1128,
     "wof:belongsto":[
@@ -161,7 +164,6 @@
         "fct:id":"11635480-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050907,
         "gp:id":808584,
-        "qs:id":477731,
         "qs_pg:id":477731,
         "wd:id":"Q281371",
         "wk:page":"J\u00e1szber\u00e9ny"
@@ -181,7 +183,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237443,
+    "wof:lastmodified":1566650343,
     "wof:name":"J\u00e1szber\u00e9ny",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

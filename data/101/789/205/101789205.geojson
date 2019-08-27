@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.792038,
     "lbl:longitude":17.183745,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.792038,
     "mps:longitude":17.183745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_variant":[
         "\u0425\u044d\u0432\u0456\u0437"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":310,
     "wof:belongsto":[
@@ -134,7 +137,6 @@
         "fct:id":"11633a9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051477,
         "gp:id":807957,
-        "qs:id":891514,
         "qs_pg:id":891514,
         "wd:id":"Q377929",
         "wk:page":"H\u00e9v\u00edz"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237540,
+    "wof:lastmodified":1566650374,
     "wof:name":"H\u00e9v\u00edz",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

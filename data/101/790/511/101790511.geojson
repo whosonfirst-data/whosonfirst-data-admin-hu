@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.489389,
     "lbl:longitude":19.072261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.489389,
     "mps:longitude":19.072261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Homokm\u00e9gy"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":300,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
         "fct:id":"11633f68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051361,
         "gp:id":808077,
-        "qs:id":939532,
+        "qs_pg:id":939532,
         "wd:id":"Q932154",
         "wk:page":"Homokm\u00e9gy"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236874,
+    "wof:lastmodified":1566650162,
     "wof:name":"Homokm\u00e9gy",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

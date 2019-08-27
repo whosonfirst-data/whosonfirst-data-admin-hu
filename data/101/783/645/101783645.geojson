@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.130909,
     "lbl:longitude":20.858899,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.130909,
     "mps:longitude":20.858899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Arn\u00f3t"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"1162630e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722802,
         "gp:id":802959,
-        "qs:id":275634,
         "qs_pg:id":275634,
         "wd:id":"Q697898",
         "wk:page":"Arn\u00f3t"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237206,
+    "wof:lastmodified":1566650269,
     "wof:name":"Arn\u00f3t",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

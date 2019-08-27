@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.450205,
     "lbl:longitude":20.739051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.450205,
     "mps:longitude":20.739051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szalonna"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -90,7 +93,7 @@
         "fct:id":"11649070-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715530,
         "gp:id":815351,
-        "qs:id":421393,
+        "qs_pg:id":421393,
         "wd:id":"Q1184497",
         "wk:page":"Szalonna (village)"
     },
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237425,
+    "wof:lastmodified":1566650337,
     "wof:name":"Szalonna",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

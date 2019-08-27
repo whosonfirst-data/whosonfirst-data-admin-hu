@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.72647,48.09031,22.76647,48.13031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Tiszacs\u00e9cse"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "Tiszacs\u00e9cse"
     ],
-    "name:und_x_variant":[
-        "Tiszacs\u00e9cse"
-    ],
     "name:vie_x_preferred":[
         "Tiszacs\u00e9cse"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1326706099,
-    "wof:lastmodified":1564159922,
+    "wof:lastmodified":1566649395,
     "wof:name":"Tiszacsecse",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

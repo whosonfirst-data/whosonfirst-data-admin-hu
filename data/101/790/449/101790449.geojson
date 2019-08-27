@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.287716,
     "lbl:longitude":19.747277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.287716,
     "mps:longitude":19.747277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0443\u0437\u0441\u0430"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11646438-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045688,
         "gp:id":814576,
-        "qs:id":939743,
         "qs_pg:id":939743,
         "wd:id":"Q1184414",
         "wk:page":"Ruzsa"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236842,
+    "wof:lastmodified":1566650152,
     "wof:name":"Ruzsa",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.804128,
     "lbl:longitude":19.248876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.804128,
     "mps:longitude":19.248876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Penc"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"11643954-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046495,
         "gp:id":813676,
-        "qs:id":939723,
+        "qs_pg:id":939723,
         "wd:id":"Q1095192",
         "wk:page":"Penc"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237503,
+    "wof:lastmodified":1566650363,
     "wof:name":"Penc",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

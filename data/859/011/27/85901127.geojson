@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9701301.219497,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.975729,46.527654,18.975729,46.527654",
     "geom:latitude":46.527654,
     "geom:longitude":18.975729,
     "gn:latitude":46.53588,
     "gn:longitude":19.03693,
     "iso:country":"HU",
+    "lbl:bbox":"18.970729,46.522654,18.980729,46.532654",
     "lbl:latitude":46.527654,
     "lbl:longitude":18.975729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.526689,
     "mps:longitude":18.9841,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Homokgyor"
     ],
     "name:hun_x_preferred":[
-        "Homokgy\u0151r"
-    ],
-    "name:unk_x_variant":[
         "Homokgy\u0151r"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684859,
         102191581,
         85633237,
         404227487,
-        101790505
+        101790505,
+        85684859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3051385,
         "gp:id":808059,
-        "qs:id":887867,
         "qs_pg:id":887867
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932439,
+    "wof:lastmodified":1566649581,
     "wof:name":"Homokgy\u0151r",
     "wof:parent_id":101790505,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.83622,47.18546,17.87622,47.22546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "L\u00f3k\u00fat"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1276182829,
-    "wof:lastmodified":1564160344,
+    "wof:lastmodified":1566649734,
     "wof:name":"Lokut",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

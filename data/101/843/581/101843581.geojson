@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.003918,
     "lbl:longitude":21.923571,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.003918,
     "mps:longitude":21.923571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ny\u00edrt\u00e9t"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"116415c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716891,
         "gp:id":812940,
-        "qs:id":1270219,
+        "qs_pg:id":1270219,
         "wd:id":"Q1089077",
         "wk:page":"Ny\u00edrt\u00e9t"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236994,
+    "wof:lastmodified":1566650198,
     "wof:name":"Ny\u00edrt\u00e9t",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

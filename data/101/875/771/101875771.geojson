@@ -10,12 +10,16 @@
     "geom:latitude":47.218263,
     "geom:longitude":18.954859,
     "iso:country":"HU",
+    "lbl:bbox":"18.934859,47.198263,18.974859,47.238263",
     "lbl:latitude":47.218263,
     "lbl:longitude":18.954859,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.218263,
     "mps:longitude":18.954859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szigetszentm\u00e1rton"
     ],
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -118,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236978,
+    "wof:lastmodified":1566650194,
     "wof:name":"Szigetszentm\u00e1rton",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

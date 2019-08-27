@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.551069,
     "lbl:longitude":20.10496,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.551069,
     "mps:longitude":20.10496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043a\u0441"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Baks"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baksi-major"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "fct:id":"11627132-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722691,
         "gp:id":803198,
-        "qs:id":42091,
         "qs_pg:id":42091,
         "wd:id":"Q247669",
         "wk:page":"Baks"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236879,
+    "wof:lastmodified":1566650163,
     "wof:name":"Baks",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

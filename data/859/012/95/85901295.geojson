@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14309277.140668,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.616661,47.232013,16.616661,47.232013",
     "geom:latitude":47.232013,
     "geom:longitude":16.616661,
     "gn:id":"",
     "iso:country":"HU",
+    "lbl:bbox":"16.611661,47.227013,16.621661,47.237013",
     "lbl:latitude":47.232013,
     "lbl:longitude":16.616661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.235752,
     "mps:longitude":16.606325,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Szinese"
     ],
     "name:hun_x_preferred":[
-        "Szinesemajor"
-    ],
-    "name:unk_x_variant":[
         "Szinesemajor"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684863,
         102191581,
         85633237,
         404227481,
-        101751689
+        101751689,
+        85684863
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":815896,
-        "qs:id":215462,
         "qs_pg:id":215462
     },
     "wof:country":"HU",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932469,
+    "wof:lastmodified":1566649565,
     "wof:name":"Szinesemajor",
     "wof:parent_id":101751689,
     "wof:placetype":"neighbourhood",

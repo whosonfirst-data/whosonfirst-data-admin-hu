@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.40772,47.95915,19.44772,47.99915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Cserh\u00e1tsur\u00e1ny"
     ],
@@ -58,9 +62,6 @@
     "name:swe_x_preferred":[
         "Cserh\u00e1tsur\u00e1ny"
     ],
-    "name:und_x_variant":[
-        "Cserh\u00e1tsur\u00e1ny"
-    ],
     "name:vie_x_preferred":[
         "Cserh\u00e1tsur\u00e1ny"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1209987319,
-    "wof:lastmodified":1564160472,
+    "wof:lastmodified":1566649828,
     "wof:name":"Cserhatsurany",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

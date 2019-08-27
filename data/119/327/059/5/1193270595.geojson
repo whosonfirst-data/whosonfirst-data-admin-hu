@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.82156,46.3051,19.86156,46.3451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "G\u0151b\u00f6lyj\u00e1r\u00e1s",
         "G\u0151b\u00f6lj\u00e1r\u00e1s"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193270595,
-    "wof:lastmodified":1537626243,
+    "wof:lastmodified":1566649960,
     "wof:name":"Goboljaras",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

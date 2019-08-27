@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.04068,46.80464,17.08068,46.84464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Ligetfalva"
     ],
@@ -56,8 +60,7 @@
         "Ligetfalva"
     ],
     "name:und_x_variant":[
-        "Zalan\u00e9metfalu",
-        "Ligetfalva"
+        "Zalan\u00e9metfalu"
     ],
     "name:vie_x_preferred":[
         "Ligetfalva"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1310173585,
-    "wof:lastmodified":1564160810,
+    "wof:lastmodified":1566650083,
     "wof:name":"Ligetfalva",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

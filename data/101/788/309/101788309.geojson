@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.239303,
     "lbl:longitude":19.611668,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.239303,
     "mps:longitude":19.611668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0431\u0435\u0440\u0442\u0438\u0440\u0441\u0430"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0456\u0440\u0448\u0430"
     ],
-    "name:unk_x_variant":[
-        "Irsa"
-    ],
     "name:vie_x_preferred":[
         "Albertirsa"
     ],
@@ -128,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":427,
     "wof:belongsto":[
@@ -142,7 +142,6 @@
         "fct:id":"11625422-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056326,
         "gp:id":802423,
-        "qs:id":42079,
         "qs_pg:id":42079,
         "wd:id":"Q578823",
         "wk:page":"Albertirsa"
@@ -162,7 +161,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237330,
+    "wof:lastmodified":1566650305,
     "wof:name":"Albertirsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

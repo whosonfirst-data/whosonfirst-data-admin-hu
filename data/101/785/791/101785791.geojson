@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.728457,
     "lbl:longitude":18.264806,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.728457,
     "mps:longitude":18.264806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alm\u00e1sf\u00fczit\u0151"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3056290,
         "gp:id":802469,
-        "qs:id":906618,
         "qs_pg:id":906618,
         "wd:id":"Q658286",
         "wk:page":"Alm\u00e1sf\u00fczit\u0151"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101785791,
-    "wof:lastmodified":1563237110,
+    "wof:lastmodified":1566650238,
     "wof:name":"Alm\u00e1sf\u00fczit\u0151",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

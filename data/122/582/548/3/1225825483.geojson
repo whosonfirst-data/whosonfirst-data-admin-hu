@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.91676,47.49292,17.95676,47.53292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Ker\u00e9kteleki"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Ker\u00e9kteleki"
     ],
-    "name:und_x_variant":[
-        "Ker\u00e9kteleki"
-    ],
     "name:vie_x_preferred":[
         "Ker\u00e9kteleki"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1225825483,
-    "wof:lastmodified":1564161405,
+    "wof:lastmodified":1566650826,
     "wof:name":"Kerekteleki",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

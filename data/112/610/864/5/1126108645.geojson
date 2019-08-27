@@ -9,14 +9,17 @@
     "geom:bbox":"21.0,47.7,21.0,47.7",
     "geom:latitude":47.7,
     "geom:longitude":21.0,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"20.995,47.695,21.005,47.705",
     "lbl:latitude":47.7,
     "lbl:longitude":21.0,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0646\u062a\u0627"
@@ -129,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Intad\u016fl\u0151"
     ],
     "name:vep_x_preferred":[
@@ -165,7 +168,7 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":808336,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
     "woe:name_adm1":"Hajd\u00fa-Bihar",
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":1126108645,
-    "wof:lastmodified":1564160958,
+    "wof:lastmodified":1566650446,
     "wof:name":"Inta",
     "wof:parent_id":101785909,
     "wof:placetype":"neighbourhood",

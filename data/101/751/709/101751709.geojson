@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":47.176117,
     "lbl:longitude":20.177174,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.176117,
     "mps:longitude":20.177174,
     "mz:hierarchy_label":1,
@@ -360,9 +362,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"187",
     "statoids:area_mi":"72",
     "statoids:as_of_date":"2011-10-01",
@@ -390,7 +392,6 @@
         "gp:id":816011,
         "hasc:id":"HU.SK",
         "iso:id":"HU-SK",
-        "qs:id":235304,
         "qs_pg:id":235304,
         "wd:id":"Q181276",
         "wk:page":"Szolnok"
@@ -410,11 +411,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237301,
+    "wof:lastmodified":1566650299,
     "wof:name":"Szolnok",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":72953,
     "wof:population_rank":8,

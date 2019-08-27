@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.74667,48.53,20.78667,48.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Komj\u00e1ti"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Komj\u00e1ti"
     ],
-    "name:und_x_variant":[
-        "Komj\u00e1ti"
-    ],
     "name:vie_x_preferred":[
         "Komj\u00e1ti"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1326836227,
-    "wof:lastmodified":1564159926,
+    "wof:lastmodified":1566649398,
     "wof:name":"Komjati",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

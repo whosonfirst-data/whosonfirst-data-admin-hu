@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.009882,
     "lbl:longitude":20.688676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.009882,
     "mps:longitude":20.688676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kisgy\u0151r"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":718956,
         "gp:id":809712,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q528848",
         "wk:page":"Kisgy\u0151r"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101783593,
-    "wof:lastmodified":1563237196,
+    "wof:lastmodified":1566650265,
     "wof:name":"Kisgy\u0151r",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

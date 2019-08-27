@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.90711,45.98709,17.94711,46.02709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Szentd\u00e9nes"
     ],
@@ -62,8 +66,7 @@
         "Szentd\u00e9nes"
     ],
     "name:und_x_variant":[
-        "Szentdienes",
-        "Szentd\u00e9nes"
+        "Szentdienes"
     ],
     "name:vie_x_preferred":[
         "Szentd\u00e9nes"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1360098129,
-    "wof:lastmodified":1564160861,
+    "wof:lastmodified":1566650122,
     "wof:name":"Szentdenes",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

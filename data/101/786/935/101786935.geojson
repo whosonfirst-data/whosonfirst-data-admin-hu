@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.52,
     "lbl:longitude":19.988769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.52,
     "mps:longitude":19.988769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "J\u00e1szj\u00e1k\u00f3halma"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"116355b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":719645,
         "gp:id":808593,
-        "qs:id":519204,
         "qs_pg:id":519204,
         "wd:id":"Q509856",
         "wk:page":"J\u00e1szj\u00e1k\u00f3halma"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237448,
+    "wof:lastmodified":1566650345,
     "wof:name":"J\u00e1szj\u00e1k\u00f3halma",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

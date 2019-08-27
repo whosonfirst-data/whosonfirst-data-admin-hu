@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.75336,46.53864,17.79336,46.57864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Pol\u00e1ny"
     ],
@@ -53,9 +57,6 @@
         "Pol\u00e1ny"
     ],
     "name:slv_x_preferred":[
-        "Pol\u00e1ny"
-    ],
-    "name:und_x_variant":[
         "Pol\u00e1ny"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1292977153,
-    "wof:lastmodified":1564160265,
+    "wof:lastmodified":1566649671,
     "wof:name":"Polany",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

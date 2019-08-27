@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.11524,
     "lbl:longitude":17.567069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.11524,
     "mps:longitude":17.567069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Homokszentgy\u00f6rgy"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
         "fct:id":"11633f9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051357,
         "gp:id":808081,
-        "qs:id":1269664,
+        "qs_pg:id":1269664,
         "wd:id":"Q618024",
         "wk:page":"Homokszentgy\u00f6rgy"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237021,
+    "wof:lastmodified":1566650208,
     "wof:name":"Homokszentgy\u00f6rgy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

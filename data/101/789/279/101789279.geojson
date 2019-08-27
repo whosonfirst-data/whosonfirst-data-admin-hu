@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.711915,
     "lbl:longitude":19.850579,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.711915,
     "mps:longitude":19.850579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Kiskunf\u00e9legyh\u00e1za"
     ],
@@ -141,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":391,
     "wof:belongsto":[
@@ -155,7 +158,6 @@
         "fct:id":"116386c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3049885,
         "gp:id":809822,
-        "qs:id":145176,
         "qs_pg:id":145176,
         "wd:id":"Q478038",
         "wk:page":"Kiskunf\u00e9legyh\u00e1za"
@@ -175,7 +177,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237569,
+    "wof:lastmodified":1566650384,
     "wof:name":"Kiskunf\u00e9legyh\u00e1za",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

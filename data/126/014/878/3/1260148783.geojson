@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.9959,46.8319,17.0359,46.8719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Pad\u00e1r"
     ],
@@ -53,9 +57,6 @@
         "Pad\u00e1r"
     ],
     "name:slv_x_preferred":[
-        "Pad\u00e1r"
-    ],
-    "name:und_x_variant":[
         "Pad\u00e1r"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1260148783,
-    "wof:lastmodified":1564160672,
+    "wof:lastmodified":1566649973,
     "wof:name":"Padar",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

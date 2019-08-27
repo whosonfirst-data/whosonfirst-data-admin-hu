@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.16333,47.96333,20.20333,48.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "B\u00fckksz\u00e9k"
     ],
@@ -53,9 +57,6 @@
         "B\u00fckksz\u00e9k"
     ],
     "name:slv_x_preferred":[
-        "B\u00fckksz\u00e9k"
-    ],
-    "name:und_x_variant":[
         "B\u00fckksz\u00e9k"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1276956643,
-    "wof:lastmodified":1564160377,
+    "wof:lastmodified":1566649758,
     "wof:name":"Bukkszek",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

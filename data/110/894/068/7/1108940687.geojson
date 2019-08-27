@@ -10,9 +10,12 @@
     "geom:latitude":47.434706,
     "geom:longitude":19.172113,
     "iso:country":"HU",
+    "lbl:bbox":"19.1671126289,47.4297061464,19.1771126289,47.4397061464",
     "lbl:latitude":47.434706,
     "lbl:longitude":19.172113,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "Szent L\u0151rinc-telep"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108940687,
-    "wof:lastmodified":1497292355,
+    "wof:lastmodified":1566650023,
     "wof:name":"Szent Lorinc-telep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

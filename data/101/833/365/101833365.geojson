@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.444839,
     "lbl:longitude":19.356882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.444839,
     "mps:longitude":19.356882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Magl\u00f3d"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":24,
     "wof:belongsto":[
@@ -128,7 +131,6 @@
         "fct:id":"1163bae2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048630,
         "gp:id":811335,
-        "qs:id":211575,
         "qs_pg:id":211575,
         "wd:id":"Q283023",
         "wk:page":"Magl\u00f3d"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237051,
+    "wof:lastmodified":1566650218,
     "wof:name":"Magl\u00f3d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.890134,
     "lbl:longitude":17.324082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.890134,
     "mps:longitude":17.324082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hal\u00e1szi"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":10,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11632a50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051829,
         "gp:id":807585,
-        "qs:id":971075,
         "qs_pg:id":971075,
         "wd:id":"Q580088",
         "wk:page":"Hal\u00e1szi"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237122,
+    "wof:lastmodified":1566650241,
     "wof:name":"Hal\u00e1szi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

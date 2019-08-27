@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.34819,
     "lbl:longitude":19.442439,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.34819,
     "mps:longitude":19.442439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u043e\u0440"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -134,7 +137,6 @@
         "fct:id":"1163e256-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047942,
         "gp:id":812111,
-        "qs:id":519235,
         "qs_pg:id":519235,
         "wd:id":"Q749320",
         "wk:page":"Monor"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237343,
+    "wof:lastmodified":1566650310,
     "wof:name":"Monor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

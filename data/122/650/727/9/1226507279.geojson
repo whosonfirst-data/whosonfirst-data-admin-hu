@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.83,47.51333,20.87,47.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alm\u00e1sitanya",
         "Alm\u00e1sytanya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226507279,
-    "wof:lastmodified":1537626198,
+    "wof:lastmodified":1566650766,
     "wof:name":"Almasytanya",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

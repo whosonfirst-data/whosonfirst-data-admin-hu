@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.201553,
     "lbl:longitude":21.531314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.201553,
     "mps:longitude":21.531314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ken\u00e9zl\u0151"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":719234,
         "gp:id":809277,
-        "qs:id":1269798,
+        "qs_pg:id":1269798,
         "wd:id":"Q680020",
         "wk:page":"Ken\u00e9zl\u0151"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101782463,
-    "wof:lastmodified":1563237165,
+    "wof:lastmodified":1566650256,
     "wof:name":"Ken\u00e9zl\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

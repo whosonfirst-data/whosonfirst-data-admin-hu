@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":47.516581,
     "lbl:longitude":19.092281,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":47.516581,
     "mps:longitude":19.092281,
     "mz:hierarchy_label":1,
@@ -738,7 +740,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":525.2,
     "wd:elevation":315.0,
@@ -761,9 +763,11 @@
         "gp:id":804365,
         "loc:id":"n79091691",
         "nyt:id":"7102669963415180241",
-        "qs:id":1042896,
-        "qs_pg:id":1152996,
+        "qs_pg:id":1042896,
         "wd:id":"Q1781"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152996
     },
     "wof:coterminous":[
         85684881
@@ -780,7 +784,7 @@
         }
     ],
     "wof:id":101751703,
-    "wof:lastmodified":1563237314,
+    "wof:lastmodified":1566650301,
     "wof:megacity":1,
     "wof:name":"Budapest",
     "wof:parent_id":85684881,

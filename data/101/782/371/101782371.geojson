@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.057736,
     "lbl:longitude":21.937223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.057736,
     "mps:longitude":21.937223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Seculs"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1927,
     "wof:belongsto":[
         102191581,
@@ -121,7 +124,7 @@
         "fct:id":"11649a84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715409,
         "gp:id":815515,
-        "qs:id":915167,
+        "qs_pg:id":915167,
         "wd:id":"Q777167",
         "wk:page":"Sz\u00e9kelys"
     },
@@ -140,7 +143,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237171,
+    "wof:lastmodified":1566650257,
     "wof:name":"Sz\u00e9kely",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

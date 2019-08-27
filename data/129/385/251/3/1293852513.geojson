@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.31702,47.19361,17.35702,47.23361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Vid"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1293852513,
-    "wof:lastmodified":1564160215,
+    "wof:lastmodified":1566649633,
     "wof:name":"Vid",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

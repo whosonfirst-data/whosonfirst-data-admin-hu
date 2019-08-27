@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.334149,
     "lbl:longitude":19.951514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.334149,
     "mps:longitude":19.951514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u00e1pi\u00f3gy\u00f6rgye"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -106,7 +109,6 @@
         "fct:id":"1164b992-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044160,
         "gp:id":816218,
-        "qs:id":506125,
         "qs_pg:id":506125,
         "wd:id":"Q1186555",
         "wk:page":"T\u00e1pi\u00f3gy\u00f6rgye"
@@ -126,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237387,
+    "wof:lastmodified":1566650324,
     "wof:name":"T\u00e1pi\u00f3gy\u00f6rgye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

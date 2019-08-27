@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6187152.686574,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.684051,46.92248,19.684051,46.92248",
     "geom:latitude":46.92248,
     "geom:longitude":19.684051,
     "iso:country":"HU",
+    "lbl:bbox":"19.679051,46.91748,19.689051,46.92748",
     "lbl:latitude":46.92248,
     "lbl:longitude":19.684051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.918815,
     "mps:longitude":19.672602,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Budaihegy"
-    ],
-    "name:unk_x_variant":[
         "Budaihegy"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684859,
         102191581,
         85633237,
         404227487,
-        101751685
+        101751685,
+        85684859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932427,
+    "wof:lastmodified":1566649587,
     "wof:name":"Budaihegy",
     "wof:parent_id":101751685,
     "wof:placetype":"neighbourhood",

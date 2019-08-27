@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.304566,
     "lbl:longitude":17.941616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.304566,
     "mps:longitude":17.941616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dudar"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"1162dbc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053507,
         "gp:id":805656,
-        "qs:id":983521,
         "qs_pg:id":983521,
         "wd:id":"Q251716",
         "wk:page":"Dudar"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237404,
+    "wof:lastmodified":1566650330,
     "wof:name":"Dudar",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

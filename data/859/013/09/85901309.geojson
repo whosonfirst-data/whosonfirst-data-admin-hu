@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.511992,
     "lbl:longitude":19.071864,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.515363,
     "mps:longitude":19.081928,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:hun_x_preferred":[
-        "Terezvaro"
-    ],
-    "name:unk_x_variant":[
         "Terezvaro"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,7 +66,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723951,
-        "qs:id":492383,
+        "qs_pg:id":492383
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":501177
     },
     "wof:country":"HU",
@@ -87,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649574,
     "wof:name":"Terezvaro",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

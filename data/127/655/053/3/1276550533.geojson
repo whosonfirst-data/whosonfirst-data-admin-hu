@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.51434,45.8088,18.55434,45.8488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kislipp\u00f3"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u041a\u0438\u0448\u043b\u0438\u043f\u043e"
     ],
-    "name:und_x_variant":[
-        "Kislipp\u00f3"
-    ],
     "name:vie_x_preferred":[
         "Kislipp\u00f3"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1276550533,
-    "wof:lastmodified":1564160429,
+    "wof:lastmodified":1566649797,
     "wof:name":"Kislippo",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

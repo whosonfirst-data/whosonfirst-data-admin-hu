@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.058764,
     "lbl:longitude":21.870641,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.058764,
     "mps:longitude":21.870641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00edrbogd\u00e1ny"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1164106e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716943,
         "gp:id":812892,
-        "qs:id":1270205,
         "qs_pg:id":1270205,
         "wd:id":"Q1184682",
         "wk:page":"Ny\u00edrbogd\u00e1ny"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237175,
+    "wof:lastmodified":1566650258,
     "wof:name":"Ny\u00edrbogd\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

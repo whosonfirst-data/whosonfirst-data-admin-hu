@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.816826,
     "lbl:longitude":19.235758,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.816826,
     "mps:longitude":19.235758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "F\u00fcl\u00f6psz\u00e1ll\u00e1s"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"116306e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052500,
         "gp:id":806788,
-        "qs:id":1042888,
         "qs_pg:id":1042888,
         "wd:id":"Q1006094",
         "wk:page":"F\u00fcl\u00f6psz\u00e1ll\u00e1s"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237573,
+    "wof:lastmodified":1566650386,
     "wof:name":"F\u00fcl\u00f6psz\u00e1ll\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

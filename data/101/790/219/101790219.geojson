@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.625272,
     "lbl:longitude":18.856705,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.625272,
     "mps:longitude":18.856705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043a\u0448"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043a\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dunak\u00f6ml\u0151d"
     ],
     "name:vie_x_preferred":[
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":274,
     "wof:belongsto":[
@@ -164,10 +167,12 @@
         "fct:id":"11642bc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046768,
         "gp:id":813391,
-        "qs:id":1053845,
         "qs_pg:id":491885,
         "wd:id":"Q740800",
         "wk:page":"Paks"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1053845
     },
     "wof:country":"HU",
     "wof:geomhash":"0e4b260ecbb8958229246326a96e1cfb",
@@ -184,7 +189,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236847,
+    "wof:lastmodified":1566650154,
     "wof:name":"Paks",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

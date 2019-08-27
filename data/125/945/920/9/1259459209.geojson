@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.36721,46.13244,17.40721,46.17244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Rinyaszentkir\u00e1ly"
     ],
@@ -53,9 +57,6 @@
         "Rinyaszentkir\u00e1ly"
     ],
     "name:slv_x_preferred":[
-        "Rinyaszentkir\u00e1ly"
-    ],
-    "name:und_x_variant":[
         "Rinyaszentkir\u00e1ly"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1259459209,
-    "wof:lastmodified":1564161238,
+    "wof:lastmodified":1566650701,
     "wof:name":"Rinyaszentkiraly",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

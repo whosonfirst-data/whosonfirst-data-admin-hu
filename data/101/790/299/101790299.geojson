@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.669719,
     "lbl:longitude":17.638582,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.669719,
     "mps:longitude":17.638582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lengyelt\u00f3ti"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":231,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"1163afe8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048852,
         "gp:id":811084,
-        "qs:id":183712,
         "qs_pg:id":183712,
         "wd:id":"Q911610",
         "wk:page":"Lengyelt\u00f3ti"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236914,
+    "wof:lastmodified":1566650175,
     "wof:name":"Lengyelt\u00f3ti",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

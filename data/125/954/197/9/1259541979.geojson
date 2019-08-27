@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.87422,47.36551,16.91422,47.40551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Tompal\u00e1dony"
     ],
@@ -53,9 +57,6 @@
         "Tompal\u00e1dony"
     ],
     "name:slv_x_preferred":[
-        "Tompal\u00e1dony"
-    ],
-    "name:und_x_variant":[
         "Tompal\u00e1dony"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1259541979,
-    "wof:lastmodified":1564161149,
+    "wof:lastmodified":1566650634,
     "wof:name":"Tompaladony",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

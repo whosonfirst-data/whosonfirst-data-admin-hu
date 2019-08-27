@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.929465,
     "lbl:longitude":20.775101,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.929465,
     "mps:longitude":20.775101,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Gyomaendr\u0151d"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044c\u043e\u043c\u0430\u0435\u043d\u0434\u0440\u0439\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Endr\u0151d"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":428,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":720364,
         "gp:id":805865,
-        "qs:id":966150,
         "qs_pg:id":966150,
         "wd:id":"Q732300",
         "wk:page":"Gyomaendr\u0151d"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":1175612755,
-    "wof:lastmodified":1563236672,
+    "wof:lastmodified":1566650027,
     "wof:name":"Gyomaendr\u0151d",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

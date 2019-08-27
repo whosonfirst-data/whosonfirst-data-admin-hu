@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.25607,47.03887,19.29607,47.07887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kunpesz\u00e9r"
     ],
@@ -62,8 +66,7 @@
         "Kunpesz\u00e9r"
     ],
     "name:und_x_variant":[
-        "Als\u00f3pesz\u00e9r",
-        "Kunpesz\u00e9r"
+        "Als\u00f3pesz\u00e9r"
     ],
     "name:vie_x_preferred":[
         "Kunpesz\u00e9r"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1293004673,
-    "wof:lastmodified":1564160170,
+    "wof:lastmodified":1566649601,
     "wof:name":"Kunpeszer",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

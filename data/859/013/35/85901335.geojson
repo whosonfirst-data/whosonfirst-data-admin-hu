@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.499842,
     "lbl:longitude":19.034531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.50375,
     "mps:longitude":19.042073,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0442\u0430\u043d\u0430-\u0434\u0435-\u041c\u0443\u0440\u0435\u0448"
     ],
-    "name:unk_x_variant":[
-        "Varhegy"
-    ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3054643,
@@ -105,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3043139,
         "gp:id":817488,
-        "qs:id":907324,
         "qs_pg:id":907324
     },
     "wof:country":"HU",
@@ -124,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649573,
     "wof:name":"Varhegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

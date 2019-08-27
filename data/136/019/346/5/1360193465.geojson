@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.22794,46.29417,18.26794,46.33417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Als\u00f3mocsol\u00e1d"
     ],
@@ -67,9 +71,6 @@
     "name:slv_x_preferred":[
         "Als\u00f3mocsol\u00e1d"
     ],
-    "name:und_x_variant":[
-        "Als\u00f3mocsol\u00e1d"
-    ],
     "name:vie_x_preferred":[
         "Als\u00f3mocsol\u00e1d"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1360193465,
-    "wof:lastmodified":1564160882,
+    "wof:lastmodified":1566650140,
     "wof:name":"Alsomocsolad",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

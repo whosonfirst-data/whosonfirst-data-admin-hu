@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.125002,
     "lbl:longitude":20.244484,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.125002,
     "mps:longitude":20.244484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Borsodn\u00e1dasd"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":107,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "fct:id":"1162a198-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722057,
         "gp:id":804254,
-        "qs:id":128909,
         "qs_pg:id":128909,
         "wd:id":"Q246691",
         "wk:page":"Borsodn\u00e1dasd"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237232,
+    "wof:lastmodified":1566650277,
     "wof:name":"Borsodn\u00e1dasd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

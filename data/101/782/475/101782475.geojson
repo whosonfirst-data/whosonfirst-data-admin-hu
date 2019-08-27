@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.181099,
     "lbl:longitude":20.82869,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.181099,
     "mps:longitude":20.82869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saj\u00f3v\u00e1mos"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -137,7 +140,6 @@
         "fct:id":"116468f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715939,
         "gp:id":814626,
-        "qs:id":419321,
         "qs_pg:id":419321,
         "wd:id":"Q689099",
         "wk:page":"Saj\u00f3v\u00e1mos"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237180,
+    "wof:lastmodified":1566650260,
     "wof:name":"Saj\u00f3v\u00e1mos",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

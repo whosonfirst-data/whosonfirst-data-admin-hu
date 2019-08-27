@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.45357,46.62173,17.49357,46.66173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Somogyszentp\u00e1l"
     ],
@@ -50,9 +54,6 @@
         "Somogyszentp\u00e1l"
     ],
     "name:slv_x_preferred":[
-        "Somogyszentp\u00e1l"
-    ],
-    "name:und_x_variant":[
         "Somogyszentp\u00e1l"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1260056335,
-    "wof:lastmodified":1564160716,
+    "wof:lastmodified":1566650002,
     "wof:name":"Somogyszentpal",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

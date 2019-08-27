@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.56591,46.11152,18.60591,46.15152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Szeb\u00e9ny"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0435\u0431\u0435\u045a"
     ],
-    "name:und_x_variant":[
-        "Szeb\u00e9ny"
-    ],
     "name:vie_x_preferred":[
         "Szeb\u00e9ny"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226552975,
-    "wof:lastmodified":1564161372,
+    "wof:lastmodified":1566650800,
     "wof:name":"Szebeny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

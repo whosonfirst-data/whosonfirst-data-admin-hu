@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.221772,
     "lbl:longitude":20.481849,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.221772,
     "mps:longitude":20.481849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Mak\u00f3"
     ],
@@ -168,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1328,
     "wof:belongsto":[
@@ -183,7 +186,6 @@
         "gn:id":717902,
         "gp:id":811437,
         "loc:id":"n80132259",
-        "qs:id":887873,
         "qs_pg:id":887873,
         "wd:id":"Q240504",
         "wk:page":"Mak\u00f3"
@@ -203,7 +205,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236910,
+    "wof:lastmodified":1566650174,
     "wof:name":"Mak\u00f3",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

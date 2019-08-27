@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.74481,47.10278,16.78481,47.14278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gyan\u00f3geregye"
     ],
@@ -59,8 +63,7 @@
         "Gyan\u00f3geregye"
     ],
     "name:und_x_variant":[
-        "Gydn\u00f3geregye",
-        "Gyan\u00f3geregye"
+        "Gydn\u00f3geregye"
     ],
     "name:vie_x_preferred":[
         "Gyan\u00f3geregye"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1226400899,
-    "wof:lastmodified":1564161355,
+    "wof:lastmodified":1566650789,
     "wof:name":"Gyanogeregye",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

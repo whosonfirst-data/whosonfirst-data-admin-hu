@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.807133,
     "lbl:longitude":20.130112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.807133,
     "mps:longitude":20.130112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cs\u00e9pa"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         "fct:id":"1162b93a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721779,
         "gp:id":804778,
-        "qs:id":966115,
+        "qs_pg:id":966115,
         "wd:id":"Q875678",
         "wk:page":"Cs\u00e9pa"
     },
@@ -108,7 +111,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237564,
+    "wof:lastmodified":1566650382,
     "wof:name":"Cs\u00e9pa",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

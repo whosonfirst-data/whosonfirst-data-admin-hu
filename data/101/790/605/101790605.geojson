@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.41015,
     "lbl:longitude":20.921858,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.41015,
     "mps:longitude":20.921858,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mez\u0151kov\u00e1csh\u00e1za"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0437\u0439\u043e\u043a\u043e\u0432\u0430\u0447\u0433\u0430\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reform\u00e1tuskov\u00e1csh\u00e1za"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -125,7 +128,6 @@
     "wof:concordances":{
         "gn:id":717656,
         "gp:id":811917,
-        "qs:id":211576,
         "qs_pg:id":211576,
         "wd:id":"Q855032",
         "wk:page":"Mez\u0151kov\u00e1csh\u00e1za"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101790605,
-    "wof:lastmodified":1563236854,
+    "wof:lastmodified":1566650156,
     "wof:name":"Mez\u0151kov\u00e1csh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

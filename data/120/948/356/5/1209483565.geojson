@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.09667,46.86333,17.13667,46.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":3043418
     },
     "wof:country":"HU",
-    "wof:geomhash":"b792ed09543b4d3d1139091227fcb19c",
+    "wof:geomhash":"4afedbe7f98de32db3fe257830c881bd",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209483565,
-    "wof:lastmodified":1536285706,
+    "wof:lastmodified":1566649854,
     "wof:name":"Ujtelep",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.116670000000006,
+    17.11667000000001,
     46.88333,
-    17.116670000000006,
+    17.11667000000001,
     46.88333
 ],
   "geometry": {"coordinates":[17.11667000000001,46.88333],"type":"Point"}

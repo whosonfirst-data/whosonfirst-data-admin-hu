@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.503104,
     "lbl:longitude":17.234284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.503104,
     "mps:longitude":17.234284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szil"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"1164aac4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044455,
         "gp:id":815837,
-        "qs:id":1270565,
+        "qs_pg:id":1270565,
         "wd:id":"Q727051",
         "wk:page":"Szil"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237487,
+    "wof:lastmodified":1566650358,
     "wof:name":"Szil",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.212958,
     "lbl:longitude":20.317397,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.212958,
     "mps:longitude":20.317397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tiszap\u00fcsp\u00f6ki"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"1164d1d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714724,
         "gp:id":816563,
-        "qs:id":178778,
         "qs_pg:id":178778,
         "wd:id":"Q379221",
         "wk:page":"Tiszap\u00fcsp\u00f6ki"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237361,
+    "wof:lastmodified":1566650317,
     "wof:name":"Tiszap\u00fcsp\u00f6ki",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

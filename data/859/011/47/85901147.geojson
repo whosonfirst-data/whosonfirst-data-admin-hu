@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2760104.691125,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.750695,47.80629,18.750695,47.80629",
     "geom:latitude":47.80629,
     "geom:longitude":18.750695,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPLX",
     "gn:latitude":47.78333,
     "gn:longitude":18.75,
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"18.745695,47.80129,18.755695,47.81129",
     "lbl:latitude":47.80629,
     "lbl:longitude":18.750695,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.818688,
     "mps:longitude":18.778381,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
         "Kisf\u00e1ri"
     ],
     "name:hun_x_variant":[
-        "Kisf\u00e1rid\u016fl\u0151"
-    ],
-    "name:unk_x_variant":[
-        "Kisf\u00e1ri",
         "Kisf\u00e1rid\u016fl\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -90,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3050011,
         "gp:id":809675,
-        "qs:id":1218765,
         "qs_pg:id":1218765
     },
     "wof:country":"HU",
@@ -120,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1534379335,
+    "wof:lastmodified":1566649586,
     "wof:name":"Kisf\u00e1ri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

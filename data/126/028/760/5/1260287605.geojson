@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.34417,45.83861,18.38417,45.87861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kishars\u00e1ny"
     ],
@@ -66,8 +70,7 @@
         "Kishars\u00e1ny"
     ],
     "name:und_x_variant":[
-        "Kishar\u00e1ny",
-        "Kishars\u00e1ny"
+        "Kishar\u00e1ny"
     ],
     "name:vie_x_preferred":[
         "Kishars\u00e1ny"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1260287605,
-    "wof:lastmodified":1564160702,
+    "wof:lastmodified":1566649994,
     "wof:name":"Kisharsany",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

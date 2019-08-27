@@ -10,12 +10,16 @@
     "geom:latitude":48.049419,
     "geom:longitude":20.165397,
     "iso:country":"HU",
+    "lbl:bbox":"20.145397,48.029419,20.185397,48.069419",
     "lbl:latitude":48.049419,
     "lbl:longitude":20.165397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.049419,
     "mps:longitude":20.165397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "B\u00fckkszenterzs\u00e9bet"
     ],
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -108,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751543,
+    "wof:lastmodified":1566650193,
     "wof:name":"B\u00fckkszenterzs\u00e9bet",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

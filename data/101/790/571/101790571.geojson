@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.601833,
     "lbl:longitude":21.075834,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.601833,
     "mps:longitude":21.075834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
@@ -72,9 +75,6 @@
     "name:swe_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
-    "name:unk_x_variant":[
-        "\u00d3kigy\u00f3s"
-    ],
     "name:vie_x_preferred":[
         "Szabadk\u00edgy\u00f3s"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
         "fct:id":"116489cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715614,
         "gp:id":815207,
-        "qs:id":1218907,
         "qs_pg:id":1218907,
         "wd:id":"Q1076471",
         "wk:page":"Szabadk\u00edgy\u00f3s"
@@ -131,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236915,
+    "wof:lastmodified":1566650175,
     "wof:name":"Szabadk\u00edgy\u00f3s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

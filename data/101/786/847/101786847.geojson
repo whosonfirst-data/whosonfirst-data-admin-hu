@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.528906,
     "lbl:longitude":20.802079,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.528906,
     "mps:longitude":20.802079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pusztaf\u00f6ldv\u00e1r"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
         "fct:id":"11644e1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716282,
         "gp:id":814085,
-        "qs:id":1283050,
         "qs_pg:id":1283050,
         "wd:id":"Q1075542",
         "wk:page":"Pusztaf\u00f6ldv\u00e1r"
@@ -125,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237454,
+    "wof:lastmodified":1566650347,
     "wof:name":"Pusztaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

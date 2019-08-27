@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10885254.434666,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.194217,46.06802,18.194217,46.06802",
     "geom:latitude":46.06802,
     "geom:longitude":18.194217,
     "gn:latitude":46.08333,
     "gn:longitude":18.2,
     "iso:country":"HU",
+    "lbl:bbox":"18.189217,46.06302,18.199217,46.07302",
     "lbl:latitude":46.06802,
     "lbl:longitude":18.194217,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.064425,
     "mps:longitude":18.185269,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     ],
     "name:hun_x_variant":[
         "Szkok\u00f3d\u016fl\u0151"
-    ],
-    "name:unk_x_variant":[
-        "Szkok\u00f3d\u016fl\u0151",
-        "Szk\u00f3k\u00f3"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684839,
         102191581,
         85633237,
         404227491,
-        101751663
+        101751663,
+        85684839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3044389,
         "gp:id":815925,
-        "qs:id":238621,
         "qs_pg:id":238621
     },
     "wof:country":"HU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932470,
+    "wof:lastmodified":1566649569,
     "wof:name":"Szk\u00f3k\u00f3",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.198755,
     "lbl:longitude":16.694619,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.198755,
     "mps:longitude":16.694619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u00e1pl\u00e1nszentkereszt"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1164bac8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044144,
         "gp:id":816229,
-        "qs:id":939800,
         "qs_pg:id":939800,
         "wd:id":"Q602807",
         "wk:page":"T\u00e1pl\u00e1nszentkereszt"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237023,
+    "wof:lastmodified":1566650210,
     "wof:name":"T\u00e1pl\u00e1nszentkereszt",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

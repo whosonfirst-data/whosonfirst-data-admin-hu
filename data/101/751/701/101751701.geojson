@@ -9,15 +9,18 @@
     "geom:bbox":"18.9077185,46.9203795,18.96299,46.998131",
     "geom:latitude":46.960753,
     "geom:longitude":18.934696,
-    "geonames:id":"3047474,3053438",
+    "gn:id":"3047474,3053438",
     "gn:population":50084,
     "iso:country":"HU",
     "lbl:latitude":46.963038,
     "lbl:longitude":18.929693,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.963038,
     "mps:longitude":18.929693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u0627\u0648\u062c\u0641\u0627\u0631\u0648\u0633"
     ],
@@ -174,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0443\u0439\u0432\u0430\u0440\u043e\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stalinvaros"
     ],
     "name:vie_x_preferred":[
@@ -205,9 +208,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"53",
     "statoids:area_mi":"20",
     "statoids:as_of_date":"2011-10-01",
@@ -234,7 +237,6 @@
         "gp:id":805702,
         "hasc:id":"HU.DU",
         "iso:id":"HU-DU",
-        "qs:id":1053846,
         "qs_pg:id":1053846,
         "wd:id":"Q187812",
         "wk:page":"Duna\u00fajv\u00e1ros"
@@ -251,11 +253,10 @@
         }
     ],
     "wof:id":101751701,
-    "wof:lastmodified":1563237300,
+    "wof:lastmodified":1566650299,
     "wof:name":"Duna\u00fajv\u00e1ros",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":48484,
     "wof:population_rank":7,

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.426873,
     "lbl:longitude":21.161681,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.426873,
     "mps:longitude":21.161681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u00e1dudvar"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"1163e8be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717449,
         "gp:id":812230,
-        "qs:id":229053,
         "qs_pg:id":229053,
         "wd:id":"Q933389",
         "wk:page":"N\u00e1dudvar"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237336,
+    "wof:lastmodified":1566650307,
     "wof:name":"N\u00e1dudvar",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

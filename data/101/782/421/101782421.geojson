@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.298969,
     "lbl:longitude":21.704797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.298969,
     "mps:longitude":21.704797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Bodroghalom"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         "fct:id":"1162973e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722191,
         "gp:id":804067,
-        "qs:id":1269246,
+        "qs_pg:id":1269246,
         "wd:id":"Q833105",
         "wk:page":"Bodroghalom"
     },
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237178,
+    "wof:lastmodified":1566650259,
     "wof:name":"Bodroghalom",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

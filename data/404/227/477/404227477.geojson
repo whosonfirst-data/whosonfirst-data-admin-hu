@@ -10,8 +10,11 @@
     "geom:latitude":48.047186,
     "geom:longitude":20.48776,
     "iso:country":"HU",
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "name:aze_x_preferred":[
         "\u015eimali Macar\u0131stan"
     ],
@@ -134,7 +137,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563237651,
+    "wof:lastmodified":1566650432,
     "wof:name":"Northern Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

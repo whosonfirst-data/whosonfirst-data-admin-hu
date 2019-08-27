@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.923381,
     "lbl:longitude":17.554722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.923381,
     "mps:longitude":17.554722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Monostorap\u00e1ti"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1163e2ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047937,
         "gp:id":812116,
-        "qs:id":183783,
+        "qs_pg:id":183783,
         "wd:id":"Q278343",
         "wk:page":"Monostorap\u00e1ti"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237549,
+    "wof:lastmodified":1566650378,
     "wof:name":"Monostorap\u00e1ti",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

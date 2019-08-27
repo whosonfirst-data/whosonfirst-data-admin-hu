@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.541639,
     "lbl:longitude":19.036828,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.548812,
     "mps:longitude":19.022076,
     "mz:hierarchy_label":1,
@@ -134,10 +135,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0443\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u00d3buda",
-        "\u00d3buda"
-    ],
     "name:zho_x_preferred":[
         "\u53e4\u5e03\u9054"
     ],
@@ -183,7 +180,6 @@
     "wof:concordances":{
         "gn:id":3047211,
         "gp:id":812977,
-        "qs:id":891511,
         "qs_pg:id":891511,
         "wd:id":"Q292927",
         "wk:page":"\u00d3buda"
@@ -204,7 +200,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247545,
+    "wof:lastmodified":1566649566,
     "wof:name":"Obuda",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

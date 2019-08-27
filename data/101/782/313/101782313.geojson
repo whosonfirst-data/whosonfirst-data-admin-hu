@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.26993,
     "lbl:longitude":22.102759,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.26993,
     "mps:longitude":22.102759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "F\u00e9nyeslitke"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1163002a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720846,
         "gp:id":806554,
-        "qs:id":255368,
         "qs_pg:id":255368,
         "wd:id":"Q540007",
         "wk:page":"F\u00e9nyeslitke"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237173,
+    "wof:lastmodified":1566650257,
     "wof:name":"F\u00e9nyeslitke",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

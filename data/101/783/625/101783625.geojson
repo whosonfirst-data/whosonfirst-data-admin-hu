@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.187232,
     "lbl:longitude":20.204319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.187232,
     "mps:longitude":20.204319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Borsodszentgy\u00f6rgy"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
         "fct:id":"1162a1ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722056,
         "gp:id":804256,
-        "qs:id":401673,
+        "qs_pg:id":401673,
         "wd:id":"Q848045",
         "wk:page":"Borsodszentgy\u00f6rgy"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237231,
+    "wof:lastmodified":1566650277,
     "wof:name":"Borsodszentgy\u00f6rgy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

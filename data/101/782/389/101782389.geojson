@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.026254,
     "lbl:longitude":22.133386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.026254,
     "mps:longitude":22.133386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rohod"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,7 @@
         "fct:id":"116460d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716066,
         "gp:id":814460,
-        "qs:id":998240,
+        "qs_pg:id":998240,
         "wd:id":"Q1089043",
         "wk:page":"Rohod"
     },
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237190,
+    "wof:lastmodified":1566650263,
     "wof:name":"Rohod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

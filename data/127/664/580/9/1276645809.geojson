@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.74102,47.47699,16.78102,47.51699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "V\u00f6lcsej"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "V\u00f6lcsej"
     ],
-    "name:und_x_variant":[
-        "V\u00f6lcsej"
-    ],
     "name:vie_x_preferred":[
         "V\u00f6lcsej"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1276645809,
-    "wof:lastmodified":1564160434,
+    "wof:lastmodified":1566649802,
     "wof:name":"Volcsej",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

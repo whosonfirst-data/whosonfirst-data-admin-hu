@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.74106,46.53839,16.78106,46.57839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "V\u00e1rf\u00f6lde"
     ],
@@ -53,9 +57,6 @@
         "V\u00e1rf\u00f6lde"
     ],
     "name:slv_x_preferred":[
-        "V\u00e1rf\u00f6lde"
-    ],
-    "name:und_x_variant":[
         "V\u00e1rf\u00f6lde"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1226097987,
-    "wof:lastmodified":1564161402,
+    "wof:lastmodified":1566650824,
     "wof:name":"Varfolde",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

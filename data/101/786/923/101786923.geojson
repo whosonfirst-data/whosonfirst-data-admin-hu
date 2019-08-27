@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.507642,
     "lbl:longitude":20.821624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.507642,
     "mps:longitude":20.821624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tisza\u00f6rs"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
         "fct:id":"1164d170-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714731,
         "gp:id":816556,
-        "qs:id":915176,
+        "qs_pg:id":915176,
         "wd:id":"Q616082",
         "wk:page":"Tisza\u00f6rs"
     },
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237444,
+    "wof:lastmodified":1566650344,
     "wof:name":"Tisza\u00f6rs",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

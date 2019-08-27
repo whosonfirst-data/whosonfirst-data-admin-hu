@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.567566,
     "lbl:longitude":19.0914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.565406,
     "mps:longitude":19.095184,
     "mz:hierarchy_label":1,
@@ -104,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0439\u043f\u0435\u0448\u0442"
     ],
-    "name:unk_x_variant":[
-        "\u00dajpest"
-    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn IV"
     ],
@@ -152,7 +150,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":817084,
-        "qs:id":1151762,
         "qs_pg:id":1151762,
         "wd:id":"Q330195"
     },
@@ -172,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649575,
     "wof:name":"\u00dajpest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

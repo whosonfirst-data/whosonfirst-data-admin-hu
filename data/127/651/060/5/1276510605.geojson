@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.98505,46.51971,18.02505,46.55971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gad\u00e1cs"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Gad\u00e1cs"
     ],
-    "name:und_x_variant":[
-        "Gad\u00e1cs"
-    ],
     "name:vie_x_preferred":[
         "Gad\u00e1cs"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1276510605,
-    "wof:lastmodified":1564160358,
+    "wof:lastmodified":1566649745,
     "wof:name":"Gadacs",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.172163,
     "lbl:longitude":20.732839,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.172163,
     "mps:longitude":20.732839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Saj\u00f3b\u00e1bony"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":17,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "fct:id":"1164650a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715970,
         "gp:id":814604,
-        "qs:id":128872,
         "qs_pg:id":128872,
         "wd:id":"Q1008708",
         "wk:page":"Saj\u00f3b\u00e1bony"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237002,
+    "wof:lastmodified":1566650201,
     "wof:name":"Saj\u00f3b\u00e1bony",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

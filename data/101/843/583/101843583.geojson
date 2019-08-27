@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.971112,
     "lbl:longitude":22.191459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.971112,
     "mps:longitude":22.191459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u0150r"
     ],
@@ -58,7 +61,7 @@
     "name:slv_x_preferred":[
         "\u0150r"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "E\u00f6r"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":716790,
         "gp:id":813089,
-        "qs:id":1270233,
+        "qs_pg:id":1270233,
         "wd:id":"Q1185326",
         "wk:page":"\u0150r"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101843583,
-    "wof:lastmodified":1563237008,
+    "wof:lastmodified":1566650203,
     "wof:name":"\u0150r",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

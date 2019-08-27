@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.764159,
     "lbl:longitude":19.701553,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.764159,
     "mps:longitude":19.701553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pet\u0151fib\u00e1nya"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Pet\u0151fib\u00e1nya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pet\u0151fi B\u00e1nyatelep"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":305,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3046387,
         "gp:id":813797,
-        "qs:id":1140298,
         "qs_pg:id":1140298,
         "wd:id":"Q1185245",
         "wk:page":"Pet\u0151fib\u00e1nya"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101780107,
-    "wof:lastmodified":1563237502,
+    "wof:lastmodified":1566650363,
     "wof:name":"Pet\u0151fib\u00e1nya",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

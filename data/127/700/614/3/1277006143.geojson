@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.03,48.41333,21.07,48.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cseny\u00e9te"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Cseny\u00e9te"
     ],
-    "name:und_x_variant":[
-        "Cseny\u00e9te"
-    ],
     "name:vie_x_preferred":[
         "Cseny\u00e9te"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1277006143,
-    "wof:lastmodified":1564160316,
+    "wof:lastmodified":1566649711,
     "wof:name":"Csenyete",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

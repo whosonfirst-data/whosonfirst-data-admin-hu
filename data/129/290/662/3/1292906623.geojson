@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.34272,45.8002,18.38272,45.8402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sikl\u00f3snagyfalu"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "Sikl\u00f3snagyfalu"
     ],
-    "name:und_x_variant":[
-        "Sikl\u00f3snagyfalu"
-    ],
     "name:vie_x_preferred":[
         "Sikl\u00f3snagyfalu"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1292906623,
-    "wof:lastmodified":1564160263,
+    "wof:lastmodified":1566649669,
     "wof:name":"Siklosnagyfalu",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

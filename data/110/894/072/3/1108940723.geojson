@@ -10,9 +10,12 @@
     "geom:latitude":47.459743,
     "geom:longitude":19.092061,
     "iso:country":"HU",
+    "lbl:bbox":"19.0870611665,47.4547427449,19.0970611665,47.4647427449",
     "lbl:latitude":47.459743,
     "lbl:longitude":19.092061,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "K\u00fcls\u0151-Ferencv\u00e1ros"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108940723,
-    "wof:lastmodified":1497292355,
+    "wof:lastmodified":1566650018,
     "wof:name":"Kulso-Ferencvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

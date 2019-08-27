@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.018335,
     "lbl:longitude":18.211203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.018335,
     "mps:longitude":18.211203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Balatonf\u0151kaj\u00e1r"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3055572,
         "gp:id":803233,
-        "qs:id":910515,
         "qs_pg:id":910515,
         "wd:id":"Q789279",
         "wk:page":"Balatonf\u0151kaj\u00e1r"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101789349,
-    "wof:lastmodified":1563237550,
+    "wof:lastmodified":1566650378,
     "wof:name":"Balatonf\u0151kaj\u00e1r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

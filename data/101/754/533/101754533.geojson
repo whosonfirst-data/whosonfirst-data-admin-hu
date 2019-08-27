@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.645654,
     "lbl:longitude":19.022172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.645654,
     "mps:longitude":19.022172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Pom\u00e1z"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"1164467e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046230,
         "gp:id":813959,
-        "qs:id":491720,
         "qs_pg:id":491720,
         "wd:id":"Q842923",
         "wk:page":"Pom\u00e1z"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236926,
+    "wof:lastmodified":1566650178,
     "wof:name":"Pom\u00e1z",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

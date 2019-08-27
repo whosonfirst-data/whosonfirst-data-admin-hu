@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4484362.371837,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.747437,47.931067,21.747437,47.931067",
     "geom:latitude":47.931067,
     "geom:longitude":21.747437,
     "iso:country":"HU",
+    "lbl:bbox":"21.742437,47.926067,21.752437,47.936067",
     "lbl:latitude":47.931067,
     "lbl:longitude":21.747437,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.931066,
     "mps:longitude":21.747437,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:hun_x_variant":[
         "Borb\u00e1nya H\u00e1zhely"
-    ],
-    "name:unk_x_variant":[
-        "Borb\u00e1nya"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_id":0,
@@ -64,13 +63,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684915,
         102191581,
         85633237,
         404227483,
-        101751721
+        101751721,
+        85684915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +91,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932426,
+    "wof:lastmodified":1566649587,
     "wof:name":"Borb\u00e1nya",
     "wof:parent_id":101751721,
     "wof:placetype":"neighbourhood",

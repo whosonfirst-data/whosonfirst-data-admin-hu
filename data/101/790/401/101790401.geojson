@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.506483,
     "lbl:longitude":20.537443,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.506483,
     "mps:longitude":20.537443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sz\u00e9kkutas"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_preferred":[
         "Sz\u00e9kkutas"
     ],
-    "name:unk_x_variant":[
-        "V\u00e1s\u00e1rhelykutas"
-    ],
     "name:vie_x_preferred":[
         "Sz\u00e9kkutas"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"11649b38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715393,
         "gp:id":815538,
-        "qs:id":57330,
         "qs_pg:id":57330,
         "wd:id":"Q938117",
         "wk:page":"Sz\u00e9kkutas"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236851,
+    "wof:lastmodified":1566650155,
     "wof:name":"Sz\u00e9kkutas",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

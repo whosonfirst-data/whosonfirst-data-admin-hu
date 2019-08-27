@@ -10,9 +10,12 @@
     "geom:latitude":47.442563,
     "geom:longitude":19.108941,
     "iso:country":"HU",
+    "lbl:bbox":"19.1039412104,47.4375628072,19.1139412104,47.4475628072",
     "lbl:latitude":47.442563,
     "lbl:longitude":19.108941,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "Erzs\u00e9betfalva"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108940727,
-    "wof:lastmodified":1497292355,
+    "wof:lastmodified":1566650018,
     "wof:name":"Erzsebetfalva",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

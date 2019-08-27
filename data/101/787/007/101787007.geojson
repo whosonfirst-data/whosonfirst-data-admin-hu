@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.593886,
     "lbl:longitude":16.730374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.593886,
     "mps:longitude":16.730374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pereszteg"
     ],
@@ -73,9 +76,6 @@
     "name:slv_x_preferred":[
         "Pereszteg"
     ],
-    "name:unk_x_variant":[
-        "Sopronsz\u00e9cseny"
-    ],
     "name:vie_x_preferred":[
         "Pereszteg"
     ],
@@ -99,7 +99,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -112,7 +112,7 @@
         "fct:id":"11643bf2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046466,
         "gp:id":813719,
-        "qs:id":917593,
+        "qs_pg:id":917593,
         "wd:id":"Q255197",
         "wk:page":"Pereszteg"
     },
@@ -131,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237476,
+    "wof:lastmodified":1566650354,
     "wof:name":"Pereszteg",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

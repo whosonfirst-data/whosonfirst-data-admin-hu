@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.600738,
     "lbl:longitude":18.349163,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.600738,
     "mps:longitude":18.349163,
     "mz:hierarchy_label":1,
@@ -223,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u043e\u043c-\u0415\u0441\u0442\u0435\u0440\u0491\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kom\u00e1rom Megye"
     ],
     "name:urd_x_preferred":[
@@ -317,9 +318,9 @@
     "qs:type":"Megye",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"2,173",
     "statoids:area_mi":"839",
     "statoids:as_of_date":"2011-10-01",
@@ -366,11 +367,10 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1565714758,
+    "wof:lastmodified":1566649595,
     "wof:name":"Kom\u00e1rom-Esztergom",
     "wof:parent_id":404227479,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":236815,
     "wof:population_rank":10,

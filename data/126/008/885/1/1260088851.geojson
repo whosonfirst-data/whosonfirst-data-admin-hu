@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.97399,45.80687,18.01399,45.84687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hirics"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1260088851,
-    "wof:lastmodified":1564160688,
+    "wof:lastmodified":1566649983,
     "wof:name":"Hirics",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

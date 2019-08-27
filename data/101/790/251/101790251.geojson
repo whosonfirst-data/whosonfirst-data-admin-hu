@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.492077,
     "lbl:longitude":18.19185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.492077,
     "mps:longitude":18.19185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dalmand"
     ],
@@ -64,9 +67,6 @@
     "name:slv_x_preferred":[
         "Dalmand"
     ],
-    "name:unk_x_variant":[
-        "\u00d3dalmand"
-    ],
     "name:vie_x_preferred":[
         "Dalmand"
     ],
@@ -90,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,7 @@
         "fct:id":"1162c858-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053820,
         "gp:id":805268,
-        "qs:id":97829,
+        "qs_pg:id":97829,
         "wd:id":"Q652119",
         "wk:page":"Dalmand"
     },
@@ -122,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236861,
+    "wof:lastmodified":1566650158,
     "wof:name":"Dalmand",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

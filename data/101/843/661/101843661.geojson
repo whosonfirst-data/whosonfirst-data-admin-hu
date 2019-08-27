@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.225857,
     "lbl:longitude":20.285963,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.225857,
     "mps:longitude":20.285963,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bar_x_preferred":[
         "\u00d3zd"
     ],
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0437\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolyok"
     ],
     "name:vie_x_preferred":[
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -170,7 +173,6 @@
         "fct:id":"1165431c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716671,
         "gp:id":813351,
-        "qs:id":907105,
         "qs_pg:id":907105,
         "wd:id":"Q293558",
         "wk:page":"\u00d3zd"
@@ -190,7 +192,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236993,
+    "wof:lastmodified":1566650198,
     "wof:name":"\u00d3zd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

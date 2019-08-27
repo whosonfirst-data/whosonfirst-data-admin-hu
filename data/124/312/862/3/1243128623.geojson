@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.82313,47.34167,16.86313,47.38167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Chernelh\u00e1zadamonya"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "Chernelh\u00e1zadamonya"
     ],
-    "name:und_x_variant":[
-        "Chernelh\u00e1zadamonya"
-    ],
     "name:vie_x_preferred":[
         "Chernelh\u00e1zadamonya"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1243128623,
-    "wof:lastmodified":1564161050,
+    "wof:lastmodified":1566650555,
     "wof:name":"Chernelhazadamonya",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

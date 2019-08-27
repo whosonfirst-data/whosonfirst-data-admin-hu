@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15146771.128525,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.273254,47.866246,17.273254,47.866246",
     "geom:latitude":47.866246,
     "geom:longitude":17.273254,
     "gn:latitude":47.86667,
     "gn:longitude":17.28333,
     "iso:country":"HU",
+    "lbl:bbox":"17.268254,47.861246,17.278254,47.871246",
     "lbl:latitude":47.866246,
     "lbl:longitude":17.273254,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.849642,
     "mps:longitude":17.267062,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
         "Szalaipuszta"
     ],
     "name:hun_x_preferred":[
-        "Szalaitanya"
-    ],
-    "name:unk_x_variant":[
-        "Szalaipuszta",
         "Szalaitanya"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,13 +66,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684895,
         102191581,
         85633237,
         404227481,
-        101785837
+        101785837,
+        85684895
     ],
     "wof:breaches":[
         85901185
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":3044960,
         "gp:id":815309,
-        "qs:id":229065,
         "qs_pg:id":229065
     },
     "wof:country":"HU",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932468,
+    "wof:lastmodified":1566649567,
     "wof:name":"Szalaitanya",
     "wof:parent_id":101785837,
     "wof:placetype":"neighbourhood",

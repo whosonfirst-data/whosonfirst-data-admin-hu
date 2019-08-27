@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.726939,
     "lbl:longitude":19.256722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.726939,
     "mps:longitude":19.256722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "V\u00e1charty\u00e1n"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"1164ed4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043288,
         "gp:id":817319,
-        "qs:id":983569,
         "qs_pg:id":983569,
         "wd:id":"Q763969",
         "wk:page":"V\u00e1charty\u00e1n"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236968,
+    "wof:lastmodified":1566650190,
     "wof:name":"V\u00e1charty\u00e1n",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

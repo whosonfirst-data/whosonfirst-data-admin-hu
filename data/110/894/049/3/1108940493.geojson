@@ -10,9 +10,12 @@
     "geom:latitude":47.518824,
     "geom:longitude":18.965089,
     "iso:country":"HU",
+    "lbl:bbox":"18.9600889041,47.513823607,18.9700889041,47.523823607",
     "lbl:latitude":47.518824,
     "lbl:longitude":18.965089,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "J\u00e1noshegy"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108940493,
-    "wof:lastmodified":1497292355,
+    "wof:lastmodified":1566650007,
     "wof:name":"Janoshegy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

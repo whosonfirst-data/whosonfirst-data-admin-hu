@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.823629,
     "lbl:longitude":21.233974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.823629,
     "mps:longitude":21.233974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
-    "name:unk_x_variant":[
-        "G\u00f6rbeh\u00e1zapuszta"
-    ],
     "name:vie_x_preferred":[
         "G\u00f6rbeh\u00e1za"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -110,7 +110,6 @@
         "fct:id":"1163198e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720480,
         "gp:id":807196,
-        "qs:id":420725,
         "qs_pg:id":420725,
         "wd:id":"Q685324",
         "wk:page":"G\u00f6rbeh\u00e1za"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237262,
+    "wof:lastmodified":1566650287,
     "wof:name":"G\u00f6rbeh\u00e1za",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

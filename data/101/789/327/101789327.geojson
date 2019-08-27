@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.121105,
     "lbl:longitude":17.373481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.121105,
     "mps:longitude":17.373481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Soml\u00f3v\u00e1s\u00e1rhely"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
         "fct:id":"11647bda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045268,
         "gp:id":814987,
-        "qs:id":1349045,
         "qs_pg:id":1349045,
         "wd:id":"Q507779",
         "wk:page":"Soml\u00f3v\u00e1s\u00e1rhely"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751593,
+    "wof:lastmodified":1566650391,
     "wof:name":"Soml\u00f3v\u00e1s\u00e1rhely",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

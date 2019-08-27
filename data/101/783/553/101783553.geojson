@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.050591,
     "lbl:longitude":21.705906,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.050591,
     "mps:longitude":21.705906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00f3taj"
     ],
@@ -69,9 +72,6 @@
     "name:swe_x_preferred":[
         "K\u00f3taj"
     ],
-    "name:unk_x_variant":[
-        "Kereszt\u00fat"
-    ],
     "name:vie_x_preferred":[
         "K\u00f3taj"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -108,7 +108,6 @@
         "fct:id":"11639f26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718480,
         "gp:id":810470,
-        "qs:id":219024,
         "qs_pg:id":219024,
         "wd:id":"Q1125048",
         "wk:page":"K\u00f3taj"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237230,
+    "wof:lastmodified":1566650277,
     "wof:name":"K\u00f3taj",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

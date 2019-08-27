@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.801113,
     "lbl:longitude":22.063808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.801113,
     "mps:longitude":22.063808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00edrbog\u00e1t"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u0457\u0440\u0431\u043e\u0433\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Nyirbognt"
-    ],
     "name:vie_x_preferred":[
         "Ny\u00edrbog\u00e1t"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -110,7 +110,6 @@
         "fct:id":"1164103c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716945,
         "gp:id":812891,
-        "qs:id":1270206,
         "qs_pg:id":1270206,
         "wd:id":"Q1185749",
         "wk:page":"Ny\u00edrbog\u00e1t"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237230,
+    "wof:lastmodified":1566650277,
     "wof:name":"Ny\u00edrbog\u00e1t",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.493881,
     "lbl:longitude":17.688839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.493881,
     "mps:longitude":17.688839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sokor\u00f3p\u00e1tka"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":10,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         "fct:id":"116479aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045306,
         "gp:id":814961,
-        "qs:id":939771,
+        "qs_pg:id":939771,
         "wd:id":"Q921893",
         "wk:page":"Sokor\u00f3p\u00e1tka"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1175612745,
-    "wof:lastmodified":1561751528,
+    "wof:lastmodified":1566650027,
     "wof:name":"Sokor\u00f3p\u00e1tka",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

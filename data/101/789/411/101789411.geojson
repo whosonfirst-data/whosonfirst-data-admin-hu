@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.734315,
     "lbl:longitude":21.242802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.734315,
     "mps:longitude":21.242802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u043e\u0437"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1162d1f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721349,
         "gp:id":805506,
-        "qs:id":1028685,
         "qs_pg:id":1028685,
         "wd:id":"Q907228",
         "wk:page":"Doboz"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237572,
+    "wof:lastmodified":1566650385,
     "wof:name":"Doboz",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

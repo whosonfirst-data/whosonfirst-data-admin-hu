@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.788637,
     "lbl:longitude":20.99576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.788637,
     "mps:longitude":20.99576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u0441\u0437\u0430\u043a\u0435\u0441\u0437\u0438"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"1164cf9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714751,
         "gp:id":816542,
-        "qs:id":1270635,
         "qs_pg:id":1270635,
         "wd:id":"Q368964",
         "wk:page":"Tiszakeszi"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237278,
+    "wof:lastmodified":1566650293,
     "wof:name":"Tiszakeszi",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.597656,
     "lbl:longitude":16.894034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.597656,
     "mps:longitude":16.894034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pet\u0151h\u00e1za"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3046379,
         "gp:id":813807,
-        "qs:id":1218887,
         "qs_pg:id":1218887,
         "wd:id":"Q179253",
         "wk:page":"Pet\u0151h\u00e1za"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101833321,
-    "wof:lastmodified":1563237086,
+    "wof:lastmodified":1566650230,
     "wof:name":"Pet\u0151h\u00e1za",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.828518,
     "lbl:longitude":19.891751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.828518,
     "mps:longitude":19.891751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gy\u00f6ngy\u00f6soroszi"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,6 @@
         "fct:id":"1163205a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052027,
         "gp:id":807377,
-        "qs:id":42166,
         "qs_pg:id":42166,
         "wd:id":"Q1030383",
         "wk:page":"Gy\u00f6ngy\u00f6soroszi"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237280,
+    "wof:lastmodified":1566650294,
     "wof:name":"Gy\u00f6ngy\u00f6soroszi",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

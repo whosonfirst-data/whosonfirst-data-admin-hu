@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.132518,
     "lbl:longitude":21.74109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.132518,
     "mps:longitude":21.74109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nagyhal\u00e1sz"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
         "fct:id":"1163f0de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717345,
         "gp:id":812369,
-        "qs:id":1080426,
         "qs_pg:id":1080426,
         "wd:id":"Q933442",
         "wk:page":"Nagyhal\u00e1sz"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236986,
+    "wof:lastmodified":1566650196,
     "wof:name":"Nagyhal\u00e1sz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

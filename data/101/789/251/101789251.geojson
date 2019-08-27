@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.816409,
     "lbl:longitude":19.760098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.816409,
     "mps:longitude":19.760098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e1rosf\u00f6ld"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
         "fct:id":"1164f6dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043111,
         "gp:id":817513,
-        "qs:id":255482,
         "qs_pg:id":255482,
         "wd:id":"Q951375"
     },
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237538,
+    "wof:lastmodified":1566650373,
     "wof:name":"V\u00e1rosf\u00f6ld",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

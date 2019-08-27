@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.033095,
     "lbl:longitude":18.152808,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.033095,
     "mps:longitude":18.152808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pell\u00e9rd"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"116438be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046499,
         "gp:id":813670,
-        "qs:id":939722,
         "qs_pg:id":939722,
         "wd:id":"Q1074853",
         "wk:page":"Pell\u00e9rd"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236950,
+    "wof:lastmodified":1566650185,
     "wof:name":"Pell\u00e9rd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

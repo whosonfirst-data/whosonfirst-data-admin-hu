@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.864035,
     "lbl:longitude":20.433844,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.864035,
     "mps:longitude":20.433844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ostoros"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
         "fct:id":"1164278e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716706,
         "gp:id":813300,
-        "qs:id":907106,
         "qs_pg:id":907106,
         "wd:id":"Q1071246"
     },
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237260,
+    "wof:lastmodified":1566650286,
     "wof:name":"Ostoros",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

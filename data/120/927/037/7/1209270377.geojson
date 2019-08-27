@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.96981,46.65125,17.00981,46.69125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":3043133
     },
     "wof:country":"HU",
-    "wof:geomhash":"16598d4a3cb3b1ad39ebae90806b630b",
+    "wof:geomhash":"b4b8610048cc3b71901236c0fefe1b01",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209270377,
-    "wof:lastmodified":1536292379,
+    "wof:lastmodified":1566649907,
     "wof:name":"Varhelypuszta",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.989810000000002,
+    16.98981,
     46.67125,
-    16.989810000000002,
+    16.98981,
     46.67125
 ],
   "geometry": {"coordinates":[16.98981,46.67125],"type":"Point"}

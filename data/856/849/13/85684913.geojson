@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.974233,
     "lbl:longitude":19.611327,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.974233,
     "mps:longitude":19.611327,
     "mz:hierarchy_label":1,
@@ -207,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0491\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nograd County"
     ],
     "name:urd_x_preferred":[
@@ -301,9 +302,9 @@
     "qs:type":"Megye",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"2,445",
     "statoids:area_mi":"944",
     "statoids:as_of_date":"2011-10-01",
@@ -350,11 +351,10 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1565714759,
+    "wof:lastmodified":1566649596,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":404227477,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":165165,
     "wof:population_rank":9,

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.37096,
     "lbl:longitude":18.57937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.37096,
     "mps:longitude":18.57937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cbk_zam_x_preferred":[
         "V\u00e9rtesacsa"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"116501c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042947,
         "gp:id":817703,
-        "qs:id":915184,
+        "qs_pg:id":915184,
         "wd:id":"Q1084360",
         "wk:page":"V\u00e9rtesacsa"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237382,
+    "wof:lastmodified":1566650323,
     "wof:name":"V\u00e9rtesacsa",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

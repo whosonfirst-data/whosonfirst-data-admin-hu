@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.491997,
     "lbl:longitude":18.902189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.491997,
     "mps:longitude":18.902189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gerjen"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"1163143e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052301,
         "gp:id":807067,
-        "qs:id":57077,
         "qs_pg:id":57077,
         "wd:id":"Q661599",
         "wk:page":"Gerjen"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236897,
+    "wof:lastmodified":1566650169,
     "wof:name":"Gerjen",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

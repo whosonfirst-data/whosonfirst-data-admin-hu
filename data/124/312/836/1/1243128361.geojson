@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.30794,47.22342,17.34794,47.26342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dabrony"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1243128361,
-    "wof:lastmodified":1564161050,
+    "wof:lastmodified":1566650555,
     "wof:name":"Dabrony",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

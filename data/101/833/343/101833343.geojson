@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.678933,
     "lbl:longitude":19.074132,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.678933,
     "mps:longitude":19.074132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0627\u0646\u062f\u0631\u064a"
     ],
@@ -162,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1331,
     "wof:belongsto":[
@@ -180,7 +183,6 @@
         "gp:id":815623,
         "loc:id":"n83067444",
         "nyt:id":"80626641551387724241",
-        "qs:id":491743,
         "qs_pg:id":491743,
         "wd:id":"Q390798",
         "wk:page":"Szentendre"
@@ -200,7 +202,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237088,
+    "wof:lastmodified":1566650230,
     "wof:name":"Szentendre",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

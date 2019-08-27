@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5798601.166583,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.852506,46.847862,16.852506,46.847862",
     "geom:latitude":46.847862,
     "geom:longitude":16.852506,
     "iso:country":"HU",
+    "lbl:bbox":"16.847506,46.842862,16.857506,46.852862",
     "lbl:latitude":46.847862,
     "lbl:longitude":16.852506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.847291,
     "mps:longitude":16.862609,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Goganhegy"
     ],
     "name:hun_x_preferred":[
-        "G\u00f3g\u00e1nhegy"
-    ],
-    "name:unk_x_variant":[
         "G\u00f3g\u00e1nhegy"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,13 +59,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684849,
         102191581,
         85633237,
         404227481,
-        101751673
+        101751673,
+        85684849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932437,
+    "wof:lastmodified":1566649583,
     "wof:name":"G\u00f3g\u00e1nhegy",
     "wof:parent_id":101751673,
     "wof:placetype":"neighbourhood",

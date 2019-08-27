@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.738234,
     "lbl:longitude":21.479865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.738234,
     "mps:longitude":21.479865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00f6tegy\u00e1n"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,7 @@
         "fct:id":"11639f9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718476,
         "gp:id":810474,
-        "qs:id":884223,
+        "qs_pg:id":884223,
         "wd:id":"Q1075877",
         "wk:page":"K\u00f6tegy\u00e1n"
     },
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237587,
+    "wof:lastmodified":1566650391,
     "wof:name":"K\u00f6tegy\u00e1n",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

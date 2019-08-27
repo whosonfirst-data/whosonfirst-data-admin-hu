@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.949043,
     "lbl:longitude":20.664271,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.949043,
     "mps:longitude":20.664271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e1ly"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"11646a5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715930,
         "gp:id":814643,
-        "qs:id":183890,
         "qs_pg:id":183890,
         "wd:id":"Q607253",
         "wk:page":"S\u00e1ly"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237231,
+    "wof:lastmodified":1566650277,
     "wof:name":"S\u00e1ly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

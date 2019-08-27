@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2451601.670193,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.152564,46.248712,20.152564,46.248712",
     "geom:latitude":46.248712,
     "geom:longitude":20.152564,
     "gn:latitude":46.23745,
     "gn:longitude":20.18274,
     "iso:country":"HU",
+    "lbl:bbox":"20.147564,46.243712,20.157564,46.253712",
     "lbl:latitude":46.248712,
     "lbl:longitude":20.152564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.244707,
     "mps:longitude":20.15803,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Marosto"
     ],
     "name:hun_x_preferred":[
-        "Marost\u0151"
-    ],
-    "name:unk_x_variant":[
         "Marost\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101751681
+        101751681,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":717801,
         "gp:id":811645,
-        "qs:id":1083304,
         "qs_pg:id":1083304
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932457,
+    "wof:lastmodified":1566649568,
     "wof:name":"Marost\u0151",
     "wof:parent_id":101751681,
     "wof:placetype":"neighbourhood",

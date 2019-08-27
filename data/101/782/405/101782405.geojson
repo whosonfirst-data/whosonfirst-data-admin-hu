@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.338157,
     "lbl:longitude":21.238302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.338157,
     "mps:longitude":21.238302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Boldogk\u0151v\u00e1ralja"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":722121,
         "gp:id":804148,
-        "qs:id":887847,
         "qs_pg:id":887847,
         "wd:id":"Q833970",
         "wk:page":"Boldogk\u0151v\u00e1ralja"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101782405,
-    "wof:lastmodified":1563237185,
+    "wof:lastmodified":1566650261,
     "wof:name":"Boldogk\u0151v\u00e1ralja",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

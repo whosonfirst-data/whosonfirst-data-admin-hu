@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.1337,46.88407,20.1737,46.92407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Tiszainoka"
     ],
@@ -56,8 +60,7 @@
         "Tiszainoka"
     ],
     "name:und_x_variant":[
-        "Tiszamoka",
-        "Tiszainoka"
+        "Tiszamoka"
     ],
     "name:vie_x_preferred":[
         "Tiszainoka"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209580399,
-    "wof:lastmodified":1564160568,
+    "wof:lastmodified":1566649894,
     "wof:name":"Tiszainoka",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

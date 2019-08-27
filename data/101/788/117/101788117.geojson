@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.811769,
     "lbl:longitude":21.214143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.811769,
     "mps:longitude":21.214143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tarhos"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1164bd3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714961,
         "gp:id":816249,
-        "qs:id":183943,
+        "qs_pg:id":183943,
         "wd:id":"Q955623",
         "wk:page":"Tarhos"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237373,
+    "wof:lastmodified":1566650320,
     "wof:name":"Tarhos",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

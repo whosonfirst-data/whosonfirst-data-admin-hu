@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.403148,
     "lbl:longitude":20.731109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.403148,
     "mps:longitude":20.731109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Szendr\u0151"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":715355,
         "gp:id":815595,
-        "qs:id":760894,
         "qs_pg:id":760894,
         "wd:id":"Q590583",
         "wk:page":"Szendr\u0151"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101782391,
-    "wof:lastmodified":1563237154,
+    "wof:lastmodified":1566650251,
     "wof:name":"Szendr\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

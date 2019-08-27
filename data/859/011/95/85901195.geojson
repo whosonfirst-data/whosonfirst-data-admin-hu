@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7022037.398412,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.424449,47.557309,18.424449,47.557309",
     "geom:latitude":47.557309,
     "geom:longitude":18.424449,
     "iso:country":"HU",
+    "lbl:bbox":"18.419449,47.552309,18.429449,47.562309",
     "lbl:latitude":47.557309,
     "lbl:longitude":18.424449,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.56029,
     "mps:longitude":18.431087,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Labanctanya"
-    ],
-    "name:unk_x_variant":[
         "Labanctanya"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684885,
         102191581,
         85633237,
         404227479,
-        101751707
+        101751707,
+        85684885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932454,
+    "wof:lastmodified":1566649580,
     "wof:name":"Labanctanya",
     "wof:parent_id":101751707,
     "wof:placetype":"neighbourhood",

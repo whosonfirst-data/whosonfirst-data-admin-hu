@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.730414,
     "lbl:longitude":20.942473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.730414,
     "mps:longitude":20.942473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u00c1rokt\u0151"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":722797,
         "gp:id":802964,
-        "qs:id":233012,
         "qs_pg:id":233012,
         "wd:id":"Q252313",
         "wk:page":"\u00c1rokt\u0151"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101784847,
-    "wof:lastmodified":1563237282,
+    "wof:lastmodified":1566650294,
     "wof:name":"\u00c1rokt\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

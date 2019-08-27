@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.21333,48.29667,22.25333,48.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tiszamogyor\u00f3s"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Tiszamogyor\u00f3s"
     ],
-    "name:und_x_variant":[
-        "Tiszamogyor\u00f3s"
-    ],
     "name:vie_x_preferred":[
         "Tiszamogyor\u00f3s"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1226815329,
-    "wof:lastmodified":1564161263,
+    "wof:lastmodified":1566650720,
     "wof:name":"Tiszamogyoros",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.74401,45.86467,17.78401,45.90467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dr\u00e1vafok"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Dr\u00e1vafok"
     ],
-    "name:und_x_variant":[
-        "Dr\u00e1vafok"
-    ],
     "name:vie_x_preferred":[
         "Dr\u00e1vafok"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1259786365,
-    "wof:lastmodified":1564161190,
+    "wof:lastmodified":1566650665,
     "wof:name":"Dravafok",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

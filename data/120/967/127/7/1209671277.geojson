@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.59667,46.44667,16.63667,46.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Muraszemenye"
     ],
@@ -60,8 +64,7 @@
         "Muraszemenye"
     ],
     "name:und_x_variant":[
-        "Szemenyecs\u00f6rnye",
-        "Muraszemenye"
+        "Szemenyecs\u00f6rnye"
     ],
     "name:vie_x_preferred":[
         "Muraszemenye"
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1209671277,
-    "wof:lastmodified":1564160564,
+    "wof:lastmodified":1566649892,
     "wof:name":"Muraszemenye",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

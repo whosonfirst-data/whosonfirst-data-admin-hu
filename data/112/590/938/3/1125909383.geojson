@@ -9,14 +9,18 @@
     "geom:bbox":"16.80502,47.09182,16.80502,47.09182",
     "geom:latitude":47.09182,
     "geom:longitude":16.80502,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"16.78502,47.07182,16.82502,47.11182",
     "lbl:latitude":47.09182,
     "lbl:longitude":16.80502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "P\u00fcsp\u00f6kmoln\u00e1ri"
@@ -54,7 +58,7 @@
     "name:slv_x_preferred":[
         "P\u00fcsp\u00f6kmoln\u00e1ri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00fcsp\u00f6ktam\u00e1si"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":814058,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
     "woe:name_adm1":"Vas",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1125909383,
-    "wof:lastmodified":1563237737,
+    "wof:lastmodified":1566650466,
     "wof:name":"P\u00fcsp\u00f6kmoln\u00e1ri",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

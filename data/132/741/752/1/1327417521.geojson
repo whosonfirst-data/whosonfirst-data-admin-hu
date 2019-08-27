@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.29667,47.21333,21.33667,47.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bihardancsh\u00e1za"
     ],
@@ -60,8 +64,7 @@
         "Bihardancsh\u00e1za"
     ],
     "name:und_x_variant":[
-        "Dancsh\u00e1za",
-        "Bihardancsh\u00e1za"
+        "Dancsh\u00e1za"
     ],
     "name:vie_x_preferred":[
         "Bihardancsh\u00e1za"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1327417521,
-    "wof:lastmodified":1564159897,
+    "wof:lastmodified":1566649377,
     "wof:name":"Bihardancshaza",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.71333,47.43,16.75333,47.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naplop\u00f3-tanya",
         "Napl\u00f3major"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277161757,
-    "wof:lastmodified":1537626223,
+    "wof:lastmodified":1566649819,
     "wof:name":"Naplomajor",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

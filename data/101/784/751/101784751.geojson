@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.905621,
     "lbl:longitude":19.048845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.905621,
     "mps:longitude":19.048845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -101,7 +104,6 @@
         "fct:id":"11640a38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047356,
         "gp:id":812805,
-        "qs:id":907058,
         "qs_pg:id":907058,
         "wd:id":"Q530876",
         "wk:page":"N\u00f3gr\u00e1d"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237276,
+    "wof:lastmodified":1566650292,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.816115,
     "lbl:longitude":18.869839,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.816115,
     "mps:longitude":18.869839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0437\u043e\u0431"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -128,7 +131,6 @@
         "fct:id":"1164ad80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044380,
         "gp:id":815937,
-        "qs:id":907251,
         "qs_pg:id":907251,
         "wd:id":"Q429409",
         "wk:page":"Szob"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237065,
+    "wof:lastmodified":1566650223,
     "wof:name":"Szob",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

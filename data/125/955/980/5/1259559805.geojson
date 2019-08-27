@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.94667,46.64254,17.98667,46.68254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "N\u00e1gocs"
     ],
@@ -53,9 +57,6 @@
         "N\u00e1gocs"
     ],
     "name:slv_x_preferred":[
-        "N\u00e1gocs"
-    ],
-    "name:und_x_variant":[
         "N\u00e1gocs"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1259559805,
-    "wof:lastmodified":1564161175,
+    "wof:lastmodified":1566650653,
     "wof:name":"Nagocs",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

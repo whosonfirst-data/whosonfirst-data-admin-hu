@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.960086,
     "lbl:longitude":21.077152,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.960086,
     "mps:longitude":21.077152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "K\u00f6r\u00f6slad\u00e1ny"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"11639c56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718528,
         "gp:id":810403,
-        "qs:id":255416,
         "qs_pg:id":255416,
         "wd:id":"Q911620",
         "wk:page":"K\u00f6r\u00f6slad\u00e1ny"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237413,
+    "wof:lastmodified":1566650334,
     "wof:name":"K\u00f6r\u00f6slad\u00e1ny",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

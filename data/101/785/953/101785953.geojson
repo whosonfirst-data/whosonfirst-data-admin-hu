@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.685864,
     "lbl:longitude":19.923951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.685864,
     "mps:longitude":19.923951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e1mosgy\u00f6rk"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"1164f20e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043210,
         "gp:id":817411,
-        "qs:id":506168,
         "qs_pg:id":506168,
         "wd:id":"Q375741",
         "wk:page":"V\u00e1mosgy\u00f6rk"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237108,
+    "wof:lastmodified":1566650237,
     "wof:name":"V\u00e1mosgy\u00f6rk",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.935152,
     "lbl:longitude":20.09721,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.935152,
     "mps:longitude":20.09721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tiszak\u00e9cske"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0441\u0430\u043a\u0435\u0447\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u00dajk\u00e9cske"
-    ],
     "name:vie_x_preferred":[
         "Tiszak\u00e9cske"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":19,
     "wof:belongsto":[
@@ -141,7 +141,6 @@
         "fct:id":"1164cf36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714754,
         "gp:id":816540,
-        "qs:id":907279,
         "qs_pg:id":907279,
         "wd:id":"Q841603",
         "wk:page":"Tiszak\u00e9cske"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237394,
+    "wof:lastmodified":1566650327,
     "wof:name":"Tiszak\u00e9cske",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

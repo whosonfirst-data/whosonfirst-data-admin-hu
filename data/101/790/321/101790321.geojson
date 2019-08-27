@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.420635,
     "lbl:longitude":17.69319,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.420635,
     "mps:longitude":17.69319,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hetes"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"11633964-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051486,
         "gp:id":807942,
-        "qs:id":401752,
+        "qs_pg:id":401752,
         "wd:id":"Q966839",
         "wk:page":"Hetes"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236921,
+    "wof:lastmodified":1566650177,
     "wof:name":"Hetes",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

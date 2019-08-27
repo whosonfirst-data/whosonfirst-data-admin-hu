@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.905242,
     "lbl:longitude":18.059246,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.905242,
     "mps:longitude":18.059246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aze_x_preferred":[
         "\u015eiofok"
     ],
@@ -150,7 +153,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0456\u043e\u0444\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balaton\u00fajhely"
     ],
     "name:vie_x_preferred":[
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -189,7 +192,6 @@
         "fct:id":"11627664-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045332,
         "gp:id":814934,
-        "qs:id":145154,
         "qs_pg:id":145154,
         "wd:id":"Q245126",
         "wk:page":"Si\u00f3fok"
@@ -209,7 +211,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237096,
+    "wof:lastmodified":1566650233,
     "wof:name":"Si\u00f3fok",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.538945,
     "lbl:longitude":19.08356,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.541307,
     "mps:longitude":19.081817,
     "mz:hierarchy_label":1,
@@ -69,10 +70,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 XIII \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
-        "Angyalf\u00f6ld",
-        "Angyalf\u00f6ld"
-    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XIII"
     ],
@@ -96,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3055970,
         "gp:id":802814,
-        "qs:id":1167160,
         "qs_pg:id":1167160,
         "wd:id":"Q851023",
         "wk:page":"Angyalf\u00f6ld"
@@ -117,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247544,
+    "wof:lastmodified":1566649588,
     "wof:name":"Angyalfold",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

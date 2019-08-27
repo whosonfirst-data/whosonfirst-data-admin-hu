@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.329733,
     "lbl:longitude":17.369604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.329733,
     "mps:longitude":17.369604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mez\u0151lak"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3048100,
         "gp:id":811921,
-        "qs:id":1270050,
+        "qs_pg:id":1270050,
         "wd:id":"Q1176546",
         "wk:page":"Mez\u0151lak"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101788059,
-    "wof:lastmodified":1563237400,
+    "wof:lastmodified":1566650329,
     "wof:name":"Mez\u0151lak",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

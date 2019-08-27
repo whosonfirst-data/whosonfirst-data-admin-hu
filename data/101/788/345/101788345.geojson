@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.319139,
     "lbl:longitude":21.113685,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.319139,
     "mps:longitude":21.113685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "P\u00fcsp\u00f6klad\u00e1ny"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":139,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fct:id":"11644b7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716301,
         "gp:id":814055,
-        "qs:id":568709,
         "qs_pg:id":568709,
         "wd:id":"Q842934",
         "wk:page":"P\u00fcsp\u00f6klad\u00e1ny"
@@ -159,7 +161,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237411,
+    "wof:lastmodified":1566650333,
     "wof:name":"P\u00fcsp\u00f6klad\u00e1ny",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

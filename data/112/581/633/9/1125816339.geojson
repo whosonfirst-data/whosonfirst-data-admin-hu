@@ -9,14 +9,18 @@
     "geom:bbox":"17.7915,47.22889,17.7915,47.22889",
     "geom:latitude":47.22889,
     "geom:longitude":17.7915,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"17.7715,47.20889,17.8115,47.24889",
     "lbl:latitude":47.22889,
     "lbl:longitude":17.7915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "P\u00e9nzesgy\u0151r"
@@ -54,7 +58,7 @@
     "name:slv_x_preferred":[
         "P\u00e9nzesgy\u0151r"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00e9nzesk\u00fat"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":813682,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
     "woe:name_adm1":"Veszpr\u00e9m",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1125816339,
-    "wof:lastmodified":1563237705,
+    "wof:lastmodified":1566650454,
     "wof:name":"P\u00e9nzesgy\u0151r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

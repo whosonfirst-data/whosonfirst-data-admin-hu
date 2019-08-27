@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.712291,
     "lbl:longitude":18.609636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.712291,
     "mps:longitude":18.609636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "P\u00e1lfa"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"11642c2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046759,
         "gp:id":813402,
-        "qs:id":1270260,
+        "qs_pg:id":1270260,
         "wd:id":"Q1070839"
     },
     "wof:country":"HU",
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237516,
+    "wof:lastmodified":1566650367,
     "wof:name":"P\u00e1lfa",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

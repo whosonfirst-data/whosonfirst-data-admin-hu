@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.80568,45.95416,17.84568,45.99416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szenteg\u00e1t"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Szenteg\u00e1t"
     ],
-    "name:und_x_variant":[
-        "Szenteg\u00e1t"
-    ],
     "name:vie_x_preferred":[
         "Szenteg\u00e1t"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226146247,
-    "wof:lastmodified":1564161340,
+    "wof:lastmodified":1566650778,
     "wof:name":"Szentegat",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

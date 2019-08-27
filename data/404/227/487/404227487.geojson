@@ -10,8 +10,11 @@
     "geom:latitude":46.586411,
     "geom:longitude":20.07945,
     "iso:country":"HU",
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "name:ara_x_preferred":[
         "\u062c\u0646\u0648\u0628 \u0627\u0644\u0633\u0647\u0644 \u0627\u0644\u0639\u0638\u064a\u0645"
     ],
@@ -134,7 +137,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563237655,
+    "wof:lastmodified":1566650434,
     "wof:name":"Southern Great Plain",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

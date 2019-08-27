@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.61333,48.43,20.65333,48.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sz\u0151l\u0151sard\u00f3"
     ],
@@ -67,8 +71,7 @@
     ],
     "name:und_x_variant":[
         "Szollos Arod",
-        "Sz\u0151ll\u0151sard\u00f3",
-        "Sz\u0151l\u0151sard\u00f3"
+        "Sz\u0151ll\u0151sard\u00f3"
     ],
     "name:vie_x_preferred":[
         "Sz\u0151l\u0151sard\u00f3"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1209615803,
-    "wof:lastmodified":1564160552,
+    "wof:lastmodified":1566649883,
     "wof:name":"Szolosardo",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

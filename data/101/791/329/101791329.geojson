@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.079681,
     "lbl:longitude":18.660438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.079681,
     "mps:longitude":18.660438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Somberek"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"11647b12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045287,
         "gp:id":814978,
-        "qs:id":939773,
+        "qs_pg:id":939773,
         "wd:id":"Q782001",
         "wk:page":"Somberek"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751542,
+    "wof:lastmodified":1566650188,
     "wof:name":"Somberek",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

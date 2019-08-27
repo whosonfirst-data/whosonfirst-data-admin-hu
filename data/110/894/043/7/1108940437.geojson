@@ -10,9 +10,12 @@
     "geom:latitude":47.535365,
     "geom:longitude":19.009478,
     "iso:country":"HU",
+    "lbl:bbox":"19.0044776975,47.5303653494,19.0144776975,47.5403653494",
     "lbl:latitude":47.535365,
     "lbl:longitude":19.009478,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "P\u00e1lv\u00f6lgy"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108940437,
-    "wof:lastmodified":1497292356,
+    "wof:lastmodified":1566650019,
     "wof:name":"Palvolgy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.80025,48.2555,20.84025,48.2955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nyom\u00e1r"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Nyom\u00e1r"
     ],
-    "name:und_x_variant":[
-        "Nyom\u00e1r"
-    ],
     "name:vie_x_preferred":[
         "Nyom\u00e1r"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1310412055,
-    "wof:lastmodified":1564160743,
+    "wof:lastmodified":1566650031,
     "wof:name":"Nyomar",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

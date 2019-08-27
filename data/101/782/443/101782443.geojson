@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.262309,
     "lbl:longitude":20.76616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.262309,
     "mps:longitude":20.76616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Borsodszir\u00e1k"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1162a206-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722055,
         "gp:id":804257,
-        "qs:id":966103,
+        "qs_pg:id":966103,
         "wd:id":"Q848050",
         "wk:page":"Borsodszir\u00e1k"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237179,
+    "wof:lastmodified":1566650259,
     "wof:name":"Borsodszir\u00e1k",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

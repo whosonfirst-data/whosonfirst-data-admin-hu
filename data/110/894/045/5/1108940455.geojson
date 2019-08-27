@@ -10,9 +10,12 @@
     "geom:latitude":47.578711,
     "geom:longitude":19.002983,
     "iso:country":"HU",
+    "lbl:bbox":"18.9979831722,47.5737113392,19.0079831722,47.5837113392",
     "lbl:latitude":47.578711,
     "lbl:longitude":19.002983,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "Solym\u00e1rv\u00f6lgy"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108940455,
-    "wof:lastmodified":1497292355,
+    "wof:lastmodified":1566650017,
     "wof:name":"Solymarvolgy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

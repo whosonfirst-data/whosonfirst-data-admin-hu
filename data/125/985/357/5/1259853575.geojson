@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.76333,46.11333,18.80333,46.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kissziget"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1259853575,
-    "wof:lastmodified":1564161193,
+    "wof:lastmodified":1566650667,
     "wof:name":"Kissziget",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

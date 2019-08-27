@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.6351,46.9713,16.6751,47.0113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Nagymizd\u00f3"
     ],
@@ -53,9 +57,6 @@
         "Nagymizd\u00f3"
     ],
     "name:slv_x_preferred":[
-        "Nagymizd\u00f3"
-    ],
-    "name:und_x_variant":[
         "Nagymizd\u00f3"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1243319997,
-    "wof:lastmodified":1564160990,
+    "wof:lastmodified":1566650505,
     "wof:name":"Nagymizdo",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

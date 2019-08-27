@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.868245,
     "lbl:longitude":18.451625,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.868245,
     "mps:longitude":18.451625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vill\u00e1ny"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":244,
     "wof:belongsto":[
@@ -125,7 +128,6 @@
         "fct:id":"11650532-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042871,
         "gp:id":817783,
-        "qs:id":1218957,
         "qs_pg:id":1218957,
         "wd:id":"Q657642",
         "wk:page":"Vill\u00e1ny"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236964,
+    "wof:lastmodified":1566650189,
     "wof:name":"Vill\u00e1ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

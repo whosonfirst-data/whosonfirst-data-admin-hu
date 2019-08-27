@@ -9,16 +9,19 @@
     "geom:bbox":"20.28333,46.83333,20.28333,46.83333",
     "geom:latitude":46.83333,
     "geom:longitude":20.28333,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"20.27833,46.82833,20.28833,46.83833",
     "lbl:latitude":46.83333,
     "lbl:longitude":20.28333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00e9tersz\u00f6gi Tany\u00e1k"
     ],
     "qs_pg:aaroncc":"HU",
@@ -42,17 +45,17 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":813786,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
     "woe:name_adm1":"J\u00e1sz-Nagykun-Szolnok",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85684891,
         102191581,
         85633237,
         404227483,
-        101789503
+        101789503,
+        85684891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1126101767,
-    "wof:lastmodified":1509412158,
+    "wof:lastmodified":1566650447,
     "wof:name":"P\u00e9tersz\u00f6g",
     "wof:parent_id":101789503,
     "wof:placetype":"neighbourhood",

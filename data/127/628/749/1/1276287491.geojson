@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.46772,47.24438,17.50772,47.28438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "P\u00e1pakov\u00e1csi"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "P\u00e1pakov\u00e1csi"
     ],
-    "name:und_x_variant":[
-        "P\u00e1pakov\u00e1csi"
-    ],
     "name:vie_x_preferred":[
         "P\u00e1pakov\u00e1csi"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1276287491,
-    "wof:lastmodified":1564160327,
+    "wof:lastmodified":1566649719,
     "wof:name":"Papakovacsi",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

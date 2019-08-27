@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.120002,
     "lbl:longitude":20.912596,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.120002,
     "mps:longitude":20.912596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Onga"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"11641d98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716799,
         "gp:id":813081,
-        "qs:id":1028663,
         "qs_pg:id":1028663,
         "wd:id":"Q1184433",
         "wk:page":"Onga, Hungary"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237233,
+    "wof:lastmodified":1566650278,
     "wof:name":"Onga",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.192434,
     "lbl:longitude":20.557804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.192434,
     "mps:longitude":20.557804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u00d6rm\u00e9nyes"
     ],
@@ -54,7 +57,7 @@
     "name:slv_x_preferred":[
         "\u00d6rm\u00e9nyes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gl\u00e1ser-major"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
         "fct:id":"116423f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716749,
         "gp:id":813236,
-        "qs:id":884264,
+        "qs_pg:id":884264,
         "wd:id":"Q831276"
     },
     "wof:country":"HU",
@@ -105,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1566650209,
     "wof:name":"\u00d6rm\u00e9nyes",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

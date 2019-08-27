@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.400881,
     "lbl:longitude":21.773122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.400881,
     "mps:longitude":21.773122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Monostorp\u00e1lyi"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1163e328-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717521,
         "gp:id":812120,
-        "qs:id":939673,
         "qs_pg:id":939673,
         "wd:id":"Q947311",
         "wk:page":"Monostorp\u00e1lyi"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237482,
+    "wof:lastmodified":1566650356,
     "wof:name":"Monostorp\u00e1lyi",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.156329,
     "lbl:longitude":21.644755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.156329,
     "mps:longitude":21.644755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tiszabercel"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"1164cae0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714793,
         "gp:id":816514,
-        "qs:id":128869,
         "qs_pg:id":128869,
         "wd:id":"Q1187137",
         "wk:page":"Tiszabercel"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237177,
+    "wof:lastmodified":1566650259,
     "wof:name":"Tiszabercel",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

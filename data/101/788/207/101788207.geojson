@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.366183,
     "lbl:longitude":20.164832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.366183,
     "mps:longitude":20.164832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "J\u00e1szlad\u00e1ny"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"1163564c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":719640,
         "gp:id":808596,
-        "qs:id":906906,
         "qs_pg:id":906906,
         "wd:id":"Q1102564",
         "wk:page":"J\u00e1szlad\u00e1ny"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237398,
+    "wof:lastmodified":1566650328,
     "wof:name":"J\u00e1szlad\u00e1ny",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

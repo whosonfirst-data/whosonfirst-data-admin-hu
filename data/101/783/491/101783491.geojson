@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.03633,
     "lbl:longitude":19.530867,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.03633,
     "mps:longitude":19.530867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vars\u00e1ny"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,6 @@
         "fct:id":"11645f9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045804,
         "gp:id":814439,
-        "qs:id":401938,
         "qs_pg:id":401938,
         "wd:id":"Q639495"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237217,
+    "wof:lastmodified":1566650273,
     "wof:name":"Rim\u00f3c",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.18,46.51333,17.22,46.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Csalit-puszta",
         "Csalitmajor"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310459945,
-    "wof:lastmodified":1537626259,
+    "wof:lastmodified":1566650069,
     "wof:name":"Csalitmajor",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

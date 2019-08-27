@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.934027,
     "lbl:longitude":20.815192,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.934027,
     "mps:longitude":20.815192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Em\u0151d"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
     "wof:concordances":{
         "gn:id":721161,
         "gp:id":805851,
-        "qs:id":1028680,
         "qs_pg:id":1028680,
         "wd:id":"Q854923",
         "wk:page":"Em\u0151d"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":101783621,
-    "wof:lastmodified":1563237205,
+    "wof:lastmodified":1566650268,
     "wof:name":"Em\u0151d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

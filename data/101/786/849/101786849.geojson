@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.315138,
     "lbl:longitude":18.408586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.315138,
     "mps:longitude":18.408586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cbk_zam_x_preferred":[
         "Z\u00e1moly"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"11651662-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042575,
         "gp:id":818099,
-        "qs:id":1080537,
         "qs_pg:id":1080537,
         "wd:id":"Q1084371",
         "wk:page":"Z\u00e1moly"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237453,
+    "wof:lastmodified":1566650347,
     "wof:name":"Z\u00e1moly",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

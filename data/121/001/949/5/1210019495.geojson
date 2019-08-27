@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.55846,45.92428,18.59846,45.96428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nagyny\u00e1r\u00e1d"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u041d\u0430\u0452\u045a\u0430\u0440\u0430\u0434"
     ],
-    "name:und_x_variant":[
-        "Nagyny\u00e1r\u00e1d"
-    ],
     "name:vie_x_preferred":[
         "Nagyny\u00e1r\u00e1d"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1210019495,
-    "wof:lastmodified":1564160620,
+    "wof:lastmodified":1566649933,
     "wof:name":"Nagynyarad",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

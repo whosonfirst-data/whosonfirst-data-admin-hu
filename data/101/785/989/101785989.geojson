@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.526493,
     "lbl:longitude":20.382858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.526493,
     "mps:longitude":20.382858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Tarnaszentmikl\u00f3s"
     ],
@@ -115,7 +118,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -127,7 +130,7 @@
         "fct:id":"1164bf0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714945,
         "gp:id":816268,
-        "qs:id":939810,
+        "qs_pg:id":939810,
         "wd:id":"Q593452"
     },
     "wof:country":"HU",
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237149,
+    "wof:lastmodified":1566650249,
     "wof:name":"Tarnaszentmikl\u00f3s",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

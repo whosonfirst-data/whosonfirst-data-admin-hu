@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.20044,47.71292,18.24044,47.75292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Nagykol\u00f3nia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293470063,
-    "wof:lastmodified":1537626278,
+    "wof:lastmodified":1566649638,
     "wof:name":"Almasfuezito-felso",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

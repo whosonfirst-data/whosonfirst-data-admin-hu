@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.484556,
     "lbl:longitude":19.04675,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.481136,
     "mps:longitude":19.054053,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043b\u043b\u0435\u0440\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Gellert"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_id":0,
@@ -84,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":807020,
-        "qs:id":1151429,
         "qs_pg:id":1151429
     },
     "wof:country":"HU",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247544,
+    "wof:lastmodified":1566649585,
     "wof:name":"Gellert",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

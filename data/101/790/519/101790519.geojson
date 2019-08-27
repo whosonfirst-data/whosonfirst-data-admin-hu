@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.432895,
     "lbl:longitude":19.484501,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.432895,
     "mps:longitude":19.484501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u043a\u0443\u043d\u0445\u0430\u043b\u0430\u0441"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0448\u043a\u0443\u043d\u0433\u0430\u043b\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "Kiskunhalos"
-    ],
     "name:vie_x_preferred":[
         "Kiskunhalas"
     ],
@@ -171,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":418,
     "wof:belongsto":[
@@ -185,7 +185,6 @@
         "fct:id":"116386f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3049880,
         "gp:id":809824,
-        "qs:id":906957,
         "qs_pg:id":906957,
         "wd:id":"Q329775",
         "wk:page":"Kiskunhalas"
@@ -205,7 +204,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236868,
+    "wof:lastmodified":1566650160,
     "wof:name":"Kiskunhalas",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

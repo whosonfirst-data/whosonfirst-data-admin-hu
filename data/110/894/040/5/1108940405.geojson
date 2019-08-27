@@ -10,8 +10,10 @@
     "geom:latitude":47.49295,
     "geom:longitude":19.032766,
     "iso:country":"HU",
+    "lbl:bbox":"19.027766436,47.4879500774,19.037766436,47.4979500774",
     "lbl:latitude":47.49295,
     "lbl:longitude":19.032766,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:hun_x_variant":[
         "Naphegy"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1108940405,
-    "wof:lastmodified":1564160721,
+    "wof:lastmodified":1566650008,
     "wof:name":"Naphegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

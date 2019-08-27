@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
+    "geom:area_square_m":1416037.457666,
     "geom:bbox":"19.8780498363,47.7104516933,19.8974827038,47.7270854668",
     "geom:latitude":47.719505,
     "geom:longitude":19.88824,
     "iso:country":"HU",
     "lbl:latitude":47.720031,
     "lbl:longitude":19.887283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.720031,
     "mps:longitude":19.887283,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Gy\u00f6ngy\u00f6shal\u00e1sz"
     ],
@@ -62,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -74,10 +79,10 @@
         "fct:id":"116265de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055812,
         "gp:id":803011,
-        "qs:id":963364
+        "qs_pg:id":963364
     },
     "wof:country":"HU",
-    "wof:geomhash":"5b38fdba71d225f3d776849910c2805b",
+    "wof:geomhash":"280d74d714eb1a4af8d7e0eefc354728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1467243924,
+    "wof:lastmodified":1566650251,
     "wof:name":"Atk\u00e1r",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

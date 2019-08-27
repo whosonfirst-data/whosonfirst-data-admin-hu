@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.693561,
     "lbl:longitude":18.715501,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.693561,
     "mps:longitude":18.715501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Csolnok"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":12,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1162c18c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053986,
         "gp:id":805096,
-        "qs:id":1348560,
         "qs_pg:id":1348560,
         "wd:id":"Q377891",
         "wk:page":"Csolnok"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237121,
+    "wof:lastmodified":1566650241,
     "wof:name":"Csolnok",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

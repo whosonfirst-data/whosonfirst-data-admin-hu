@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.214841,
     "lbl:longitude":17.018386,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.214841,
     "mps:longitude":17.018386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "G\u00e9rce"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
         "fct:id":"116312d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052327,
         "gp:id":807035,
-        "qs:id":1269551,
+        "qs_pg:id":1269551,
         "wd:id":"Q427808",
         "wk:page":"G\u00e9rce"
     },
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237392,
+    "wof:lastmodified":1566650326,
     "wof:name":"G\u00e9rce",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

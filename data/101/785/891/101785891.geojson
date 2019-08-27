@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.722019,
     "lbl:longitude":19.17568,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.722019,
     "mps:longitude":19.17568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sz\u0151d"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3044371,
         "gp:id":815949,
-        "qs:id":907250,
         "qs_pg:id":907250,
         "wd:id":"Q1186311",
         "wk:page":"Sz\u0151d"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101785891,
-    "wof:lastmodified":1563237141,
+    "wof:lastmodified":1566650247,
     "wof:name":"Sz\u0151d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.520347,
     "lbl:longitude":18.613881,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.520347,
     "mps:longitude":18.613881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Csabdi"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"1162af26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054462,
         "gp:id":804557,
-        "qs:id":906704,
         "qs_pg:id":906704,
         "wd:id":"Q607592",
         "wk:page":"Csabdi"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237438,
+    "wof:lastmodified":1566650341,
     "wof:name":"Csabdi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

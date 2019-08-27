@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.556233,
     "lbl:longitude":16.553438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.556233,
     "mps:longitude":16.553438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lovasovic"
     ],
@@ -59,9 +62,6 @@
     "name:slv_x_preferred":[
         "Lov\u00e1szi"
     ],
-    "name:unk_x_variant":[
-        "Lavaszi"
-    ],
     "name:vie_x_preferred":[
         "Lov\u00e1szi"
     ],
@@ -82,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -95,7 +95,7 @@
         "fct:id":"1163b772-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048708,
         "gp:id":811242,
-        "qs:id":1143947,
+        "qs_pg:id":1143947,
         "wd:id":"Q1089457",
         "wk:page":"Lov\u00e1szi"
     },
@@ -114,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236838,
+    "wof:lastmodified":1566650150,
     "wof:name":"Lov\u00e1szi",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

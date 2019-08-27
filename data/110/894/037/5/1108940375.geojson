@@ -10,8 +10,10 @@
     "geom:latitude":47.49757,
     "geom:longitude":19.034025,
     "iso:country":"HU",
+    "lbl:bbox":"19.0290252868,47.4925700778,19.0390252868,47.5025700778",
     "lbl:latitude":47.49757,
     "lbl:longitude":19.034025,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -79,7 +81,7 @@
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e00\u533a"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1108940375,
-    "wof:lastmodified":1563236654,
+    "wof:lastmodified":1566650015,
     "wof:name":"Varkerulet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

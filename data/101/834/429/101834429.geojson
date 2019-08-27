@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.24069,
     "lbl:longitude":18.676455,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.24069,
     "mps:longitude":18.676455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u0430\u043b\u044c\u043d\u0430\u0448\u043d\u044c\u0435\u043a"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":357,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"1163606a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050647,
         "gp:id":808926,
-        "qs:id":1042879,
         "qs_pg:id":1042879,
         "wd:id":"Q1066039",
         "wk:page":"K\u00e1poln\u00e1sny\u00e9k"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237101,
+    "wof:lastmodified":1566650234,
     "wof:name":"K\u00e1poln\u00e1sny\u00e9k",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

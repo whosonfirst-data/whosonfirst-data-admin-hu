@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.59667,48.16333,20.63667,48.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":721730
     },
     "wof:country":"HU",
-    "wof:geomhash":"61545e33ac3220e8f3eabfa2215e59e6",
+    "wof:geomhash":"f036cde164359dca8140b2d029fd465e",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209010457,
-    "wof:lastmodified":1536300464,
+    "wof:lastmodified":1566649834,
     "wof:name":"Cserestelep",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.616670000000006,
+    20.61667000000001,
     48.18333,
-    20.616670000000006,
+    20.61667000000001,
     48.18333
 ],
   "geometry": {"coordinates":[20.61667000000001,48.18333],"type":"Point"}

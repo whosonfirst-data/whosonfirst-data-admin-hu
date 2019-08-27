@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.036268,
     "lbl:longitude":20.887699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.036268,
     "mps:longitude":20.887699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saj\u00f3petri"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"116467ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715949,
         "gp:id":814620,
-        "qs:id":401935,
+        "qs_pg:id":401935,
         "wd:id":"Q979120",
         "wk:page":"Saj\u00f3petri"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237237,
+    "wof:lastmodified":1566650279,
     "wof:name":"Saj\u00f3petri",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

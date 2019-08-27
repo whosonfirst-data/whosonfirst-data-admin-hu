@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":47.102848,
     "lbl:longitude":17.910566,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.102848,
     "mps:longitude":17.910566,
     "mz:hierarchy_label":1,
@@ -257,7 +259,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u043f\u0440\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gyulafir\u00e1t\u00f3t"
     ],
     "name:urd_x_preferred":[
@@ -383,7 +385,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -396,7 +398,6 @@
         "fct:id":"11650398-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042929,
         "gp:id":817719,
-        "qs:id":274252,
         "qs_pg:id":274252,
         "wd:id":"Q146317",
         "wk:page":"Veszpr\u00e9m"
@@ -416,7 +417,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237307,
+    "wof:lastmodified":1566650300,
     "wof:name":"Veszpr\u00e9m",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

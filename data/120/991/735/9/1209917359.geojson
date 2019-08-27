@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.38,45.99667,18.42,46.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mih\u00e1ly Puszta",
         "Mih\u00e1lymajor"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209917359,
-    "wof:lastmodified":1537626225,
+    "wof:lastmodified":1566649831,
     "wof:name":"Mihalymajor",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

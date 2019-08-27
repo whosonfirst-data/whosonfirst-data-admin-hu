@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.50913,46.44681,18.54913,46.48681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Fels\u0151n\u00e1na"
     ],
@@ -50,9 +54,6 @@
         "Fels\u0151n\u00e1na"
     ],
     "name:slv_x_preferred":[
-        "Fels\u0151n\u00e1na"
-    ],
-    "name:und_x_variant":[
         "Fels\u0151n\u00e1na"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1193252495,
-    "wof:lastmodified":1564160642,
+    "wof:lastmodified":1566649949,
     "wof:name":"Felsonana",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

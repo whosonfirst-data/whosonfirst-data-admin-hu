@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.98,46.61333,17.02,46.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cs\u00e1d\u00e9-major",
         "Cs\u00e1d\u00e9puszta"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209573401,
-    "wof:lastmodified":1537626260,
+    "wof:lastmodified":1566649879,
     "wof:name":"Csadepuszta",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

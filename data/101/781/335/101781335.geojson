@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.379043,
     "lbl:longitude":22.232275,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.379043,
     "mps:longitude":22.232275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tiszaszentm\u00e1rton"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":87,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1164d346-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714712,
         "gp:id":816573,
-        "qs:id":966282,
+        "qs_pg:id":966282,
         "wd:id":"Q1072276",
         "wk:page":"Tiszaszentm\u00e1rton"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237426,
+    "wof:lastmodified":1566650338,
     "wof:name":"Tiszaszentm\u00e1rton",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

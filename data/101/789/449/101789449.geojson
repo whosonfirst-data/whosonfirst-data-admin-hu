@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.00421,
     "lbl:longitude":18.459786,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.00421,
     "mps:longitude":18.459786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043f\u043e\u043d\u044f"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Soponya"
     ],
-    "name:unk_x_variant":[
-        "Nagyl\u00e1ng"
-    ],
     "name:vie_x_preferred":[
         "Soponya"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -113,7 +113,6 @@
         "fct:id":"116482d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045192,
         "gp:id":815053,
-        "qs:id":1042837,
         "qs_pg:id":1042837,
         "wd:id":"Q1084395",
         "wk:page":"Soponya"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237521,
+    "wof:lastmodified":1566650369,
     "wof:name":"Soponya",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

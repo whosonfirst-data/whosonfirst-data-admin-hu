@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11784326.166903,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.746546,47.74352,18.746546,47.74352",
     "geom:latitude":47.74352,
     "geom:longitude":18.746546,
     "gn:latitude":47.73333,
     "gn:longitude":18.73333,
     "iso:country":"HU",
+    "lbl:bbox":"18.741546,47.73852,18.751546,47.74852",
     "lbl:latitude":47.74352,
     "lbl:longitude":18.746546,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.749759,
     "mps:longitude":18.735128,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Schmidtvilla"
-    ],
-    "name:unk_x_variant":[
         "Schmidtvilla"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,18 +59,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684885,
         102191581,
         85633237,
-        404227479
+        404227479,
+        85684885
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3045427,
         "gp:id":814834,
-        "qs:id":907202,
         "qs_pg:id":907202
     },
     "wof:country":"HU",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932466,
+    "wof:lastmodified":1566649570,
     "wof:name":"Schmidtvilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

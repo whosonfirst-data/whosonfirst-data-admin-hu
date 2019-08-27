@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.961655,
     "lbl:longitude":21.361629,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.961655,
     "mps:longitude":21.361629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Tisava\u015fvari"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
         "fct:id":"1164d580-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714692,
         "gp:id":816587,
-        "qs:id":57354,
         "qs_pg:id":57354,
         "wd:id":"Q278017",
         "wk:page":"Tiszavasv\u00e1ri"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237229,
+    "wof:lastmodified":1566650276,
     "wof:name":"Tiszavasv\u00e1ri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

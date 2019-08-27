@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.33309,46.76899,16.37309,46.80899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kercaszomor"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1310470721,
-    "wof:lastmodified":1564160756,
+    "wof:lastmodified":1566650043,
     "wof:name":"Kercaszomor",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

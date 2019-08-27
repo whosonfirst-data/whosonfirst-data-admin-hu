@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.22839,47.03332,18.26839,47.07332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "F\u00fcle"
     ],
@@ -53,9 +57,6 @@
         "F\u00fcle"
     ],
     "name:slv_x_preferred":[
-        "F\u00fcle"
-    ],
-    "name:und_x_variant":[
         "F\u00fcle"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1259468371,
-    "wof:lastmodified":1564161188,
+    "wof:lastmodified":1566650663,
     "wof:name":"Fule",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

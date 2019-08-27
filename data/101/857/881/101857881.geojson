@@ -10,12 +10,16 @@
     "geom:latitude":46.226886,
     "geom:longitude":18.059902,
     "iso:country":"HU",
+    "lbl:bbox":"18.039902,46.206886,18.079902,46.246886",
     "lbl:latitude":46.226886,
     "lbl:longitude":18.059902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.226886,
     "mps:longitude":18.059902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Godisa"
     ],
@@ -73,9 +77,6 @@
     "name:spa_x_preferred":[
         "Mindszentgodisa"
     ],
-    "name:unk_x_variant":[
-        "Godisa"
-    ],
     "name:vie_x_preferred":[
         "Mindszentgodisa"
     ],
@@ -101,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -114,7 +115,7 @@
         "fct:id":"1163de00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048026,
         "gp:id":812022,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q653597",
         "wk:page":"Mindszentgodisa"
     },
@@ -133,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237043,
+    "wof:lastmodified":1566650215,
     "wof:name":"Mindszentgodisa",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

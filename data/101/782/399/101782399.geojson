@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.38437,
     "lbl:longitude":20.674454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.38437,
     "mps:longitude":20.674454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szuhogy"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1164b3b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715040,
         "gp:id":816116,
-        "qs:id":1270587,
+        "qs_pg:id":1270587,
         "wd:id":"Q183335",
         "wk:page":"Szuhogy"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237157,
+    "wof:lastmodified":1566650253,
     "wof:name":"Szuhogy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

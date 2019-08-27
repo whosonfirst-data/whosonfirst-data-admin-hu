@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.99722,
     "lbl:longitude":19.195823,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.99722,
     "mps:longitude":19.195823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c9rsekvadkert"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1162f044-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053199,
         "gp:id":805974,
-        "qs:id":1042893,
         "qs_pg:id":1042893,
         "wd:id":"Q288638"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237296,
+    "wof:lastmodified":1566650298,
     "wof:name":"\u00c9rsekvadkert",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

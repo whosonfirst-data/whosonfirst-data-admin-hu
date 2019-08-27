@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.325201,
     "lbl:longitude":21.088902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.325201,
     "mps:longitude":21.088902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Forr\u00f3"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -102,7 +105,7 @@
         "fct:id":"1163057a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720745,
         "gp:id":806731,
-        "qs:id":1269518,
+        "qs_pg:id":1269518,
         "wd:id":"Q283975",
         "wk:page":"Forr\u00f3, Northern Hungary"
     },
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237181,
+    "wof:lastmodified":1566650260,
     "wof:name":"Forr\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

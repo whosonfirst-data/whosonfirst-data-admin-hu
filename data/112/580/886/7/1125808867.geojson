@@ -9,14 +9,18 @@
     "geom:bbox":"17.75317,46.88186,17.75317,46.88186",
     "geom:latitude":46.88186,
     "geom:longitude":17.75317,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"17.73317,46.86186,17.77317,46.90186",
     "lbl:latitude":46.88186,
     "lbl:longitude":17.75317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Balatonakali"
@@ -69,7 +73,7 @@
     "name:swe_x_preferred":[
         "Balatonakali"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akali"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +103,7 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":803220,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
     "woe:name_adm1":"Veszpr\u00e9m",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1125808867,
-    "wof:lastmodified":1563237723,
+    "wof:lastmodified":1566650460,
     "wof:name":"Balatonakali",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

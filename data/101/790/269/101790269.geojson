@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.420841,
     "lbl:longitude":18.561477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.420841,
     "mps:longitude":18.561477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zomba"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"11651964-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042516,
         "gp:id":818164,
-        "qs:id":1042811,
         "qs_pg:id":1042811,
         "wd:id":"Q576672",
         "wk:page":"Zomba, Hungary"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236862,
+    "wof:lastmodified":1566650158,
     "wof:name":"Zomba",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

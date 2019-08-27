@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.285581,
     "lbl:longitude":16.598021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.285581,
     "mps:longitude":16.598021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gencsap\u00e1ti"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"116312a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052330,
         "gp:id":807033,
-        "qs:id":909545,
         "qs_pg:id":909545,
         "wd:id":"Q543263",
         "wk:page":"Gencsap\u00e1ti"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236929,
+    "wof:lastmodified":1566650179,
     "wof:name":"Gencsap\u00e1ti",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

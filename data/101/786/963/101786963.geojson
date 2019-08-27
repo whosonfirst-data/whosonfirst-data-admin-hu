@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.728858,
     "lbl:longitude":17.427508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.728858,
     "mps:longitude":17.427508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u043e\u0448\u0430\u043d\u0448\u0435\u043d\u0442\u043c\u0456\u043a\u043b\u0430\u0448"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "fct:id":"1163e526-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7284910,
         "gp:id":812160,
-        "qs:id":939682,
         "qs_pg:id":939682,
         "wd:id":"Q922488",
         "wk:page":"Mosonszentmikl\u00f3s"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237431,
+    "wof:lastmodified":1566650339,
     "wof:name":"Mosonszentmikl\u00f3s",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

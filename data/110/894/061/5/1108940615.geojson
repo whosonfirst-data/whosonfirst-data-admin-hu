@@ -10,9 +10,12 @@
     "geom:latitude":47.485773,
     "geom:longitude":19.082648,
     "iso:country":"HU",
+    "lbl:bbox":"19.0776483963,47.4807728063,19.0876483963,47.4907728063",
     "lbl:latitude":47.485773,
     "lbl:longitude":19.082648,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85684881,
         102191581,
         85633237,
         404227489,
-        101751703
+        101751703,
+        85684881
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108940615,
-    "wof:lastmodified":1492123561,
+    "wof:lastmodified":1566650020,
     "wof:name":"Losonci negyed",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

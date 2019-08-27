@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.592877,
     "lbl:longitude":16.869603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.592877,
     "mps:longitude":16.869603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fert\u0151szentmikl\u00f3s"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
     "wof:concordances":{
         "gn:id":3052639,
         "gp:id":806616,
-        "qs:id":145188,
         "qs_pg:id":145188,
         "wd:id":"Q1000813",
         "wk:page":"Fert\u0151szentmikl\u00f3s"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101833309,
-    "wof:lastmodified":1563237050,
+    "wof:lastmodified":1566650218,
     "wof:name":"Fert\u0151szentmikl\u00f3s",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

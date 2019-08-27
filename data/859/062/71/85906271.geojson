@@ -13,8 +13,10 @@
     "gn:longitude":17.55892,
     "gn:population":31407,
     "iso:country":"HU",
+    "lbl:bbox":"17.55477,47.102475,17.56477,47.112475",
     "lbl:latitude":47.107475,
     "lbl:longitude":17.55977,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.108331,
     "mps:longitude":17.558843,
     "mz:hierarchy_label":0,
@@ -143,9 +145,8 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Padragk\u00fat",
-        "Bakonygyepes"
+    "name:und_x_variant":[
+        "Padragk\u00fat"
     ],
     "name:vie_x_preferred":[
         "Ajka"
@@ -184,7 +185,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -217,7 +218,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236078,
+    "wof:lastmodified":1566649577,
     "wof:name":"Bakonygyepes",
     "wof:parent_id":101789335,
     "wof:placetype":"neighbourhood",

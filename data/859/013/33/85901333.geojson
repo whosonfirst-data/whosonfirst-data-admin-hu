@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.500704,
     "lbl:longitude":19.033165,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.520724,
     "mps:longitude":19.050167,
     "mz:hierarchy_label":1,
@@ -89,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "V\u00e1r"
-    ],
     "name:zho_x_preferred":[
         "\u83ef\u723e"
     ],
@@ -132,7 +130,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":817427,
-        "qs:id":215470,
         "qs_pg:id":215470,
         "wd:id":"Q522290"
     },
@@ -152,7 +149,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649573,
     "wof:name":"V\u00e1r",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

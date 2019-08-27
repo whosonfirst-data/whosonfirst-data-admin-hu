@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.973487,
     "lbl:longitude":20.413295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.973487,
     "mps:longitude":20.413295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fels\u0151t\u00e1rk\u00e1ny"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":510,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":720862,
         "gp:id":806516,
-        "qs:id":211565,
         "qs_pg:id":211565,
         "wd:id":"Q514643"
     },
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101843555,
-    "wof:lastmodified":1563236996,
+    "wof:lastmodified":1566650199,
     "wof:name":"Fels\u0151t\u00e1rk\u00e1ny",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

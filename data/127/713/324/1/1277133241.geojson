@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.17946,47.09514,17.21946,47.13514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Karak\u00f3"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "Karak\u00f3"
     ],
-    "name:und_x_variant":[
-        "Karak\u00f3"
-    ],
     "name:vie_x_preferred":[
         "Karak\u00f3"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1277133241,
-    "wof:lastmodified":1564160381,
+    "wof:lastmodified":1566649761,
     "wof:name":"Karako",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.317893,
     "lbl:longitude":21.56639,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.317893,
     "mps:longitude":21.56639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0430\u0440\u0430\u0448\u043f\u0430\u0442\u0430\u043a"
     ],
@@ -120,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u043e\u0448\u043f\u0430\u0442\u0430\u043a"
     ],
-    "name:unk_x_variant":[
-        "Brodroghal\u00e1sz"
-    ],
     "name:vie_x_preferred":[
         "S\u00e1rospatak"
     ],
@@ -145,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":510,
     "wof:belongsto":[
@@ -159,7 +159,6 @@
         "fct:id":"11646f64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715867,
         "gp:id":814772,
-        "qs:id":891536,
         "qs_pg:id":891536,
         "wd:id":"Q668318",
         "wk:page":"S\u00e1rospatak"
@@ -179,7 +178,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237163,
+    "wof:lastmodified":1566650255,
     "wof:name":"S\u00e1rospatak",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

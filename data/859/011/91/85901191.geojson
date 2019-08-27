@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15836835.744402,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.357599,47.602561,19.357599,47.602561",
     "geom:latitude":47.602561,
     "geom:longitude":19.357599,
     "gn:latitude":47.6,
     "gn:longitude":19.36667,
     "iso:country":"HU",
+    "lbl:bbox":"19.352599,47.597561,19.362599,47.607561",
     "lbl:latitude":47.602561,
     "lbl:longitude":19.357599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.612828,
     "mps:longitude":19.399316,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Kutteltanya"
     ],
     "name:hun_x_preferred":[
-        "K\u00fctteltanya"
-    ],
-    "name:unk_x_variant":[
         "K\u00fctteltanya"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -64,13 +63,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101845021
+        101845021,
+        85684899
     ],
     "wof:breaches":[
         85901187
@@ -78,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3049050,
         "gp:id":810834,
-        "qs:id":1167211,
         "qs_pg:id":1167211
     },
     "wof:country":"HU",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932454,
+    "wof:lastmodified":1566649584,
     "wof:name":"K\u00fctteltanya",
     "wof:parent_id":101845021,
     "wof:placetype":"neighbourhood",

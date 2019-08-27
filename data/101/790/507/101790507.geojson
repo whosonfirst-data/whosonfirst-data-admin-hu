@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.526747,
     "lbl:longitude":18.92075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.526747,
     "mps:longitude":18.92075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Fokt\u0151"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3052595,
         "gp:id":806675,
-        "qs:id":183602,
+        "qs_pg:id":183602,
         "wd:id":"Q1002618",
         "wk:page":"Fokt\u0151"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101790507,
-    "wof:lastmodified":1563236885,
+    "wof:lastmodified":1566650165,
     "wof:name":"Fokt\u0151",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

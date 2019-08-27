@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.85221,47.2167,16.89221,47.2567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Cs\u00e9nye"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1293647807,
-    "wof:lastmodified":1564160196,
+    "wof:lastmodified":1566649619,
     "wof:name":"Csenye",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

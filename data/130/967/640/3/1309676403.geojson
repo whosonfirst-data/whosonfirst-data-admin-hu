@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.0899,46.57472,18.1299,46.61472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kopp\u00e1nysz\u00e1nt\u00f3"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Kopp\u00e1nysz\u00e1nt\u00f3"
     ],
-    "name:und_x_variant":[
-        "Kopp\u00e1nysz\u00e1nt\u00f3"
-    ],
     "name:vie_x_preferred":[
         "Kopp\u00e1nysz\u00e1nt\u00f3"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1309676403,
-    "wof:lastmodified":1564160932,
+    "wof:lastmodified":1566650417,
     "wof:name":"Koppanyszanto",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

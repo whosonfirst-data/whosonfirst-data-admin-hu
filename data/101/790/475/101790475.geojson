@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.621466,
     "lbl:longitude":19.287534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.621466,
     "mps:longitude":19.287534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u0456\u0448\u043a\u0451\u0440\u043e\u0448"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":565,
     "wof:belongsto":[
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":3049896,
         "gp:id":809813,
-        "qs:id":145177,
         "qs_pg:id":145177,
         "wd:id":"Q646850",
         "wk:page":"Kisk\u0151r\u00f6s"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":101790475,
-    "wof:lastmodified":1563236895,
+    "wof:lastmodified":1566650168,
     "wof:name":"Kisk\u0151r\u00f6s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.653694,
     "lbl:longitude":17.578098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.653694,
     "mps:longitude":17.578098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Buzs\u00e1k"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":156,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1162aba2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054552,
         "gp:id":804452,
-        "qs:id":178624,
+        "qs_pg:id":178624,
         "wd:id":"Q852437",
         "wk:page":"Buzs\u00e1k"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237017,
+    "wof:lastmodified":1566650206,
     "wof:name":"Buzs\u00e1k",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

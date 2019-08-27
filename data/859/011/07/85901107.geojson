@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9936633.03129,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.860128,48.142537,19.860128,48.142537",
     "geom:latitude":48.142537,
     "geom:longitude":19.860128,
     "gn:latitude":48.13333,
     "gn:longitude":19.86667,
     "iso:country":"HU",
+    "lbl:bbox":"19.855128,48.137537,19.865128,48.147537",
     "lbl:latitude":48.142537,
     "lbl:longitude":19.860128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.140834,
     "mps:longitude":19.861299,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Fenykopuszta"
     ],
     "name:hun_x_preferred":[
-        "F\u00e9nyk\u0151puszta"
-    ],
-    "name:unk_x_variant":[
         "F\u00e9nyk\u0151puszta"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,18 +62,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684913,
         102191581,
         85633237,
-        404227477
+        404227477,
+        85684913
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3052687,
         "gp:id":806559,
-        "qs:id":266729,
         "qs_pg:id":266729
     },
     "wof:country":"HU",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932435,
+    "wof:lastmodified":1566649583,
     "wof:name":"F\u00e9nyk\u0151puszta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

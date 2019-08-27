@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16992457.073394,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.898092,47.414579,18.898092,47.414579",
     "geom:latitude":47.414579,
     "geom:longitude":18.898092,
@@ -13,8 +13,10 @@
     "gn:latitude":47.41043,
     "gn:longitude":18.90391,
     "iso:country":"HU",
+    "lbl:bbox":"18.893092,47.409579,18.903092,47.419579",
     "lbl:latitude":47.414579,
     "lbl:longitude":18.898092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.40311,
     "mps:longitude":18.897467,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Erd-Parkvaros"
     ],
     "name:hun_x_preferred":[
-        "\u00c9rd-Parkv\u00e1ros"
-    ],
-    "name:unk_x_variant":[
         "\u00c9rd-Parkv\u00e1ros"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -71,19 +70,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101751715
+        101751715,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3053228,
         "gp:id":805885,
-        "qs:id":1167186,
         "qs_pg:id":1167186
     },
     "wof:country":"HU",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932430,
+    "wof:lastmodified":1566649590,
     "wof:name":"\u00c9rd-Parkv\u00e1ros",
     "wof:parent_id":101751715,
     "wof:placetype":"neighbourhood",

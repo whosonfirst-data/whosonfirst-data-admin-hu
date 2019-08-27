@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.58258,48.06295,19.62258,48.10295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Magyarg\u00e9c"
     ],
@@ -53,9 +57,6 @@
         "Magyarg\u00e9c"
     ],
     "name:slv_x_preferred":[
-        "Magyarg\u00e9c"
-    ],
-    "name:und_x_variant":[
         "Magyarg\u00e9c"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1277046417,
-    "wof:lastmodified":1564160396,
+    "wof:lastmodified":1566649773,
     "wof:name":"Magyargec",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",
