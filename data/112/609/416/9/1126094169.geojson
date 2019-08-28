@@ -9,15 +9,17 @@
     "geom:bbox":"19.01667,47.65,19.01667,47.65",
     "geom:latitude":47.65,
     "geom:longitude":19.01667,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":4861,
+    "gn:country":"HU",
+    "gn:fcode":"PPLX",
     "gn:population":4861,
     "iso:country":"HU",
+    "lbl:bbox":"19.01167,47.645,19.02167,47.655",
     "lbl:latitude":47.65,
     "lbl:longitude":19.01667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Nagykov\u00e1csi"
@@ -58,7 +60,7 @@
     "name:swe_x_preferred":[
         "Nagykov\u00e1csi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nagykov\u00e1csi Part"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +78,7 @@
     "qs_pg:qs_id":1042858,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1126094169,
-    "wof:lastmodified":1564160981,
+    "wof:lastmodified":1566650492,
     "wof:name":"Nagykov\u00e1csi",
     "wof:parent_id":101754533,
     "wof:placetype":"neighbourhood",

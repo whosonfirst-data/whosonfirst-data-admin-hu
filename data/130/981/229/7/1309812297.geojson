@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.0175,45.83444,18.0575,45.87444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e1mod"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "S\u00e1mod"
     ],
-    "name:und_x_variant":[
-        "S\u00e1mod"
-    ],
     "name:vie_x_preferred":[
         "S\u00e1mod"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1309812297,
-    "wof:lastmodified":1564160946,
+    "wof:lastmodified":1566650428,
     "wof:name":"Samod",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

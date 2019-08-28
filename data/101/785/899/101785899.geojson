@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.646279,
     "lbl:longitude":18.965282,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.646279,
     "mps:longitude":18.965282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Csob\u00e1nka"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"1162bff2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054027,
         "gp:id":805055,
-        "qs:id":211553,
         "qs_pg:id":211553,
         "wd:id":"Q370208",
         "wk:page":"Csob\u00e1nka"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237145,
+    "wof:lastmodified":1566650248,
     "wof:name":"Csob\u00e1nka",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

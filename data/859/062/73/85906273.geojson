@@ -14,8 +14,10 @@
     "gn:longitude":18.23333,
     "gn:population":156649,
     "iso:country":"HU",
+    "lbl:bbox":"18.217001,46.061831,18.227001,46.071831",
     "lbl:latitude":46.066831,
     "lbl:longitude":18.222001,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.066831,
     "mps:longitude":18.222001,
     "mz:hierarchy_label":0,
@@ -311,9 +313,8 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447"
     ],
-    "name:unk_x_variant":[
-        "Magyar\u00fcr\u00fcgy",
-        "Fuenfkirchen"
+    "name:und_x_variant":[
+        "Magyar\u00fcr\u00fcgy"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u06a9\u0633"
@@ -436,7 +437,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -450,7 +451,6 @@
         "fct:id":"11683d74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046526,
         "gp:id":22528211,
-        "qs:id":1234309,
         "qs_pg:id":1234309,
         "wd:id":"Q45779",
         "wk:page":"P\u00e9cs"
@@ -468,7 +468,7 @@
         }
     ],
     "wof:id":85906273,
-    "wof:lastmodified":1563236075,
+    "wof:lastmodified":1566649576,
     "wof:name":"Fuenfkirchen",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

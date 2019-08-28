@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7190192.396264,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.00885,47.191423,20.00885,47.191423",
     "geom:latitude":47.191423,
     "geom:longitude":20.00885,
     "iso:country":"HU",
+    "lbl:bbox":"20.00385,47.186423,20.01385,47.196423",
     "lbl:latitude":47.191423,
     "lbl:longitude":20.00885,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.187846,
     "mps:longitude":20.00398,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:hun_x_variant":[
         "Kismih\u00e1lyt\u00f3"
-    ],
-    "name:unk_x_variant":[
-        "Kismih\u00e1lyt\u00f3d\u016fl\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_id":0,
@@ -64,13 +63,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101788327
+        101788327,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +91,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932444,
+    "wof:lastmodified":1566649580,
     "wof:name":"Kismih\u00e1lyt\u00f3d\u016fl\u0151",
     "wof:parent_id":101788327,
     "wof:placetype":"neighbourhood",

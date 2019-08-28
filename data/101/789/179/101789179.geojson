@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.690225,
     "lbl:longitude":17.843274,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.690225,
     "mps:longitude":17.843274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kar\u00e1d"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11636402-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050588,
         "gp:id":808981,
-        "qs:id":1042876,
         "qs_pg:id":1042876,
         "wd:id":"Q1091464",
         "wk:page":"Kar\u00e1d"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237595,
+    "wof:lastmodified":1566650393,
     "wof:name":"Kar\u00e1d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

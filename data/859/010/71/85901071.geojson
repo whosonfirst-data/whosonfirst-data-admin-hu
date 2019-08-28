@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.41974,
     "lbl:longitude":19.073923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.415894,
     "mps:longitude":19.071025,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:hun_x_preferred":[
-        "Chepel"
-    ],
-    "name:unk_x_variant":[
         "Chepel"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":804478,
-        "qs:id":213898,
         "qs_pg:id":213898
     },
     "wof:country":"HU",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247544,
+    "wof:lastmodified":1566649591,
     "wof:name":"Chepel",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

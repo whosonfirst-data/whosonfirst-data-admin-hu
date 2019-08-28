@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.354071,
     "lbl:longitude":19.100824,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.354071,
     "mps:longitude":19.100824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0445\u0430\u0440\u0430\u0441\u0437\u0442\u0438"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"1162dd2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053485,
         "gp:id":805674,
-        "qs:id":229036,
         "qs_pg:id":229036,
         "wd:id":"Q854933",
         "wk:page":"Dunaharaszti"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236927,
+    "wof:lastmodified":1566650179,
     "wof:name":"Dunaharaszti",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

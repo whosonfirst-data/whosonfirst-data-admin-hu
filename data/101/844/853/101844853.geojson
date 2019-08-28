@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.595549,
     "lbl:longitude":18.718603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.595549,
     "mps:longitude":18.718603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pusztahencse"
     ],
@@ -62,7 +65,7 @@
     "name:slv_x_preferred":[
         "Pusztahencse"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6z\u00e9phencse-puszta"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
         "fct:id":"11644e4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046106,
         "gp:id":814090,
-        "qs:id":1270352,
+        "qs_pg:id":1270352,
         "wd:id":"Q1184492",
         "wk:page":"Pusztahencse"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237036,
+    "wof:lastmodified":1566650213,
     "wof:name":"Pusztahencse",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.675558,
     "lbl:longitude":19.116252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.675558,
     "mps:longitude":19.116252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szigetmonostor"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"1164a8c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044481,
         "gp:id":815804,
-        "qs:id":491754,
         "qs_pg:id":491754,
         "wd:id":"Q640548",
         "wk:page":"Szigetmonostor"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236931,
+    "wof:lastmodified":1566650179,
     "wof:name":"Szigetmonostor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

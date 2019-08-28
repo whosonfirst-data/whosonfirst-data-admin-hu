@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.76726,47.18262,16.80726,47.22262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Ken\u00e9z"
     ],
@@ -50,9 +54,6 @@
         "Ken\u00e9z"
     ],
     "name:slv_x_preferred":[
-        "Ken\u00e9z"
-    ],
-    "name:und_x_variant":[
         "Ken\u00e9z"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1293159275,
-    "wof:lastmodified":1564160213,
+    "wof:lastmodified":1566649632,
     "wof:name":"Kenez",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

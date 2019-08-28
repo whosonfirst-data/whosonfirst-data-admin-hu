@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.64001,45.85464,17.68001,45.89464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Szentborb\u00e1s"
     ],
@@ -64,9 +68,6 @@
     "name:swe_x_preferred":[
         "Szentborb\u00e1s"
     ],
-    "name:und_x_variant":[
-        "Szentborb\u00e1s"
-    ],
     "name:vie_x_preferred":[
         "Szentborb\u00e1s"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1276725633,
-    "wof:lastmodified":1564160320,
+    "wof:lastmodified":1566649714,
     "wof:name":"Szentborbas",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.77222,45.96139,18.81222,46.00139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Homor\u00fad"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u0425\u043e\u043c\u043e\u0440\u0443\u0434"
     ],
-    "name:und_x_variant":[
-        "Homor\u00fad"
-    ],
     "name:vie_x_preferred":[
         "Homor\u00fad"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1276230893,
-    "wof:lastmodified":1564160414,
+    "wof:lastmodified":1566649786,
     "wof:name":"Homorud",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

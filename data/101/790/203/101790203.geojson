@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.306981,
     "lbl:longitude":18.133307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.306981,
     "mps:longitude":18.133307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "V\u00e1s\u00e1rosdomb\u00f3"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1164f8a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043080,
         "gp:id":817540,
-        "qs:id":402012,
+        "qs_pg:id":402012,
         "wd:id":"Q1051909",
         "wk:page":"V\u00e1s\u00e1rosdomb\u00f3"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236858,
+    "wof:lastmodified":1566650157,
     "wof:name":"V\u00e1s\u00e1rosdomb\u00f3",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.070024,
     "lbl:longitude":20.977686,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.070024,
     "mps:longitude":20.977686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hern\u00e1dn\u00e9meti"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":188,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"1163378e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720026,
         "gp:id":807928,
-        "qs:id":1269648,
         "qs_pg:id":1269648,
         "wd:id":"Q259390",
         "wk:page":"Hern\u00e1dn\u00e9meti"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237078,
+    "wof:lastmodified":1566650227,
     "wof:name":"Hern\u00e1dn\u00e9meti",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.57354,48.44336,21.61354,48.48336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mik\u00f3h\u00e1za"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Mik\u00f3h\u00e1za"
     ],
-    "name:und_x_variant":[
-        "Mik\u00f3h\u00e1za"
-    ],
     "name:vie_x_preferred":[
         "Mik\u00f3h\u00e1za"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1260191859,
-    "wof:lastmodified":1564160707,
+    "wof:lastmodified":1566649997,
     "wof:name":"Mikohaza",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.19383,47.09983,17.23383,47.13983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dabr\u00f3ka",
         "Dabr\u00f3kaics\u00e1rda"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209074767,
-    "wof:lastmodified":1537626252,
+    "wof:lastmodified":1566649825,
     "wof:name":"Dabrokaicsarda",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

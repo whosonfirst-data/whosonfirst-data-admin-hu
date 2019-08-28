@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.819255,
     "lbl:longitude":18.666212,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.819255,
     "mps:longitude":18.666212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alap"
     ],
@@ -103,7 +106,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
         "fct:id":"116253b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056331,
         "gp:id":802415,
-        "qs:id":1042921,
         "qs_pg:id":1042921,
         "wd:id":"Q575707",
         "wk:page":"Alap, Hungary"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":1175612757,
-    "wof:lastmodified":1563236671,
+    "wof:lastmodified":1566650027,
     "wof:name":"Alap",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

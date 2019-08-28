@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.526752,
     "lbl:longitude":19.1185,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.528464,
     "mps:longitude":19.113474,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Als\u00f3r\u00e1kos"
     ],
     "name:hun_x_variant":[
-        "Alsoprakos"
-    ],
-    "name:unk_x_variant":[
         "Alsoprakos"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -73,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723955,
-        "qs:id":1262720,
         "qs_pg:id":1262720
     },
     "wof:country":"HU",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566649577,
     "wof:name":"Alsorakos",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

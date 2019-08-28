@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.85122,
     "lbl:longitude":17.174614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.85122,
     "mps:longitude":17.174614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mosonszolnok"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"1163e558-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047892,
         "gp:id":812162,
-        "qs:id":939683,
+        "qs_pg:id":939683,
         "wd:id":"Q1017872",
         "wk:page":"Mosonszolnok"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237134,
+    "wof:lastmodified":1566650244,
     "wof:name":"Mosonszolnok",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

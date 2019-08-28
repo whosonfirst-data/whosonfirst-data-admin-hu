@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.693862,
     "lbl:longitude":22.03623,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.693862,
     "mps:longitude":22.03623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00edrlugos"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u0457\u0440\u043b\u0443\u0433\u043e\u0448"
     ],
-    "name:unk_x_variant":[
-        "Nairlugos"
-    ],
     "name:vie_x_preferred":[
         "Ny\u00edrlugos"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -126,7 +126,6 @@
         "fct:id":"116413ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716909,
         "gp:id":812926,
-        "qs:id":401880,
         "qs_pg:id":401880,
         "wd:id":"Q933454",
         "wk:page":"Ny\u00edrlugos"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237112,
+    "wof:lastmodified":1566650238,
     "wof:name":"Ny\u00edrlugos",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

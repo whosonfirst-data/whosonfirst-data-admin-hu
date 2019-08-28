@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.99312,
     "lbl:longitude":18.685789,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.99312,
     "mps:longitude":18.685789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u043e\u0445\u0430\u0447"
     ],
@@ -180,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":354,
     "wof:belongsto":[
@@ -194,7 +197,6 @@
         "fct:id":"1163e0ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047967,
         "gp:id":812076,
-        "qs:id":894583,
         "qs_pg:id":894583,
         "wd:id":"Q320798",
         "wk:page":"Moh\u00e1cs"
@@ -214,7 +216,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236950,
+    "wof:lastmodified":1566650185,
     "wof:name":"Moh\u00e1cs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.074733,
     "lbl:longitude":18.226387,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.065047,
     "mps:longitude":18.232299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "P\u00e9cs"
     ],
@@ -297,9 +300,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447"
     ],
-    "name:unk_x_variant":[
-        "Fuenfkirchen"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u06a9\u0633"
     ],
@@ -340,9 +340,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"163",
     "statoids:area_mi":"63",
     "statoids:as_of_date":"2011-10-01",
@@ -372,7 +372,6 @@
         "hasc:id":"HU.PS",
         "iso:id":"HU-PS",
         "nyt:id":"N45492730709342643031",
-        "qs:id":892177,
         "qs_pg:id":892177,
         "wd:id":"Q45779",
         "wk:page":"P\u00e9cs"
@@ -392,11 +391,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237321,
+    "wof:lastmodified":1566650302,
     "wof:name":"P\u00e9cs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":156049,
     "wof:population_rank":9,

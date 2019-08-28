@@ -9,16 +9,19 @@
     "geom:bbox":"19.8,47.01667,19.8,47.01667",
     "geom:latitude":47.01667,
     "geom:longitude":19.8,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"HU",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"HU",
+    "lbl:bbox":"19.795,47.01167,19.805,47.02167",
     "lbl:latitude":47.01667,
     "lbl:longitude":19.8,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00e1lm\u00e1nhegy"
     ],
     "qs_pg:aaroncc":"HU",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":808838,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
     "woe:name_adm1":"Pest",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
-        404227489
+        404227489,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126082557,
-    "wof:lastmodified":1509411236,
+    "wof:lastmodified":1566650481,
     "wof:name":"K\u00e1lm\u00e1nhegyd\u016fl\u0151",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

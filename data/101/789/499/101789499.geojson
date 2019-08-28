@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.018007,
     "lbl:longitude":20.278483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.018007,
     "mps:longitude":20.278483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Martf\u0171"
     ],
@@ -93,7 +96,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":255,
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":717791,
         "gp:id":811659,
-        "qs:id":887879,
+        "qs_pg:id":887879,
         "wd:id":"Q262661",
         "wk:page":"Martf\u0171"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101789499,
-    "wof:lastmodified":1563237534,
+    "wof:lastmodified":1566650372,
     "wof:name":"Martf\u0171",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

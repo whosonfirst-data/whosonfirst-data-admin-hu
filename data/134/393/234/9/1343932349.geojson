@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.83,47.36333,20.87,47.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Berekf\u00fcrd\u0151"
     ],
@@ -64,8 +68,7 @@
     ],
     "name:und_x_variant":[
         "Karcagigy\u00f3gyf\u00fcrd\u0151",
-        "Berekf\u00fcrd\u0151telep",
-        "Berekf\u00fcrd\u0151"
+        "Berekf\u00fcrd\u0151telep"
     ],
     "name:vie_x_preferred":[
         "Berekf\u00fcrd\u0151"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1343932349,
-    "wof:lastmodified":1564160088,
+    "wof:lastmodified":1566649518,
     "wof:name":"Berekfurdo",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

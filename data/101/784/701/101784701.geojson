@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.802538,
     "lbl:longitude":19.761385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.802538,
     "mps:longitude":19.761385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "J\u00f3zsef Bajza"
     ],
@@ -102,7 +105,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3044265,
         "gp:id":816099,
-        "qs:id":255472,
+        "qs_pg:id":255472,
         "wd:id":"Q636462"
     },
     "wof:country":"HU",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101784701,
-    "wof:lastmodified":1563237251,
+    "wof:lastmodified":1566650284,
     "wof:name":"Sz\u00fccsi",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

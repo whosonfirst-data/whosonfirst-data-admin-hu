@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.315398,
     "lbl:longitude":18.788263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.315398,
     "mps:longitude":18.788263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Martonv\u00e1s\u00e1r"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"1163ca64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048326,
         "gp:id":811679,
-        "qs:id":491679,
         "qs_pg:id":491679,
         "wd:id":"Q933641",
         "wk:page":"Martonv\u00e1s\u00e1r"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237333,
+    "wof:lastmodified":1566650306,
     "wof:name":"Martonv\u00e1s\u00e1r",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

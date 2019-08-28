@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.83,48.09667,21.87,48.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sz\u0151ll\u0151sy-tanya",
         "Sz\u0151ll\u0151ssytanya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326493453,
-    "wof:lastmodified":1537626167,
+    "wof:lastmodified":1566649386,
     "wof:name":"Szollossytanya",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.775362,
     "lbl:longitude":21.442951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.775362,
     "mps:longitude":21.442951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u00e9hker\u00e9k"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"1163d13a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717721,
         "gp:id":811805,
-        "qs:id":57190,
         "qs_pg:id":57190,
         "wd:id":"Q1075840",
         "wk:page":"M\u00e9hker\u00e9k"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237513,
+    "wof:lastmodified":1566650366,
     "wof:name":"M\u00e9hker\u00e9k",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

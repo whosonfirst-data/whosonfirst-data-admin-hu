@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.770359,
     "lbl:longitude":18.634385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.770359,
     "mps:longitude":18.634385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0435\u0441\u0435"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1162ac38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054547,
         "gp:id":804457,
-        "qs:id":218977,
         "qs_pg:id":218977,
         "wd:id":"Q378836",
         "wk:page":"Cece, Hungary"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237520,
+    "wof:lastmodified":1566650369,
     "wof:name":"Cece",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

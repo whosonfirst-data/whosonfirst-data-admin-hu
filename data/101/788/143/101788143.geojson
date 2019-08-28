@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.994266,
     "lbl:longitude":18.699244,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.994266,
     "mps:longitude":18.699244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hantos"
     ],
@@ -58,9 +61,6 @@
     "name:slv_x_preferred":[
         "Hantos"
     ],
-    "name:unk_x_variant":[
-        "Nagyhantos"
-    ],
     "name:vie_x_preferred":[
         "Hantos"
     ],
@@ -84,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,7 @@
         "fct:id":"11632c4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051760,
         "gp:id":807652,
-        "qs:id":249847,
+        "qs_pg:id":249847,
         "wd:id":"Q644306",
         "wk:page":"Hantos"
     },
@@ -116,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237369,
+    "wof:lastmodified":1566650319,
     "wof:name":"Hantos",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

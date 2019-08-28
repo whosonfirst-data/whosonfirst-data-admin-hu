@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.492211,
     "lbl:longitude":19.055383,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.495573,
     "mps:longitude":19.056882,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:hun_x_variant":[
         "Belv\u00e1ros"
-    ],
-    "name:unk_x_variant":[
-        "Belvaros"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_id":0,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723959,
-        "qs:id":893532,
         "qs_pg:id":893532
     },
     "wof:country":"HU",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566649579,
     "wof:name":"Belvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

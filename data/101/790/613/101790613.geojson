@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.287029,
     "lbl:longitude":21.019173,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.287029,
     "mps:longitude":21.019173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Battonya"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
         "fct:id":"11628352-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722477,
         "gp:id":803575,
-        "qs:id":218966,
         "qs_pg:id":218966,
         "wd:id":"Q791458",
         "wk:page":"Battonya"
@@ -149,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236891,
+    "wof:lastmodified":1566650167,
     "wof:name":"Battonya",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

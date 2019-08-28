@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.37889,45.75833,18.41889,45.79833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00e1s\u00e1d"
     ],
@@ -67,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0448\u0430\u0434"
     ],
-    "name:und_x_variant":[
-        "K\u00e1s\u00e1d"
-    ],
     "name:vie_x_preferred":[
         "K\u00e1s\u00e1d"
     ],
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1343674581,
-    "wof:lastmodified":1564160086,
+    "wof:lastmodified":1566649517,
     "wof:name":"Kasad",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

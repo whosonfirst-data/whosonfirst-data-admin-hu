@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.65323,47.07445,18.69323,47.11445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fels\u0151szolgaegyh\u00e1za",
         "Fels\u0151puszta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327129825,
-    "wof:lastmodified":1537626246,
+    "wof:lastmodified":1566649374,
     "wof:name":"Felsopuszta",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

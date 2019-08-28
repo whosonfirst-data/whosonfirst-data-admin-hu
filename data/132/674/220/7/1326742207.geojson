@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.19667,46.78,21.23667,46.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Berke Khan"
     ],
@@ -111,8 +115,7 @@
         "\u0411\u0435\u0440\u043a\u0435"
     ],
     "name:und_x_variant":[
-        "Berke-major",
-        "Berke"
+        "Berke-major"
     ],
     "name:uzb_x_preferred":[
         "Berkaxon"
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1326742207,
-    "wof:lastmodified":1564159856,
+    "wof:lastmodified":1566649346,
     "wof:name":"Berke",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.371073,
     "geom:longitude":18.103599,
     "iso:country":"HU",
+    "lbl:bbox":"18.083599,46.351073,18.123599,46.391073",
     "lbl:latitude":46.371073,
     "lbl:longitude":18.103599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.371073,
     "mps:longitude":18.103599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Kapospula"
     ],
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -93,7 +97,6 @@
     "wof:concordances":{
         "gn:id":3050625,
         "gp:id":808943,
-        "qs:id":1096282,
         "qs_pg:id":1096282,
         "wd:id":"Q1104309",
         "wk:page":"Kapospula"
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101875763,
-    "wof:lastmodified":1563236977,
+    "wof:lastmodified":1566650193,
     "wof:name":"Kapospula",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

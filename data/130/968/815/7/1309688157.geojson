@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.4939,48.12497,22.5339,48.16497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "M\u00e1rokpapi"
     ],
@@ -61,9 +65,6 @@
     "name:szl_x_preferred":[
         "M\u00e1rokpapi"
     ],
-    "name:und_x_variant":[
-        "M\u00e1rokpapi"
-    ],
     "name:vie_x_preferred":[
         "M\u00e1rokpapi"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1309688157,
-    "wof:lastmodified":1564160927,
+    "wof:lastmodified":1566650413,
     "wof:name":"Marokpapi",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

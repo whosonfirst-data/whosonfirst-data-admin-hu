@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.351142,
     "lbl:longitude":19.540193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.351142,
     "mps:longitude":19.540193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Balotasz\u00e1ll\u00e1s"
     ],
@@ -71,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u043e\u0442\u0430\u0441\u0430\u043b\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "Bab\u00f3 Tanya"
-    ],
     "name:vie_x_preferred":[
         "Balotasz\u00e1ll\u00e1s"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,7 @@
         "fct:id":"11627a92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055484,
         "gp:id":803328,
-        "qs:id":939403,
+        "qs_pg:id":939403,
         "wd:id":"Q789735",
         "wk:page":"Balotasz\u00e1ll\u00e1s"
     },
@@ -126,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236838,
+    "wof:lastmodified":1566650150,
     "wof:name":"Balotasz\u00e1ll\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.72189,47.42285,17.76189,47.46285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bertalanffymajor",
         "Bertalanffypuszta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310273491,
-    "wof:lastmodified":1537626266,
+    "wof:lastmodified":1566650071,
     "wof:name":"Bertalanffypuszta",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

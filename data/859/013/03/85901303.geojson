@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2483252.189012,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.398865,47.195312,20.398865,47.195312",
     "geom:latitude":47.195312,
     "geom:longitude":20.398865,
     "gn:latitude":47.18333,
     "gn:longitude":20.41667,
     "iso:country":"HU",
+    "lbl:bbox":"20.393865,47.190312,20.403865,47.200312",
     "lbl:latitude":47.195312,
     "lbl:longitude":20.398865,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.19599,
     "mps:longitude":20.398507,
     "mz:hierarchy_label":0,
@@ -35,9 +37,8 @@
     "name:hun_x_variant":[
         "Sz\u0151ll\u0151h\u00e1tuljad\u016fl\u0151"
     ],
-    "name:unk_x_variant":[
-        "Sz\u0151ll\u0151h\u00e1tuljad\u0171l\u0151",
-        "Sz\u0151l\u0151h\u00e1tuljad\u016fl\u0151"
+    "name:und_x_variant":[
+        "Sz\u0151ll\u0151h\u00e1tuljad\u0171l\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -68,18 +69,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684891,
         102191581,
         85633237,
-        404227483
+        404227483,
+        85684891
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":715119,
         "gp:id":816014,
-        "qs:id":1096312,
         "qs_pg:id":1096312
     },
     "wof:country":"HU",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932471,
+    "wof:lastmodified":1566649572,
     "wof:name":"Sz\u0151l\u0151h\u00e1tuljad\u016fl\u0151",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

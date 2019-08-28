@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.61846,47.13823,18.65846,47.17823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Csiribpuszta"
     ],
     "name:und_x_variant":[
-        "Csiribmajor",
-        "Csiribpuszta"
+        "Csiribmajor"
     ],
     "name:vol_x_preferred":[
         "Csiribpuszta"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243283735,
-    "wof:lastmodified":1564161136,
+    "wof:lastmodified":1566650624,
     "wof:name":"Csiribpuszta",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

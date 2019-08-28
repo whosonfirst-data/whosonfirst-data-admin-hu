@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.858465,
     "lbl:longitude":17.324604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.858465,
     "mps:longitude":17.324604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "M\u00e1riak\u00e1lnok"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":15,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"1163c62c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048419,
         "gp:id":811564,
-        "qs:id":1096295,
         "qs_pg:id":1096295,
         "wd:id":"Q1089630",
         "wk:page":"M\u00e1riak\u00e1lnok"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237143,
+    "wof:lastmodified":1566650247,
     "wof:name":"M\u00e1riak\u00e1lnok",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

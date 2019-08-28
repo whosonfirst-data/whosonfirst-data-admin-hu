@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23307363.473282,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.324531,46.418012,20.324531,46.418012",
     "geom:latitude":46.418012,
     "geom:longitude":20.324531,
     "gn:latitude":46.41667,
     "gn:longitude":20.33333,
     "iso:country":"HU",
+    "lbl:bbox":"20.319531,46.413012,20.329531,46.423012",
     "lbl:latitude":46.418012,
     "lbl:longitude":20.324531,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.420234,
     "mps:longitude":20.328757,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
         "Kincses"
     ],
     "name:hun_x_preferred":[
-        "Kincsestelep"
-    ],
-    "name:unk_x_variant":[
-        "Kincses",
         "Kincsestelep"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101790425
+        101790425,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":719071,
         "gp:id":809491,
-        "qs:id":241072,
         "qs_pg:id":241072
     },
     "wof:country":"HU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932441,
+    "wof:lastmodified":1566649585,
     "wof:name":"Kincsestelep",
     "wof:parent_id":101790425,
     "wof:placetype":"neighbourhood",

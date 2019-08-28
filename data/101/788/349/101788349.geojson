@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.315254,
     "lbl:longitude":21.307339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.315254,
     "mps:longitude":21.307339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tet\u00e9tlen"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1164c84c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714827,
         "gp:id":816462,
-        "qs:id":1270629,
+        "qs_pg:id":1270629,
         "wd:id":"Q259187",
         "wk:page":"Tet\u00e9tlen"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237369,
+    "wof:lastmodified":1566650319,
     "wof:name":"Tet\u00e9tlen",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

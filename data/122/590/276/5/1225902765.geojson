@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.49988,46.91388,16.53988,46.95388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0435\u043b\u0448\u043e\u043c\u0430\u0440\u0430\u0446"
     ],
@@ -53,9 +57,6 @@
         "Fels\u0151mar\u00e1c"
     ],
     "name:slv_x_preferred":[
-        "Fels\u0151mar\u00e1c"
-    ],
-    "name:und_x_variant":[
         "Fels\u0151mar\u00e1c"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1225902765,
-    "wof:lastmodified":1564161332,
+    "wof:lastmodified":1566650773,
     "wof:name":"Felsomarac",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

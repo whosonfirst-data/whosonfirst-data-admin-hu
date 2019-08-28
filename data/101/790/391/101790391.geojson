@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.583395,
     "lbl:longitude":20.489139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.583395,
     "mps:longitude":20.489139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nagym\u00e1gocs"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"1163f778-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717227,
         "gp:id":812480,
-        "qs:id":178696,
+        "qs_pg:id":178696,
         "wd:id":"Q1071131",
         "wk:page":"Nagym\u00e1gocs"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236829,
+    "wof:lastmodified":1566650148,
     "wof:name":"Nagym\u00e1gocs",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.382732,
     "lbl:longitude":17.69975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.382732,
     "mps:longitude":17.69975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "P\u00e1patesz\u00e9r"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"11643166-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046680,
         "gp:id":813487,
-        "qs:id":1270271,
+        "qs_pg:id":1270271,
         "wd:id":"Q648837",
         "wk:page":"P\u00e1patesz\u00e9r"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237357,
+    "wof:lastmodified":1566650315,
     "wof:name":"P\u00e1patesz\u00e9r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

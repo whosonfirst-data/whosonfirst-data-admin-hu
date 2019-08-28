@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.944994,
     "lbl:longitude":17.079464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.944994,
     "mps:longitude":17.079464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Zalasentqrot"
     ],
@@ -84,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0430\u0441\u0435\u043d\u0442\u0433\u0440\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cs\u00e1ford"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":19,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "fct:id":"11652274-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042603,
         "gp:id":818078,
-        "qs:id":235306,
         "qs_pg:id":235306,
         "wd:id":"Q379030",
         "wk:page":"Zalaszentgr\u00f3t"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237510,
+    "wof:lastmodified":1566650365,
     "wof:name":"Zalaszentgr\u00f3t",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

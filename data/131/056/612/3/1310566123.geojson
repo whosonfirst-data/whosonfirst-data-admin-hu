@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.68353,47.52657,19.72353,47.56657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Csonthalomd\u016fl\u0151",
         "Csonthalom"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310566123,
-    "wof:lastmodified":1537626254,
+    "wof:lastmodified":1566650105,
     "wof:name":"Csonthalom",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.359593,
     "lbl:longitude":19.846563,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.359593,
     "mps:longitude":19.846563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u043c\u043e\u0441"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":298,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"1162f490-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053073,
         "gp:id":806149,
-        "qs:id":145189,
         "qs_pg:id":145189,
         "wd:id":"Q608728",
         "wk:page":"Farmos"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237359,
+    "wof:lastmodified":1566650316,
     "wof:name":"Farmos",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

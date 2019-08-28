@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.49886,
     "lbl:longitude":18.031973,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.49886,
     "mps:longitude":18.031973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0448\u0431\u0435\u0440"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Kisb\u00e9r"
     ],
-    "name:unk_x_variant":[
-        "H\u00e1nta"
-    ],
     "name:vie_x_preferred":[
         "Kisb\u00e9r"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -132,7 +132,6 @@
         "fct:id":"11651f86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050088,
         "gp:id":809584,
-        "qs:id":491647,
         "qs_pg:id":491647,
         "wd:id":"Q427769",
         "wk:page":"Kisb\u00e9r"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237459,
+    "wof:lastmodified":1566650349,
     "wof:name":"Kisb\u00e9r",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

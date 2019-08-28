@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.326773,
     "lbl:longitude":20.651366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.326773,
     "mps:longitude":20.651366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ormosb\u00e1nya"
     ],
@@ -64,7 +67,7 @@
     "name:slv_x_preferred":[
         "Ormosb\u00e1nya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orm\u00f3spuszta"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         "fct:id":"1164245a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716746,
         "gp:id":813238,
-        "qs:id":998238,
+        "qs_pg:id":998238,
         "wd:id":"Q1016784",
         "wk:page":"Ormosb\u00e1nya"
     },
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237078,
+    "wof:lastmodified":1566650227,
     "wof:name":"Ormosb\u00e1nya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

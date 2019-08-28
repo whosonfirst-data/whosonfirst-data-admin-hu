@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.52632,47.37663,18.56632,47.41663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vit\u00e9zitelep",
         "F\u00e9lszermajor"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243349033,
-    "wof:lastmodified":1537626246,
+    "wof:lastmodified":1566650583,
     "wof:name":"Felszermajor",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

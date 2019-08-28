@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.875683,
     "lbl:longitude":20.60008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.875683,
     "mps:longitude":20.60008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tard"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         "fct:id":"1164bc6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714969,
         "gp:id":816244,
-        "qs:id":939809,
+        "qs_pg:id":939809,
         "wd:id":"Q1089479",
         "wk:page":"Tard, Hungary"
     },
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236990,
+    "wof:lastmodified":1566650197,
     "wof:name":"Tard",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

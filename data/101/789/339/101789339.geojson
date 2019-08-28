@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.085041,
     "lbl:longitude":17.644337,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.085041,
     "mps:longitude":17.644337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00dark\u00fat"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1164ebba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043318,
         "gp:id":817289,
-        "qs:id":568747,
         "qs_pg:id":568747,
         "wd:id":"Q1089646",
         "wk:page":"\u00dark\u00fat"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237512,
+    "wof:lastmodified":1566650366,
     "wof:name":"\u00dark\u00fat",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

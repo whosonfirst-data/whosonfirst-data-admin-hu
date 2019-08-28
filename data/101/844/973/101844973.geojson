@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.634347,
     "lbl:longitude":18.070746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.634347,
     "mps:longitude":18.070746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nagyigm\u00e1nd"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
         "fct:id":"1163f246-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047689,
         "gp:id":812412,
-        "qs:id":421206,
         "qs_pg:id":421206,
         "wd:id":"Q225867",
         "wk:page":"Nagyigm\u00e1nd"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237040,
+    "wof:lastmodified":1566650214,
     "wof:name":"Nagyigm\u00e1nd",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

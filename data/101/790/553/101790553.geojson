@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.214052,
     "lbl:longitude":19.382128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.214052,
     "mps:longitude":19.382128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u00e9lyk\u00fat"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -119,7 +122,6 @@
         "fct:id":"1163d1d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048194,
         "gp:id":811823,
-        "qs:id":1042862,
         "qs_pg:id":1042862,
         "wd:id":"Q977027",
         "wk:page":"M\u00e9lyk\u00fat"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236889,
+    "wof:lastmodified":1566650166,
     "wof:name":"M\u00e9lyk\u00fat",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

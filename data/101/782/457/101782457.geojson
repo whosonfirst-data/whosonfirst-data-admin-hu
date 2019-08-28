@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.217822,
     "lbl:longitude":20.788411,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.217822,
     "mps:longitude":20.788411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boldva"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":347,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"11629ca2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722118,
         "gp:id":804150,
-        "qs:id":906685,
         "qs_pg:id":906685,
         "wd:id":"Q833982",
         "wk:page":"Boldva"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237186,
+    "wof:lastmodified":1566650261,
     "wof:name":"Boldva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

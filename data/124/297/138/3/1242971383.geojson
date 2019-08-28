@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.53,48.38,20.57,48.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dobros\u00f3-tanya",
         "Dobroz\u00f3tanya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242971383,
-    "wof:lastmodified":1537626187,
+    "wof:lastmodified":1566650613,
     "wof:name":"Dobrozotanya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

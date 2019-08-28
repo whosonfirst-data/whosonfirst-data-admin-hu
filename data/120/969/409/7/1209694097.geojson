@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.09667,47.63,20.13667,47.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":713914
     },
     "wof:country":"HU",
-    "wof:geomhash":"bfd564c467d75d5970845bd7ff2ff760",
+    "wof:geomhash":"31643e9508a04d67c018ded495c1f79a",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209694097,
-    "wof:lastmodified":1536279137,
+    "wof:lastmodified":1566649897,
     "wof:name":"Zaranki Tanyak",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.116670000000006,
+    20.11667000000001,
     47.65,
-    20.116670000000006,
+    20.11667000000001,
     47.65
 ],
   "geometry": {"coordinates":[20.11667000000001,47.65],"type":"Point"}

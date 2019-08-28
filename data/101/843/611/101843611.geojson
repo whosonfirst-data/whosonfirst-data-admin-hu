@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.178164,
     "lbl:longitude":21.783766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.178164,
     "mps:longitude":21.783766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tiszatelek"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1164d44a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714704,
         "gp:id":816580,
-        "qs:id":255477,
+        "qs_pg:id":255477,
         "wd:id":"Q1187197",
         "wk:page":"Tiszatelek"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236988,
+    "wof:lastmodified":1566650197,
     "wof:name":"Tiszatelek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

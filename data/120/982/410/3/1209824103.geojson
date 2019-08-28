@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.33233,45.76894,18.37233,45.80894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Old"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1209824103,
-    "wof:lastmodified":1564160539,
+    "wof:lastmodified":1566649874,
     "wof:name":"Old",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

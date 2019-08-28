@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.18058,46.93099,17.22058,46.97099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pal\u00e1nkosmajor",
         "Pal\u00e1nkospuszta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276824803,
-    "wof:lastmodified":1537626219,
+    "wof:lastmodified":1566649779,
     "wof:name":"Palankospuszta",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

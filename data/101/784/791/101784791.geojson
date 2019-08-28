@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.767957,
     "lbl:longitude":21.856693,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.767957,
     "mps:longitude":21.856693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Balk\u00e1ny"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":459,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"116279c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722650,
         "gp:id":803296,
-        "qs:id":183526,
         "qs_pg:id":183526,
         "wd:id":"Q755699",
         "wk:page":"Balk\u00e1ny"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237253,
+    "wof:lastmodified":1566650284,
     "wof:name":"Balk\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.484194,
     "lbl:longitude":18.313968,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.484194,
     "mps:longitude":18.313968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Oroszl\u00e1ny"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":584,
     "wof:belongsto":[
@@ -137,7 +140,6 @@
         "fct:id":"1164252c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046888,
         "gp:id":813263,
-        "qs:id":229059,
         "qs_pg:id":229059,
         "wd:id":"Q843028",
         "wk:page":"Oroszl\u00e1ny"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237464,
+    "wof:lastmodified":1566650350,
     "wof:name":"Oroszl\u00e1ny",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

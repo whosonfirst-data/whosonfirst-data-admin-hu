@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.313227,
     "lbl:longitude":21.795827,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.313227,
     "mps:longitude":21.795827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0634\u0627"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":337,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
         "fct:id":"1163660a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":719396,
         "gp:id":809011,
-        "qs:id":255398,
         "qs_pg:id":255398,
         "wd:id":"Q1008016",
         "wk:page":"Karcsa"
@@ -134,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237178,
+    "wof:lastmodified":1566650259,
     "wof:name":"Karcsa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

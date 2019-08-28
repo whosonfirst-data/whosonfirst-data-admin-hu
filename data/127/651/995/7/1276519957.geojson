@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.20139,47.31738,19.24139,47.35738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Als\u00f3n\u00e9medi Sz\u0151ll\u0151k",
         "N\u00e9medisz\u0151l\u0151"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276519957,
-    "wof:lastmodified":1537626222,
+    "wof:lastmodified":1566649744,
     "wof:name":"Nemediszolo",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

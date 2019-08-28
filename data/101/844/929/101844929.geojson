@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.181611,
     "lbl:longitude":16.767004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.181611,
     "mps:longitude":16.767004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vassz\u00e9cseny"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":3043042,
         "gp:id":817575,
-        "qs:id":506163,
         "qs_pg:id":506163,
         "wd:id":"Q1184389",
         "wk:page":"Vassz\u00e9cseny"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101844929,
-    "wof:lastmodified":1561751549,
+    "wof:lastmodified":1566650214,
     "wof:name":"Vassz\u00e9cseny",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

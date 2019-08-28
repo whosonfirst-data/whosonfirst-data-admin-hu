@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.91981,
     "lbl:longitude":22.273835,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.91981,
     "mps:longitude":22.273835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00edrmeggyes"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"11641460-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716905,
         "gp:id":812931,
-        "qs:id":1270214,
         "qs_pg:id":1270214,
         "wd:id":"Q1089284",
         "wk:page":"Ny\u00edrmeggyes"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237221,
+    "wof:lastmodified":1566650274,
     "wof:name":"Ny\u00edrmeggyes",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

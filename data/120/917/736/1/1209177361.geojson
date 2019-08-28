@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.09667,48.16333,22.13667,48.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":721393
     },
     "wof:country":"HU",
-    "wof:geomhash":"197810b14e98106d293a15c525b73069",
+    "wof:geomhash":"313cb413e9b914937bf0486604affe96",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209177361,
-    "wof:lastmodified":1536295377,
+    "wof:lastmodified":1566649919,
     "wof:name":"Diner Bela-tanya",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.116670000000006,
+    22.11667000000001,
     48.18333,
-    22.116670000000006,
+    22.11667000000001,
     48.18333
 ],
   "geometry": {"coordinates":[22.11667000000001,48.18333],"type":"Point"}

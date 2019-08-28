@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.00812,48.20366,21.04812,48.24366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szentistv\u00e1nbaksa"
     ],
@@ -65,9 +69,6 @@
     "name:slv_x_preferred":[
         "Szentistv\u00e1nbaksa"
     ],
-    "name:und_x_variant":[
-        "Szentistv\u00e1nbaksa"
-    ],
     "name:vie_x_preferred":[
         "Szentistv\u00e1nbaksa"
     ],
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1326530875,
-    "wof:lastmodified":1564159945,
+    "wof:lastmodified":1566649412,
     "wof:name":"Szentistvanbaksa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

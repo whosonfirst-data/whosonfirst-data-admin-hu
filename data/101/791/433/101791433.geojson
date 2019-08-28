@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.997054,
     "lbl:longitude":18.91697,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.997054,
     "mps:longitude":18.91697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u00e1vod"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"1162ca92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053779,
         "gp:id":805319,
-        "qs:id":42130,
         "qs_pg:id":42130,
         "wd:id":"Q595231",
         "wk:page":"D\u00e1vod"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236960,
+    "wof:lastmodified":1566650188,
     "wof:name":"D\u00e1vod",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

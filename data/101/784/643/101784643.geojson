@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.868529,
     "lbl:longitude":21.114101,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.868529,
     "mps:longitude":21.114101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Polg\u00e1r"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"116445ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716356,
         "gp:id":813937,
-        "qs:id":1028661,
         "qs_pg:id":1028661,
         "wd:id":"Q2419449",
         "wk:page":"Polg\u00e1r, Hungary"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237257,
+    "wof:lastmodified":1566650285,
     "wof:name":"Polg\u00e1r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

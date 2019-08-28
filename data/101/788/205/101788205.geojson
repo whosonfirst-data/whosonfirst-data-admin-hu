@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.367311,
     "lbl:longitude":20.632314,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.367311,
     "mps:longitude":20.632314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0445\u0435\u0433\u0439\u0435\u0441"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":53,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
         "fct:id":"1163a598-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718321,
         "gp:id":810758,
-        "qs:id":1348874,
         "qs_pg:id":1348874,
         "wd:id":"Q933645",
         "wk:page":"Kunhegyes"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237360,
+    "wof:lastmodified":1566650317,
     "wof:name":"Kunhegyes",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

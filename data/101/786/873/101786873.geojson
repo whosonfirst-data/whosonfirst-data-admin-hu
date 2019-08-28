@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.66227,
     "lbl:longitude":18.445325,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.66227,
     "mps:longitude":18.445325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0434\u043e\u0441"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":12,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
         "fct:id":"1164bd02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044122,
         "gp:id":816246,
-        "qs:id":208376,
         "qs_pg:id":208376,
         "wd:id":"Q1044565",
         "wk:page":"Tardos"
@@ -125,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237435,
+    "wof:lastmodified":1566650341,
     "wof:name":"Tardos",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

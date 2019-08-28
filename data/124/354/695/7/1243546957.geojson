@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.0938,46.54648,20.1338,46.58648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243546957,
-    "wof:lastmodified":1536660772,
+    "wof:lastmodified":1566650506,
     "wof:name":"Dilitor",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

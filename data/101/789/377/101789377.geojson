@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.034019,
     "lbl:longitude":18.011987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.034019,
     "mps:longitude":18.011987,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Balatonalm\u00e1di"
     ],
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u043e\u043d\u0430\u043b\u044c\u043c\u0430\u0434\u0456"
     ],
-    "name:unk_x_variant":[
-        "V\u00f6r\u00f6sber\u00e9ny"
-    ],
     "name:vie_x_preferred":[
         "Balatonalm\u00e1di"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":234,
     "wof:belongsto":[
@@ -136,7 +136,6 @@
         "fct:id":"11627330-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055590,
         "gp:id":803223,
-        "qs:id":906650,
         "qs_pg:id":906650,
         "wd:id":"Q789256",
         "wk:page":"Balatonalm\u00e1di"
@@ -156,7 +155,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237545,
+    "wof:lastmodified":1566650376,
     "wof:name":"Balatonalm\u00e1di",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

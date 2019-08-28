@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.4296,
     "lbl:longitude":18.226364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.4296,
     "mps:longitude":18.226364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cbk_zam_x_preferred":[
         "Pusztav\u00e1m"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11645150-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046073,
         "gp:id":814136,
-        "qs:id":1042841,
         "qs_pg:id":1042841,
         "wd:id":"Q1095334",
         "wk:page":"Pusztav\u00e1m"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237439,
+    "wof:lastmodified":1566650342,
     "wof:name":"Pusztav\u00e1m",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.31667,48.18333,20.31667,48.18333",
     "geom:latitude":48.18333,
     "geom:longitude":20.31667,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1922,
+    "gn:country":"HU",
+    "gn:fcode":"PPL",
     "gn:population":1922,
     "iso:country":"HU",
+    "lbl:bbox":"20.29667,48.16333,20.33667,48.20333",
     "lbl:latitude":48.18333,
     "lbl:longitude":20.31667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "Farkaslyuk"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Farkaslyuk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farkaslyuki B\u00e1nyatelep"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":806126,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1125852091,
-    "wof:lastmodified":1563237800,
+    "wof:lastmodified":1566650495,
     "wof:name":"Farkaslyuk",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

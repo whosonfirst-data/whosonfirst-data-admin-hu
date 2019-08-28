@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.610288,
     "lbl:longitude":18.991734,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.610288,
     "mps:longitude":18.991734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pilisborosjen\u0151"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3046354,
         "gp:id":813834,
-        "qs:id":145158,
         "qs_pg:id":145158,
         "wd:id":"Q934564",
         "wk:page":"Pilisborosjen\u0151"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101787061,
-    "wof:lastmodified":1563237493,
+    "wof:lastmodified":1566650359,
     "wof:name":"Pilisborosjen\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

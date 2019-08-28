@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.83982,46.94046,16.87982,46.98046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "G\u0151sfa"
     ],
@@ -53,9 +57,6 @@
         "G\u0151sfa"
     ],
     "name:slv_x_preferred":[
-        "G\u0151sfa"
-    ],
-    "name:und_x_variant":[
         "G\u0151sfa"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1326498517,
-    "wof:lastmodified":1564159909,
+    "wof:lastmodified":1566649384,
     "wof:name":"Gosfa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

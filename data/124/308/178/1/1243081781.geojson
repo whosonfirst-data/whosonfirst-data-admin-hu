@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.03861,46.57,19.07861,46.61",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u00dajtelek"
     ],
@@ -67,8 +71,7 @@
     ],
     "name:und_x_variant":[
         "R\u00e9sztelek",
-        "R\u00e9sztelek-Keser\u016ftelek",
-        "\u00dajtelek"
+        "R\u00e9sztelek-Keser\u016ftelek"
     ],
     "name:vie_x_preferred":[
         "\u00dajtelek"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1243081781,
-    "wof:lastmodified":1564160997,
+    "wof:lastmodified":1566650512,
     "wof:name":"Ujtelek",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.319393,
     "lbl:longitude":16.582641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.319393,
     "mps:longitude":16.582641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gy\u00f6ngy\u00f6sfalu"
     ],
@@ -70,9 +73,6 @@
     "name:slv_x_preferred":[
         "Gy\u00f6ngy\u00f6sfalu"
     ],
-    "name:unk_x_variant":[
-        "P\u00f6se"
-    ],
     "name:vie_x_preferred":[
         "Gy\u00f6ngy\u00f6sfalu"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -108,7 +108,6 @@
         "fct:id":"11631fc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052037,
         "gp:id":807371,
-        "qs:id":42165,
         "qs_pg:id":42165,
         "wd:id":"Q1030338",
         "wk:page":"Gy\u00f6ngy\u00f6sfalu"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236929,
+    "wof:lastmodified":1566650179,
     "wof:name":"Gy\u00f6ngy\u00f6sfalu",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

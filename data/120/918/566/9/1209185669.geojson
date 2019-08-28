@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.30888,46.42051,17.34888,46.46051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633237
@@ -34,7 +38,7 @@
         "gn:id":3050596
     },
     "wof:country":"HU",
-    "wof:geomhash":"170a3f1be48c96ef1bf3167c9a71bd18",
+    "wof:geomhash":"ad77e444003a9f5c7c0d17d347a5ba26",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209185669,
-    "wof:lastmodified":1536295109,
+    "wof:lastmodified":1566649908,
     "wof:name":"Kaptalanterebezd",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.328879999999998,
+    17.32888,
     46.44051,
-    17.328879999999998,
+    17.32888,
     46.44051
 ],
   "geometry": {"coordinates":[17.32888,46.44051],"type":"Point"}

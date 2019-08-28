@@ -10,9 +10,12 @@
     "geom:latitude":47.520606,
     "geom:longitude":19.191382,
     "iso:country":"HU",
+    "lbl:bbox":"19.1863816282,47.5156060191,19.1963816282,47.5256060191",
     "lbl:latitude":47.520606,
     "lbl:longitude":19.191382,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +23,13 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85684881,
         102191581,
         85633237,
         404227489,
-        101751703
+        101751703,
+        85684881
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108940395,
-    "wof:lastmodified":1492123551,
+    "wof:lastmodified":1566650016,
     "wof:name":"XVI. ker\u00fclet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.435341,
     "lbl:longitude":19.041314,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.422607,
     "mps:longitude":19.041775,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:swe_x_preferred":[
         "Budafok"
     ],
-    "name:unk_x_variant":[
-        "Promontor"
-    ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3054643,
@@ -105,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3054663,
         "gp:id":814030,
-        "qs:id":1167241,
         "qs_pg:id":1167241,
         "wd:id":"Q525100",
         "wk:page":"Budafok"
@@ -126,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649565,
     "wof:name":"Promontor",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

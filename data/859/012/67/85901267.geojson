@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8071998.791462,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.698736,46.88409,19.698736,46.88409",
     "geom:latitude":46.88409,
     "geom:longitude":19.698736,
     "gn:latitude":46.88333,
     "gn:longitude":19.7,
     "iso:country":"HU",
+    "lbl:bbox":"19.693736,46.87909,19.703736,46.88909",
     "lbl:latitude":46.88409,
     "lbl:longitude":19.698736,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.885467,
     "mps:longitude":19.704104,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Rendorfalu"
     ],
     "name:hun_x_preferred":[
-        "Rend\u0151rfalu"
-    ],
-    "name:unk_x_variant":[
         "Rend\u0151rfalu"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684859,
         102191581,
         85633237,
         404227487,
-        101751685
+        101751685,
+        85684859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3045890,
         "gp:id":814353,
-        "qs:id":57301,
         "qs_pg:id":57301
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932464,
+    "wof:lastmodified":1566649566,
     "wof:name":"Rend\u0151rfalu",
     "wof:parent_id":101751685,
     "wof:placetype":"neighbourhood",

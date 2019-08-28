@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.625008,
     "lbl:longitude":20.889416,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.625008,
     "mps:longitude":20.889416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0433\u0439\u0435\u043a"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"1162e702-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721208,
         "gp:id":805788,
-        "qs:id":1028683,
         "qs_pg:id":1028683,
         "wd:id":"Q944327",
         "wk:page":"Egyek"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237151,
+    "wof:lastmodified":1566650250,
     "wof:name":"Egyek",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.33,46.19667,20.37,46.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Ferencsz\u00e1ll\u00e1s"
     ],
@@ -60,8 +64,7 @@
         "\u0424\u0435\u0440\u0435\u043d\u0446\u0441\u0430\u043b\u0430\u0448"
     ],
     "name:und_x_variant":[
-        "Ferenczsz\u00e1ll\u00e1s",
-        "Ferencsz\u00e1ll\u00e1s"
+        "Ferenczsz\u00e1ll\u00e1s"
     ],
     "name:vie_x_preferred":[
         "Ferencsz\u00e1ll\u00e1s"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1326552365,
-    "wof:lastmodified":1564159930,
+    "wof:lastmodified":1566649401,
     "wof:name":"Ferencszallas",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

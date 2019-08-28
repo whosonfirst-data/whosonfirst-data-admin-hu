@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.78134,46.6536,16.82134,46.6936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "T\u00f3fej"
     ],
@@ -53,9 +57,6 @@
         "T\u00f3fej"
     ],
     "name:slv_x_preferred":[
-        "T\u00f3fej"
-    ],
-    "name:und_x_variant":[
         "T\u00f3fej"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1226200303,
-    "wof:lastmodified":1564161287,
+    "wof:lastmodified":1566650739,
     "wof:name":"Tofej",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.84485,
     "lbl:longitude":21.42668,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.84485,
     "mps:longitude":21.42668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Hajd\u00fan\u00e1n\u00e1s"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -137,7 +140,6 @@
         "fct:id":"11632848-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":720284,
         "gp:id":807523,
-        "qs:id":275628,
         "qs_pg:id":275628,
         "wd:id":"Q739304",
         "wk:page":"Hajd\u00fan\u00e1n\u00e1s"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237280,
+    "wof:lastmodified":1566650293,
     "wof:name":"Hajd\u00fan\u00e1n\u00e1s",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

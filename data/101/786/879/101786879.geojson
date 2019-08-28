@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.64986,
     "lbl:longitude":17.920934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.64986,
     "mps:longitude":17.920934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Bana"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":12,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"11627b28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055477,
         "gp:id":803338,
-        "qs:id":42115,
         "qs_pg:id":42115,
         "wd:id":"Q789941",
         "wk:page":"Bana, Hungary"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237452,
+    "wof:lastmodified":1566650346,
     "wof:name":"Bana",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

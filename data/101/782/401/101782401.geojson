@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.380343,
     "lbl:longitude":20.619353,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.380343,
     "mps:longitude":20.619353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rudab\u00e1nya"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":58,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "fct:id":"11646398-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715989,
         "gp:id":814567,
-        "qs:id":128873,
         "qs_pg:id":128873,
         "wd:id":"Q1008635",
         "wk:page":"Rudab\u00e1nya"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237164,
+    "wof:lastmodified":1566650255,
     "wof:name":"Rudab\u00e1nya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

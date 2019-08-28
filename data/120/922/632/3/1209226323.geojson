@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.01333,46.78,21.05333,46.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Belentaitany\u00e1k",
         "Belenta"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209226323,
-    "wof:lastmodified":1537626196,
+    "wof:lastmodified":1566649876,
     "wof:name":"Belenta",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

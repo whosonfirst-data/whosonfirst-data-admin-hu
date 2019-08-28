@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14871876.122672,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.175891,46.113075,18.175891,46.113075",
     "geom:latitude":46.113075,
     "geom:longitude":18.175891,
     "gn:latitude":46.11667,
     "gn:longitude":18.18333,
     "iso:country":"HU",
+    "lbl:bbox":"18.170891,46.108075,18.180891,46.118075",
     "lbl:latitude":46.113075,
     "lbl:longitude":18.175891,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.115138,
     "mps:longitude":18.1828,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Mecsekszentkut"
     ],
     "name:hun_x_preferred":[
-        "Mecsekszentk\u00fat"
-    ],
-    "name:unk_x_variant":[
         "Mecsekszentk\u00fat"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,18 +62,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684839,
         102191581,
         85633237,
-        404227491
+        404227491,
+        85684839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3048247,
         "gp:id":811760,
-        "qs:id":1167222,
         "qs_pg:id":1167222
     },
     "wof:country":"HU",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932458,
+    "wof:lastmodified":1566649567,
     "wof:name":"Mecsekszentk\u00fat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

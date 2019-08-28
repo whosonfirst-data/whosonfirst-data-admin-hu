@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11491796.990728,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.259596,46.653756,20.259596,46.653756",
     "geom:latitude":46.653756,
     "geom:longitude":20.259596,
     "gn:latitude":46.65,
     "gn:longitude":20.26667,
     "iso:country":"HU",
+    "lbl:bbox":"20.254596,46.648756,20.264596,46.658756",
     "lbl:latitude":46.653756,
     "lbl:longitude":20.259596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.657416,
     "mps:longitude":20.263396,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Felsoret"
     ],
     "name:hun_x_preferred":[
-        "Fels\u0151r\u00e9t"
-    ],
-    "name:unk_x_variant":[
         "Fels\u0151r\u00e9t"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101790385
+        101790385,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":720874,
         "gp:id":806464,
-        "qs:id":211567,
         "qs_pg:id":211567
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932434,
+    "wof:lastmodified":1566649584,
     "wof:name":"Fels\u0151r\u00e9t",
     "wof:parent_id":101790385,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.061241,
     "lbl:longitude":18.298856,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.061241,
     "mps:longitude":18.298856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Polg\u00e1rdi"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "fct:id":"116445e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046249,
         "gp:id":813938,
-        "qs:id":1042843,
         "qs_pg:id":1042843,
         "wd:id":"Q932806",
         "wk:page":"Polg\u00e1rdi"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237530,
+    "wof:lastmodified":1566650371,
     "wof:name":"Polg\u00e1rdi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

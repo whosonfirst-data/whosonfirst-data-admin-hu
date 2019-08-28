@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.4275,45.8925,18.4675,45.9325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kisbudm\u00e9r"
     ],
@@ -64,9 +68,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0411\u0443\u0434\u043c\u0438\u0440"
     ],
-    "name:und_x_variant":[
-        "Kisbudm\u00e9r"
-    ],
     "name:vie_x_preferred":[
         "Kisbudm\u00e9r"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1209327643,
-    "wof:lastmodified":1564160557,
+    "wof:lastmodified":1566649887,
     "wof:name":"Kisbudmer",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

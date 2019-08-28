@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.76806,
     "lbl:longitude":17.542076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.76806,
     "mps:longitude":17.542076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dunaszeg"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         "fct:id":"1162de56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053455,
         "gp:id":805691,
-        "qs:id":216367,
+        "qs_pg:id":216367,
         "wd:id":"Q911441",
         "wk:page":"Dunaszeg"
     },
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237144,
+    "wof:lastmodified":1566650248,
     "wof:name":"Dunaszeg",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

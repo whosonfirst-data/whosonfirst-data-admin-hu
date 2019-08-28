@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.150569,
     "lbl:longitude":20.276727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.150569,
     "mps:longitude":20.276727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "K\u00fcbekh\u00e1za"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
         "fct:id":"1163a336-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718370,
         "gp:id":810663,
-        "qs:id":939615,
+        "qs_pg:id":939615,
         "wd:id":"Q1089764",
         "wk:page":"K\u00fcbekh\u00e1za"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236889,
+    "wof:lastmodified":1566650167,
     "wof:name":"K\u00fcbekh\u00e1za",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

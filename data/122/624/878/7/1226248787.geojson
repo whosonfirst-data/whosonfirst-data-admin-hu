@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.54667,47.91333,20.58667,47.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cser\u00e9pv\u00e1ralja"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Cser\u00e9pv\u00e1ralja"
     ],
-    "name:und_x_variant":[
-        "Cser\u00e9pv\u00e1ralja"
-    ],
     "name:vie_x_preferred":[
         "Cser\u00e9pv\u00e1ralja"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226248787,
-    "wof:lastmodified":1564161360,
+    "wof:lastmodified":1566650792,
     "wof:name":"Cserepvaralja",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

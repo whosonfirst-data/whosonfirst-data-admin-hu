@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.60688,47.78594,22.64688,47.82594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Csenger\u00fajfalu"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Csenger\u00fajfalu"
     ],
-    "name:und_x_variant":[
-        "Csenger\u00fajfalu"
-    ],
     "name:vie_x_preferred":[
         "Csenger\u00fajfalu"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1293076969,
-    "wof:lastmodified":1564160167,
+    "wof:lastmodified":1566649599,
     "wof:name":"Csengerujfalu",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

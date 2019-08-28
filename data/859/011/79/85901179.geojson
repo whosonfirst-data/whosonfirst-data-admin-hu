@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8235948.41547,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.804325,48.101416,19.804325,48.101416",
     "geom:latitude":48.101416,
     "geom:longitude":19.804325,
     "iso:country":"HU",
+    "lbl:bbox":"19.799325,48.096416,19.809325,48.106416",
     "lbl:latitude":48.101416,
     "lbl:longitude":19.804325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.101883,
     "mps:longitude":19.802704,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Kovaralja"
     ],
     "name:hun_x_preferred":[
-        "K\u0151v\u00e1ralja"
-    ],
-    "name:unk_x_variant":[
         "K\u0151v\u00e1ralja"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,13 +59,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684913,
         102191581,
         85633237,
         404227477,
-        101783501
+        101783501,
+        85684913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932450,
+    "wof:lastmodified":1566649585,
     "wof:name":"K\u0151v\u00e1ralja",
     "wof:parent_id":101783501,
     "wof:placetype":"neighbourhood",

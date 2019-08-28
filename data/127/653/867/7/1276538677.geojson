@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.18692,47.51638,17.22692,47.55638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sopronn\u00e9meti"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Sopronn\u00e9meti"
     ],
-    "name:und_x_variant":[
-        "Sopronn\u00e9meti"
-    ],
     "name:vie_x_preferred":[
         "Sopronn\u00e9meti"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1276538677,
-    "wof:lastmodified":1564160454,
+    "wof:lastmodified":1566649816,
     "wof:name":"Sopronnemeti",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

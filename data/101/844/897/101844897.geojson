@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.848208,
     "lbl:longitude":16.585476,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.848208,
     "mps:longitude":16.585476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:amh_x_preferred":[
         "\u12db\u120b\u1209\u1269"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":3042617,
         "gp:id":818068,
-        "qs:id":907346,
         "qs_pg:id":907346,
         "wd:id":"Q913754",
         "wk:page":"Zalal\u00f6v\u0151"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101844897,
-    "wof:lastmodified":1563237038,
+    "wof:lastmodified":1566650214,
     "wof:name":"Zalal\u00f6v\u0151",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

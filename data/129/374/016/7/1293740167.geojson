@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.22423,46.89155,17.26423,46.93155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293740167,
-    "wof:lastmodified":1536920705,
+    "wof:lastmodified":1566649691,
     "wof:name":"Tatikahidegkut",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.615411,
     "lbl:longitude":16.835966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.615411,
     "mps:longitude":16.835966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Fert\u0151sz\u00e9plak"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":219,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3052637,
         "gp:id":806617,
-        "qs:id":1348665,
         "qs_pg:id":1348665,
         "wd:id":"Q1000810",
         "wk:page":"Fert\u0151sz\u00e9plak"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101833315,
-    "wof:lastmodified":1563237065,
+    "wof:lastmodified":1566650224,
     "wof:name":"Fert\u0151sz\u00e9plak",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

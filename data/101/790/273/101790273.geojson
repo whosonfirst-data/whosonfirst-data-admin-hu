@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.37541,
     "lbl:longitude":18.137073,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.37541,
     "mps:longitude":18.137073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aze_x_preferred":[
         "Dombovar"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
@@ -149,7 +152,6 @@
         "fct:id":"1162d58c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053590,
         "gp:id":805567,
-        "qs:id":145196,
         "qs_pg:id":145196,
         "wd:id":"Q633789",
         "wk:page":"Domb\u00f3v\u00e1r"
@@ -169,7 +171,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236842,
+    "wof:lastmodified":1566650152,
     "wof:name":"Domb\u00f3v\u00e1r",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

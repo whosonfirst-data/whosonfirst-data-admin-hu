@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.651301,
     "lbl:longitude":17.923728,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.651301,
     "mps:longitude":17.923728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Andocs"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":381,
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,6 @@
         "fct:id":"11625daa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055988,
         "gp:id":802791,
-        "qs:id":312984,
         "qs_pg:id":312984,
         "wd:id":"Q760683",
         "wk:page":"Andocs"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236834,
+    "wof:lastmodified":1566650149,
     "wof:name":"Andocs",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.902258,
     "lbl:longitude":20.531761,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.902258,
     "mps:longitude":20.531761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bog\u00e1cs"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"116298a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722171,
         "gp:id":804080,
-        "qs:id":57039,
         "qs_pg:id":57039,
         "wd:id":"Q579531",
         "wk:page":"Bog\u00e1cs"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237282,
+    "wof:lastmodified":1566650294,
     "wof:name":"Bog\u00e1cs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

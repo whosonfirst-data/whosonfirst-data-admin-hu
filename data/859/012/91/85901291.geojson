@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7406573.724591,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.728064,47.800242,18.728064,47.800242",
     "geom:latitude":47.800242,
     "geom:longitude":18.728064,
     "gn:latitude":47.78333,
     "gn:longitude":18.75,
     "iso:country":"HU",
+    "lbl:bbox":"18.723064,47.795242,18.733064,47.805242",
     "lbl:latitude":47.800242,
     "lbl:longitude":18.728064,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.805684,
     "mps:longitude":18.722683,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Szarvashegy"
-    ],
-    "name:unk_x_variant":[
         "Szarvashegy"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -59,13 +58,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688365,
         102191581,
         85633769,
         101834157,
-        102080463,
-        85688365
+        102080463
     ],
     "wof:breaches":[
         85901163
@@ -73,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3044851,
         "gp:id":815436,
-        "qs:id":1174918
+        "qs_pg:id":1174918
     },
     "wof:country":"HU",
     "wof:geomhash":"1e636752423def6bd1ac2d2a601e1ba2",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932468,
+    "wof:lastmodified":1566649569,
     "wof:name":"Szarvashegy",
     "wof:parent_id":101834157,
     "wof:placetype":"neighbourhood",

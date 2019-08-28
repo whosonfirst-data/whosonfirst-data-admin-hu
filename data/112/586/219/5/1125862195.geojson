@@ -9,15 +9,18 @@
     "geom:bbox":"19.03622,45.9727,19.03622,45.9727",
     "geom:latitude":45.9727,
     "geom:longitude":19.03622,
-    "gn:gn_country":"HU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":259,
+    "gn:country":"HU",
+    "gn:fcode":"PPL",
     "gn:population":259,
     "iso:country":"HU",
+    "lbl:bbox":"19.01622,45.9527,19.05622,45.9927",
     "lbl:latitude":45.9727,
     "lbl:longitude":19.03622,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
@@ -82,7 +85,7 @@
     "name:swe_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Derdpusta"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs_pg:woe_adm0":23424844,
     "qs_pg:woe_id":803076,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424844,
     "woe:name_adm0":"Magyarorsz\u00e1g",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1125862195,
-    "wof:lastmodified":1563237699,
+    "wof:lastmodified":1566650452,
     "wof:name":"B\u00e1csszentgy\u00f6rgy",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

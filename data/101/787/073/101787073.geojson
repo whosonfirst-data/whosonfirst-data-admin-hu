@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.51964,
     "lbl:longitude":19.752581,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.51964,
     "mps:longitude":19.752581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Szentl\u0151rinck\u00e1ta"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3044574,
         "gp:id":815711,
-        "qs:id":401973,
         "qs_pg:id":401973,
         "wd:id":"Q1186512",
         "wk:page":"Szentl\u0151rinck\u00e1ta"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101787073,
-    "wof:lastmodified":1563237487,
+    "wof:lastmodified":1566650358,
     "wof:name":"Szentl\u0151rinck\u00e1ta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

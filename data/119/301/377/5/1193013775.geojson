@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.29349,46.58042,20.33349,46.62042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0430\u0442"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1193013775,
-    "wof:lastmodified":1564160630,
+    "wof:lastmodified":1566649940,
     "wof:name":"Donat",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

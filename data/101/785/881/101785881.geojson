@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.78077,
     "lbl:longitude":19.133178,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.78077,
     "mps:longitude":19.133178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0643"
     ],
@@ -171,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0446"
     ],
-    "name:unk_x_variant":[
-        "V\u00e1cz"
-    ],
     "name:vie_x_preferred":[
         "V\u00e1c"
     ],
@@ -199,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":546,
     "wof:belongsto":[
@@ -213,9 +213,11 @@
         "fct:id":"1164ecb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043293,
         "gp:id":817315,
-        "qs:id":1033780,
         "qs_pg:id":907307,
         "wd:id":"Q207408"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1033780
     },
     "wof:country":"HU",
     "wof:geomhash":"523fe8f8f98d97b1b68761839ee2a0c6",
@@ -232,7 +234,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237118,
+    "wof:lastmodified":1566650240,
     "wof:name":"V\u00e1c",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

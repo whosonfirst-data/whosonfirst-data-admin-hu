@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.79447,
     "lbl:longitude":17.510422,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.79447,
     "mps:longitude":17.510422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Badacsonytomaj"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":275,
     "wof:belongsto":[
@@ -117,7 +120,6 @@
         "fct:id":"11626944-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055730,
         "gp:id":803081,
-        "qs:id":906649,
         "qs_pg:id":906649,
         "wd:id":"Q788322",
         "wk:page":"Badacsonytomaj"
@@ -137,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237041,
+    "wof:lastmodified":1566650215,
     "wof:name":"Badacsonytomaj",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

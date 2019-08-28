@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.98228,
     "lbl:longitude":20.248846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.98228,
     "mps:longitude":20.248846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tiszaf\u00f6ldv\u00e1r"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "fct:id":"1164cd4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714774,
         "gp:id":816527,
-        "qs:id":255474,
         "qs_pg:id":255474,
         "wd:id":"Q541550",
         "wk:page":"Tiszaf\u00f6ldv\u00e1r"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236668,
+    "wof:lastmodified":1566650026,
     "wof:name":"Tiszaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.957059,
     "lbl:longitude":17.456874,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.957059,
     "mps:longitude":17.456874,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Barcs"
     ],
@@ -99,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Somogytarn\u00f3ca"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
         "fct:id":"11653480-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055368,
         "gp:id":803478,
-        "qs:id":1348522,
         "qs_pg:id":1348522,
         "wd:id":"Q790370",
         "wk:page":"Barcs"
@@ -161,7 +163,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236944,
+    "wof:lastmodified":1566650183,
     "wof:name":"Barcs",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

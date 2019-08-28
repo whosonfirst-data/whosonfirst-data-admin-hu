@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.34667,46.88,21.38667,46.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bal\u00e1zs-telep",
         "Bal\u00e1zs\u00fajtelep"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242585047,
-    "wof:lastmodified":1537626197,
+    "wof:lastmodified":1566650540,
     "wof:name":"Balazsujtelep",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

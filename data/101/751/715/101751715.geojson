@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.388389,
     "lbl:longitude":18.914582,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.388389,
     "mps:longitude":18.914582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:aze_x_preferred":[
         "Erd"
     ],
@@ -189,9 +192,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"61",
     "statoids:area_mi":"23",
     "statoids:as_of_date":"2011-10-01",
@@ -219,7 +222,6 @@
         "gp:id":805884,
         "hasc:id":"HU.ED",
         "iso:id":"HU-ER",
-        "qs:id":906761,
         "qs_pg:id":906761,
         "wd:id":"Q193050",
         "wk:page":"\u00c9rd"
@@ -239,11 +241,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237311,
+    "wof:lastmodified":1566650301,
     "wof:name":"\u00c9rd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":63631,
     "wof:population_rank":8,

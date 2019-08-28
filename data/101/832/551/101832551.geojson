@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.823821,
     "lbl:longitude":19.035326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.823821,
     "mps:longitude":19.035326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ver\u0151ce"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Ver\u0151ce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00f3gr\u00e1dver\u0151ce"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3042956,
         "gp:id":817697,
-        "qs:id":229072,
         "qs_pg:id":229072,
         "wd:id":"Q1047624",
         "wk:page":"Ver\u0151ce, Hungary"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101832551,
-    "wof:lastmodified":1563237044,
+    "wof:lastmodified":1566650216,
     "wof:name":"Ver\u0151ce",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

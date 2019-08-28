@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.93133,
     "lbl:longitude":20.103994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.93133,
     "mps:longitude":20.103994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Recsk"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
         "fct:id":"11645a10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716151,
         "gp:id":814300,
-        "qs:id":128874,
         "qs_pg:id":128874,
         "wd:id":"Q582533"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237265,
+    "wof:lastmodified":1566650288,
     "wof:name":"Recsk",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

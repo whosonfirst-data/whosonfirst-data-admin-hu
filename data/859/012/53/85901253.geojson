@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.43703,
     "lbl:longitude":19.193048,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.416823,
     "mps:longitude":19.197506,
     "mz:hierarchy_label":1,
@@ -41,9 +42,6 @@
         "Pestszentlorinc"
     ],
     "name:hun_x_preferred":[
-        "Pestszentl\u0151rinc"
-    ],
-    "name:unk_x_variant":[
         "Pestszentl\u0151rinc"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -83,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":813757,
-        "qs:id":1194364,
         "qs_pg:id":1194364,
         "wd:id":"Q980114"
     },
@@ -103,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649569,
     "wof:name":"Pestszentlorinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

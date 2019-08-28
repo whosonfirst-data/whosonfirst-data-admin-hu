@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.746184,
     "lbl:longitude":20.518187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.746184,
     "mps:longitude":20.518187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mez\u0151szemere"
     ],
@@ -49,7 +52,7 @@
     "name:slv_x_preferred":[
         "Mez\u0151szemere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borsodszemere"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":717640,
         "gp:id":811932,
-        "qs:id":219037,
+        "qs_pg:id":219037,
         "wd:id":"Q1071607"
     },
     "wof:country":"HU",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101784715,
-    "wof:lastmodified":1561751567,
+    "wof:lastmodified":1566650290,
     "wof:name":"Mez\u0151szemere",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

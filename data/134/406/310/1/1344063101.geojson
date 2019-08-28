@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.83776,48.31858,21.87776,48.35858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nagybels\u0151 Tanya",
         "Bels\u0151tanya"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344063101,
-    "wof:lastmodified":1537626195,
+    "wof:lastmodified":1566649474,
     "wof:name":"Belsotanya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

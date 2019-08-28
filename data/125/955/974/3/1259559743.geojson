@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.846,46.58244,17.886,46.62244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kisb\u00e1rap\u00e1ti"
     ],
@@ -53,9 +57,6 @@
         "Kisb\u00e1rap\u00e1ti"
     ],
     "name:slv_x_preferred":[
-        "Kisb\u00e1rap\u00e1ti"
-    ],
-    "name:und_x_variant":[
         "Kisb\u00e1rap\u00e1ti"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1259559743,
-    "wof:lastmodified":1564161175,
+    "wof:lastmodified":1566650653,
     "wof:name":"Kisbarapati",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

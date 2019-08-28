@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.11567,46.51307,20.15567,46.55307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Varas"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327027517,
-    "wof:lastmodified":1564159901,
+    "wof:lastmodified":1566649379,
     "wof:name":"Varas",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

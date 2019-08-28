@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19243040.161444,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.699914,46.345163,18.699914,46.345163",
     "geom:latitude":46.345163,
     "geom:longitude":18.699914,
     "gn:latitude":46.35,
     "gn:longitude":18.7,
     "iso:country":"HU",
+    "lbl:bbox":"18.694914,46.340163,18.704914,46.350163",
     "lbl:latitude":46.345163,
     "lbl:longitude":18.699914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.342249,
     "mps:longitude":18.697045,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Bartina"
-    ],
-    "name:unk_x_variant":[
         "Bartina"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684841,
         102191581,
         85633237,
         404227491,
-        101790295
+        101790295,
+        85684841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3055312,
         "gp:id":803538,
-        "qs:id":1348525,
         "qs_pg:id":1348525
     },
     "wof:country":"HU",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932425,
+    "wof:lastmodified":1566649590,
     "wof:name":"Bartina",
     "wof:parent_id":101790295,
     "wof:placetype":"neighbourhood",

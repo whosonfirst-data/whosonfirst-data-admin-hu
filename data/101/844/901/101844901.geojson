@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.773566,
     "lbl:longitude":17.169543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.773566,
     "mps:longitude":17.169543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Al\u015fopahok"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,6 @@
         "fct:id":"11625a08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056094,
         "gp:id":802670,
-        "qs:id":1348503,
         "qs_pg:id":1348503,
         "wd:id":"Q678958",
         "wk:page":"Als\u00f3p\u00e1hok"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237011,
+    "wof:lastmodified":1566650204,
     "wof:name":"Als\u00f3p\u00e1hok",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

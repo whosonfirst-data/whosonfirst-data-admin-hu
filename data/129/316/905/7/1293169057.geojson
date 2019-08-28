@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.89771,46.57053,16.93771,46.61053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Zalaszentbal\u00e1zs"
     ],
@@ -53,9 +57,6 @@
         "Zalaszentbal\u00e1zs"
     ],
     "name:slv_x_preferred":[
-        "Zalaszentbal\u00e1zs"
-    ],
-    "name:und_x_variant":[
         "Zalaszentbal\u00e1zs"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1293169057,
-    "wof:lastmodified":1564160278,
+    "wof:lastmodified":1566649681,
     "wof:name":"Zalaszentbalazs",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

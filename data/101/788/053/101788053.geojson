@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.437427,
     "lbl:longitude":17.62979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.437427,
     "mps:longitude":17.62979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Lov\u00e1szpatona"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1163b7a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048707,
         "gp:id":811243,
-        "qs:id":939635,
+        "qs_pg:id":939635,
         "wd:id":"Q950896",
         "wk:page":"Lov\u00e1szpatona"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237353,
+    "wof:lastmodified":1566650313,
     "wof:name":"Lov\u00e1szpatona",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

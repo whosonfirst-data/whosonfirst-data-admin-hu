@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.85615,
     "lbl:longitude":19.103919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.85615,
     "mps:longitude":19.103919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Szendehely"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,6 @@
         "fct:id":"11649d04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044712,
         "gp:id":815589,
-        "qs:id":266737,
         "qs_pg:id":266737,
         "wd:id":"Q539305",
         "wk:page":"Szendehely"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237292,
+    "wof:lastmodified":1566650297,
     "wof:name":"Szendehely",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

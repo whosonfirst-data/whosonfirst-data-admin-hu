@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.066366,
     "lbl:longitude":20.631341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.066366,
     "mps:longitude":20.631341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "B\u00fckkszentkereszt"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":156,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,6 @@
         "fct:id":"1162aa08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721971,
         "gp:id":804411,
-        "qs:id":238618,
         "qs_pg:id":238618,
         "wd:id":"Q281163",
         "wk:page":"B\u00fckkszentkereszt"
@@ -126,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237239,
+    "wof:lastmodified":1566650280,
     "wof:name":"B\u00fckkszentkereszt",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

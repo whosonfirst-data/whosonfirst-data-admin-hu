@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.287691,
     "lbl:longitude":22.016082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.287691,
     "mps:longitude":22.016082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szabolcsveresmart"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"11648b34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715591,
         "gp:id":815245,
-        "qs:id":966244,
+        "qs_pg:id":966244,
         "wd:id":"Q963792",
         "wk:page":"Szabolcsveresmart"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237189,
+    "wof:lastmodified":1566650263,
     "wof:name":"Szabolcsveresmart",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

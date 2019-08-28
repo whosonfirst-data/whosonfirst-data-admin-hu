@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.415461,
     "lbl:longitude":17.600025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.415461,
     "mps:longitude":17.600025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Somogys\u00e1rd"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"11647fe0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045224,
         "gp:id":815021,
-        "qs:id":1270467,
+        "qs_pg:id":1270467,
         "wd:id":"Q1186610",
         "wk:page":"Somogys\u00e1rd"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751535,
+    "wof:lastmodified":1566650160,
     "wof:name":"Somogys\u00e1rd",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

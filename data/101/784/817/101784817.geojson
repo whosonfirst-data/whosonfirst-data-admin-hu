@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.897886,
     "lbl:longitude":20.907125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.897886,
     "mps:longitude":20.907125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hej\u0151papi"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":720055,
         "gp:id":807873,
-        "qs:id":939522,
+        "qs_pg:id":939522,
         "wd:id":"Q763767",
         "wk:page":"Hej\u0151papi"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101784817,
-    "wof:lastmodified":1563237259,
+    "wof:lastmodified":1566650286,
     "wof:name":"Hej\u0151papi",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

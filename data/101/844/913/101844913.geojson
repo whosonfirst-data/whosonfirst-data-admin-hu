@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.580059,
     "lbl:longitude":20.351142,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.580059,
     "mps:longitude":20.351142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Derekegyh\u00e1z"
     ],
@@ -62,9 +65,6 @@
     "name:slv_x_preferred":[
         "Derekegyh\u00e1z"
     ],
-    "name:unk_x_variant":[
-        "Derekegyh\u00e1za"
-    ],
     "name:vie_x_preferred":[
         "Derekegyh\u00e1z"
     ],
@@ -85,7 +85,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191581,
@@ -98,7 +98,7 @@
         "fct:id":"1162cd94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721424,
         "gp:id":805383,
-        "qs:id":1143729,
+        "qs_pg:id":1143729,
         "wd:id":"Q508607",
         "wk:page":"Derekegyh\u00e1z"
     },
@@ -117,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237024,
+    "wof:lastmodified":1566650210,
     "wof:name":"Derekegyh\u00e1z",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.502756,
     "lbl:longitude":19.031503,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.498648,
     "mps:longitude":19.02622,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:hun_x_preferred":[
-        "Ofen"
-    ],
-    "name:unk_x_variant":[
         "Ofen"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":813000,
-        "qs:id":850292,
         "qs_pg:id":850292
     },
     "wof:country":"HU",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247545,
+    "wof:lastmodified":1566649565,
     "wof:name":"Ofen",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

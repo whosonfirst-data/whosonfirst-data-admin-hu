@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.557748,
     "lbl:longitude":18.476783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.557748,
     "mps:longitude":18.476783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gy\u00f6nk"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":224,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
         "gn:id":3052013,
         "gp:id":807388,
         "loc:id":"n96092570",
-        "qs:id":939501,
         "qs_pg:id":939501,
         "wd:id":"Q1011718",
         "wk:page":"Gy\u00f6nk"
@@ -144,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236903,
+    "wof:lastmodified":1566650171,
     "wof:name":"Gy\u00f6nk",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

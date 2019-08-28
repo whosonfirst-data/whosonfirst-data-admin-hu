@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9852754.333357,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.111305,47.796957,19.111305,47.796957",
     "geom:latitude":47.796957,
     "geom:longitude":19.111305,
     "gn:latitude":47.8,
     "gn:longitude":19.11667,
     "iso:country":"HU",
+    "lbl:bbox":"19.106305,47.791957,19.116305,47.801957",
     "lbl:latitude":47.796957,
     "lbl:longitude":19.111305,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.811803,
     "mps:longitude":19.134252,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     ],
     "name:hun_x_variant":[
         "T\u00e9glah\u00e1zipuszta"
-    ],
-    "name:unk_x_variant":[
-        "T\u00e9glah\u00e1zipuszta",
-        "T\u00e9glah\u00e1zpuszta"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101785881
+        101785881,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3044049,
         "gp:id":816330,
-        "qs:id":229067,
         "qs_pg:id":229067
     },
     "wof:country":"HU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932472,
+    "wof:lastmodified":1566649574,
     "wof:name":"T\u00e9glah\u00e1zpuszta",
     "wof:parent_id":101785881,
     "wof:placetype":"neighbourhood",

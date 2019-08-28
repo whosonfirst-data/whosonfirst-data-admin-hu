@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.518993,
     "lbl:longitude":20.958723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.518993,
     "mps:longitude":20.958723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Medgyesbodz\u00e1s"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"1163cfc8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717742,
         "gp:id":811763,
-        "qs:id":884248,
+        "qs_pg:id":884248,
         "wd:id":"Q943832",
         "wk:page":"Medgyesbodz\u00e1s"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751539,
+    "wof:lastmodified":1566650177,
     "wof:name":"Medgyesbodz\u00e1s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

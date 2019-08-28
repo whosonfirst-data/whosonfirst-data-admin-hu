@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.741944,
     "lbl:longitude":18.119652,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.741944,
     "mps:longitude":18.119652,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Komarom"
     ],
@@ -158,9 +161,6 @@
     "name:und_x_variant":[
         "Sz\u00f4ny"
     ],
-    "name:unk_x_variant":[
-        "Sz\u0151ny"
-    ],
     "name:vie_x_preferred":[
         "Kom\u00e1rom"
     ],
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":371,
     "wof:belongsto":[
@@ -199,7 +199,6 @@
         "fct:id":"1162405e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3049519,
         "gp:id":810280,
-        "qs:id":491663,
         "qs_pg:id":491663,
         "wd:id":"Q625154",
         "wk:page":"Kom\u00e1rom"
@@ -219,7 +218,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237297,
+    "wof:lastmodified":1566650299,
     "wof:name":"Kom\u00e1rom",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

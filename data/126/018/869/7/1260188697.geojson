@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.01333,48.21333,21.05333,48.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nagykinizs"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1260188697,
-    "wof:lastmodified":1564160695,
+    "wof:lastmodified":1566649988,
     "wof:name":"Nagykinizs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

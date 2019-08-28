@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.972981,
     "lbl:longitude":17.927805,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.972981,
     "mps:longitude":17.927805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "\u00c7opak"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
         "fct:id":"1162c3f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053938,
         "gp:id":805146,
-        "qs:id":1174911,
         "qs_pg:id":1174911,
         "wd:id":"Q874343",
         "wk:page":"Csopak"
@@ -133,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237562,
+    "wof:lastmodified":1566650382,
     "wof:name":"Csopak",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

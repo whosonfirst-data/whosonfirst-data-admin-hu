@@ -10,9 +10,12 @@
     "geom:latitude":47.398891,
     "geom:longitude":19.204671,
     "iso:country":"HU",
+    "lbl:bbox":"19.1996710864,47.3938912377,19.2096710864,47.4038912377",
     "lbl:latitude":47.398891,
     "lbl:longitude":19.204671,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "Erd\u0151skert"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108940709,
-    "wof:lastmodified":1497292356,
+    "wof:lastmodified":1566650006,
     "wof:name":"Erdoskert",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

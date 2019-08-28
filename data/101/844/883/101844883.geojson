@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.36073,
     "lbl:longitude":17.102373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.36073,
     "mps:longitude":17.102373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Iharosber\u00e9ny"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"11634602-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051193,
         "gp:id":808258,
-        "qs:id":1269682,
+        "qs_pg:id":1269682,
         "wd:id":"Q1096214",
         "wk:page":"Iharosber\u00e9ny"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237031,
+    "wof:lastmodified":1566650212,
     "wof:name":"Iharosber\u00e9ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

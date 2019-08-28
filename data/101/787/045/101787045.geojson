@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.231032,
     "lbl:longitude":19.444719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.231032,
     "mps:longitude":19.444719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u00dajlengyel"
     ],
@@ -58,9 +61,6 @@
     "name:slv_x_preferred":[
         "\u00dajlengyel"
     ],
-    "name:unk_x_variant":[
-        "Lengyelfalva"
-    ],
     "name:vie_x_preferred":[
         "\u00dajlengyel"
     ],
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"1164e67e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043517,
         "gp:id":817034,
-        "qs:id":1167263,
         "qs_pg:id":1167263,
         "wd:id":"Q938984",
         "wk:page":"\u00dajlengyel"
@@ -116,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237486,
+    "wof:lastmodified":1566650357,
     "wof:name":"\u00dajlengyel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

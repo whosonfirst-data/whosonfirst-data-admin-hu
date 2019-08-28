@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.887152,
     "lbl:longitude":17.2262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.887152,
     "mps:longitude":17.2262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Zalasz\u00e1nt\u00f3"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"11651270-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042607,
         "gp:id":818074,
-        "qs:id":1167276,
         "qs_pg:id":1167276,
         "wd:id":"Q145027",
         "wk:page":"Zalasz\u00e1nt\u00f3"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237600,
+    "wof:lastmodified":1566650394,
     "wof:name":"Zalasz\u00e1nt\u00f3",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

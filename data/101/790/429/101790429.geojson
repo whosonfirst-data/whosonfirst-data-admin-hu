@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.362554,
     "lbl:longitude":20.107318,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.362554,
     "mps:longitude":20.107318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e1ndorfalva"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"11646b5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715924,
         "gp:id":814658,
-        "qs:id":241074,
         "qs_pg:id":241074,
         "wd:id":"Q933775",
         "wk:page":"S\u00e1ndorfalva"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236897,
+    "wof:lastmodified":1566650169,
     "wof:name":"S\u00e1ndorfalva",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

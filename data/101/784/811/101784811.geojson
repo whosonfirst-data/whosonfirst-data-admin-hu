@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.921703,
     "lbl:longitude":20.63741,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.921703,
     "mps:longitude":20.63741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tibolddar\u00f3c"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1164c8b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714821,
         "gp:id":816477,
-        "qs:id":1270631,
+        "qs_pg:id":1270631,
         "wd:id":"Q739137",
         "wk:page":"Tibolddar\u00f3c"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237257,
+    "wof:lastmodified":1566650286,
     "wof:name":"Tibolddar\u00f3c",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

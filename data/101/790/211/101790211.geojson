@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.223952,
     "lbl:longitude":18.469662,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.223952,
     "mps:longitude":18.469662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mecsekn\u00e1dasd"
     ],
@@ -82,9 +85,6 @@
     "name:tur_x_preferred":[
         "Mecsekn\u00e1dasd"
     ],
-    "name:unk_x_variant":[
-        "P\u00fcsp\u00f6kn\u00e1dasd"
-    ],
     "name:vie_x_preferred":[
         "Mecsekn\u00e1dasd"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -121,7 +121,6 @@
         "fct:id":"1163cef6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048250,
         "gp:id":811758,
-        "qs:id":1167221,
         "qs_pg:id":1167221,
         "wd:id":"Q930968",
         "wk:page":"Mecsekn\u00e1dasd"
@@ -141,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236839,
+    "wof:lastmodified":1566650151,
     "wof:name":"Mecsekn\u00e1dasd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

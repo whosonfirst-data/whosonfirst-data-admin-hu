@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.211015,
     "lbl:longitude":21.15137,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.211015,
     "mps:longitude":21.15137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Monok"
     ],
@@ -89,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Morok"
-    ],
     "name:vie_x_preferred":[
         "Monok"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":481,
     "wof:belongsto":[
@@ -131,7 +131,6 @@
         "fct:id":"1163e224-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717530,
         "gp:id":812110,
-        "qs:id":235302,
         "qs_pg:id":235302,
         "wd:id":"Q1019082",
         "wk:page":"Monok"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237187,
+    "wof:lastmodified":1566650262,
     "wof:name":"Monok",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

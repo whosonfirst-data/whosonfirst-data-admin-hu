@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.51333,48.18,22.55333,48.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beregdar\u00f3c"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Beregdar\u00f3c"
     ],
-    "name:und_x_variant":[
-        "Beregdar\u00f3c"
-    ],
     "name:vie_x_preferred":[
         "Beregdar\u00f3c"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1226218355,
-    "wof:lastmodified":1564161272,
+    "wof:lastmodified":1566650728,
     "wof:name":"Beregdaroc",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

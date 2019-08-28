@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.5987,47.8487,22.6387,47.8887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "P\u00e1tyod"
     ],
@@ -53,9 +57,6 @@
         "P\u00e1tyod"
     ],
     "name:slv_x_preferred":[
-        "P\u00e1tyod"
-    ],
-    "name:und_x_variant":[
         "P\u00e1tyod"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1343325071,
-    "wof:lastmodified":1564160075,
+    "wof:lastmodified":1566649509,
     "wof:name":"Patyod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

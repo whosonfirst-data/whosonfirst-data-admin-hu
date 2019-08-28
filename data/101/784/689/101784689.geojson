@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.812297,
     "lbl:longitude":19.794683,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.812297,
     "mps:longitude":19.794683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gy\u00f6ngy\u00f6spata"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -113,7 +116,6 @@
         "fct:id":"11632096-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052026,
         "gp:id":807378,
-        "qs:id":145182,
         "qs_pg:id":145182,
         "wd:id":"Q1030385"
     },
@@ -132,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237258,
+    "wof:lastmodified":1566650286,
     "wof:name":"Gy\u00f6ngy\u00f6spata",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

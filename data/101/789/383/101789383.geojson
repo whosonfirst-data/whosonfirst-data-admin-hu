@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.013914,
     "lbl:longitude":17.28977,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.013914,
     "mps:longitude":17.28977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Csabrendek"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1162af58-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054456,
         "gp:id":804560,
-        "qs:id":279622,
         "qs_pg:id":279622,
         "wd:id":"Q870202",
         "wk:page":"Csabrendek"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237544,
+    "wof:lastmodified":1566650375,
     "wof:name":"Csabrendek",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

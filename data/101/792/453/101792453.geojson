@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.851355,
     "lbl:longitude":17.705769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.851355,
     "mps:longitude":17.705769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fels\u0151szentm\u00e1rton"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3052742,
         "gp:id":806494,
-        "qs:id":1269493,
+        "qs_pg:id":1269493,
         "wd:id":"Q953451",
         "wk:page":"Fels\u0151szentm\u00e1rton"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101792453,
-    "wof:lastmodified":1561751571,
+    "wof:lastmodified":1566650303,
     "wof:name":"Fels\u0151szentm\u00e1rton",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

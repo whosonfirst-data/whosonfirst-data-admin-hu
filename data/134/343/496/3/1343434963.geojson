@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.72239,46.22857,18.76239,46.26857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e1rpilis"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "S\u00e1rpilis"
     ],
-    "name:und_x_variant":[
-        "S\u00e1rpilis"
-    ],
     "name:vie_x_preferred":[
         "S\u00e1rpilis"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1343434963,
-    "wof:lastmodified":1564160140,
+    "wof:lastmodified":1566649561,
     "wof:name":"Sarpilis",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

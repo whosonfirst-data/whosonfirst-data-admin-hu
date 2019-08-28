@@ -12,6 +12,7 @@
     "iso:country":"HU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "B\u00e9k\u00e9s Airport"
     ],
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":102547493,
-    "wof:lastmodified":1563235897,
+    "wof:lastmodified":1566649432,
     "wof:name":"Bekescsaba Airport",
     "wof:parent_id":85684875,
     "wof:placetype":"campus",

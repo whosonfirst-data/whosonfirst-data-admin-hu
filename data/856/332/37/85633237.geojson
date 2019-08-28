@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":47.086857,
     "lbl:longitude":19.447899,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":47.086857,
     "mps:longitude":19.447899,
     "mz:hierarchy_label":1,
@@ -917,17 +919,9 @@
     "name:und_x_colloquial":[
         "Ouggaria"
     ],
-    "name:und_x_preferred":[
-        "Ungverjaland"
-    ],
     "name:und_x_variant":[
-        "Hongria",
         "Magyar Koztarsasag",
         "Ouggar\u00eda",
-        "Unkari",
-        "Vengrija"
-    ],
-    "name:unk_x_variant":[
         "Madjarska"
     ],
     "name:urd_x_preferred":[
@@ -1091,7 +1085,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"36",
     "statoids:ds":"H",
@@ -1136,7 +1130,7 @@
         "mzb:id":"hungary",
         "ne:adm0_a3":"HUN",
         "nyt:id":"55805887827677064961",
-        "qs:id":83250,
+        "qs_pg:id":83250,
         "uncrt:id":"H",
         "wd:id":"Q28",
         "wk:page":"Hungary",
@@ -1158,7 +1152,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1565714757,
+    "wof:lastmodified":1566649591,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

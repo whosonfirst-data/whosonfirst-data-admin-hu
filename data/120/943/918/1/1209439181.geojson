@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.19667,48.46333,21.23667,48.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hern\u00e1dszurdok"
     ],
@@ -69,8 +73,7 @@
         "Hern\u00e1dszurdok"
     ],
     "name:und_x_variant":[
-        "Hern\u00e1dzsurdok",
-        "Hern\u00e1dszurdok"
+        "Hern\u00e1dzsurdok"
     ],
     "name:vie_x_preferred":[
         "Hern\u00e1dszurdok"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1209439181,
-    "wof:lastmodified":1564160613,
+    "wof:lastmodified":1566649928,
     "wof:name":"Hernadszurdok",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

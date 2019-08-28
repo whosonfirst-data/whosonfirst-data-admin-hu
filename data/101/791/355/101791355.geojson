@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.987237,
     "lbl:longitude":18.30286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.987237,
     "mps:longitude":18.30286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Eger\u00e1g"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,6 @@
         "fct:id":"1162e428-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053390,
         "gp:id":805746,
-        "qs:id":1083296,
         "qs_pg:id":1083296,
         "wd:id":"Q987881",
         "wk:page":"Eger\u00e1g"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236941,
+    "wof:lastmodified":1566650182,
     "wof:name":"Eger\u00e1g",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

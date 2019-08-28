@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.71744,46.84903,16.75744,46.88903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Boncodf\u00f6lde"
     ],
@@ -56,8 +60,7 @@
         "Boncodf\u00f6lde"
     ],
     "name:und_x_variant":[
-        "Bonczodf\u00f6lde",
-        "Boncodf\u00f6lde"
+        "Bonczodf\u00f6lde"
     ],
     "name:vie_x_preferred":[
         "Boncodf\u00f6lde"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1242633163,
-    "wof:lastmodified":1564161123,
+    "wof:lastmodified":1566650614,
     "wof:name":"Boncodfolde",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

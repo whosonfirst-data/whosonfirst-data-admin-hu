@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.118374,
     "lbl:longitude":18.86297,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.118374,
     "mps:longitude":18.86297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0434\u043e\u043d\u0439"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.11895,
     "wd:longitude":18.865381,
@@ -131,7 +134,6 @@
         "fct:id":"11625044-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3056414,
         "gp:id":802327,
-        "qs:id":1042924,
         "qs_pg:id":1042924,
         "wd:id":"Q366220",
         "wk:page":"Adony"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237528,
+    "wof:lastmodified":1566650370,
     "wof:name":"Adony",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.86349,46.454,16.90349,46.494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Eszteregnye"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1326585685,
-    "wof:lastmodified":1564159865,
+    "wof:lastmodified":1566649352,
     "wof:name":"Eszteregnye",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

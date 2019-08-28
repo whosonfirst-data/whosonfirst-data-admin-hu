@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.740632,
     "lbl:longitude":20.239641,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.740632,
     "mps:longitude":20.239641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u043f\u043e\u043b\u0442"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Kompolt"
     ],
-    "name:unk_x_variant":[
-        "Komoplt"
-    ],
     "name:vie_x_preferred":[
         "Kompolt"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":249,
     "wof:belongsto":[
@@ -113,7 +113,6 @@
         "fct:id":"116398d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718618,
         "gp:id":810297,
-        "qs:id":255417,
         "qs_pg:id":255417,
         "wd:id":"Q936331",
         "wk:page":"Kompolt"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237051,
+    "wof:lastmodified":1566650218,
     "wof:name":"Kompolt",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

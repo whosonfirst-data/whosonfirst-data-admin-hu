@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.0013,
     "lbl:longitude":19.920164,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.0013,
     "mps:longitude":19.920164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kocs\u00e9r"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"116393aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3049630,
         "gp:id":810162,
-        "qs:id":966194,
         "qs_pg:id":966194,
         "wd:id":"Q1114801",
         "wk:page":"Kocs\u00e9r"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237401,
+    "wof:lastmodified":1566650329,
     "wof:name":"Kocs\u00e9r",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

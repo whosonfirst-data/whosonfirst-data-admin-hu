@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.24724,
     "lbl:longitude":20.002683,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.24724,
     "mps:longitude":20.002683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Domasz\u00e9k"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"1162d460-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721316,
         "gp:id":805556,
-        "qs:id":505908,
         "qs_pg:id":505908,
         "wd:id":"Q908081",
         "wk:page":"Domasz\u00e9k"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236858,
+    "wof:lastmodified":1566650157,
     "wof:name":"Domasz\u00e9k",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

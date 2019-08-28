@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.25583,46.6135,17.29583,46.6535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Szegerd\u0151"
     ],
@@ -56,8 +60,7 @@
         "Szegerd\u0151"
     ],
     "name:und_x_variant":[
-        "Szegerd\u0151telep",
-        "Szegerd\u0151"
+        "Szegerd\u0151telep"
     ],
     "name:vie_x_preferred":[
         "Szegerd\u0151"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1209988037,
-    "wof:lastmodified":1564160473,
+    "wof:lastmodified":1566649829,
     "wof:name":"Szegerdo",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

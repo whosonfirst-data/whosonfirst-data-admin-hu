@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23204043.308084,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.133205,47.635034,19.133205,47.635034",
     "geom:latitude":47.635034,
     "geom:longitude":19.133205,
     "gn:latitude":47.63333,
     "gn:longitude":19.13333,
     "iso:country":"HU",
+    "lbl:bbox":"19.128205,47.630034,19.138205,47.640034",
     "lbl:latitude":47.635034,
     "lbl:longitude":19.133205,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.629119,
     "mps:longitude":19.128119,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Nadormajor"
     ],
     "name:hun_x_preferred":[
-        "N\u00e1dormajor"
-    ],
-    "name:unk_x_variant":[
         "N\u00e1dormajor"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101754535
+        101754535,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3047835,
         "gp:id":812228,
-        "qs:id":1083306,
         "qs_pg:id":1083306
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932459,
+    "wof:lastmodified":1566649568,
     "wof:name":"N\u00e1dormajor",
     "wof:parent_id":101754535,
     "wof:placetype":"neighbourhood",

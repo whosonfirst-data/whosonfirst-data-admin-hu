@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.491387,
     "lbl:longitude":18.252492,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.491387,
     "mps:longitude":18.252492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bokod"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":14,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
         "fct:id":"11629ad6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054863,
         "gp:id":804127,
-        "qs:id":255355,
         "qs_pg:id":255355,
         "wd:id":"Q833747",
         "wk:page":"Bokod, Hungary"
@@ -112,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237444,
+    "wof:lastmodified":1566650344,
     "wof:name":"Bokod",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

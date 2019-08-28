@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.87562,46.09994,17.91562,46.13994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Alm\u00e1skereszt\u00far"
     ],
@@ -67,9 +71,6 @@
     "name:slv_x_preferred":[
         "Alm\u00e1skereszt\u00far"
     ],
-    "name:und_x_variant":[
-        "Alm\u00e1skereszt\u00far"
-    ],
     "name:vie_x_preferred":[
         "Alm\u00e1skereszt\u00far"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1209524435,
-    "wof:lastmodified":1564160503,
+    "wof:lastmodified":1566649851,
     "wof:name":"Almaskeresztur",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

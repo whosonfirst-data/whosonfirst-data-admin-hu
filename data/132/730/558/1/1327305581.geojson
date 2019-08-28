@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.89841,46.49733,17.93841,46.53733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "R\u00e1ksi"
     ],
@@ -53,9 +57,6 @@
         "R\u00e1ksi"
     ],
     "name:slv_x_preferred":[
-        "R\u00e1ksi"
-    ],
-    "name:und_x_variant":[
         "R\u00e1ksi"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1327305581,
-    "wof:lastmodified":1564159832,
+    "wof:lastmodified":1566649329,
     "wof:name":"Raksi",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

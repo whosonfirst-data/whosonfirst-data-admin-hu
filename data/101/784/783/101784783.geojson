@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.795646,
     "lbl:longitude":19.598804,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.795646,
     "mps:longitude":19.598804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Palot\u00e1s"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"11642e64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046711,
         "gp:id":813455,
-        "qs:id":1349009,
         "qs_pg:id":1349009,
         "wd:id":"Q631749"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237272,
+    "wof:lastmodified":1566650290,
     "wof:name":"Palot\u00e1s",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

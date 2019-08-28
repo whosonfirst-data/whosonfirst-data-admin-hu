@@ -10,9 +10,12 @@
     "geom:latitude":47.52248,
     "geom:longitude":19.00407,
     "iso:country":"HU",
+    "lbl:bbox":"18.9990703614,47.5174801421,19.0090703614,47.5274801421",
     "lbl:latitude":47.52248,
     "lbl:longitude":19.00407,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:hun_x_preferred":[
         "T\u0151r\u0151kv\u00e9sz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108940425,
-    "wof:lastmodified":1497292355,
+    "wof:lastmodified":1566650016,
     "wof:name":"Torokvesz",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

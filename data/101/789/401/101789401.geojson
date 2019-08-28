@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.760866,
     "lbl:longitude":21.040013,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.760866,
     "mps:longitude":21.040013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Murony"
     ],
@@ -67,9 +70,6 @@
     "name:slv_x_preferred":[
         "Murony"
     ],
-    "name:unk_x_variant":[
-        "B\u00e9k\u00e9sf\u00f6ldv\u00e1r"
-    ],
     "name:vie_x_preferred":[
         "Murony"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,7 @@
         "fct:id":"1163e788-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717485,
         "gp:id":812193,
-        "qs:id":915121,
+        "qs_pg:id":915121,
         "wd:id":"Q1076466",
         "wk:page":"Murony"
     },
@@ -126,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237530,
+    "wof:lastmodified":1566650371,
     "wof:name":"Murony",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

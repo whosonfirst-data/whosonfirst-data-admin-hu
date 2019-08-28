@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.920641,
     "lbl:longitude":19.260191,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.920641,
     "mps:longitude":19.260191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Romh\u00e1ny"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,6 @@
         "fct:id":"11646168-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045758,
         "gp:id":814491,
-        "qs:id":279614,
         "qs_pg:id":279614,
         "wd:id":"Q339421"
     },
@@ -116,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236983,
+    "wof:lastmodified":1566650195,
     "wof:name":"Romh\u00e1ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

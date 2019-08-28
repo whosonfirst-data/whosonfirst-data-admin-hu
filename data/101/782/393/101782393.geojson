@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.399481,
     "lbl:longitude":21.171812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.399481,
     "mps:longitude":21.171812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Novajidr\u00e1ny"
     ],
@@ -67,7 +70,7 @@
     "name:slv_x_preferred":[
         "Novajidr\u00e1ny"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alson\u00f3vaj"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         "fct:id":"11640d08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716996,
         "gp:id":812824,
-        "qs:id":1270207,
+        "qs_pg:id":1270207,
         "wd:id":"Q631397",
         "wk:page":"Novajidr\u00e1ny"
     },
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237177,
+    "wof:lastmodified":1566650258,
     "wof:name":"Novajidr\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

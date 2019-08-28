@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1329067.417779,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.201599,46.094185,18.201599,46.094185",
     "geom:latitude":46.094185,
     "geom:longitude":18.201599,
     "iso:country":"HU",
+    "lbl:bbox":"18.196599,46.089185,18.206599,46.099185",
     "lbl:latitude":46.094185,
     "lbl:longitude":18.201599,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.094186,
     "mps:longitude":18.199422,
     "mz:hierarchy_label":0,
@@ -34,9 +36,6 @@
     ],
     "name:hun_x_variant":[
         "K\u00f6z\u00e9pdeindold\u016fl\u0151"
-    ],
-    "name:unk_x_variant":[
-        "K\u00f6z\u00e9pdeindol"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_id":0,
@@ -66,13 +65,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684839,
         102191581,
         85633237,
         404227491,
-        101751663
+        101751663,
+        85684839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932451,
+    "wof:lastmodified":1566649585,
     "wof:name":"K\u00f6z\u00e9pdeindol",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

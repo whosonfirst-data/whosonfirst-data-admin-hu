@@ -10,8 +10,10 @@
     "geom:latitude":47.433893,
     "geom:longitude":19.078815,
     "iso:country":"HU",
+    "lbl:bbox":"19.0738146236,47.4288933214,19.0838146236,47.4388933214",
     "lbl:latitude":47.433893,
     "lbl:longitude":19.078815,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:hun_x_variant":[
         "Csepel Szab\u00f3telep"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108940575,
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1566650022,
     "wof:name":"Szabotelep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

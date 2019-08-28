@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.471906,
     "lbl:longitude":19.977839,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.471906,
     "mps:longitude":19.977839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0442\u0435\u043b\u0435\u043a"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -130,7 +133,6 @@
         "fct:id":"11638f72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3049719,
         "gp:id":810056,
-        "qs:id":211570,
         "qs_pg:id":211570,
         "wd:id":"Q855529",
         "wk:page":"Kistelek"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236861,
+    "wof:lastmodified":1566650158,
     "wof:name":"Kistelek",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

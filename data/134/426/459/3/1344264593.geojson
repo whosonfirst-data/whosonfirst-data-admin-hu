@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.93,46.91333,20.97,46.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gyulay-tanya",
         "Gyulai-tanya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344264593,
-    "wof:lastmodified":1537626183,
+    "wof:lastmodified":1566649526,
     "wof:name":"Gyulai-tanya",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

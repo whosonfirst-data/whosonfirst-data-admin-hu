@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.11861,45.80917,18.15861,45.84917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dr\u00e1vacsepely"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "Dr\u00e1vacsepely"
     ],
-    "name:und_x_variant":[
-        "Dr\u00e1vacsepely"
-    ],
     "name:vie_x_preferred":[
         "Dr\u00e1vacsepely"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226455509,
-    "wof:lastmodified":1564161275,
+    "wof:lastmodified":1566650731,
     "wof:name":"Dravacsepely",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

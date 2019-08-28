@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.06333,46.66333,21.10333,46.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kerek"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293294631,
-    "wof:lastmodified":1564160276,
+    "wof:lastmodified":1566649679,
     "wof:name":"Kerek",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

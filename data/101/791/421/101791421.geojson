@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.08331,
     "lbl:longitude":18.761287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.08331,
     "mps:longitude":18.761287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dunaszekcs\u0151"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_variant":[
         "Dunaszekcs\u0151"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dunaszeksc\u00f6"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":165,
     "wof:belongsto":[
@@ -118,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3053454,
         "gp:id":805692,
-        "qs:id":216362,
         "qs_pg:id":216362,
         "wd:id":"Q659869",
         "wk:page":"Dunaszekcs\u0151"
@@ -135,7 +137,7 @@
         }
     ],
     "wof:id":101791421,
-    "wof:lastmodified":1563236956,
+    "wof:lastmodified":1566650187,
     "wof:name":"Dunaszekcs\u0151",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

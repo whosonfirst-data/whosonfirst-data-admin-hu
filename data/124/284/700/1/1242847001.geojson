@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.38,47.44667,19.42,47.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bay-tanya",
         "Buytanya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242847001,
-    "wof:lastmodified":1537626261,
+    "wof:lastmodified":1566650591,
     "wof:name":"Buytanya",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

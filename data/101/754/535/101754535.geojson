@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.632242,
     "lbl:longitude":19.141941,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.632242,
     "mps:longitude":19.141941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0414\u0443\u043d\u0430\u043a\u0435\u0441\u0456"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":58,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
         "fct:id":"1162dd5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053476,
         "gp:id":805679,
-        "qs:id":491606,
         "qs_pg:id":491606,
         "wd:id":"Q547479",
         "wk:page":"Dunakeszi"
@@ -172,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236928,
+    "wof:lastmodified":1566650179,
     "wof:name":"Dunakeszi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

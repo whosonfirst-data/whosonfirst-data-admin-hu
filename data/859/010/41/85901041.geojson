@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15214945.512056,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.143048,46.235633,20.143048,46.235633",
     "geom:latitude":46.235633,
     "geom:longitude":20.143048,
     "gn:latitude":46.23333,
     "gn:longitude":20.13333,
     "iso:country":"HU",
+    "lbl:bbox":"20.138048,46.230633,20.148048,46.240633",
     "lbl:latitude":46.235633,
     "lbl:longitude":20.143048,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.230225,
     "mps:longitude":20.131993,
     "mz:hierarchy_label":0,
@@ -38,10 +40,6 @@
     "name:hun_x_variant":[
         "Als\u00f3v\u00e1rosi Feketef\u00f6ldek",
         "Als\u00f3v\u00e1rosi G\u00f6dr\u00f6k"
-    ],
-    "name:unk_x_variant":[
-        "Als\u00f3v\u00e1rosi G\u00f6dr\u00f6k",
-        "Als\u00f3v\u00e1ros"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -72,19 +70,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101751681
+        101751681,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":722884,
         "gp:id":802765,
-        "qs:id":1083279,
         "qs_pg:id":1083279
     },
     "wof:country":"HU",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932423,
+    "wof:lastmodified":1566649590,
     "wof:name":"Als\u00f3v\u00e1ros",
     "wof:parent_id":101751681,
     "wof:placetype":"neighbourhood",

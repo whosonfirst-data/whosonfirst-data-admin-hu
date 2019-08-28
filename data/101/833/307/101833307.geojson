@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.729688,
     "lbl:longitude":18.174814,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.729688,
     "mps:longitude":18.174814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0631\u0646\u0648"
     ],
@@ -173,7 +176,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.766667,
     "wd:longitude":18.133333,
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":3059436,
         "gp:id":816054,
-        "qs:id":145217,
+        "qs_pg:id":145217,
         "wd:id":"Q210796",
         "wk:page":"Kom\u00e1rno"
     },
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":101833307,
-    "wof:lastmodified":1563237049,
+    "wof:lastmodified":1566650218,
     "wof:name":"Kom\u00e1rno",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

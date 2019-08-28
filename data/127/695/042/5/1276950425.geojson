@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"19.99829,47.07686,20.03829,47.11686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "K\u0151r\u00f6stet\u00e9tlen"
     ],
@@ -56,8 +60,7 @@
         "K\u0151r\u00f6stet\u00e9tlen"
     ],
     "name:und_x_variant":[
-        "Tet\u00e9len",
-        "K\u0151r\u00f6stet\u00e9tlen"
+        "Tet\u00e9len"
     ],
     "name:vie_x_preferred":[
         "K\u0151r\u00f6stet\u00e9tlen"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1276950425,
-    "wof:lastmodified":1564160377,
+    "wof:lastmodified":1566649758,
     "wof:name":"Korostetetlen",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

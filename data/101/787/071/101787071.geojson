@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.533689,
     "lbl:longitude":19.403177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.533689,
     "mps:longitude":19.403177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0406\u0448\u0430\u0441\u0435\u0433"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":287,
     "wof:belongsto":[
@@ -125,7 +128,6 @@
         "fct:id":"11634bfc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051077,
         "gp:id":808377,
-        "qs:id":568682,
         "qs_pg:id":568682,
         "wd:id":"Q515791",
         "wk:page":"Isaszeg"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237472,
+    "wof:lastmodified":1566650353,
     "wof:name":"Isaszeg",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

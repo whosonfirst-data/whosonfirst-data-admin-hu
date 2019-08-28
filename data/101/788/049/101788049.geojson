@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.191986,
     "lbl:longitude":16.554276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.191986,
     "mps:longitude":16.554276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "N\u00e1rai"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":697,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"116400a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047446,
         "gp:id":812698,
-        "qs:id":939692,
+        "qs_pg:id":939692,
         "wd:id":"Q43242",
         "wk:page":"N\u00e1rai"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237349,
+    "wof:lastmodified":1566650312,
     "wof:name":"N\u00e1rai",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

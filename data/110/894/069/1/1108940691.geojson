@@ -10,8 +10,10 @@
     "geom:latitude":47.404701,
     "geom:longitude":19.193456,
     "iso:country":"HU",
+    "lbl:bbox":"19.1884558708,47.3997007157,19.1984558708,47.4097007157",
     "lbl:latitude":47.404701,
     "lbl:longitude":19.193456,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:hun_x_preferred":[
         "Pestszentimre"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1108940691,
-    "wof:lastmodified":1564160737,
+    "wof:lastmodified":1566650024,
     "wof:name":"Pestszentimre",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

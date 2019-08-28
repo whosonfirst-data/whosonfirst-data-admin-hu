@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.644541,
     "lbl:longitude":17.279963,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.644541,
     "mps:longitude":17.279963,
     "mz:hierarchy_label":1,
@@ -226,7 +227,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044c\u0439\u043e\u0440-\u041c\u043e\u0448\u043e\u043d-\u0428\u043e\u043f\u0440\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gyor-Sopron County"
     ],
     "name:urd_x_preferred":[
@@ -320,9 +321,9 @@
     "qs:type":"Megye",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"3,864",
     "statoids:area_mi":"1,492",
     "statoids:as_of_date":"2011-10-01",
@@ -369,11 +370,10 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1565714757,
+    "wof:lastmodified":1566649592,
     "wof:name":"Gyor-Moson-Sopron",
     "wof:parent_id":404227481,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":257910,
     "wof:population_rank":10,

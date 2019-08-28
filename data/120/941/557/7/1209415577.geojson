@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.46333,48.44667,20.50333,48.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kast\u00e9lyk\u00fat-tanya",
         "Kast\u00e9lyk\u00fatitanya"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209415577,
-    "wof:lastmodified":1537626180,
+    "wof:lastmodified":1566649861,
     "wof:name":"Kastelykutitanya",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

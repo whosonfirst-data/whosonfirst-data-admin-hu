@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9544586.769787,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.200021,48.159181,21.200021,48.159181",
     "geom:latitude":48.159181,
     "geom:longitude":21.200021,
     "iso:country":"HU",
+    "lbl:bbox":"21.195021,48.154181,21.205021,48.164181",
     "lbl:latitude":48.159181,
     "lbl:longitude":21.200021,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.155711,
     "mps:longitude":21.191646,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Szivattyutelep"
     ],
     "name:hun_x_preferred":[
-        "Szivatty\u00fatelep"
-    ],
-    "name:unk_x_variant":[
         "Szivatty\u00fatelep"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,13 +59,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684919,
         102191581,
         85633237,
         404227477,
-        101833435
+        101833435,
+        85684919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932470,
+    "wof:lastmodified":1566649569,
     "wof:name":"Szivatty\u00fatelep",
     "wof:parent_id":101833435,
     "wof:placetype":"neighbourhood",

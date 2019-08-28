@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.644444,
     "lbl:longitude":16.735182,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.644444,
     "mps:longitude":16.735182,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gutorf\u00f6lde"
     ],
@@ -60,9 +63,6 @@
     "name:slv_x_preferred":[
         "Gutorf\u00f6lde"
     ],
-    "name:unk_x_variant":[
-        "N\u00e1pr\u00e1dfa"
-    ],
     "name:vie_x_preferred":[
         "Gutorf\u00f6lde"
     ],
@@ -83,7 +83,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,7 @@
         "fct:id":"11631bf0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052107,
         "gp:id":807297,
-        "qs:id":183616,
+        "qs_pg:id":183616,
         "wd:id":"Q281926",
         "wk:page":"Gutorf\u00f6lde"
     },
@@ -115,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237009,
+    "wof:lastmodified":1566650203,
     "wof:name":"Gutorf\u00f6lde",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

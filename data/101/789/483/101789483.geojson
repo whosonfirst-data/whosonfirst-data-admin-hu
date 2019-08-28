@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.930452,
     "lbl:longitude":18.774789,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.930452,
     "mps:longitude":18.774789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mez\u0151falva"
     ],
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Mez\u0151falva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hercegfalva"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3048107,
         "gp:id":811907,
-        "qs:id":219034,
         "qs_pg:id":219034,
         "wd:id":"Q1072292",
         "wk:page":"Mez\u0151falva"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101789483,
-    "wof:lastmodified":1563237525,
+    "wof:lastmodified":1566650369,
     "wof:name":"Mez\u0151falva",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

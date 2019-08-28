@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.17724,48.16185,22.21724,48.20185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "L\u00f6v\u0151petri"
     ],
@@ -53,9 +57,6 @@
         "L\u00f6v\u0151petri"
     ],
     "name:slv_x_preferred":[
-        "L\u00f6v\u0151petri"
-    ],
-    "name:und_x_variant":[
         "L\u00f6v\u0151petri"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1243031271,
-    "wof:lastmodified":1564161068,
+    "wof:lastmodified":1566650569,
     "wof:name":"Lovopetri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

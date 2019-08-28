@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.350741,
     "lbl:longitude":17.345247,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.350741,
     "mps:longitude":17.345247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0433\u0435\u0441\u0434"
     ],
@@ -76,9 +79,6 @@
     "name:swe_x_preferred":[
         "Segesd"
     ],
-    "name:unk_x_variant":[
-        "Als\u00f3segesd"
-    ],
     "name:vie_x_preferred":[
         "Segesd"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -118,7 +118,6 @@
         "fct:id":"116472d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045411,
         "gp:id":814856,
-        "qs:id":939758,
         "qs_pg:id":939758,
         "wd:id":"Q938008",
         "wk:page":"Segesd"
@@ -138,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236833,
+    "wof:lastmodified":1566650149,
     "wof:name":"Segesd",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.782104,
     "lbl:longitude":19.740991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.782104,
     "mps:longitude":19.740991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00f3zsaszentm\u00e1rton"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
         "fct:id":"11646334-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045704,
         "gp:id":814557,
-        "qs:id":966224,
         "qs_pg:id":966224,
         "wd:id":"Q1072238"
     },
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237255,
+    "wof:lastmodified":1566650285,
     "wof:name":"R\u00f3zsaszentm\u00e1rton",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

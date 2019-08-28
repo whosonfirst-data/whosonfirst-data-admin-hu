@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.758824,
     "lbl:longitude":21.906995,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.758824,
     "mps:longitude":21.906995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043a\u043e\u043b\u0439"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
         "fct:id":"11648e04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715558,
         "gp:id":815296,
-        "qs:id":255463,
         "qs_pg:id":255463,
         "wd:id":"Q1186240",
         "wk:page":"Szakoly"
@@ -125,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237249,
+    "wof:lastmodified":1566650283,
     "wof:name":"Szakoly",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

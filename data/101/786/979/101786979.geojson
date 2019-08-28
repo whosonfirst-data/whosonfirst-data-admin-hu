@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.654149,
     "lbl:longitude":17.528706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.654149,
     "mps:longitude":17.528706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ikr\u00e9ny"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"1163474c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051180,
         "gp:id":808268,
-        "qs:id":1322622,
+        "qs_pg:id":1322622,
         "wd:id":"Q935567",
         "wk:page":"Ikr\u00e9ny"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237442,
+    "wof:lastmodified":1566650343,
     "wof:name":"Ikr\u00e9ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

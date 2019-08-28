@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.99667,47.59667,18.03667,47.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Istv\u00e1nh\u00e1z",
         "Istv\u00e1nh\u00e1za"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225832159,
-    "wof:lastmodified":1537626238,
+    "wof:lastmodified":1566650830,
     "wof:name":"Istvanhaza",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

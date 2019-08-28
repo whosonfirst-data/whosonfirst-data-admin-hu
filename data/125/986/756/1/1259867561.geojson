@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.08,48.01333,20.12,48.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259867561,
-    "wof:lastmodified":1536802160,
+    "wof:lastmodified":1566650710,
     "wof:name":"Erdokovesd",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.149384,
     "lbl:longitude":21.258398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.149384,
     "mps:longitude":21.258398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mez\u0151zombor"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":717632,
         "gp:id":811940,
-        "qs:id":128890,
         "qs_pg:id":128890,
         "wd:id":"Q1017840",
         "wk:page":"Mez\u0151zombor"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101782481,
-    "wof:lastmodified":1563237180,
+    "wof:lastmodified":1566650259,
     "wof:name":"Mez\u0151zombor",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

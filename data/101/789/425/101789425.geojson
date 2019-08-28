@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.119241,
     "lbl:longitude":18.368865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.119241,
     "mps:longitude":18.368865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cbk_zam_x_preferred":[
         "Szabadbatty\u00e1n"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"116488dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045039,
         "gp:id":815199,
-        "qs:id":491730,
         "qs_pg:id":491730,
         "wd:id":"Q1095006",
         "wk:page":"Szabadbatty\u00e1n"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237522,
+    "wof:lastmodified":1566650369,
     "wof:name":"Szabadbatty\u00e1n",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

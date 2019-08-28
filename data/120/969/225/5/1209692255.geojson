@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.33262,46.05975,17.37262,46.09975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rinya\u00fajn\u00e9p"
     ],
@@ -64,9 +68,6 @@
     "name:swe_x_preferred":[
         "Rinya\u00fajn\u00e9p"
     ],
-    "name:und_x_variant":[
-        "Rinya\u00fajn\u00e9p"
-    ],
     "name:vie_x_preferred":[
         "Rinya\u00fajn\u00e9p"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1209692255,
-    "wof:lastmodified":1564160574,
+    "wof:lastmodified":1566649899,
     "wof:name":"Rinyaujnep",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

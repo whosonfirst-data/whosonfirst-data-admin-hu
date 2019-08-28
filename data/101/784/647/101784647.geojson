@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.584057,
     "lbl:longitude":21.896083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.584057,
     "mps:longitude":21.896083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00edrm\u00e1rtonfalva"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1164142e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716906,
         "gp:id":812929,
-        "qs:id":401879,
         "qs_pg:id":401879,
         "wd:id":"Q1185652",
         "wk:page":"Ny\u00edrm\u00e1rtonfalva"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237281,
+    "wof:lastmodified":1566650294,
     "wof:name":"Ny\u00edrm\u00e1rtonfalva",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

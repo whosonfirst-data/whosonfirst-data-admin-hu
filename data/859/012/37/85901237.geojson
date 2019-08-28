@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12000829.562728,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.447549,47.344236,19.447549,47.344236",
     "geom:latitude":47.344236,
     "geom:longitude":19.447549,
     "gn:latitude":47.35,
     "gn:longitude":19.45,
     "iso:country":"HU",
+    "lbl:bbox":"19.442549,47.339236,19.452549,47.349236",
     "lbl:latitude":47.344236,
     "lbl:longitude":19.447549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.34682,
     "mps:longitude":19.446872,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Paplapos"
-    ],
-    "name:unk_x_variant":[
         "Paplapos"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101788273
+        101788273,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3046655,
         "gp:id":813504,
-        "qs:id":936907,
         "qs_pg:id":936907
     },
     "wof:country":"HU",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932462,
+    "wof:lastmodified":1566649569,
     "wof:name":"Paplapos",
     "wof:parent_id":101788273,
     "wof:placetype":"neighbourhood",

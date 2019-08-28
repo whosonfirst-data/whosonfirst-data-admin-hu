@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.607583,
     "lbl:longitude":17.20037,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.607583,
     "mps:longitude":17.20037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Far\u00e1d"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
         "fct:id":"1162f3fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053109,
         "gp:id":806100,
-        "qs:id":1321872,
         "qs_pg:id":1321872,
         "wd:id":"Q996627",
         "wk:page":"Far\u00e1d"
@@ -127,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237495,
+    "wof:lastmodified":1566650360,
     "wof:name":"Far\u00e1d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

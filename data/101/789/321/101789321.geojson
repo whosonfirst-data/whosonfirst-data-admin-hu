@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.133151,
     "lbl:longitude":17.751871,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.133151,
     "mps:longitude":17.751871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u0435\u043d\u0434"
     ],
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":275,
     "wof:belongsto":[
@@ -125,7 +128,6 @@
         "fct:id":"11633608-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3051512,
         "gp:id":807905,
-        "qs:id":906850,
         "qs_pg:id":906850,
         "wd:id":"Q385982",
         "wk:page":"Herend"
@@ -145,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237596,
+    "wof:lastmodified":1566650393,
     "wof:name":"Herend",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

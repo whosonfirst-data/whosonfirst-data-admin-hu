@@ -10,9 +10,12 @@
     "geom:latitude":47.565605,
     "geom:longitude":19.032824,
     "iso:country":"HU",
+    "lbl:bbox":"19.0278236565,47.5606051188,19.0378236565,47.5706051188",
     "lbl:latitude":47.565605,
     "lbl:longitude":19.032824,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -26,7 +29,7 @@
     "name:hun_x_variant":[
         "III. ker\u00fclet"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1108940381,
-    "wof:lastmodified":1497292357,
+    "wof:lastmodified":1566650012,
     "wof:name":"Obuda-Bekasmegyer",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

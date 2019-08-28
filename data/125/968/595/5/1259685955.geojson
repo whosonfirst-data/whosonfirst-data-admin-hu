@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.18,46.93,21.22,46.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Magor"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1259685955,
-    "wof:lastmodified":1564161201,
+    "wof:lastmodified":1566650673,
     "wof:name":"Magor",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

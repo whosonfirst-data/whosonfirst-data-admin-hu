@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.20712,46.99918,17.24712,47.03918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Zalagy\u00f6m\u00f6r\u0151"
     ],
@@ -56,8 +60,7 @@
         "Zalagy\u00f6m\u00f6r\u0151"
     ],
     "name:und_x_variant":[
-        "Zalagy\u00f6mr\u0151",
-        "Zalagy\u00f6m\u00f6r\u0151"
+        "Zalagy\u00f6mr\u0151"
     ],
     "name:vie_x_preferred":[
         "Zalagy\u00f6m\u00f6r\u0151"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1242635633,
-    "wof:lastmodified":1564161122,
+    "wof:lastmodified":1566650614,
     "wof:name":"Zalagyomoro",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

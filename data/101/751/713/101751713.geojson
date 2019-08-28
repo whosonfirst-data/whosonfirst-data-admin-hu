@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.680815,
     "lbl:longitude":16.584857,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.680815,
     "mps:longitude":16.584857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Sopron"
     ],
@@ -230,9 +233,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043f\u0440\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Scarabantia"
-    ],
     "name:vie_x_preferred":[
         "Sopron"
     ],
@@ -267,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"169",
     "statoids:area_mi":"65",
     "statoids:as_of_date":"2011-10-01",
@@ -297,7 +297,6 @@
         "gp:id":815055,
         "hasc:id":"HU.SN",
         "iso:id":"HU-SN",
-        "qs:id":145152,
         "qs_pg:id":145152,
         "wd:id":"Q168648",
         "wk:page":"Sopron"
@@ -317,11 +316,10 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237310,
+    "wof:lastmodified":1566650301,
     "wof:name":"Sopron",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":60548,
     "wof:population_rank":8,

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.573403,
     "lbl:longitude":19.539991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.573403,
     "mps:longitude":19.539991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e1cszentl\u00e1szl\u00f3"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1164ee1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043278,
         "gp:id":817325,
-        "qs:id":1042820,
         "qs_pg:id":1042820,
         "wd:id":"Q1186050",
         "wk:page":"V\u00e1cszentl\u00e1szl\u00f3"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237496,
+    "wof:lastmodified":1566650360,
     "wof:name":"V\u00e1cszentl\u00e1szl\u00f3",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

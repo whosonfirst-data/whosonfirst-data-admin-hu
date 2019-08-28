@@ -13,8 +13,10 @@
     "gn:longitude":17.8,
     "gn:population":67746,
     "iso:country":"HU",
+    "lbl:bbox":"17.779284,46.35097,17.789284,46.36097",
     "lbl:latitude":46.35597,
     "lbl:longitude":17.784284,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.356945,
     "mps:longitude":17.77617,
     "mz:hierarchy_label":0,
@@ -243,9 +245,8 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u043e\u0448\u0432\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Topon\u00e1r",
-        "Kaposf\u00fcred"
+    "name:und_x_variant":[
+        "Topon\u00e1r"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u067e\u0648\u0633\u0648\u0627\u0631"
@@ -384,7 +385,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -417,7 +418,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236077,
+    "wof:lastmodified":1566649577,
     "wof:name":"Kaposf\u00fcred",
     "wof:parent_id":101751667,
     "wof:placetype":"neighbourhood",

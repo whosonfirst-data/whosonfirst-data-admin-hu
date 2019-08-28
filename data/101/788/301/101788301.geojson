@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.27973,
     "lbl:longitude":19.067143,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.27973,
     "mps:longitude":19.067143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dunavars\u00e1ny"
     ],
@@ -84,9 +87,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0432\u0430\u0440\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Dunakisvars\u00e1ny"
-    ],
     "name:vie_x_preferred":[
         "Dunavars\u00e1ny"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.282778,
     "wd:longitude":19.066111,
@@ -126,7 +126,6 @@
         "fct:id":"1162e022-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053434,
         "gp:id":805703,
-        "qs:id":963436,
         "qs_pg:id":963436,
         "wd:id":"Q738159",
         "wk:page":"Dunavars\u00e1ny"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237335,
+    "wof:lastmodified":1566650307,
     "wof:name":"Dunavars\u00e1ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.171294,
     "lbl:longitude":19.501839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.171294,
     "mps:longitude":19.501839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pusztavacs"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"1164511e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046074,
         "gp:id":814135,
-        "qs:id":1083312,
         "qs_pg:id":1083312,
         "wd:id":"Q1016394",
         "wk:page":"Pusztavacs"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751576,
+    "wof:lastmodified":1566650323,
     "wof:name":"Pusztavacs",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

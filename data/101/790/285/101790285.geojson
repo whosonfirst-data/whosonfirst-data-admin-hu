@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.298291,
     "lbl:longitude":18.525095,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.298291,
     "mps:longitude":18.525095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Bonyh\u00e1d"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":464,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"11629e6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054809,
         "gp:id":804182,
-        "qs:id":564148,
         "qs_pg:id":564148,
         "wd:id":"Q834567",
         "wk:page":"Bonyh\u00e1d"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236898,
+    "wof:lastmodified":1566650170,
     "wof:name":"Bonyh\u00e1d",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

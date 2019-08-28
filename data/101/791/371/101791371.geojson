@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.873054,
     "lbl:longitude":17.849967,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.873054,
     "mps:longitude":17.849967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sellye"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":36,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
         "fct:id":"11647338-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045406,
         "gp:id":814860,
-        "qs:id":255458,
         "qs_pg:id":255458,
         "wd:id":"Q842971",
         "wk:page":"Sellye"
@@ -151,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236949,
+    "wof:lastmodified":1566650184,
     "wof:name":"Sellye",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.606334,
     "lbl:longitude":18.914689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.606334,
     "mps:longitude":18.914689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "G\u00e9derlak"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         "fct:id":"11631114-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3052353,
         "gp:id":807004,
-        "qs:id":966139,
+        "qs_pg:id":966139,
         "wd:id":"Q1031306",
         "wk:page":"G\u00e9derlak"
     },
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236848,
+    "wof:lastmodified":1566650154,
     "wof:name":"G\u00e9derlak",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

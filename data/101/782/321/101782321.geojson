@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.213201,
     "lbl:longitude":22.080797,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.213201,
     "mps:longitude":22.080797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u0456\u0448\u0432\u0430\u0440\u0434\u0430"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":769,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
         "fct:id":"1163913e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":718739,
         "gp:id":810092,
-        "qs:id":519217,
         "qs_pg:id":519217,
         "wd:id":"Q674311",
         "wk:page":"Kisv\u00e1rda"
@@ -164,7 +166,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237193,
+    "wof:lastmodified":1566650264,
     "wof:name":"Kisv\u00e1rda",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

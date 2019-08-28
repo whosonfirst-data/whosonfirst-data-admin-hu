@@ -9,14 +9,17 @@
     "geom:bbox":"21.828259935,48.1520490722,21.8429473118,48.1670961571",
     "geom:latitude":48.159159,
     "geom:longitude":21.837644,
-    "geonames:id":"722298,722299",
+    "gn:id":"722298,722299",
     "iso:country":"HU",
     "lbl:latitude":48.159691,
     "lbl:longitude":21.838145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.159691,
     "mps:longitude":21.838145,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beszterec"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":803882,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q647432"
     },
     "wof:country":"HU",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101782331,
-    "wof:lastmodified":1563237154,
+    "wof:lastmodified":1566650251,
     "wof:name":"Beszterec",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

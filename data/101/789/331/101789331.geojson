@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.111419,
     "lbl:longitude":18.129992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.111419,
     "mps:longitude":18.129992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0445\u0438\u0434\u0430"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0445\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peremarton"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8,
     "wof:belongsto":[
@@ -128,7 +131,6 @@
         "fct:id":"11628d66-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055091,
         "gp:id":803840,
-        "qs:id":1269218,
         "qs_pg:id":1269218,
         "wd:id":"Q268245",
         "wk:page":"Berhida"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237506,
+    "wof:lastmodified":1566650364,
     "wof:name":"Berhida",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17848611.481603,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.138645,47.764186,19.138645,47.764186",
     "geom:latitude":47.764186,
     "geom:longitude":19.138645,
     "gn:latitude":47.76667,
     "gn:longitude":19.15,
     "iso:country":"HU",
+    "lbl:bbox":"19.133645,47.759186,19.143645,47.769186",
     "lbl:latitude":47.764186,
     "lbl:longitude":19.138645,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.761762,
     "mps:longitude":19.148086,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     ],
     "name:hun_x_variant":[
         "Homoki D\u016fl\u0151"
-    ],
-    "name:unk_x_variant":[
-        "Homoki D\u016fl\u0151",
-        "Homokd\u016fl\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -68,19 +66,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101785881
+        101785881,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3051390,
         "gp:id":808048,
-        "qs:id":211572,
         "qs_pg:id":211572
     },
     "wof:country":"HU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932438,
+    "wof:lastmodified":1566649586,
     "wof:name":"Homokd\u016fl\u0151",
     "wof:parent_id":101785881,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.107745,
     "lbl:longitude":21.17283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.107745,
     "mps:longitude":21.17283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Taktaszada"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
         "fct:id":"1164b7c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715005,
         "gp:id":816187,
-        "qs:id":761029,
         "qs_pg:id":761029,
         "wd:id":"Q123719",
         "wk:page":"Taktaszada"
@@ -136,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237210,
+    "wof:lastmodified":1566650270,
     "wof:name":"Taktaszada",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

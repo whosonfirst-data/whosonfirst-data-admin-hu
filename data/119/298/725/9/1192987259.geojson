@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.49462,47.31996,16.53462,47.35996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "K\u0151szegszerdahely"
     ],
@@ -59,8 +63,7 @@
         "K\u0151szegszerdahely"
     ],
     "name:und_x_variant":[
-        "K\u0151szegszerhadely",
-        "K\u0151szegszerdahely"
+        "K\u0151szegszerhadely"
     ],
     "name:vie_x_preferred":[
         "K\u0151szegszerdahely"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1192987259,
-    "wof:lastmodified":1564160648,
+    "wof:lastmodified":1566649954,
     "wof:name":"Koszegszerdahely",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

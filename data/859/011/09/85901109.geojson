@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19377915.078445,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.127555,47.779163,19.127555,47.779163",
     "geom:latitude":47.779163,
     "geom:longitude":19.127555,
     "gn:latitude":47.78333,
     "gn:longitude":19.13333,
     "iso:country":"HU",
+    "lbl:bbox":"19.122555,47.774163,19.132555,47.784163",
     "lbl:latitude":47.779163,
     "lbl:longitude":19.127555,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.779958,
     "mps:longitude":19.118517,
     "mz:hierarchy_label":0,
@@ -35,10 +37,6 @@
         "Fenyvesdulo"
     ],
     "name:hun_x_preferred":[
-        "Fenyvesd\u016fl\u0151"
-    ],
-    "name:unk_x_variant":[
-        "Fenyves",
         "Fenyvesd\u016fl\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -71,19 +69,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101785881
+        101785881,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3052677,
         "gp:id":806568,
-        "qs:id":491646,
         "qs_pg:id":491646
     },
     "wof:country":"HU",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932436,
+    "wof:lastmodified":1566649583,
     "wof:name":"Fenyvesd\u016fl\u0151",
     "wof:parent_id":101785881,
     "wof:placetype":"neighbourhood",

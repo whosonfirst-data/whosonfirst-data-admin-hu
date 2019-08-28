@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.65351,46.43746,16.69351,46.47746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Murar\u00e1tka"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Murar\u00e1tka"
     ],
-    "name:und_x_variant":[
-        "Murar\u00e1tka"
-    ],
     "name:vie_x_preferred":[
         "Murar\u00e1tka"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1344112835,
-    "wof:lastmodified":1564160102,
+    "wof:lastmodified":1566649529,
     "wof:name":"Muraratka",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6144103.22281,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.229506,47.128448,20.229506,47.128448",
     "geom:latitude":47.128448,
     "geom:longitude":20.229506,
     "gn:latitude":47.13333,
     "gn:longitude":20.23333,
     "iso:country":"HU",
+    "lbl:bbox":"20.224506,47.123448,20.234506,47.133448",
     "lbl:latitude":47.128448,
     "lbl:longitude":20.229506,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.131819,
     "mps:longitude":20.220705,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
         "Kocsoras"
     ],
     "name:hun_x_preferred":[
-        "Kocsoros"
-    ],
-    "name:unk_x_variant":[
-        "Kocsoras",
         "Kocsoros"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,18 +66,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684891,
         102191581,
         85633237,
-        404227483
+        404227483,
+        85684891
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":718691,
         "gp:id":810177,
-        "qs:id":906963,
         "qs_pg:id":906963
     },
     "wof:country":"HU",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932446,
+    "wof:lastmodified":1566649580,
     "wof:name":"Kocsoros",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

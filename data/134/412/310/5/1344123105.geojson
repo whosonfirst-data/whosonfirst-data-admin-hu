@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"22.70172,47.81273,22.74172,47.85273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vizsoly"
     ],
@@ -68,8 +72,7 @@
         "Vizsoly"
     ],
     "name:und_x_variant":[
-        "Vizsoly-puszta",
-        "Vizsoly"
+        "Vizsoly-puszta"
     ],
     "name:vie_x_preferred":[
         "Vizsoly"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1344123105,
-    "wof:lastmodified":1564160021,
+    "wof:lastmodified":1566649468,
     "wof:name":"Vizsoly",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9761041.557701,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.152514,46.25502,20.152514,46.25502",
     "geom:latitude":46.25502,
     "geom:longitude":20.152514,
     "gn:latitude":46.25947,
     "gn:longitude":20.1594,
     "iso:country":"HU",
+    "lbl:bbox":"20.147514,46.25002,20.157514,46.26002",
     "lbl:latitude":46.25502,
     "lbl:longitude":20.152514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.266919,
     "mps:longitude":20.168366,
     "mz:hierarchy_label":0,
@@ -37,9 +39,6 @@
     "name:hun_x_variant":[
         "Fels\u0151v\u00e1rosi Feketef\u00f6ldek",
         "Fels\u0151v\u00e1rosi V\u00e1lyogvet\u0151telep"
-    ],
-    "name:unk_x_variant":[
-        "Fels\u0151v\u00e1ros"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
@@ -70,19 +69,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101751681
+        101751681,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":720858,
         "gp:id":806533,
-        "qs:id":1083292,
         "qs_pg:id":1083292
     },
     "wof:country":"HU",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932435,
+    "wof:lastmodified":1566649581,
     "wof:name":"Fels\u0151v\u00e1ros",
     "wof:parent_id":101751681,
     "wof:placetype":"neighbourhood",

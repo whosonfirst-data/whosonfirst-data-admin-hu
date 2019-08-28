@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.863601,
     "lbl:longitude":22.389045,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.863601,
     "mps:longitude":22.389045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nagyecsed"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"1163ee2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717397,
         "gp:id":812325,
-        "qs:id":261838,
         "qs_pg:id":261838,
         "wd:id":"Q932823",
         "wk:page":"Nagyecsed"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237223,
+    "wof:lastmodified":1566650275,
     "wof:name":"Nagyecsed",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

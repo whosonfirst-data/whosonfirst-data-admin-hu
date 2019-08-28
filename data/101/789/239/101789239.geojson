@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.861867,
     "lbl:longitude":19.573037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.861867,
     "mps:longitude":19.573037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ball\u00f3sz\u00f6g"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"116279f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055497,
         "gp:id":803307,
-        "qs:id":1348516,
         "qs_pg:id":1348516,
         "wd:id":"Q789508",
         "wk:page":"Ball\u00f3sz\u00f6g"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237582,
+    "wof:lastmodified":1566650389,
     "wof:name":"Ball\u00f3sz\u00f6g",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

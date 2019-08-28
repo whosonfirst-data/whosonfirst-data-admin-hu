@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.145341,
     "lbl:longitude":18.952841,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.145341,
     "mps:longitude":18.952841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szigetbecse"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"1164a830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044493,
         "gp:id":815792,
-        "qs:id":249320,
         "qs_pg:id":249320,
         "wd:id":"Q571326",
         "wk:page":"Szigetbecse"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237090,
+    "wof:lastmodified":1566650231,
     "wof:name":"Szigetbecse",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

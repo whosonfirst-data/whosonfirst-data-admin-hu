@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.554329,
     "lbl:longitude":17.121785,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.554329,
     "mps:longitude":17.121785,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Zalakaro\u015f"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         102191581,
@@ -126,7 +129,6 @@
         "fct:id":"11651086-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042623,
         "gp:id":818062,
-        "qs:id":1167277,
         "qs_pg:id":1167277,
         "wd:id":"Q144988",
         "wk:page":"Zalakaros"
@@ -146,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236878,
+    "wof:lastmodified":1566650163,
     "wof:name":"Zalakaros",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

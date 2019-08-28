@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.16443,47.54119,17.20443,47.58119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Bogyoszl\u00f3"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Bogyoszl\u00f3"
     ],
-    "name:und_x_variant":[
-        "Bogyoszl\u00f3"
-    ],
     "name:vie_x_preferred":[
         "Bogyoszl\u00f3"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1226833549,
-    "wof:lastmodified":1564161370,
+    "wof:lastmodified":1566650799,
     "wof:name":"Bogyoszlo",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

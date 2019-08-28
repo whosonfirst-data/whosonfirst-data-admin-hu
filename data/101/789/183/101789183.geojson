@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.890005,
     "lbl:longitude":16.900124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.890005,
     "mps:longitude":16.900124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zalaszentiv\u00e1n"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
         "fct:id":"1165136a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042598,
         "gp:id":818081,
-        "qs:id":939870,
+        "qs_pg:id":939870,
         "wd:id":"Q568479",
         "wk:page":"Zalaszentiv\u00e1n"
     },
@@ -104,7 +107,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237592,
+    "wof:lastmodified":1566650392,
     "wof:name":"Zalaszentiv\u00e1n",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

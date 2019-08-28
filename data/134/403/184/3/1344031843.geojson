@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.79667,46.48,18.83667,46.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erzs\u00e9betmajor"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344031843,
-    "wof:lastmodified":1537626248,
+    "wof:lastmodified":1566649538,
     "wof:name":"Bartal-puszta",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.99815,46.78825,18.03815,46.82825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jaba",
         "Jabapuszta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293263673,
-    "wof:lastmodified":1537626238,
+    "wof:lastmodified":1566649697,
     "wof:name":"Jabapuszta",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

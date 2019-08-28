@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.55197,46.55664,16.59197,46.59664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kerkatesk\u00e1nd"
     ],
@@ -56,8 +60,7 @@
         "Kerkatesk\u00e1nd"
     ],
     "name:und_x_variant":[
-        "Tesk\u00e1nd",
-        "Kerkatesk\u00e1nd"
+        "Tesk\u00e1nd"
     ],
     "name:vie_x_preferred":[
         "Kerkatesk\u00e1nd"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1192986741,
-    "wof:lastmodified":1564160647,
+    "wof:lastmodified":1566649954,
     "wof:name":"Kerkateskand",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

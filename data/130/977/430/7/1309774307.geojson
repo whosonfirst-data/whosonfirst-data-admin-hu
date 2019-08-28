@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.1333,46.88157,17.1733,46.92157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Vindornyasz\u0151l\u0151s"
     ],
@@ -56,8 +60,7 @@
         "Vindornyasz\u0151l\u0151s"
     ],
     "name:und_x_variant":[
-        "Vindornyasz\u0151ll\u0151s",
-        "Vindornyasz\u0151l\u0151s"
+        "Vindornyasz\u0151ll\u0151s"
     ],
     "name:vie_x_preferred":[
         "Vindornyasz\u0151l\u0151s"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1309774307,
-    "wof:lastmodified":1564160915,
+    "wof:lastmodified":1566650404,
     "wof:name":"Vindornyaszolos",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

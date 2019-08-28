@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10720030.191571,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.986317,46.454443,16.986317,46.454443",
     "geom:latitude":46.454443,
     "geom:longitude":16.986317,
     "gn:latitude":46.45,
     "gn:longitude":16.96667,
     "iso:country":"HU",
+    "lbl:bbox":"16.981317,46.449443,16.991317,46.459443",
     "lbl:latitude":46.454443,
     "lbl:longitude":16.986317,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.452997,
     "mps:longitude":16.983503,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Kiskanizsa"
-    ],
-    "name:unk_x_variant":[
         "Kiskanizsa"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684849,
         102191581,
         85633237,
         404227481,
-        101751677
+        101751677,
+        85684849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3049921,
         "gp:id":809787,
-        "qs:id":57164,
         "qs_pg:id":57164
     },
     "wof:country":"HU",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932443,
+    "wof:lastmodified":1566649586,
     "wof:name":"Kiskanizsa",
     "wof:parent_id":101751677,
     "wof:placetype":"neighbourhood",

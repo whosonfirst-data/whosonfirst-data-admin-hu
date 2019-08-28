@@ -13,6 +13,8 @@
     "iso:country":"HU",
     "lbl:latitude":47.683452,
     "lbl:longitude":17.643296,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.683452,
     "mps:longitude":17.643296,
     "mz:hierarchy_label":1,
@@ -387,9 +389,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"175",
     "statoids:area_mi":"67",
     "statoids:as_of_date":"2011-10-01",
@@ -418,7 +420,6 @@
         "fips:code":"HU25",
         "gn:id":3052009,
         "gp:id":807392,
-        "qs:id":279618,
         "qs_pg:id":279618,
         "wd:id":"Q134494",
         "wk:page":"Gy\u0151r"
@@ -435,11 +436,10 @@
         }
     ],
     "wof:id":101751711,
-    "wof:lastmodified":1563237327,
+    "wof:lastmodified":1566650303,
     "wof:name":"Gy\u0151r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city of county right",
     "wof:population":129372,
     "wof:population_rank":9,

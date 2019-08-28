@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.06188,46.27425,17.10188,46.31425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Csurg\u00f3nagymarton"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "Csurg\u00f3nagymarton"
     ],
-    "name:und_x_variant":[
-        "Csurg\u00f3nagymarton"
-    ],
     "name:vie_x_preferred":[
         "Csurg\u00f3nagymarton"
     ],
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1209185655,
-    "wof:lastmodified":1564160589,
+    "wof:lastmodified":1566649910,
     "wof:name":"Csurgonagymarton",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

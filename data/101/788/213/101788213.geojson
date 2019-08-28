@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.315134,
     "lbl:longitude":20.921372,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.315134,
     "mps:longitude":20.921372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aze_x_preferred":[
         "Kar\u00e7aq"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
@@ -149,7 +152,6 @@
         "fct:id":"116365d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":719404,
         "gp:id":809007,
-        "qs:id":901760,
         "qs_pg:id":901760,
         "wd:id":"Q756273",
         "wk:page":"Karcag"
@@ -169,7 +171,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237395,
+    "wof:lastmodified":1566650327,
     "wof:name":"Karcag",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

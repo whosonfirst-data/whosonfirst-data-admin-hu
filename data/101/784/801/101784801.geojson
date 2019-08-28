@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.742674,
     "lbl:longitude":22.11445,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.742674,
     "mps:longitude":22.11445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Encsencs"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"1162ea36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":721158,
         "gp:id":805855,
-        "qs:id":1269454,
         "qs_pg:id":1269454,
         "wd:id":"Q263002",
         "wk:page":"Encsencs"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237291,
+    "wof:lastmodified":1566650297,
     "wof:name":"Encsencs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

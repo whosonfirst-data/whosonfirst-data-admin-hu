@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.57887,
     "lbl:longitude":17.751565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.57887,
     "mps:longitude":17.751565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gy\u0151rs\u00e1g"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3051973,
         "gp:id":807431,
-        "qs:id":1269588,
+        "qs_pg:id":1269588,
         "wd:id":"Q635037",
         "wk:page":"Gy\u0151rs\u00e1g"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101844991,
-    "wof:lastmodified":1563237011,
+    "wof:lastmodified":1566650204,
     "wof:name":"Gy\u0151rs\u00e1g",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

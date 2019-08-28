@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.33926,45.99022,17.37926,46.03022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "P\u00e9terhida"
     ],
@@ -61,9 +65,6 @@
     "name:swe_x_preferred":[
         "P\u00e9terhida"
     ],
-    "name:und_x_variant":[
-        "P\u00e9terhida"
-    ],
     "name:vie_x_preferred":[
         "P\u00e9terhida"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1226206043,
-    "wof:lastmodified":1564161286,
+    "wof:lastmodified":1566650738,
     "wof:name":"Peterhida",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

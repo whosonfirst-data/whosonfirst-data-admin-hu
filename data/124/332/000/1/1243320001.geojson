@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.65572,47.34372,16.69572,47.38372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "T\u00f6m\u00f6rd"
     ],
@@ -64,9 +68,6 @@
     "name:slv_x_preferred":[
         "T\u00f6m\u00f6rd"
     ],
-    "name:und_x_variant":[
-        "T\u00f6m\u00f6rd"
-    ],
     "name:vie_x_preferred":[
         "T\u00f6m\u00f6rd"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1243320001,
-    "wof:lastmodified":1564161073,
+    "wof:lastmodified":1566650573,
     "wof:name":"Tomord",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

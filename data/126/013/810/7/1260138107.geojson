@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.15088,46.94238,17.19088,46.98238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ohid"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "\u00d3hid"
     ],
-    "name:und_x_variant":[
-        "\u00d3hid"
-    ],
     "name:vie_x_preferred":[
         "\u00d3h\u00edd"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1260138107,
-    "wof:lastmodified":1564160670,
+    "wof:lastmodified":1566649971,
     "wof:name":"Ohid",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

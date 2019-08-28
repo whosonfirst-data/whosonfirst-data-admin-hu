@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.685233,
     "lbl:longitude":20.311142,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.685233,
     "mps:longitude":20.311142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Erd\u0151telek"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":721119,
         "gp:id":805934,
-        "qs:id":275631,
         "qs_pg:id":275631,
         "wd:id":"Q249661"
     },
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101785955,
-    "wof:lastmodified":1563237112,
+    "wof:lastmodified":1566650239,
     "wof:name":"Erd\u0151telek",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

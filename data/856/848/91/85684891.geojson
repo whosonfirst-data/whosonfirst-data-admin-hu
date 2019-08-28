@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.177442,
     "lbl:longitude":20.488031,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.177442,
     "mps:longitude":20.488031,
     "mz:hierarchy_label":1,
@@ -216,7 +217,7 @@
     "name:ukr_x_variant":[
         "\u042f\u0441-\u041d\u0430\u0434\u044c\u043a\u0443\u043d-\u0421\u043e\u043b\u044c\u043d\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Szolnok County"
     ],
     "name:urd_x_preferred":[
@@ -310,9 +311,9 @@
     "qs:type":"Megye",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"5,394",
     "statoids:area_mi":"2,083",
     "statoids:as_of_date":"2011-10-01",
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1565714758,
+    "wof:lastmodified":1566649593,
     "wof:name":"J\u00e1sz-Nagykun-Szolnok",
     "wof:parent_id":404227483,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":313641,
     "wof:population_rank":10,

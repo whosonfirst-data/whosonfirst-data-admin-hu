@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.52509,46.03667,18.56509,46.07667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Erd\u0151sm\u00e1rok"
     ],
@@ -69,8 +73,7 @@
         "\u0415\u0440\u0434\u0435\u0448\u043c\u0430\u0440\u043e\u043a"
     ],
     "name:und_x_variant":[
-        "P\u00fcsp\u00f6km\u00e1rok",
-        "Erd\u0151sm\u00e1rok"
+        "P\u00fcsp\u00f6km\u00e1rok"
     ],
     "name:vie_x_preferred":[
         "Erd\u0151sm\u00e1rok"
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1327147419,
-    "wof:lastmodified":1564159885,
+    "wof:lastmodified":1566649368,
     "wof:name":"Erdosmarok",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

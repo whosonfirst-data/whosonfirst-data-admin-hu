@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.508611,
     "lbl:longitude":19.063953,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.507589,
     "mps:longitude":19.065797,
     "mz:hierarchy_label":1,
@@ -126,9 +127,11 @@
     "wof:concordances":{
         "gn:id":7284828,
         "gp:id":22723951,
-        "qs:id":501177,
-        "qs_pg:id":671113,
+        "qs_pg:id":501177,
         "wd:id":"Q697679"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":671113
     },
     "wof:country":"HU",
     "wof:geomhash":"c68ebed21bc1fbbf89c76c0072c2cde6",
@@ -146,7 +149,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649578,
     "wof:name":"Ter\u00e9zv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.47354,47.24528,16.51354,47.28528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Butsching"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1226603319,
-    "wof:lastmodified":1564161304,
+    "wof:lastmodified":1566650753,
     "wof:name":"Bucsu",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

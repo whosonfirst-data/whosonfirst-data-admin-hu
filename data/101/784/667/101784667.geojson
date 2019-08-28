@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.924074,
     "lbl:longitude":20.049959,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.924074,
     "mps:longitude":20.049959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Par\u00e1d"
     ],
@@ -63,9 +66,6 @@
     "name:swe_x_preferred":[
         "Par\u00e1d"
     ],
-    "name:unk_x_variant":[
-        "Par\u00e1d\u00f3huta"
-    ],
     "name:vie_x_preferred":[
         "Par\u00e1d"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":103,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"1165519a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716559,
         "gp:id":813545,
-        "qs:id":491707,
         "qs_pg:id":491707,
         "wd:id":"Q935066",
         "wk:page":"Par\u00e1d"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237264,
+    "wof:lastmodified":1566650288,
     "wof:name":"Par\u00e1d",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

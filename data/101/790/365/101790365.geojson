@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.538357,
     "lbl:longitude":17.179897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.538357,
     "mps:longitude":17.179897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zalakom\u00e1r"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"116510b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042621,
         "gp:id":818065,
-        "qs:id":1270825,
         "qs_pg:id":1270825,
         "wd:id":"Q1186373",
         "wk:page":"Zalakom\u00e1r"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236830,
+    "wof:lastmodified":1566650148,
     "wof:name":"Zalakom\u00e1r",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

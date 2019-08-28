@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.772556,
     "lbl:longitude":21.128945,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.772556,
     "mps:longitude":21.128945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "B\u00e9k\u00e9s"
     ],
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -157,7 +160,6 @@
         "fct:id":"1162871c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":722439,
         "gp:id":803658,
-        "qs:id":211552,
         "qs_pg:id":211552,
         "wd:id":"Q740810",
         "wk:page":"B\u00e9k\u00e9s"
@@ -177,7 +179,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237554,
+    "wof:lastmodified":1566650379,
     "wof:name":"B\u00e9k\u00e9s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

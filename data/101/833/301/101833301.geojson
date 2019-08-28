@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.733803,
     "lbl:longitude":18.671565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.733803,
     "mps:longitude":18.671565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043a\u043e\u0434"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":61,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
         "fct:id":"1164d7ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3043865,
         "gp:id":816632,
-        "qs:id":907292,
         "qs_pg:id":907292,
         "wd:id":"Q1072301",
         "wk:page":"Tokod"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237053,
+    "wof:lastmodified":1566650219,
     "wof:name":"Tokod",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

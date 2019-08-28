@@ -10,8 +10,10 @@
     "geom:latitude":47.481171,
     "geom:longitude":19.021251,
     "iso:country":"HU",
+    "lbl:bbox":"19.0162508129,47.4761711038,19.0262508129,47.4861711038",
     "lbl:latitude":47.481171,
     "lbl:longitude":19.021251,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:pol_x_preferred":[
         "Sashegy"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108940513,
-    "wof:lastmodified":1564160738,
+    "wof:lastmodified":1566650025,
     "wof:name":"Sashegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

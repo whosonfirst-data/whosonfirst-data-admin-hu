@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.448175,
     "lbl:longitude":19.023956,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.44945,
     "mps:longitude":19.008768,
     "mz:hierarchy_label":1,
@@ -66,9 +67,6 @@
     "name:spa_x_preferred":[
         "P\u00e1l Titkos"
     ],
-    "name:unk_x_variant":[
-        "Kelenv\u00f6lgy"
-    ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3054643,
@@ -108,7 +106,6 @@
     "wof:concordances":{
         "gn:id":3050392,
         "gp:id":809212,
-        "qs:id":887870,
         "qs_pg:id":887870
     },
     "wof:country":"HU",
@@ -127,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247545,
+    "wof:lastmodified":1566649584,
     "wof:name":"Kelenvolgy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

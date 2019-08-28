@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":45.855867,
     "lbl:longitude":18.298909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.855867,
     "mps:longitude":18.298909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0428\u0438\u043a\u043b\u043e\u0448"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043a\u043b\u043e\u0448"
     ],
-    "name:unk_x_variant":[
-        "M\u00e1riagy\u016fd"
-    ],
     "name:vie_x_preferred":[
         "Sikl\u00f3s"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -147,7 +147,6 @@
         "fct:id":"11647572-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045364,
         "gp:id":814901,
-        "qs:id":1167250,
         "qs_pg:id":1167250,
         "wd:id":"Q728438",
         "wk:page":"Sikl\u00f3s"
@@ -167,7 +166,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236947,
+    "wof:lastmodified":1566650184,
     "wof:name":"Sikl\u00f3s",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

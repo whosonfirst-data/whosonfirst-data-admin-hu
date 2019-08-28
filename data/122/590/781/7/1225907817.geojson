@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.8215,46.45464,17.8615,46.49464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Somodor"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1225907817,
-    "wof:lastmodified":1564161334,
+    "wof:lastmodified":1566650773,
     "wof:name":"Somodor",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

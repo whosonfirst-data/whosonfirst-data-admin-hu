@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.991207,
     "lbl:longitude":18.245602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.991207,
     "mps:longitude":18.245602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Leps\u00e9ny"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Leps\u00e9ny"
     ],
-    "name:unk_x_variant":[
-        "Lapseny"
-    ],
     "name:vie_x_preferred":[
         "Leps\u00e9ny"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
@@ -104,7 +104,6 @@
         "fct:id":"1163b0b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3048835,
         "gp:id":811096,
-        "qs:id":183711,
         "qs_pg:id":183711,
         "wd:id":"Q370974",
         "wk:page":"Leps\u00e9ny"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237091,
+    "wof:lastmodified":1566650231,
     "wof:name":"Leps\u00e9ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

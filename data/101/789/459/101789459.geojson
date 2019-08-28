@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.870877,
     "lbl:longitude":18.772009,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.870877,
     "mps:longitude":18.772009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nagykar\u00e1csony"
     ],
@@ -61,9 +64,6 @@
     "name:slv_x_preferred":[
         "Nagykar\u00e1csony"
     ],
-    "name:unk_x_variant":[
-        "Nagykar\u00e1csonysz\u00e1ll\u00e1s"
-    ],
     "name:vie_x_preferred":[
         "Nagykar\u00e1csony"
     ],
@@ -88,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -101,7 +101,7 @@
         "fct:id":"1163f37c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047674,
         "gp:id":812427,
-        "qs:id":998232,
+        "qs_pg:id":998232,
         "wd:id":"Q776741",
         "wk:page":"Nagykar\u00e1csony"
     },
@@ -120,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237585,
+    "wof:lastmodified":1566650390,
     "wof:name":"Nagykar\u00e1csony",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

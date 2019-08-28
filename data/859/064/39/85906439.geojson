@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.461954,
     "lbl:longitude":19.238586,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.461799,
     "mps:longitude":19.245453,
     "mz:hierarchy_label":1,
@@ -96,7 +97,6 @@
     "wof:concordances":{
         "gn:id":3045974,
         "gp:id":22723960,
-        "qs:id":113019,
         "qs_pg:id":113019,
         "wd:id":"Q851045"
     },
@@ -116,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566649579,
     "wof:name":"Rakoshegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

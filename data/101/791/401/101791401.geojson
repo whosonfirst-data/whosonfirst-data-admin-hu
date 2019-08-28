@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.20901,
     "lbl:longitude":17.153852,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.20901,
     "mps:longitude":17.153852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Berzence"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"11628e9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055069,
         "gp:id":803869,
-        "qs:id":1269217,
         "qs_pg:id":1269217,
         "wd:id":"Q426441",
         "wk:page":"Berzence"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236945,
+    "wof:lastmodified":1566650184,
     "wof:name":"Berzence",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

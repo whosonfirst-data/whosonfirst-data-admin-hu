@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5686368.977844,
+    "geom:area_square_m":0.0,
     "geom:bbox":"21.399242,47.450589,21.399242,47.450589",
     "geom:latitude":47.450589,
     "geom:longitude":21.399242,
     "iso:country":"HU",
+    "lbl:bbox":"21.394242,47.445589,21.404242,47.455589",
     "lbl:latitude":47.450589,
     "lbl:longitude":21.399242,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.448792,
     "mps:longitude":21.386643,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Zsoldosdulo"
     ],
     "name:hun_x_preferred":[
-        "Zsoldosd\u016fl\u0151"
-    ],
-    "name:unk_x_variant":[
         "Zsoldosd\u016fl\u0151"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,13 +59,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684903,
         102191581,
         85633237,
         404227483,
-        101787109
+        101787109,
+        85684903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932479,
+    "wof:lastmodified":1566649574,
     "wof:name":"Zsoldosd\u016fl\u0151",
     "wof:parent_id":101787109,
     "wof:placetype":"neighbourhood",

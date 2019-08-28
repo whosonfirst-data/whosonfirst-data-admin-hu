@@ -10,8 +10,10 @@
     "geom:latitude":47.506403,
     "geom:longitude":19.036314,
     "iso:country":"HU",
+    "lbl:bbox":"19.0313141063,47.5014030054,19.0413141063,47.5114030054",
     "lbl:latitude":47.506403,
     "lbl:longitude":19.036314,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,7 +44,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0437\u0438\u0432\u0430\u0440\u043e\u0448"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1108940407,
-    "wof:lastmodified":1563236645,
+    "wof:lastmodified":1566650008,
     "wof:name":"Vizivaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.886461,
     "lbl:longitude":17.496401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.886461,
     "mps:longitude":17.496401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Diszel"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1065,
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":3053663,
         "gp:id":805470,
-        "qs:id":492839,
         "qs_pg:id":492839,
         "wd:id":"Q673329",
         "wk:page":"Diszel"
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":101910893,
-    "wof:lastmodified":1561751594,
+    "wof:lastmodified":1566650395,
     "wof:name":"Diszel",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

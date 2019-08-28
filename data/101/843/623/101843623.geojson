@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.126911,
     "lbl:longitude":22.313013,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.126911,
     "mps:longitude":22.313013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e1s\u00e1rosnam\u00e9ny"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
         "fct:id":"1164f93e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714188,
         "gp:id":817543,
-        "qs:id":907318,
         "qs_pg:id":907318,
         "wd:id":"Q911600",
         "wk:page":"V\u00e1s\u00e1rosnam\u00e9ny"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237000,
+    "wof:lastmodified":1566650200,
     "wof:name":"V\u00e1s\u00e1rosnam\u00e9ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

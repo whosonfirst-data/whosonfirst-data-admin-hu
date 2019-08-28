@@ -11,12 +11,16 @@
     "geom:longitude":17.627142,
     "gn:population":1127,
     "iso:country":"HU",
+    "lbl:bbox":"17.607142,46.809991,17.647142,46.849991",
     "lbl:latitude":46.829991,
     "lbl:longitude":17.627142,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.829991,
     "mps:longitude":17.627142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00e9vf\u00fcl\u00f6p"
     ],
@@ -95,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":335,
     "wof:belongsto":[
@@ -109,7 +113,6 @@
         "fct:id":"11645e3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045836,
         "gp:id":814410,
-        "qs:id":891516,
         "qs_pg:id":891516,
         "wd:id":"Q1089659",
         "wk:page":"R\u00e9vf\u00fcl\u00f6p"
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237046,
+    "wof:lastmodified":1566650216,
     "wof:name":"R\u00e9vf\u00fcl\u00f6p",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

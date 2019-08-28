@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.501725,
     "lbl:longitude":19.070723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.521766,
     "mps:longitude":19.119804,
     "mz:hierarchy_label":1,
@@ -133,7 +134,6 @@
     "wof:concordances":{
         "gn:id":3053176,
         "gp:id":806007,
-        "qs:id":211564,
         "qs_pg:id":211564,
         "wd:id":"Q284541",
         "wk:page":"Erzs\u00e9betv\u00e1ros"
@@ -154,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247544,
+    "wof:lastmodified":1566649589,
     "wof:name":"Erzs\u00e9betv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

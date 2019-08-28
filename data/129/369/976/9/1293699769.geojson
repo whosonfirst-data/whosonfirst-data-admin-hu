@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.58397,46.02452,18.62397,46.06452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Sz\u00e9kelyszabar"
     ],
@@ -66,8 +70,7 @@
         "\u0421\u0435\u043a\u0435\u0459\u0441\u0430\u0431\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Hercegszabar",
-        "Sz\u00e9kelyszabar"
+        "Hercegszabar"
     ],
     "name:vie_x_preferred":[
         "Sz\u00e9kelyszabar"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1293699769,
-    "wof:lastmodified":1564160242,
+    "wof:lastmodified":1566649654,
     "wof:name":"Szekelyszabar",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.284987,
     "lbl:longitude":21.816287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.284987,
     "mps:longitude":21.816287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pocsaj"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -98,7 +101,6 @@
         "fct:id":"116443fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716372,
         "gp:id":813911,
-        "qs:id":183867,
         "qs_pg:id":183867,
         "wd:id":"Q281575",
         "wk:page":"Pocsaj"
@@ -118,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237063,
+    "wof:lastmodified":1566650223,
     "wof:name":"Pocsaj",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"20.33,46.29667,20.37,46.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Batida"
     ],
@@ -39,8 +43,7 @@
         "Batida"
     ],
     "name:und_x_variant":[
-        "Batida Tanya",
-        "Batida"
+        "Batida Tanya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226240047,
-    "wof:lastmodified":1564161360,
+    "wof:lastmodified":1566650793,
     "wof:name":"Batida",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

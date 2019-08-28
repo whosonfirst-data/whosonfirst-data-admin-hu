@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.080165,
     "lbl:longitude":20.053125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.080165,
     "mps:longitude":20.053125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Istenmezeje"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -87,7 +90,7 @@
         "fct:id":"11634c60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":719739,
         "gp:id":808388,
-        "qs:id":1269696,
+        "qs_pg:id":1269696,
         "wd:id":"Q577047"
     },
     "wof:country":"HU",
@@ -105,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751545,
+    "wof:lastmodified":1566650199,
     "wof:name":"Istenmezeje",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

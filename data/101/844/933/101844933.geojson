@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.086012,
     "lbl:longitude":16.61148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.086012,
     "mps:longitude":16.61148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u042d\u0434\u0437\u044c\u0445\u0430\u0437\u0430\u0448\u0440\u0430\u0434\u043e\u0446"
     ],
@@ -70,9 +73,6 @@
     "name:slv_x_preferred":[
         "Egyh\u00e1zasr\u00e1d\u00f3c"
     ],
-    "name:unk_x_variant":[
-        "Kiss\u00e1roslak"
-    ],
     "name:vie_x_preferred":[
         "Egyh\u00e1zasr\u00e1d\u00f3c"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         102191581,
@@ -108,7 +108,6 @@
         "fct:id":"1162e8ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053345,
         "gp:id":805799,
-        "qs:id":225491,
         "qs_pg:id":225491,
         "wd:id":"Q534675",
         "wk:page":"Egyh\u00e1zasr\u00e1d\u00f3c"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237029,
+    "wof:lastmodified":1566650212,
     "wof:name":"Egyh\u00e1zasr\u00e1d\u00f3c",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

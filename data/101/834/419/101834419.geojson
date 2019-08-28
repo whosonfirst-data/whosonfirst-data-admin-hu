@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.169956,
     "lbl:longitude":20.61241,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.169956,
     "mps:longitude":20.61241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magyarcsan\u00e1d"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1163bc72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":717940,
         "gp:id":811353,
-        "qs:id":915111,
+        "qs_pg:id":915111,
         "wd:id":"Q528338",
         "wk:page":"Magyarcsan\u00e1d"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237098,
+    "wof:lastmodified":1566650234,
     "wof:name":"Magyarcsan\u00e1d",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.591892,
     "lbl:longitude":18.199304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.591892,
     "mps:longitude":18.199304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nagyk\u00f3nyi"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1163f4e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3047655,
         "gp:id":812447,
-        "qs:id":915127,
+        "qs_pg:id":915127,
         "wd:id":"Q1071621"
     },
     "wof:country":"HU",
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236838,
+    "wof:lastmodified":1566650151,
     "wof:name":"Nagyk\u00f3nyi",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

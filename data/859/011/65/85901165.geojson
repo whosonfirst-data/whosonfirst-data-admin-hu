@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.486631,
     "lbl:longitude":19.157401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.480031,
     "mps:longitude":19.166953,
     "mz:hierarchy_label":1,
@@ -78,10 +79,6 @@
     "name:swe_x_preferred":[
         "K\u0151b\u00e1nya"
     ],
-    "name:unk_x_variant":[
-        "K\u0151b\u00e1nya",
-        "K\u0151b\u00e1nya"
-    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn X"
     ],
@@ -128,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3049646,
         "gp:id":810144,
-        "qs:id":1167205,
         "qs_pg:id":1167205,
         "wd:id":"Q249498",
         "wk:page":"K\u0151b\u00e1nya"
@@ -149,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247545,
+    "wof:lastmodified":1566649584,
     "wof:name":"Kobanya",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

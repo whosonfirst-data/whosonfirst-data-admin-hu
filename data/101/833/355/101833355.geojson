@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.652273,
     "lbl:longitude":19.279592,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.652273,
     "mps:longitude":19.279592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Veresegyh\u00e1z"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":200,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
         "fct:id":"116500c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3042968,
         "gp:id":817663,
-        "qs:id":1174916,
         "qs_pg:id":1174916,
         "wd:id":"Q843039",
         "wk:page":"Veresegyh\u00e1z"
@@ -142,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237054,
+    "wof:lastmodified":1566650219,
     "wof:name":"Veresegyh\u00e1z",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

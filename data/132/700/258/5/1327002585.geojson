@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.99034,47.35765,19.03034,47.39765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Lakihegyi ad\u00f3torony"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1327002585,
-    "wof:lastmodified":1564159842,
+    "wof:lastmodified":1566649336,
     "wof:name":"Lakihegy",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

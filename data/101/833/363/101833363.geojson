@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.554276,
     "lbl:longitude":18.822811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.554276,
     "mps:longitude":18.822811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u043a\u0438"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
         "fct:id":"1164c37e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044004,
         "gp:id":816393,
-        "qs:id":1218936,
         "qs_pg:id":1218936,
         "wd:id":"Q571329",
         "wk:page":"Telki"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237055,
+    "wof:lastmodified":1566650220,
     "wof:name":"Telki",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

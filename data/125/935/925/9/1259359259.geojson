@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.36655,45.99828,17.40655,46.03828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Koml\u00f3sd"
     ],
@@ -64,9 +68,6 @@
     "name:swe_x_preferred":[
         "Koml\u00f3sd"
     ],
-    "name:und_x_variant":[
-        "Koml\u00f3sd"
-    ],
     "name:vie_x_preferred":[
         "Koml\u00f3sd"
     ],
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1259359259,
-    "wof:lastmodified":1564161209,
+    "wof:lastmodified":1566650678,
     "wof:name":"Komlosd",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

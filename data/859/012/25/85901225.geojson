@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10066946.431093,
+    "geom:area_square_m":0.0,
     "geom:bbox":"19.691478,47.668639,19.691478,47.668639",
     "geom:latitude":47.668639,
     "geom:longitude":19.691478,
     "iso:country":"HU",
+    "lbl:bbox":"19.686478,47.663639,19.696478,47.673639",
     "lbl:latitude":47.668639,
     "lbl:longitude":19.691478,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.669761,
     "mps:longitude":19.702035,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Nagytelek"
-    ],
-    "name:unk_x_variant":[
         "Nagytelek"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -57,13 +56,13 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684909,
         102191581,
         85633237,
         404227477,
-        101785963
+        101785963,
+        85684909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932460,
+    "wof:lastmodified":1566649572,
     "wof:name":"Nagytelek",
     "wof:parent_id":101785963,
     "wof:placetype":"neighbourhood",

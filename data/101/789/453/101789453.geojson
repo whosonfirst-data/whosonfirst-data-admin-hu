@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.00438,
     "lbl:longitude":18.547023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.00438,
     "mps:longitude":18.547023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cbk_zam_x_preferred":[
         "S\u00e1rkereszt\u00far"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":11,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11646e6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045530,
         "gp:id":814749,
-        "qs:id":1042840,
         "qs_pg:id":1042840,
         "wd:id":"Q1073406",
         "wk:page":"S\u00e1rkereszt\u00far"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237539,
+    "wof:lastmodified":1566650374,
     "wof:name":"S\u00e1rkereszt\u00far",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

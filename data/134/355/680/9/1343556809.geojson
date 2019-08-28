@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.59667,47.14667,21.63667,47.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mez\u0151peterd"
     ],
@@ -58,9 +62,6 @@
     "name:slv_x_preferred":[
         "Mez\u0151peterd"
     ],
-    "name:und_x_variant":[
-        "Mez\u0151peterd"
-    ],
     "name:vie_x_preferred":[
         "Mez\u0151peterd"
     ],
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1343556809,
-    "wof:lastmodified":1564159997,
+    "wof:lastmodified":1566649451,
     "wof:name":"Mezopeterd",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

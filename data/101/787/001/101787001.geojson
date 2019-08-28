@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.61278,
     "lbl:longitude":17.249149,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.61278,
     "mps:longitude":17.249149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0427\u043e\u0440\u043d\u0430"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
         "fct:id":"1162c45c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053918,
         "gp:id":805171,
-        "qs:id":1348559,
         "qs_pg:id":1348559,
         "wd:id":"Q843001",
         "wk:page":"Csorna"
@@ -172,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237480,
+    "wof:lastmodified":1566650356,
     "wof:name":"Csorna",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.766688,
     "lbl:longitude":17.244275,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.766688,
     "mps:longitude":17.244275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0632\u062a\u064a\u0644\u064a"
     ],
@@ -161,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0441\u0442\u0445\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Keszthelyi"
-    ],
     "name:vie_x_preferred":[
         "Keszthely"
     ],
@@ -190,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":514,
     "wof:belongsto":[
@@ -204,7 +204,6 @@
         "fct:id":"1163776c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3050212,
         "gp:id":809430,
-        "qs:id":901748,
         "qs_pg:id":901748,
         "wd:id":"Q526335",
         "wk:page":"Keszthely"
@@ -224,7 +223,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237091,
+    "wof:lastmodified":1566650231,
     "wof:name":"Keszthely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

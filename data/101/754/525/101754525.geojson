@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.564098,
     "lbl:longitude":19.280977,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.564098,
     "mps:longitude":19.280977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0435\u043f\u0435\u0441"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
         "fct:id":"1163746a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7284912,
         "gp:id":809340,
-        "qs:id":1167200,
         "qs_pg:id":1167200,
         "wd:id":"Q374203",
         "wk:page":"Kerepes"
@@ -130,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236935,
+    "wof:lastmodified":1566650181,
     "wof:name":"Kerepes",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

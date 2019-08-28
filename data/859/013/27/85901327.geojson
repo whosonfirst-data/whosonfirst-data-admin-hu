@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10701312.019499,
+    "geom:area_square_m":0.0,
     "geom:bbox":"17.632229,47.683939,17.632229,47.683939",
     "geom:latitude":47.683939,
     "geom:longitude":17.632229,
     "gn:latitude":47.31667,
     "gn:longitude":18.0,
     "iso:country":"HU",
+    "lbl:bbox":"17.627229,47.678939,17.637229,47.688939",
     "lbl:latitude":47.683939,
     "lbl:longitude":17.632229,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.672474,
     "mps:longitude":17.628402,
     "mz:hierarchy_label":0,
@@ -58,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0442\u0456\u0448"
     ],
-    "name:unk_x_variant":[
-        "\u00dajtelep"
-    ],
     "name:vie_x_preferred":[
         "Vetis"
     ],
@@ -91,19 +90,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684895,
         102191581,
         85633237,
         404227481,
-        101751711
+        101751711,
+        85684895
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3043385,
         "gp:id":817150,
-        "qs:id":1167266,
         "qs_pg:id":1167266
     },
     "wof:country":"HU",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932476,
+    "wof:lastmodified":1566649573,
     "wof:name":"\u00dajtelep",
     "wof:parent_id":101751711,
     "wof:placetype":"neighbourhood",

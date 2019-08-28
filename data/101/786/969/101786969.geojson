@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.72068,
     "lbl:longitude":17.605354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.72068,
     "mps:longitude":17.605354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Gy\u0151r\u00fajfalu"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3051964,
         "gp:id":807437,
-        "qs:id":1143800,
+        "qs_pg:id":1143800,
         "wd:id":"Q582881",
         "wk:page":"Gy\u0151r\u00fajfalu"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101786969,
-    "wof:lastmodified":1563237450,
+    "wof:lastmodified":1566650345,
     "wof:name":"Gy\u0151r\u00fajfalu",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

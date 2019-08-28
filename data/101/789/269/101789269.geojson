@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.751085,
     "lbl:longitude":19.473929,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.751085,
     "mps:longitude":19.473929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Orgov\u00e1ny"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"116421a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046940,
         "gp:id":813213,
-        "qs:id":1042853,
         "qs_pg:id":1042853,
         "wd:id":"Q1051888",
         "wk:page":"Orgov\u00e1ny"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237539,
+    "wof:lastmodified":1566650374,
     "wof:name":"Orgov\u00e1ny",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

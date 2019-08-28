@@ -10,8 +10,11 @@
     "geom:latitude":47.581398,
     "geom:longitude":21.342923,
     "iso:country":"HU",
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "name:ara_x_preferred":[
         "\u0634\u0645\u0627\u0644 \u0627\u0644\u0633\u0647\u0644 \u0627\u0644\u0639\u0638\u064a\u0645"
     ],
@@ -128,7 +131,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1563237652,
+    "wof:lastmodified":1566650433,
     "wof:name":"Northern Great Plain",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

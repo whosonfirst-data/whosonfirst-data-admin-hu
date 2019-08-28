@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.70001,46.78067,16.74001,46.82067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Csonkahegyh\u00e1t"
     ],
@@ -53,9 +57,6 @@
         "Csonkahegyh\u00e1t"
     ],
     "name:slv_x_preferred":[
-        "Csonkahegyh\u00e1t"
-    ],
-    "name:und_x_variant":[
         "Csonkahegyh\u00e1t"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1192976403,
-    "wof:lastmodified":1564160652,
+    "wof:lastmodified":1566649957,
     "wof:name":"Csonkahegyhat",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

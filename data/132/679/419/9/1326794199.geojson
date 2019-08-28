@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"17.44419,46.46927,17.48419,46.50927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u00fasv\u00e1ri \u0150rh\u00e1z",
         "B\u00fasv\u00e1r"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326794199,
-    "wof:lastmodified":1537626261,
+    "wof:lastmodified":1566649392,
     "wof:name":"Busvar",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

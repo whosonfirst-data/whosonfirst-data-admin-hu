@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.289835,
     "lbl:longitude":18.650454,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.289835,
     "mps:longitude":18.650454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cbk_zam_x_preferred":[
         "P\u00e1zm\u00e1nd"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"11643684-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046537,
         "gp:id":813637,
-        "qs:id":907120,
         "qs_pg:id":907120,
         "wd:id":"Q372938",
         "wk:page":"P\u00e1zm\u00e1nd"
@@ -121,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237337,
+    "wof:lastmodified":1566650308,
     "wof:name":"P\u00e1zm\u00e1nd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.450456,
     "lbl:longitude":16.794019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.450456,
     "mps:longitude":16.794019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Becsehely"
     ],
@@ -74,9 +77,6 @@
     "name:swe_x_preferred":[
         "Becsehely"
     ],
-    "name:unk_x_variant":[
-        "Pola"
-    ],
     "name:vie_x_preferred":[
         "Becsehely"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":13,
     "wof:belongsto":[
@@ -116,7 +116,6 @@
         "fct:id":"1162851e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055255,
         "gp:id":803608,
-        "qs:id":183533,
         "qs_pg:id":183533,
         "wd:id":"Q791775",
         "wk:page":"Becsehely"
@@ -136,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237038,
+    "wof:lastmodified":1566650214,
     "wof:name":"Becsehely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

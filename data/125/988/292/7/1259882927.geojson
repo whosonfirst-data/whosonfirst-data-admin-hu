@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"18.28249,46.27551,18.32249,46.31551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "K\u00f6bl\u00e9ny"
     ],
@@ -61,9 +65,6 @@
     "name:slv_x_preferred":[
         "K\u00f6bl\u00e9ny"
     ],
-    "name:und_x_variant":[
-        "K\u00f6bl\u00e9ny"
-    ],
     "name:vie_x_preferred":[
         "K\u00f6bl\u00e9ny"
     ],
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1259882927,
-    "wof:lastmodified":1564161242,
+    "wof:lastmodified":1566650704,
     "wof:name":"Kobleny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

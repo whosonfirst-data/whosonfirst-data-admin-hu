@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.549848,
     "lbl:longitude":17.753351,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.549848,
     "mps:longitude":17.753351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pannonhalma"
     ],
@@ -118,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u043d\u043e\u043d\u0433\u0430\u043b\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Gy\u0151rszentm\u00e1rton"
-    ],
     "name:vie_x_preferred":[
         "Pannonhalma"
     ],
@@ -146,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":772,
     "wof:belongsto":[
@@ -160,7 +160,6 @@
         "fct:id":"11642fcc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3046693,
         "gp:id":813471,
-        "qs:id":491710,
         "qs_pg:id":491710,
         "wd:id":"Q650015",
         "wk:page":"Pannonhalma"
@@ -180,7 +179,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237468,
+    "wof:lastmodified":1566650352,
     "wof:name":"Pannonhalma",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

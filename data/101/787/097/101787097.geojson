@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.447581,
     "lbl:longitude":19.691071,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.447581,
     "mps:longitude":19.691071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Szentm\u00e1rtonk\u00e1ta"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"1164a4fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3044567,
         "gp:id":815715,
-        "qs:id":1042831,
         "qs_pg:id":1042831,
         "wd:id":"Q1186519",
         "wk:page":"Szentm\u00e1rtonk\u00e1ta"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237479,
+    "wof:lastmodified":1566650355,
     "wof:name":"Szentm\u00e1rtonk\u00e1ta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

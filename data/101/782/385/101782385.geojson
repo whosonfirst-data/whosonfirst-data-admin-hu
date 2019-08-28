@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.042514,
     "lbl:longitude":22.366839,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.042514,
     "mps:longitude":22.366839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0437\u0430\u043c\u043e\u0441\u0437\u0435\u0433"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"116491a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":715518,
         "gp:id":815361,
-        "qs:id":1270502,
         "qs_pg:id":1270502,
         "wd:id":"Q1186706",
         "wk:page":"Szamosszeg"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237170,
+    "wof:lastmodified":1566650257,
     "wof:name":"Szamosszeg",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

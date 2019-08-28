@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18177359.219106,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.950685,46.179557,18.950685,46.179557",
     "geom:latitude":46.179557,
     "geom:longitude":18.950685,
     "gn:latitude":46.18333,
     "gn:longitude":18.96667,
     "iso:country":"HU",
+    "lbl:bbox":"18.945685,46.174557,18.955685,46.184557",
     "lbl:latitude":46.179557,
     "lbl:longitude":18.950685,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.180584,
     "mps:longitude":18.957275,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Lap"
     ],
     "name:hun_x_preferred":[
-        "L\u00e1p"
-    ],
-    "name:unk_x_variant":[
         "L\u00e1p"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -63,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684859,
         102191581,
         85633237,
         404227487,
-        101790501
+        101790501,
+        85684859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3048962,
         "gp:id":810936,
-        "qs:id":235303,
         "qs_pg:id":235303
     },
     "wof:country":"HU",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932455,
+    "wof:lastmodified":1566649584,
     "wof:name":"L\u00e1p",
     "wof:parent_id":101790501,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.623672,
     "lbl:longitude":19.047226,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.623672,
     "mps:longitude":19.047226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043a\u0430\u043b\u0430\u0441"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"1162a6d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054651,
         "gp:id":804361,
-        "qs:id":491571,
         "qs_pg:id":491571,
         "wd:id":"Q850935",
         "wk:page":"Budakal\u00e1sz"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236932,
+    "wof:lastmodified":1566650180,
     "wof:name":"Budakal\u00e1sz",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

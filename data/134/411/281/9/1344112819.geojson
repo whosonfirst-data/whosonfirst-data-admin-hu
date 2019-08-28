@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"16.94459,46.9547,16.98459,46.9947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Herbatfa",
         "Hervadtfa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344112819,
-    "wof:lastmodified":1537626240,
+    "wof:lastmodified":1566649528,
     "wof:name":"Hervadtfa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

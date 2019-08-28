@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.980157,
     "lbl:longitude":21.796128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.980157,
     "mps:longitude":21.796128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00edrpazony"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
         "fct:id":"11641500-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":716899,
         "gp:id":812934,
-        "qs:id":128884,
         "qs_pg:id":128884,
         "wd:id":"Q514273",
         "wk:page":"Ny\u00edrpazony"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237218,
+    "wof:lastmodified":1566650273,
     "wof:name":"Ny\u00edrpazony",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

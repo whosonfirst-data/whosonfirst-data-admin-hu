@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.47642,
     "lbl:longitude":18.829373,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.47642,
     "mps:longitude":18.829373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Biatorb\u00e1gy"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -128,7 +131,6 @@
         "fct:id":"116290d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3055038,
         "gp:id":803903,
-        "qs:id":887855,
         "qs_pg:id":887855,
         "wd:id":"Q736635",
         "wk:page":"Biatorb\u00e1gy"
@@ -148,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237485,
+    "wof:lastmodified":1566650357,
     "wof:name":"Biatorb\u00e1gy",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

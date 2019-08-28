@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":46.478797,
     "lbl:longitude":18.572348,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.478797,
     "mps:longitude":18.572348,
     "mz:hierarchy_label":1,
@@ -210,9 +211,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043b\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tolna County"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0644\u0646\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -304,9 +302,9 @@
     "qs:type":"Megye",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-01",
+    "src:population_date":"2011-10-01",
     "statoids:area_km":"3,607",
     "statoids:area_mi":"1,393",
     "statoids:as_of_date":"2011-10-01",
@@ -353,11 +351,10 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1565714758,
+    "wof:lastmodified":1566649594,
     "wof:name":"Tolna",
     "wof:parent_id":404227491,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":196065,
     "wof:population_rank":9,

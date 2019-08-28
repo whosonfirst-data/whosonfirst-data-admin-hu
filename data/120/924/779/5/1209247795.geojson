@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Budapest",
     "iso:country":"HU",
+    "lbl:bbox":"21.64667,48.18,21.68667,48.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "B\u00e1lv\u00e1nyosf\u00fcrd\u0151"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209247795,
-    "wof:lastmodified":1564160524,
+    "wof:lastmodified":1566649864,
     "wof:name":"Balvanyos",
     "wof:parent_id":85633237,
     "wof:placetype":"locality",

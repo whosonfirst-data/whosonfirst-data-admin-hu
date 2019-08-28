@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":48.151795,
     "lbl:longitude":20.795148,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.151795,
     "mps:longitude":20.795148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Szirmabeseny\u0151"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
     "wof:concordances":{
         "gn:id":715199,
         "gp:id":815904,
-        "qs:id":183931,
         "qs_pg:id":183931,
         "wd:id":"Q248566",
         "wk:page":"Szirmabeseny\u0151"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":101783641,
-    "wof:lastmodified":1563237236,
+    "wof:lastmodified":1566650279,
     "wof:name":"Szirmabeseny\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

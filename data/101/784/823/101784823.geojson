@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.884764,
     "lbl:longitude":21.057197,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.884764,
     "mps:longitude":21.057197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tiszapalkonya"
     ],
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,6 @@
         "fct:id":"1164d1a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714728,
         "gp:id":816560,
-        "qs:id":975019,
         "qs_pg:id":975019,
         "wd:id":"Q1016742",
         "wk:page":"Tiszapalkonya"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237279,
+    "wof:lastmodified":1566650293,
     "wof:name":"Tiszapalkonya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

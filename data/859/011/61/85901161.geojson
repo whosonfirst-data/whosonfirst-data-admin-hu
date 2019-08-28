@@ -13,6 +13,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.459201,
     "lbl:longitude":19.140087,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.459664,
     "mps:longitude":19.136581,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:hun_x_preferred":[
-        "Klein-Pest"
-    ],
-    "name:unk_x_variant":[
         "Klein-Pest"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":810131,
-        "qs:id":1194356,
         "qs_pg:id":1194356
     },
     "wof:country":"HU",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247545,
+    "wof:lastmodified":1566649579,
     "wof:name":"Klein-Pest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

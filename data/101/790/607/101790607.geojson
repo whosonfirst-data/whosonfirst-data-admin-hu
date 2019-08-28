@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.387605,
     "lbl:longitude":20.870766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.387605,
     "mps:longitude":20.870766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "V\u00e9gegyh\u00e1za"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         "fct:id":"1164fdda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":714149,
         "gp:id":817610,
-        "qs:id":208380,
+        "qs_pg:id":208380,
         "wd:id":"Q1075967",
         "wk:page":"V\u00e9gegyh\u00e1za"
     },
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236912,
+    "wof:lastmodified":1566650174,
     "wof:name":"V\u00e9gegyh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

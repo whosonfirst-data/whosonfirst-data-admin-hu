@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.821528,
     "lbl:longitude":20.906758,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.821528,
     "mps:longitude":20.906758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mez\u0151cs\u00e1t"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":282,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":717667,
         "gp:id":811900,
-        "qs:id":975005,
         "qs_pg:id":975005,
         "wd:id":"Q304803",
         "wk:page":"Mez\u0151cs\u00e1t"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101784835,
-    "wof:lastmodified":1563237263,
+    "wof:lastmodified":1566650287,
     "wof:name":"Mez\u0151cs\u00e1t",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.350473,
     "lbl:longitude":18.327902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.350473,
     "mps:longitude":18.327902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cs\u00e1kber\u00e9ny"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":17,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"1162b08e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3054439,
         "gp:id":804581,
-        "qs:id":887850,
         "qs_pg:id":887850,
         "wd:id":"Q222994",
         "wk:page":"Cs\u00e1kber\u00e9ny"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237417,
+    "wof:lastmodified":1566650335,
     "wof:name":"Cs\u00e1kber\u00e9ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

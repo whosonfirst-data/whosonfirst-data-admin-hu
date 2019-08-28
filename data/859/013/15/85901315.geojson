@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10558907.48274,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.866272,47.366202,18.866272,47.366202",
     "geom:latitude":47.366202,
     "geom:longitude":18.866272,
     "gn:latitude":47.36667,
     "gn:longitude":18.86667,
     "iso:country":"HU",
+    "lbl:bbox":"18.861272,47.361202,18.871272,47.371202",
     "lbl:latitude":47.366202,
     "lbl:longitude":18.866272,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.369002,
     "mps:longitude":18.860659,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
         "Toroktanya"
     ],
     "name:hun_x_preferred":[
-        "T\u00f6r\u00f6ktanya"
-    ],
-    "name:unk_x_variant":[
         "T\u00f6r\u00f6ktanya"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -64,19 +63,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684899,
         102191581,
         85633237,
         404227489,
-        101754557
+        101754557,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3043763,
         "gp:id":816746,
-        "qs:id":910528,
         "qs_pg:id":910528
     },
     "wof:country":"HU",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932474,
+    "wof:lastmodified":1566649575,
     "wof:name":"T\u00f6r\u00f6ktanya",
     "wof:parent_id":101754557,
     "wof:placetype":"neighbourhood",

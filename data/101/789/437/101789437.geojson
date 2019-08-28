@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":47.076863,
     "lbl:longitude":18.687707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.076863,
     "mps:longitude":18.687707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cbk_zam_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
-    "name:unk_x_variant":[
-        "Szolgaegyh\u00e1za"
-    ],
     "name:vie_x_preferred":[
         "Szabadegyh\u00e1za"
     ],
@@ -97,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -110,7 +110,7 @@
         "fct:id":"1164890e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3045037,
         "gp:id":815200,
-        "qs:id":183910,
+        "qs_pg:id":183910,
         "wd:id":"Q303130",
         "wk:page":"Szabadegyh\u00e1za"
     },
@@ -129,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563237531,
+    "wof:lastmodified":1566650371,
     "wof:name":"Szabadegyh\u00e1za",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

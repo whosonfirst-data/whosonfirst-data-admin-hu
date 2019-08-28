@@ -12,10 +12,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.418528,
     "lbl:longitude":19.840606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.418528,
     "mps:longitude":19.840606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
@@ -65,9 +68,6 @@
     "name:slv_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
-    "name:unk_x_variant":[
-        "Cs\u00f3lyosp\u00e1lospuszta"
-    ],
     "name:vie_x_preferred":[
         "Cs\u00f3lyosp\u00e1los"
     ],
@@ -89,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,7 @@
         "fct:id":"1162c1be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3053984,
         "gp:id":805098,
-        "qs:id":939452,
+        "qs_pg:id":939452,
         "wd:id":"Q633296",
         "wk:page":"Cs\u00f3lyosp\u00e1los"
     },
@@ -121,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1563236923,
+    "wof:lastmodified":1566650178,
     "wof:name":"Cs\u00f3lyosp\u00e1los",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

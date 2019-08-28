@@ -14,6 +14,7 @@
     "iso:country":"HU",
     "lbl:latitude":47.525981,
     "lbl:longitude":19.166748,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.538943,
     "mps:longitude":19.169093,
     "mz:hierarchy_label":1,
@@ -65,9 +66,6 @@
     "name:swe_x_preferred":[
         "Budapests pendelt\u00e5g"
     ],
-    "name:unk_x_variant":[
-        "R\u00e1kosszentmih\u00e1ly"
-    ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3054643,
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3045960,
         "gp:id":814266,
-        "qs:id":496787,
         "qs_pg:id":496787
     },
     "wof:country":"HU",
@@ -126,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566247546,
+    "wof:lastmodified":1566649570,
     "wof:name":"Rakosszentmihaly",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

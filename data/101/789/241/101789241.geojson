@@ -13,10 +13,13 @@
     "iso:country":"HU",
     "lbl:latitude":46.861615,
     "lbl:longitude":19.877351,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.861615,
     "mps:longitude":19.877351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ny\u00e1rl\u0151rinc"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":3047309,
         "gp:id":812850,
-        "qs:id":279617,
         "qs_pg:id":279617,
         "wd:id":"Q1051493",
         "wk:page":"Ny\u00e1rl\u0151rinc"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":101789241,
-    "wof:lastmodified":1563237568,
+    "wof:lastmodified":1566650384,
     "wof:name":"Ny\u00e1rl\u0151rinc",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

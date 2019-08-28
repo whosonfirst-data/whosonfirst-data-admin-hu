@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2218401.231,
+    "geom:area_square_m":0.0,
     "geom:bbox":"20.272522,46.636238,20.272522,46.636238",
     "geom:latitude":46.636238,
     "geom:longitude":20.272522,
     "gn:latitude":46.65,
     "gn:longitude":20.26667,
     "iso:country":"HU",
+    "lbl:bbox":"20.267522,46.631238,20.277522,46.641238",
     "lbl:latitude":46.636238,
     "lbl:longitude":20.272522,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.634291,
     "mps:longitude":20.272074,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:hun_x_preferred":[
-        "Vekerzug"
-    ],
-    "name:unk_x_variant":[
         "Vekerzug"
     ],
     "qs:gn_adm0_cc":"HU",
@@ -60,19 +59,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85684855,
         102191581,
         85633237,
         404227487,
-        101790385
+        101790385,
+        85684855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":714138,
         "gp:id":817628,
-        "qs:id":221101,
         "qs_pg:id":221101
     },
     "wof:country":"HU",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1531932478,
+    "wof:lastmodified":1566649575,
     "wof:name":"Vekerzug",
     "wof:parent_id":101790385,
     "wof:placetype":"neighbourhood",
