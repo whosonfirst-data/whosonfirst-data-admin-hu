@@ -39,7 +39,7 @@
         "Kiskunhalas"
     ],
     "name:eng_x_preferred":[
-        "Kiskunhalos"
+        "Kiskunhalas"
     ],
     "name:eng_x_variant":[
         "Kiskunhalas"
@@ -201,10 +201,13 @@
         }
     ],
     "wof:id":101790519,
-    "wof:lang":[
+    "wof:lang_x_official":[
         "hun"
     ],
-    "wof:lastmodified":1566650160,
+    "wof:lang_x_spoken":[
+        "hun"
+    ],
+    "wof:lastmodified":1574293017,
     "wof:name":"Kiskunhalas",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",
