@@ -112,6 +112,9 @@
         "wk:page":"Etyek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a35b370d2b87608e61436cb035548ee",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650343,
+    "wof:lastmodified":1582345345,
     "wof:name":"Etyek",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

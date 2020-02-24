@@ -108,6 +108,9 @@
         "wk:page":"Gy\u00fcre"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"562a55bd9837abe117b9227459962ece",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"Gy\u00fcre",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

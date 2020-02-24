@@ -112,6 +112,9 @@
         "wk:page":"Orgov\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6bb546d10f509e4b812f1b2aa3d39df",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650374,
+    "wof:lastmodified":1582345349,
     "wof:name":"Orgov\u00e1ny",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

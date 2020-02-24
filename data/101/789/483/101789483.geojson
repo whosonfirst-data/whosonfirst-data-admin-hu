@@ -105,6 +105,9 @@
         "wk:page":"Mez\u0151falva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4639b3bf7bb32987ed60a96f3024be3",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101789483,
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345348,
     "wof:name":"Mez\u0151falva",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

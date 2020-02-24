@@ -115,6 +115,9 @@
         "wk:page":"B\u00e1tya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a86082827d71e30df85d8fe9f3a926aa",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650166,
+    "wof:lastmodified":1582345321,
     "wof:name":"B\u00e1tya",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"J\u00e1nosh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b6232efb012e70afa3e0c86aaa0b19d",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650390,
+    "wof:lastmodified":1582345351,
     "wof:name":"J\u00e1nosh\u00e1za",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

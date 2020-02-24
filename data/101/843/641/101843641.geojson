@@ -109,6 +109,9 @@
         "wk:page":"Kisl\u00e9ta"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1bc124467d6c2eab93155435938d2932",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650201,
+    "wof:lastmodified":1582345326,
     "wof:name":"Kisl\u00e9ta",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

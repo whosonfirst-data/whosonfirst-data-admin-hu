@@ -130,6 +130,9 @@
         "wk:page":"J\u00e1k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0152778223c172bb6a3fc79ae15572d",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650373,
+    "wof:lastmodified":1582345349,
     "wof:name":"J\u00e1k",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

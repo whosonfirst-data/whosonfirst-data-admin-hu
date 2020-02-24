@@ -93,6 +93,9 @@
         "wd:id":"Q588997"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b149f20b9e1752f92fede1e2cf807183",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650361,
+    "wof:lastmodified":1582345347,
     "wof:name":"Visonta",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -429,6 +429,9 @@
         "wk:page":"Szombathely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e236737f54ea1aa2b5016090686952cf",
     "wof:hierarchy":[
         {
@@ -441,7 +444,7 @@
         }
     ],
     "wof:id":85906275,
-    "wof:lastmodified":1566649576,
+    "wof:lastmodified":1582345309,
     "wof:name":"Her\u00e9ny",
     "wof:parent_id":101751689,
     "wof:placetype":"neighbourhood",

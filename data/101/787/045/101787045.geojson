@@ -101,6 +101,9 @@
         "wk:page":"\u00dajlengyel"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"367cb0535e034c99716b3c54519e1d21",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650357,
+    "wof:lastmodified":1582345347,
     "wof:name":"\u00dajlengyel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

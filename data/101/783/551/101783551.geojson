@@ -109,6 +109,9 @@
         "wk:page":"Ny\u00edrgyulaj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce15926342196070314c0b5eeea81532",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650265,
+    "wof:lastmodified":1582345334,
     "wof:name":"Ny\u00edrgyulaj",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

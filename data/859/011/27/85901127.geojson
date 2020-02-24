@@ -77,6 +77,10 @@
         "qs_pg:id":887867
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85a497c1faffc9d70d30cf63b9e50fe4",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649581,
+    "wof:lastmodified":1582345309,
     "wof:name":"Homokgy\u0151r",
     "wof:parent_id":101790505,
     "wof:placetype":"neighbourhood",

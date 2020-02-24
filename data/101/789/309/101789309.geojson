@@ -152,6 +152,9 @@
         "wk:page":"Szentgotth\u00e1rd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6c3f7e612ac91194e2755e80b50d0ea",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101789309,
-    "wof:lastmodified":1566650364,
+    "wof:lastmodified":1582345348,
     "wof:name":"Szentgotth\u00e1rd",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

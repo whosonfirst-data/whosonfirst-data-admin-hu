@@ -101,6 +101,9 @@
         "wk:page":"M\u00e1rianosztra"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34b7c72ecd5c5e08e096508abec35382",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650363,
+    "wof:lastmodified":1582345347,
     "wof:name":"M\u00e1rianosztra",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

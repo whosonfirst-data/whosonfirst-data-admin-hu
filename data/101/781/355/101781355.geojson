@@ -131,6 +131,9 @@
         "wk:page":"P\u00e1lh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2724add9c99efb6caa34d2a5c5c5c18e",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650336,
+    "wof:lastmodified":1582345344,
     "wof:name":"P\u00e1lh\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

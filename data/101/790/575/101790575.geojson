@@ -112,6 +112,9 @@
         "wk:page":"K\u00e9tegyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6390f5d3da9e3d52ba57e4ec94a9dc8",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650161,
+    "wof:lastmodified":1582345321,
     "wof:name":"K\u00e9tegyh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

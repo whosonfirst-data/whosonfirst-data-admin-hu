@@ -118,6 +118,9 @@
         "wk:page":"Bog\u00e1cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ff1b1d59decffe31c6147cc97a06327",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650294,
+    "wof:lastmodified":1582345338,
     "wof:name":"Bog\u00e1cs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

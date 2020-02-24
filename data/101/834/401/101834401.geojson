@@ -121,6 +121,9 @@
         "wk:page":"Balatonfenyves"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03775c36315e48810efbf8a8bfd5248f",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650232,
+    "wof:lastmodified":1582345330,
     "wof:name":"Balatonfenyves",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

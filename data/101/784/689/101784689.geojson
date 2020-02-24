@@ -120,6 +120,9 @@
         "wd:id":"Q1030385"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34175399ee4e94aa4b66995ab7297522",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650286,
+    "wof:lastmodified":1582345337,
     "wof:name":"Gy\u00f6ngy\u00f6spata",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

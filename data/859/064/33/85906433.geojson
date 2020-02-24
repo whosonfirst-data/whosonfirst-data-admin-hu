@@ -81,6 +81,9 @@
         "wk:page":"\u00dajpalota"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"75f41f7894068ebf5abffafbcf8baf43",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649577,
+    "wof:lastmodified":1582345309,
     "wof:name":"Ujpalota",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

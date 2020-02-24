@@ -109,6 +109,9 @@
         "wk:page":"Tiszaszentimre"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc9d0bd35455c247faefa2e333b7f097",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650344,
+    "wof:lastmodified":1582345345,
     "wof:name":"Tiszaszentimre",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

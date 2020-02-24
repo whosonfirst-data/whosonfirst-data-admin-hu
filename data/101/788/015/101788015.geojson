@@ -127,6 +127,9 @@
         "wk:page":"Kerekegyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c44bf18810818b32154a6c2e9c8731fa",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650309,
+    "wof:lastmodified":1582345340,
     "wof:name":"Kerekegyh\u00e1za",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

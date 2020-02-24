@@ -120,6 +120,9 @@
         "wk:page":"S\u00e1rmell\u00e9k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6bace9305b7c1af9d0df42f9c8e31c44",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650176,
+    "wof:lastmodified":1582345323,
     "wof:name":"S\u00e1rmell\u00e9k",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

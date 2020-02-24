@@ -102,6 +102,10 @@
         "wk:page":"Kapospula"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"daad68c1fbdd30ef9c5106986f89fe25",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":101875763,
-    "wof:lastmodified":1566650193,
+    "wof:lastmodified":1582345325,
     "wof:name":"Kapospula",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

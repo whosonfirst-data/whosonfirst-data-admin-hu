@@ -131,6 +131,9 @@
         "wk:page":"Abda, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6ea559704631d9255dc8db3221db9c5",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650349,
+    "wof:lastmodified":1582345346,
     "wof:name":"Abda",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

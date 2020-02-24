@@ -137,6 +137,9 @@
         "wk:page":"Battonya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b652e20bed5e3266ff418e03c446990",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650167,
+    "wof:lastmodified":1582345322,
     "wof:name":"Battonya",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

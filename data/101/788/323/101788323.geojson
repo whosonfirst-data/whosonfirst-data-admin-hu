@@ -109,6 +109,9 @@
         "wk:page":"D\u00e1nszentmikl\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cccf3afd6199340285cf5a5d8d97f2c",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650318,
+    "wof:lastmodified":1582345342,
     "wof:name":"D\u00e1nszentmikl\u00f3s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -97,6 +97,9 @@
         "wk:page":"Tokodalt\u00e1r\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5e7d89fbaf8223dc5af3321aa359ed5",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650228,
+    "wof:lastmodified":1582345329,
     "wof:name":"Tokodalt\u00e1r\u00f3",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

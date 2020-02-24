@@ -109,6 +109,9 @@
         "wk:page":"Cece, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9eb801818430bbb5fe87eddcbac853fc",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345348,
     "wof:name":"Cece",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

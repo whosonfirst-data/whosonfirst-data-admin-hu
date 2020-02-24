@@ -114,6 +114,9 @@
         "wk:page":"\u0150rbotty\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a39a2476978418649f8921715d6e0ff",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101833341,
-    "wof:lastmodified":1566650223,
+    "wof:lastmodified":1582345328,
     "wof:name":"\u0150rbotty\u00e1n",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

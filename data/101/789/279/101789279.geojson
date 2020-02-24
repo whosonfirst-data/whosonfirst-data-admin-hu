@@ -163,6 +163,9 @@
         "wk:page":"Kiskunf\u00e9legyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"509e332c00510d4e336074514ab48a4a",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650384,
+    "wof:lastmodified":1582345350,
     "wof:name":"Kiskunf\u00e9legyh\u00e1za",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

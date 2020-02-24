@@ -112,6 +112,9 @@
         "wk:page":"Ny\u00fal"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54e60845411c73998fb4633310c855e1",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650228,
+    "wof:lastmodified":1582345329,
     "wof:name":"Ny\u00fal",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Kakucs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"825d12a565fc15f24b52809d27b60ed5",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650305,
+    "wof:lastmodified":1582345340,
     "wof:name":"Kakucs",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

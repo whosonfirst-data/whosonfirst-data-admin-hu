@@ -115,6 +115,9 @@
         "wk:page":"Csan\u00e1dpalota"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fefcdf48f17c51fcbb2518ff41687d7",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650173,
+    "wof:lastmodified":1582345322,
     "wof:name":"Csan\u00e1dpalota",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

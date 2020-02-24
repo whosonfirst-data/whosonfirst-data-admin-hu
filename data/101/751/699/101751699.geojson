@@ -439,6 +439,9 @@
         "wk:page":"Sz\u00e9kesfeh\u00e9rv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a612f9a3b66d02ddc0122dffc069d103",
     "wof:hierarchy":[
         {
@@ -453,7 +456,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650302,
+    "wof:lastmodified":1582345339,
     "wof:name":"Sz\u00e9kesfeh\u00e9rv\u00e1r",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

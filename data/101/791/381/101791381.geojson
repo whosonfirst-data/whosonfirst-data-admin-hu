@@ -136,6 +136,9 @@
         "wk:page":"Hark\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac7ee27c1cae87befcc9bccc1153435f",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650189,
+    "wof:lastmodified":1582345324,
     "wof:name":"Hark\u00e1ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"B\u00fckk\u00f6sd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b42eb4dd8f2a208408fea7b6f8a5be63",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650213,
+    "wof:lastmodified":1582345327,
     "wof:name":"B\u00fckk\u00f6sd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

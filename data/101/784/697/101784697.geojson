@@ -120,6 +120,9 @@
         "wk:page":"Abas\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8da126195c33847f345184dd1624f74",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650296,
+    "wof:lastmodified":1582345338,
     "wof:name":"Abas\u00e1r",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

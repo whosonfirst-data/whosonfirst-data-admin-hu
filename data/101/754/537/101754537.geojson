@@ -131,6 +131,9 @@
         "wk:page":"Budakal\u00e1sz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"292fc874fa06a10929ae13c3357c8e18",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650180,
+    "wof:lastmodified":1582345323,
     "wof:name":"Budakal\u00e1sz",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

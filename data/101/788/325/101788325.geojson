@@ -158,6 +158,9 @@
         "wk:page":"Dabas, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48304d7e225adb6380d92e28d2d3a8c2",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650320,
+    "wof:lastmodified":1582345342,
     "wof:name":"Dabas",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

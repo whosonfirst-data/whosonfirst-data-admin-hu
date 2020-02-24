@@ -127,6 +127,9 @@
         "wk:page":"\u00dajpest"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51cea2d23c73177edc47fa1c45138d80",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649566,
+    "wof:lastmodified":1582345307,
     "wof:name":"Neu-Pest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

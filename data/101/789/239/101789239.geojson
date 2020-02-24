@@ -116,6 +116,9 @@
         "wk:page":"Ball\u00f3sz\u00f6g"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed24d4d2ad7e0ca4b9771bba9c7333ec",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650389,
+    "wof:lastmodified":1582345351,
     "wof:name":"Ball\u00f3sz\u00f6g",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"B\u00e1bolna"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ababd18dc8a94dbe94c2ae1390b7383f",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650346,
+    "wof:lastmodified":1582345345,
     "wof:name":"B\u00e1bolna",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

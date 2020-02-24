@@ -456,6 +456,10 @@
         "wk:page":"P\u00e9cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d14ed81d5b684c1518e58967c770730",
     "wof:hierarchy":[
         {
@@ -468,7 +472,7 @@
         }
     ],
     "wof:id":85906273,
-    "wof:lastmodified":1566649576,
+    "wof:lastmodified":1582345309,
     "wof:name":"Fuenfkirchen",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

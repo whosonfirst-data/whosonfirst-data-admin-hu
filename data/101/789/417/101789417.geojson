@@ -109,6 +109,9 @@
         "wk:page":"Nagysz\u00e9n\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e3aefb960db3c89f6c6aa715147183b",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650384,
+    "wof:lastmodified":1582345350,
     "wof:name":"Nagysz\u00e9n\u00e1s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

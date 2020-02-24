@@ -108,6 +108,9 @@
         "wd:id":"Q288638"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2dc3673b29880008c5127d8f19095eb",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650298,
+    "wof:lastmodified":1582345338,
     "wof:name":"\u00c9rsekvadkert",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

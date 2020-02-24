@@ -148,6 +148,9 @@
         "wk:page":"Dorog"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c81fa8582f5efa9ab06fa738b0981adc",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"Dorog",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

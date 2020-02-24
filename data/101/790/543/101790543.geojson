@@ -122,6 +122,9 @@
         "wk:page":"Kissz\u00e1ll\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42bd25366f4930dbf9006a8cd7ab95aa",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650161,
+    "wof:lastmodified":1582345321,
     "wof:name":"Kissz\u00e1ll\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

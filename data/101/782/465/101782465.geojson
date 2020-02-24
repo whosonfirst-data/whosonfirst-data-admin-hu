@@ -134,6 +134,9 @@
         "wk:page":"Sziksz\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aba37c5583f488f95f3a921e06e2771c",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650256,
+    "wof:lastmodified":1582345333,
     "wof:name":"Sziksz\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

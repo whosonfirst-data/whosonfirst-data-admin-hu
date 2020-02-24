@@ -110,6 +110,9 @@
         "wk:page":"Dar\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5bd22af5b2f650cc8e04991302081b02",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650207,
+    "wof:lastmodified":1582345326,
     "wof:name":"Dar\u00e1ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

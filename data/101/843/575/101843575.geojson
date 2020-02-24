@@ -102,6 +102,9 @@
         "wd:id":"Q1057383"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"53b73b381a09318e9f713ee68be95aaf",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101843575,
-    "wof:lastmodified":1566650198,
+    "wof:lastmodified":1582345326,
     "wof:name":"H\u00e9halom",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "wk:page":"Kom\u00e1di"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea0f9a2540f2947cb74be0a1d11765e5",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650379,
+    "wof:lastmodified":1582345350,
     "wof:name":"Kom\u00e1di",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

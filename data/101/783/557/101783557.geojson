@@ -112,6 +112,9 @@
         "wk:page":"Tiszadada"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e335d9a84e9b0fcc978679817189557d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650267,
+    "wof:lastmodified":1582345334,
     "wof:name":"Tiszadada",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

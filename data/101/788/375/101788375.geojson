@@ -106,6 +106,9 @@
         "wk:page":"Nagyr\u00e1b\u00e9"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d0ba7ba1b65206766d9dee20b8273fd",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650335,
+    "wof:lastmodified":1582345343,
     "wof:name":"Nagyr\u00e1b\u00e9",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

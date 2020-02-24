@@ -100,6 +100,9 @@
         "wk:page":"P\u00e9tf\u00fcrd\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ab2450a5ba0762cdbcffc6e22cecbed",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101788087,
-    "wof:lastmodified":1566650324,
+    "wof:lastmodified":1582345342,
     "wof:name":"P\u00e9tf\u00fcrd\u0151",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

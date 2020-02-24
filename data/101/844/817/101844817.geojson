@@ -148,6 +148,9 @@
         "wk:page":"P\u00e9csv\u00e1rad"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3915ef011c37a51b123ab23b18b551e",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650205,
+    "wof:lastmodified":1582345326,
     "wof:name":"P\u00e9csv\u00e1rad",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

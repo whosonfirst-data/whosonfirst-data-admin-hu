@@ -107,6 +107,9 @@
         "wk:page":"Nagyigm\u00e1nd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"136ef8c8a14f0069568333b84f1e3547",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650214,
+    "wof:lastmodified":1582345327,
     "wof:name":"Nagyigm\u00e1nd",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Tiszadob"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15289b9798d04eb1cef741e4074d44f6",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650276,
+    "wof:lastmodified":1582345335,
     "wof:name":"Tiszadob",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

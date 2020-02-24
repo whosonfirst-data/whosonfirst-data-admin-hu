@@ -118,6 +118,9 @@
         "wk:page":"Ajak (Hungary)"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2d55f19f87ecc493eceb5284a8c035b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650262,
+    "wof:lastmodified":1582345334,
     "wof:name":"Ajak",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

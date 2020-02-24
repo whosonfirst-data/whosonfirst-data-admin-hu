@@ -127,6 +127,9 @@
         "wk:page":"Borsodn\u00e1dasd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4fafb1b1c96190130dbae3b28151c5de",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650277,
+    "wof:lastmodified":1582345336,
     "wof:name":"Borsodn\u00e1dasd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

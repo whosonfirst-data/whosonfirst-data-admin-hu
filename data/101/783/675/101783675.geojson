@@ -121,6 +121,9 @@
         "wk:page":"Tiszal\u00fac"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff7f92b959becfcaa312f97822fd0378",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650267,
+    "wof:lastmodified":1582345334,
     "wof:name":"Tiszal\u00fac",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

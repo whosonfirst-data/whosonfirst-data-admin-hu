@@ -190,6 +190,9 @@
         "wk:page":"Cegl\u00e9d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6759830dad4d3a5dc8d6563935472028",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650306,
+    "wof:lastmodified":1582345340,
     "wof:name":"Cegl\u00e9d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

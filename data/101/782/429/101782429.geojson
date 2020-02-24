@@ -115,6 +115,9 @@
         "wk:page":"Saj\u00f3kaza"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72f608214025adb63010b28610520f44",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650260,
+    "wof:lastmodified":1582345333,
     "wof:name":"Saj\u00f3kaza",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

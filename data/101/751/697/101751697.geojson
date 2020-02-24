@@ -408,6 +408,9 @@
         "wk:page":"B\u00e9k\u00e9scsaba"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"203c7fea57a55149a4ab61e55ed8a9ad",
     "wof:hierarchy":[
         {
@@ -422,7 +425,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650302,
+    "wof:lastmodified":1582345339,
     "wof:name":"B\u00e9k\u00e9scsaba",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

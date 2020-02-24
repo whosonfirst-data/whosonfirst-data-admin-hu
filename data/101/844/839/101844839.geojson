@@ -110,6 +110,9 @@
         "wk:page":"Nagyhars\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83d52d09bdebf7818eebcce789006c34",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650214,
+    "wof:lastmodified":1582345327,
     "wof:name":"Nagyhars\u00e1ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

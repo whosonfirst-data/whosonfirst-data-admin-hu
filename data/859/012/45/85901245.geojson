@@ -267,6 +267,9 @@
         "wk:page":"Pest, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6503e7027e5ad651f2f4ee5e2e9e091",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649567,
+    "wof:lastmodified":1582345307,
     "wof:name":"Pestj",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

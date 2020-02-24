@@ -113,6 +113,9 @@
         "wk:page":"Besenysz\u00f6g"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f6dea9db257053e4ffc83685741280d",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650311,
+    "wof:lastmodified":1582345341,
     "wof:name":"Besenysz\u00f6g",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -105,6 +105,9 @@
         "wk:page":"B\u0151s\u00e1rk\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"400db03058e68ad677d8b2184f03e760",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101786977,
-    "wof:lastmodified":1566650343,
+    "wof:lastmodified":1582345345,
     "wof:name":"B\u0151s\u00e1rk\u00e1ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

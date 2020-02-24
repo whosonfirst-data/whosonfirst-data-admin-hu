@@ -115,6 +115,9 @@
         "wk:page":"Hars\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f86a1073381c39c801c6790261624be",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650281,
+    "wof:lastmodified":1582345336,
     "wof:name":"Hars\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

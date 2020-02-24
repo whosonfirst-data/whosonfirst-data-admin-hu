@@ -117,6 +117,9 @@
         "wk:page":"L\u0151k\u00f6sh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"800f08fca62e4c8908b30bbd0740e39f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101790593,
-    "wof:lastmodified":1566650147,
+    "wof:lastmodified":1582345319,
     "wof:name":"L\u0151k\u00f6sh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

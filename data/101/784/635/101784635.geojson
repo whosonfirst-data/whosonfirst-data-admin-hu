@@ -107,6 +107,9 @@
         "wk:page":"Dunakiliti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eef1426b9d7f2fc99f583f4d7e4d95a5",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650288,
+    "wof:lastmodified":1582345337,
     "wof:name":"Dunakiliti",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

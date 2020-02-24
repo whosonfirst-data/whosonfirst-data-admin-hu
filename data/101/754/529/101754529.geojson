@@ -101,6 +101,9 @@
         "wk:page":"Szigetmonostor"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db053c5cd3f8d395c7699f8d5fd275fd",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"Szigetmonostor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

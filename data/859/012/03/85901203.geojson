@@ -72,6 +72,9 @@
         "qs_pg:id":1194349
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f77d79a6eb6d77987bf69862988dc9e",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649565,
+    "wof:lastmodified":1582345307,
     "wof:name":"Leninv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

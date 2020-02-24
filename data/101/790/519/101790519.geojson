@@ -190,6 +190,9 @@
         "wk:page":"Kiskunhalas"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef335ea13a9469ceffafebb280b8f0d9",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1574294603,
+    "wof:lastmodified":1582345321,
     "wof:name":"Kiskunhalas",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

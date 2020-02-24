@@ -112,6 +112,9 @@
         "wk:page":"Szada"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ad2aa367eaf31e50e8256f15d8567d0",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650238,
+    "wof:lastmodified":1582345331,
     "wof:name":"Szada",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

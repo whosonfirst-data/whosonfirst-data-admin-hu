@@ -105,6 +105,9 @@
         "wk:page":"Balatonszentgy\u00f6rgy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"752145e68de2b7cae20952334508e897",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650208,
+    "wof:lastmodified":1582345326,
     "wof:name":"Balatonszentgy\u00f6rgy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

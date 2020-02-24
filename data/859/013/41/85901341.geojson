@@ -68,6 +68,9 @@
         "qs_pg:id":1194378
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"895c55f0e04655bd933f6bde37362874",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649575,
+    "wof:lastmodified":1582345308,
     "wof:name":"Viranyos",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

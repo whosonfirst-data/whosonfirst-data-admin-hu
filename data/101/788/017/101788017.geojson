@@ -146,6 +146,9 @@
         "wk:page":"Tiszak\u00e9cske"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0316ce0ad659bc66dc717ae0fae6c94",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650327,
+    "wof:lastmodified":1582345342,
     "wof:name":"Tiszak\u00e9cske",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

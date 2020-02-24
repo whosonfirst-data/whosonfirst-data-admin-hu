@@ -113,6 +113,9 @@
         "wk:page":"S\u00fclys\u00e1p"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b2f2283e2fe266f55bf3e7dda3de748",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650354,
+    "wof:lastmodified":1582345346,
     "wof:name":"S\u00fclys\u00e1p",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

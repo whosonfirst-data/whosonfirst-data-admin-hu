@@ -112,6 +112,9 @@
         "wk:page":"K\u00e1ntorj\u00e1nosi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3fd69a77d66e2b2aaf4df9d5c4253ea",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650274,
+    "wof:lastmodified":1582345335,
     "wof:name":"K\u00e1ntorj\u00e1nosi",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

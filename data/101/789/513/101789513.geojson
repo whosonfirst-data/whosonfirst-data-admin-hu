@@ -122,6 +122,9 @@
         "wk:page":"\u00d6rk\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ecb8d890d3c44f22ab8a019e2084307",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650392,
+    "wof:lastmodified":1582345351,
     "wof:name":"\u00d6rk\u00e9ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

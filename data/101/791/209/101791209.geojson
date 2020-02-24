@@ -112,6 +112,9 @@
         "wk:page":"Szegv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a11f73290956a20a2c8a2f22dc4692f4",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650188,
+    "wof:lastmodified":1582345324,
     "wof:name":"Szegv\u00e1r",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

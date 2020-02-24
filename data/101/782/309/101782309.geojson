@@ -133,6 +133,9 @@
         "wk:page":"Feh\u00e9rgyarmat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"308e22d6ea26c71c4693482f398f685a",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650251,
+    "wof:lastmodified":1582345333,
     "wof:name":"Feh\u00e9rgyarmat",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Nagycserkesz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"453de540dd29e77e4a02c4b3582f6c2f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650282,
+    "wof:lastmodified":1582345336,
     "wof:name":"Nagycserkesz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

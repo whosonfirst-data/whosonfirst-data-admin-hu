@@ -112,6 +112,9 @@
         "wk:page":"Gyenesdi\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1923281fc2310bceef55bef61117647",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650233,
+    "wof:lastmodified":1582345330,
     "wof:name":"Gyenesdi\u00e1s",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

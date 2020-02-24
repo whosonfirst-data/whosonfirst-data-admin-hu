@@ -106,6 +106,9 @@
         "wk:page":"Kaposm\u00e9r\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c13cfdfcda0a2d9ac53503d97cf61538",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101790335,
-    "wof:lastmodified":1566650165,
+    "wof:lastmodified":1582345321,
     "wof:name":"Kaposm\u00e9r\u0151",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -130,6 +130,9 @@
         "wk:page":"Kunhegyes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91e73704f572facde6dd05745a4b0f7e",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650317,
+    "wof:lastmodified":1582345341,
     "wof:name":"Kunhegyes",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

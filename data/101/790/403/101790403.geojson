@@ -120,6 +120,9 @@
         "wk:page":"\u00d3pusztaszer"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"889e3eeae2e002f34ac093470c8b3b72",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650175,
+    "wof:lastmodified":1582345322,
     "wof:name":"\u00d3pusztaszer",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

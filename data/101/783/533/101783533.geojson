@@ -118,6 +118,9 @@
         "wk:page":"Apagy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd2c17724da1787c0fcf3dadcf0d4999",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650266,
+    "wof:lastmodified":1582345334,
     "wof:name":"Apagy",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

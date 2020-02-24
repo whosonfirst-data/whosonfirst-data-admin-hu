@@ -124,6 +124,9 @@
         "wk:page":"S\u00e1ndorfalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"620845b4c484624a21a3c1351aa41a58",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650169,
+    "wof:lastmodified":1582345322,
     "wof:name":"S\u00e1ndorfalva",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

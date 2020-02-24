@@ -139,6 +139,9 @@
         "wk:page":"Z\u00e1hony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"862df7d1b2e1e48983bf705d605b3a13",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650336,
+    "wof:lastmodified":1582345344,
     "wof:name":"Z\u00e1hony",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

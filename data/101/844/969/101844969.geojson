@@ -110,6 +110,9 @@
         "wk:page":"Keszt\u00f6lc"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"baec829bbe8d2b568b89608cc0fccff3",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650211,
+    "wof:lastmodified":1582345327,
     "wof:name":"Keszt\u00f6lc",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
         "wk:page":"Nemesn\u00e1dudvar"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7dec470946fba613f621a36d3251732b",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650163,
+    "wof:lastmodified":1582345321,
     "wof:name":"Nemesn\u00e1dudvar",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

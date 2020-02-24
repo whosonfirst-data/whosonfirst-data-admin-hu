@@ -105,6 +105,9 @@
         "wk:page":"Paszab"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1294b7239b8f4c8f73d51308dd8e895",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"Paszab",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

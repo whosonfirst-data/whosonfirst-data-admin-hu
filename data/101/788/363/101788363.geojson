@@ -107,6 +107,9 @@
         "wk:page":"S\u00e1rr\u00e9tudvari"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61affeb38c5f82acf0f8b330747a2e0a",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650308,
+    "wof:lastmodified":1582345340,
     "wof:name":"S\u00e1rr\u00e9tudvari",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

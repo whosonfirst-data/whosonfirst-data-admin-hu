@@ -127,6 +127,9 @@
         "wk:page":"M\u00e9lyk\u00fat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cef210b759623e4c96c8051321e88da7",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650166,
+    "wof:lastmodified":1582345321,
     "wof:name":"M\u00e9lyk\u00fat",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"Rakamaz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13978549fa0815a36d5a1276c01da7e1",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650263,
+    "wof:lastmodified":1582345334,
     "wof:name":"Rakamaz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

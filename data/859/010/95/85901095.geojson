@@ -69,6 +69,9 @@
         "gp:id":806123
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5976699de9ca88500f121a6217820298",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649586,
+    "wof:lastmodified":1582345310,
     "wof:name":"Farkashegy",
     "wof:parent_id":101782321,
     "wof:placetype":"neighbourhood",

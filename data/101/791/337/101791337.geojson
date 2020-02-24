@@ -157,6 +157,9 @@
         "wk:page":"Koml\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47b11c3865969a454f8888d3e5233653",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650182,
+    "wof:lastmodified":1582345323,
     "wof:name":"Koml\u00f3",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

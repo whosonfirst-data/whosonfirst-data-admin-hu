@@ -106,6 +106,9 @@
         "wk:page":"T\u00e1pi\u00f3szecs\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29ca5c1c5797af24841bb968bce4cdf7",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101845027,
-    "wof:lastmodified":1566650192,
+    "wof:lastmodified":1582345325,
     "wof:name":"T\u00e1pi\u00f3szecs\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

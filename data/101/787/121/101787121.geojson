@@ -113,6 +113,9 @@
         "wk:page":"Hossz\u00fap\u00e1lyi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"084875f5445ad43c7c90b4c8d28b9e85",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650356,
+    "wof:lastmodified":1582345346,
     "wof:name":"Hossz\u00fap\u00e1lyi",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

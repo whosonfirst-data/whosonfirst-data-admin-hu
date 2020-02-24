@@ -112,6 +112,9 @@
         "wk:page":"Ruzsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a07f3e8d7892fe3545fff6022acd9b3c",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650152,
+    "wof:lastmodified":1582345320,
     "wof:name":"Ruzsa",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

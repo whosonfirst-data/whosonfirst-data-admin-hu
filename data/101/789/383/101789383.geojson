@@ -109,6 +109,9 @@
         "wk:page":"Csabrendek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20972b18a55cc2acb34adc5efdec7c2e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650375,
+    "wof:lastmodified":1582345349,
     "wof:name":"Csabrendek",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

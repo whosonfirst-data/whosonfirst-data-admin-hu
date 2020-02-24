@@ -397,6 +397,9 @@
         "wk:page":"Szolnok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1bfc01626f97d446ea9881cc0ad0d96",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650299,
+    "wof:lastmodified":1582345338,
     "wof:name":"Szolnok",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -425,6 +425,9 @@
         "wk:page":"Gy\u0151r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d15494d5fa4bf2865c4e96254de7439f",
     "wof:hierarchy":[
         {
@@ -436,7 +439,7 @@
         }
     ],
     "wof:id":101751711,
-    "wof:lastmodified":1566650303,
+    "wof:lastmodified":1582345339,
     "wof:name":"Gy\u0151r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

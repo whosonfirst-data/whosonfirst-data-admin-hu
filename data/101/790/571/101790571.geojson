@@ -116,6 +116,9 @@
         "wk:page":"Szabadk\u00edgy\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"234a86fe74772bb738ba92310be09a92",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650175,
+    "wof:lastmodified":1582345322,
     "wof:name":"Szabadk\u00edgy\u00f3s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

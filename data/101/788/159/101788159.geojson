@@ -124,6 +124,9 @@
         "wk:page":"Martonv\u00e1s\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11558d133b0b02962610c6f11dc0e57b",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650306,
+    "wof:lastmodified":1582345340,
     "wof:name":"Martonv\u00e1s\u00e1r",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -100,6 +100,9 @@
         "wk:page":"Balatonf\u0151kaj\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b55092a72c86c11625d84363e549553",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101789349,
-    "wof:lastmodified":1566650378,
+    "wof:lastmodified":1582345350,
     "wof:name":"Balatonf\u0151kaj\u00e1r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

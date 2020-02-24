@@ -130,6 +130,9 @@
         "wk:page":"Dunavecse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9a70a1c58a19654790a7defb95d104c",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650371,
+    "wof:lastmodified":1582345349,
     "wof:name":"Dunavecse",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

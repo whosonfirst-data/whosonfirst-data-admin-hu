@@ -113,6 +113,9 @@
         "wk:page":"T\u00fcrje"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e06fa597ece427c0d84ef12a645e5d79",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650214,
+    "wof:lastmodified":1582345327,
     "wof:name":"T\u00fcrje",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

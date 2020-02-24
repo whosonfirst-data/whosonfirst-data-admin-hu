@@ -69,6 +69,9 @@
         "gp:id":804358
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e6198ba70971a343aafa9e837311012",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649587,
+    "wof:lastmodified":1582345310,
     "wof:name":"Budaihegy",
     "wof:parent_id":101751685,
     "wof:placetype":"neighbourhood",

@@ -119,6 +119,9 @@
         "wk:page":"Sz\u00e9kkutas"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36f4683ccf4c1e125bdedaf536392a26",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650155,
+    "wof:lastmodified":1582345320,
     "wof:name":"Sz\u00e9kkutas",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
         "wd:id":"Q1089496"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d180d2805cadce12eadc3cf5c32b8b9",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650272,
+    "wof:lastmodified":1582345335,
     "wof:name":"Szilv\u00e1sv\u00e1rad",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

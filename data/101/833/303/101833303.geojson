@@ -112,6 +112,9 @@
         "wk:page":"Baj, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e70f8e2eccd4ee0303dd801bcf1b45bc",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650225,
+    "wof:lastmodified":1582345329,
     "wof:name":"Baj",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

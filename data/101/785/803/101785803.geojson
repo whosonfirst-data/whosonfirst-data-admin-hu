@@ -109,6 +109,9 @@
         "wk:page":"Csolnok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f704cc822b9d62428471e5ccac0fefb",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650241,
+    "wof:lastmodified":1582345331,
     "wof:name":"Csolnok",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

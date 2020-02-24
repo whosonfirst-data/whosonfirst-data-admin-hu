@@ -133,6 +133,9 @@
         "wk:page":"Vaja"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7528cab062d942ecaa9a048180a6850e",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650283,
+    "wof:lastmodified":1582345336,
     "wof:name":"Vaja",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -136,6 +136,9 @@
         "qs_pg:id":1042850
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"453c1ef90cabde9f63973c3217fc6323",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650290,
+    "wof:lastmodified":1582345337,
     "wof:name":"P\u00e1szt\u00f3",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

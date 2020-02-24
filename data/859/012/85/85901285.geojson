@@ -66,6 +66,9 @@
         "gp:id":815038
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92378966d7d4c87ccf69b89232f595ac",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649571,
+    "wof:lastmodified":1582345308,
     "wof:name":"Somosmajor",
     "wof:parent_id":101751711,
     "wof:placetype":"neighbourhood",

@@ -115,6 +115,9 @@
         "wk:page":"Buj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba4e200a5e510ec5e0217e79ce326c74",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650252,
+    "wof:lastmodified":1582345333,
     "wof:name":"Buj",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

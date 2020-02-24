@@ -109,6 +109,9 @@
         "wk:page":"Forr\u00e1sk\u00fat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eba21199d714395c5cfe2a8f46a11fcb",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650170,
+    "wof:lastmodified":1582345322,
     "wof:name":"Forr\u00e1sk\u00fat",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

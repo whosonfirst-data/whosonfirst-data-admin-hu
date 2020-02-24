@@ -112,6 +112,9 @@
         "wk:page":"J\u00e1szj\u00e1k\u00f3halma"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36054c2b3d7bda3db0b01407e0536c59",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650345,
+    "wof:lastmodified":1582345345,
     "wof:name":"J\u00e1szj\u00e1k\u00f3halma",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

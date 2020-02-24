@@ -108,6 +108,9 @@
         "wk:page":"Cserkesz\u0151l\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca46f5309284f4450d57fbe410d4f77e",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101788239,
-    "wof:lastmodified":1566650330,
+    "wof:lastmodified":1582345343,
     "wof:name":"Cserkesz\u0151l\u0151",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Iklad"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a77b5a1d884dbd5abe45e3f57761dd01",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650224,
+    "wof:lastmodified":1582345328,
     "wof:name":"Iklad",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

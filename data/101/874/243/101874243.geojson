@@ -111,6 +111,10 @@
         "wk:page":"Dunafalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e789144e0218054e2645aa6aa1f8a617",
     "wof:hierarchy":[
         {
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101874243,
-    "wof:lastmodified":1566650193,
+    "wof:lastmodified":1582345325,
     "wof:name":"Dunafalva",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

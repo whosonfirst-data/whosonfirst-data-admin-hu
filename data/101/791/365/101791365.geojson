@@ -111,6 +111,9 @@
         "wk:page":"Szal\u00e1nta"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"efdce12786340e335b6346a46b9fc804",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650182,
+    "wof:lastmodified":1582345323,
     "wof:name":"Szal\u00e1nta",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

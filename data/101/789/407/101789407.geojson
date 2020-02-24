@@ -124,6 +124,9 @@
         "wk:page":"Kondoros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0214847b94cc4db629b885ee00d0be1",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650373,
+    "wof:lastmodified":1582345349,
     "wof:name":"Kondoros",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -139,6 +139,9 @@
         "wk:page":"Mogyor\u00f3d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1b9154f89720323076b69fd43e4cc25",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650355,
+    "wof:lastmodified":1582345346,
     "wof:name":"Mogyor\u00f3d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

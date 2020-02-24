@@ -185,6 +185,9 @@
         "wk:page":"\u00d3buda"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13f20066430e78a74fb2bfa1ae7163f4",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649566,
+    "wof:lastmodified":1582345307,
     "wof:name":"Obuda",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

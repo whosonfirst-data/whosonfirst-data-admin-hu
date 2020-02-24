@@ -111,6 +111,9 @@
         "wk:page":"Nagyv\u00e1zsony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd371a96fb2fee8c30cbf1a16f7be08a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650367,
+    "wof:lastmodified":1582345348,
     "wof:name":"Nagyv\u00e1zsony",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

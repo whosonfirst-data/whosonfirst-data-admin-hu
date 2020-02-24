@@ -137,6 +137,9 @@
         "wk:page":"R\u00f6szke"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc3f4e7a52e2f468143fe430ae7a5c58",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650154,
+    "wof:lastmodified":1582345320,
     "wof:name":"R\u00f6szke",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

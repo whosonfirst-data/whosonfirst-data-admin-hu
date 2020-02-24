@@ -115,6 +115,9 @@
         "wk:page":"Solym\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e6fa217f29e1bb569e44d445f4bb6c28",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650181,
+    "wof:lastmodified":1582345323,
     "wof:name":"Solym\u00e1r",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

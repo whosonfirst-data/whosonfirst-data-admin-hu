@@ -112,6 +112,9 @@
         "wk:page":"Cserszegtomaj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ef87f524fe865b79db31b1bd311500f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650372,
+    "wof:lastmodified":1582345349,
     "wof:name":"Cserszegtomaj",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

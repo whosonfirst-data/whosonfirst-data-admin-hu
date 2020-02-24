@@ -127,6 +127,9 @@
         "wk:page":"Izs\u00e1k, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79dcdbf90d78be452e115ee0e80bc6fc",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650372,
+    "wof:lastmodified":1582345349,
     "wof:name":"Izs\u00e1k",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Baracs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46e9fbef954c20d6de5124d4f118c93a",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650211,
+    "wof:lastmodified":1582345327,
     "wof:name":"Baracs",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

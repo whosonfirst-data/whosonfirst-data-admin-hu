@@ -139,6 +139,9 @@
         "wk:page":"Devecser"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8cf9647080f0b885e93df59e2d0e7d2d",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650382,
+    "wof:lastmodified":1582345350,
     "wof:name":"Devecser",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

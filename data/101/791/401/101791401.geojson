@@ -118,6 +118,9 @@
         "wk:page":"Berzence"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d535b3d17b714aec5f806073a36fa929",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650184,
+    "wof:lastmodified":1582345324,
     "wof:name":"Berzence",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

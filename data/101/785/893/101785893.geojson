@@ -121,6 +121,9 @@
         "wk:page":"Pilisszentkereszt"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c09323a25dedaa4b1832d323402626e",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650241,
+    "wof:lastmodified":1582345331,
     "wof:name":"Pilisszentkereszt",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

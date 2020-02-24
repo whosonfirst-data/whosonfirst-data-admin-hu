@@ -124,6 +124,9 @@
         "wk:page":"Apostag"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec99e82d175f1bc2faae0932a17d53ea",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650387,
+    "wof:lastmodified":1582345351,
     "wof:name":"Apostag",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

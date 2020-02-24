@@ -104,6 +104,9 @@
         "wk:page":"Nagyhegyes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a99d15c40fa54ce92f3a778929a6eca",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650249,
+    "wof:lastmodified":1582345332,
     "wof:name":"Nagyhegyes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

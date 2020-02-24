@@ -98,6 +98,9 @@
         "wk:page":"Olaszfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac932668a053255998f2a85547562128",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650310,
+    "wof:lastmodified":1582345341,
     "wof:name":"Olaszfalu",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

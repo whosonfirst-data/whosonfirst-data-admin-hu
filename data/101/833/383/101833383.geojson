@@ -106,6 +106,9 @@
         "wk:page":"Pocsaj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c9b4966a74a1536056952b776531420",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650223,
+    "wof:lastmodified":1582345328,
     "wof:name":"Pocsaj",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

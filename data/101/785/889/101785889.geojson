@@ -104,6 +104,9 @@
         "wk:page":"Verseg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3a0d090eb8de44ca4d9d9e50dfd84b6",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650239,
+    "wof:lastmodified":1582345331,
     "wof:name":"Verseg",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

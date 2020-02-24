@@ -136,6 +136,9 @@
         "wk:page":"Kistarcsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9e6f24da3122c756f089df2ee62c459",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650181,
+    "wof:lastmodified":1582345323,
     "wof:name":"Kistarcsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

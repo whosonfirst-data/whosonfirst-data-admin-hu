@@ -110,6 +110,9 @@
         "wd:id":"Q506654"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"253db4e4c8133e3b87f36450f58c8f8d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650242,
+    "wof:lastmodified":1582345331,
     "wof:name":"Ad\u00e1cs",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

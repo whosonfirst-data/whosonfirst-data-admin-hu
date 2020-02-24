@@ -127,6 +127,9 @@
         "wk:page":"Saj\u00f3szentp\u00e9ter"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85260297402020e080b01d5c1042a69f",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650227,
+    "wof:lastmodified":1582345329,
     "wof:name":"Saj\u00f3szentp\u00e9ter",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

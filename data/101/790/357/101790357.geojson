@@ -101,6 +101,9 @@
         "wk:page":"Gelse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77b90a7c9d515ef3a6e381020b2c9858",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650164,
+    "wof:lastmodified":1582345321,
     "wof:name":"Gelse",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

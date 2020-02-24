@@ -120,6 +120,9 @@
         "wd:id":"Q851062"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1ed879f5a0c56e60fcc8f39c37251a9",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649567,
+    "wof:lastmodified":1582345307,
     "wof:name":"Soroksar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

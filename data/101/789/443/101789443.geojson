@@ -109,6 +109,9 @@
         "wk:page":"S\u00e1rosd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59b3b253b2317cd0707ee5c0130f80e2",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650384,
+    "wof:lastmodified":1582345350,
     "wof:name":"S\u00e1rosd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

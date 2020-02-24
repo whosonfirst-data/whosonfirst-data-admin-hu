@@ -113,6 +113,9 @@
         "wd:id":"Q773393"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e691594369fb5a1ba070fc8d17028893",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650291,
+    "wof:lastmodified":1582345337,
     "wof:name":"Apc",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

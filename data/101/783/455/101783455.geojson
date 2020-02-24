@@ -111,6 +111,9 @@
         "wd:id":"Q1185533"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c07ab548fe635300c92ddd1d38ebf829",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650272,
+    "wof:lastmodified":1582345335,
     "wof:name":"Tarnalelesz",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

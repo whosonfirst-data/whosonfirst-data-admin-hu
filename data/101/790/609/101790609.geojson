@@ -110,6 +110,9 @@
         "wk:page":"Dombegyh\u00e1z"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"674bfea3fbbee1640164c9dd1dfb73fa",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650175,
+    "wof:lastmodified":1582345322,
     "wof:name":"Dombegyh\u00e1z",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

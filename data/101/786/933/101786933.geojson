@@ -107,6 +107,9 @@
         "wk:page":"R\u00e1k\u00f3czi\u00fajfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35f82321ed4136bfe7a407360216945a",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650346,
+    "wof:lastmodified":1582345345,
     "wof:name":"R\u00e1k\u00f3czi\u00fajfalu",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

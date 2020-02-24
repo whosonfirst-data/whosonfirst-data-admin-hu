@@ -101,6 +101,9 @@
         "wk:page":"Herceghalom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f9dd607385c0971ea65a1dcb7eec0e4",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650190,
+    "wof:lastmodified":1582345325,
     "wof:name":"Herceghalom",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

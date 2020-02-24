@@ -115,6 +115,9 @@
         "wk:page":"Szentkir\u00e1ly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93f9c0fee596040a4979ec8a7cc19f16",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650327,
+    "wof:lastmodified":1582345343,
     "wof:name":"Szentkir\u00e1ly",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -136,6 +136,9 @@
         "wk:page":"Tompa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b49bf0215c6a3b071dcff3ff8650467",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650164,
+    "wof:lastmodified":1582345321,
     "wof:name":"Tompa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

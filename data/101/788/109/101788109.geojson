@@ -97,6 +97,9 @@
         "wk:page":"Mez\u0151gy\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fcf82dde1333cb9e8786f2ffedbb313",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101788109,
-    "wof:lastmodified":1566650321,
+    "wof:lastmodified":1582345342,
     "wof:name":"Mez\u0151gy\u00e1n",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

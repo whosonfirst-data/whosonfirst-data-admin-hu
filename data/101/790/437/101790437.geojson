@@ -106,6 +106,9 @@
         "wk:page":"Zsomb\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fc25c230237769b7298b15f32d2c0e0",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650156,
+    "wof:lastmodified":1582345320,
     "wof:name":"Zsomb\u00f3",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"Tam\u00e1si"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"385b99914c9e5f13bfb5e876abeb52c8",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650171,
+    "wof:lastmodified":1582345322,
     "wof:name":"Tam\u00e1si",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

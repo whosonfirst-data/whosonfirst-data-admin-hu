@@ -113,6 +113,9 @@
         "wk:page":"Sirok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ad508c4fabf93abb59e7fff04c76eb6",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"Sirok",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

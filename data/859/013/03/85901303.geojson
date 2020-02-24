@@ -83,6 +83,10 @@
         "qs_pg:id":1096312
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ba4ce8331659ee532528548db466c86",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649572,
+    "wof:lastmodified":1582345308,
     "wof:name":"Sz\u0151l\u0151h\u00e1tuljad\u016fl\u0151",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

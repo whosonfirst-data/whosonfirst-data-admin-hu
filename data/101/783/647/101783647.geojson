@@ -118,6 +118,9 @@
         "wk:page":"Onga, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"450222e7a7c793c9747a3c5c67bd4eb6",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650278,
+    "wof:lastmodified":1582345336,
     "wof:name":"Onga",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

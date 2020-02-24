@@ -131,6 +131,9 @@
         "wk:page":"Pacsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"57369a376a3e8fe9ef1229360c2cfde1",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650384,
+    "wof:lastmodified":1582345350,
     "wof:name":"Pacsa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

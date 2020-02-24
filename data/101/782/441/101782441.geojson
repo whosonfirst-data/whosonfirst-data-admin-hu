@@ -106,6 +106,9 @@
         "wk:page":"Erd\u0151b\u00e9nye"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de8901f581e6c444d63e67ae6181e5e4",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101782441,
-    "wof:lastmodified":1566650254,
+    "wof:lastmodified":1582345333,
     "wof:name":"Erd\u0151b\u00e9nye",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

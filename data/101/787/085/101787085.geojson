@@ -130,6 +130,9 @@
         "wk:page":"P\u00e9cel"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2da5fb210f0c49286eb87b3f97a0313b",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650353,
+    "wof:lastmodified":1582345346,
     "wof:name":"P\u00e9cel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

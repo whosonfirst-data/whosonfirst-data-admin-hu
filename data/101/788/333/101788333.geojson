@@ -101,6 +101,9 @@
         "wk:page":"Pusztavacs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c68f5773717b347e30f7c5f08a32c351",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650323,
+    "wof:lastmodified":1582345342,
     "wof:name":"Pusztavacs",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

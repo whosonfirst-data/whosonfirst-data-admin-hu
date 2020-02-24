@@ -136,6 +136,9 @@
         "wk:page":"Magl\u00f3d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03ff911fea049910e11002fe0ecf9bf4",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650218,
+    "wof:lastmodified":1582345328,
     "wof:name":"Magl\u00f3d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

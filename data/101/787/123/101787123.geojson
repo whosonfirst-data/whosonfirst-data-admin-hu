@@ -104,6 +104,9 @@
         "wk:page":"Hajd\u00fabagos"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f67cfbb864c19a84e1bbc3adb23db1e",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650361,
+    "wof:lastmodified":1582345347,
     "wof:name":"Hajd\u00fabagos",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

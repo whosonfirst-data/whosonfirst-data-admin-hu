@@ -95,6 +95,9 @@
         "wk:page":"Egersz\u00f3l\u00e1t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5dbe1fa4a6e5f0f54af910f8349bdf0",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650287,
+    "wof:lastmodified":1582345337,
     "wof:name":"Egersz\u00f3l\u00e1t",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

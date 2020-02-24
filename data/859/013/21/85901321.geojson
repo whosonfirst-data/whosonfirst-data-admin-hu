@@ -77,6 +77,10 @@
         "qs_pg:id":983566
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b32a349d8c9958109d369337ae86abc",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649574,
+    "wof:lastmodified":1582345308,
     "wof:name":"\u00dajballa",
     "wof:parent_id":101788243,
     "wof:placetype":"neighbourhood",

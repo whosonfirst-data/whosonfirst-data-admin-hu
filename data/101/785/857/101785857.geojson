@@ -119,6 +119,9 @@
         "wk:page":"V\u00e1mosszabadi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5439ed5d70dd5fa1f9c0dcaa53176b7",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650241,
+    "wof:lastmodified":1582345331,
     "wof:name":"V\u00e1mosszabadi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

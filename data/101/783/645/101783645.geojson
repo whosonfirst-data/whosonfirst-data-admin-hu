@@ -118,6 +118,9 @@
         "wk:page":"Arn\u00f3t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3303ce641e0cd97f01d99d375e21e9e4",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650269,
+    "wof:lastmodified":1582345334,
     "wof:name":"Arn\u00f3t",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

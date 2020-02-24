@@ -243,6 +243,9 @@
         "wk:page":"Buda"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1520e74333ed395df9e71854a3d35ef6",
     "wof:hierarchy":[
         {
@@ -258,7 +261,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649590,
+    "wof:lastmodified":1582345311,
     "wof:name":"Buda",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -93,6 +93,9 @@
         "wd:id":"Q787011"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6adf84f274e1475d23295125989a641f",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650195,
+    "wof:lastmodified":1582345325,
     "wof:name":"Noszvaj",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

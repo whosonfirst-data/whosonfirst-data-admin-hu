@@ -52,6 +52,9 @@
         "qs_pg:id":987325
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16066d5b1d0ff7c58bc303e875fb93d6",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101912369,
-    "wof:lastmodified":1566650236,
+    "wof:lastmodified":1582345330,
     "wof:name":"N\u00f3gr\u00e1dg\u00e1rdony",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

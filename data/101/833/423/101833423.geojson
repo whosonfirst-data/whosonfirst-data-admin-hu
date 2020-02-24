@@ -121,6 +121,9 @@
         "wk:page":"T\u00e1llya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d35ea39e97b0deea23df597e80057de",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650221,
+    "wof:lastmodified":1582345328,
     "wof:name":"T\u00e1llya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"J\u00e1szszentl\u00e1szl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6d77ad8e546874319cf0e4525283982",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650152,
+    "wof:lastmodified":1582345320,
     "wof:name":"J\u00e1szszentl\u00e1szl\u00f3",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

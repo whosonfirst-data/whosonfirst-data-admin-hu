@@ -123,6 +123,9 @@
         "wk:page":"Bal\u00e1stya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2634f1b5cd7e8fb976768eb226403e71",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650167,
+    "wof:lastmodified":1582345322,
     "wof:name":"Bal\u00e1stya",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"Kunszentm\u00e1rton"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b6507348b245fc7a3e0f5cf52866769",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650366,
+    "wof:lastmodified":1582345348,
     "wof:name":"Kunszentm\u00e1rton",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

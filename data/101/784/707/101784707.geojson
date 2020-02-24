@@ -101,6 +101,9 @@
         "wd:id":"Q1072238"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77b656a699b684a891c774d4848a459f",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650285,
+    "wof:lastmodified":1582345336,
     "wof:name":"R\u00f3zsaszentm\u00e1rton",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

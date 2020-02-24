@@ -115,6 +115,9 @@
         "wk:page":"Feh\u00e9rv\u00e1rcsurg\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"373de2b8059cdb824813d2bbebeb5dbb",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650321,
+    "wof:lastmodified":1582345342,
     "wof:name":"Feh\u00e9rv\u00e1rcsurg\u00f3",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

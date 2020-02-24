@@ -77,6 +77,10 @@
         "qs_pg:id":1083298
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5f26df840d2bf6a4be47b5e92335902",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649585,
+    "wof:lastmodified":1582345310,
     "wof:name":"Homokcs\u00e1rda",
     "wof:parent_id":101785823,
     "wof:placetype":"neighbourhood",

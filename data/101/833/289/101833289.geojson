@@ -103,6 +103,9 @@
         "wk:page":"S\u00fctt\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21099f416a98b7557272c7af11568be5",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101833289,
-    "wof:lastmodified":1566650220,
+    "wof:lastmodified":1582345328,
     "wof:name":"S\u00fctt\u0151",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

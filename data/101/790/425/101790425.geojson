@@ -250,6 +250,9 @@
         "wk:page":"H\u00f3dmez\u0151v\u00e1s\u00e1rhely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c29936d406fdb75a6c4c45408259b528",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":101790425,
-    "wof:lastmodified":1566650152,
+    "wof:lastmodified":1582345320,
     "wof:name":"H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

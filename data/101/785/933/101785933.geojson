@@ -124,6 +124,9 @@
         "wk:page":"L\u0151rinci"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03756dee5da948c233dcddef5404c025",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101785933,
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"L\u0151rinci",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

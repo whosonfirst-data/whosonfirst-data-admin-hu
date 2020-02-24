@@ -124,6 +124,9 @@
         "wk:page":"Polg\u00e1r, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95a8d30c0d32340ff203742c02bbf5e7",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650285,
+    "wof:lastmodified":1582345336,
     "wof:name":"Polg\u00e1r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -187,6 +187,9 @@
         "wk:page":"Szigetv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bde1b97ab892e9ebe1cd9431ad290fd1",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650182,
+    "wof:lastmodified":1582345323,
     "wof:name":"Szigetv\u00e1r",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

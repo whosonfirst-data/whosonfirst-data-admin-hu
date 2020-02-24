@@ -96,6 +96,9 @@
         "wk:page":"Pest\u00fajhely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce973536b7f0df7c128aebc08ef0a403",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649569,
+    "wof:lastmodified":1582345308,
     "wof:name":"Pestujhely",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

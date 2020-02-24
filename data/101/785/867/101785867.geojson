@@ -110,6 +110,9 @@
         "wk:page":"Nagyszentj\u00e1nos"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4670cc3b23d1677143be2ee8fec02a93",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650241,
+    "wof:lastmodified":1582345331,
     "wof:name":"Nagyszentj\u00e1nos",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

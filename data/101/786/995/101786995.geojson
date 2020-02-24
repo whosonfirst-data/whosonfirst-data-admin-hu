@@ -110,6 +110,9 @@
         "wk:page":"Hegyk\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ce1865d19490c8bc382ccb74e094864",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101786995,
-    "wof:lastmodified":1566650345,
+    "wof:lastmodified":1582345345,
     "wof:name":"Hegyk\u0151",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"V\u00e1cszentl\u00e1szl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b961413a1b4a8415b0375aa1312d0cb5",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650360,
+    "wof:lastmodified":1582345347,
     "wof:name":"V\u00e1cszentl\u00e1szl\u00f3",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -128,6 +128,9 @@
         "wk:page":"Ab\u00e1dszal\u00f3k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84f4c71147e752d775aee03a9102cd53",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650350,
+    "wof:lastmodified":1582345346,
     "wof:name":"Ab\u00e1dszal\u00f3k",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

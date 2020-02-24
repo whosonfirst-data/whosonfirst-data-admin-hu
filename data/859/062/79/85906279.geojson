@@ -71,6 +71,10 @@
         "qs_pg:id":1154365
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40c1361143dace7d928328a6cf2b15e0",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649576,
+    "wof:lastmodified":1582345309,
     "wof:name":"Egyetemvaros",
     "wof:parent_id":101751725,
     "wof:placetype":"neighbourhood",

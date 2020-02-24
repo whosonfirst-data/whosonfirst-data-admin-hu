@@ -112,6 +112,9 @@
         "wk:page":"Bucsa, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2e3d51d7ff33399a793f9f1edc45631",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650316,
+    "wof:lastmodified":1582345341,
     "wof:name":"Bucsa",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

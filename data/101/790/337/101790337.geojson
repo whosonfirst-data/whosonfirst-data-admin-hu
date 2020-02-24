@@ -123,6 +123,9 @@
         "wk:page":"Segesd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f67e358371de82bbba3b5856a4a2af93",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650149,
+    "wof:lastmodified":1582345319,
     "wof:name":"Segesd",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

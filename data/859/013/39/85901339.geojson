@@ -74,6 +74,10 @@
         "qs_pg:id":221101
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a689003cd2dcd7fb232d2da560747eae",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649575,
+    "wof:lastmodified":1582345308,
     "wof:name":"Vekerzug",
     "wof:parent_id":101790385,
     "wof:placetype":"neighbourhood",

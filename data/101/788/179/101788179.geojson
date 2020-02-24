@@ -142,6 +142,9 @@
         "wk:page":"Ercsi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca1172fc0e869a5d0f35dbaf497004fb",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650334,
+    "wof:lastmodified":1582345343,
     "wof:name":"Ercsi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

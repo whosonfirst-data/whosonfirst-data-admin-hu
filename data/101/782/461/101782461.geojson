@@ -115,6 +115,9 @@
         "wd:id":"Q572103"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"deb2814976d21e55db258bc886cbddd0",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650261,
+    "wof:lastmodified":1582345334,
     "wof:name":"Tiszakar\u00e1d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

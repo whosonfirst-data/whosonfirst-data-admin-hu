@@ -110,6 +110,9 @@
         "wk:page":"Rezi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4610918ae4f5497ffe5d3f879f6cd665",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650380,
+    "wof:lastmodified":1582345350,
     "wof:name":"Rezi",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

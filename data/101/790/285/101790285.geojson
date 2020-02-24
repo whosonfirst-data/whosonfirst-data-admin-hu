@@ -139,6 +139,9 @@
         "wk:page":"Bonyh\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de0761a774b82bf1691d4f51d58e2442",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650170,
+    "wof:lastmodified":1582345322,
     "wof:name":"Bonyh\u00e1d",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

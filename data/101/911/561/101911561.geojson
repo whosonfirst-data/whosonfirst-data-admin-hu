@@ -81,6 +81,9 @@
         "wd:id":"Q747656"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"995fd3c4ea9b4e6caed53e1ef6e29d21",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101911561,
-    "wof:lastmodified":1566650304,
+    "wof:lastmodified":1582345340,
     "wof:name":"Galyatet\u0151",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

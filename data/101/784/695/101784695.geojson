@@ -113,6 +113,9 @@
         "wk:page":"Makl\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e96251e6180fb3bdec7aec5df63bae06",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650289,
+    "wof:lastmodified":1582345337,
     "wof:name":"Makl\u00e1r",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

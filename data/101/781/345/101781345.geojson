@@ -110,6 +110,9 @@
         "wk:page":"Holl\u00f3h\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db66acba18962b3ebffc86f53fc9a867",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650338,
+    "wof:lastmodified":1582345344,
     "wof:name":"Holl\u00f3h\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"Csopak"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"beab023a59ba9e83431c5ba5f39668bf",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650382,
+    "wof:lastmodified":1582345350,
     "wof:name":"Csopak",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

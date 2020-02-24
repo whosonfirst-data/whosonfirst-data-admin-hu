@@ -98,6 +98,9 @@
         "wk:page":"Dudar"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2feaa5b98a51be7a08b65cdc5fe7927",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650330,
+    "wof:lastmodified":1582345343,
     "wof:name":"Dudar",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

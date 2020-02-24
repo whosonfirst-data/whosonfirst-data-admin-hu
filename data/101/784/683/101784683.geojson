@@ -104,6 +104,9 @@
         "wd:id":"Q780659"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ae9e6c4f1223159fb62dc7164b3308a",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650295,
+    "wof:lastmodified":1582345338,
     "wof:name":"Domoszl\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "wk:page":"Tab\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1009048d973932183668665c5495a32e",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649573,
+    "wof:lastmodified":1582345308,
     "wof:name":"Tab\u00e1n",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

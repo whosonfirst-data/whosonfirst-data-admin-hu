@@ -113,6 +113,9 @@
         "wk:page":"T\u00e1borfalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f7d8b4abc66d1c4262ea01b2f2fa10da",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650376,
+    "wof:lastmodified":1582345349,
     "wof:name":"T\u00e1borfalva",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

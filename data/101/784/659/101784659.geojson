@@ -99,6 +99,9 @@
         "wd:id":"Q582533"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52c645c191699e9be75341262572dd22",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650288,
+    "wof:lastmodified":1582345337,
     "wof:name":"Recsk",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

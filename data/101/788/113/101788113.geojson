@@ -132,6 +132,9 @@
         "wk:page":"Mez\u0151ber\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d71a64b15a66ccb787c8dbb21d2d97d3",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101788113,
-    "wof:lastmodified":1566650335,
+    "wof:lastmodified":1582345343,
     "wof:name":"Mez\u0151ber\u00e9ny",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
         "wk:page":"R\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"047c2aac095d245d972ed8d624bfb070",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650191,
+    "wof:lastmodified":1582345325,
     "wof:name":"R\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

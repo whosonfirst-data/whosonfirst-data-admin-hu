@@ -118,6 +118,9 @@
         "wk:page":"Ny\u00edrmeggyes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46264014b5b4709e680e1cb0dc9927f4",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650274,
+    "wof:lastmodified":1582345335,
     "wof:name":"Ny\u00edrmeggyes",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

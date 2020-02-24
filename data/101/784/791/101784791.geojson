@@ -139,6 +139,9 @@
         "wk:page":"Balk\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abac8e135adc705b4d470023ce4cc43a",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650284,
+    "wof:lastmodified":1582345336,
     "wof:name":"Balk\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

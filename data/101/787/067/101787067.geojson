@@ -118,6 +118,9 @@
         "wk:page":"Zs\u00e1mb\u00e9k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0be8f4c977c3556c9e9adca0d192fd3",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650360,
+    "wof:lastmodified":1582345347,
     "wof:name":"Zs\u00e1mb\u00e9k",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

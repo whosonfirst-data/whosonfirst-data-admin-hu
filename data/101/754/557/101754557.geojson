@@ -113,6 +113,9 @@
         "wk:page":"T\u00e1rnok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0813bf4d4bad6c74d078df916d58676",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"T\u00e1rnok",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

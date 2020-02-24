@@ -67,6 +67,9 @@
         "wd:id":"Q12814268"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fff23147193dd7ce39fafe9cd88a8f5",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566650304,
+    "wof:lastmodified":1582345339,
     "wof:name":"Feln\u00e9met",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

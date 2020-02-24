@@ -130,6 +130,9 @@
         "wk:page":"Tab, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f05098271dd2cb95136b8652ae1f375",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650375,
+    "wof:lastmodified":1582345349,
     "wof:name":"Tab",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

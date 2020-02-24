@@ -130,6 +130,9 @@
         "wk:page":"B\u00e1csbokod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fb0eeae6b1a46ad07f1eed00818de06",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650184,
+    "wof:lastmodified":1582345324,
     "wof:name":"B\u00e1csbokod",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

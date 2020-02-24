@@ -114,6 +114,9 @@
         "wk:page":"B\u00fckkszentkereszt"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f42a07777376d7a3d83365c7b546023b",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650280,
+    "wof:lastmodified":1582345336,
     "wof:name":"B\u00fckkszentkereszt",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

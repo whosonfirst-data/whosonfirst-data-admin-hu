@@ -104,6 +104,9 @@
         "wk:page":"V\u00e9rtessoml\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ec77170cbdf6a97188cf169d6276cb1",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650338,
+    "wof:lastmodified":1582345344,
     "wof:name":"V\u00e9rtessoml\u00f3",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

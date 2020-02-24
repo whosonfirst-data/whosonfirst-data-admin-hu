@@ -112,6 +112,9 @@
         "wk:page":"Szentm\u00e1rtonk\u00e1ta"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a116ee9888cb3314f84649f0ebff4887",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650355,
+    "wof:lastmodified":1582345346,
     "wof:name":"Szentm\u00e1rtonk\u00e1ta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

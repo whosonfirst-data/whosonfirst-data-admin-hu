@@ -127,6 +127,9 @@
         "wk:page":"Haj\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"217fc89a37568c0fce03cb019ea78e07",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650161,
+    "wof:lastmodified":1582345321,
     "wof:name":"Haj\u00f3s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

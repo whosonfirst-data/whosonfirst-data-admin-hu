@@ -125,6 +125,9 @@
         "wk:page":"\u00c1cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"579d599052ac20116e2e2c65069f05fe",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650237,
+    "wof:lastmodified":1582345330,
     "wof:name":"\u00c1cs",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

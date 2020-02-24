@@ -72,6 +72,9 @@
         "gp:id":815920
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c28c56335cbe5b8aee3dd84b8ecb4a0",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649569,
+    "wof:lastmodified":1582345308,
     "wof:name":"Szivatty\u00fatelep",
     "wof:parent_id":101833435,
     "wof:placetype":"neighbourhood",

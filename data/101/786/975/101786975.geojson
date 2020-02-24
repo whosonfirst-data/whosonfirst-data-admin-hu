@@ -124,6 +124,9 @@
         "wk:page":"\u00c1gfalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1d246d4a4c803c0976eeed4fe6710a8",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650351,
+    "wof:lastmodified":1582345346,
     "wof:name":"\u00c1gfalva",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
         "wk:page":"Pilisv\u00f6r\u00f6sv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ecb71287594f1b7a7c889c1d21ba84b5",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650180,
+    "wof:lastmodified":1582345323,
     "wof:name":"Pilisv\u00f6r\u00f6sv\u00e1r",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

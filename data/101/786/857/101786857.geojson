@@ -98,6 +98,9 @@
         "wk:page":"Csabdi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d7c7979d93a930773a372ae91161f82",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345345,
     "wof:name":"Csabdi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

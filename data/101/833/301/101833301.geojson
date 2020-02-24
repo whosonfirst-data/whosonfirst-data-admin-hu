@@ -110,6 +110,9 @@
         "wk:page":"Tokod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e94d7f35a893bb2de16af0c774096aa2",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650219,
+    "wof:lastmodified":1582345328,
     "wof:name":"Tokod",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

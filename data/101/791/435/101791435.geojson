@@ -136,6 +136,9 @@
         "wk:page":"Hercegsz\u00e1nt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10948342a0459eee72b99b283c8852ca",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650188,
+    "wof:lastmodified":1582345324,
     "wof:name":"Hercegsz\u00e1nt\u00f3",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -90,6 +90,9 @@
         "wk:page":"Sashalom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb636fccef27b0c72339f4729f74e2f4",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649570,
+    "wof:lastmodified":1582345308,
     "wof:name":"Sashalom",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

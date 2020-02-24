@@ -101,6 +101,9 @@
         "qs_pg:id":1262719
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c999401488c2c49cae854d12943e9ab4",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649577,
+    "wof:lastmodified":1582345309,
     "wof:name":"K\u00e1poszt\u00e1smegyer",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -106,6 +106,10 @@
         "wk:page":"Szokolya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e147dfbea10a8a49d26ab7167b6da9b9",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650217,
+    "wof:lastmodified":1582345328,
     "wof:name":"Szokolya",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

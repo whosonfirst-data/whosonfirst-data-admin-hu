@@ -110,6 +110,9 @@
         "wk:page":"Berente"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43c3f9eaebd0e6628452858beab8a9b9",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650226,
+    "wof:lastmodified":1582345329,
     "wof:name":"Berente",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

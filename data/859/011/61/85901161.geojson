@@ -69,6 +69,9 @@
         "qs_pg:id":1194356
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc4f016b5a3dc0398dfcc1b4e41b9d8e",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649579,
+    "wof:lastmodified":1582345309,
     "wof:name":"Klein-Pest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

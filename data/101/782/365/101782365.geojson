@@ -136,6 +136,9 @@
         "wk:page":"Kemecse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4692ac8e5b6ce812bcf004ee990e9ac9",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650252,
+    "wof:lastmodified":1582345333,
     "wof:name":"Kemecse",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

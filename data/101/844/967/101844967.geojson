@@ -123,6 +123,9 @@
         "wk:page":"Neszm\u00e9ly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7495dca3c58255d40fb35f34b7ef591",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650211,
+    "wof:lastmodified":1582345327,
     "wof:name":"Neszm\u00e9ly",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

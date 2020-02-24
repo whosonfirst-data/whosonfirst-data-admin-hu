@@ -118,6 +118,9 @@
         "wk:page":"Kaba, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfaad0c045eefdaf8c622e1b5bf7c429",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650317,
+    "wof:lastmodified":1582345341,
     "wof:name":"Kaba",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

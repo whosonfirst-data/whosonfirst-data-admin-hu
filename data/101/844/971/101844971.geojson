@@ -113,6 +113,9 @@
         "wk:page":"Piliscs\u00e9v"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b7d74dd8fdc8e575e14bb97dea72eac",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650209,
+    "wof:lastmodified":1582345327,
     "wof:name":"Piliscs\u00e9v",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

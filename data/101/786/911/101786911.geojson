@@ -137,6 +137,9 @@
         "wk:page":"Kisb\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31a7a75a9591da2329e26cfb32c0208f",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650349,
+    "wof:lastmodified":1582345345,
     "wof:name":"Kisb\u00e9r",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

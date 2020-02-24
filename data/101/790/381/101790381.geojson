@@ -109,6 +109,9 @@
         "wk:page":"Murakereszt\u00far"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e657f62d649d1c527c6ea2a89824d0f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650178,
+    "wof:lastmodified":1582345323,
     "wof:name":"Murakereszt\u00far",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

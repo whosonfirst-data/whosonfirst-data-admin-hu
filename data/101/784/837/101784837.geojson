@@ -144,6 +144,9 @@
         "wk:page":"Mez\u0151k\u00f6vesd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df7bee5e019340da8d13b63222e65fc3",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101784837,
-    "wof:lastmodified":1566650296,
+    "wof:lastmodified":1582345338,
     "wof:name":"Mez\u0151k\u00f6vesd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

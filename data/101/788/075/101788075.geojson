@@ -104,6 +104,9 @@
         "wk:page":"Bakonyb\u00e9l"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"faf1903d0675c1f9cbf70d8169347269",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650325,
+    "wof:lastmodified":1582345342,
     "wof:name":"Bakonyb\u00e9l",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

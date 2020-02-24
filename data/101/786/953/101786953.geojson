@@ -115,6 +115,9 @@
         "wk:page":"Alatty\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b16b3aac8eaf0fc5538f4313b9e7618c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650338,
+    "wof:lastmodified":1582345344,
     "wof:name":"Alatty\u00e1n",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

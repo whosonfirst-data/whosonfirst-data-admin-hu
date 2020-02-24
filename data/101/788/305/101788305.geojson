@@ -112,6 +112,9 @@
         "wk:page":"In\u00e1rcs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84cb2737194633f633fb38a0b1a744fb",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650323,
+    "wof:lastmodified":1582345342,
     "wof:name":"In\u00e1rcs",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

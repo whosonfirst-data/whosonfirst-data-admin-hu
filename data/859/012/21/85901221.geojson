@@ -77,6 +77,10 @@
         "qs_pg:id":1083306
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f514687568571d1dd875563078a1068",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649568,
+    "wof:lastmodified":1582345307,
     "wof:name":"N\u00e1dormajor",
     "wof:parent_id":101754535,
     "wof:placetype":"neighbourhood",

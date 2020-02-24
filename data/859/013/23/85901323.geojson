@@ -154,6 +154,9 @@
         "wd:id":"Q330195"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"881cff43b0d3ab41c17b3d35ee6d11bd",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649575,
+    "wof:lastmodified":1582345308,
     "wof:name":"\u00dajpest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

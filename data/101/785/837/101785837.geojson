@@ -202,6 +202,9 @@
         "wk:page":"Mosonmagyar\u00f3v\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c1f5e99673cb85f1001e69391123a9b",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650247,
+    "wof:lastmodified":1582345332,
     "wof:name":"Mosonmagyar\u00f3v\u00e1r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

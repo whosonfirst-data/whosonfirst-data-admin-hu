@@ -136,6 +136,9 @@
         "wk:page":"Cig\u00e1nd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6a8d118a6865bd140e963f85886e882",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650260,
+    "wof:lastmodified":1582345333,
     "wof:name":"Cig\u00e1nd",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

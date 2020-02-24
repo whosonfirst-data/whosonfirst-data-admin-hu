@@ -98,6 +98,9 @@
         "wk:page":"Tiszaderzs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b275f5c3489e79d0ccffc4edc1c908a",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650350,
+    "wof:lastmodified":1582345346,
     "wof:name":"Tiszaderzs",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

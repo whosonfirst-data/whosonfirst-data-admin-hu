@@ -104,6 +104,9 @@
         "wk:page":"Nagyvars\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4c854c6ab7c0b44c0d29d1eed14b26a",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650362,
+    "wof:lastmodified":1582345347,
     "wof:name":"Nagyvars\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

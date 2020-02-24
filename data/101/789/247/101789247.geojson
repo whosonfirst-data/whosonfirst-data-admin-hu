@@ -118,6 +118,9 @@
         "wk:page":"Helv\u00e9cia"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f38380c5149efecfb4417290a836ccec",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650385,
+    "wof:lastmodified":1582345350,
     "wof:name":"Helv\u00e9cia",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

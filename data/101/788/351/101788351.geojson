@@ -109,6 +109,9 @@
         "wk:page":"B\u00e1r\u00e1nd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3267c4c6e95990d8205014ce1221a687",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650322,
+    "wof:lastmodified":1582345342,
     "wof:name":"B\u00e1r\u00e1nd",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

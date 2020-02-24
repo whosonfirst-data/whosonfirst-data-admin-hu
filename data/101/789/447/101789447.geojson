@@ -140,6 +140,9 @@
         "wk:page":"Aba, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"432a58c428cc97525ab3e54d5397ddc4",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650368,
+    "wof:lastmodified":1582345348,
     "wof:name":"Aba",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

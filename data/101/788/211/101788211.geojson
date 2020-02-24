@@ -97,6 +97,9 @@
         "wk:page":"K\u0151telek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f3222b85cc32c274de8f9fa1d5a0a2e",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101788211,
-    "wof:lastmodified":1566650309,
+    "wof:lastmodified":1582345340,
     "wof:name":"K\u0151telek",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

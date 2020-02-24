@@ -112,6 +112,9 @@
         "wd:id":"Q951375"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8859558c043948dd271ec3c453dc4cc6",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650373,
+    "wof:lastmodified":1582345349,
     "wof:name":"V\u00e1rosf\u00f6ld",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -107,6 +107,9 @@
         "wk:page":"Tiszapalkonya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bc7ba3151c79f89b26fdb3e9fdd20b4",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650293,
+    "wof:lastmodified":1582345337,
     "wof:name":"Tiszapalkonya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

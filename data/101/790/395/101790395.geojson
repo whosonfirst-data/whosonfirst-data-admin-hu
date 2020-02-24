@@ -121,6 +121,9 @@
         "wk:page":"Baks"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07b1021bbc933f38a58121b701cabe22",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650163,
+    "wof:lastmodified":1582345321,
     "wof:name":"Baks",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

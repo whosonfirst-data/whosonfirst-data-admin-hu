@@ -118,6 +118,9 @@
         "wk:page":"Tyukod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3651e60c91bd009aacafe76501cee4c",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650274,
+    "wof:lastmodified":1582345335,
     "wof:name":"Tyukod",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

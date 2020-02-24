@@ -112,6 +112,9 @@
         "wk:page":"K\u00f3ka"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96931a93e5a48b60a414f8448235640f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650357,
+    "wof:lastmodified":1582345347,
     "wof:name":"K\u00f3ka",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

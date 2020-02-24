@@ -148,6 +148,9 @@
         "wk:page":"Hajd\u00faszoboszl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52cf4f2c6d5affb669659faddbf6ffa1",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650357,
+    "wof:lastmodified":1582345347,
     "wof:name":"Hajd\u00faszoboszl\u00f3",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

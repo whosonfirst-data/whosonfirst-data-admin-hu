@@ -128,6 +128,9 @@
         "wk:page":"Alcs\u00fatdoboz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"029f71b817f4aee33d6fbaaa8294b952",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650307,
+    "wof:lastmodified":1582345340,
     "wof:name":"Alcs\u00fatdoboz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

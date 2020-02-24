@@ -124,6 +124,9 @@
         "wk:page":"Vask\u00fat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b223f0ef36e957140044f0eefa88a42b",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650187,
+    "wof:lastmodified":1582345324,
     "wof:name":"Vask\u00fat",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

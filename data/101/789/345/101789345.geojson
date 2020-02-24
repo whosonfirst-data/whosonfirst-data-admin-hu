@@ -113,6 +113,9 @@
         "wk:page":"Szentkir\u00e1lyszabadja"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d9fef0d5d50c474705814c0aa06d965",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650392,
+    "wof:lastmodified":1582345351,
     "wof:name":"Szentkir\u00e1lyszabadja",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

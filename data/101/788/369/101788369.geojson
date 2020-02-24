@@ -140,6 +140,9 @@
         "wk:page":"Beretty\u00f3\u00fajfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"281426e277bac395057265253566f608",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650322,
+    "wof:lastmodified":1582345342,
     "wof:name":"Beretty\u00f3\u00fajfalu",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

@@ -82,6 +82,10 @@
         "qs_pg:id":909540
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cefbe47809d1f0bd9eee82764df0dfc5",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649589,
+    "wof:lastmodified":1582345311,
     "wof:name":"Alt\u00e1r\u00f3b\u00e1nyatelep",
     "wof:parent_id":101833297,
     "wof:placetype":"neighbourhood",

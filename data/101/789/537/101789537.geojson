@@ -102,6 +102,9 @@
         "wk:page":"Cs\u00f6km\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c407ad250a9df141af7a786fcf1db3c5",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101789537,
-    "wof:lastmodified":1566650379,
+    "wof:lastmodified":1582345350,
     "wof:name":"Cs\u00f6km\u0151",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

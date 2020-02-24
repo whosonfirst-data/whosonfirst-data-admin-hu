@@ -113,6 +113,9 @@
         "wk:page":"T\u00f6lt\u00e9stava"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2b2832a554dfb56a0882330ab90fca3",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650239,
+    "wof:lastmodified":1582345331,
     "wof:name":"T\u00f6lt\u00e9stava",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

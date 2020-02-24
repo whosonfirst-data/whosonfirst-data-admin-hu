@@ -105,6 +105,9 @@
         "wk:page":"V\u00e1cr\u00e1t\u00f3t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e4475ddb002bf6a73064a49bf0f517d",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650219,
+    "wof:lastmodified":1582345328,
     "wof:name":"V\u00e1cr\u00e1t\u00f3t",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

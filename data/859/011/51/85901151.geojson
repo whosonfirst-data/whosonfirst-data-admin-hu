@@ -76,6 +76,9 @@
         "gp:id":809881
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8cdcdd421617a22ce947cb7bcab2109",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649580,
+    "wof:lastmodified":1582345309,
     "wof:name":"Kismih\u00e1lyt\u00f3d\u016fl\u0151",
     "wof:parent_id":101788327,
     "wof:placetype":"neighbourhood",

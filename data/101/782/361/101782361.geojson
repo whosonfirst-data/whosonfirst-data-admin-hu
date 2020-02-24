@@ -112,6 +112,9 @@
         "wk:page":"Tiszanagyfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d06ac169595a99543ef8990e724c14e",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650258,
+    "wof:lastmodified":1582345333,
     "wof:name":"Tiszanagyfalu",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

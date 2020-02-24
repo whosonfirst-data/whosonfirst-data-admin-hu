@@ -138,6 +138,9 @@
         "wk:page":"Kistelek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"664f77b067d426d848ea6c108f6d4be2",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345320,
     "wof:name":"Kistelek",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

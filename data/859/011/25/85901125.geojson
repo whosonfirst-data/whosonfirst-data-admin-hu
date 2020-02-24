@@ -81,6 +81,10 @@
         "qs_pg:id":211572
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"830088b27b345b01c83e01f719b9b2bb",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649586,
+    "wof:lastmodified":1582345310,
     "wof:name":"Homokd\u016fl\u0151",
     "wof:parent_id":101785881,
     "wof:placetype":"neighbourhood",

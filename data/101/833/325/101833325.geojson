@@ -104,6 +104,9 @@
         "wk:page":"Zebeg\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7e53607c812adcc7433c1c989e68493",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650224,
+    "wof:lastmodified":1582345329,
     "wof:name":"Zebeg\u00e9ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

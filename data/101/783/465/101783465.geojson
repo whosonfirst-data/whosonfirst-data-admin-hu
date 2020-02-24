@@ -105,6 +105,9 @@
         "wk:page":"Cered"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17dd75c87e8ac81868b2aad8f8692fff",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650273,
+    "wof:lastmodified":1582345335,
     "wof:name":"Cered",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

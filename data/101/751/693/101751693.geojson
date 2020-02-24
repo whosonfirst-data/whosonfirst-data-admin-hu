@@ -403,6 +403,9 @@
         "wk:page":"Veszpr\u00e9m"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a8fac006e5f1083c749a14e4ba65a8e",
     "wof:hierarchy":[
         {
@@ -417,7 +420,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650300,
+    "wof:lastmodified":1582345339,
     "wof:name":"Veszpr\u00e9m",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

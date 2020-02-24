@@ -114,6 +114,9 @@
         "wk:page":"Alm\u00e1sf\u00fczit\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c018bbdc2cb0e5d32b4bb57df6b271a2",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101785791,
-    "wof:lastmodified":1566650238,
+    "wof:lastmodified":1582345331,
     "wof:name":"Alm\u00e1sf\u00fczit\u0151",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

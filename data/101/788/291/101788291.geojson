@@ -109,6 +109,9 @@
         "wk:page":"Kocs\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d512ce9d22b7761f70c1b271c8b75a25",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650329,
+    "wof:lastmodified":1582345343,
     "wof:name":"Kocs\u00e9r",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

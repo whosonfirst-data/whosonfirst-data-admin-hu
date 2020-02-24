@@ -112,6 +112,9 @@
         "wk:page":"P\u00e1ty"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a08cfa739d297366e75ce669e3e7392",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650352,
+    "wof:lastmodified":1582345346,
     "wof:name":"P\u00e1ty",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

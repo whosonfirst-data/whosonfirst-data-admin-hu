@@ -111,6 +111,9 @@
         "wd:id":"Q1100896"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9981a187b5548e936ed132c5d4f6c3ae",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"Jobb\u00e1gyi",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

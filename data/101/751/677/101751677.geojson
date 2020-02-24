@@ -271,6 +271,9 @@
         "wk:page":"Nagykanizsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b75b84ea3b477798f5a193fae7eb8d0e",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650302,
+    "wof:lastmodified":1582345339,
     "wof:name":"Nagykanizsa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Ebes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7980cc86826eee643130a1281c393736",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650351,
+    "wof:lastmodified":1582345346,
     "wof:name":"Ebes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

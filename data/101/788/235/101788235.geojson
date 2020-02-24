@@ -98,6 +98,9 @@
         "wk:page":"\u00d6cs\u00f6d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15e607e67a5e8fcb7b938b04c08e61b0",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650314,
+    "wof:lastmodified":1582345341,
     "wof:name":"\u00d6cs\u00f6d",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

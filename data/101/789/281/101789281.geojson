@@ -112,6 +112,9 @@
         "wk:page":"Harta, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa827cd40286da32e3ad84b60bfca05f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650370,
+    "wof:lastmodified":1582345349,
     "wof:name":"Harta",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

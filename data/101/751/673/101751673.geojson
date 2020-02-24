@@ -407,6 +407,9 @@
         "wk:page":"Zalaegerszeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c77331407be6ef780af5981118d0208",
     "wof:hierarchy":[
         {
@@ -421,7 +424,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650300,
+    "wof:lastmodified":1582345339,
     "wof:name":"Zalaegerszeg",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

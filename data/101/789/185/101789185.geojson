@@ -101,6 +101,9 @@
         "wk:page":"Zalasz\u00e1nt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0702db3b9ebf39136a9b94ca44d39b89",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650394,
+    "wof:lastmodified":1582345351,
     "wof:name":"Zalasz\u00e1nt\u00f3",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Alap, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e82776e46b9e23ec589a82d668577b76",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1582345327,
     "wof:name":"Alap",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
         "wk:page":"Katym\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c241bc910bdfd06eb812c49f57a9667",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650187,
+    "wof:lastmodified":1582345324,
     "wof:name":"Katym\u00e1r",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

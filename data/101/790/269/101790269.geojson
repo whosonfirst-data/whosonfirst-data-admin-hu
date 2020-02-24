@@ -109,6 +109,9 @@
         "wk:page":"Zomba, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b1fa154d27ff94616d8b57dc9346ab3",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345320,
     "wof:name":"Zomba",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

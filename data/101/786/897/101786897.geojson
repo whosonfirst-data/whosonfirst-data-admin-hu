@@ -101,6 +101,9 @@
         "wk:page":"Gyermely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f63a8c3faa185b85a1208e02391847a0",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650349,
+    "wof:lastmodified":1582345345,
     "wof:name":"Gyermely",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wd:id":"Q672245"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fbb6e7ce11c6db7cb43fb91db447664",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"Cs\u00e1ny",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

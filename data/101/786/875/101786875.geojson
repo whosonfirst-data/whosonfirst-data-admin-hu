@@ -112,6 +112,9 @@
         "wk:page":"Bajna, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00be0ad985764bd4c234c0926575c737",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345344,
     "wof:name":"Bajna",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

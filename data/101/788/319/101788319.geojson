@@ -117,6 +117,9 @@
         "wd:id":"Q330162"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6a6b2ab20422206150c6e70e39ef83e",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650334,
+    "wof:lastmodified":1582345343,
     "wof:name":"\u00dajharty\u00e1n",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

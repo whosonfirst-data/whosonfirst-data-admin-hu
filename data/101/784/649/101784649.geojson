@@ -145,6 +145,9 @@
         "wk:page":"Hajd\u00fan\u00e1n\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a327af17edbc21c7ea5e26d0b8afd0c8",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650293,
+    "wof:lastmodified":1582345337,
     "wof:name":"Hajd\u00fan\u00e1n\u00e1s",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

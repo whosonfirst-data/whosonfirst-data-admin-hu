@@ -113,6 +113,9 @@
         "wk:page":"Gy\u00f6ngy\u00f6sfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4c89a094ff2af9abd4e4244577d7825",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"Gy\u00f6ngy\u00f6sfalu",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

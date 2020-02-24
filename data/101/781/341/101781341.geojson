@@ -112,6 +112,9 @@
         "wk:page":"Tuzs\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0526b636eddc128bc183d4875f7af163",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650337,
+    "wof:lastmodified":1582345344,
     "wof:name":"Tuzs\u00e9r",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

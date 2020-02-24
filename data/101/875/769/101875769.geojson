@@ -150,6 +150,10 @@
         "wk:page":"Szigethalom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a4639be0aa621691ae84d0ddb2d0b50",
     "wof:hierarchy":[
         {
@@ -164,7 +168,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"Szigethalom",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

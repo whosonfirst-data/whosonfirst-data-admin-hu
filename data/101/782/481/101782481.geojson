@@ -111,6 +111,9 @@
         "wk:page":"Mez\u0151zombor"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69bcd239a025cb4f758b983351f0df95",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101782481,
-    "wof:lastmodified":1566650259,
+    "wof:lastmodified":1582345333,
     "wof:name":"Mez\u0151zombor",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

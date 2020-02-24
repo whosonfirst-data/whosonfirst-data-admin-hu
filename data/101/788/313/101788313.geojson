@@ -115,6 +115,9 @@
         "wk:page":"Bugyi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6bb8ef88dd479d522cf23c7a8b594857",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650319,
+    "wof:lastmodified":1582345342,
     "wof:name":"Bugyi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

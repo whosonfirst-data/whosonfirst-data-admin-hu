@@ -188,6 +188,9 @@
         "wk:page":"Szentendre"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62636381891577fb181efcb22c16ffa5",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650230,
+    "wof:lastmodified":1582345329,
     "wof:name":"Szentendre",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

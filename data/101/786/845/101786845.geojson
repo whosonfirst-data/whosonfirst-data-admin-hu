@@ -109,6 +109,9 @@
         "wk:page":"Csan\u00e1dap\u00e1ca"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c9fdca9ef5f312e5deaf7da6ba6faf8",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650340,
+    "wof:lastmodified":1582345344,
     "wof:name":"Csan\u00e1dap\u00e1ca",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

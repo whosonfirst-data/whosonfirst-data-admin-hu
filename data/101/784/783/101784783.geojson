@@ -108,6 +108,9 @@
         "wd:id":"Q631749"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c7017c4c01ac022ac66758b1c073b28",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650290,
+    "wof:lastmodified":1582345337,
     "wof:name":"Palot\u00e1s",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

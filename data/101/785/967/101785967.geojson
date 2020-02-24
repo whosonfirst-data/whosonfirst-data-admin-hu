@@ -93,6 +93,9 @@
         "wd:id":"Q780264"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8c3cd1fec6eb2dddbb208fb5ae87752",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"Poroszl\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Hern\u00e1dn\u00e9meti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b8aaec6d25a4517fbcb2342ba2a1992",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650227,
+    "wof:lastmodified":1582345329,
     "wof:name":"Hern\u00e1dn\u00e9meti",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

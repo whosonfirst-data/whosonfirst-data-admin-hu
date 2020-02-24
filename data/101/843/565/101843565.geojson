@@ -112,6 +112,9 @@
         "wd:id":"Q760889"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b5c15fe33098963b4f4970cec2a0fbc",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650200,
+    "wof:lastmodified":1582345326,
     "wof:name":"Andornakt\u00e1lya",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

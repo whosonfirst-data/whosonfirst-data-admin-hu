@@ -127,6 +127,9 @@
         "wk:page":"Koz\u00e1rmisleny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02f6ddf66df3706915fbfd4f8e542ce5",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650189,
+    "wof:lastmodified":1582345324,
     "wof:name":"Koz\u00e1rmisleny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

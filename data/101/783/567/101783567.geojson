@@ -127,6 +127,9 @@
         "wk:page":"M\u00e1riap\u00f3cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8edc93b7accf2812460cfe13975f7553",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650265,
+    "wof:lastmodified":1582345334,
     "wof:name":"M\u00e1riap\u00f3cs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -120,6 +120,9 @@
         "wk:page":"Kimle"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"921e5c996c9f3b55cef546e92b6435fb",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101785849,
-    "wof:lastmodified":1566650245,
+    "wof:lastmodified":1582345332,
     "wof:name":"Kimle",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -169,6 +169,9 @@
         "wk:page":"J\u00e1szber\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"613fae3a49cc8e583c4311d9948cc3fe",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650343,
+    "wof:lastmodified":1582345345,
     "wof:name":"J\u00e1szber\u00e9ny",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

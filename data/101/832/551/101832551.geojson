@@ -106,6 +106,9 @@
         "wk:page":"Ver\u0151ce, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a2c9402d27da724a28b2afbd9fbbfcc",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101832551,
-    "wof:lastmodified":1566650216,
+    "wof:lastmodified":1582345327,
     "wof:name":"Ver\u0151ce",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

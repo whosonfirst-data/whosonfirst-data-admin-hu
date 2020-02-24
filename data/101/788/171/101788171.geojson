@@ -115,6 +115,9 @@
         "wk:page":"R\u00e1ckereszt\u00far"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b442acffe0e469819b21823bbdc063f",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650335,
+    "wof:lastmodified":1582345344,
     "wof:name":"R\u00e1ckereszt\u00far",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

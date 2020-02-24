@@ -110,6 +110,9 @@
         "wk:page":"Lev\u00e9l"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fcef7bd5b92f72b1ad9365e59137af32",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650246,
+    "wof:lastmodified":1582345332,
     "wof:name":"Lev\u00e9l",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

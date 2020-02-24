@@ -69,6 +69,9 @@
         "gp:id":809560
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1fc754aae8f9ebe63f8098ab2df45923",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649582,
+    "wof:lastmodified":1582345309,
     "wof:name":"Kisb\u00e1csa",
     "wof:parent_id":101751711,
     "wof:placetype":"neighbourhood",

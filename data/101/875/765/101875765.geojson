@@ -133,6 +133,10 @@
         "wk:page":"Zam\u00e1rdi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63fd3c85160f1222b7ee5aebb9b57cfa",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650193,
+    "wof:lastmodified":1582345325,
     "wof:name":"Zam\u00e1rdi",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

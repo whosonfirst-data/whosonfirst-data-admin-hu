@@ -109,6 +109,9 @@
         "wk:page":"Madocsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe317b2be0cf314f5d1e33e830b3d84a",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650382,
+    "wof:lastmodified":1582345350,
     "wof:name":"Madocsa",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

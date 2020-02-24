@@ -109,6 +109,9 @@
         "wk:page":"Tiszabura"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e11801213537dd289c3567f2c9fd82da",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650346,
+    "wof:lastmodified":1582345345,
     "wof:name":"Tiszabura",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

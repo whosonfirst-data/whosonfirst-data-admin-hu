@@ -133,6 +133,9 @@
         "wk:page":"Nagymaros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8468d2599cdf45b7a574a71891de6ac7",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650229,
+    "wof:lastmodified":1582345329,
     "wof:name":"Nagymaros",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

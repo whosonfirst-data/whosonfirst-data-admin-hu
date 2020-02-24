@@ -379,6 +379,9 @@
         "wk:page":"Ecser"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90ff44a0fd96207e728219df0859aa89",
     "wof:hierarchy":[
         {
@@ -393,7 +396,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650359,
+    "wof:lastmodified":1582345347,
     "wof:name":"Ecser",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

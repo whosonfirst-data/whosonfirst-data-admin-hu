@@ -102,6 +102,9 @@
         "wd:id":"Q543964"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c083c9432bfcb11a31a03b9e8b7280f",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650249,
+    "wof:lastmodified":1582345332,
     "wof:name":"Tiszan\u00e1na",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

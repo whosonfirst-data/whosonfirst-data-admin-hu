@@ -108,6 +108,9 @@
         "wk:page":"Budafok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"919ab2cd34d7a5c1bbcc34831e2adf3e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649565,
+    "wof:lastmodified":1582345307,
     "wof:name":"Promontor",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

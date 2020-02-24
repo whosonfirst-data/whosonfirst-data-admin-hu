@@ -148,6 +148,9 @@
         "wk:page":"R\u00e1ckeve"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"188c1efb01ceb045ad001ddb94a51f11",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650231,
+    "wof:lastmodified":1582345329,
     "wof:name":"R\u00e1ckeve",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

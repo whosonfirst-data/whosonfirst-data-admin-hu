@@ -78,6 +78,10 @@
         "qs_pg:id":910528
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a225a7027737a662e97573a45b5b7f7",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649575,
+    "wof:lastmodified":1582345308,
     "wof:name":"T\u00f6r\u00f6ktanya",
     "wof:parent_id":101754557,
     "wof:placetype":"neighbourhood",

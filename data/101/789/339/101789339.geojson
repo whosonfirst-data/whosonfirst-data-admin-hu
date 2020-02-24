@@ -109,6 +109,9 @@
         "wk:page":"\u00dark\u00fat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b27656ff208542057b3b57237337754",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650366,
+    "wof:lastmodified":1582345348,
     "wof:name":"\u00dark\u00fat",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

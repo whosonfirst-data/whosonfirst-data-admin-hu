@@ -86,6 +86,9 @@
         "wd:id":"Q1160072"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18b0cd3fe36e4528ff1e4c9357805738",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649584,
+    "wof:lastmodified":1582345310,
     "wof:name":"Lagymanyos",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

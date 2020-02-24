@@ -125,6 +125,9 @@
         "wk:page":"Kunfeh\u00e9rt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20488d5bc0f4d38126587a68aeec1f50",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650148,
+    "wof:lastmodified":1582345319,
     "wof:name":"Kunfeh\u00e9rt\u00f3",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

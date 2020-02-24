@@ -72,6 +72,9 @@
         "gp:id":818244
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1142a28f4a39abb68a889cc192bc516f",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649574,
+    "wof:lastmodified":1582345308,
     "wof:name":"Zsoldosd\u016fl\u0151",
     "wof:parent_id":101787109,
     "wof:placetype":"neighbourhood",

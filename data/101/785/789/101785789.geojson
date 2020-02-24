@@ -111,6 +111,9 @@
         "wk:page":"D\u00f6m\u00f6s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f3bd3d80f34a7b83eb3ea50bda0d9d7",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650250,
+    "wof:lastmodified":1582345333,
     "wof:name":"D\u00f6m\u00f6s",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
         "wk:page":"Szentl\u0151rinc"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d1ff04986d8ce1432c905892e7eb234",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101791343,
-    "wof:lastmodified":1566650190,
+    "wof:lastmodified":1582345324,
     "wof:name":"Szentl\u0151rinc",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

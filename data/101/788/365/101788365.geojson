@@ -101,6 +101,9 @@
         "wk:page":"Szentp\u00e9terszeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e87b83c5ac28e835c4f4011fb121ab87",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650306,
+    "wof:lastmodified":1582345340,
     "wof:name":"Szentp\u00e9terszeg",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

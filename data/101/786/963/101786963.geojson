@@ -127,6 +127,9 @@
         "wk:page":"Mosonszentmikl\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d238f61fdfa3bfe8574fd959b151e247",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650339,
+    "wof:lastmodified":1582345344,
     "wof:name":"Mosonszentmikl\u00f3s",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

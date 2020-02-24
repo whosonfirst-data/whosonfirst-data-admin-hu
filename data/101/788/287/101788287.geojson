@@ -108,6 +108,9 @@
         "wk:page":"T\u00e1pi\u00f3sz\u0151l\u0151s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99fd6e25b922c4e9e232673015c8f012",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101788287,
-    "wof:lastmodified":1566650310,
+    "wof:lastmodified":1582345341,
     "wof:name":"T\u00e1pi\u00f3sz\u0151l\u0151s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

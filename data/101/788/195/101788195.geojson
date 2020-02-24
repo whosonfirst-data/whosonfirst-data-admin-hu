@@ -100,6 +100,9 @@
         "wd:id":"Q1047658"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74307c8dbe1c48cb02307988e4a5b0ee",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650306,
+    "wof:lastmodified":1582345340,
     "wof:name":"Tiszas\u00fcly",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

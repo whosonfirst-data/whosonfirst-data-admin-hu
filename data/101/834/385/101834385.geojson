@@ -197,6 +197,9 @@
         "wk:page":"Si\u00f3fok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9087d7f186b595c91bf93dc3f2fedbd0",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650233,
+    "wof:lastmodified":1582345330,
     "wof:name":"Si\u00f3fok",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

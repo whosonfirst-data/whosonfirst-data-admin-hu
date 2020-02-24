@@ -336,6 +336,9 @@
         "wk:page":"Szombathely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce78e15d6705f0a510a8348cacb6e7d5",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650300,
+    "wof:lastmodified":1582345339,
     "wof:name":"Szombathely",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
         "wk:page":"M\u00e1riak\u00e1lnok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c778036d670591e554a310cefa795a59",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650247,
+    "wof:lastmodified":1582345332,
     "wof:name":"M\u00e1riak\u00e1lnok",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

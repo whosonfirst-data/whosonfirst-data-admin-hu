@@ -104,6 +104,9 @@
         "wk:page":"Tabdi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ca06173251844ee0893ee62a29db2dc",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650348,
+    "wof:lastmodified":1582345345,
     "wof:name":"Tabdi",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

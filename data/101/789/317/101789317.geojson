@@ -145,6 +145,9 @@
         "wd:id":"Q830411"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c62660aaf69a62377e738255f3652322",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650393,
+    "wof:lastmodified":1582345351,
     "wof:name":"K\u00f6rmend",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

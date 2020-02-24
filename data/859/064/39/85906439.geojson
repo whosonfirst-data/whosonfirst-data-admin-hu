@@ -101,6 +101,9 @@
         "wd:id":"Q851045"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7beba46dc94b2b49fc6140d2e83ffb37",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649579,
+    "wof:lastmodified":1582345309,
     "wof:name":"Rakoshegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -100,6 +100,9 @@
         "wd:id":"Q950601"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"939fbbef4f4256eadfa5316f866548aa",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650223,
+    "wof:lastmodified":1582345328,
     "wof:name":"Majosh\u00e1za",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

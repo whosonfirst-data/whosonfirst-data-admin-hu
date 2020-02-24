@@ -98,6 +98,9 @@
         "wk:page":"Angyalf\u00f6ld"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f446b69271ab29d310f6997e56daa5bd",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649588,
+    "wof:lastmodified":1582345310,
     "wof:name":"Angyalfold",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

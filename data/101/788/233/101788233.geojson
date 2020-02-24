@@ -110,6 +110,9 @@
         "wk:page":"Tiszap\u00fcsp\u00f6ki"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac01d373b826e1461bd3a41450dae77e",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650317,
+    "wof:lastmodified":1582345341,
     "wof:name":"Tiszap\u00fcsp\u00f6ki",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

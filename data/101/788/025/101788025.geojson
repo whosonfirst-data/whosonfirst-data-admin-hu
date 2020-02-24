@@ -168,6 +168,9 @@
         "wk:page":"K\u0151szeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"908181447957d5a5aee8991a1135adc5",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101788025,
-    "wof:lastmodified":1566650311,
+    "wof:lastmodified":1582345341,
     "wof:name":"K\u0151szeg",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

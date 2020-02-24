@@ -125,6 +125,9 @@
         "wk:page":"Badacsonytomaj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3a6d4fc723668dec42a687c39c95513",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650215,
+    "wof:lastmodified":1582345327,
     "wof:name":"Badacsonytomaj",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

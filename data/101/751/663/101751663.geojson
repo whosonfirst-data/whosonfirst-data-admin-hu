@@ -377,6 +377,9 @@
         "wk:page":"P\u00e9cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"932cbfd42b92765910b46f0103c2b9de",
     "wof:hierarchy":[
         {
@@ -391,7 +394,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650302,
+    "wof:lastmodified":1582345339,
     "wof:name":"P\u00e9cs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

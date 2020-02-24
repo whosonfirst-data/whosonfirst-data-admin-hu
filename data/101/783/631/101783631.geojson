@@ -110,6 +110,9 @@
         "wk:page":"D\u00e9destapolcs\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd74656441ca2ea92940750e1dd28940",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650281,
+    "wof:lastmodified":1582345336,
     "wof:name":"D\u00e9destapolcs\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

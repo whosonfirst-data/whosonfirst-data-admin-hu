@@ -284,6 +284,9 @@
         "wk:page":"Esztergom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d8e49b6c1c2cfcbd27753211cd1ed75",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650220,
+    "wof:lastmodified":1582345328,
     "wof:name":"Esztergom",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

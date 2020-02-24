@@ -166,6 +166,9 @@
         "wk:page":"Kalocsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7eb42f5f1402d7a3266754e7b3cbe219",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650148,
+    "wof:lastmodified":1582345319,
     "wof:name":"Kalocsa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

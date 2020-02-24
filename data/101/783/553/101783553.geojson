@@ -113,6 +113,9 @@
         "wk:page":"K\u00f3taj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab0e3a3a5e0d54d7c0ac9e31977e0757",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650277,
+    "wof:lastmodified":1582345335,
     "wof:name":"K\u00f3taj",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

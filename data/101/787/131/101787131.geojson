@@ -119,6 +119,9 @@
         "wk:page":"Kisk\u00f6re"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d087d9bec626ccabfa74a652ca909df4",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650356,
+    "wof:lastmodified":1582345347,
     "wof:name":"Kisk\u00f6re",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

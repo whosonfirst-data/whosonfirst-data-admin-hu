@@ -117,6 +117,9 @@
         "wk:page":"B\u0151ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6b140a697787071c0fe8f98a78ec54c",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101786981,
-    "wof:lastmodified":1566650351,
+    "wof:lastmodified":1582345346,
     "wof:name":"B\u0151ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"Hidas"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbe8671de614baeb9af03bd693f3c8c4",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650204,
+    "wof:lastmodified":1582345326,
     "wof:name":"Hidas",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

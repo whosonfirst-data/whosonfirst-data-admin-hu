@@ -133,6 +133,9 @@
         "wk:page":"Rajka"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ac9ca25bb9f3a5515aed3d94c75ebc6",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650287,
+    "wof:lastmodified":1582345337,
     "wof:name":"Rajka",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

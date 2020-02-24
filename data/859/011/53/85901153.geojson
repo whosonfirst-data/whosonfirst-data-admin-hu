@@ -106,6 +106,9 @@
         "wd:id":"Q857943"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8599a47362b97f16f9cc767e6acf464b",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649584,
+    "wof:lastmodified":1582345310,
     "wof:name":"Kispest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

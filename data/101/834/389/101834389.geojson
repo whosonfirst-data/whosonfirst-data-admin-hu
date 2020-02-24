@@ -109,6 +109,9 @@
         "wk:page":"Balaton\u0151sz\u00f6d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48cfc7dd59528ef0db5d16a06288dcf2",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650236,
+    "wof:lastmodified":1582345330,
     "wof:name":"Balatonsz\u00e1rsz\u00f3",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

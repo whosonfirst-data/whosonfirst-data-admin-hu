@@ -109,6 +109,9 @@
         "wk:page":"T\u00e1pi\u00f3bicske"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59e8ef5480504c27095c3b2aedcd0a71",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650315,
+    "wof:lastmodified":1582345341,
     "wof:name":"T\u00e1pi\u00f3bicske",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

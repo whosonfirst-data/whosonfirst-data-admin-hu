@@ -109,6 +109,9 @@
         "wk:page":"T\u00e1pl\u00e1nszentkereszt"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5e7bb0e7debf3ae77e246c40f638716",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650210,
+    "wof:lastmodified":1582345327,
     "wof:name":"T\u00e1pl\u00e1nszentkereszt",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

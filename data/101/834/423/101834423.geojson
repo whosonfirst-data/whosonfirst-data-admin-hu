@@ -124,6 +124,9 @@
         "wk:page":"Balatonkenese"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fb0cea318b527eddc70eb8ff6994c82",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650232,
+    "wof:lastmodified":1582345330,
     "wof:name":"Balatonkenese",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

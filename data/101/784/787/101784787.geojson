@@ -143,6 +143,9 @@
         "wk:page":"\u00dajfeh\u00e9rt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9cea2109541ed0cf8e328907d4d46967",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650298,
+    "wof:lastmodified":1582345338,
     "wof:name":"\u00dajfeh\u00e9rt\u00f3",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

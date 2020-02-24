@@ -121,6 +121,9 @@
         "wd:id":"Q1186668"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7473092452b4fd2234373f35b792e55f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649568,
+    "wof:lastmodified":1582345307,
     "wof:name":"Sasad",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

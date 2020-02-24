@@ -127,6 +127,9 @@
         "wk:page":"Tolcsva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52da77d4bbf69d75dced243123dfa9fc",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650262,
+    "wof:lastmodified":1582345334,
     "wof:name":"Tolcsva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

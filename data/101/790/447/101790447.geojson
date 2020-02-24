@@ -104,6 +104,9 @@
         "wk:page":"F\u00f6lde\u00e1k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95fe6ae03a412b9567e6858800abd44a",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650151,
+    "wof:lastmodified":1582345319,
     "wof:name":"F\u00f6lde\u00e1k",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

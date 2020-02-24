@@ -103,6 +103,9 @@
         "wk:page":"Bogyiszl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e1b0cafff9c27f07b38229ea5933708",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101844861,
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1582345326,
     "wof:name":"Bogyiszl\u00f3",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

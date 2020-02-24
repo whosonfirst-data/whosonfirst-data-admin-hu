@@ -131,6 +131,9 @@
         "wk:page":"Kis\u00fajsz\u00e1ll\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"339ee4f43d25f8b9c3f8cb7f624cc3bf",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650327,
+    "wof:lastmodified":1582345343,
     "wof:name":"Kis\u00fajsz\u00e1ll\u00e1s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

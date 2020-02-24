@@ -115,6 +115,9 @@
         "wk:page":"L\u00e9b\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9881cabfa96f9bcebbd23ae4a01a62d9",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650345,
+    "wof:lastmodified":1582345345,
     "wof:name":"L\u00e9b\u00e9ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

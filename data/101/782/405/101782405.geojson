@@ -109,6 +109,9 @@
         "wk:page":"Boldogk\u0151v\u00e1ralja"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29cd2722027313cea8fd21dccc2a824a",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101782405,
-    "wof:lastmodified":1566650261,
+    "wof:lastmodified":1582345334,
     "wof:name":"Boldogk\u0151v\u00e1ralja",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

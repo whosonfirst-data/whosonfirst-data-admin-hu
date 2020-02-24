@@ -123,6 +123,9 @@
         "wk:page":"Izs\u00f3falva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c5801d371405c329d6a42bf4f3d4ab5",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650220,
+    "wof:lastmodified":1582345328,
     "wof:name":"Izs\u00f3falva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

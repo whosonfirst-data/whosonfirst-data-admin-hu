@@ -118,6 +118,9 @@
         "wk:page":"Bag, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e515a250612aec475ade410e98d8f5e",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650225,
+    "wof:lastmodified":1582345329,
     "wof:name":"Bag",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

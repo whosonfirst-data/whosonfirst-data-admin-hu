@@ -121,6 +121,9 @@
         "wk:page":"R\u00e1k\u00f3czifalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4c12cc02b90c38b21d5b7760c6bd729",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650387,
+    "wof:lastmodified":1582345351,
     "wof:name":"R\u00e1k\u00f3czifalva",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Erd\u0151kertes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8c56aa420db194a390ea9f99558d15b",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101833345,
-    "wof:lastmodified":1566650229,
+    "wof:lastmodified":1582345329,
     "wof:name":"Erd\u0151kertes",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

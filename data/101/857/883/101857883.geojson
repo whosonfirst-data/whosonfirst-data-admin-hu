@@ -123,6 +123,10 @@
         "wk:page":"Cs\u00e1voly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2997577c118a39720a9e055919a7f7c4",
     "wof:hierarchy":[
         {
@@ -137,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650216,
+    "wof:lastmodified":1582345327,
     "wof:name":"Cs\u00e1voly",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Beloiannisz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"01fe8f431e158cf1d7b31344eb438666",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650348,
+    "wof:lastmodified":1582345345,
     "wof:name":"Beloiannisz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

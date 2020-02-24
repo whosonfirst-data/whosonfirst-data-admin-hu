@@ -113,6 +113,9 @@
         "wk:page":"\u00d6ttev\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5848dd91654eb39728f4ed614e9754ce",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650339,
+    "wof:lastmodified":1582345344,
     "wof:name":"\u00d6ttev\u00e9ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

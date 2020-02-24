@@ -108,6 +108,9 @@
         "wd:id":"Q1071994"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5b347269b720742be2d74a38df8614b",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650287,
+    "wof:lastmodified":1582345337,
     "wof:name":"Ny\u00edrmih\u00e1lydi",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

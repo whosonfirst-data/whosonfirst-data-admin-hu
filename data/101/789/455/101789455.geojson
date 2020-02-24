@@ -101,6 +101,9 @@
         "wk:page":"Kisapostag"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea946d0f44566495598388554be5a05e",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650373,
+    "wof:lastmodified":1582345349,
     "wof:name":"Kisapostag",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

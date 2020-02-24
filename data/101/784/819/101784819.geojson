@@ -113,6 +113,9 @@
         "wk:page":"Szomolya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfc6cdecae3e11243d92338ff1d3644f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650286,
+    "wof:lastmodified":1582345337,
     "wof:name":"Szomolya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

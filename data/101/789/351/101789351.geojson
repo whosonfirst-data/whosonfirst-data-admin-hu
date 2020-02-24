@@ -166,6 +166,9 @@
         "wk:page":"Tihany"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4cd4e082e87ec59ea8e45247ed25ed2f",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650381,
+    "wof:lastmodified":1582345350,
     "wof:name":"Tihany",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Kurd, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5a0b99c7db1b40417438d8056642233",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650156,
+    "wof:lastmodified":1582345320,
     "wof:name":"Kurd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

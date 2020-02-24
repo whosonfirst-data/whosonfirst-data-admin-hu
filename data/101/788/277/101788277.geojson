@@ -121,6 +121,9 @@
         "wk:page":"T\u00e1pi\u00f3szentm\u00e1rton"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c982fdbdf1602ffece4dd66c21a010f1",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650324,
+    "wof:lastmodified":1582345342,
     "wof:name":"T\u00e1pi\u00f3szentm\u00e1rton",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

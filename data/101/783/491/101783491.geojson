@@ -102,6 +102,9 @@
         "wd:id":"Q639495"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1406e6cb3a611f6e051ea74d66856873",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650273,
+    "wof:lastmodified":1582345335,
     "wof:name":"Rim\u00f3c",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

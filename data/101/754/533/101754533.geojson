@@ -139,6 +139,9 @@
         "wk:page":"Pom\u00e1z"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c59c2221bb86ba183e7df2290a4f413f",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650178,
+    "wof:lastmodified":1582345323,
     "wof:name":"Pom\u00e1z",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

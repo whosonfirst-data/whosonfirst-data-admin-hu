@@ -109,6 +109,9 @@
         "wk:page":"Ny\u00edrvasv\u00e1ri"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d93c1bf412fbc1e0996a3826e530715",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650282,
+    "wof:lastmodified":1582345336,
     "wof:name":"Ny\u00edrvasv\u00e1ri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

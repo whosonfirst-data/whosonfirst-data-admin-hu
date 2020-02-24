@@ -76,6 +76,9 @@
         "gp:id":804190
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3c3a78d98f064df8e2b799988d0f665",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649587,
+    "wof:lastmodified":1582345310,
     "wof:name":"Borb\u00e1nya",
     "wof:parent_id":101751721,
     "wof:placetype":"neighbourhood",

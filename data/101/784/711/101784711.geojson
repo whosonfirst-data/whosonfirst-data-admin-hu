@@ -101,6 +101,9 @@
         "wd:id":"Q782269"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db6ecca2a9111f28785bf7019180fa04",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650298,
+    "wof:lastmodified":1582345338,
     "wof:name":"Szihalom",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

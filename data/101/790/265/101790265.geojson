@@ -113,6 +113,9 @@
         "wk:page":"D\u00f6br\u00f6k\u00f6z"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"933d1157e0404b3d80d989f8d092b816",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650173,
+    "wof:lastmodified":1582345322,
     "wof:name":"D\u00f6br\u00f6k\u00f6z",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -133,6 +133,9 @@
         "wk:page":"Beled"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d6a7be9081bac6a3c56ad58fc8bae7f",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650193,
+    "wof:lastmodified":1582345325,
     "wof:name":"Beled",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

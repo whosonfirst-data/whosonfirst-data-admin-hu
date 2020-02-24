@@ -157,6 +157,9 @@
         "wk:page":"Domb\u00f3v\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87c005cf905909c59b1e9728a81e6da5",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650152,
+    "wof:lastmodified":1582345320,
     "wof:name":"Domb\u00f3v\u00e1r",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

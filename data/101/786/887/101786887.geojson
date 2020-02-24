@@ -123,6 +123,9 @@
         "wd:id":"Q1185458"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1b59b5f618b2ba911bf6dc388460ddb",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345344,
     "wof:name":"Tarj\u00e1n",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

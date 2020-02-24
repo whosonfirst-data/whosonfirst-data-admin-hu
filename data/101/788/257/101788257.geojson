@@ -112,6 +112,9 @@
         "wk:page":"S\u00f3sk\u00fat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e63e348f4c509b77df91b48c8c41287",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650313,
+    "wof:lastmodified":1582345341,
     "wof:name":"S\u00f3sk\u00fat",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

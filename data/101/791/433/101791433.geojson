@@ -118,6 +118,9 @@
         "wk:page":"D\u00e1vod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c6216c5d7bb125f78c828548902ddda",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650188,
+    "wof:lastmodified":1582345324,
     "wof:name":"D\u00e1vod",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

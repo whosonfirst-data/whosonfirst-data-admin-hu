@@ -121,6 +121,9 @@
         "wk:page":"Polg\u00e1rdi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1bb0ef68c8466929367df3021f50aeb",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650371,
+    "wof:lastmodified":1582345349,
     "wof:name":"Polg\u00e1rdi",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

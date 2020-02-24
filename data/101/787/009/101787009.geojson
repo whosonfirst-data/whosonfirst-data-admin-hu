@@ -157,6 +157,9 @@
         "wk:page":"Kapuv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b50981602f3e1746fd71d96e4d2f71f",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650354,
+    "wof:lastmodified":1582345346,
     "wof:name":"Kapuv\u00e1r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

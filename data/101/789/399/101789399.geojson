@@ -112,6 +112,9 @@
         "wk:page":"M\u00e9hker\u00e9k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47bd1a5ea82c43f8b097779123bcf9b2",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650366,
+    "wof:lastmodified":1582345348,
     "wof:name":"M\u00e9hker\u00e9k",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

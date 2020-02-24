@@ -115,6 +115,9 @@
         "wk:page":"Porcsalma"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1c30f511b9dc17744cb7f51106657de",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650201,
+    "wof:lastmodified":1582345326,
     "wof:name":"Porcsalma",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -130,6 +130,9 @@
         "wk:page":"J\u00e1szap\u00e1ti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b1b917c2791bf45217278face07a126",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650339,
+    "wof:lastmodified":1582345344,
     "wof:name":"J\u00e1szap\u00e1ti",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

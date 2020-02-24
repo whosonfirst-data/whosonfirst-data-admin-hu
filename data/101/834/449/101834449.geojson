@@ -101,6 +101,9 @@
         "wk:page":"Szigetbecse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0bb2be0cf01160e657aa45834257ae1",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650231,
+    "wof:lastmodified":1582345329,
     "wof:name":"Szigetbecse",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

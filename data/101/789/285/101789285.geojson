@@ -118,6 +118,9 @@
         "wk:page":"Bugac"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a600325a546c98c2aac4aacde5aa1a1b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650386,
+    "wof:lastmodified":1582345351,
     "wof:name":"Bugac",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

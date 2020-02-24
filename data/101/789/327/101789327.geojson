@@ -110,6 +110,9 @@
         "wk:page":"Soml\u00f3v\u00e1s\u00e1rhely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84d96a7c95aa88ac1c1b0a45080d80fb",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650391,
+    "wof:lastmodified":1582345351,
     "wof:name":"Soml\u00f3v\u00e1s\u00e1rhely",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

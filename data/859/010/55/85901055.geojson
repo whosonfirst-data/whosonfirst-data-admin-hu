@@ -74,6 +74,10 @@
         "qs_pg:id":1348525
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"972f637e410fc98237c73c43914add6f",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649590,
+    "wof:lastmodified":1582345311,
     "wof:name":"Bartina",
     "wof:parent_id":101790295,
     "wof:placetype":"neighbourhood",

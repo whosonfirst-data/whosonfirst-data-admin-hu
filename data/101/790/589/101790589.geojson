@@ -112,6 +112,9 @@
         "wk:page":"Kaszaper"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d7fcdde8606a656299d372d2dc7252d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650162,
+    "wof:lastmodified":1582345321,
     "wof:name":"Kaszaper",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

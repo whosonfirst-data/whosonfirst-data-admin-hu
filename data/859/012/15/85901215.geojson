@@ -91,6 +91,9 @@
         "qs_pg:id":1167218
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5885782e45b4b21cb6a1075d8092b70e",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649571,
+    "wof:lastmodified":1582345308,
     "wof:name":"Matyasfold",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

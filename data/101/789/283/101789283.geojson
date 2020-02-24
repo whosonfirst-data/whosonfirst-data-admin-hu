@@ -121,6 +121,9 @@
         "wk:page":"Akaszt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b74fe95a16dd2318345380581bff94a",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650383,
+    "wof:lastmodified":1582345350,
     "wof:name":"Akaszt\u00f3",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -107,6 +107,9 @@
         "wk:page":"Varb\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0771416c13513b9151245db8743e8226",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650228,
+    "wof:lastmodified":1582345329,
     "wof:name":"Varb\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

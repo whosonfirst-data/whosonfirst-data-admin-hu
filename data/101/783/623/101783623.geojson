@@ -111,6 +111,9 @@
         "wk:page":"Hej\u0151b\u00e1ba"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffc7288da1f0f53b10085867779ed286",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101783623,
-    "wof:lastmodified":1566650278,
+    "wof:lastmodified":1582345336,
     "wof:name":"Hej\u0151b\u00e1ba",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

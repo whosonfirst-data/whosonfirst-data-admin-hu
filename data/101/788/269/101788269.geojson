@@ -112,6 +112,9 @@
         "wk:page":"Farmos"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d76e09211e19e99b4787d9a0c73e7c3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650316,
+    "wof:lastmodified":1582345341,
     "wof:name":"Farmos",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

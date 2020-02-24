@@ -456,6 +456,9 @@
         "wk:page":"Debrecen"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"650e9b31033709c4985db41d5b1fa10c",
     "wof:hierarchy":[
         {
@@ -470,7 +473,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650303,
+    "wof:lastmodified":1582345339,
     "wof:name":"Debrecen",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

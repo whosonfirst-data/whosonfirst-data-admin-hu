@@ -104,6 +104,9 @@
         "wd:id":"Q1104493"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8ad3c58529bed5c34b1f2d7a24b3370",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101833393,
-    "wof:lastmodified":1566650226,
+    "wof:lastmodified":1582345329,
     "wof:name":"Karancslapujt\u0151",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

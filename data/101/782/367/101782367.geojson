@@ -124,6 +124,9 @@
         "wk:page":"Ny\u00edrmada"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"373559dc2d9c6b4a681422085909b175",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650258,
+    "wof:lastmodified":1582345333,
     "wof:name":"Ny\u00edrmada",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

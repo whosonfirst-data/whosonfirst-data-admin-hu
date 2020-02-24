@@ -172,6 +172,9 @@
         "wk:page":"Balassagyarmat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7fe6a79e0fa9a941174ecd56a7ec637",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650269,
+    "wof:lastmodified":1582345334,
     "wof:name":"Balassagyarmat",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

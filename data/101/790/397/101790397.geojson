@@ -109,6 +109,9 @@
         "wk:page":"Csengele"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"467aca212d8a9761a8cae1eae3893087",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650150,
+    "wof:lastmodified":1582345319,
     "wof:name":"Csengele",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

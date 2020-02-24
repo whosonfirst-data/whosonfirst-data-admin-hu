@@ -112,6 +112,9 @@
         "wk:page":"J\u00e1szd\u00f3zsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ec328b376ae3f62019dc0fbd237f40d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650240,
+    "wof:lastmodified":1582345331,
     "wof:name":"J\u00e1szd\u00f3zsa",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

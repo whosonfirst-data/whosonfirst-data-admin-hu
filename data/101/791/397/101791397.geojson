@@ -121,6 +121,9 @@
         "wk:page":"Kadark\u00fat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f17ff1981064b4ca135f6c257e84419",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650183,
+    "wof:lastmodified":1582345324,
     "wof:name":"Kadark\u00fat",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

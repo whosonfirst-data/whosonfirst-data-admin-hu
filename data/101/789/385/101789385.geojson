@@ -101,6 +101,9 @@
         "wk:page":"T\u00f3tv\u00e1zsony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"663e0c3d3b9bfcf85fe6efe9b6aa3a9b",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650377,
+    "wof:lastmodified":1582345349,
     "wof:name":"T\u00f3tv\u00e1zsony",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

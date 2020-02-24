@@ -139,6 +139,9 @@
         "wk:page":"Dunaharaszti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c8c85236d9a0a386a58abd74b9a93be",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"Dunaharaszti",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

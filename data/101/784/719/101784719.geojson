@@ -122,6 +122,9 @@
         "wk:page":"F\u00fczesabony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f9cacd0e48da85d48246bb2f72e923a",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"F\u00fczesabony",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

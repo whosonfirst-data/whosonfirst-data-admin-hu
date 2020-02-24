@@ -154,6 +154,9 @@
         "wk:page":"G\u00e1rdony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77e65286aa17910677668895adf340ed",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650235,
+    "wof:lastmodified":1582345330,
     "wof:name":"G\u00e1rdony",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

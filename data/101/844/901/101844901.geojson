@@ -107,6 +107,9 @@
         "wk:page":"Als\u00f3p\u00e1hok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"062f60ddcb88a93ffcbdb51bcb6bf7f9",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650204,
+    "wof:lastmodified":1582345326,
     "wof:name":"Als\u00f3p\u00e1hok",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

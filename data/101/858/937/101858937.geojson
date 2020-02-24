@@ -111,6 +111,10 @@
         "wk:page":"D\u00e9legyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"366bd9ae399cd4f389a1f4f2206ba8e5",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650216,
+    "wof:lastmodified":1582345327,
     "wof:name":"D\u00e9legyh\u00e1za",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -380,6 +380,9 @@
         "wk:page":"Szeksz\u00e1rd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"808393c0da0962712e8a1c3529e91895",
     "wof:hierarchy":[
         {
@@ -394,7 +397,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650156,
+    "wof:lastmodified":1582345320,
     "wof:name":"Szeksz\u00e1rd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

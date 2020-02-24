@@ -111,6 +111,9 @@
         "wk:page":"Legyesb\u00e9nye"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba360ac0bfc70843987af15b46fc8467",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"Legyesb\u00e9nye",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

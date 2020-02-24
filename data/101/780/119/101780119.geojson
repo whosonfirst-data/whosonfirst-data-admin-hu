@@ -121,6 +121,9 @@
         "wk:page":"Olaszliszka"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"713d03255938a6f202ac856a78765bdd",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650362,
+    "wof:lastmodified":1582345347,
     "wof:name":"Olaszliszka",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

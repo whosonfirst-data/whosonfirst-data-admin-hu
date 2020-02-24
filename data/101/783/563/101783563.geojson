@@ -148,6 +148,9 @@
         "wd:id":"Q843006"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ec21c623fa7a027175f37579174059d",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650276,
+    "wof:lastmodified":1582345335,
     "wof:name":"Nagyk\u00e1ll\u00f3",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

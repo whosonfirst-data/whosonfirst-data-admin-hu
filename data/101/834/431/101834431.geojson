@@ -130,6 +130,9 @@
         "wk:page":"Velence"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c3a8da396e807c6597cc68667981f5b",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650233,
+    "wof:lastmodified":1582345330,
     "wof:name":"Velence",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

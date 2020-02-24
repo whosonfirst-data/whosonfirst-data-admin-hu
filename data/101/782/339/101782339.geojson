@@ -109,6 +109,9 @@
         "wk:page":"Gyulah\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a27cc5cfe9e893c0a2e3f2eb42cd148",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650252,
+    "wof:lastmodified":1582345333,
     "wof:name":"Gyulah\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

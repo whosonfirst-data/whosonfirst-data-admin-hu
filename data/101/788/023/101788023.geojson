@@ -141,6 +141,9 @@
         "wk:page":"Csepreg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db4c5d0e0733abe43919b739afe14023",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650309,
+    "wof:lastmodified":1582345340,
     "wof:name":"Csepreg",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Szamosszeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2908e3ab3790062058815818dd0f670b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650257,
+    "wof:lastmodified":1582345333,
     "wof:name":"Szamosszeg",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
         "gp:id":810847
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae705f92e786025b9924c85c146c0648",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649580,
+    "wof:lastmodified":1582345309,
     "wof:name":"Labanctanya",
     "wof:parent_id":101751707,
     "wof:placetype":"neighbourhood",

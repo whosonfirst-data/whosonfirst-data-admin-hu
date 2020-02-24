@@ -91,6 +91,9 @@
         "wd:id":"Q987824"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"88760196fd8cdd1f4b9f792e06e87086",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650289,
+    "wof:lastmodified":1582345337,
     "wof:name":"Egerbakta",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

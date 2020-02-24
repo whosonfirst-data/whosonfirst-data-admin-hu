@@ -114,6 +114,9 @@
         "wk:page":"\u00d6k\u00f6rit\u00f3f\u00fclp\u00f6s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"001b900200010fe6bc921de8441bffb2",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101843591,
-    "wof:lastmodified":1566650200,
+    "wof:lastmodified":1582345326,
     "wof:name":"\u00d6k\u00f6rit\u00f3f\u00fclp\u00f6s",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -97,6 +97,9 @@
         "wk:page":"Fels\u0151\u00f6rs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd798e64e743f6d22a667d0594b98ab7",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101789381,
-    "wof:lastmodified":1566650394,
+    "wof:lastmodified":1582345351,
     "wof:name":"Fels\u0151\u00f6rs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

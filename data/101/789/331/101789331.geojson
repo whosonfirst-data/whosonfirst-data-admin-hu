@@ -136,6 +136,9 @@
         "wk:page":"Berhida"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d239fe7b7e971e8231bfe677b8b7820d",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650364,
+    "wof:lastmodified":1582345348,
     "wof:name":"Berhida",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

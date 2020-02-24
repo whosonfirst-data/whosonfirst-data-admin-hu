@@ -77,6 +77,10 @@
         "qs_pg:id":1167158
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"059b41ab251ceea41ccb76cc9f71c51e",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649587,
+    "wof:lastmodified":1582345310,
     "wof:name":"Als\u00f3badurbokor",
     "wof:parent_id":101751721,
     "wof:placetype":"neighbourhood",

@@ -133,6 +133,9 @@
         "wk:page":"Zugl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23df3669eec017dbadec64b7df05797c",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649575,
+    "wof:lastmodified":1582345308,
     "wof:name":"Zugl\u00f3",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

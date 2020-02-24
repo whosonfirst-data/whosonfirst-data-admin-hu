@@ -124,6 +124,9 @@
         "wk:page":"Taktaszada"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9fced222a1d8ce79ee031fe15740cb2",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650270,
+    "wof:lastmodified":1582345334,
     "wof:name":"Taktaszada",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

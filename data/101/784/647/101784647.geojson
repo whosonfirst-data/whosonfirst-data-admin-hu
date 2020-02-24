@@ -109,6 +109,9 @@
         "wk:page":"Ny\u00edrm\u00e1rtonfalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b6f72389a1ff0d0007c4b1c9e5909d3",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650294,
+    "wof:lastmodified":1582345337,
     "wof:name":"Ny\u00edrm\u00e1rtonfalva",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

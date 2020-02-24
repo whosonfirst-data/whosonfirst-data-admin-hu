@@ -127,6 +127,9 @@
         "wk:page":"Kelebia"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d26c552c7b533100f2b657de2825ed11",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650149,
+    "wof:lastmodified":1582345319,
     "wof:name":"Kelebia",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

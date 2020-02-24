@@ -72,6 +72,9 @@
         "gp:id":810542
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03ce3e0d22c3c62e66c7ec6ab411e869",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649585,
+    "wof:lastmodified":1582345310,
     "wof:name":"K\u0151v\u00e1ralja",
     "wof:parent_id":101783501,
     "wof:placetype":"neighbourhood",

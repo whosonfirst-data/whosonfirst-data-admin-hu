@@ -109,6 +109,9 @@
         "wk:page":"Kony\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7bb1bf62f8901ae80cdfbf956746d51",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650319,
+    "wof:lastmodified":1582345342,
     "wof:name":"Kony\u00e1r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

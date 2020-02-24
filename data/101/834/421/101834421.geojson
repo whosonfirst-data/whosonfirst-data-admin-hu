@@ -118,6 +118,9 @@
         "wk:page":"Balatonvil\u00e1gos"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f23299db7158976704bcd61055daa82",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650234,
+    "wof:lastmodified":1582345330,
     "wof:name":"Balatonvil\u00e1gos",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

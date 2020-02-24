@@ -109,6 +109,9 @@
         "wk:page":"Encsencs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c75064fdf390c0819bd542185625170c",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"Encsencs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

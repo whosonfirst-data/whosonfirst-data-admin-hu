@@ -106,6 +106,9 @@
         "wk:page":"Szajol"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b9f88096adcaed7258e2c4cacda137e",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650325,
+    "wof:lastmodified":1582345342,
     "wof:name":"Szajol",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",
