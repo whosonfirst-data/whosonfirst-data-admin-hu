@@ -1082,7 +1082,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
-        "naturalearth",
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
@@ -1158,7 +1157,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1582345311,
+    "wof:lastmodified":1583224105,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
