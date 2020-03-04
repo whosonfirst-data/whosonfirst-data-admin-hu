@@ -109,6 +109,9 @@
         "wk:page":"Dunabogd\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30046e53775b44155e8cecedd979b97d",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"Dunabogd\u00e1ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

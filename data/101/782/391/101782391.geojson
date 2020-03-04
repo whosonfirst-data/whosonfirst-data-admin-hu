@@ -120,6 +120,9 @@
         "wk:page":"Szendr\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"53b5e9773b824e81a92bc5b8b0c63938",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101782391,
-    "wof:lastmodified":1566650251,
+    "wof:lastmodified":1582345333,
     "wof:name":"Szendr\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

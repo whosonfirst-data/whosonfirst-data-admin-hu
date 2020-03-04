@@ -118,6 +118,9 @@
         "wk:page":"Bakonyszentl\u00e1szl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b215cd31f3587d3dc19c6f74dde74038",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650316,
+    "wof:lastmodified":1582345341,
     "wof:name":"Bakonyszentl\u00e1szl\u00f3",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

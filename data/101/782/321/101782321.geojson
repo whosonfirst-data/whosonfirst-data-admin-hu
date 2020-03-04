@@ -152,6 +152,9 @@
         "wk:page":"Kisv\u00e1rda"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30da30772c8e9dfc8b7b7d107304efbd",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650264,
+    "wof:lastmodified":1582345334,
     "wof:name":"Kisv\u00e1rda",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

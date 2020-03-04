@@ -114,6 +114,9 @@
         "wd:id":"Q1030405"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09d88b6f6a1fedac885a49ba30fdf3dd",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650296,
+    "wof:lastmodified":1582345338,
     "wof:name":"Gy\u00f6ngy\u00f6starj\u00e1n",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

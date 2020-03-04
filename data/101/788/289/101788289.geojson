@@ -114,6 +114,9 @@
         "wk:page":"\u00dajszilv\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"537c5a7da0b545764116c114f3cb7931",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650311,
+    "wof:lastmodified":1582345341,
     "wof:name":"\u00dajszilv\u00e1s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

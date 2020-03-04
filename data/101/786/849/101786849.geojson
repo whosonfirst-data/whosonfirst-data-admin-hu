@@ -115,6 +115,9 @@
         "wk:page":"Z\u00e1moly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb3acf61b3fd3c91f06022a47e07ee23",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650347,
+    "wof:lastmodified":1582345345,
     "wof:name":"Z\u00e1moly",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

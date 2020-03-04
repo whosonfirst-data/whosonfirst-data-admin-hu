@@ -99,6 +99,9 @@
         "wd:id":"Q249425"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d9b6c55f4522d5a8a1932df532eb56d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650272,
+    "wof:lastmodified":1582345335,
     "wof:name":"Tardona",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

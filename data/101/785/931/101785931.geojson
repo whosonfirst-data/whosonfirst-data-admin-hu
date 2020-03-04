@@ -101,6 +101,9 @@
         "wd:id":"Q371004"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cc823c567280b08fe5b8ec7da680642",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650237,
+    "wof:lastmodified":1582345330,
     "wof:name":"Nagyr\u00e9de",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -152,6 +152,9 @@
         "wk:page":"Sikl\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b6b249ba173f41ed3c9a50be2ab46b4",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650184,
+    "wof:lastmodified":1582345324,
     "wof:name":"Sikl\u00f3s",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

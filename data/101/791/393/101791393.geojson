@@ -134,6 +134,9 @@
         "wk:page":"Csurg\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"daa48eb9c31ff62255a50769dff6b5cd",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650186,
+    "wof:lastmodified":1582345324,
     "wof:name":"Csurg\u00f3",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

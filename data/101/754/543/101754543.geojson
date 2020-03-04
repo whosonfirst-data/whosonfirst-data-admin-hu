@@ -122,6 +122,9 @@
         "wk:page":"\u00dcr\u00f6m"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6efb5e6d54c2bd178dc4196b55bd3c22",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"\u00dcr\u00f6m",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

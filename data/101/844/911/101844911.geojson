@@ -121,6 +121,9 @@
         "wk:page":"Becsehely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c2509313494b04922d77e2e0532de8a",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650214,
+    "wof:lastmodified":1582345327,
     "wof:name":"Becsehely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

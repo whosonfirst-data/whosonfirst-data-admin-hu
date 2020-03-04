@@ -451,6 +451,9 @@
         "qs_pg:id":898025
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05499020e1f74c250cfd307565688f41",
     "wof:hierarchy":[
         {
@@ -465,7 +468,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650301,
+    "wof:lastmodified":1582345339,
     "wof:name":"Miskolc",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

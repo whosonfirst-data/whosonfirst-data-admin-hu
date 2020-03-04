@@ -117,6 +117,9 @@
         "wd:id":"Q515772"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2886fed165acf6fcd1b6a7b049bada4",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650250,
+    "wof:lastmodified":1582345332,
     "wof:name":"Hortob\u00e1gy",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

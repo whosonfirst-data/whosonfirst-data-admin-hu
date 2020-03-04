@@ -68,6 +68,9 @@
         "qs_pg:id":220212
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ba87e29c7c257577b3a73fc0c9ffeb1",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649578,
+    "wof:lastmodified":1582345309,
     "wof:name":"Istvanmezo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

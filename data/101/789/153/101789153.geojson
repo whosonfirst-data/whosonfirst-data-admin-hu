@@ -112,6 +112,9 @@
         "wk:page":"Iregszemcse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60bf845b5b68d6f2a09b3136138e3618",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650379,
+    "wof:lastmodified":1582345350,
     "wof:name":"Iregszemcse",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Fels\u0151zsolca"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f7a65c3a2853f49f6a33347ddfa28ac",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101783653,
-    "wof:lastmodified":1566650280,
+    "wof:lastmodified":1582345336,
     "wof:name":"Fels\u0151zsolca",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

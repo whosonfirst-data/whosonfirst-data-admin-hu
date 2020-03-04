@@ -200,6 +200,9 @@
         "wk:page":"Gyula, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"375c97e5ced8715da51bf3c05daf4a63",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650166,
+    "wof:lastmodified":1582345321,
     "wof:name":"Gyula",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -130,6 +130,9 @@
         "wk:page":"Hal\u00e1sztelek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"103bae0b6d76aca387fbc8788b9c1ffc",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650232,
+    "wof:lastmodified":1582345330,
     "wof:name":"Hal\u00e1sztelek",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

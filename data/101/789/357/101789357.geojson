@@ -101,6 +101,9 @@
         "wk:page":"Nemesgul\u00e1cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79eba3d811840d549ccb015e119fa9aa",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650380,
+    "wof:lastmodified":1582345350,
     "wof:name":"Nemesgul\u00e1cs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

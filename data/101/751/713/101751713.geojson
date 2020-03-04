@@ -302,6 +302,9 @@
         "wk:page":"Sopron"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f91fd5005182620a2cb37837d144341",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650301,
+    "wof:lastmodified":1582345339,
     "wof:name":"Sopron",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -118,6 +118,10 @@
         "wk:page":"R\u00e9vf\u00fcl\u00f6p"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b243a7f89485c72229e6e5af2275c599",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650216,
+    "wof:lastmodified":1582345327,
     "wof:name":"R\u00e9vf\u00fcl\u00f6p",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

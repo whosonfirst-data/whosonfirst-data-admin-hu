@@ -69,6 +69,9 @@
         "gp:id":812640
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"43d320ad0cc1344b1046b4fcc198e87c",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649572,
+    "wof:lastmodified":1582345308,
     "wof:name":"Nagytelek",
     "wof:parent_id":101785963,
     "wof:placetype":"neighbourhood",

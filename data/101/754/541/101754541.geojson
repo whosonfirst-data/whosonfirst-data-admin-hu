@@ -112,6 +112,9 @@
         "wk:page":"Pilisszentiv\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1be79682f2c36a22c500c575a36371d6",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650181,
+    "wof:lastmodified":1582345323,
     "wof:name":"Pilisszentiv\u00e1n",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

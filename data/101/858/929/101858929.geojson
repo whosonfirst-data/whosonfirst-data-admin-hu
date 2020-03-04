@@ -95,6 +95,9 @@
         "wk:page":"K\u00f6ml\u0151d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9856b2caaaafc90d7309abac7edf5155",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101858929,
-    "wof:lastmodified":1566650217,
+    "wof:lastmodified":1582345328,
     "wof:name":"K\u00f6ml\u0151d",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

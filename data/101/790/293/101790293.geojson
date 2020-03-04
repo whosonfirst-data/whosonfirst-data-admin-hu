@@ -103,6 +103,9 @@
         "wd:id":"Q1070887"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07a0a14dad36f2ee35a5f0f3231b68c0",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345320,
     "wof:name":"V\u00e1rdomb",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

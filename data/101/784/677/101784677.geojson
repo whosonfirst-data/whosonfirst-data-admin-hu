@@ -101,6 +101,9 @@
         "wk:page":"Kisn\u00e1na"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be85ab095c2d133973990010b1b63c02",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650295,
+    "wof:lastmodified":1582345338,
     "wof:name":"Kisn\u00e1na",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

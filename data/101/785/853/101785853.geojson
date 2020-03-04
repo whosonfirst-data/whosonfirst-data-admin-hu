@@ -144,6 +144,9 @@
         "wk:page":"J\u00e1nossomorja"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5bd9c69abdadb999040566758facf86",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650247,
+    "wof:lastmodified":1582345332,
     "wof:name":"J\u00e1nossomorja",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

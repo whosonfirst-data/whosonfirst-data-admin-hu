@@ -155,6 +155,9 @@
         "wk:page":"Szigetszentmikl\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6195159ab72b1452c903921e6d4a0dd0",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650234,
+    "wof:lastmodified":1582345330,
     "wof:name":"Szigetszentmikl\u00f3s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

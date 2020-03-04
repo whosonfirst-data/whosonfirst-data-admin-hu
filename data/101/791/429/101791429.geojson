@@ -130,6 +130,9 @@
         "wk:page":"Gara, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"498c986c2288743391ac117c69109852",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650187,
+    "wof:lastmodified":1582345324,
     "wof:name":"Gara",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

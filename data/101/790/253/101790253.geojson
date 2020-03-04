@@ -115,6 +115,9 @@
         "wk:page":"Szedres"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f53b91e511f6900c9dfbbc287540a8c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650172,
+    "wof:lastmodified":1582345322,
     "wof:name":"Szedres",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"J\u00e1szkis\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b566060664c3cf0927384d941e5d3cd1",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650344,
+    "wof:lastmodified":1582345345,
     "wof:name":"J\u00e1szkis\u00e9r",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -143,6 +143,9 @@
         "wk:page":"Celld\u00f6m\u00f6lk"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97b0f84e7f499bac26fcaac2f89999dc",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650316,
+    "wof:lastmodified":1582345341,
     "wof:name":"Celld\u00f6m\u00f6lk",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -132,6 +132,9 @@
         "wk:page":"Mez\u0151hegyes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2878b06dd5aff7f32a126b6e0b534753",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101790611,
-    "wof:lastmodified":1566650155,
+    "wof:lastmodified":1582345320,
     "wof:name":"Mez\u0151hegyes",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

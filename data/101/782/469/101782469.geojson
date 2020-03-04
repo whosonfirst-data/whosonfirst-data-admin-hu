@@ -127,6 +127,9 @@
         "wk:page":"M\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7071a480f41f720b7cdb57c9e02f59cd",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650260,
+    "wof:lastmodified":1582345334,
     "wof:name":"M\u00e1d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

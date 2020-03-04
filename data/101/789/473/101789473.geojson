@@ -107,6 +107,9 @@
         "wk:page":"S\u00e1rszent\u00e1gota"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed8e96cbdbb576ecca25750c061b8490",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650387,
+    "wof:lastmodified":1582345351,
     "wof:name":"S\u00e1rszent\u00e1gota",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

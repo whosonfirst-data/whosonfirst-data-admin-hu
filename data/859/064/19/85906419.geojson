@@ -134,6 +134,9 @@
         "qs_pg:id":671113
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c68ebed21bc1fbbf89c76c0072c2cde6",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649578,
+    "wof:lastmodified":1582345309,
     "wof:name":"Ter\u00e9zv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

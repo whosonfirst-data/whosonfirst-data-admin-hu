@@ -112,6 +112,9 @@
         "wk:page":"S\u00e1rkereszt\u00far"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"173776579ee6ea5eff1f4dd4e16e6e84",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650374,
+    "wof:lastmodified":1582345349,
     "wof:name":"S\u00e1rkereszt\u00far",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

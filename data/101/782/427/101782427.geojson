@@ -140,6 +140,9 @@
         "wk:page":"Edel\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20dafbc638bc87f8ad7f9eb186e67871",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650260,
+    "wof:lastmodified":1582345333,
     "wof:name":"Edel\u00e9ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Leps\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"baf0bff0ce9ce82efbc74a7450f0e4b5",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650231,
+    "wof:lastmodified":1582345330,
     "wof:name":"Leps\u00e9ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

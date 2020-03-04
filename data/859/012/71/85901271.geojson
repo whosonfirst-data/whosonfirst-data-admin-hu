@@ -79,6 +79,9 @@
         "qs_pg:id":1083313
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"336f977275a495c75a6bd44b1acbb31a",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649572,
+    "wof:lastmodified":1582345308,
     "wof:name":"Romaifurdo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

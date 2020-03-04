@@ -112,6 +112,9 @@
         "wk:page":"Z\u00e1k\u00e1nysz\u00e9k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"121bae637737e4d0dd75e9f0ab79d34e",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650172,
+    "wof:lastmodified":1582345322,
     "wof:name":"Z\u00e1k\u00e1nysz\u00e9k",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

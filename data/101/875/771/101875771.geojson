@@ -108,6 +108,9 @@
         "wk:page":"Szigetszentm\u00e1rton"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9215438de5439e16e6ecc900c283b3e7",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"Szigetszentm\u00e1rton",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

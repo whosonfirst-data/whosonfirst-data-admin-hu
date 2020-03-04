@@ -222,6 +222,9 @@
         "wd:id":"Q210205"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa2158b0569d14fa1edfcb4d18621021",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649570,
+    "wof:lastmodified":1582345308,
     "wof:name":"Pest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

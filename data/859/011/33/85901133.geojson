@@ -77,6 +77,10 @@
         "qs_pg:id":1167198
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a720bf887f760920951c30ae06fa3b5",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649581,
+    "wof:lastmodified":1582345309,
     "wof:name":"Kaszah\u00e1za",
     "wof:parent_id":101751673,
     "wof:placetype":"neighbourhood",

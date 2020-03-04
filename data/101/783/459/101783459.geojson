@@ -124,6 +124,9 @@
         "wk:page":"B\u00e9lap\u00e1tfalva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"01f6eede797611ad86dc4ab6fee8348a",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650281,
+    "wof:lastmodified":1582345336,
     "wof:name":"B\u00e9lap\u00e1tfalva",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

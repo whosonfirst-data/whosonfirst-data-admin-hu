@@ -73,6 +73,9 @@
         "qs_pg:id":1083280
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"256e55b1907686aafed39f7911e8afa1",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649589,
+    "wof:lastmodified":1582345311,
     "wof:name":"Auwinkel",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

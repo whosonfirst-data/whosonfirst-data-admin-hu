@@ -118,6 +118,9 @@
         "wk:page":"Hod\u00e1sz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1ae16d44f0c54e9b7ee8baccd186144",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650195,
+    "wof:lastmodified":1582345325,
     "wof:name":"Hod\u00e1sz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

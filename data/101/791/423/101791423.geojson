@@ -130,6 +130,9 @@
         "wk:page":"Madaras"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4395025304137848f6aaa799f9ddb69f",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650183,
+    "wof:lastmodified":1582345324,
     "wof:name":"Madaras",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

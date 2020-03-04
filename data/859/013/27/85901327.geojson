@@ -105,6 +105,10 @@
         "qs_pg:id":1167266
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d9025a564481f7b3adca423e9cdeaad",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649573,
+    "wof:lastmodified":1582345308,
     "wof:name":"\u00dajtelep",
     "wof:parent_id":101751711,
     "wof:placetype":"neighbourhood",

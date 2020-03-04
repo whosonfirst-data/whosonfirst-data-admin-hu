@@ -102,6 +102,9 @@
         "wk:page":"\u0150si"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"358859f9ee95ae3402ed83c25e83ac2d",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101788093,
-    "wof:lastmodified":1566650331,
+    "wof:lastmodified":1582345343,
     "wof:name":"\u0150si",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

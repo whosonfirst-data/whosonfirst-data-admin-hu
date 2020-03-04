@@ -109,6 +109,9 @@
         "wk:page":"Sziget\u00fajfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8d6a0bcf9a5c822e55f762c520e011e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650332,
+    "wof:lastmodified":1582345343,
     "wof:name":"Sziget\u00fajfalu",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

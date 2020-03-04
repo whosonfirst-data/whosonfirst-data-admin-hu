@@ -145,6 +145,9 @@
         "wk:page":"Tolna, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c79042f036ced6b82695b95909becd0",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650174,
+    "wof:lastmodified":1582345322,
     "wof:name":"Tolna",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

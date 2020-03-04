@@ -145,6 +145,9 @@
         "wk:page":"Aba\u00fajsz\u00e1nt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b1b44aa2a4ca9dd7d4e1b6b815a20e3",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650201,
+    "wof:lastmodified":1582345326,
     "wof:name":"Aba\u00fajsz\u00e1nt\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

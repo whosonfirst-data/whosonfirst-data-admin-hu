@@ -160,6 +160,9 @@
         "wk:page":"Dunakeszi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9abbfe21ac9f6f0a309917e2c4299253",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"Dunakeszi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

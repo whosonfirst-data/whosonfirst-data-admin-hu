@@ -118,6 +118,9 @@
         "wk:page":"Dunapataj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad7040aa1016a61c4570ca81b77dbf18",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650172,
+    "wof:lastmodified":1582345322,
     "wof:name":"Dunapataj",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

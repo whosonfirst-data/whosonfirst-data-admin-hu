@@ -116,6 +116,9 @@
         "wk:page":"Saj\u00f3sz\u00f6ged"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d34f3bb005713571a896ef2b87504e73",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650268,
+    "wof:lastmodified":1582345334,
     "wof:name":"Saj\u00f3sz\u00f6ged",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

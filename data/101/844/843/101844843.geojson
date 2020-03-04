@@ -105,6 +105,9 @@
         "wd:id":"Q853601"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bee665f61ca49618c0ab774846b6dcff",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650206,
+    "wof:lastmodified":1582345326,
     "wof:name":"B\u00e1ta",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

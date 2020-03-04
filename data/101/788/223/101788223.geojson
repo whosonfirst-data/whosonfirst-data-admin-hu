@@ -112,6 +112,9 @@
         "wk:page":"Zagyvar\u00e9kas"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8d6888dc3f739d9d6ccaa5aaaa1fd03",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650325,
+    "wof:lastmodified":1582345342,
     "wof:name":"Zagyvar\u00e9kas",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

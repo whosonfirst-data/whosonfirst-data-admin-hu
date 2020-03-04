@@ -120,6 +120,9 @@
         "wd:id":"Q851057"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8927d73cb8f943f615c10377761b7e04",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649566,
+    "wof:lastmodified":1582345307,
     "wof:name":"Pestszenterzs\u00e9bet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

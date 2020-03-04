@@ -106,6 +106,9 @@
         "wk:page":"Cibakh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03ff3d3cf5a81d6480c3ad287ce498cc",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650324,
+    "wof:lastmodified":1582345342,
     "wof:name":"Cibakh\u00e1za",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

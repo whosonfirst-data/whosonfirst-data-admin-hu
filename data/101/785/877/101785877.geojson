@@ -118,6 +118,9 @@
         "wk:page":"Acsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccd6708da782f019ace7e9b50b517627",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"Acsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

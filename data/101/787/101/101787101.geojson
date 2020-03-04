@@ -118,6 +118,9 @@
         "wk:page":"V\u00e1mosp\u00e9rcs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a641d67b95dbbeddc5b7dbeb2d662fdf",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650357,
+    "wof:lastmodified":1582345347,
     "wof:name":"V\u00e1mosp\u00e9rcs",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

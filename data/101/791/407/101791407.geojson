@@ -146,6 +146,9 @@
         "wk:page":"B\u00e1csalm\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7451c40388807440cfd715d27813f86c",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650184,
+    "wof:lastmodified":1582345324,
     "wof:name":"B\u00e1csalm\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

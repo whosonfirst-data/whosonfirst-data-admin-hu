@@ -112,6 +112,9 @@
         "wk:page":"Perb\u00e1l"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1b3f9cf366e3da02baf47fa1ae86f0b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650354,
+    "wof:lastmodified":1582345346,
     "wof:name":"Perb\u00e1l",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

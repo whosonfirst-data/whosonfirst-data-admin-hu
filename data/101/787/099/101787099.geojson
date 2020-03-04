@@ -103,6 +103,9 @@
         "wk:page":"Mende, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0834e25547ec2dfdac81d944a7aa041b",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650355,
+    "wof:lastmodified":1582345346,
     "wof:name":"Mende",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

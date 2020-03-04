@@ -118,6 +118,9 @@
         "wk:page":"Soponya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a78a414e364bd55e364621bd32f2bd19",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345348,
     "wof:name":"Soponya",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

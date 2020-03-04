@@ -148,6 +148,9 @@
         "wk:page":"T\u00f6r\u00f6kszentmikl\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65926efe779d423998af17501028dd86",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650312,
+    "wof:lastmodified":1582345341,
     "wof:name":"T\u00f6r\u00f6kszentmikl\u00f3s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Aszal\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25265cdb6b0c1bc6b87445492f7e43bf",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650198,
+    "wof:lastmodified":1582345326,
     "wof:name":"Aszal\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

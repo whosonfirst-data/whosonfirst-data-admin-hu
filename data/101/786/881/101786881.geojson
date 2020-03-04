@@ -98,6 +98,9 @@
         "wk:page":"H\u00e9reg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d14882690211002cb9d7d677e53bd76d",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345344,
     "wof:name":"H\u00e9reg",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

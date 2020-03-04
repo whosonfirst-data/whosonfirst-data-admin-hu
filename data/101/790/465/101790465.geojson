@@ -118,6 +118,9 @@
         "wk:page":"Deszk"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e5518cca209d349213419f8bc504e49",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345321,
     "wof:name":"Deszk",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

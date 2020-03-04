@@ -171,6 +171,9 @@
         "wd:id":"Q377834"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fc60c77ac26bbfea5bd4478e902a62e",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101790385,
-    "wof:lastmodified":1566650161,
+    "wof:lastmodified":1582345321,
     "wof:name":"Szentes",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

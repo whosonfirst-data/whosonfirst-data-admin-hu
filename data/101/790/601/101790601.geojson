@@ -129,6 +129,9 @@
         "wk:page":"T\u00f3tkoml\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"350ebe06d5aaf76989255e0d976b14d9",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650173,
+    "wof:lastmodified":1582345322,
     "wof:name":"T\u00f3tkoml\u00f3s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

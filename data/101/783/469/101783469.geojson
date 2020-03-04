@@ -101,6 +101,9 @@
         "qs_pg:id":1269466
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3d9491a4ebf5901bcc67f34a0dd9a75",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650279,
+    "wof:lastmodified":1582345336,
     "wof:name":"Etes",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

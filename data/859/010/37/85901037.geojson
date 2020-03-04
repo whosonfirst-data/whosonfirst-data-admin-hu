@@ -77,6 +77,10 @@
         "qs_pg:id":241069
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bb9136fda3d665585c4732ee7b1070d",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649589,
+    "wof:lastmodified":1582345311,
     "wof:name":"Als\u00f3csal\u00e1nos",
     "wof:parent_id":101751685,
     "wof:placetype":"neighbourhood",

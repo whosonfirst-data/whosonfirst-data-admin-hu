@@ -145,6 +145,9 @@
         "wk:page":"Vasv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f07d190da0c396b6440b85ea8369581",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650377,
+    "wof:lastmodified":1582345349,
     "wof:name":"Vasv\u00e1r",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

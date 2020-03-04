@@ -131,6 +131,9 @@
         "wk:page":"Ny\u00edrtelek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"873ffe366904bab90e672aa35cc0c641",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650267,
+    "wof:lastmodified":1582345334,
     "wof:name":"Ny\u00edrtelek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

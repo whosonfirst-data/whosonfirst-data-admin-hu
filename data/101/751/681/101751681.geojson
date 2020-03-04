@@ -204,6 +204,9 @@
         "qs_pg:id":491728
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b31f68c8c89457ee9978a394dbb2926",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650299,
+    "wof:lastmodified":1582345339,
     "wof:name":"Szeged",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

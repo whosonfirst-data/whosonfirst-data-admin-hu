@@ -127,6 +127,9 @@
         "wk:page":"Di\u00f3sd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04b5753747819506d6c71bcba3e30e39",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650299,
+    "wof:lastmodified":1582345338,
     "wof:name":"Di\u00f3sd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

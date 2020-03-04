@@ -115,6 +115,9 @@
         "wk:page":"Levelek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb501147f5ba3c6320a0c181b193b063",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650274,
+    "wof:lastmodified":1582345335,
     "wof:name":"Levelek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

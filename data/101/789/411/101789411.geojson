@@ -109,6 +109,9 @@
         "wk:page":"Doboz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f380952e5816644711eca25196ba14b9",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650385,
+    "wof:lastmodified":1582345350,
     "wof:name":"Doboz",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

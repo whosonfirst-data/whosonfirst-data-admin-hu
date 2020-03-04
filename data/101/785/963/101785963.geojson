@@ -161,6 +161,9 @@
         "wk:page":"Hatvan"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b6dc6719f648c28cfc8e591d8f61a97",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650238,
+    "wof:lastmodified":1582345331,
     "wof:name":"Hatvan",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

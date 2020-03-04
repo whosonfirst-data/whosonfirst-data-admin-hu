@@ -109,6 +109,9 @@
         "wk:page":"D\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20414fe85917ec51e54ce3adf3bf7deb",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650352,
+    "wof:lastmodified":1582345346,
     "wof:name":"D\u00e1ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

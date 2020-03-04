@@ -131,6 +131,9 @@
         "wk:page":"Dunavars\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d0d5c5c399c4413a5d83d9df4f24a46c",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650307,
+    "wof:lastmodified":1582345340,
     "wof:name":"Dunavars\u00e1ny",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

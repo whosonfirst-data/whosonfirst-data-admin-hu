@@ -115,6 +115,9 @@
         "wk:page":"Far\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfd0208a10b358caf9d8622e7e46f347",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650360,
+    "wof:lastmodified":1582345347,
     "wof:name":"Far\u00e1d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

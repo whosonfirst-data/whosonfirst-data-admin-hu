@@ -113,6 +113,9 @@
         "wk:page":"Hajm\u00e1sk\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc47e83f235bffdf164a4eccda06db05",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650313,
+    "wof:lastmodified":1582345341,
     "wof:name":"Hajm\u00e1sk\u00e9r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

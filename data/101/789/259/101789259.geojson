@@ -133,6 +133,9 @@
         "wk:page":"Solt"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6477e0b6126f6caae552c97f263d69a0",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650371,
+    "wof:lastmodified":1582345349,
     "wof:name":"Solt",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

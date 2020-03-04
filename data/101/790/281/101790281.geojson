@@ -102,6 +102,9 @@
         "wd:id":"Q1071627"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62d5a2663cddf25d0aa1fcb983eb4ce0",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101790281,
-    "wof:lastmodified":1566650155,
+    "wof:lastmodified":1582345320,
     "wof:name":"Kaposszekcs\u0151",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

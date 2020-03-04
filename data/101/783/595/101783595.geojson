@@ -115,6 +115,9 @@
         "wk:page":"\u00d3nod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a711e8d25f80b3c9acc0cb81b5e67782",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650266,
+    "wof:lastmodified":1582345334,
     "wof:name":"\u00d3nod",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

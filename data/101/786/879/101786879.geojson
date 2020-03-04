@@ -98,6 +98,9 @@
         "wk:page":"Bana, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25154e2f0253d1f6bebf67833b32856b",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650346,
+    "wof:lastmodified":1582345345,
     "wof:name":"Bana",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -139,6 +139,9 @@
         "wk:page":"Adony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ef4d2a330647869c3782fe053cdf18f",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650370,
+    "wof:lastmodified":1582345349,
     "wof:name":"Adony",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -104,6 +104,9 @@
         "wd:id":"Q603285"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8b0dc6e9fd86cecafeeed6cc1ca041f",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650289,
+    "wof:lastmodified":1582345337,
     "wof:name":"M\u00e1traderecske",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

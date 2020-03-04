@@ -155,6 +155,9 @@
         "wd:id":"Q301411"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d408b0199a0a606a24628d66de25806",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649581,
+    "wof:lastmodified":1582345309,
     "wof:name":"Ferencvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

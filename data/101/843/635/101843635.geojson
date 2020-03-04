@@ -112,6 +112,9 @@
         "wk:page":"Petneh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"062c93ddd4a1fb271d0c284ff032e21d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650198,
+    "wof:lastmodified":1582345326,
     "wof:name":"Petneh\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

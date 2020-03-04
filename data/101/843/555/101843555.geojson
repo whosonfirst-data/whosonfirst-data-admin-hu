@@ -101,6 +101,9 @@
         "wd:id":"Q514643"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0341bb36ced9717d4317878e736d3780",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101843555,
-    "wof:lastmodified":1566650199,
+    "wof:lastmodified":1582345326,
     "wof:name":"Fels\u0151t\u00e1rk\u00e1ny",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

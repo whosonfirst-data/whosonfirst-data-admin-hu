@@ -107,6 +107,9 @@
         "wd:id":"Q10719398"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64a1aa5e1dbdfa744c86c95819519796",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650244,
+    "wof:lastmodified":1582345332,
     "wof:name":"Hort",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Dunaszentgy\u00f6rgy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e9c281778f650be1d166800cbfbe523",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650156,
+    "wof:lastmodified":1582345320,
     "wof:name":"Dunaszentgy\u00f6rgy",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

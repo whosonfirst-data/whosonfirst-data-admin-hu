@@ -107,6 +107,9 @@
         "wk:page":"Balatonszemes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39732178b54ee320b3d08cfe8f23eae6",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650231,
+    "wof:lastmodified":1582345329,
     "wof:name":"Balatonszemes",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

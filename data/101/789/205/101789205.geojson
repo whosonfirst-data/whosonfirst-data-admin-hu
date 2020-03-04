@@ -142,6 +142,9 @@
         "wk:page":"H\u00e9v\u00edz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed2bcc97806e240334e6c68f624669d5",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650374,
+    "wof:lastmodified":1582345349,
     "wof:name":"H\u00e9v\u00edz",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

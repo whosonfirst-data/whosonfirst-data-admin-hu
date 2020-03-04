@@ -139,6 +139,9 @@
         "wk:page":"Erzs\u00e9betv\u00e1ros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ac34b7d2ed2aee67802f6456e143b7f",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649589,
+    "wof:lastmodified":1582345311,
     "wof:name":"Erzs\u00e9betv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

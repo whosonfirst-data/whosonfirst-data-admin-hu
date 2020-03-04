@@ -136,6 +136,9 @@
         "wk:page":"Putnok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f2e4cec1027d51f077c48543d254f10",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650254,
+    "wof:lastmodified":1582345333,
     "wof:name":"Putnok",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
         "wk:page":"Asz\u00f3d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c82535802d44f9cfeaff88c55cb157d3",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650225,
+    "wof:lastmodified":1582345329,
     "wof:name":"Asz\u00f3d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

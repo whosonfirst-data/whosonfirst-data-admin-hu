@@ -108,6 +108,9 @@
         "wd:id":"Q647474"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67f47a30e10b55a4a8569d471e2de628",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650281,
+    "wof:lastmodified":1582345336,
     "wof:name":"Ny\u00edrcsaholy",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

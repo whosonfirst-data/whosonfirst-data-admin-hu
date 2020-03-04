@@ -110,6 +110,9 @@
         "wd:id":"Q427620"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c413556c106fe0b27a6e60fddbf0b89",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101790247,
-    "wof:lastmodified":1566650169,
+    "wof:lastmodified":1582345322,
     "wof:name":"H\u0151gy\u00e9sz",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

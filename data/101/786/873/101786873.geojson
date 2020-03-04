@@ -113,6 +113,9 @@
         "wk:page":"Tardos"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a6e437e4fdca0bcf0e3d1fde0f38800",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345344,
     "wof:name":"Tardos",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

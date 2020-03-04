@@ -130,6 +130,9 @@
         "wk:page":"Nagyhal\u00e1sz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d245cf875b3b8ac7bc89b78e13df5d2b",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650196,
+    "wof:lastmodified":1582345325,
     "wof:name":"Nagyhal\u00e1sz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

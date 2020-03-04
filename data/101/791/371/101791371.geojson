@@ -139,6 +139,9 @@
         "wk:page":"Sellye"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92d31d8772e6883e563b46bb7c3e2474",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650184,
+    "wof:lastmodified":1582345324,
     "wof:name":"Sellye",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

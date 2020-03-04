@@ -120,6 +120,10 @@
         "wk:page":"J\u00e1rd\u00e1nh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e261b1afd9031c8da67aa205e49e225",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650193,
+    "wof:lastmodified":1582345325,
     "wof:name":"J\u00e1rd\u00e1nh\u00e1za",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Pr\u00fcgy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17938610850b57ee6f0ce4e35ec7e92d",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650272,
+    "wof:lastmodified":1582345335,
     "wof:name":"Pr\u00fcgy",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

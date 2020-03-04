@@ -421,6 +421,9 @@
         "wk:page":"Kecskem\u00e9t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dce9316308386f5719af20a789345fb8",
     "wof:hierarchy":[
         {
@@ -435,7 +438,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650302,
+    "wof:lastmodified":1582345339,
     "wof:name":"Kecskem\u00e9t",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

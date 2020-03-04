@@ -61,6 +61,9 @@
         "wk:page":"Diszel"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21ce7e59e869feb776103d049b691c26",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101910893,
-    "wof:lastmodified":1566650395,
+    "wof:lastmodified":1582345352,
     "wof:name":"Diszel",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

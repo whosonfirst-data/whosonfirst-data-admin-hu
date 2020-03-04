@@ -151,6 +151,9 @@
         "wk:page":"Tokaj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3888e97978c807355304ea1a9f7827f8",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650202,
+    "wof:lastmodified":1582345326,
     "wof:name":"Tokaj",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -126,6 +126,9 @@
         "wk:page":"Mecsekn\u00e1dasd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f58061f0c7e12a9d60a9fc19fa1d0e9",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650151,
+    "wof:lastmodified":1582345320,
     "wof:name":"Mecsekn\u00e1dasd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

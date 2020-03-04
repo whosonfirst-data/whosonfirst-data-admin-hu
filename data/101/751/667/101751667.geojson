@@ -310,6 +310,9 @@
         "qs_pg:id":1218754
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a08131e1ccd0efe72d8a5dd95e27a5b",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650300,
+    "wof:lastmodified":1582345339,
     "wof:name":"Kaposv\u00e1r",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

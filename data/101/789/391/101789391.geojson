@@ -131,6 +131,9 @@
         "wk:page":"D\u00e9vav\u00e1nya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a45cebb2049a5399ea3eb3c41fa2d6c",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650364,
+    "wof:lastmodified":1582345348,
     "wof:name":"D\u00e9vav\u00e1nya",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"T\u00e1pi\u00f3gy\u00f6rgye"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9121ee51f9c5750be7a13852298782ed",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650324,
+    "wof:lastmodified":1582345342,
     "wof:name":"T\u00e1pi\u00f3gy\u00f6rgye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

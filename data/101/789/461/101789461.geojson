@@ -109,6 +109,9 @@
         "wk:page":"D\u00e9g"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"360fe586dddaa0611946451fb91ee55e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650390,
+    "wof:lastmodified":1582345351,
     "wof:name":"D\u00e9g",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -103,6 +103,9 @@
         "wd:id":"Q794014"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93e49f650490733a8edbf6d732d5f836",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101785947,
-    "wof:lastmodified":1566650242,
+    "wof:lastmodified":1582345331,
     "wof:name":"Beseny\u0151telek",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

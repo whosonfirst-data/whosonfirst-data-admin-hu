@@ -119,6 +119,9 @@
         "wk:page":"Szatymaz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"53f082ad51d4daa0b4fbecc0a297c916",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650157,
+    "wof:lastmodified":1582345320,
     "wof:name":"Szatymaz",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

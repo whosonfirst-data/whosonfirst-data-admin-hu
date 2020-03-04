@@ -107,6 +107,9 @@
         "wk:page":"Nyir\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f747b55aa918128f629354fd6c58e77a",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650393,
+    "wof:lastmodified":1582345351,
     "wof:name":"Nyir\u00e1d",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

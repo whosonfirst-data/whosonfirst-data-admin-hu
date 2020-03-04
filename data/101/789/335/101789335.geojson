@@ -192,6 +192,9 @@
         "wk:page":"Ajka"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07f621ec190cc27ddf07d0b7847e2a72",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650380,
+    "wof:lastmodified":1582345350,
     "wof:name":"Ajka",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "wk:page":"Cs\u00e1sz\u00e1rt\u00f6lt\u00e9s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec1f930da3944db81ccd8b1a6c535b0c",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650160,
+    "wof:lastmodified":1582345321,
     "wof:name":"Cs\u00e1sz\u00e1rt\u00f6lt\u00e9s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

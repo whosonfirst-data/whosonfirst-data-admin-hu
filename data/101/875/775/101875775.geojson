@@ -98,6 +98,9 @@
         "wd:id":"Q672253"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"327e62b1d23b9e9c173bc35afb892fe7",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"Tarnam\u00e9ra",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

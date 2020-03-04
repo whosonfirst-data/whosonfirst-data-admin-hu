@@ -109,6 +109,9 @@
         "wk:page":"Buj\u00e1k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90c1098aeedd4b1bab855a1468f1fa4a",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650284,
+    "wof:lastmodified":1582345336,
     "wof:name":"Buj\u00e1k",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

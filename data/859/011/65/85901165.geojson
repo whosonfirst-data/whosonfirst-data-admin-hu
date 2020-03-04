@@ -130,6 +130,9 @@
         "wk:page":"K\u0151b\u00e1nya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a211d1430a3c6e33125e22a068f25c7",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649584,
+    "wof:lastmodified":1582345310,
     "wof:name":"Kobanya",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

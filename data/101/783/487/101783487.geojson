@@ -108,6 +108,9 @@
         "wd:id":"Q636284"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32ac383d8217fca47d47e54a04057a8f",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650278,
+    "wof:lastmodified":1582345336,
     "wof:name":"Kaz\u00e1r",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

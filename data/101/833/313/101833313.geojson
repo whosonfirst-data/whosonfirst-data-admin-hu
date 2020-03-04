@@ -139,6 +139,9 @@
         "wk:page":"Fert\u0151d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db4f15750b09dbc52b352cadbbce615f",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101833313,
-    "wof:lastmodified":1566650224,
+    "wof:lastmodified":1582345328,
     "wof:name":"Fert\u0151d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

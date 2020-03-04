@@ -109,6 +109,9 @@
         "wk:page":"Nemesv\u00e1mos"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61cd8236dcd9c3e3f56e0156559ffb61",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650378,
+    "wof:lastmodified":1582345350,
     "wof:name":"Nemesv\u00e1mos",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

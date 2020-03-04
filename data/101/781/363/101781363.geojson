@@ -127,6 +127,9 @@
         "wk:page":"Ricse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2859f035cbb258cc022280872677a946",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650336,
+    "wof:lastmodified":1582345344,
     "wof:name":"Ricse",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

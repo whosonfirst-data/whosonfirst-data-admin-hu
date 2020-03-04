@@ -119,6 +119,9 @@
         "wk:page":"J\u00e1szf\u00e9nyszaru"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c148e87661271f63a6c9569c495daecd",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650240,
+    "wof:lastmodified":1582345331,
     "wof:name":"J\u00e1szf\u00e9nyszaru",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

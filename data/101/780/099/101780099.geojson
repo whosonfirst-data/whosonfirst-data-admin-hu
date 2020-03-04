@@ -151,6 +151,9 @@
         "wk:page":"Balmaz\u00fajv\u00e1ros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d76b42f8d430b563638974680510cabd",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650362,
+    "wof:lastmodified":1582345347,
     "wof:name":"Balmaz\u00fajv\u00e1ros",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

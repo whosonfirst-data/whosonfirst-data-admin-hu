@@ -78,6 +78,9 @@
         "gp:id":810575
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d443e20d5fda35515f2502cd57e5296f",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649585,
+    "wof:lastmodified":1582345310,
     "wof:name":"K\u00f6z\u00e9pdeindol",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

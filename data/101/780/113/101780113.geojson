@@ -103,6 +103,9 @@
         "wd:id":"Q729853"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c773b8a8e43f327affa5daa88f8e6c58",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650364,
+    "wof:lastmodified":1582345348,
     "wof:name":"Gy\u00f6ngy\u00f6shal\u00e1sz",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wk:page":"P\u00fcsp\u00f6klad\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfac3b2a96935eb7dd54c636cbc70a37",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650333,
+    "wof:lastmodified":1582345343,
     "wof:name":"P\u00fcsp\u00f6klad\u00e1ny",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

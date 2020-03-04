@@ -160,6 +160,9 @@
         "wk:page":"Szarvas"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3819eec1deb6521cab774c4a24c19872",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650318,
+    "wof:lastmodified":1582345342,
     "wof:name":"Szarvas",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

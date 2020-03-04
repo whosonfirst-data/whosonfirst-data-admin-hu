@@ -108,6 +108,9 @@
         "wk:page":"Ny\u00e1rl\u0151rinc"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d16ea0186fedf5d3595c751047d83dec",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101789241,
-    "wof:lastmodified":1566650384,
+    "wof:lastmodified":1582345350,
     "wof:name":"Ny\u00e1rl\u0151rinc",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

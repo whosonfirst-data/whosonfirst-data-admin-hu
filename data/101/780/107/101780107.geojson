@@ -105,6 +105,9 @@
         "wk:page":"Pet\u0151fib\u00e1nya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9739778066ffbcdce2471fdf94e091b8",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101780107,
-    "wof:lastmodified":1566650363,
+    "wof:lastmodified":1582345347,
     "wof:name":"Pet\u0151fib\u00e1nya",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

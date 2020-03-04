@@ -130,6 +130,9 @@
         "wk:page":"Tiszavasv\u00e1ri"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91f7d8476deb2e98d89ad0c2756966b4",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650276,
+    "wof:lastmodified":1582345335,
     "wof:name":"Tiszavasv\u00e1ri",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

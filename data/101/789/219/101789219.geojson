@@ -157,6 +157,9 @@
         "wk:page":"Csongr\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6ca456221a40f42d09d8f773205840a",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345349,
     "wof:name":"Csongr\u00e1d",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

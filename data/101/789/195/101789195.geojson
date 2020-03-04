@@ -132,6 +132,9 @@
         "wk:page":"Zalaszentgr\u00f3t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4cda48dfc7a38c82c7e0ee64a05b118a",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650365,
+    "wof:lastmodified":1582345348,
     "wof:name":"Zalaszentgr\u00f3t",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

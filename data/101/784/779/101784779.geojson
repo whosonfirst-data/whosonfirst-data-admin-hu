@@ -117,6 +117,9 @@
         "qs_pg:id":506123
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f896b4bc81cc606f22183d6e34dde2e",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650291,
+    "wof:lastmodified":1582345337,
     "wof:name":"Szir\u00e1k",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

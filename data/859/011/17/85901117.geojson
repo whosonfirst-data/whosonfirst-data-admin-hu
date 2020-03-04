@@ -164,6 +164,9 @@
         "wd:id":"Q577122"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c8e7c0b2b4d63f91f04395dd2c82e4c",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649582,
+    "wof:lastmodified":1582345310,
     "wof:name":"Gellerthegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

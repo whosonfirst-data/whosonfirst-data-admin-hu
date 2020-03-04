@@ -104,6 +104,9 @@
         "wk:page":"Kakasd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a84ecb89436c0b1641f07a83d2a41f93",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650155,
+    "wof:lastmodified":1582345320,
     "wof:name":"Kakasd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

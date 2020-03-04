@@ -118,6 +118,9 @@
         "wk:page":"Lakitelek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a474c9b8feadea9cbc6790306e982a84",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650390,
+    "wof:lastmodified":1582345351,
     "wof:name":"Lakitelek",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

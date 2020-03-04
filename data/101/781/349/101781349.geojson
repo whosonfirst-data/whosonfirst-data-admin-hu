@@ -113,6 +113,9 @@
         "wk:page":"Hidasn\u00e9meti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69344feaf9e96f6d1e7af5cfab94c3b1",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650337,
+    "wof:lastmodified":1582345344,
     "wof:name":"Hidasn\u00e9meti",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

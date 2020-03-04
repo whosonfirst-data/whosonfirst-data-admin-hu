@@ -120,6 +120,9 @@
         "wk:page":"Gyomaendr\u0151d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e4c0e35ab9a021f36c733d5fc74abd4",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101844947,
-    "wof:lastmodified":1561751548,
+    "wof:lastmodified":1582345327,
     "wof:name":"Gyomaendr\u0151d",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

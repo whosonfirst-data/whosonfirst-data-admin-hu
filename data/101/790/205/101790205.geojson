@@ -119,6 +119,9 @@
         "wk:page":"Sz\u00e1szv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd86c4f8f96fda109bfe6cf823362d0d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345320,
     "wof:name":"Sz\u00e1szv\u00e1r",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

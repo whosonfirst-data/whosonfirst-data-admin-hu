@@ -110,6 +110,9 @@
         "wk:page":"B\u00f6k\u00f6ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8e766c708d11ae9bc55aa2270e90018",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650289,
+    "wof:lastmodified":1582345337,
     "wof:name":"B\u00f6k\u00f6ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

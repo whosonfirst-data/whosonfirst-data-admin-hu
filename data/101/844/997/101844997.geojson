@@ -113,6 +113,9 @@
         "wk:page":"Ravazd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9030630f5987247ddb1c0fd37bf65df7",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650204,
+    "wof:lastmodified":1582345326,
     "wof:name":"Ravazd",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

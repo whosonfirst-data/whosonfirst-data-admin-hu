@@ -134,6 +134,9 @@
         "wd:id":"Q522290"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f861698ed8dfbdd7b6674b04bb941402",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649573,
+    "wof:lastmodified":1582345308,
     "wof:name":"V\u00e1r",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

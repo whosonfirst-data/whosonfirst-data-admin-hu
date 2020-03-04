@@ -112,6 +112,9 @@
         "wk:page":"Pusztaszer"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea8bc2d0def8e21e12d314fbcdb9f0bd",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650165,
+    "wof:lastmodified":1582345321,
     "wof:name":"Pusztaszer",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

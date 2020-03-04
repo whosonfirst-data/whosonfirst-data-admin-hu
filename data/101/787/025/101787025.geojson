@@ -124,6 +124,9 @@
         "wk:page":"Mih\u00e1lyi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"987dcff680e91458352545f545a6d6ed",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650353,
+    "wof:lastmodified":1582345346,
     "wof:name":"Mih\u00e1lyi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wd:id":"Q1075945"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fde9f2e12299c4b9aa614fd5a5f41cd",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650306,
+    "wof:lastmodified":1582345340,
     "wof:name":"K\u00f6r\u00f6starcsa",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

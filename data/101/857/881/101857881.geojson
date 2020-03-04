@@ -120,6 +120,9 @@
         "wk:page":"Mindszentgodisa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42aedcc53a3f7da1531870dccdb04f40",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650215,
+    "wof:lastmodified":1582345327,
     "wof:name":"Mindszentgodisa",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

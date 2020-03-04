@@ -137,6 +137,9 @@
         "wk:page":"B\u00f3ly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95a88766cafff95699896ec8c7ce3745",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650185,
+    "wof:lastmodified":1582345324,
     "wof:name":"B\u00f3ly",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -149,6 +149,9 @@
         "wk:page":"S\u00fcmeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1069d81deb1f09a1ee5d8455873f45d7",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650365,
+    "wof:lastmodified":1582345348,
     "wof:name":"S\u00fcmeg",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

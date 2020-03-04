@@ -109,6 +109,9 @@
         "wk:page":"Ny\u00edr\u00e1br\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b1278d424ba5d0c4789bc22081de5b0",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650242,
+    "wof:lastmodified":1582345331,
     "wof:name":"Ny\u00edr\u00e1br\u00e1ny",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

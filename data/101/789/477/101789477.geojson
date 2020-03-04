@@ -109,6 +109,9 @@
         "wk:page":"K\u00e1loz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b660d1bd3e625448fb3452a3ce7c53b",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345348,
     "wof:name":"K\u00e1loz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

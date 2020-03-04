@@ -127,6 +127,9 @@
         "wk:page":"\u00d3csa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85be8fda284f950352edd78d7b9cc66e",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650314,
+    "wof:lastmodified":1582345341,
     "wof:name":"\u00d3csa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

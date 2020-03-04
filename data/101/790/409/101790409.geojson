@@ -113,6 +113,9 @@
         "wk:page":"M\u00e1rt\u00e9ly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec76c54e5e739c2887eaf4f85df5c781",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650157,
+    "wof:lastmodified":1582345320,
     "wof:name":"M\u00e1rt\u00e9ly",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

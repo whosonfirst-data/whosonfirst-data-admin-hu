@@ -131,6 +131,9 @@
         "wk:page":"Nagyecsed"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8bf9f69718e0b6736d59d32f86c2a817",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650275,
+    "wof:lastmodified":1582345335,
     "wof:name":"Nagyecsed",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

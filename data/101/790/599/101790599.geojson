@@ -112,6 +112,9 @@
         "wk:page":"Kevermes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46e77c16a8a1f6996bf0196c5c43c8ac",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650165,
+    "wof:lastmodified":1582345321,
     "wof:name":"Kevermes",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

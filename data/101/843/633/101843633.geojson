@@ -111,6 +111,9 @@
         "wd:id":"Q1185959"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6613b8359b54d939d648e3e8dc4c12ee",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650197,
+    "wof:lastmodified":1582345325,
     "wof:name":"Ny\u00edrkar\u00e1sz",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

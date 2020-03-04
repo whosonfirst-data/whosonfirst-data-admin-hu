@@ -106,6 +106,9 @@
         "wk:page":"S\u00e1ris\u00e1p"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8a25fce9c8971d17601fae96363a27d",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650239,
+    "wof:lastmodified":1582345331,
     "wof:name":"S\u00e1ris\u00e1p",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

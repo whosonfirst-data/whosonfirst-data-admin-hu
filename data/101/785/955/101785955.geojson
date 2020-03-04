@@ -97,6 +97,9 @@
         "wd:id":"Q249661"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35d3fdd78924e4db3fb7f656d0306126",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101785955,
-    "wof:lastmodified":1566650239,
+    "wof:lastmodified":1582345331,
     "wof:name":"Erd\u0151telek",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

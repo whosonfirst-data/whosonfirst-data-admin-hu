@@ -121,6 +121,10 @@
         "wd:id":"Q775745"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"059c67b498e5187d2b59d36f22e80c10",
     "wof:hierarchy":[
         {
@@ -136,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649588,
+    "wof:lastmodified":1582345310,
     "wof:name":"Csabaszabadi",
     "wof:parent_id":101751697,
     "wof:placetype":"neighbourhood",

@@ -108,6 +108,9 @@
         "wk:page":"J\u00e1szkarajen\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66c91acdfa624abe4dc93b61609586b6",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101789531,
-    "wof:lastmodified":1566650381,
+    "wof:lastmodified":1582345350,
     "wof:name":"J\u00e1szkarajen\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -127,6 +127,9 @@
         "wk:page":"Dombr\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"262c4569b84f418a35c607902bd67fbc",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650197,
+    "wof:lastmodified":1582345325,
     "wof:name":"Dombr\u00e1d",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

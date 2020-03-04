@@ -120,6 +120,9 @@
         "wk:page":"Em\u0151d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50790853f1bde627c0273cfceebca7e0",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101783621,
-    "wof:lastmodified":1566650268,
+    "wof:lastmodified":1582345334,
     "wof:name":"Em\u0151d",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

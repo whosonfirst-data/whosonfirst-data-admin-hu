@@ -121,6 +121,9 @@
         "wk:page":"Nagybaracska"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed3677523e288fde837b8f233a17a8c6",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650183,
+    "wof:lastmodified":1582345324,
     "wof:name":"Nagybaracska",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

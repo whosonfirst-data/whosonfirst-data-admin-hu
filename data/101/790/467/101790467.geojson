@@ -130,6 +130,9 @@
         "wk:page":"\u00c1sotthalom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1bfd699d0371095a693e3ccf2c7c6940",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650171,
+    "wof:lastmodified":1582345322,
     "wof:name":"\u00c1sotthalom",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

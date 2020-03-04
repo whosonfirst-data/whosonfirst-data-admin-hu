@@ -81,6 +81,10 @@
         "qs_pg:id":477782
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fcefa24fe74262c3c8a6e2ae0bf5bb46",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649566,
+    "wof:lastmodified":1582345307,
     "wof:name":"L\u00f3r\u00e1ntffykert",
     "wof:parent_id":101785913,
     "wof:placetype":"neighbourhood",

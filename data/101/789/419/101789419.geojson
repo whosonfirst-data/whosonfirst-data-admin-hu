@@ -122,6 +122,9 @@
         "wk:page":"Pusztaszabolcs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d6fa1f3367000ec472383c1ab315995",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650383,
+    "wof:lastmodified":1582345350,
     "wof:name":"Pusztaszabolcs",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

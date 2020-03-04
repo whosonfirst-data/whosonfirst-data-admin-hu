@@ -116,6 +116,9 @@
         "wk:page":"Ny\u00edrb\u00e9ltek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52780db9fb28b295c2d92c8aeba75a04",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650243,
+    "wof:lastmodified":1582345332,
     "wof:name":"Ny\u00edrb\u00e9ltek",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Nagytarcsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d98f9dda32e84bcc206c2c1c520748f8",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650190,
+    "wof:lastmodified":1582345325,
     "wof:name":"Nagytarcsa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

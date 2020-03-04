@@ -108,6 +108,9 @@
         "wk:page":"K\u00f6lked"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0126df757d350d84668e990f7600a0e4",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650183,
+    "wof:lastmodified":1582345324,
     "wof:name":"K\u00f6lked",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

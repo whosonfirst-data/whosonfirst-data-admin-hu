@@ -107,6 +107,9 @@
         "wk:page":"Magyarpol\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e6f8ca7c693622d5a153108c699fbe6",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650312,
+    "wof:lastmodified":1582345341,
     "wof:name":"Magyarpol\u00e1ny",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

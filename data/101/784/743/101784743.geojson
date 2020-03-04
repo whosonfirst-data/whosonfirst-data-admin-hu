@@ -121,6 +121,9 @@
         "wk:page":"Tar, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93c287b59906d9421205428781861923",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"Tar",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

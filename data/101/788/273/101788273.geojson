@@ -142,6 +142,9 @@
         "wk:page":"Monor"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1b1cf050e20123f76dac51cea8f534b",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650310,
+    "wof:lastmodified":1582345341,
     "wof:name":"Monor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -126,6 +126,9 @@
         "wk:page":"V\u00e9rtessz\u0151l\u0151s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34bfa275ba24738f62d356ab69ce495e",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101786885,
-    "wof:lastmodified":1566650347,
+    "wof:lastmodified":1582345345,
     "wof:name":"V\u00e9rtessz\u0151l\u0151s",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

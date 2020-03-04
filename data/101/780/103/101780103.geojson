@@ -102,6 +102,9 @@
         "wd:id":"Q784268"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f006c6d1bea34d717bc5e91a6648339",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650361,
+    "wof:lastmodified":1582345347,
     "wof:name":"Gy\u00f6ngy\u00f6ssolymos",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

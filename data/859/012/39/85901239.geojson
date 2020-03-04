@@ -85,6 +85,10 @@
         "qs_pg:id":910519
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5fb833508ec8e07425c344e8bfa7f28",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649569,
+    "wof:lastmodified":1582345308,
     "wof:name":"Peresf\u00f6ld",
     "wof:parent_id":101783579,
     "wof:placetype":"neighbourhood",

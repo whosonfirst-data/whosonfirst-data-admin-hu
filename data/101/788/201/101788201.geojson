@@ -114,6 +114,9 @@
         "wk:page":"J\u00e1szals\u00f3szentgy\u00f6rgy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ce2f95588795fc983502799adabe077",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650330,
+    "wof:lastmodified":1582345343,
     "wof:name":"J\u00e1szals\u00f3szentgy\u00f6rgy",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

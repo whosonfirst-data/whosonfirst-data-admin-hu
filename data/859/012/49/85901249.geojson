@@ -153,6 +153,9 @@
         "qs_pg:id":1083310
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72144e42bafdf7976a03c6d913edcb59",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649572,
+    "wof:lastmodified":1582345308,
     "wof:name":"Pestl\u0151rinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

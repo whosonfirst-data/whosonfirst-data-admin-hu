@@ -112,6 +112,9 @@
         "wk:page":"Domony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccce8f494328c5eec1afe1a6440353b7",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650224,
+    "wof:lastmodified":1582345328,
     "wof:name":"Domony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

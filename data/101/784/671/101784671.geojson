@@ -109,6 +109,9 @@
         "wk:page":"Egerszal\u00f3k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac80672dbd555e7a4a899f5f6dfced09",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650294,
+    "wof:lastmodified":1582345337,
     "wof:name":"Egerszal\u00f3k",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -127,6 +127,9 @@
         "wk:page":"Demecser"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3b110f775cd9963d8b848cf2e4cb0ff",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650257,
+    "wof:lastmodified":1582345333,
     "wof:name":"Demecser",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

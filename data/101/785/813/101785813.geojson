@@ -109,6 +109,9 @@
         "wk:page":"J\u00e1szszentandr\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ed92aa197a78d58d72365e726f3b231",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650246,
+    "wof:lastmodified":1582345332,
     "wof:name":"J\u00e1szszentandr\u00e1s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

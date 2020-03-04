@@ -105,6 +105,9 @@
         "wk:page":"Di\u00f3sjen\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c07e78de1f270841bfdc7b5d841bbb15",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101784745,
-    "wof:lastmodified":1566650298,
+    "wof:lastmodified":1582345338,
     "wof:name":"Di\u00f3sjen\u0151",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

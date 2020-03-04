@@ -130,6 +130,9 @@
         "wk:page":"Veresegyh\u00e1z"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6262755350c62d180f344a2e074883c2",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650219,
+    "wof:lastmodified":1582345328,
     "wof:name":"Veresegyh\u00e1z",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

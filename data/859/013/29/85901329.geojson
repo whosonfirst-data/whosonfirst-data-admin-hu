@@ -83,6 +83,10 @@
         "qs_pg:id":1117271
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"401a2c4a01e4ec47e1424eb4a99f53da",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649574,
+    "wof:lastmodified":1582345308,
     "wof:name":"\u00dcsz\u00f6gpuszta",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

@@ -111,6 +111,9 @@
         "wd:id":"Q1185150"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9b235ba259518329633c3ba0a72c645",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650280,
+    "wof:lastmodified":1582345336,
     "wof:name":"M\u00e1tranov\u00e1k",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

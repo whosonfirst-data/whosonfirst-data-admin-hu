@@ -102,6 +102,9 @@
         "qs_pg:id":1218765
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2dd03b94799436e0196ea75a6f001465",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649586,
+    "wof:lastmodified":1582345310,
     "wof:name":"Kisf\u00e1ri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -141,6 +141,9 @@
         "wk:page":"Balatonalm\u00e1di"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6dcb42f54c4c37a22cf9884ca8d9dc72",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650376,
+    "wof:lastmodified":1582345349,
     "wof:name":"Balatonalm\u00e1di",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Ny\u00edrbog\u00e1t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cf1ab3bf57130170cd742cefa0186dc",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650277,
+    "wof:lastmodified":1582345335,
     "wof:name":"Ny\u00edrbog\u00e1t",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

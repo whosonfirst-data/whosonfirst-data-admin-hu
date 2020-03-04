@@ -112,6 +112,9 @@
         "wk:page":"Kiszombor"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe2005233e258e938f40007011421937",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650153,
+    "wof:lastmodified":1582345320,
     "wof:name":"Kiszombor",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

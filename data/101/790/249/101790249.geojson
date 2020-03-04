@@ -101,6 +101,9 @@
         "wk:page":"Gerjen"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bb4d1f7bb890f956c6d1ddc3fe05afe",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650169,
+    "wof:lastmodified":1582345322,
     "wof:name":"Gerjen",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

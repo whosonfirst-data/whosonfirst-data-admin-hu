@@ -121,6 +121,9 @@
         "wk:page":"Tasz\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86d3fa59868781c5139a72ecea277dc6",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650147,
+    "wof:lastmodified":1582345319,
     "wof:name":"Tasz\u00e1r",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

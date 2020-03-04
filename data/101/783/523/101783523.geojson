@@ -113,6 +113,9 @@
         "wk:page":"Tunyogmatolcs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0c69ba822fd53b99b528c3ca2182725",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650283,
+    "wof:lastmodified":1582345336,
     "wof:name":"Tunyogmatolcs",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

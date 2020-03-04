@@ -103,6 +103,9 @@
         "wk:page":"Tiszab\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"610e8efbc35ad542dc9abd911300426c",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101788215,
-    "wof:lastmodified":1566650325,
+    "wof:lastmodified":1582345342,
     "wof:name":"Tiszab\u0151",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

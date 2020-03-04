@@ -131,6 +131,9 @@
         "wk:page":"T\u00f6r\u00f6kb\u00e1lint"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f80a59ee09777efee76ba0ffdb4c9d75",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650299,
+    "wof:lastmodified":1582345338,
     "wof:name":"T\u00f6r\u00f6kb\u00e1lint",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

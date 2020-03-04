@@ -109,6 +109,9 @@
         "wk:page":"Karancskeszi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60be1b4879fddc161f875238ecddf7f7",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650195,
+    "wof:lastmodified":1582345325,
     "wof:name":"Karancskeszi",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

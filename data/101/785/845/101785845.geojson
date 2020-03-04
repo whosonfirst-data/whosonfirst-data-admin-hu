@@ -101,6 +101,9 @@
         "wk:page":"H\u00e9derv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a934824d5d4f3abfcd2eab5fdd6608af",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650239,
+    "wof:lastmodified":1582345331,
     "wof:name":"H\u00e9derv\u00e1r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

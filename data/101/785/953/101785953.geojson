@@ -107,6 +107,9 @@
         "wk:page":"V\u00e1mosgy\u00f6rk"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc12ad9b608fb562653b20897f38670e",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650237,
+    "wof:lastmodified":1582345330,
     "wof:name":"V\u00e1mosgy\u00f6rk",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

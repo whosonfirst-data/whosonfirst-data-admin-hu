@@ -103,6 +103,9 @@
         "wk:page":"Pet\u0151h\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b4ae761b11e2d4636fc0f7b53d0c31f",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101833321,
-    "wof:lastmodified":1566650230,
+    "wof:lastmodified":1582345329,
     "wof:name":"Pet\u0151h\u00e1za",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

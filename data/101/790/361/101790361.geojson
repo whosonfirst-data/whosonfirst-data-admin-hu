@@ -134,6 +134,9 @@
         "wk:page":"Zalakaros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a84b82445b8b6b305249ecc66a1ccd24",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650163,
+    "wof:lastmodified":1582345321,
     "wof:name":"Zalakaros",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Kecsk\u00e9d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9aa9138363448100fb9bde6e65b3a7d2",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650339,
+    "wof:lastmodified":1582345344,
     "wof:name":"Kecsk\u00e9d",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

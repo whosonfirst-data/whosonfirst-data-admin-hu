@@ -133,6 +133,9 @@
         "wk:page":"Isaszeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f9dbc8185cbeadf81a6cc59a9b18cc9",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650353,
+    "wof:lastmodified":1582345346,
     "wof:name":"Isaszeg",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

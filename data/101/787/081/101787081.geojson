@@ -157,6 +157,9 @@
         "wk:page":"Budakeszi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"565b345b81e0ab1698242d1620658087",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650358,
+    "wof:lastmodified":1582345347,
     "wof:name":"Budakeszi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "wk:page":"R\u00e1koskereszt\u00far"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d67bf5c4084f94992be7cabf8b550839",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649565,
+    "wof:lastmodified":1582345307,
     "wof:name":"Rakoskeresztur",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -101,6 +101,9 @@
         "wk:page":"Letk\u00e9s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d10848314898c3eb8fb56f3db1dcbc67",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650294,
+    "wof:lastmodified":1582345338,
     "wof:name":"Letk\u00e9s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

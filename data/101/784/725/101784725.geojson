@@ -112,6 +112,9 @@
         "wk:page":"Nagyoroszi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c64d1536f6437d7bc1565cd8e9a73a8",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650289,
+    "wof:lastmodified":1582345337,
     "wof:name":"Nagyoroszi",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

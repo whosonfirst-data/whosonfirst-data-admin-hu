@@ -119,6 +119,9 @@
         "wk:page":"\u00c1gasegyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c63d8ba3398d92e6ae81d6806a404b81",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650370,
+    "wof:lastmodified":1582345349,
     "wof:name":"\u00c1gasegyh\u00e1za",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"P\u00e1troha"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dddab2cb322ef0c4b6f3fb13392618fd",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650201,
+    "wof:lastmodified":1582345326,
     "wof:name":"P\u00e1troha",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

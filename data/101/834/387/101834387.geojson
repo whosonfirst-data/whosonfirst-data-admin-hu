@@ -139,6 +139,9 @@
         "wk:page":"Balatonf\u00f6ldv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7de44d20e4241c0b9ef217946713f268",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650236,
+    "wof:lastmodified":1582345330,
     "wof:name":"Balatonf\u00f6ldv\u00e1r",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

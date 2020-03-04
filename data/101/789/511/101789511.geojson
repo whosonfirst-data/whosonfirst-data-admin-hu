@@ -96,6 +96,9 @@
         "wd:id":"Q1185680"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a65abcebd9d8f40de0bda6c53d1ba2f6",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101789511,
-    "wof:lastmodified":1566650378,
+    "wof:lastmodified":1582345350,
     "wof:name":"Szelev\u00e9ny",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "qs_pg:id":501177
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77513aedebc385cae76a74eaceb4ab3a",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649574,
+    "wof:lastmodified":1582345308,
     "wof:name":"Terezvaro",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

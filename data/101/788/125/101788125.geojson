@@ -131,6 +131,9 @@
         "wk:page":"K\u00f6r\u00f6slad\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"267853ccd5281fb4e7382da13bf5c4ef",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650334,
+    "wof:lastmodified":1582345343,
     "wof:name":"K\u00f6r\u00f6slad\u00e1ny",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

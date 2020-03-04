@@ -111,6 +111,9 @@
         "wk:page":"List of Donkey Kong characters"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8869e6d2de1e4fd884c660fb8eba3206",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650394,
+    "wof:lastmodified":1582345351,
     "wof:name":"N\u00e9metk\u00e9r",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

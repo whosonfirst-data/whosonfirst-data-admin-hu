@@ -113,6 +113,9 @@
         "wd:id":"Q1047661"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61a1771d7ee37aa2a6b5077e5a1e5acf",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650295,
+    "wof:lastmodified":1582345338,
     "wof:name":"Verpel\u00e9t",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

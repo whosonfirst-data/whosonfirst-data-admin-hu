@@ -109,6 +109,9 @@
         "wk:page":"K\u00e1lm\u00e1nh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08b360f63bebc52f4078b5bce27f9efb",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650266,
+    "wof:lastmodified":1582345334,
     "wof:name":"K\u00e1lm\u00e1nh\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

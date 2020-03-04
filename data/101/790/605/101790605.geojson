@@ -133,6 +133,9 @@
         "wk:page":"Mez\u0151kov\u00e1csh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff16efb7bdd5f4d48d78e51b8486f6c4",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101790605,
-    "wof:lastmodified":1566650156,
+    "wof:lastmodified":1582345320,
     "wof:name":"Mez\u0151kov\u00e1csh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

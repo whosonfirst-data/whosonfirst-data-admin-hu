@@ -113,6 +113,9 @@
         "wk:page":"Szalkszentm\u00e1rton"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"99215c78efe7891ecaf03ea2bd1b405b",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650314,
+    "wof:lastmodified":1582345341,
     "wof:name":"Szalkszentm\u00e1rton",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

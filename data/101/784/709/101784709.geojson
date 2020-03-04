@@ -197,6 +197,9 @@
         "wk:page":"Gy\u00f6ngy\u00f6s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da94597474b72a11efcc24c9d3fa971a",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650284,
+    "wof:lastmodified":1582345336,
     "wof:name":"Gy\u00f6ngy\u00f6s",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Vonyarcvashegy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"507ebbab4d1cf5296a4f0e2ab9252a5a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650234,
+    "wof:lastmodified":1582345330,
     "wof:name":"Vonyarcvashegy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

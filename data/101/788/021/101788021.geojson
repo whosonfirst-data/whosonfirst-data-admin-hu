@@ -124,6 +124,9 @@
         "wk:page":"R\u00e9pcelak"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f2e7b7b1f11dd917965b578acec148c",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650327,
+    "wof:lastmodified":1582345343,
     "wof:name":"R\u00e9pcelak",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

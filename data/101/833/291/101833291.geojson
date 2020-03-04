@@ -128,6 +128,9 @@
         "wk:page":"Nyerges\u00fajfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14b6270ce939f51ba396130edd1fdc45",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650227,
+    "wof:lastmodified":1582345329,
     "wof:name":"Nyerges\u00fajfalu",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

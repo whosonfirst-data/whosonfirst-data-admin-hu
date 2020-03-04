@@ -125,6 +125,9 @@
         "wk:page":"Enying"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc6c2883e4494516c6a4415a4d0a4291",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650384,
+    "wof:lastmodified":1582345350,
     "wof:name":"Enying",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

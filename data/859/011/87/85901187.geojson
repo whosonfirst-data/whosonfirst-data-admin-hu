@@ -78,6 +78,10 @@
         "qs_pg:id":313033
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48d1cbc54fe03f741ba6f35cda68417d",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649582,
+    "wof:lastmodified":1582345309,
     "wof:name":"K\u00f6zpontimajor",
     "wof:parent_id":101845021,
     "wof:placetype":"neighbourhood",

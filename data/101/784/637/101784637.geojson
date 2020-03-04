@@ -101,6 +101,9 @@
         "wk:page":"Kemence"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5cf4e0678f70e2d0b17647a376561604",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650296,
+    "wof:lastmodified":1582345338,
     "wof:name":"Kemence",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Tiszaroff"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31dae883c537694b981416622d479a7e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650308,
+    "wof:lastmodified":1582345340,
     "wof:name":"Tiszaroff",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

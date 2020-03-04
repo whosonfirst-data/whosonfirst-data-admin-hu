@@ -118,6 +118,9 @@
         "wk:page":"\u00dajsz\u00e1sz"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76e792a2c9ef7f297290c0d10df6223c",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650311,
+    "wof:lastmodified":1582345341,
     "wof:name":"\u00dajsz\u00e1sz",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

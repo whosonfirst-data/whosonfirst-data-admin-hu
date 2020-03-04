@@ -104,6 +104,9 @@
         "wk:page":"Szendehely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d685ef55845cce5bafce27964a1f0325",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"Szendehely",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

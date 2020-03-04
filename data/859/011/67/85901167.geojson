@@ -80,6 +80,10 @@
         "qs_pg:id":906963
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bc1c8ab0a264a1ffa03b86f4831d032a",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649580,
+    "wof:lastmodified":1582345309,
     "wof:name":"Kocsoros",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

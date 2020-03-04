@@ -107,6 +107,9 @@
         "wk:page":"Baj\u00f3t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a100ea6e2ac9cb53aecc52c67cc153d9",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650243,
+    "wof:lastmodified":1582345331,
     "wof:name":"Baj\u00f3t",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

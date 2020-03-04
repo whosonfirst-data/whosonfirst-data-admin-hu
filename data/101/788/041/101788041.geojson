@@ -122,6 +122,9 @@
         "wk:page":"V\u00e9p"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d2fb72b4b2330ab040c3ed9652af61b",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650310,
+    "wof:lastmodified":1582345341,
     "wof:name":"V\u00e9p",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

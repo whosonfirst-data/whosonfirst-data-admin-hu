@@ -148,6 +148,9 @@
         "wk:page":"Bicske"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36f5635cb0cf3e6c59770d583024be4d",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345345,
     "wof:name":"Bicske",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -227,6 +227,9 @@
         "wk:page":"\u00c9rd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6aaa662d40e1713c0989773a5c2bb629",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650301,
+    "wof:lastmodified":1582345339,
     "wof:name":"\u00c9rd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

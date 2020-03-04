@@ -126,6 +126,9 @@
         "wk:page":"Dunaszekcs\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c332c0390b98333862f835aab7734982",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101791421,
-    "wof:lastmodified":1566650187,
+    "wof:lastmodified":1582345324,
     "wof:name":"Dunaszekcs\u0151",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

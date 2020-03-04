@@ -109,6 +109,9 @@
         "wk:page":"Monostorp\u00e1lyi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c90d1e92a26407a59a04b2fd1b1bd926",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650356,
+    "wof:lastmodified":1582345347,
     "wof:name":"Monostorp\u00e1lyi",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

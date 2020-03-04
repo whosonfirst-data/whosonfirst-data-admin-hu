@@ -403,6 +403,9 @@
         "wk:page":"Kaposv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d52e236b7644b4e53f3d9612013ec696",
     "wof:hierarchy":[
         {
@@ -418,7 +421,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649577,
+    "wof:lastmodified":1582345309,
     "wof:name":"Kaposf\u00fcred",
     "wof:parent_id":101751667,
     "wof:placetype":"neighbourhood",

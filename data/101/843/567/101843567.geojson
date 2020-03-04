@@ -104,6 +104,9 @@
         "wd:id":"Q339421"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5a5d52e20ab848e59d3d6fcffb1fb2f",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650195,
+    "wof:lastmodified":1582345325,
     "wof:name":"Romh\u00e1ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

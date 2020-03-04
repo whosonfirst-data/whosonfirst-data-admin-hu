@@ -157,6 +157,9 @@
         "wk:page":"Vecs\u00e9s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fc05b4f88971d6a9b2df5e560de7013",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650180,
+    "wof:lastmodified":1582345323,
     "wof:name":"Vecs\u00e9s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

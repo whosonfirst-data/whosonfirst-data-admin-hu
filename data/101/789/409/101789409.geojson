@@ -140,6 +140,9 @@
         "wk:page":"Sarkad, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e84b54b9bf3c18b157c9e27de5440a3",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650373,
+    "wof:lastmodified":1582345349,
     "wof:name":"Sarkad",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

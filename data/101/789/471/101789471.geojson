@@ -101,6 +101,9 @@
         "wk:page":"Nagyl\u00f3k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e530010685a55a111b3dd9e041e58355",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650368,
+    "wof:lastmodified":1582345348,
     "wof:name":"Nagyl\u00f3k",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

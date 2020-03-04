@@ -130,6 +130,9 @@
         "wk:page":"Szabadsz\u00e1ll\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"803d6ae4032c3a156869e5054203dd0b",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650374,
+    "wof:lastmodified":1582345349,
     "wof:name":"Szabadsz\u00e1ll\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

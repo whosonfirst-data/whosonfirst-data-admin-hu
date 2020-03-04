@@ -130,6 +130,9 @@
         "wk:page":"V\u00e1s\u00e1rosnam\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9aba0ee3dcda8ea8b401db0270f86e00",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650200,
+    "wof:lastmodified":1582345326,
     "wof:name":"V\u00e1s\u00e1rosnam\u00e9ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

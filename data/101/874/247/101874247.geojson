@@ -98,6 +98,9 @@
         "wd:id":"Q855576"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76c1d9cb7bc7bd44d4733ac51ec5e488",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650193,
+    "wof:lastmodified":1582345325,
     "wof:name":"B\u00fckkszenterzs\u00e9bet",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

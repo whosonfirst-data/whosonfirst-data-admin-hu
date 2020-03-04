@@ -80,6 +80,9 @@
         "wd:id":"Q282039"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68335450df7661c2f1e2dd8da321bfb2",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650238,
+    "wof:lastmodified":1582345331,
     "wof:name":"Ecs\u00e9d",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

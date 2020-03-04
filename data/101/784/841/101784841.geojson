@@ -118,6 +118,9 @@
         "wk:page":"Tiszakeszi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c749b87cda27de0a1ce59c96e739d31d",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650293,
+    "wof:lastmodified":1582345337,
     "wof:name":"Tiszakeszi",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

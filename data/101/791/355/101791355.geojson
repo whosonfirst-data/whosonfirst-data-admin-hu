@@ -107,6 +107,9 @@
         "wk:page":"Eger\u00e1g"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac50c0acde82ddd841f1fa4277be8a86",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650182,
+    "wof:lastmodified":1582345324,
     "wof:name":"Eger\u00e1g",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

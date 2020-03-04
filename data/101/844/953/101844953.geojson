@@ -106,6 +106,9 @@
         "wk:page":"El\u0151sz\u00e1ll\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed55b9caf8737a9c45b818f09b869e27",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101844953,
-    "wof:lastmodified":1566650203,
+    "wof:lastmodified":1582345326,
     "wof:name":"El\u0151sz\u00e1ll\u00e1s",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

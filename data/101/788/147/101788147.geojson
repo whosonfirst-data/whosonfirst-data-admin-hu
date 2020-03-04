@@ -100,6 +100,9 @@
         "wk:page":"Cs\u00f3kak\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab5262d432c8ff11ee8ee291be00fead",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101788147,
-    "wof:lastmodified":1566650335,
+    "wof:lastmodified":1582345343,
     "wof:name":"Cs\u00f3kak\u0151",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

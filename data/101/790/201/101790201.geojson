@@ -128,6 +128,9 @@
         "wk:page":"M\u00e1gocs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e0a10cf76e5d7993549eebdc3d2e77a",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650173,
+    "wof:lastmodified":1582345322,
     "wof:name":"M\u00e1gocs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

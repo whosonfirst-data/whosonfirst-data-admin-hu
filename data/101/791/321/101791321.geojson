@@ -118,6 +118,9 @@
         "wd:id":"Q749947"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb0a1b4b452169ca483bb5bb8ad1176a",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650189,
+    "wof:lastmodified":1582345324,
     "wof:name":"Hossz\u00fahet\u00e9ny",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

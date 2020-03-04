@@ -145,6 +145,9 @@
         "wk:page":"Oroszl\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1c3eb124afe5e30db1284388c98d0bd",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650350,
+    "wof:lastmodified":1582345346,
     "wof:name":"Oroszl\u00e1ny",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"B\u00e9k\u00e9ss\u00e1mson"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe1d0ae51b28043956885d7214c6552e",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650165,
+    "wof:lastmodified":1582345321,
     "wof:name":"B\u00e9k\u00e9ss\u00e1mson",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

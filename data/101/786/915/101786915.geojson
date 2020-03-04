@@ -100,6 +100,9 @@
         "wk:page":"Bokod, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02e405dde02009cf55ad3df253cdad94",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650344,
+    "wof:lastmodified":1582345345,
     "wof:name":"Bokod",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

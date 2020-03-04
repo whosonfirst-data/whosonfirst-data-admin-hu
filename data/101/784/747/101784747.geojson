@@ -131,6 +131,9 @@
         "wk:page":"R\u00e9ts\u00e1g"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d2f797396b03f250c7dae93b6c97230",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650290,
+    "wof:lastmodified":1582345337,
     "wof:name":"R\u00e9ts\u00e1g",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

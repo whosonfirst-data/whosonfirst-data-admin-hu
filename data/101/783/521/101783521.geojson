@@ -112,6 +112,9 @@
         "wk:page":"Ny\u00edrpazony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cdcf08ecf32aa181fd4686fcfb5fa6c8",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650273,
+    "wof:lastmodified":1582345335,
     "wof:name":"Ny\u00edrpazony",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

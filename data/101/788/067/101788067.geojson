@@ -109,6 +109,9 @@
         "wk:page":"Cset\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae0c69d7d6bd2f317b305a7180028c69",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650331,
+    "wof:lastmodified":1582345343,
     "wof:name":"Cset\u00e9ny",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

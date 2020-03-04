@@ -148,6 +148,9 @@
         "wk:page":"Kenderes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d38b7e3e1d45cf1af158714e81870b9",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650326,
+    "wof:lastmodified":1582345342,
     "wof:name":"Kenderes",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

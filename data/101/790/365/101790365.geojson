@@ -112,6 +112,9 @@
         "wk:page":"Zalakom\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe2176bfbb35ed925ad88d33dbf102f9",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650148,
+    "wof:lastmodified":1582345319,
     "wof:name":"Zalakom\u00e1r",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

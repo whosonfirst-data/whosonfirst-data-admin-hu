@@ -121,6 +121,9 @@
         "wk:page":"Kiskunlach\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fece5762d368adad809c25c6e0701df5",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650332,
+    "wof:lastmodified":1582345343,
     "wof:name":"Kiskunlach\u00e1za",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

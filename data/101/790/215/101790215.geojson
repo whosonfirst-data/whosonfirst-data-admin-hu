@@ -112,6 +112,9 @@
         "wk:page":"Nagydorog"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d99a05eec5c8e94822dce30cb7b1659",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650168,
+    "wof:lastmodified":1582345322,
     "wof:name":"Nagydorog",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

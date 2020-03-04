@@ -115,6 +115,9 @@
         "wk:page":"Szany"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"847445fd441afebd065ce89fecf8e585",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650359,
+    "wof:lastmodified":1582345347,
     "wof:name":"Szany",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

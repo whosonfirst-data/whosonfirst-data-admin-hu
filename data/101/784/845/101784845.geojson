@@ -112,6 +112,9 @@
         "wk:page":"Szentistv\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1f45b8b4da5fec8c3b1935bef6d7db2",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650286,
+    "wof:lastmodified":1582345337,
     "wof:name":"Szentistv\u00e1n",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Arl\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"506239e0b871f7e0ebb4bdfcc4d7c67e",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650270,
+    "wof:lastmodified":1582345334,
     "wof:name":"Arl\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

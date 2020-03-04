@@ -112,6 +112,9 @@
         "wk:page":"Hal\u00e1szi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c27326993dc6e3af6d7bd496de82266",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650241,
+    "wof:lastmodified":1582345331,
     "wof:name":"Hal\u00e1szi",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

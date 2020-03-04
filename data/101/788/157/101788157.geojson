@@ -119,6 +119,9 @@
         "wk:page":"Bodajk"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9086a3595a86585d6accae2fbebd8314",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650306,
+    "wof:lastmodified":1582345340,
     "wof:name":"Bodajk",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

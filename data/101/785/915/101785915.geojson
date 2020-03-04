@@ -109,6 +109,9 @@
         "wk:page":"Ny\u00edracs\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7dd01d45fbb53c7f6252d7e0f9103005",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650242,
+    "wof:lastmodified":1582345331,
     "wof:name":"Ny\u00edracs\u00e1d",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

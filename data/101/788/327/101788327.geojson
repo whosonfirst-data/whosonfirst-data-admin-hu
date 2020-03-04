@@ -154,6 +154,9 @@
         "wk:page":"Abony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c13a9121c9583e38f96cad4a76a3ada",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650332,
+    "wof:lastmodified":1582345343,
     "wof:name":"Abony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

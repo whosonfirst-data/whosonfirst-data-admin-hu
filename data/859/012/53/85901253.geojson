@@ -85,6 +85,9 @@
         "wd:id":"Q980114"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c91eac55f8ae127acb53ed5d2b25aff",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649569,
+    "wof:lastmodified":1582345307,
     "wof:name":"Pestszentlorinc",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

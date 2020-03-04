@@ -773,6 +773,9 @@
         85684881
     ],
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e09803c1fa0136dea171e24cb19c8f5",
     "wof:hierarchy":[
         {
@@ -784,7 +787,7 @@
         }
     ],
     "wof:id":101751703,
-    "wof:lastmodified":1566650301,
+    "wof:lastmodified":1582345339,
     "wof:megacity":1,
     "wof:name":"Budapest",
     "wof:parent_id":85684881,

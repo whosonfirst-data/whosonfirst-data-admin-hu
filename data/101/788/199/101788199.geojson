@@ -109,6 +109,9 @@
         "wk:page":"J\u00e1noshida"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"537c36ebb718ece9ae7db9339496f6eb",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650322,
+    "wof:lastmodified":1582345342,
     "wof:name":"J\u00e1noshida",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

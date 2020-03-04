@@ -110,6 +110,9 @@
         "wk:page":"Pincehely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ecd83c3a3752dfd1f0e7e81dc0139d77",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650365,
+    "wof:lastmodified":1582345348,
     "wof:name":"Pincehely",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

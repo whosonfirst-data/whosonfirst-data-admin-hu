@@ -116,6 +116,9 @@
         "wd:id":"Q597182"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bd336e05a5ff74c559417e8a996e3b9",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649578,
+    "wof:lastmodified":1582345309,
     "wof:name":"Jozsefvaros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

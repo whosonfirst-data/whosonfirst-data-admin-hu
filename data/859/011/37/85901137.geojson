@@ -109,6 +109,9 @@
         "qs_pg:id":887870
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e15cf8d619475e942698fbcaee796fe5",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649584,
+    "wof:lastmodified":1582345310,
     "wof:name":"Kelenvolgy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

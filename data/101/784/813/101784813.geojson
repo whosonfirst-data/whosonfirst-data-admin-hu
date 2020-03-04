@@ -147,6 +147,9 @@
         "wk:page":"Tisza\u00fajv\u00e1ros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ab9b97e2ff9cb336e50403ccac851ba",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650295,
+    "wof:lastmodified":1582345338,
     "wof:name":"Tisza\u00fajv\u00e1ros",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

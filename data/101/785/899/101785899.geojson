@@ -112,6 +112,9 @@
         "wk:page":"Csob\u00e1nka"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46d3deba1cee13a7831a370249f2a9f9",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650248,
+    "wof:lastmodified":1582345332,
     "wof:name":"Csob\u00e1nka",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

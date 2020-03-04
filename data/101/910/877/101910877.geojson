@@ -330,6 +330,9 @@
         "wk:page":"Gy\u0151r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c69e34156fa97724be898432b29e15f3",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":101910877,
-    "wof:lastmodified":1566650395,
+    "wof:lastmodified":1582345352,
     "wof:name":"Gy\u0151rszentiv\u00e1n",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

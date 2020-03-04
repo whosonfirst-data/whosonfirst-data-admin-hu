@@ -112,6 +112,9 @@
         "wk:page":"Lit\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3632ff87a3a674df6ddc3fbd032f398c",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650366,
+    "wof:lastmodified":1582345348,
     "wof:name":"Lit\u00e9r",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

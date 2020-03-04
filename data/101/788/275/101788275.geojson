@@ -108,6 +108,9 @@
         "wk:page":"Fels\u0151pakony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37714f8790383334b3a115f0e89d337a",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101788275,
-    "wof:lastmodified":1566650313,
+    "wof:lastmodified":1582345341,
     "wof:name":"Fels\u0151pakony",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
         "wk:page":"J\u00e1sz\u00e1roksz\u00e1ll\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca3ed650260f59d9df334dcd9bb23540",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650240,
+    "wof:lastmodified":1582345331,
     "wof:name":"J\u00e1sz\u00e1roksz\u00e1ll\u00e1s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

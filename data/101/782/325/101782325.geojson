@@ -118,6 +118,9 @@
         "wk:page":"Aranyosap\u00e1ti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e58b3831e46c354f556944b0e68541d",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650257,
+    "wof:lastmodified":1582345333,
     "wof:name":"Aranyosap\u00e1ti",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -220,6 +220,9 @@
         "wk:page":"Baja, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"683590b7345f2add49e3129db2ab846d",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650164,
+    "wof:lastmodified":1582345321,
     "wof:name":"Baja",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Kun\u00e1gota"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd1cf8f18149424ed27ee941da57f2b3",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650149,
+    "wof:lastmodified":1582345319,
     "wof:name":"Kun\u00e1gota",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

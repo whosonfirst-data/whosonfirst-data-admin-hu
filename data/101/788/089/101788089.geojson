@@ -102,6 +102,9 @@
         "wk:page":"\u00d6sk\u00fc"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca85be3a5f31c37410e40b8337368fbb",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650323,
+    "wof:lastmodified":1582345342,
     "wof:name":"\u00d6sk\u00fc",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Lajoskom\u00e1rom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b33161475d555ef65b1bc9346838d8b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650372,
+    "wof:lastmodified":1582345349,
     "wof:name":"Lajoskom\u00e1rom",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"Nagym\u00e1nyok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"78f8f9e41dea3fb97fdf1cdd0b7bf45f",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650153,
+    "wof:lastmodified":1582345320,
     "wof:name":"Nagym\u00e1nyok",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

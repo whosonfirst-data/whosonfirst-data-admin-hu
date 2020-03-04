@@ -118,6 +118,9 @@
         "wk:page":"Tarpa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d86af265f8621256e18e249579edf44",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650253,
+    "wof:lastmodified":1582345333,
     "wof:name":"Tarpa",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

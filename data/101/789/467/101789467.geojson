@@ -105,6 +105,9 @@
         "wk:page":"Mez\u0151szilas"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a5ec7fd3cc4e90a26fe8a1db6dd54cc",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101789467,
-    "wof:lastmodified":1566650388,
+    "wof:lastmodified":1582345351,
     "wof:name":"Mez\u0151szilas",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

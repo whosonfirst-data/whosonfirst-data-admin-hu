@@ -109,6 +109,9 @@
         "wk:page":"Kocsord"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c91dace7be5a3e08edfb2af041c14cf1",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650275,
+    "wof:lastmodified":1582345335,
     "wof:name":"Kocsord",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

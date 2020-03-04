@@ -104,6 +104,9 @@
         "wk:page":"Par\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c6b43a76c76659505c8e4e9985f4775",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650288,
+    "wof:lastmodified":1582345337,
     "wof:name":"Par\u00e1d",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

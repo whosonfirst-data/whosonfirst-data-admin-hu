@@ -109,6 +109,9 @@
         "wk:page":"G\u00e9g\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d86dbd842ed3103ce6d523d0ac200405",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650252,
+    "wof:lastmodified":1582345333,
     "wof:name":"G\u00e9g\u00e9ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

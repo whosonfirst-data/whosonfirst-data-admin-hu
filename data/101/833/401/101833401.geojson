@@ -118,6 +118,9 @@
         "wk:page":"M\u00e9rk"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"baa9108e4328199defe206179ffe6bd7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650221,
+    "wof:lastmodified":1582345328,
     "wof:name":"M\u00e9rk",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

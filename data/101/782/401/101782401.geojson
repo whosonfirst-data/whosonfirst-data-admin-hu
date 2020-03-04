@@ -121,6 +121,9 @@
         "wk:page":"Rudab\u00e1nya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14e39dada2873ec87272d50b7825c849",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650255,
+    "wof:lastmodified":1582345333,
     "wof:name":"Rudab\u00e1nya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

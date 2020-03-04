@@ -110,6 +110,9 @@
         "wk:page":"B\u00f6lcske"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a49b5b91ca056e24f252decc2a70b174",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650213,
+    "wof:lastmodified":1582345327,
     "wof:name":"B\u00f6lcske",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

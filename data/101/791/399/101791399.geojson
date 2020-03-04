@@ -134,6 +134,9 @@
         "wk:page":"Nagyat\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4049df41a1eaab3b230937fcb796b749",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650182,
+    "wof:lastmodified":1582345324,
     "wof:name":"Nagyat\u00e1d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

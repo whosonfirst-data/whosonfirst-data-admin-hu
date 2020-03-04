@@ -148,6 +148,9 @@
         "wk:page":"Szerencs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b12c546809f989f8d4656ddf21794075",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566650228,
+    "wof:lastmodified":1582345329,
     "wof:name":"Szerencs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

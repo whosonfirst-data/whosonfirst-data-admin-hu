@@ -119,6 +119,9 @@
         "wk:page":"T\u00e1zl\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4b8141c03a411f39f4972a77e7b18b7",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345321,
     "wof:name":"T\u00e1zl\u00e1r",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

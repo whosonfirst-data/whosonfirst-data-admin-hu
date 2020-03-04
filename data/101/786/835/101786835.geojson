@@ -139,6 +139,9 @@
         "wk:page":"Simontornya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac6a19cf476681aca48ff378749a9afb",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650342,
+    "wof:lastmodified":1582345345,
     "wof:name":"Simontornya",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

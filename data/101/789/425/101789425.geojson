@@ -109,6 +109,9 @@
         "wk:page":"Szabadbatty\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"131a2d866045e73d24caa0698dbfc5aa",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345348,
     "wof:name":"Szabadbatty\u00e1n",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

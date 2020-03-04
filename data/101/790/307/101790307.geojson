@@ -112,6 +112,9 @@
         "wk:page":"Somogyv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7589f1e09595fa5461ac92c3d6a2b59",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650146,
+    "wof:lastmodified":1582345319,
     "wof:name":"Somogyv\u00e1r",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

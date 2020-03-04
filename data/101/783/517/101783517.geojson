@@ -136,6 +136,9 @@
         "wk:page":"Baktal\u00f3r\u00e1nth\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8bc4664e87e4a25d839d41bf916d0f84",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650273,
+    "wof:lastmodified":1582345335,
     "wof:name":"Baktal\u00f3r\u00e1nth\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

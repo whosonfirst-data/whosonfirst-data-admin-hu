@@ -104,6 +104,9 @@
         "wk:page":"Balatonederics"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8513597dabaf4936a21e14ecec75005",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650379,
+    "wof:lastmodified":1582345350,
     "wof:name":"Balatonederics",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

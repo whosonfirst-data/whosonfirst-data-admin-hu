@@ -115,6 +115,9 @@
         "wk:page":"G\u00f6rbeh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e14afbd70ea92176a3959fc63dbe4ff4",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650287,
+    "wof:lastmodified":1582345337,
     "wof:name":"G\u00f6rbeh\u00e1za",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

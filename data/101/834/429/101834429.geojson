@@ -118,6 +118,9 @@
         "wk:page":"K\u00e1poln\u00e1sny\u00e9k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd7a78b53f4bf0c275d84acd0b6f63c9",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650234,
+    "wof:lastmodified":1582345330,
     "wof:name":"K\u00e1poln\u00e1sny\u00e9k",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

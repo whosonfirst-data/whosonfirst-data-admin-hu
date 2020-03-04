@@ -124,6 +124,9 @@
         "wk:page":"Szank"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65108f7133037e55667c258444725e60",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650170,
+    "wof:lastmodified":1582345322,
     "wof:name":"Szank",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

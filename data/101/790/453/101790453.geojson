@@ -119,6 +119,9 @@
         "wk:page":"Maroslele"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9387035f0bb20d50757b67c3797ad09",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345320,
     "wof:name":"Maroslele",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
         "wk:page":"F\u00fczesgyarmat"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3371136c10340193e20082e863f35cb",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650392,
+    "wof:lastmodified":1582345351,
     "wof:name":"F\u00fczesgyarmat",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

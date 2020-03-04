@@ -136,6 +136,9 @@
         "wk:page":"Lajosmizse"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a36088c52b2eb7b1fd805e4c914d19c0",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650386,
+    "wof:lastmodified":1582345351,
     "wof:name":"Lajosmizse",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Magyarb\u00e1nhegyes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f102658ef4b055c75e012c7f33ac0fc",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650166,
+    "wof:lastmodified":1582345321,
     "wof:name":"Magyarb\u00e1nhegyes",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

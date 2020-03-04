@@ -112,6 +112,9 @@
         "wk:page":"Bord\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5be7c424dc0ae7b8df308e4a042c0c44",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650168,
+    "wof:lastmodified":1582345322,
     "wof:name":"Bord\u00e1ny",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

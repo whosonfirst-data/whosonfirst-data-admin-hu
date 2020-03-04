@@ -108,6 +108,9 @@
         "wk:page":"Gomba"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17d2b4f559a294fc382b275744a131b4",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650225,
+    "wof:lastmodified":1582345329,
     "wof:name":"Gomba",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

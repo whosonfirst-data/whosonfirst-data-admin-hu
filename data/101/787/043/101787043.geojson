@@ -130,6 +130,9 @@
         "wk:page":"Sz\u00e1zhalombatta"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed91bae43ed356df0e0aedf3ca0e84cb",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650359,
+    "wof:lastmodified":1582345347,
     "wof:name":"Sz\u00e1zhalombatta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

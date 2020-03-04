@@ -118,6 +118,9 @@
         "wk:page":"T\u00e1pi\u00f3szele"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7ff95bbb9b21c62dcf57ed01b69b4d0",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650323,
+    "wof:lastmodified":1582345342,
     "wof:name":"T\u00e1pi\u00f3szele",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

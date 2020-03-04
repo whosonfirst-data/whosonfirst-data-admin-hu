@@ -128,6 +128,9 @@
         "wk:page":"Piliscsaba"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d25d7940be88b3a46e6b28d4ed8459cd",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650355,
+    "wof:lastmodified":1582345346,
     "wof:name":"Piliscsaba",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

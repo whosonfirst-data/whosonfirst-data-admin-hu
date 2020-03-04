@@ -139,6 +139,9 @@
         "wk:page":"S\u00e1rv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f66534ef2ec25fde0237fc1e674457d",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650327,
+    "wof:lastmodified":1582345343,
     "wof:name":"S\u00e1rv\u00e1r",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

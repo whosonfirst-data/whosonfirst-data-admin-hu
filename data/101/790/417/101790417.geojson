@@ -113,6 +113,9 @@
         "wk:page":"Tiszasziget"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b33e9a115ee89ef0474dbb15e6c55a5c",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650168,
+    "wof:lastmodified":1582345322,
     "wof:name":"Tiszasziget",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

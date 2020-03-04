@@ -119,6 +119,9 @@
         "wk:page":"Harka"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4acf180bcdc7da3c0d68ed0955da6ee0",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650350,
+    "wof:lastmodified":1582345346,
     "wof:name":"Harka",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

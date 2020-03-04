@@ -109,6 +109,9 @@
         "wk:page":"Pilissz\u00e1nt\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3368fe02aeadfede52a523274b345f74",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650240,
+    "wof:lastmodified":1582345331,
     "wof:name":"Pilissz\u00e1nt\u00f3",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

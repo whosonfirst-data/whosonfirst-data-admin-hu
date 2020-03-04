@@ -110,6 +110,9 @@
         "wk:page":"Cser\u00e9pfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ec9943453f21ca4886d0c7338539d17",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650296,
+    "wof:lastmodified":1582345338,
     "wof:name":"Cser\u00e9pfalu",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -105,6 +105,9 @@
         "wk:page":"Pilisborosjen\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec2d84dfa1260f6d20dea79f2d7c8760",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101787061,
-    "wof:lastmodified":1566650359,
+    "wof:lastmodified":1582345347,
     "wof:name":"Pilisborosjen\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

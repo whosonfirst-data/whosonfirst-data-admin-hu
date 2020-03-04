@@ -109,6 +109,9 @@
         "wk:page":"Ok\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e21984d3e9b6d033fdefd71a39417893",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650315,
+    "wof:lastmodified":1582345341,
     "wof:name":"Ok\u00e1ny",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

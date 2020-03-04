@@ -106,6 +106,9 @@
         "wk:page":"Szom\u00f3d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aef22fa70193c72a25aa432e2844f954",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650246,
+    "wof:lastmodified":1582345332,
     "wof:name":"Szom\u00f3d",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

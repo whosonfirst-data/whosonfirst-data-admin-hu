@@ -109,6 +109,9 @@
         "wk:page":"Kosd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06ddd0a2b638fcdd21f5276c64942541",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650240,
+    "wof:lastmodified":1582345331,
     "wof:name":"Kosd",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

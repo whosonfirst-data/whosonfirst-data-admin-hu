@@ -397,6 +397,9 @@
         "wk:page":"Salg\u00f3tarj\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69717b423d74fbbfe8f76acedac82995",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650275,
+    "wof:lastmodified":1582345335,
     "wof:name":"Salg\u00f3tarj\u00e1n",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

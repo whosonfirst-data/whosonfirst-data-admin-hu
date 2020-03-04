@@ -130,6 +130,9 @@
         "wk:page":"Elek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f5bed563f3a365962e752edb989236a",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650177,
+    "wof:lastmodified":1582345323,
     "wof:name":"Elek",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

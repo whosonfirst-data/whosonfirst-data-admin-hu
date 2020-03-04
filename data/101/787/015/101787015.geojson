@@ -165,6 +165,9 @@
         "wk:page":"Pannonhalma"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f03ed19921a37eee82a44d7cbb7671e",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650352,
+    "wof:lastmodified":1582345346,
     "wof:name":"Pannonhalma",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

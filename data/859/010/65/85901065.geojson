@@ -122,6 +122,9 @@
         "wd:id":"Q370152"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b801d4dfa19deadb6fca58051c3064a2",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649589,
+    "wof:lastmodified":1582345311,
     "wof:name":"Budafok",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

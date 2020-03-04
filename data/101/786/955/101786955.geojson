@@ -115,6 +115,9 @@
         "wk:page":"Kunmadaras"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9be34f169212145beb950100ecdd69b3",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650340,
+    "wof:lastmodified":1582345344,
     "wof:name":"Kunmadaras",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

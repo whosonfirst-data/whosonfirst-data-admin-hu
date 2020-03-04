@@ -68,6 +68,9 @@
         "qs_pg:id":1152988
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74b73eaf97672ce08d49125da4738228",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649588,
+    "wof:lastmodified":1582345311,
     "wof:name":"Erzsebet-Telep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -121,6 +121,9 @@
         "wk:page":"Ny\u00edradony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb686c6874a5f3a3cc2d2a14a79ac986",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650249,
+    "wof:lastmodified":1582345332,
     "wof:name":"Ny\u00edradony",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

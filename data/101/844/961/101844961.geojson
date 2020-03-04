@@ -98,6 +98,9 @@
         "wk:page":"N\u00e1dasdlad\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d59008634cf2e08131280f7797b7423",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650210,
+    "wof:lastmodified":1582345327,
     "wof:name":"N\u00e1dasdlad\u00e1ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

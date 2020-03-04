@@ -71,6 +71,9 @@
         "qs_pg:id":220213
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"403301f3374887832f0979ca251a0a71",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649579,
+    "wof:lastmodified":1582345309,
     "wof:name":"Herminamezo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

@@ -72,6 +72,9 @@
         "qs_pg:id":477834
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d047b5ac2abfce2b51ee1d11db60db2",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649566,
+    "wof:lastmodified":1582345307,
     "wof:name":"Szemeretelep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

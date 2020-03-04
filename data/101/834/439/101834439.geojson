@@ -125,6 +125,9 @@
         "wk:page":"R\u00e1calm\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7dd25017d920b50a32aad5900dc8e83",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650232,
+    "wof:lastmodified":1582345330,
     "wof:name":"R\u00e1calm\u00e1s",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

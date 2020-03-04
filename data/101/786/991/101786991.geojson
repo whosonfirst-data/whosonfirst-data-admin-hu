@@ -107,6 +107,9 @@
         "wk:page":"Sarr\u00f3d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98a34347396ef670acd824e841a828f6",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650339,
+    "wof:lastmodified":1582345344,
     "wof:name":"Sarr\u00f3d",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

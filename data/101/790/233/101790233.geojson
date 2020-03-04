@@ -110,6 +110,9 @@
         "wk:page":"Tengelic"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2270eb00b74b12f1731bc15dc14b69b7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650158,
+    "wof:lastmodified":1582345321,
     "wof:name":"Tengelic",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

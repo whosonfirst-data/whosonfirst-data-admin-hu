@@ -118,6 +118,9 @@
         "wk:page":"Kompolt"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d449c3e44887da667df4f229f202e07",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650218,
+    "wof:lastmodified":1582345328,
     "wof:name":"Kompolt",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

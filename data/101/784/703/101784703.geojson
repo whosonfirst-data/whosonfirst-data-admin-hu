@@ -101,6 +101,9 @@
         "wd:id":"Q1070818"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7a7ff6b7e99b911382be02efb078984",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650292,
+    "wof:lastmodified":1582345337,
     "wof:name":"Kerecsend",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

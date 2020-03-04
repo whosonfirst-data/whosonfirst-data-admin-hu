@@ -121,6 +121,9 @@
         "wk:page":"Saj\u00f3b\u00e1bony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9e28ff428504f076a7c0a7941f934df",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650201,
+    "wof:lastmodified":1582345326,
     "wof:name":"Saj\u00f3b\u00e1bony",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

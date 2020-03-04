@@ -123,6 +123,9 @@
         "wk:page":"Hegyeshalom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be729454e9bad02e085f8bbeffbd05b2",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650239,
+    "wof:lastmodified":1582345331,
     "wof:name":"Hegyeshalom",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

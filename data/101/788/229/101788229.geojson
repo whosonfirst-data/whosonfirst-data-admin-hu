@@ -109,6 +109,9 @@
         "wk:page":"Fegyvernek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae57bf27d47441decc5e569d812ccf35",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650309,
+    "wof:lastmodified":1582345340,
     "wof:name":"Fegyvernek",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"S\u00e1rszentmih\u00e1ly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"803a683a97a4ac3f03c0f245d4f7eaa8",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650317,
+    "wof:lastmodified":1582345341,
     "wof:name":"S\u00e1rszentmih\u00e1ly",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

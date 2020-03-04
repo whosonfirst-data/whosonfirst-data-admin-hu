@@ -109,6 +109,9 @@
         "wk:page":"Tornyosp\u00e1lca"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"574601f877c54add872411f64803d160",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650202,
+    "wof:lastmodified":1582345326,
     "wof:name":"Tornyosp\u00e1lca",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

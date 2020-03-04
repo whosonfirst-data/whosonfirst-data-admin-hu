@@ -118,6 +118,9 @@
         "wk:page":"Tass, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e62b92ee09e470a41595fd6612a2b13",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650368,
+    "wof:lastmodified":1582345348,
     "wof:name":"Tass",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

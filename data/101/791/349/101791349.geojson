@@ -202,6 +202,9 @@
         "wk:page":"Moh\u00e1cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c1c75e70606259683e8ae19c50d5a41",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650185,
+    "wof:lastmodified":1582345324,
     "wof:name":"Moh\u00e1cs",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

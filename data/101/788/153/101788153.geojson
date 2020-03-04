@@ -112,6 +112,9 @@
         "wk:page":"Bakonycsernye"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c0504f927b771aa52a708999c36832a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650320,
+    "wof:lastmodified":1582345342,
     "wof:name":"Bakonycsernye",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

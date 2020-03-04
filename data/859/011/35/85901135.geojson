@@ -97,6 +97,9 @@
         "wk:page":"Kelenf\u00f6ld"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c22644b7814ec68edfde819cfa212948",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649580,
+    "wof:lastmodified":1582345309,
     "wof:name":"Kelenfold",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

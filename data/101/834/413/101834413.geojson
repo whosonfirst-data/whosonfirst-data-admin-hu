@@ -209,6 +209,9 @@
         "wk:page":"Keszthely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13e9be64f0ee89b01b8f835504a1fd7a",
     "wof:hierarchy":[
         {
@@ -223,7 +226,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650231,
+    "wof:lastmodified":1582345330,
     "wof:name":"Keszthely",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

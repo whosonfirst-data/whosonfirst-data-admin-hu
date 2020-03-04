@@ -135,6 +135,9 @@
         "wk:page":"Fert\u0151szentmikl\u00f3s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62f6abe8ae692b4749277ad357a53860",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101833309,
-    "wof:lastmodified":1566650218,
+    "wof:lastmodified":1582345328,
     "wof:name":"Fert\u0151szentmikl\u00f3s",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

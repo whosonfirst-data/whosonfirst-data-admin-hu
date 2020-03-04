@@ -109,6 +109,9 @@
         "wk:page":"B\u0151cs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c598dc9b0f2bdfd6a0936767fc27a4e",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101783667,
-    "wof:lastmodified":1566650271,
+    "wof:lastmodified":1582345335,
     "wof:name":"B\u0151cs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

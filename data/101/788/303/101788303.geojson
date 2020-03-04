@@ -109,6 +109,9 @@
         "wk:page":"Ny\u00e1regyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"061e3283dd072c8c4631bef1850afe37",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650321,
+    "wof:lastmodified":1582345342,
     "wof:name":"Ny\u00e1regyh\u00e1za",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

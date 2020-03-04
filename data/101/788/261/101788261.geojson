@@ -113,6 +113,9 @@
         "wk:page":"P\u00e9teri"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29ff99b435341e71d888c1a2a39f2f73",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650313,
+    "wof:lastmodified":1582345341,
     "wof:name":"P\u00e9teri",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

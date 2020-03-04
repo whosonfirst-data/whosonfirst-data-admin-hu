@@ -117,6 +117,10 @@
         "wk:page":"P\u00e1kozd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e24d05d92a879f4eb8c6eadfb3f45044",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650217,
+    "wof:lastmodified":1582345328,
     "wof:name":"P\u00e1kozd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

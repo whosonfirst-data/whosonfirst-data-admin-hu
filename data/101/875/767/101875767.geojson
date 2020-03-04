@@ -101,6 +101,10 @@
         "wd:id":"Q1091747"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cdd72f7032f9ba4f8bfd542751136a9",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":101875767,
-    "wof:lastmodified":1566650194,
+    "wof:lastmodified":1582345325,
     "wof:name":"K\u0151r\u00f6shegy",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

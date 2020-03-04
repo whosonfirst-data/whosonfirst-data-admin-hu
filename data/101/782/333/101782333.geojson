@@ -112,6 +112,9 @@
         "wk:page":"Tiszabercel"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"418da60dbf41a449407bd77de9fd3544",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650259,
+    "wof:lastmodified":1582345333,
     "wof:name":"Tiszabercel",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wk:page":"Karcsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c048b2abc1016762898cd2f2b88ce5a6",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650259,
+    "wof:lastmodified":1582345333,
     "wof:name":"Karcsa",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

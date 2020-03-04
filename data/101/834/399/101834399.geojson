@@ -124,6 +124,9 @@
         "wk:page":"Fony\u00f3d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5221dfae6dd31a29b7fb82d6d6bd1cb8",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650231,
+    "wof:lastmodified":1582345329,
     "wof:name":"Fony\u00f3d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

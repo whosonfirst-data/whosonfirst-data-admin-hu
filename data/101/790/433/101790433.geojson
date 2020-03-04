@@ -114,6 +114,9 @@
         "wk:page":"\u00dcll\u00e9s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"741c0323f4f11e5d48bfd56829a2ca7a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650173,
+    "wof:lastmodified":1582345322,
     "wof:name":"\u00dcll\u00e9s",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

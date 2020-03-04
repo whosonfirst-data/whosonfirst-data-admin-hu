@@ -109,6 +109,9 @@
         "wk:page":"F\u00e9nyeslitke"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b4d69eb4a7027bc891af7bd4d5df949",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650257,
+    "wof:lastmodified":1582345333,
     "wof:name":"F\u00e9nyeslitke",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

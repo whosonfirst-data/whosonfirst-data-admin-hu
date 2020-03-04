@@ -100,6 +100,9 @@
         "wd:id":"Q909172"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e5ebd23006e3064df8e7d61709c9caa",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650285,
+    "wof:lastmodified":1582345336,
     "wof:name":"Dorogh\u00e1za",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

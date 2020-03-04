@@ -113,6 +113,9 @@
         "wk:page":"B\u00e9k\u00e9sszentandr\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f7cf8fc56383fae6124eef2b525e0bc",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650307,
+    "wof:lastmodified":1582345340,
     "wof:name":"B\u00e9k\u00e9sszentandr\u00e1s",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

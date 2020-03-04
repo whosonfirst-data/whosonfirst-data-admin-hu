@@ -113,6 +113,9 @@
         "wk:page":"Pusztaf\u00f6ldv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4001e8a9a7b93dbab2f3ebf01c16633f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650347,
+    "wof:lastmodified":1582345345,
     "wof:name":"Pusztaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

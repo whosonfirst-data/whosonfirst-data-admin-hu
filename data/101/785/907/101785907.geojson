@@ -127,6 +127,9 @@
         "wk:page":"Tura, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc65b4efa7dcaac09819c2b9fb764d52",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650237,
+    "wof:lastmodified":1582345330,
     "wof:name":"Tura",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"\u00c9rsekcsan\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad4d64f83509d3f926c97f830ad78870",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650176,
+    "wof:lastmodified":1582345322,
     "wof:name":"\u00c9rsekcsan\u00e1d",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

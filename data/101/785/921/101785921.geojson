@@ -115,6 +115,9 @@
         "wk:page":"Egyek"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20f7656dc57bbc1dce7268a10303269b",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650250,
+    "wof:lastmodified":1582345332,
     "wof:name":"Egyek",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

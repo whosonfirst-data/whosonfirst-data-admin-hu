@@ -72,6 +72,9 @@
         "gp:id":807141
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4285266e6d70c01b21691240103465c1",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649583,
+    "wof:lastmodified":1582345310,
     "wof:name":"G\u00f3g\u00e1nhegy",
     "wof:parent_id":101751673,
     "wof:placetype":"neighbourhood",

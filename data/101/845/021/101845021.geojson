@@ -192,6 +192,9 @@
         "wk:page":"G\u00f6d\u00f6ll\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5950b0ed994f25f412e23329084c75ab",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":101845021,
-    "wof:lastmodified":1566650192,
+    "wof:lastmodified":1582345325,
     "wof:name":"G\u00f6d\u00f6ll\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

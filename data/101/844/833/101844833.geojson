@@ -118,6 +118,9 @@
         "wk:page":"L\u00e1nycs\u00f3k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"907699d1daa5066272e84046ba7af9dc",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650208,
+    "wof:lastmodified":1582345327,
     "wof:name":"L\u00e1nycs\u00f3k",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

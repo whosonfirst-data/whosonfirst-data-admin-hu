@@ -112,6 +112,9 @@
         "wd:id":"Q1089239"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a09668f869056688de2ae98241d2c512",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650348,
+    "wof:lastmodified":1582345345,
     "wof:name":"K\u00f6rnye",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

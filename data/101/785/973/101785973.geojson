@@ -96,6 +96,9 @@
         "wd:id":"Q634641"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0ed3c8d915f630bd8d71de7b87e4746",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650249,
+    "wof:lastmodified":1582345332,
     "wof:name":"Bocon\u00e1d",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

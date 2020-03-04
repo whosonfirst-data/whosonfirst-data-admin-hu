@@ -105,6 +105,9 @@
         "wk:page":"Fels\u0151szentiv\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7a1764407b18a14ba49e372854d7eb8",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101790557,
-    "wof:lastmodified":1566650149,
+    "wof:lastmodified":1582345319,
     "wof:name":"Fels\u0151szentiv\u00e1n",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
         "wk:page":"V\u00e1charty\u00e1n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"236777d65aaff9f04c42eb774b183a38",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650190,
+    "wof:lastmodified":1582345325,
     "wof:name":"V\u00e1charty\u00e1n",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -157,6 +157,9 @@
         "wk:page":"Karcag"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"634495e718fe58ca25af8e7dd143bc0a",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650327,
+    "wof:lastmodified":1582345343,
     "wof:name":"Karcag",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

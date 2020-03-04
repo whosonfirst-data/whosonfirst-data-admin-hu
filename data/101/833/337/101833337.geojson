@@ -109,6 +109,9 @@
         "wk:page":"Le\u00e1nyfalu"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd0c96ecbd7ba82d441dec592b733e92",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650219,
+    "wof:lastmodified":1582345328,
     "wof:name":"Le\u00e1nyfalu",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

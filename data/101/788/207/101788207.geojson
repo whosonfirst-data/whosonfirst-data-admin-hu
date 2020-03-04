@@ -112,6 +112,9 @@
         "wk:page":"J\u00e1szlad\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4989ebd4eb91d14efce6afaec4d46d31",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650328,
+    "wof:lastmodified":1582345343,
     "wof:name":"J\u00e1szlad\u00e1ny",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

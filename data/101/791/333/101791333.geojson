@@ -104,6 +104,9 @@
         "wk:page":"Nagykoz\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7fff811ed5e9aacea9ba37209cbfeee",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650186,
+    "wof:lastmodified":1582345324,
     "wof:name":"Nagykoz\u00e1r",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"\u00c1sv\u00e1nyr\u00e1r\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"057f4a1a0bf8311c3ce4e42a076237f4",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650246,
+    "wof:lastmodified":1582345332,
     "wof:name":"\u00c1sv\u00e1nyr\u00e1r\u00f3",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

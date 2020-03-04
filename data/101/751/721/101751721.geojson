@@ -429,6 +429,9 @@
         "wk:page":"Ny\u00edregyh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3bf3240f4f3397ea8125cdd6b10b7e51",
     "wof:hierarchy":[
         {
@@ -443,7 +446,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650303,
+    "wof:lastmodified":1582345339,
     "wof:name":"Ny\u00edregyh\u00e1za",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

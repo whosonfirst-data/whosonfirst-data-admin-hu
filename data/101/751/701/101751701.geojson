@@ -242,6 +242,9 @@
         "wk:page":"Duna\u00fajv\u00e1ros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f4a2f9ec88bc574d0dec88547670eeb",
     "wof:hierarchy":[
         {
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":101751701,
-    "wof:lastmodified":1566650299,
+    "wof:lastmodified":1582345338,
     "wof:name":"Duna\u00fajv\u00e1ros",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

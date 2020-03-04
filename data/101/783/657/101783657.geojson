@@ -112,6 +112,9 @@
         "wk:page":"Taktahark\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40adbd6e8358852d5e2b4489939fdbdf",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650273,
+    "wof:lastmodified":1582345335,
     "wof:name":"Taktahark\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

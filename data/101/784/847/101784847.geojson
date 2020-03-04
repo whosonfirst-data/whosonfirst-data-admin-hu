@@ -103,6 +103,9 @@
         "wk:page":"\u00c1rokt\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b2c784970193427395bfacb87c4d7a2",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101784847,
-    "wof:lastmodified":1566650294,
+    "wof:lastmodified":1582345338,
     "wof:name":"\u00c1rokt\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

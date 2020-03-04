@@ -112,6 +112,9 @@
         "wk:page":"\u00d3p\u00e1lyi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1db83979bf9553a929d8511287e3a1c4",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650273,
+    "wof:lastmodified":1582345335,
     "wof:name":"\u00d3p\u00e1lyi",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

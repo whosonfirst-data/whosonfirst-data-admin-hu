@@ -77,6 +77,10 @@
         "qs_pg:id":1083315
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2957f9d1cc866451d869e1a712a16df8",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649567,
+    "wof:lastmodified":1582345307,
     "wof:name":"S\u00e1rsziget",
     "wof:parent_id":101788035,
     "wof:placetype":"neighbourhood",

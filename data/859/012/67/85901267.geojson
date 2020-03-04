@@ -77,6 +77,10 @@
         "qs_pg:id":57301
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a4027cf5b7ca5a3e8c597acbb280a81",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649566,
+    "wof:lastmodified":1582345307,
     "wof:name":"Rend\u0151rfalu",
     "wof:parent_id":101751685,
     "wof:placetype":"neighbourhood",

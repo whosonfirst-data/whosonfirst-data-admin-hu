@@ -118,6 +118,9 @@
         "wk:page":"Balatonber\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cbb01e5a02f9d97a301a8a4a272686cd",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650392,
+    "wof:lastmodified":1582345351,
     "wof:name":"Balatonber\u00e9ny",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

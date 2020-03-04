@@ -77,6 +77,10 @@
         "qs_pg:id":910529
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8068cff3a50389026c2d81d96fc62306",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649574,
+    "wof:lastmodified":1582345308,
     "wof:name":"T\u00falatarna",
     "wof:parent_id":101786941,
     "wof:placetype":"neighbourhood",

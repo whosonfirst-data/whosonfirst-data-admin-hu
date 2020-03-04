@@ -112,6 +112,9 @@
         "wk:page":"Kismaros"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d649288a5d17456b03ecfb0fbda5656",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650216,
+    "wof:lastmodified":1582345327,
     "wof:name":"Kismaros",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

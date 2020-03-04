@@ -124,6 +124,9 @@
         "wk:page":"Nagybajom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85b4841982640326548504037d8fd0e0",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650176,
+    "wof:lastmodified":1582345323,
     "wof:name":"Nagybajom",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

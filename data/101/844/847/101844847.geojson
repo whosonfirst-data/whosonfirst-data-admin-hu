@@ -112,6 +112,9 @@
         "wk:page":"Ozora"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a86b060bbf961a2be1bf3b09e8202930",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650213,
+    "wof:lastmodified":1582345327,
     "wof:name":"Ozora",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

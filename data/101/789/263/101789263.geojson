@@ -104,6 +104,9 @@
         "wk:page":"Soltszentimre"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2ad9cd6adc63d6c5abec76c123964c6",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650391,
+    "wof:lastmodified":1582345351,
     "wof:name":"Soltszentimre",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

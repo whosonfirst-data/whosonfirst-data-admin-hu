@@ -69,6 +69,9 @@
         "gp:id":811055
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f9737cfcff217c27e37f0e9bc66cf64",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649569,
+    "wof:lastmodified":1582345307,
     "wof:name":"Leitnertanya",
     "wof:parent_id":101751701,
     "wof:placetype":"neighbourhood",

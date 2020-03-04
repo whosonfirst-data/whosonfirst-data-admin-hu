@@ -101,6 +101,9 @@
         "wk:page":"Ugod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c59a6a882c062a3753d8c8a65f0a1f3",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650316,
+    "wof:lastmodified":1582345341,
     "wof:name":"Ugod",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

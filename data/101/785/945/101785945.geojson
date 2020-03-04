@@ -104,6 +104,9 @@
         "wd:id":"Q771769"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60fae99f8e8208b8393d9c2fdc93858d",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650250,
+    "wof:lastmodified":1582345332,
     "wof:name":"Her\u00e9d",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

@@ -106,6 +106,9 @@
         "wk:page":"Csem\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"753023c100532b9f50970e5592af59e6",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101789517,
-    "wof:lastmodified":1566650375,
+    "wof:lastmodified":1582345349,
     "wof:name":"Csem\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

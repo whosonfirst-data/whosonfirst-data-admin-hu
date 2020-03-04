@@ -133,6 +133,9 @@
         "wk:page":"Hajd\u00fadorog"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"beff719e5b2f9a3e9b5c161d2a8e5fad",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650297,
+    "wof:lastmodified":1582345338,
     "wof:name":"Hajd\u00fadorog",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

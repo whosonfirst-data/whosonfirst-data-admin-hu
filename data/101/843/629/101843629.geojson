@@ -115,6 +115,9 @@
         "wk:page":"Ny\u00edrtass"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e43aeded2d3490f432dd3f10d7376d62",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650196,
+    "wof:lastmodified":1582345325,
     "wof:name":"Ny\u00edrtass",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

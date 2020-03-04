@@ -136,6 +136,9 @@
         "wk:page":"Szob"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b53a7a50a312a791938983584f3715f",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650223,
+    "wof:lastmodified":1582345328,
     "wof:name":"Szob",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

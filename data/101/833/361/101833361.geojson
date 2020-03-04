@@ -97,6 +97,9 @@
         "wk:page":"Budajen\u0151"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ae51e8fba20f8336dbc14b1c1b596a2",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101833361,
-    "wof:lastmodified":1566650224,
+    "wof:lastmodified":1582345329,
     "wof:name":"Budajen\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

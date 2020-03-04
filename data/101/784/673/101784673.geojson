@@ -101,6 +101,9 @@
         "wd:id":"Q1071246"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec78e04f245d06dc109d1686f2a0faa8",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650286,
+    "wof:lastmodified":1582345337,
     "wof:name":"Ostoros",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

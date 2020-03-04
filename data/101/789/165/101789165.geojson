@@ -107,6 +107,9 @@
         "wk:page":"Balatonendr\u00e9d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14286565bb7c1ea1d667113db69242f2",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650380,
+    "wof:lastmodified":1582345350,
     "wof:name":"Balatonendr\u00e9d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

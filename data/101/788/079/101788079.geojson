@@ -153,6 +153,9 @@
         "wd:id":"Q755681"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c2a876fd27bb65d08eceb75bc60ff0d",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650310,
+    "wof:lastmodified":1582345340,
     "wof:name":"V\u00e1rpalota",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

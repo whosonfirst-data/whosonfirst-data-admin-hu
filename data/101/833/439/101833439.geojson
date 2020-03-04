@@ -118,6 +118,9 @@
         "wk:page":"Gesztely"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8cda69d3209ccd37a3c742f69d490c0",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650222,
+    "wof:lastmodified":1582345328,
     "wof:name":"Gesztely",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

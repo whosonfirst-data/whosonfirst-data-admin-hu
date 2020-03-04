@@ -132,6 +132,9 @@
         "wk:page":"Tiszaf\u00fcred"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ae630a334cd868c5dbbb75273bc3663",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650245,
+    "wof:lastmodified":1582345332,
     "wof:name":"Tiszaf\u00fcred",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

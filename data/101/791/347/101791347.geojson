@@ -116,6 +116,9 @@
         "wk:page":"Pell\u00e9rd"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"646046ef2595bb6bd1675921464ef54b",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650185,
+    "wof:lastmodified":1582345324,
     "wof:name":"Pell\u00e9rd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

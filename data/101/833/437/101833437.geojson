@@ -118,6 +118,9 @@
         "wk:page":"Bekecs"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c90c1bad493f3ab01fbfa91ce96b5d5f",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650222,
+    "wof:lastmodified":1582345328,
     "wof:name":"Bekecs",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

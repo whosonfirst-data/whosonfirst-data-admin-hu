@@ -113,6 +113,9 @@
         "wk:page":"Szakoly"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37825248f9e42677cf11d998fe5036bd",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650283,
+    "wof:lastmodified":1582345336,
     "wof:name":"Szakoly",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

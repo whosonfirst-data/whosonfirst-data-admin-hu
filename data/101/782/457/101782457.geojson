@@ -118,6 +118,9 @@
         "wk:page":"Boldva"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a92b1a3032304c0f644ab37a098da52e",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650261,
+    "wof:lastmodified":1582345334,
     "wof:name":"Boldva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

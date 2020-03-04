@@ -112,6 +112,9 @@
         "wk:page":"F\u00e1bi\u00e1nsebesty\u00e9n"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bde965977a69a3f49261e9fb54596f00",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1582345348,
     "wof:name":"F\u00e1bi\u00e1nsebesty\u00e9n",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

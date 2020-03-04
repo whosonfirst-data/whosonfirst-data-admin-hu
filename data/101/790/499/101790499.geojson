@@ -163,6 +163,9 @@
         "wk:page":"Kiskunmajsa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64df1d246c02e4eb2dd59b8b97666387",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650157,
+    "wof:lastmodified":1582345320,
     "wof:name":"Kiskunmajsa",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

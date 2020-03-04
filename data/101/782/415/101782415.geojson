@@ -164,6 +164,9 @@
         "wk:page":"S\u00e1rospatak"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b85cfb88cc6091c815aa73f5d16ca98",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650255,
+    "wof:lastmodified":1582345333,
     "wof:name":"S\u00e1rospatak",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wk:page":"Bagam\u00e9r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36250077e5dca69628c55097501bb673",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650357,
+    "wof:lastmodified":1582345347,
     "wof:name":"Bagam\u00e9r",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

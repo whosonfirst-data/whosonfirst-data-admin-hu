@@ -116,6 +116,9 @@
         "wk:page":"L\u00e1bod"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ecb693a60613c689efbba2bec50b2fd",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650208,
+    "wof:lastmodified":1582345326,
     "wof:name":"L\u00e1bod",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

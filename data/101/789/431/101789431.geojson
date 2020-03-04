@@ -94,6 +94,9 @@
         "wk:page":"K\u0151sz\u00e1rhegy"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf7d17a8227c73e0d693382d04de680c",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101789431,
-    "wof:lastmodified":1566650373,
+    "wof:lastmodified":1582345349,
     "wof:name":"K\u0151sz\u00e1rhegy",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

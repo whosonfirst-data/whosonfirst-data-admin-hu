@@ -112,6 +112,9 @@
         "wk:page":"T\u00f3szeg"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1382d622c20d1750a1a2c161609ff89e",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650375,
+    "wof:lastmodified":1582345349,
     "wof:name":"T\u00f3szeg",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

@@ -397,6 +397,9 @@
         "wk:page":"Tatab\u00e1nya"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"385144dfafb4d2cd88f0c1cbf91a5dca",
     "wof:hierarchy":[
         {
@@ -411,7 +414,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650299,
+    "wof:lastmodified":1582345338,
     "wof:name":"Tatab\u00e1nya",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

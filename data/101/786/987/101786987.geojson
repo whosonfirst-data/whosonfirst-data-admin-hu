@@ -115,6 +115,9 @@
         "wk:page":"R\u00e1bapatona"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddea851aa512daad3161fb113d3123f4",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650349,
+    "wof:lastmodified":1582345346,
     "wof:name":"R\u00e1bapatona",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

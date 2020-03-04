@@ -137,6 +137,9 @@
         "wk:page":"L\u00e9tav\u00e9rtes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5e240e93d00d4db7abeb0167469bced",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650356,
+    "wof:lastmodified":1582345346,
     "wof:name":"L\u00e9tav\u00e9rtes",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

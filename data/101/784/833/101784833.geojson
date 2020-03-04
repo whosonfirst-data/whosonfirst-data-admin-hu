@@ -126,6 +126,9 @@
         "wk:page":"Mez\u0151keresztes"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"612a490981aa2c4df2cd32387ff72480",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101784833,
-    "wof:lastmodified":1566650288,
+    "wof:lastmodified":1582345337,
     "wof:name":"Mez\u0151keresztes",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

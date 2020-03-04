@@ -124,6 +124,9 @@
         "wk:page":"Lengyelt\u00f3ti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b502556c0ad583220e9e4447b3a861d",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650175,
+    "wof:lastmodified":1582345322,
     "wof:name":"Lengyelt\u00f3ti",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

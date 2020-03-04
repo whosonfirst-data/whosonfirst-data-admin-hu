@@ -136,6 +136,9 @@
         "wk:page":"Zirc"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ff095f19d78dde2dfea80cf26aa01d5",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650341,
+    "wof:lastmodified":1582345345,
     "wof:name":"Zirc",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

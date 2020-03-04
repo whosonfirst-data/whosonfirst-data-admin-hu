@@ -110,6 +110,9 @@
         "wk:page":"Gencsap\u00e1ti"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70f1b8d31e04e86cc0bbd1502dc3f4d5",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650179,
+    "wof:lastmodified":1582345323,
     "wof:name":"Gencsap\u00e1ti",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

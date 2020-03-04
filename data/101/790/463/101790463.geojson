@@ -138,6 +138,9 @@
         "wk:page":"M\u00f3rahalom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29f34d4e1325bd59cf23c06d9c638953",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650156,
+    "wof:lastmodified":1582345320,
     "wof:name":"M\u00f3rahalom",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

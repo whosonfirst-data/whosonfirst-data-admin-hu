@@ -124,6 +124,9 @@
         "wd:id":"Q856693"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3977c5565937fd9db2b42d8b7e837113",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650307,
+    "wof:lastmodified":1582345340,
     "wof:name":"Hern\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

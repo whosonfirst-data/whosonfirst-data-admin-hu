@@ -96,6 +96,9 @@
         "wd:id":"Q1184276"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52b9a0d57e77ae32571271386f59e25d",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650285,
+    "wof:lastmodified":1582345336,
     "wof:name":"Novaj",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

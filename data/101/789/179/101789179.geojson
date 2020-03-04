@@ -112,6 +112,9 @@
         "wk:page":"Kar\u00e1d"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85625c5a366a40f76da4e07699376e04",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650393,
+    "wof:lastmodified":1582345351,
     "wof:name":"Kar\u00e1d",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

@@ -136,6 +136,9 @@
         "wk:page":"Marcali"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7778a7d93706b9cd3f664b6a29657f24",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650166,
+    "wof:lastmodified":1582345321,
     "wof:name":"Marcali",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

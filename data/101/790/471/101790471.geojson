@@ -112,6 +112,9 @@
         "wk:page":"P\u00e1lmonostora"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ebfdb99a03bef9bf23921f7338a8188",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650151,
+    "wof:lastmodified":1582345320,
     "wof:name":"P\u00e1lmonostora",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

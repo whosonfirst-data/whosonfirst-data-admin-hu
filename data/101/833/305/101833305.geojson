@@ -195,6 +195,9 @@
         "wk:page":"Tata, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"642fe7cbb1c36e99bcd83f78526fade2",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650226,
+    "wof:lastmodified":1582345329,
     "wof:name":"Tata",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

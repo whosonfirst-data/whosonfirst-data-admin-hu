@@ -108,6 +108,9 @@
         "wk:page":"Nagykov\u00e1csi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b3aaa02185ca8c612fa6428ef0a41d8",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650353,
+    "wof:lastmodified":1582345346,
     "wof:name":"Nagykov\u00e1csi",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

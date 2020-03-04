@@ -118,6 +118,9 @@
         "wk:page":"M\u00facsony"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d551f5893a68e081d6a0106dd82bb616",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650226,
+    "wof:lastmodified":1582345329,
     "wof:name":"M\u00facsony",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

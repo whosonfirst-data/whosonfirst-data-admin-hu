@@ -110,6 +110,9 @@
         "wk:page":"F\u00fcl\u00f6psz\u00e1ll\u00e1s"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8482de9fd4c378afd207add38243670f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650386,
+    "wof:lastmodified":1582345351,
     "wof:name":"F\u00fcl\u00f6psz\u00e1ll\u00e1s",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

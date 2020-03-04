@@ -108,6 +108,9 @@
         "wd:id":"Q744451"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27d7287fe59933df3dbc0f10369f376e",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101783499,
-    "wof:lastmodified":1566650271,
+    "wof:lastmodified":1582345335,
     "wof:name":"M\u00e1traterenye",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Pilismar\u00f3t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e318d79804fb59478e7e5ca62222759",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650250,
+    "wof:lastmodified":1582345332,
     "wof:name":"Pilismar\u00f3t",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

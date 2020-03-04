@@ -121,6 +121,9 @@
         "wk:page":"Bab\u00f3csa"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d553d0d8618a8cafe874cb34607f4e3",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650188,
+    "wof:lastmodified":1582345324,
     "wof:name":"Bab\u00f3csa",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

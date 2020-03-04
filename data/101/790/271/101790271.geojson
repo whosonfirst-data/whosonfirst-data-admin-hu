@@ -103,6 +103,9 @@
         "wd:id":"Q1072201"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee29204b173f063a0cd817232a9007ff",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650170,
+    "wof:lastmodified":1582345322,
     "wof:name":"Si\u00f3ag\u00e1rd",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

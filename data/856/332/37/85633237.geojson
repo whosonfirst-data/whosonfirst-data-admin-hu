@@ -1138,6 +1138,11 @@
     },
     "wof:country":"HU",
     "wof:country_alpha3":"HUN",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"44d525a945767bab0324ca90cb68cb23",
     "wof:hierarchy":[
         {
@@ -1152,7 +1157,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1566649591,
+    "wof:lastmodified":1583224105,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

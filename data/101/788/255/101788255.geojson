@@ -130,6 +130,9 @@
         "wk:page":"Nagyk\u00e1ta"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1f055e5e73950ad1c6c95d4bb7fea19",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650331,
+    "wof:lastmodified":1582345343,
     "wof:name":"Nagyk\u00e1ta",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

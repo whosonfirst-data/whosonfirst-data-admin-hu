@@ -100,6 +100,9 @@
         "wd:id":"Q835402"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"815498dd53f0b05b479baa368b8b1f1e",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649579,
+    "wof:lastmodified":1582345309,
     "wof:name":"Rozsadomb",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

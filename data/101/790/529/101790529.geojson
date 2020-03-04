@@ -115,6 +115,9 @@
         "wk:page":"Dusnok"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08113cc9006121085fc154466d68cff8",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650162,
+    "wof:lastmodified":1582345321,
     "wof:name":"Dusnok",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

@@ -79,6 +79,9 @@
         "qs_pg:id":1083299
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7eaa7694895962f0f0641651a41f86f7",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649583,
+    "wof:lastmodified":1582345310,
     "wof:name":"Kis-Gellerthegy",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

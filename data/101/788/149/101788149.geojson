@@ -98,6 +98,9 @@
         "wk:page":"Cs\u00e1kber\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40aa9beaf1f29861d37130300f3e7256",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650335,
+    "wof:lastmodified":1582345344,
     "wof:name":"Cs\u00e1kber\u00e9ny",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

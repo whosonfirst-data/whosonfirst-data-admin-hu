@@ -115,6 +115,9 @@
         "wk:page":"Halmaj"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19148cbdc04f4e53fe4f11af2cd14323",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650261,
+    "wof:lastmodified":1582345334,
     "wof:name":"Halmaj",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

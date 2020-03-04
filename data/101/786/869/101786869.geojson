@@ -112,6 +112,9 @@
         "wk:page":"Pusztav\u00e1m"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"921d527e2b815c08d8ca1c9da4c17696",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650342,
+    "wof:lastmodified":1582345345,
     "wof:name":"Pusztav\u00e1m",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

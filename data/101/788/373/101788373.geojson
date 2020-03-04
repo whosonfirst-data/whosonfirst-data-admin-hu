@@ -109,6 +109,9 @@
         "wk:page":"Biharnagybajom"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67b9bf14f3b4d80f9d4104b46ef1c4d6",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650334,
+    "wof:lastmodified":1582345343,
     "wof:name":"Biharnagybajom",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",

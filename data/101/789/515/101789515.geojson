@@ -110,6 +110,9 @@
         "wk:page":"T\u00f6rtel"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c80b7b252b5d6dfd009b2547cbb3ae44",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650394,
+    "wof:lastmodified":1582345351,
     "wof:name":"T\u00f6rtel",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

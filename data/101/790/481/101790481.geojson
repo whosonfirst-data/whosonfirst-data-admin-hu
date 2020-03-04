@@ -133,6 +133,9 @@
         "wk:page":"Soltvadkert"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69309cdf3511302fecf0d6e9b5368bf4",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650168,
+    "wof:lastmodified":1582345322,
     "wof:name":"Soltvadkert",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

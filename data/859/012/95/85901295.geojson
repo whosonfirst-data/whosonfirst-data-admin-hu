@@ -78,6 +78,10 @@
         "qs_pg:id":215462
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb3486b92d5cfd56b918e707b9c1389b",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649565,
+    "wof:lastmodified":1582345307,
     "wof:name":"Szinesemajor",
     "wof:parent_id":101751689,
     "wof:placetype":"neighbourhood",

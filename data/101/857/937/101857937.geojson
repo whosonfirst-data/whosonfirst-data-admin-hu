@@ -175,6 +175,10 @@
         "wk:page":"Orosh\u00e1za"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"880ac295bd1da3a075f5721272fd2279",
     "wof:hierarchy":[
         {
@@ -189,7 +193,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650215,
+    "wof:lastmodified":1582345327,
     "wof:name":"Orosh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

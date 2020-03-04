@@ -143,6 +143,9 @@
         "wk:page":"Sz\u00e9cs\u00e9ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"598aea7d6c5db51b0c98b738da336a2c",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650278,
+    "wof:lastmodified":1582345336,
     "wof:name":"Sz\u00e9cs\u00e9ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

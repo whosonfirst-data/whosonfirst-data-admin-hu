@@ -101,6 +101,9 @@
         "wk:page":"Tinnye"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b5d15a21460e8f319fe12d76f686e72",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650360,
+    "wof:lastmodified":1582345347,
     "wof:name":"Tinnye",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

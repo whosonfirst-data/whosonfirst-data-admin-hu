@@ -112,6 +112,9 @@
         "wk:page":"Kengyel"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0ead826f40f91a8d864d82f41372cff",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650390,
+    "wof:lastmodified":1582345351,
     "wof:name":"Kengyel",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

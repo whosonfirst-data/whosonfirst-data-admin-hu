@@ -127,6 +127,9 @@
         "wk:page":"Beremend"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02b88cc0b1bcbd1d7d27f7d1deb7e3f0",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650212,
+    "wof:lastmodified":1582345327,
     "wof:name":"Beremend",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

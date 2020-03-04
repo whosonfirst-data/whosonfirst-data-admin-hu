@@ -135,6 +135,9 @@
         "wk:page":"Nagycenk"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af161a6416365226620eff260bd12461",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650340,
+    "wof:lastmodified":1582345344,
     "wof:name":"Nagycenk",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

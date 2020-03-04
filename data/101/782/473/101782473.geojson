@@ -118,6 +118,9 @@
         "wk:page":"Megyasz\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30caf4ead238061a9c27ed47bbcf4cf8",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650260,
+    "wof:lastmodified":1582345333,
     "wof:name":"Megyasz\u00f3",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

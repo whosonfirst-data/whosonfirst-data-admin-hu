@@ -139,6 +139,9 @@
         "wk:page":"Csenger"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04ed353ad012a6665dace890e3a88335",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650274,
+    "wof:lastmodified":1582345335,
     "wof:name":"Csenger",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

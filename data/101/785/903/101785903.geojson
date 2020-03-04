@@ -145,6 +145,9 @@
         "wk:page":"F\u00f3t"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e047eafc91c4a04646386e2c506f7b90",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650243,
+    "wof:lastmodified":1582345332,
     "wof:name":"F\u00f3t",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

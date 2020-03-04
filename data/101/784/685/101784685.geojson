@@ -99,6 +99,9 @@
         "wk:page":"Gy\u00f6ngy\u00f6soroszi"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f05d035c067167846822469e33ff24cb",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650294,
+    "wof:lastmodified":1582345337,
     "wof:name":"Gy\u00f6ngy\u00f6soroszi",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

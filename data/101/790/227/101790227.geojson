@@ -136,6 +136,9 @@
         "wk:page":"B\u00e1tasz\u00e9k"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f2088f5fbd8b581622e799a273acf1a8",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650151,
+    "wof:lastmodified":1582345320,
     "wof:name":"B\u00e1tasz\u00e9k",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

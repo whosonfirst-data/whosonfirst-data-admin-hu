@@ -111,6 +111,10 @@
         "qs_pg:id":1167204
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bb17e95a4ac57989e0e6c287710bffa",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649585,
+    "wof:lastmodified":1582345310,
     "wof:name":"K\u0151alja",
     "wof:parent_id":101833287,
     "wof:placetype":"neighbourhood",

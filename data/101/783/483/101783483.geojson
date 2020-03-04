@@ -100,6 +100,9 @@
         "wd:id":"Q679489"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a1b37eedf1882191ef9decb0296ae3c",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650269,
+    "wof:lastmodified":1582345334,
     "wof:name":"M\u00e1traszele",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

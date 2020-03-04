@@ -135,6 +135,9 @@
         "wd:id":"Q154540"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d19fa544559ae0d898472f9139dd438",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650205,
+    "wof:lastmodified":1582345326,
     "wof:name":"S\u00e1sd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

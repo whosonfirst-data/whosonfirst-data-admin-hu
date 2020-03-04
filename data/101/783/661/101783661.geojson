@@ -127,6 +127,9 @@
         "wk:page":"Als\u00f3zsolca"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a90e4a7b48338ba8df7d92a25ae515a7",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650272,
+    "wof:lastmodified":1582345335,
     "wof:name":"Als\u00f3zsolca",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -130,6 +130,9 @@
         "wk:page":"Ibr\u00e1ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d95c649c28b685f719db73ae2baebfe6",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650265,
+    "wof:lastmodified":1582345334,
     "wof:name":"Ibr\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

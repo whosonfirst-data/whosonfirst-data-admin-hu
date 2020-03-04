@@ -98,6 +98,9 @@
         "wk:page":"Markaz, Hungary"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0db45488616619975fb77179fbd667a1",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650287,
+    "wof:lastmodified":1582345337,
     "wof:name":"Markaz",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

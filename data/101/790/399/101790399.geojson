@@ -139,6 +139,9 @@
         "wk:page":"Mindszent"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04443f9f913a5970fbcd4a4ae00abe04",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650150,
+    "wof:lastmodified":1582345319,
     "wof:name":"Mindszent",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

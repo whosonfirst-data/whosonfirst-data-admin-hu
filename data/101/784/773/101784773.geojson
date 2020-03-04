@@ -105,6 +105,9 @@
         "wd:id":"Q1186325"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e0aac52e6cee5472f8b811275f8616a",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650298,
+    "wof:lastmodified":1582345338,
     "wof:name":"Szurdokp\u00fcsp\u00f6ki",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

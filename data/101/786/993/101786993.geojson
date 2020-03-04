@@ -121,6 +121,9 @@
         "wk:page":"K\u00f3ny"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd90011c746be248a47e8f3af49b16a4",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650345,
+    "wof:lastmodified":1582345345,
     "wof:name":"K\u00f3ny",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

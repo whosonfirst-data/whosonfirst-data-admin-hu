@@ -110,6 +110,9 @@
         "wk:page":"Perk\u00e1ta"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb253b3d053a8c0c3335aec78d28829e",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650370,
+    "wof:lastmodified":1582345349,
     "wof:name":"Perk\u00e1ta",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

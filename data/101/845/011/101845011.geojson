@@ -105,6 +105,9 @@
         "wk:page":"Sz\u0151dliget"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1eb5c4d38d874af429bba62513731be5",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101845011,
-    "wof:lastmodified":1566650192,
+    "wof:lastmodified":1582345325,
     "wof:name":"Sz\u0151dliget",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

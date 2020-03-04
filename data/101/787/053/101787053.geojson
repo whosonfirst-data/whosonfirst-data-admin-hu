@@ -106,6 +106,9 @@
         "wk:page":"Valk\u00f3"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d3ac988477ffe2860fce0a330715672",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650354,
+    "wof:lastmodified":1582345346,
     "wof:name":"Valk\u00f3",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

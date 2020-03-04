@@ -119,6 +119,9 @@
         "wk:page":"Tiszaf\u00f6ldv\u00e1r"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4733436b34f3bbc31b57a97fada0cdfc",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1561751547,
+    "wof:lastmodified":1582345327,
     "wof:name":"Tiszaf\u00f6ldv\u00e1r",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

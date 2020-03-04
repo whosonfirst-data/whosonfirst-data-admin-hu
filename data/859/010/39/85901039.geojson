@@ -77,6 +77,10 @@
         "qs_pg:id":1348485
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f15319a890edcc8264bfea61269feab",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566649589,
+    "wof:lastmodified":1582345311,
     "wof:name":"Als\u00f3galla",
     "wof:parent_id":101751707,
     "wof:placetype":"neighbourhood",

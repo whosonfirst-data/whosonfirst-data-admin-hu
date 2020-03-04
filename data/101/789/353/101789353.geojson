@@ -161,6 +161,9 @@
         "wk:page":"Tapolca"
     },
     "wof:country":"HU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f61aa27b7bf8f83f61adec9bf9820f1",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1566650365,
+    "wof:lastmodified":1582345348,
     "wof:name":"Tapolca",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",
