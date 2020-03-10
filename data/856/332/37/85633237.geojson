@@ -1114,9 +1114,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Hungary",
-        "digitalenvoy:country_code":[
-            348
-        ],
+        "digitalenvoy:country_code":348,
         "fb:id":"en.hungary",
         "fifa:id":"HUN",
         "fips:code":"HU",
@@ -1160,7 +1158,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1583529145,
+    "wof:lastmodified":1583797350,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
