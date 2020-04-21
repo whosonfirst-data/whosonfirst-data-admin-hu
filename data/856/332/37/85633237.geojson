@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.034891,
-    "geom:area_square_m":92763649519.144135,
+    "geom:area_square_m":92763651818.974319,
     "geom:bbox":"16.113867,45.73711,22.89653,48.585239",
     "geom:latitude":47.165212,
     "geom:longitude":19.411947,
@@ -63,6 +63,9 @@
     ],
     "name:arg_x_preferred":[
         "Hongr\u00eda"
+    ],
+    "name:ary_x_preferred":[
+        "\u0647\u0646\u06ad\u0627\u0631\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0631"
@@ -196,6 +199,9 @@
     "name:dan_x_preferred":[
         "Ungarn"
     ],
+    "name:deu_ch_x_preferred":[
+        "Ungarn"
+    ],
     "name:deu_x_preferred":[
         "Ungarn"
     ],
@@ -219,6 +225,12 @@
     ],
     "name:eml_x_preferred":[
         "Ungher\u00ee"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Hungary"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Hungary"
     ],
     "name:eng_x_historical":[
         "Republic of Hungary"
@@ -295,6 +307,9 @@
     "name:gag_x_preferred":[
         "Vengriya"
     ],
+    "name:gcr_x_preferred":[
+        "Ongri"
+    ],
     "name:gla_x_preferred":[
         "An Ungair"
     ],
@@ -312,6 +327,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0939\u0902\u0917\u0947\u0930\u0940"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3f\ud800\udf32\ud800\udf32\ud800\udf30\ud800\udf42\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
     "name:grn_x_preferred":[
         "Hungyria"
@@ -441,6 +459,9 @@
     ],
     "name:kbp_x_preferred":[
         "H\u0254\u014birii"
+    ],
+    "name:kea_x_preferred":[
+        "Ungria"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17d2\u179a\u1791\u17c1\u179f\u17a0\u17bb\u1784\u1782\u17d2\u179a\u17b8"
@@ -710,6 +731,9 @@
     "name:pol_x_preferred":[
         "W\u0119gry"
     ],
+    "name:por_br_x_preferred":[
+        "Hungria"
+    ],
     "name:por_x_preferred":[
         "Hungria"
     ],
@@ -786,6 +810,9 @@
     "name:sme_x_preferred":[
         "Ung\u00e1ra"
     ],
+    "name:smn_x_preferred":[
+        "Unkari"
+    ],
     "name:smo_x_preferred":[
         "Hanikeri"
     ],
@@ -794,6 +821,9 @@
     ],
     "name:sna_x_preferred":[
         "Hungary"
+    ],
+    "name:snd_x_preferred":[
+        "\u06be\u0646\u06af\u0631\u064a"
     ],
     "name:som_x_preferred":[
         "Hungary"
@@ -826,6 +856,12 @@
     "name:srn_x_preferred":[
         "Ogarnikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u0430\u0452\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Ma\u0111arska"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0452\u0430\u0440\u0441\u043a\u0430"
     ],
@@ -846,6 +882,9 @@
     ],
     "name:szl_x_preferred":[
         "Mad\u017aary"
+    ],
+    "name:szy_x_preferred":[
+        "Hungary"
     ],
     "name:tah_x_preferred":[
         "Honetari"
@@ -994,8 +1033,26 @@
     "name:zha_x_preferred":[
         "Yunghyazleih"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5308\u7259\u5229"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5308\u7259\u5229"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Magyar-kok"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5308\u7259\u5229"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5308\u7259\u5229"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5308\u7259\u5229"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5308\u7259\u5229"
     ],
     "name:zho_x_preferred":[
         "\u5308\u7259\u5229"
@@ -1158,7 +1215,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1583797350,
+    "wof:lastmodified":1587427688,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
