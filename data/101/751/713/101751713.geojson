@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.002072,
     "geom:area_square_m":17253423.34654,
-    "geom:bbox":"16.535034,47.656822,16.624243,47.7044985",
+    "geom:bbox":"16.53503399999988,47.65682199999981,16.624243,47.70449849999983",
     "geom:latitude":47.680441,
     "geom:longitude":16.584211,
     "gn:population":57210,
@@ -75,12 +75,12 @@
         "\u03a3\u03cc\u03c0\u03c1\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Szorpron"
+        "Sopron"
     ],
     "name:eng_x_variant":[
         "Scarabantia",
         "Scarbantia",
-        "Sopron"
+        "Szorpron"
     ],
     "name:epo_x_preferred":[
         "Sopron"
@@ -286,8 +286,8 @@
     "wof:belongsto":[
         102191581,
         85633237,
-        85684895,
-        404227481
+        404227481,
+        85684895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -319,7 +319,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345339,
+    "wof:lastmodified":1603138864,
     "wof:name":"Sopron",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",
