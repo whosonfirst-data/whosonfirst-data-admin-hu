@@ -782,7 +782,9 @@
         85684881
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633237,
+    "wof:capital_of":[
+        85633237
+    ],
     "wof:concordances":{
         "dbp:id":"Budapest",
         "fb:id":"en.budapest",
@@ -814,7 +816,7 @@
         }
     ],
     "wof:id":101751703,
-    "wof:lastmodified":1587427689,
+    "wof:lastmodified":1607390891,
     "wof:megacity":1,
     "wof:name":"Budapest",
     "wof:parent_id":85684881,
