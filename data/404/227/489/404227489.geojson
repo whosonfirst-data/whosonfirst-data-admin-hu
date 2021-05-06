@@ -10,6 +10,18 @@
     "geom:latitude":47.417213,
     "geom:longitude":19.338511,
     "iso:country":"HU",
+    "label:eng_x_preferred_longname":[
+        "Central Hungary"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:hun_x_preferred_longname":[
+        "K\u00f6z\u00e9p-Magyarorsz\u00e1g"
+    ],
+    "label:hun_x_preferred_placetype":[
+        "r\u00e9gi\u00f3"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -67,6 +79,9 @@
         "Sredi\u0161nja Ma\u0111arska"
     ],
     "name:hun_x_preferred":[
+        "K\u00f6z\u00e9p-Magyarorsz\u00e1g"
+    ],
+    "name:hun_x_variant":[
         "K\u00f6z\u00e9p-Magyarorsz\u00e1g"
     ],
     "name:ita_x_preferred":[
@@ -143,6 +158,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "src:population_date":"2016-01-01",
     "wof:belongsto":[
         102191581,
         85633237
@@ -167,10 +184,12 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1587427693,
+    "wof:lastmodified":1620343352,
     "wof:name":"Central Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
+    "wof:population":2993948,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

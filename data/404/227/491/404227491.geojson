@@ -10,6 +10,18 @@
     "geom:latitude":46.334615,
     "geom:longitude":18.039444,
     "iso:country":"HU",
+    "label:eng_x_preferred_longname":[
+        "Southern Transdanubia"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:hun_x_preferred_longname":[
+        "D\u00e9l-Dun\u00e1nt\u00fal"
+    ],
+    "label:hun_x_preferred_placetype":[
+        "r\u00e9gi\u00f3"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -55,6 +67,9 @@
         "Ju\u017eno Zadunavlje"
     ],
     "name:hun_x_preferred":[
+        "D\u00e9l-Dun\u00e1nt\u00fal"
+    ],
+    "name:hun_x_variant":[
         "D\u00e9l-Dun\u00e1nt\u00fal"
     ],
     "name:ita_x_preferred":[
@@ -122,6 +137,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "src:population_date":"2016-01-01",
     "wof:belongsto":[
         102191581,
         85633237
@@ -146,10 +163,12 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1587427691,
+    "wof:lastmodified":1620343352,
     "wof:name":"Southern Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
+    "wof:population":900868,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],
     "wof:supersedes":[],

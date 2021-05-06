@@ -10,6 +10,18 @@
     "geom:latitude":46.586411,
     "geom:longitude":20.07945,
     "iso:country":"HU",
+    "label:eng_x_preferred_longname":[
+        "Southern Great Plain"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:hun_x_preferred_longname":[
+        "D\u00e9l-Alf\u00f6ld"
+    ],
+    "label:hun_x_preferred_placetype":[
+        "r\u00e9gi\u00f3"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -55,6 +67,9 @@
         "Ju\u017eni Alf\u00f6ld"
     ],
     "name:hun_x_preferred":[
+        "D\u00e9l-Alf\u00f6ld"
+    ],
+    "name:hun_x_variant":[
         "D\u00e9l-Alf\u00f6ld"
     ],
     "name:ind_x_preferred":[
@@ -116,6 +131,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "src:population_date":"2016-01-01",
     "wof:belongsto":[
         102191581,
         85633237
@@ -140,10 +157,12 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1587427693,
+    "wof:lastmodified":1620343352,
     "wof:name":"Southern Great Plain",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
+    "wof:population":1262936,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],
     "wof:supersedes":[],
