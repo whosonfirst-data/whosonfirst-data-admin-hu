@@ -69,9 +69,6 @@
     "name:hun_x_preferred":[
         "\u00c9szak-Magyarorsz\u00e1g"
     ],
-    "name:hun_x_variant":[
-        "\u00c9szak-Magyarorsz\u00e1g"
-    ],
     "name:ita_x_preferred":[
         "Ungheria Settentrionale"
     ],
@@ -157,7 +154,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1620344060,
     "wof:name":"Northern Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

@@ -19,9 +19,6 @@
     "label:eng_x_preferred_shortcode":[
         "HB"
     ],
-    "label:eng_x_variant_longname":[
-        "Hajd\u00fa-Bihar County"
-    ],
     "label:hun_x_preferred_longname":[
         "Hajd\u00fa-Bihar megye"
     ],
@@ -375,7 +372,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343353,
+    "wof:lastmodified":1620344084,
     "wof:name":"Hajd\u00fa-Bihar",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

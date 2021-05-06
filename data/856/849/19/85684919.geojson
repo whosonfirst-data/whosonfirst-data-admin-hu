@@ -11,7 +11,7 @@
     "geom:longitude":20.971612,
     "iso:country":"HU",
     "label:eng_x_preferred_longname":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n County"
+        "Borsod-Abauj Zemplen County"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
@@ -23,7 +23,7 @@
         "Borsod-Aba\u00faj-Zempl\u00e9n County"
     ],
     "label:hun_x_preferred_longname":[
-        "Borsod-Abauj Zemplen megye"
+        "Borsod-Aba\u00faj-Zempl\u00e9n megye"
     ],
     "label:hun_x_preferred_placetype":[
         "megye"
@@ -78,10 +78,9 @@
         "\u039c\u03c0\u03cc\u03c1\u03c3\u03bf\u03bd\u03c4-\u0391\u03bc\u03c0\u03b1\u03bf\u03cd\u03c4\u03b6-\u0396\u03b5\u03bc\u03c0\u03bb\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n"
+        "Borsod-Abauj Zemplen"
     ],
     "name:eng_x_variant":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n",
         "Borsod-Aba\u00faj-Zempl\u00e9n County",
         "Borsod-Abauj Zemplen county"
     ],
@@ -122,10 +121,11 @@
         "Bor\u0161od-aba\u00fajsko-zempl\u00e9nska \u017eupanija"
     ],
     "name:hun_x_preferred":[
-        "Borsod-Abauj Zemplen"
+        "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
     "name:hun_x_variant":[
-        "Borsod-Aba\u00faj-Zempl\u00e9n megye"
+        "Borsod-Aba\u00faj-Zempl\u00e9n megye",
+        "Borsod-Abauj Zemplen"
     ],
     "name:ind_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
@@ -375,7 +375,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343353,
+    "wof:lastmodified":1620344092,
     "wof:name":"Borsod-Aba\u00faj-Zempl\u00e9n",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

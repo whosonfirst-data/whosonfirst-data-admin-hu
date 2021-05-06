@@ -19,9 +19,6 @@
     "label:eng_x_preferred_shortcode":[
         "VE"
     ],
-    "label:eng_x_variant_longname":[
-        "Veszpr\u00e9m County"
-    ],
     "label:hun_x_preferred_longname":[
         "Veszpr\u00e9m megye"
     ],
@@ -77,8 +74,7 @@
         "Veszpr\u00e9m"
     ],
     "name:eng_x_variant":[
-        "Veszpr\u00e9m County",
-        "Veszpr\u00e9m"
+        "Veszpr\u00e9m County"
     ],
     "name:epo_x_preferred":[
         "Veszpr\u00e9m"
@@ -307,7 +303,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343354,
+    "wof:lastmodified":1620344071,
     "wof:name":"Veszpr\u00e9m",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

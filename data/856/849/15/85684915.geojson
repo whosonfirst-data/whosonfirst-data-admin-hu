@@ -83,8 +83,7 @@
         "Szabolcs-Szatm\u00e1r-Bereg"
     ],
     "name:eng_x_variant":[
-        "Szabolcs-Szatm\u00e1r-Bereg County",
-        "Szabolcs-Szatm\u00e1r-Bereg"
+        "Szabolcs-Szatm\u00e1r-Bereg County"
     ],
     "name:epo_x_preferred":[
         "Szabolcs-Szatm\u00e1r-Bereg"
@@ -388,7 +387,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343354,
+    "wof:lastmodified":1620344089,
     "wof:name":"Szabolcs-Szatm\u00e1r-Bereg",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

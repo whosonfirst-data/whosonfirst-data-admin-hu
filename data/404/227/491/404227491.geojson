@@ -69,9 +69,6 @@
     "name:hun_x_preferred":[
         "D\u00e9l-Dun\u00e1nt\u00fal"
     ],
-    "name:hun_x_variant":[
-        "D\u00e9l-Dun\u00e1nt\u00fal"
-    ],
     "name:ita_x_preferred":[
         "Transdanubio Meridionale"
     ],
@@ -163,7 +160,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1620344063,
     "wof:name":"Southern Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

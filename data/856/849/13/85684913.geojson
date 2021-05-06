@@ -77,8 +77,7 @@
         "N\u00f3gr\u00e1d"
     ],
     "name:eng_x_variant":[
-        "N\u00f3gr\u00e1d County",
-        "N\u00f3gr\u00e1d"
+        "N\u00f3gr\u00e1d County"
     ],
     "name:epo_x_preferred":[
         "N\u00f3gr\u00e1d"
@@ -364,7 +363,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343354,
+    "wof:lastmodified":1620344087,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

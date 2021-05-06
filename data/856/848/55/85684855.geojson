@@ -19,9 +19,6 @@
     "label:eng_x_preferred_shortcode":[
         "CS"
     ],
-    "label:eng_x_variant_longname":[
-        "Csongr\u00e1d County"
-    ],
     "label:hun_x_preferred_longname":[
         "Csongr\u00e1d megye"
     ],
@@ -68,8 +65,7 @@
         "Csongr\u00e1d"
     ],
     "name:eng_x_variant":[
-        "Csongr\u00e1d County",
-        "Csongr\u00e1d"
+        "Csongr\u00e1d County"
     ],
     "name:epo_x_preferred":[
         "Csongr\u00e1d"
@@ -355,7 +351,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343353,
+    "wof:lastmodified":1620344066,
     "wof:name":"Csongr\u00e1d",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

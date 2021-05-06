@@ -19,9 +19,6 @@
     "label:eng_x_preferred_shortcode":[
         "KE"
     ],
-    "label:eng_x_variant_longname":[
-        "Kom\u00e1rom-Esztergom County"
-    ],
     "label:hun_x_preferred_longname":[
         "Kom\u00e1rom-Esztergom megye"
     ],
@@ -81,8 +78,7 @@
         "Kom\u00e1rom-Esztergom"
     ],
     "name:eng_x_variant":[
-        "Kom\u00e1rom-Esztergom County",
-        "Kom\u00e1rom-Esztergom"
+        "Kom\u00e1rom-Esztergom County"
     ],
     "name:epo_x_preferred":[
         "Kom\u00e1rom-Esztergom"
@@ -380,7 +376,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343353,
+    "wof:lastmodified":1620344079,
     "wof:name":"Kom\u00e1rom-Esztergom",
     "wof:parent_id":404227479,
     "wof:placetype":"region",
