@@ -10,6 +10,18 @@
     "geom:latitude":48.047186,
     "geom:longitude":20.48776,
     "iso:country":"HU",
+    "label:eng_x_preferred_longname":[
+        "Northern Hungary"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:hun_x_preferred_longname":[
+        "\u00c9szak-Magyarorsz\u00e1g"
+    ],
+    "label:hun_x_preferred_placetype":[
+        "r\u00e9gi\u00f3"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
@@ -116,6 +128,8 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "src:population_date":"2016-01-01",
     "wof:belongsto":[
         102191581,
         85633237
@@ -140,10 +154,12 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1587427690,
+    "wof:lastmodified":1620344060,
     "wof:name":"Northern Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
+    "wof:population":1153714,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],
     "wof:supersedes":[],
