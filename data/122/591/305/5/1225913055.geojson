@@ -27,8 +27,14 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bukfurdo"
+    ],
+    "name:eng_x_variant":[
+        "Buekfuerdo"
+    ],
     "name:hun_x_preferred":[
         "B\u00fck"
     ],
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191581,
         85633237,
-        85684863,
-        404227481
+        404227481,
+        85684863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1225913055,
-    "wof:lastmodified":1566650775,
-    "wof:name":"Buekfuerdo",
+    "wof:lastmodified":1631144174,
+    "wof:name":"Bukfurdo",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hu",
