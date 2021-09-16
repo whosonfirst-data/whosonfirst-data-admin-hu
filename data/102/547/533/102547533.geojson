@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.5,47.1305555556,18.5,47.1305555556",
+    "geom:bbox":"18.5,47.130556,18.5,47.130556",
     "geom:latitude":47.130556,
     "geom:longitude":18.5,
     "iso:country":"HU",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "B\u00f6rg\u00f6nd Airport"
+    ],
+    "name:eng_x_variant":[
+        "LHBD"
     ],
     "name:hun_x_preferred":[
         "B\u00f6rg\u00f6ndi rep\u00fcl\u0151t\u00e9r"
@@ -50,7 +53,7 @@
         "wd:id":"Q855170"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8e50746e3b9ff592c3153ea6db4a7aae",
+    "wof:geomhash":"ec32109d76b5b08dea153c722a983aaa",
     "wof:hierarchy":[
         {
             "campus_id":102547533,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102547533,
-    "wof:lastmodified":1566649432,
+    "wof:lastmodified":1631750003,
     "wof:name":"Borgond Airport",
     "wof:parent_id":85684879,
     "wof:placetype":"campus",
@@ -72,9 +75,9 @@
 },
   "bbox": [
     18.5,
-    47.130555555556,
+    47.130556,
     18.5,
-    47.130555555556
+    47.130556
 ],
-  "geometry": {"coordinates":[18.5,47.130555555556],"type":"Point"}
+  "geometry": {"coordinates":[18.5,47.130556],"type":"Point"}
 }

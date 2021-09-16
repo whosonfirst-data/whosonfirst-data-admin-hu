@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.9102777778,47.4897222222,18.9102777778,47.4897222222",
+    "geom:bbox":"18.910278,47.489722,18.910278,47.489722",
     "geom:latitude":47.489722,
     "geom:longitude":18.910278,
     "iso:country":"HU",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Farkashegyi aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "LHFH"
     ],
     "name:hun_x_preferred":[
         "Farkashegyi rep\u00fcl\u0151t\u00e9r"
@@ -44,7 +47,7 @@
         "wd:id":"Q996444"
     },
     "wof:country":"HU",
-    "wof:geomhash":"ff0ad4d85e700b52cde574f848bf6ebe",
+    "wof:geomhash":"90c6eba80aab2c6b66cb65622f13425f",
     "wof:hierarchy":[
         {
             "campus_id":102547561,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":102547561,
-    "wof:lastmodified":1566649432,
+    "wof:lastmodified":1631750003,
     "wof:name":"Farkashegy Repuloter",
     "wof:parent_id":85684899,
     "wof:placetype":"campus",
@@ -65,10 +68,10 @@
     ]
 },
   "bbox": [
-    18.910277777778,
-    47.489722222222,
-    18.910277777778,
-    47.489722222222
+    18.910278,
+    47.489722,
+    18.910278,
+    47.489722
 ],
-  "geometry": {"coordinates":[18.910277777778,47.489722222222],"type":"Point"}
+  "geometry": {"coordinates":[18.910278,47.489722],"type":"Point"}
 }

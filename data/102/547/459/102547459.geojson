@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Kiskunlach\u00e1za Airport"
     ],
+    "name:eng_x_variant":[
+        "LHKK"
+    ],
     "name:hun_x_preferred":[
         "Kiskunlach\u00e1zi rep\u00fcl\u0151t\u00e9r"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102547459,
-    "wof:lastmodified":1566649432,
+    "wof:lastmodified":1631750003,
     "wof:name":"Kiskunlachaza Airport",
     "wof:parent_id":85684899,
     "wof:placetype":"campus",

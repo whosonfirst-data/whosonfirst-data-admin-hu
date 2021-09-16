@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.3233333333,47.5175,18.3233333333,47.5175",
+    "geom:bbox":"18.323333,47.5175,18.323333,47.5175",
     "geom:latitude":47.5175,
     "geom:longitude":18.323333,
     "iso:country":"HU",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Kecsk\u00e9d Airport"
+    ],
+    "name:eng_x_variant":[
+        "LHKD"
     ],
     "name:hun_x_preferred":[
         "Kecsk\u00e9di rep\u00fcl\u0151t\u00e9r"
@@ -47,7 +50,7 @@
         "wd:id":"Q1105997"
     },
     "wof:country":"HU",
-    "wof:geomhash":"b1583e9a08eb3f1f781bce36f81bad2f",
+    "wof:geomhash":"fdfff6811aef984cbbaee17c3672911b",
     "wof:hierarchy":[
         {
             "campus_id":102547549,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102547549,
-    "wof:lastmodified":1566649433,
+    "wof:lastmodified":1631750003,
     "wof:name":"Kecsked Repuloter",
     "wof:parent_id":85684885,
     "wof:placetype":"campus",
@@ -68,10 +71,10 @@
     ]
 },
   "bbox": [
-    18.323333333333,
+    18.323333,
     47.5175,
-    18.323333333333,
+    18.323333,
     47.5175
 ],
-  "geometry": {"coordinates":[18.323333333333,47.5175],"type":"Point"}
+  "geometry": {"coordinates":[18.323333,47.5175],"type":"Point"}
 }

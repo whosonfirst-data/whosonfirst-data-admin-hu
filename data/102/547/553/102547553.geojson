@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.7336111111,47.7619444444,18.7336111111,47.7619444444",
+    "geom:bbox":"18.733611,47.761944,18.733611,47.761944",
     "geom:latitude":47.761944,
     "geom:longitude":18.733611,
     "iso:country":"HU",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Esztergom Airport"
+    ],
+    "name:eng_x_variant":[
+        "LHEM"
     ],
     "name:hun_x_preferred":[
         "Esztergomi rep\u00fcl\u0151t\u00e9r"
@@ -47,7 +50,7 @@
         "wd:id":"Q991839"
     },
     "wof:country":"HU",
-    "wof:geomhash":"0c0c22d94570728e692fe9e7b9b31859",
+    "wof:geomhash":"78fc4626990732191ba5be64f81b16f1",
     "wof:hierarchy":[
         {
             "campus_id":102547553,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102547553,
-    "wof:lastmodified":1566649432,
+    "wof:lastmodified":1631750003,
     "wof:name":"Esztergom Repuloter",
     "wof:parent_id":85684885,
     "wof:placetype":"campus",
@@ -68,10 +71,10 @@
     ]
 },
   "bbox": [
-    18.733611111111,
-    47.761944444444,
-    18.733611111111,
-    47.761944444444
+    18.733611,
+    47.761944,
+    18.733611,
+    47.761944
 ],
-  "geometry": {"coordinates":[18.733611111111,47.761944444444],"type":"Point"}
+  "geometry": {"coordinates":[18.733611,47.761944],"type":"Point"}
 }

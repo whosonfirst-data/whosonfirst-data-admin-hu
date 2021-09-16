@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Buda\u00f6rs Airport"
     ],
+    "name:eng_x_variant":[
+        "LHBS"
+    ],
     "name:hun_x_preferred":[
         "Buda\u00f6rsi rep\u00fcl\u0151t\u00e9r"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102547527,
-    "wof:lastmodified":1566649432,
+    "wof:lastmodified":1631750003,
     "wof:name":"Budaors Airport",
     "wof:parent_id":85901275,
     "wof:placetype":"campus",
