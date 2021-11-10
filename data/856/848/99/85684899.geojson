@@ -49,6 +49,9 @@
     "name:bel_x_variant":[
         "\u043c\u0435\u0434\u0437\u044c\u0435 \u041f\u0435\u0448\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09b8\u09cd\u099f"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0449"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:deu_x_variant":[
         "Komitat Pest"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Pest"
@@ -102,6 +108,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05e4\u05e9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0938\u094d\u091f"
     ],
     "name:hrv_x_preferred":[
         "Pe\u0161tanska \u017eupanija"
@@ -217,6 +226,9 @@
     ],
     "name:vep_x_preferred":[
         "Pe\u0161t"
+    ],
+    "name:vie_x_preferred":[
+        "Pest"
     ],
     "name:vro_x_preferred":[
         "Pesti maakund"
@@ -351,7 +363,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343354,
+    "wof:lastmodified":1636500618,
     "wof:name":"Pest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

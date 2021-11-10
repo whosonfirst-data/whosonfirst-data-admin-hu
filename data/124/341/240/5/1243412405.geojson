@@ -35,6 +35,9 @@
     "name:hrv_x_preferred":[
         "Biba"
     ],
+    "name:hun_x_preferred":[
+        "Bo"
+    ],
     "name:ron_x_preferred":[
         "B\u0151"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243412405,
-    "wof:lastmodified":1566650546,
+    "wof:lastmodified":1636500620,
     "wof:name":"Bo",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

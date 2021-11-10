@@ -43,6 +43,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043d\u044c\u044f"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b0\u09be\u09a8\u09cd\u09af\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043d\u044f"
     ],
@@ -64,6 +67,9 @@
     "name:deu_x_variant":[
         "Branau",
         "Komitat Baranya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03ac\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Baranya"
@@ -215,6 +221,9 @@
     "name:vep_x_preferred":[
         "Baran'j"
     ],
+    "name:vie_x_preferred":[
+        "Baranya"
+    ],
     "name:vro_x_preferred":[
         "Baranya maakund"
     ],
@@ -346,7 +355,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343353,
+    "wof:lastmodified":1636500618,
     "wof:name":"Baranya",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

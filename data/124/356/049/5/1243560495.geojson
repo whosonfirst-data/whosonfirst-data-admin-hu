@@ -48,6 +48,9 @@
         "\u05e7\u05d0\u05e0\u05d5"
     ],
     "name:hun_x_preferred":[
+        "Kano"
+    ],
+    "name:hun_x_variant":[
         "K\u00e1n\u00f3"
     ],
     "name:ita_x_preferred":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1243560495,
-    "wof:lastmodified":1566650577,
+    "wof:lastmodified":1636500620,
     "wof:name":"Kano",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

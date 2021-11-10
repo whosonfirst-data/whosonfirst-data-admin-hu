@@ -65,6 +65,9 @@
     "name:glg_x_preferred":[
         "Var"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Var"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1360208621,
-    "wof:lastmodified":1566650128,
+    "wof:lastmodified":1636500618,
     "wof:name":"Var",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

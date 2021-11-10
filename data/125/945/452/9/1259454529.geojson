@@ -42,6 +42,9 @@
         "K\u00e1ra"
     ],
     "name:hun_x_preferred":[
+        "Kara"
+    ],
+    "name:hun_x_variant":[
         "K\u00e1ra"
     ],
     "name:ita_x_preferred":[
@@ -78,7 +81,7 @@
         "wk:page":"K%C3%A1ra%2C_Hungary"
     },
     "wof:country":"HU",
-    "wof:geomhash":"3051387a541d6e7cfdaeafdd338b8d6d",
+    "wof:geomhash":"ecbebdcb0023dbb5c858beeb9247eb21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1259454529,
-    "wof:lastmodified":1566650700,
+    "wof:lastmodified":1636500620,
     "wof:name":"Kara",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",
@@ -99,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.01121000000001,
+    18.01121,
     46.61717,
-    18.01121000000001,
+    18.01121,
     46.61717
 ],
-  "geometry": {"coordinates":[18.01121000000001,46.61717],"type":"Point"}
+  "geometry": {"coordinates":[18.01121,46.61717],"type":"Point"}
 }

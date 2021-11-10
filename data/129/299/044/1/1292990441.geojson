@@ -39,6 +39,9 @@
         "P\u00e1li"
     ],
     "name:hun_x_preferred":[
+        "Pali"
+    ],
+    "name:hun_x_variant":[
         "P\u00e1li"
     ],
     "name:ita_x_preferred":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1292990441,
-    "wof:lastmodified":1566649673,
+    "wof:lastmodified":1636500618,
     "wof:name":"Pali",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",
