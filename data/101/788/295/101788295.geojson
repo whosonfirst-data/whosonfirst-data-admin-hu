@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
     "geom:area_square_m":4557715.707328,
-    "geom:bbox":"19.2039386253,47.2847748623,19.2538751459,47.3120990822",
+    "geom:bbox":"19.20393862534007,47.28477486225972,19.25387514589158,47.31209908218091",
     "geom:latitude":47.299472,
     "geom:longitude":19.229917,
     "gn:population":9097,
@@ -30,10 +30,10 @@
         "\u00d3csa"
     ],
     "name:eng_x_preferred":[
-        "Osca"
+        "\u00d3csa"
     ],
     "name:eng_x_variant":[
-        "\u00d3csa"
+        "Osca"
     ],
     "name:epo_x_preferred":[
         "\u00d3csa"
@@ -114,8 +114,8 @@
     "wof:belongsto":[
         102191581,
         85633237,
-        85684899,
-        404227489
+        404227489,
+        85684899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,7 +144,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345341,
+    "wof:lastmodified":1634678111,
     "wof:name":"\u00d3csa",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",
