@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.005904,
     "geom:area_square_m":49288889.936467,
-    "geom:bbox":"21.5566845,47.485775,21.6887645,47.56583",
+    "geom:bbox":"21.55668449999985,47.48577499999988,21.68876449999988,47.56582999999983",
     "geom:latitude":47.53108,
     "geom:longitude":21.627124,
     "gn:population":204124,
@@ -75,12 +75,12 @@
         "\u039d\u03c4\u03ad\u03bc\u03c0\u03c1\u03b5\u03c4\u03c3\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Debreczin"
+        "Debrecen"
     ],
     "name:eng_x_variant":[
         "DEB",
         "Debreczen",
-        "Debrecen"
+        "Debreczin"
     ],
     "name:epo_x_preferred":[
         "Debrecen"
@@ -443,8 +443,8 @@
     "wof:belongsto":[
         102191581,
         85633237,
-        85684903,
-        404227483
+        404227483,
+        85684903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -473,7 +473,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345339,
+    "wof:lastmodified":1640907677,
     "wof:name":"Debrecen",
     "wof:parent_id":85684903,
     "wof:placetype":"locality",
