@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"HU",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"\u00c9szak-Alf\u00f6ld",
+    "eurostat:name_local":"\u00c9szak-Alf\u00f6ld",
+    "eurostat:nuts_2021_id":"HU32",
+    "eurostat:nuts_2021_level_0":"HU",
+    "eurostat:nuts_2021_level_1":"HU3",
+    "eurostat:nuts_2021_level_2":"HU32",
+    "eurostat:population":1423751,
+    "eurostat:population_year":2022,
     "geom:area":2.119072,
-    "geom:area_square_m":17674490315.152565,
+    "geom:area_square_m":17674490315.152706,
     "geom:bbox":"19.651041,46.754481,22.89653,48.425461",
     "geom:latitude":47.581398,
     "geom:longitude":21.342923,
@@ -134,18 +144,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
-    "src:population":"wk",
-    "src:population_date":"2016-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633237
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"HU32",
         "wd:id":"Q905227"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f7fbb0f8f073152352b868561c1ae2d6",
+    "wof:geomhash":"e14e57597a42f4682aac29ef0a1d937e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,11 +171,11 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1684351435,
     "wof:name":"Northern Great Plain",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
-    "wof:population":1474383,
+    "wof:population":1423751,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],

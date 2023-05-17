@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"HU",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"D\u00e9l-Alf\u00f6ld",
+    "eurostat:name_local":"D\u00e9l-Alf\u00f6ld",
+    "eurostat:nuts_2021_id":"HU33",
+    "eurostat:nuts_2021_level_0":"HU",
+    "eurostat:nuts_2021_level_1":"HU3",
+    "eurostat:nuts_2021_level_2":"HU33",
+    "eurostat:population":1213595,
+    "eurostat:population_year":2022,
     "geom:area":2.152128,
-    "geom:area_square_m":18288784860.552746,
+    "geom:area_square_m":18288784860.552731,
     "geom:bbox":"18.732786,45.904781,21.688949,47.232288",
     "geom:latitude":46.586411,
     "geom:longitude":20.07945,
@@ -131,18 +141,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
-    "src:population":"wk",
-    "src:population_date":"2016-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633237
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"HU33",
         "wd:id":"Q630305"
     },
     "wof:country":"HU",
-    "wof:geomhash":"ec6e447482e278af51f19e2109a0a8b9",
+    "wof:geomhash":"dbc0b86191c855b4a8b442612a0b1741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,11 +168,11 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1684351435,
     "wof:name":"Southern Great Plain",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
-    "wof:population":1262936,
+    "wof:population":1213595,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],

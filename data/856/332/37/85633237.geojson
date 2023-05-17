@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"HU",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Magyarorsz\u00e1g",
+    "eurostat:name_local":"Magyarorsz\u00e1g",
+    "eurostat:nuts_2021_id":"HU",
+    "eurostat:nuts_2021_level_0":"HU",
+    "eurostat:population":9689010,
+    "eurostat:population_year":2022,
     "geom:area":11.034891,
-    "geom:area_square_m":92763651818.974319,
+    "geom:area_square_m":92763651818.974823,
     "geom:bbox":"16.113867,45.73711,22.89653,48.585239",
     "geom:latitude":47.165212,
     "geom:longitude":19.411947,
@@ -1207,7 +1215,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"36",
     "statoids:ds":"H",
     "statoids:fifa":"HUN",
@@ -1236,6 +1245,7 @@
     "wof:concordances":{
         "dbp:id":"Hungary",
         "digitalenvoy:country_code":348,
+        "eurostat:nuts_2021_id":"HU",
         "fb:id":"en.hungary",
         "fifa:id":"HUN",
         "fips:code":"HU",
@@ -1266,7 +1276,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"a96f715e5108375e21aa33fcd9b769fc",
+    "wof:geomhash":"5839cef64c445e74d37d2510b2f3866a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1280,11 +1290,11 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1617827485,
+    "wof:lastmodified":1684351323,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":9893899,
+    "wof:population":9689010,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:shortcode":"HU",
