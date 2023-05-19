@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"HU",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "eurostat:name_local":"K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "eurostat:nuts_2021_id":"HU21",
+    "eurostat:nuts_2021_level_0":"HU",
+    "eurostat:nuts_2021_level_1":"HU2",
+    "eurostat:nuts_2021_level_2":"HU21",
+    "eurostat:population":1056295,
+    "eurostat:population_year":2022,
     "geom:area":1.320225,
-    "geom:area_square_m":11086117677.551933,
+    "geom:area_square_m":11086117677.551907,
     "geom:bbox":"17.072982,46.687217,18.967478,47.823101",
     "geom:latitude":47.226501,
     "geom:longitude":18.132389,
@@ -140,18 +150,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
-    "src:population":"wk",
-    "src:population_date":"2016-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633237
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"HU21",
         "wd:id":"Q962153"
     },
     "wof:country":"HU",
-    "wof:geomhash":"bca7e266029f58a4a5c7614a17589114",
+    "wof:geomhash":"c45ee81b24dcb87f24ce3b1e66947100",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,11 +177,11 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1684351434,
     "wof:name":"Central Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
-    "wof:population":1060703,
+    "wof:population":1056295,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],

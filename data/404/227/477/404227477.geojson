@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"HU",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"\u00c9szak-Magyarorsz\u00e1g",
+    "eurostat:name_local":"\u00c9szak-Magyarorsz\u00e1g",
+    "eurostat:nuts_2021_id":"HU31",
+    "eurostat:nuts_2021_level_0":"HU",
+    "eurostat:nuts_2021_level_1":"HU3",
+    "eurostat:nuts_2021_level_2":"HU31",
+    "eurostat:population":1102064,
+    "eurostat:population_year":2022,
     "geom:area":1.619555,
-    "geom:area_square_m":13387692978.098854,
+    "geom:area_square_m":13387692978.098644,
     "geom:bbox":"18.9279,47.420463,22.129217,48.585239",
     "geom:latitude":48.047186,
     "geom:longitude":20.48776,
@@ -128,18 +138,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
-    "src:population":"wk",
-    "src:population_date":"2016-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633237
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"HU31",
         "wd:id":"Q732210"
     },
     "wof:country":"HU",
-    "wof:geomhash":"fcf55c2d86ae7988b01fe1ef9366e200",
+    "wof:geomhash":"ccad4cbb28b91958dd64107489bf195e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,11 +165,11 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620344060,
+    "wof:lastmodified":1684351434,
     "wof:name":"Northern Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
-    "wof:population":1153714,
+    "wof:population":1102064,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],

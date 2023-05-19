@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"HU",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Nyugat-Dun\u00e1nt\u00fal",
+    "eurostat:name_local":"Nyugat-Dun\u00e1nt\u00fal",
+    "eurostat:nuts_2021_id":"HU22",
+    "eurostat:nuts_2021_level_0":"HU",
+    "eurostat:nuts_2021_level_1":"HU2",
+    "eurostat:nuts_2021_level_2":"HU22",
+    "eurostat:population":997119,
+    "eurostat:population_year":2022,
     "geom:area":1.344312,
-    "geom:area_square_m":11297773288.034655,
+    "geom:area_square_m":11297773288.034672,
     "geom:bbox":"16.11387,46.29102,17.936475,48.022461",
     "geom:latitude":47.181395,
     "geom:longitude":16.996067,
@@ -146,18 +156,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gi\u00f3",
     "src:geom":"quattroshapes",
-    "src:population":"wk",
-    "src:population_date":"2016-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633237
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"HU22",
         "wd:id":"Q852716"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f601848486d5077fd96f0e79d091d4a9",
+    "wof:geomhash":"8d323448498b7d069ab283d4dcd6cdba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,11 +183,11 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1684351435,
     "wof:name":"Western Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
-    "wof:population":983933,
+    "wof:population":997119,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],
