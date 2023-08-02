@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "G\u00f6ny\u0171"
+    ],
+    "name:cat_x_preferred":[
+        "G\u00f6ny\u0171"
+    ],
     "name:ces_x_preferred":[
         "G\u00f6ny\u0171"
     ],
@@ -39,6 +45,12 @@
     ],
     "name:fra_x_preferred":[
         "G\u00f6ny\u0171"
+    ],
+    "name:gle_x_preferred":[
+        "G\u00f6ny\u0171"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e0\u05d9\u05d9"
     ],
     "name:hun_x_preferred":[
         "G\u00f6ny\u0171"
@@ -59,6 +71,9 @@
         "G\u00f6ny\u0171"
     ],
     "name:pol_x_preferred":[
+        "G\u00f6ny\u0171"
+    ],
+    "name:por_x_preferred":[
         "G\u00f6ny\u0171"
     ],
     "name:ron_x_preferred":[
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1125883893,
-    "wof:lastmodified":1566650459,
+    "wof:lastmodified":1690931045,
     "wof:name":"G\u00f6ny\u016f",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

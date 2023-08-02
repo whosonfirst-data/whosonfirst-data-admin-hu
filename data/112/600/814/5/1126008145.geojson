@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Csincse"
+    ],
     "name:ceb_x_preferred":[
         "Csincse"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Csincse"
     ],
+    "name:gle_x_preferred":[
+        "Csincse"
+    ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d9\u05e0\u05e6'\u05d4"
     ],
@@ -47,6 +53,9 @@
         "Csincse"
     ],
     "name:ita_x_preferred":[
+        "Csincse"
+    ],
+    "name:lmo_x_preferred":[
         "Csincse"
     ],
     "name:msa_x_preferred":[
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Csincse"
     ],
+    "name:por_x_preferred":[
+        "Csincse"
+    ],
     "name:ron_x_preferred":[
         "Csincse"
     ],
@@ -70,11 +82,17 @@
     "name:slv_x_preferred":[
         "Csincse"
     ],
+    "name:spa_x_preferred":[
+        "Csincse"
+    ],
     "name:swe_x_preferred":[
         "Csincse"
     ],
     "name:und_x_variant":[
         "Csincse-tany\u00e1k"
+    ],
+    "name:uzb_x_preferred":[
+        "Csincse"
     ],
     "name:vie_x_preferred":[
         "Csincse"
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":1126008145,
-    "wof:lastmodified":1566650488,
+    "wof:lastmodified":1690931073,
     "wof:name":"Csincsetanya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

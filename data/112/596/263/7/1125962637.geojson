@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Somogyfajsz"
+    ],
     "name:deu_x_preferred":[
         "Somogyfajsz"
     ],
@@ -34,10 +37,16 @@
     "name:fra_x_preferred":[
         "Somogyfajsz"
     ],
+    "name:gle_x_preferred":[
+        "Somogyfajsz"
+    ],
     "name:hun_x_preferred":[
         "Somogyfajsz"
     ],
     "name:ita_x_preferred":[
+        "Somogyfajsz"
+    ],
+    "name:lmo_x_preferred":[
         "Somogyfajsz"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +68,9 @@
         "Somogyfajsz"
     ],
     "name:slv_x_preferred":[
+        "Somogyfajsz"
+    ],
+    "name:spa_x_preferred":[
         "Somogyfajsz"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125962637,
-    "wof:lastmodified":1566650472,
+    "wof:lastmodified":1690931062,
     "wof:name":"Somogyfajsz",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

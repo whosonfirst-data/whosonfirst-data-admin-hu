@@ -65,6 +65,9 @@
     "name:swe_x_preferred":[
         "Sopronk\u0151hida"
     ],
+    "name:zho_x_preferred":[
+        "\u8096\u666e\u6717\u514b\u5e0c\u9053"
+    ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
     "qs_pg:name":"Sopronkohida",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125872707,
-    "wof:lastmodified":1566650463,
+    "wof:lastmodified":1690931051,
     "wof:name":"Sopronkohida",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

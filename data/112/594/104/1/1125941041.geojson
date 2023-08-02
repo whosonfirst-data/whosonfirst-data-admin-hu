@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Somosk\u0151\u00fajfalu"
+    ],
     "name:ceb_x_preferred":[
+        "Somosk\u0151\u00fajfalu"
+    ],
+    "name:deu_x_preferred":[
         "Somosk\u0151\u00fajfalu"
     ],
     "name:eng_x_preferred":[
@@ -32,6 +38,9 @@
         "Somosk\u0151\u00fajfalu"
     ],
     "name:fra_x_preferred":[
+        "Somosk\u0151\u00fajfalu"
+    ],
+    "name:gle_x_preferred":[
         "Somosk\u0151\u00fajfalu"
     ],
     "name:hun_x_preferred":[
@@ -46,10 +55,16 @@
     "name:pol_x_preferred":[
         "Somosk\u0151\u00fajfalu"
     ],
+    "name:por_x_preferred":[
+        "Somosk\u0151\u00fajfalu"
+    ],
     "name:ron_x_preferred":[
         "Somosk\u0151\u00fajfalu"
     ],
     "name:slk_x_preferred":[
+        "Somosk\u0151\u00fajfalu"
+    ],
+    "name:spa_x_preferred":[
         "Somosk\u0151\u00fajfalu"
     ],
     "name:swe_x_preferred":[
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1125941041,
-    "wof:lastmodified":1566650435,
+    "wof:lastmodified":1690931019,
     "wof:name":"Somosk\u0151\u00fajfalu",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

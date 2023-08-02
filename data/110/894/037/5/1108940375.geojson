@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.0340252868,47.4975700778,19.0340252868,47.4975700778",
+    "geom:bbox":"19.034025,47.49757,19.034025,47.49757",
     "geom:latitude":47.49757,
     "geom:longitude":19.034025,
     "iso:country":"HU",
@@ -23,11 +23,17 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "V\u00e1rker\u00fclet"
+    ],
     "name:ces_x_preferred":[
         "I. obvod"
     ],
     "name:eng_x_preferred":[
         "Budapest I. District"
+    ],
+    "name:eng_x_variant":[
+        "Budapest District"
     ],
     "name:epo_x_preferred":[
         "V\u00e1r"
@@ -57,8 +63,14 @@
     "name:nld_x_preferred":[
         "District I"
     ],
+    "name:nld_x_variant":[
+        "District"
+    ],
     "name:pol_x_preferred":[
         "Dzielnica I"
+    ],
+    "name:pol_x_variant":[
+        "Dzielnica"
     ],
     "name:ron_x_preferred":[
         "V\u00e1rker\u00fclet"
@@ -78,6 +90,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn I"
     ],
+    "name:vie_x_variant":[
+        "Qu\u1eadn"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e00\u533a"
     ],
@@ -95,7 +110,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361710,
-    "wof:geomhash":"54694fc6fd787adb859ce66bec5d72f1",
+    "wof:geomhash":"e54fbcd9c18fd433763e6dbf959c2536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":1108940375,
-    "wof:lastmodified":1566650015,
+    "wof:lastmodified":1690930647,
     "wof:name":"Varkerulet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -117,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.03402528677859,
-    47.49757007783543,
-    19.03402528677859,
-    47.49757007783543
+    19.034025,
+    47.49757,
+    19.034025,
+    47.49757
 ],
-  "geometry": {"coordinates":[19.03402528677859,47.49757007783543],"type":"Point"}
+  "geometry": {"coordinates":[19.034025,47.49757],"type":"Point"}
 }

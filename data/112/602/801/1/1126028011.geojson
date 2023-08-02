@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00d6tv\u00f6sk\u00f3nyi"
+    ],
     "name:ceb_x_preferred":[
         "\u00d6tv\u00f6sk\u00f3nyi"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "\u00d6tv\u00f6sk\u00f3nyi"
     ],
+    "name:gle_x_preferred":[
+        "\u00d6tv\u00f6sk\u00f3nyi"
+    ],
     "name:hun_x_preferred":[
         "\u00d6tv\u00f6sk\u00f3nyi"
     ],
@@ -50,6 +56,9 @@
         "\u00d6tv\u00f6sk\u00f3nyi"
     ],
     "name:nld_x_preferred":[
+        "\u00d6tv\u00f6sk\u00f3nyi"
+    ],
+    "name:por_x_preferred":[
         "\u00d6tv\u00f6sk\u00f3nyi"
     ],
     "name:ron_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1126028011,
-    "wof:lastmodified":1566650448,
+    "wof:lastmodified":1690931031,
     "wof:name":"\u00d6tv\u00f6sk\u00f3nyi",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

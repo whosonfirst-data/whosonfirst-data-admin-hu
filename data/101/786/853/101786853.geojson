@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
     "geom:area_square_m":488698.631961,
-    "geom:bbox":"18.8189008985,47.179086686,18.828835393,47.1868719736",
+    "geom:bbox":"18.818901,47.179087,18.828835,47.186872",
     "geom:latitude":47.1827,
     "geom:longitude":18.823985,
     "iso:country":"HU",
@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Beloiannisz"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u044f\u043d\u0438\u0441"
+    ],
     "name:ces_x_preferred":[
         "Beloiannisz"
     ],
@@ -43,11 +49,20 @@
     "name:fra_x_preferred":[
         "Beloiannisz"
     ],
+    "name:gle_x_preferred":[
+        "Beloiannisz"
+    ],
     "name:hun_x_preferred":[
         "Beloiannisz"
     ],
     "name:ita_x_preferred":[
         "Beloiannisz"
+    ],
+    "name:lmo_x_preferred":[
+        "Beloiannisz"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0458\u0430\u043d\u0438\u0441"
     ],
     "name:msa_x_preferred":[
         "Beloiannisz"
@@ -56,6 +71,9 @@
         "Beloiannisz"
     ],
     "name:nld_x_preferred":[
+        "Beloiannisz"
+    ],
+    "name:por_x_preferred":[
         "Beloiannisz"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +90,9 @@
     ],
     "name:und_x_variant":[
         "Katalin-major"
+    ],
+    "name:uzb_x_preferred":[
+        "Beloiannisz"
     ],
     "name:vie_x_preferred":[
         "Beloiannisz"
@@ -119,7 +140,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"01fe8f431e158cf1d7b31344eb438666",
+    "wof:geomhash":"6d905368914746e89d25ced9f9e3f1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +154,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345345,
+    "wof:lastmodified":1690930948,
     "wof:name":"Beloiannisz",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",
@@ -143,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.81890089854079,
-    47.17908668596499,
-    18.8288353930285,
-    47.18687197360003
+    18.818901,
+    47.179087,
+    18.828835,
+    47.186872
 ],
-  "geometry": {"coordinates":[[[18.82782805248718,47.18544397953406],[18.82752449621694,47.18365819974764],[18.8288353930285,47.18355113758497],[18.82807650891613,47.17908668596499],[18.81890089854079,47.17983571497359],[18.81965901315527,47.18430024056335],[18.82096993916088,47.18419327330412],[18.8214249537117,47.18687197360003],[18.82666887296307,47.18644392102544],[18.82651710683132,47.18555103010851],[18.82782805248718,47.18544397953406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[18.827828,47.185444],[18.827524,47.183658],[18.828835,47.183551],[18.828077,47.179087],[18.818901,47.179836],[18.819659,47.1843],[18.82097,47.184193],[18.821425,47.186872],[18.826669,47.186444],[18.826517,47.185551],[18.827828,47.185444]]],"type":"Polygon"}
 }

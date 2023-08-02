@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sopronhorp\u00e1cs"
+    ],
     "name:deu_x_preferred":[
         "Sopronhorp\u00e1cs"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "Sopronhorp\u00e1cs"
+    ],
+    "name:gle_x_preferred":[
+        "Sopronhorp\u00e1cs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e4\u05e8\u05d5\u05e0\u05d4\u05d5\u05e8\u05e4\u05d0\u05e5'"
     ],
     "name:hrv_x_preferred":[
         "Varpa\u010d"
@@ -56,6 +65,9 @@
         "Sopronhorp\u00e1cs"
     ],
     "name:pol_x_preferred":[
+        "Sopronhorp\u00e1cs"
+    ],
+    "name:por_x_preferred":[
         "Sopronhorp\u00e1cs"
     ],
     "name:ron_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125945589,
-    "wof:lastmodified":1566650435,
+    "wof:lastmodified":1690931019,
     "wof:name":"Sopronhorp\u00e1cs",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

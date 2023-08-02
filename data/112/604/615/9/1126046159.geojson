@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Miszla"
+    ],
     "name:deu_x_preferred":[
         "Miszla"
     ],
@@ -37,10 +40,16 @@
     "name:fra_x_preferred":[
         "Miszla"
     ],
+    "name:gle_x_preferred":[
+        "Miszla"
+    ],
     "name:hun_x_preferred":[
         "Miszla"
     ],
     "name:ita_x_preferred":[
+        "Miszla"
+    ],
+    "name:lmo_x_preferred":[
         "Miszla"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +68,9 @@
         "Miszla"
     ],
     "name:slv_x_preferred":[
+        "Miszla"
+    ],
+    "name:spa_x_preferred":[
         "Miszla"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1126046159,
-    "wof:lastmodified":1566650450,
+    "wof:lastmodified":1690931034,
     "wof:name":"Miszla",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

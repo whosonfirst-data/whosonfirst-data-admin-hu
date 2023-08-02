@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Magyargencs"
+    ],
     "name:ces_x_preferred":[
         "Magyargencs"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "Magyargencs"
     ],
+    "name:gle_x_preferred":[
+        "Magyargencs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2\u05d9\u05d0\u05e8\u05d2\u05e0\u05e5'"
+    ],
     "name:hun_x_preferred":[
         "Magyargencs"
     ],
     "name:ita_x_preferred":[
+        "Magyargencs"
+    ],
+    "name:lmo_x_preferred":[
         "Magyargencs"
     ],
     "name:msa_x_preferred":[
@@ -61,11 +73,17 @@
     "name:slv_x_preferred":[
         "Magyargencs"
     ],
+    "name:spa_x_preferred":[
+        "Magyargencs"
+    ],
     "name:vie_x_preferred":[
         "Magyargencs"
     ],
     "name:zho_x_preferred":[
         "\u6bdb\u7126\u5c14\u6839\u5947"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u624e\u5c14\u6839\u5947"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125874491,
-    "wof:lastmodified":1566650462,
+    "wof:lastmodified":1690931050,
     "wof:name":"Magyargencs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

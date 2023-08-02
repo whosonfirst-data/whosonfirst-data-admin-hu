@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Zsennye"
+    ],
+    "name:deu_x_preferred":[
+        "Zsennye"
+    ],
     "name:eng_x_preferred":[
         "Zsennye"
     ],
@@ -34,6 +40,9 @@
     "name:fra_x_preferred":[
         "Zsennye"
     ],
+    "name:gle_x_preferred":[
+        "Zsennye"
+    ],
     "name:hun_x_preferred":[
         "Zsennye"
     ],
@@ -44,6 +53,9 @@
         "Zsennye"
     ],
     "name:nld_x_preferred":[
+        "Zsennye"
+    ],
+    "name:por_x_preferred":[
         "Zsennye"
     ],
     "name:ron_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1125912395,
-    "wof:lastmodified":1566650474,
+    "wof:lastmodified":1690931064,
     "wof:name":"Zsennye",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

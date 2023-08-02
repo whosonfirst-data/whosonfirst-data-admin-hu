@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Arka"
+    ],
     "name:ces_x_preferred":[
         "Arka"
     ],
@@ -38,6 +41,9 @@
         "\u0622\u0631\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
+        "Arka"
+    ],
+    "name:gle_x_preferred":[
         "Arka"
     ],
     "name:heb_x_preferred":[
@@ -62,6 +68,9 @@
         "Arka"
     ],
     "name:pol_x_preferred":[
+        "Arka"
+    ],
+    "name:por_x_preferred":[
         "Arka"
     ],
     "name:ron_x_preferred":[
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":1125786367,
-    "wof:lastmodified":1566650496,
+    "wof:lastmodified":1690931080,
     "wof:name":"Arka",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

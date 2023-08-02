@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "K\u00e1ptalant\u00f3ti"
+    ],
     "name:ces_x_preferred":[
         "K\u00e1ptalant\u00f3ti"
     ],
@@ -34,10 +37,19 @@
     "name:fra_x_preferred":[
         "K\u00e1ptalant\u00f3ti"
     ],
+    "name:gle_x_preferred":[
+        "K\u00e1ptalant\u00f3ti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e4\u05d8\u05dc\u05e0\u05d8\u05d5\u05d8\u05d9"
+    ],
     "name:hun_x_preferred":[
         "K\u00e1ptalant\u00f3ti"
     ],
     "name:ita_x_preferred":[
+        "K\u00e1ptalant\u00f3ti"
+    ],
+    "name:lmo_x_preferred":[
         "K\u00e1ptalant\u00f3ti"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +68,9 @@
         "K\u00e1ptalant\u00f3ti"
     ],
     "name:slv_x_preferred":[
+        "K\u00e1ptalant\u00f3ti"
+    ],
+    "name:spa_x_preferred":[
         "K\u00e1ptalant\u00f3ti"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125881363,
-    "wof:lastmodified":1566650458,
+    "wof:lastmodified":1690931045,
     "wof:name":"K\u00e1ptalant\u00f3ti",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

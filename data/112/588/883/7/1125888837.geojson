@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Egyh\u00e1zasdengeleg"
+    ],
     "name:eng_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
@@ -29,6 +32,9 @@
         "Egyh\u00e1zasdengeleg"
     ],
     "name:fra_x_preferred":[
+        "Egyh\u00e1zasdengeleg"
+    ],
+    "name:gle_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
     "name:hun_x_preferred":[
@@ -49,6 +55,9 @@
     "name:pol_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
+    "name:por_x_preferred":[
+        "Egyh\u00e1zasdengeleg"
+    ],
     "name:ron_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
@@ -56,6 +65,9 @@
         "Egyh\u00e1zasdengeleg"
     ],
     "name:slv_x_preferred":[
+        "Egyh\u00e1zasdengeleg"
+    ],
+    "name:spa_x_preferred":[
         "Egyh\u00e1zasdengeleg"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125888837,
-    "wof:lastmodified":1566650458,
+    "wof:lastmodified":1690931045,
     "wof:name":"Egyh\u00e1zasdengeleg",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

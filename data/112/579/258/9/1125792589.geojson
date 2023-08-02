@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Mencshely"
+    ],
+    "name:ces_x_preferred":[
+        "Mencshely"
+    ],
     "name:eng_x_preferred":[
         "Mencshely"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Mencshely"
+    ],
+    "name:gle_x_preferred":[
+        "Mencshely"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05e6'\u05d4\u05d9\u05d9"
     ],
     "name:hun_x_preferred":[
         "Mencshely"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125792589,
-    "wof:lastmodified":1566650497,
+    "wof:lastmodified":1690931080,
     "wof:name":"Mencshely",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

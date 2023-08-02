@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Mecs\u00e9r"
+    ],
     "name:eng_x_preferred":[
         "Mecs\u00e9r"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "Mecs\u00e9r"
+    ],
+    "name:gle_x_preferred":[
+        "Mecs\u00e9r"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e6'\u05e8"
     ],
     "name:hun_x_preferred":[
         "Mecs\u00e9r"
@@ -50,6 +59,9 @@
         "Mecs\u00e9r"
     ],
     "name:pol_x_preferred":[
+        "Mecs\u00e9r"
+    ],
+    "name:por_x_preferred":[
         "Mecs\u00e9r"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125850325,
-    "wof:lastmodified":1566650495,
+    "wof:lastmodified":1690931078,
     "wof:name":"Mecs\u00e9r",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

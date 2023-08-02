@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "R\u00f6jt\u00f6kmuzsaj"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00f6jt\u00f6kmuzsaj"
+    ],
     "name:eng_x_preferred":[
         "R\u00f6jt\u00f6kmuzsaj"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "R\u00f6jt\u00f6kmuzsaj"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00f6jt\u00f6kmuzsaj"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d9\u05d8\u05e7\u05de\u05d5\u05d6'\u05d0\u05d9"
     ],
     "name:hun_x_preferred":[
         "R\u00f6jt\u00f6kmuzsaj"
@@ -53,6 +65,9 @@
         "R\u00f6jt\u00f6kmuzsaj"
     ],
     "name:pol_x_preferred":[
+        "R\u00f6jt\u00f6kmuzsaj"
+    ],
+    "name:por_x_preferred":[
         "R\u00f6jt\u00f6kmuzsaj"
     ],
     "name:ron_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125911217,
-    "wof:lastmodified":1566650473,
+    "wof:lastmodified":1690931064,
     "wof:name":"R\u00f6jt\u00f6kmuzsaj",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

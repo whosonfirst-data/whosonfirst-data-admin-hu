@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kir\u00e1lyszentistv\u00e1n"
+    ],
+    "name:ces_x_preferred":[
+        "Kir\u00e1lyszentistv\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Kir\u00e1lyszentistv\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Kir\u00e1lyszentistv\u00e1n"
     ],
@@ -33,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "Kir\u00e1lyszentistv\u00e1n"
+    ],
+    "name:gle_x_preferred":[
+        "Kir\u00e1lyszentistv\u00e1n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e8\u05d0\u05d9\u05e1\u05e0\u05d8\u05d0\u05d9\u05e9\u05d8\u05d5\u05d5\u05d0\u05df"
     ],
     "name:hun_x_preferred":[
         "Kir\u00e1lyszentistv\u00e1n"
@@ -63,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u62c9\u4f0a\u68ee\u8482\u4ec0\u7279\u4e07"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u62c9\u4f0a\u5723\u4f0a\u4ec0\u7279\u4e07"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1125983843,
-    "wof:lastmodified":1566650477,
+    "wof:lastmodified":1690931068,
     "wof:name":"Kir\u00e1lyszentistv\u00e1n",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

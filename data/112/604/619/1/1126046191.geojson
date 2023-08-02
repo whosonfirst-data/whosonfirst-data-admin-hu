@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ter\u00e9ny"
+    ],
+    "name:deu_x_preferred":[
+        "Ter\u00e9ny"
+    ],
     "name:eng_x_preferred":[
         "Ter\u00e9ny"
     ],
@@ -29,6 +35,9 @@
         "Ter\u00e9ny"
     ],
     "name:fra_x_preferred":[
+        "Ter\u00e9ny"
+    ],
+    "name:gle_x_preferred":[
         "Ter\u00e9ny"
     ],
     "name:hun_x_preferred":[
@@ -49,6 +58,9 @@
     "name:pol_x_preferred":[
         "Ter\u00e9ny"
     ],
+    "name:por_x_preferred":[
+        "Ter\u00e9ny"
+    ],
     "name:ron_x_preferred":[
         "Ter\u00e9ny"
     ],
@@ -56,6 +68,9 @@
         "Terany"
     ],
     "name:slv_x_preferred":[
+        "Ter\u00e9ny"
+    ],
+    "name:spa_x_preferred":[
         "Ter\u00e9ny"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1126046191,
-    "wof:lastmodified":1566650449,
+    "wof:lastmodified":1690931033,
     "wof:name":"Ter\u00e9ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

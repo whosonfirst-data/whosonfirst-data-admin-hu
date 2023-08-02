@@ -78,6 +78,9 @@
     "name:ces_x_preferred":[
         "Hajd\u00fa-Bihar"
     ],
+    "name:cym_x_preferred":[
+        "Sir Hajd\u00fa-Bihar"
+    ],
     "name:dan_x_preferred":[
         "Hajd\u00fa-Bihar"
     ],
@@ -111,6 +114,9 @@
     "name:fra_x_preferred":[
         "Hajd\u00fa-Bihar"
     ],
+    "name:frr_x_preferred":[
+        "Hajd\u00fa-Bihar"
+    ],
     "name:glg_x_preferred":[
         "Hajd\u00fa-Bihar"
     ],
@@ -133,7 +139,8 @@
         "Hajd\u00fa-Bihar"
     ],
     "name:hun_x_variant":[
-        "Hajd\u00fa-Bihar megye"
+        "Hajd\u00fa-Bihar megye",
+        "Hajd\u00fa-Bihar v\u00e1rmegye"
     ],
     "name:ind_x_preferred":[
         "Hajd\u00fa-Bihar"
@@ -177,14 +184,26 @@
     "name:msa_x_variant":[
         "Hajd\u00fa-Bihar"
     ],
+    "name:myv_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0443-\u0411\u0438\u0445\u0430\u0440"
+    ],
     "name:nan_x_preferred":[
         "Hajd\u00fa-Bihar"
     ],
     "name:nld_x_preferred":[
         "Hajd\u00fa-Bihar"
     ],
+    "name:nno_x_preferred":[
+        "Hajd\u00fa-Bihar"
+    ],
     "name:nob_x_preferred":[
         "Hajdu-Bihar Fylke"
+    ],
+    "name:nob_x_variant":[
+        "Hajd\u00fa-Bihar"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0443-\u0411\u0438\u0445\u0430\u0440"
     ],
     "name:pnb_x_preferred":[
         "\u06c1\u0627\u0626\u06cc\u062f\u0648 \u0628\u06cc\u06c1\u0627\u0631 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -260,6 +279,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Hajd\u00fa-Bihar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8c6a\u4f0a\u675c-\u6bd4\u8c6a\u5c14\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u8c6a\u4f0a\u675c-\u6bd4\u8c6a\u723e\u5dde"
@@ -371,7 +393,7 @@
         "wd:id":"Q185368"
     },
     "wof:country":"HU",
-    "wof:geomhash":"e42c4c660ae2fa0fcf9a1bc3211ff640",
+    "wof:geomhash":"fc82d7c8d03bd1251509ac2d13fa233b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -387,7 +409,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1690930641,
     "wof:name":"Hajd\u00fa-Bihar",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

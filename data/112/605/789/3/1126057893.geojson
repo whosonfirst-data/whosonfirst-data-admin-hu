@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Olasz"
+    ],
     "name:deu_x_preferred":[
         "Olasz"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Olasz"
     ],
+    "name:gle_x_preferred":[
+        "Olasz"
+    ],
     "name:hrv_x_preferred":[
         "Olas"
     ],
@@ -44,6 +50,9 @@
         "Olasz"
     ],
     "name:ita_x_preferred":[
+        "Olasz"
+    ],
+    "name:lmo_x_preferred":[
         "Olasz"
     ],
     "name:msa_x_preferred":[
@@ -58,13 +67,22 @@
     "name:pol_x_preferred":[
         "Olasz"
     ],
+    "name:por_x_preferred":[
+        "Olasz"
+    ],
     "name:ron_x_preferred":[
         "Olasz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0430\u0441"
     ],
     "name:slk_x_preferred":[
         "Olasz"
     ],
     "name:slv_x_preferred":[
+        "Olasz"
+    ],
+    "name:spa_x_preferred":[
         "Olasz"
     ],
     "name:und_x_variant":[
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1126057893,
-    "wof:lastmodified":1566650449,
+    "wof:lastmodified":1690931032,
     "wof:name":"Olasz",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "K\u00e9tbodony"
+    ],
     "name:ceb_x_preferred":[
         "K\u00e9tbodony"
     ],
@@ -32,6 +35,9 @@
         "K\u00e9tbodony"
     ],
     "name:fra_x_preferred":[
+        "K\u00e9tbodony"
+    ],
+    "name:gle_x_preferred":[
         "K\u00e9tbodony"
     ],
     "name:hun_x_preferred":[
@@ -52,6 +58,9 @@
     "name:pol_x_preferred":[
         "K\u00e9tbodony"
     ],
+    "name:por_x_preferred":[
+        "K\u00e9tbodony"
+    ],
     "name:ron_x_preferred":[
         "K\u00e9tbodony"
     ],
@@ -59,6 +68,9 @@
         "Bodo\u0148"
     ],
     "name:slv_x_preferred":[
+        "K\u00e9tbodony"
+    ],
+    "name:spa_x_preferred":[
         "K\u00e9tbodony"
     ],
     "name:swe_x_preferred":[
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1125855991,
-    "wof:lastmodified":1566650494,
+    "wof:lastmodified":1690931076,
     "wof:name":"K\u00e9tbodony",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

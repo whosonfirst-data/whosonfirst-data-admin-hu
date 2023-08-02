@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "P\u00fcski"
+    ],
     "name:eng_x_preferred":[
         "P\u00fcski"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "P\u00fcski"
+    ],
+    "name:gle_x_preferred":[
+        "P\u00fcski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e9\u05e7\u05d9"
     ],
     "name:hun_x_preferred":[
         "P\u00fcski"
@@ -50,6 +59,9 @@
         "P\u00fcski"
     ],
     "name:pol_x_preferred":[
+        "P\u00fcski"
+    ],
+    "name:por_x_preferred":[
         "P\u00fcski"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125909363,
-    "wof:lastmodified":1566650465,
+    "wof:lastmodified":1690931053,
     "wof:name":"P\u00fcski",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

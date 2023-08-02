@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Balinka"
+    ],
     "name:ces_x_preferred":[
         "Balinka"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Balinka"
     ],
+    "name:gle_x_preferred":[
+        "Balinka"
+    ],
     "name:hun_x_preferred":[
         "Balinka"
     ],
@@ -53,6 +59,9 @@
         "Balinka"
     ],
     "name:nld_x_preferred":[
+        "Balinka"
+    ],
+    "name:por_x_preferred":[
         "Balinka"
     ],
     "name:ron_x_preferred":[
@@ -69,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u6797\u8003"
+    ],
+    "name:zho_x_variant":[
+        "\u5305\u6797\u8003"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1125962413,
-    "wof:lastmodified":1566650471,
+    "wof:lastmodified":1690931059,
     "wof:name":"Balinka",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

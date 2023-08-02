@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "M\u00e1traszentimre"
+    ],
     "name:deu_x_preferred":[
         "M\u00e1traszentimre"
     ],
@@ -34,10 +37,19 @@
     "name:fra_x_preferred":[
         "M\u00e1traszentimre"
     ],
+    "name:gle_x_preferred":[
+        "M\u00e1traszentimre"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d8\u05e8\u05d0\u05e1\u05e0\u05d8\u05d0\u05d9\u05de\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "M\u00e1traszentimre"
     ],
     "name:ita_x_preferred":[
+        "M\u00e1traszentimre"
+    ],
+    "name:lmo_x_preferred":[
         "M\u00e1traszentimre"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +68,9 @@
         "Doln\u00e1 Huta"
     ],
     "name:slv_x_preferred":[
+        "M\u00e1traszentimre"
+    ],
+    "name:spa_x_preferred":[
         "M\u00e1traszentimre"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1126027025,
-    "wof:lastmodified":1566650448,
+    "wof:lastmodified":1690931030,
     "wof:name":"M\u00e1traszentimre",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

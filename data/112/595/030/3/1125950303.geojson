@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Epl\u00e9ny"
+    ],
+    "name:ces_x_preferred":[
+        "Epl\u00e9ny"
+    ],
     "name:eng_x_preferred":[
         "Epl\u00e9ny"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Epl\u00e9ny"
+    ],
+    "name:gle_x_preferred":[
+        "Epl\u00e9ny"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05dc\u05df"
     ],
     "name:hun_x_preferred":[
         "Epl\u00e9ny"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125950303,
-    "wof:lastmodified":1566650443,
+    "wof:lastmodified":1690931028,
     "wof:name":"Epl\u00e9ny",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kisjakabfalva"
+    ],
     "name:deu_x_historical":[
         "Jackfall"
     ],
@@ -43,6 +46,9 @@
     "name:fra_x_preferred":[
         "Kisjakabfalva"
     ],
+    "name:gle_x_preferred":[
+        "Kisjakabfalva"
+    ],
     "name:hrv_x_preferred":[
         "Jakobovo"
     ],
@@ -50,6 +56,9 @@
         "Kisjakabfalva"
     ],
     "name:ita_x_preferred":[
+        "Kisjakabfalva"
+    ],
+    "name:lmo_x_preferred":[
         "Kisjakabfalva"
     ],
     "name:msa_x_preferred":[
@@ -64,6 +73,9 @@
     "name:pol_x_preferred":[
         "Kisjakabfalva"
     ],
+    "name:por_x_preferred":[
+        "Kisjakabfalva"
+    ],
     "name:ron_x_preferred":[
         "Kisjakabfalva"
     ],
@@ -71,6 +83,12 @@
         "Kisjakabfalva"
     ],
     "name:slv_x_preferred":[
+        "Kisjakabfalva"
+    ],
+    "name:spa_x_preferred":[
+        "Kisjakabfalva"
+    ],
+    "name:uzb_x_preferred":[
         "Kisjakabfalva"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":1126057889,
-    "wof:lastmodified":1566650449,
+    "wof:lastmodified":1690931032,
     "wof:name":"Kisjakabfalva",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

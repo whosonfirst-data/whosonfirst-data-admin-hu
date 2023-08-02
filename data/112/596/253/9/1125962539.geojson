@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nek\u00e9zseny"
+    ],
     "name:ces_x_preferred":[
         "Nek\u00e9zseny"
     ],
@@ -38,6 +41,9 @@
         "\u0646\u06a9\u0698\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Nek\u00e9zseny"
+    ],
+    "name:gle_x_preferred":[
         "Nek\u00e9zseny"
     ],
     "name:heb_x_preferred":[
@@ -59,6 +65,9 @@
         "Nek\u00e9zseny"
     ],
     "name:pol_x_preferred":[
+        "Nek\u00e9zseny"
+    ],
+    "name:por_x_preferred":[
         "Nek\u00e9zseny"
     ],
     "name:ron_x_preferred":[
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125962539,
-    "wof:lastmodified":1566650471,
+    "wof:lastmodified":1690931061,
     "wof:name":"Nek\u00e9zseny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
+    "name:ces_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
     "name:deu_x_preferred":[
         "Soml\u00f3jen\u0151"
     ],
@@ -31,13 +37,25 @@
     "name:epo_x_preferred":[
         "Soml\u00f3jen\u0151"
     ],
+    "name:fin_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
     "name:fra_x_preferred":[
         "Soml\u00f3jen\u0151"
+    ],
+    "name:gle_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05de\u05dc\u05d5\u05d9\u05e0\u05d4"
     ],
     "name:hun_x_preferred":[
         "Soml\u00f3jen\u0151"
     ],
     "name:ita_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
+    "name:lmo_x_preferred":[
         "Soml\u00f3jen\u0151"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +74,9 @@
         "Soml\u00f3jen\u0151"
     ],
     "name:slv_x_preferred":[
+        "Soml\u00f3jen\u0151"
+    ],
+    "name:spa_x_preferred":[
         "Soml\u00f3jen\u0151"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +140,7 @@
         }
     ],
     "wof:id":1126047287,
-    "wof:lastmodified":1566650451,
+    "wof:lastmodified":1690931035,
     "wof:name":"Soml\u00f3jen\u0151",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

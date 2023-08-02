@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00c1brah\u00e1mhegy"
+    ],
     "name:ces_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
+    "name:gle_x_preferred":[
+        "\u00c1brah\u00e1mhegy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e8\u05d4\u05d0\u05de\u05d4\u05d2'"
+    ],
     "name:hun_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
     "name:ita_x_preferred":[
+        "\u00c1brah\u00e1mhegy"
+    ],
+    "name:lmo_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +68,9 @@
         "\u00c1brah\u00e1mhegy"
     ],
     "name:slv_x_preferred":[
+        "\u00c1brah\u00e1mhegy"
+    ],
+    "name:spa_x_preferred":[
         "\u00c1brah\u00e1mhegy"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125986659,
-    "wof:lastmodified":1566650478,
+    "wof:lastmodified":1690931070,
     "wof:name":"\u00c1brah\u00e1mhegy",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

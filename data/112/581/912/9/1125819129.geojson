@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hejce"
+    ],
     "name:deu_x_preferred":[
         "Hejce"
     ],
@@ -35,6 +38,9 @@
         "\u0647\u06cc\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
+        "Hejce"
+    ],
+    "name:gle_x_preferred":[
         "Hejce"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Hejce"
     ],
+    "name:por_x_preferred":[
+        "Hejce"
+    ],
     "name:ron_x_preferred":[
         "Hejce"
     ],
@@ -71,6 +80,9 @@
         "Hejce"
     ],
     "name:swe_x_preferred":[
+        "Hejce"
+    ],
+    "name:uzb_x_preferred":[
         "Hejce"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125819129,
-    "wof:lastmodified":1566650455,
+    "wof:lastmodified":1690931039,
     "wof:name":"Hejce",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

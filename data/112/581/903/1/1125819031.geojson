@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Balatonhenye"
+    ],
     "name:ces_x_preferred":[
         "Balatonhenye"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "Balatonhenye"
     ],
+    "name:gle_x_preferred":[
+        "Balatonhenye"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05d4\u05e0\u05d9\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Balatonhenye"
     ],
     "name:ita_x_preferred":[
+        "Balatonhenye"
+    ],
+    "name:lmo_x_preferred":[
         "Balatonhenye"
     ],
     "name:msa_x_preferred":[
@@ -61,11 +73,17 @@
     "name:slv_x_preferred":[
         "Balatonhenye"
     ],
+    "name:spa_x_preferred":[
+        "Balatonhenye"
+    ],
     "name:vie_x_preferred":[
         "Balatonhenye"
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u6d1b\u901a\u6d77\u6d85"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u62c9\u987f\u6d77\u6d85"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125819031,
-    "wof:lastmodified":1566650455,
+    "wof:lastmodified":1690931040,
     "wof:name":"Balatonhenye",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

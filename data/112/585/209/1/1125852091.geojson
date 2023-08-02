@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Farkaslyuk"
+    ],
     "name:bar_x_preferred":[
         "Farkaslyuk"
     ],
@@ -38,6 +41,9 @@
         "Farkaslyuk"
     ],
     "name:fra_x_preferred":[
+        "Farkaslyuk"
+    ],
+    "name:gle_x_preferred":[
         "Farkaslyuk"
     ],
     "name:heb_x_preferred":[
@@ -61,6 +67,9 @@
     "name:pol_x_preferred":[
         "Farkaslyuk"
     ],
+    "name:por_x_preferred":[
+        "Farkaslyuk"
+    ],
     "name:ron_x_preferred":[
         "Farkaslyuk"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "Farkaslyuki B\u00e1nyatelep"
+    ],
+    "name:uzb_x_preferred":[
+        "Farkaslyuk"
     ],
     "name:vie_x_preferred":[
         "Farkaslyuk"
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125852091,
-    "wof:lastmodified":1566650495,
+    "wof:lastmodified":1690931078,
     "wof:name":"Farkaslyuk",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

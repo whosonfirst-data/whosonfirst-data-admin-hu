@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "G\u00f6d"
+    ],
     "name:ceb_x_preferred":[
         "G\u00f6d"
     ],
@@ -46,6 +49,9 @@
     "name:fra_x_preferred":[
         "G\u00f6d"
     ],
+    "name:gle_x_preferred":[
+        "G\u00f6d"
+    ],
     "name:hun_x_preferred":[
         "G\u00f6d"
     ],
@@ -62,6 +68,9 @@
         "G\u00f6d"
     ],
     "name:pol_x_preferred":[
+        "G\u00f6d"
+    ],
+    "name:por_x_preferred":[
         "G\u00f6d"
     ],
     "name:ron_x_preferred":[
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":1126047127,
-    "wof:lastmodified":1566650450,
+    "wof:lastmodified":1690931033,
     "wof:name":"Fels\u0151g\u00f6d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

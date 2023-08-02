@@ -51,6 +51,9 @@
     "name:fra_x_preferred":[
         "Szigethalom"
     ],
+    "name:gle_x_preferred":[
+        "Szigethalom"
+    ],
     "name:hbs_x_preferred":[
         "Szigethalom"
     ],
@@ -84,6 +87,9 @@
     "name:pol_x_preferred":[
         "Szigethalom"
     ],
+    "name:por_x_preferred":[
+        "Szigethalom"
+    ],
     "name:ron_x_preferred":[
         "Szigethalom"
     ],
@@ -113,6 +119,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Szigethalom"
+    ],
+    "name:zho_x_preferred":[
+        "\u9521\u76d6\u7279\u8c6a\u6d1b\u59c6"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*Pest",
@@ -168,7 +177,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345325,
+    "wof:lastmodified":1690930723,
     "wof:name":"Szigethalom",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

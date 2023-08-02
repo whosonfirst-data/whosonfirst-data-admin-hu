@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Muhi"
+    ],
     "name:ces_x_preferred":[
         "Muhi"
     ],
@@ -38,6 +41,9 @@
         "\u0645\u0648\u0647\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Muhi"
+    ],
+    "name:gle_x_preferred":[
         "Muhi"
     ],
     "name:heb_x_preferred":[
@@ -67,6 +73,9 @@
     "name:pol_x_preferred":[
         "Muhi"
     ],
+    "name:por_x_preferred":[
+        "Muhi"
+    ],
     "name:ron_x_preferred":[
         "Muhi"
     ],
@@ -78,6 +87,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0443\u0445\u0438"
+    ],
+    "name:uzb_x_preferred":[
+        "Muhi"
     ],
     "name:vie_x_preferred":[
         "Muhi"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":1125796705,
-    "wof:lastmodified":1566650497,
+    "wof:lastmodified":1690931081,
     "wof:name":"Muhi",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

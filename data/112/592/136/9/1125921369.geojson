@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Fels\u0151rajk"
+    ],
     "name:ces_x_preferred":[
         "Fels\u0151rajk"
     ],
@@ -37,10 +40,16 @@
     "name:fra_x_preferred":[
         "Fels\u0151rajk"
     ],
+    "name:gle_x_preferred":[
+        "Fels\u0151rajk"
+    ],
     "name:hun_x_preferred":[
         "Fels\u0151rajk"
     ],
     "name:ita_x_preferred":[
+        "Fels\u0151rajk"
+    ],
+    "name:lmo_x_preferred":[
         "Fels\u0151rajk"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +68,12 @@
         "Fels\u0151rajk"
     ],
     "name:slv_x_preferred":[
+        "Fels\u0151rajk"
+    ],
+    "name:spa_x_preferred":[
+        "Fels\u0151rajk"
+    ],
+    "name:uzb_x_preferred":[
         "Fels\u0151rajk"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1125921369,
-    "wof:lastmodified":1566650441,
+    "wof:lastmodified":1690931026,
     "wof:name":"Fels\u0151rajk",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

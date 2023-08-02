@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Balatonszepezd"
+    ],
     "name:ces_x_preferred":[
         "Balatonszepezd"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "Balatonszepezd"
+    ],
+    "name:gle_x_preferred":[
+        "Balatonszepezd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05e1\u05e4\u05d6\u05d3"
     ],
     "name:hun_x_preferred":[
         "Balatonszepezd"
@@ -74,7 +83,8 @@
         "\u9c8d\u6d1b\u901a\u585e\u6d3e\u5179\u5fb7"
     ],
     "name:zho_x_variant":[
-        "\u52b3\u6ce2\u4ec0\u8003"
+        "\u52b3\u6ce2\u4ec0\u8003",
+        "\u5df4\u62c9\u987f\u585e\u6d3e\u5179\u5fb7"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1125816009,
-    "wof:lastmodified":1566650457,
+    "wof:lastmodified":1690931043,
     "wof:name":"Balatonszepezd",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

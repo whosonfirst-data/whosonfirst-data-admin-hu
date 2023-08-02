@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "V\u00e1rgesztes"
+    ],
     "name:eng_x_preferred":[
         "V\u00e1rgesztes"
     ],
@@ -32,6 +35,9 @@
         "\u0648\u0627\u0631\u06af\u0633\u062a\u0634"
     ],
     "name:fra_x_preferred":[
+        "V\u00e1rgesztes"
+    ],
+    "name:gle_x_preferred":[
         "V\u00e1rgesztes"
     ],
     "name:hun_x_preferred":[
@@ -47,6 +53,12 @@
         "V\u00e1rgesztes"
     ],
     "name:nld_x_preferred":[
+        "V\u00e1rgesztes"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00e1rgesztes"
+    ],
+    "name:por_x_preferred":[
         "V\u00e1rgesztes"
     ],
     "name:ron_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125942245,
-    "wof:lastmodified":1566650436,
+    "wof:lastmodified":1690931020,
     "wof:name":"V\u00e1rgesztes",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

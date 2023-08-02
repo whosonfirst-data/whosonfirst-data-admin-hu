@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.9963742058,47.5008946846,18.9963742058,47.5008946846",
+    "geom:bbox":"18.996374,47.500895,18.996374,47.500895",
     "geom:latitude":47.500895,
     "geom:longitude":18.996374,
     "iso:country":"HU",
@@ -26,11 +26,17 @@
     "name:cat_x_preferred":[
         "Hegyvid\u00e9k"
     ],
+    "name:ces_x_preferred":[
+        "Vrchovina"
+    ],
     "name:deu_x_preferred":[
         "Hegyvid\u00e9k"
     ],
     "name:eng_x_preferred":[
         "Hegyvid\u00e9k"
+    ],
+    "name:eng_x_variant":[
+        "Budapest District"
     ],
     "name:epo_x_preferred":[
         "Hegyvid\u00e9k"
@@ -43,6 +49,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d3\u05e4\u05e9\u05d8/\u05d4\u05d2\u05d5\u05d5\u05d9\u05d3\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "\u05d4\u05d2'\u05d5\u05d5\u05d9\u05d3\u05e7"
     ],
     "name:hun_x_preferred":[
         "Hegyvid\u00e9kLL"
@@ -72,8 +81,14 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442/\u0425\u0435\u0491\u0456\u0432\u0456\u0434\u0435\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u0425\u0435\u0491\u0456\u0432\u0456\u0434\u0435\u043a"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XII"
+    ],
+    "name:vie_x_variant":[
+        "Qu\u1eadn"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e8c\u533a"
@@ -92,7 +107,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361717,
-    "wof:geomhash":"9f6712f96e6e034040cd2ca6b1088b1e",
+    "wof:geomhash":"1177a50be36311d59068b07595971547",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":1108940387,
-    "wof:lastmodified":1566650012,
+    "wof:lastmodified":1690930646,
     "wof:name":"Hegyvidek",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -114,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.99637420582275,
-    47.50089468460747,
-    18.99637420582275,
-    47.50089468460747
+    18.996374,
+    47.500895,
+    18.996374,
+    47.500895
 ],
-  "geometry": {"coordinates":[18.99637420582275,47.50089468460747],"type":"Point"}
+  "geometry": {"coordinates":[18.996374,47.500895],"type":"Point"}
 }

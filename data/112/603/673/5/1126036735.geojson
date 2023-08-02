@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Zalah\u00e1sh\u00e1gy"
+    ],
     "name:deu_x_preferred":[
         "Zalah\u00e1sh\u00e1gy"
     ],
@@ -35,6 +38,9 @@
         "\u0632\u0627\u0644\u0627\u0647\u0627\u0634\u0647\u0627\u06af\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Zalah\u00e1sh\u00e1gy"
+    ],
+    "name:gle_x_preferred":[
         "Zalah\u00e1sh\u00e1gy"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
         "Zalah\u00e1sh\u00e1gy"
     ],
     "name:slv_x_preferred":[
+        "Zalah\u00e1sh\u00e1gy"
+    ],
+    "name:spa_x_preferred":[
         "Zalah\u00e1sh\u00e1gy"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1126036735,
-    "wof:lastmodified":1566650451,
+    "wof:lastmodified":1690931035,
     "wof:name":"Zalah\u00e1sh\u00e1gy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

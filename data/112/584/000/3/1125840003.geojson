@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00e1torliget"
+    ],
     "name:ceb_x_preferred":[
         "B\u00e1torliget"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "B\u00e1torliget"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e1torliget"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05d5\u05e8\u05dc\u05d9\u05d2\u05d8"
     ],
     "name:hun_x_preferred":[
         "Porh\u00e1za Tanya"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125840003,
-    "wof:lastmodified":1566650498,
+    "wof:lastmodified":1690931081,
     "wof:name":"B\u00e1torliget",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

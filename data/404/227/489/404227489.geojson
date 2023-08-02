@@ -45,6 +45,12 @@
     "name:ces_x_preferred":[
         "K\u00f6z\u00e9p-Magyarorsz\u00e1g"
     ],
+    "name:cym_x_preferred":[
+        "Canolbarth Hwngari"
+    ],
+    "name:dan_x_preferred":[
+        "Central Ungarn"
+    ],
     "name:deu_x_preferred":[
         "Mittelungarn"
     ],
@@ -79,9 +85,6 @@
         "Sredi\u0161nja Ma\u0111arska"
     ],
     "name:hun_x_preferred":[
-        "K\u00f6z\u00e9p-Magyarorsz\u00e1g"
-    ],
-    "name:hun_x_variant":[
         "K\u00f6z\u00e9p-Magyarorsz\u00e1g"
     ],
     "name:ita_x_preferred":[
@@ -184,7 +187,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1620343352,
+    "wof:lastmodified":1690931019,
     "wof:name":"Central Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

@@ -38,6 +38,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0634"
     ],
+    "name:arg_x_preferred":[
+        "P\u00e9cs"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a\u0634"
+    ],
     "name:ast_x_preferred":[
         "P\u00e9cs"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041f\u0435\u0447"
+    ],
+    "name:ban_x_preferred":[
+        "P\u00e9cs"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0435\u0447"
@@ -114,6 +123,9 @@
     "name:fra_x_preferred":[
         "P\u00e9cs"
     ],
+    "name:gle_x_preferred":[
+        "P\u00e9cs"
+    ],
     "name:glg_x_preferred":[
         "P\u00e9cs"
     ],
@@ -172,11 +184,17 @@
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e9\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0436\u0448"
+    ],
     "name:kor_x_preferred":[
         "\ud398\uce58"
     ],
     "name:lat_x_preferred":[
         "Sopianae"
+    ],
+    "name:lat_x_variant":[
+        "Quinque Ecclesi\u00e6"
     ],
     "name:lav_x_preferred":[
         "P\u0113\u010da"
@@ -196,17 +214,26 @@
     "name:mar_x_variant":[
         "\u092a\u0947\u0915\u094d\u0938"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u044d\u0447"
+    ],
     "name:mhr_x_preferred":[
         "\u041f\u0435\u0447"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0447"
     ],
+    "name:mlt_x_preferred":[
+        "P\u00e9cs"
+    ],
     "name:mrj_x_preferred":[
         "\u041f\u0435\u0447"
     ],
     "name:msa_x_preferred":[
         "P\u00e9cs"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0435\u0447"
     ],
     "name:nah_x_preferred":[
         "P\u00e9cs"
@@ -244,6 +271,9 @@
     "name:por_x_preferred":[
         "P\u00e9cs"
     ],
+    "name:pus_x_preferred":[
+        "\u067e\u0686"
+    ],
     "name:que_x_preferred":[
         "P\u00e9cs"
     ],
@@ -252,6 +282,9 @@
     ],
     "name:ron_x_preferred":[
         "P\u00e9cs"
+    ],
+    "name:rue_x_preferred":[
+        "\u041f\u0435\u0439\u0447"
     ],
     "name:rup_x_preferred":[
         "P\u00e9cs"
@@ -274,6 +307,9 @@
     "name:slv_x_preferred":[
         "P\u00e9cs"
     ],
+    "name:smn_x_preferred":[
+        "P\u00e9cs"
+    ],
     "name:spa_x_preferred":[
         "P\u00e9cs"
     ],
@@ -292,6 +328,9 @@
     "name:swe_x_preferred":[
         "P\u00e9cs"
     ],
+    "name:szl_x_preferred":[
+        "P\u00e9cs"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc7\u0b95\u0bcd\u0bb8\u0bcd"
     ],
@@ -303,6 +342,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1e\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1b\u0e0a"
     ],
     "name:tpi_x_preferred":[
         "P\u00e9cs"
@@ -318,6 +360,12 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u06a9\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Pech"
+    ],
+    "name:vec_x_preferred":[
+        "P\u00e9cs"
     ],
     "name:vep_x_preferred":[
         "Pe\u010d"
@@ -472,7 +520,7 @@
         }
     ],
     "wof:id":85906273,
-    "wof:lastmodified":1582345309,
+    "wof:lastmodified":1690930629,
     "wof:name":"Fuenfkirchen",
     "wof:parent_id":101751663,
     "wof:placetype":"neighbourhood",

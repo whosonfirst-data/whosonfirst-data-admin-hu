@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "M\u00e1lyinka"
+    ],
     "name:ceb_x_preferred":[
         "M\u00e1lyinka"
     ],
@@ -41,6 +44,9 @@
         "\u0645\u0627\u0644\u06cc\u06cc\u0646\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
+        "M\u00e1lyinka"
+    ],
+    "name:gle_x_preferred":[
         "M\u00e1lyinka"
     ],
     "name:heb_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "M\u00e1lyinka"
     ],
+    "name:por_x_preferred":[
+        "M\u00e1lyinka"
+    ],
     "name:ron_x_preferred":[
         "M\u00e1lyinka"
     ],
@@ -74,6 +83,9 @@
         "M\u00e1lyinka"
     ],
     "name:swe_x_preferred":[
+        "M\u00e1lyinka"
+    ],
+    "name:uzb_x_preferred":[
         "M\u00e1lyinka"
     ],
     "name:vie_x_preferred":[
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":1125816263,
-    "wof:lastmodified":1566650454,
+    "wof:lastmodified":1690931038,
     "wof:name":"M\u00e1lyinka",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

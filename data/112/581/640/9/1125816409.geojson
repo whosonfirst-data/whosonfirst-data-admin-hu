@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Salf\u00f6ld"
+    ],
     "name:aze_x_preferred":[
         "\u015ealf\u00f6ld"
+    ],
+    "name:ces_x_preferred":[
+        "Salf\u00f6ld"
+    ],
+    "name:deu_x_preferred":[
+        "Salf\u00f6ld"
     ],
     "name:eng_x_preferred":[
         "Salf\u00f6ld"
@@ -37,10 +46,19 @@
     "name:fra_x_preferred":[
         "Salf\u00f6ld"
     ],
+    "name:gle_x_preferred":[
+        "Salf\u00f6ld"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05dc\u05e4\u05dc\u05d3"
+    ],
     "name:hun_x_preferred":[
         "Salf\u00f6ld"
     ],
     "name:ita_x_preferred":[
+        "Salf\u00f6ld"
+    ],
+    "name:lmo_x_preferred":[
         "Salf\u00f6ld"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +77,9 @@
         "Salf\u00f6ld"
     ],
     "name:slv_x_preferred":[
+        "Salf\u00f6ld"
+    ],
+    "name:spa_x_preferred":[
         "Salf\u00f6ld"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +140,7 @@
         }
     ],
     "wof:id":1125816409,
-    "wof:lastmodified":1566650456,
+    "wof:lastmodified":1690931041,
     "wof:name":"Salf\u00f6ld",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

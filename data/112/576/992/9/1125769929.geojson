@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Feny\u0151f\u0151"
+    ],
     "name:ces_x_preferred":[
         "Feny\u0151f\u0151"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "Feny\u0151f\u0151"
+    ],
+    "name:gle_x_preferred":[
+        "Feny\u0151f\u0151"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d9\u05d9\u05e4\u05d4"
     ],
     "name:hun_x_preferred":[
         "Feny\u0151f\u0151"
@@ -50,6 +59,9 @@
         "Feny\u0151f\u0151"
     ],
     "name:pol_x_preferred":[
+        "Feny\u0151f\u0151"
+    ],
+    "name:por_x_preferred":[
         "Feny\u0151f\u0151"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125769929,
-    "wof:lastmodified":1566650493,
+    "wof:lastmodified":1690931075,
     "wof:name":"Feny\u0151f\u0151",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

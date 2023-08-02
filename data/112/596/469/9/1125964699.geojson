@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bugacpusztah\u00e1za"
+    ],
     "name:ceb_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
+    "name:gle_x_preferred":[
+        "Bugacpusztah\u00e1za"
+    ],
     "name:hrv_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
@@ -44,6 +50,9 @@
         "Bugacpusztah\u00e1za"
     ],
     "name:ita_x_preferred":[
+        "Bugacpusztah\u00e1za"
+    ],
+    "name:lmo_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
+    "name:por_x_preferred":[
+        "Bugacpusztah\u00e1za"
+    ],
     "name:ron_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
@@ -67,7 +79,13 @@
     "name:slv_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
+    "name:spa_x_preferred":[
+        "Bugacpusztah\u00e1za"
+    ],
     "name:swe_x_preferred":[
+        "Bugacpusztah\u00e1za"
+    ],
+    "name:uzb_x_preferred":[
         "Bugacpusztah\u00e1za"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125964699,
-    "wof:lastmodified":1566650471,
+    "wof:lastmodified":1690931061,
     "wof:name":"Bugacpusztah\u00e1za",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

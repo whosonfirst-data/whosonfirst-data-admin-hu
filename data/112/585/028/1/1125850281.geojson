@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kisvars\u00e1ny"
+    ],
     "name:deu_x_preferred":[
         "Kisvars\u00e1ny"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Kisvars\u00e1ny"
+    ],
+    "name:gle_x_preferred":[
+        "Kisvars\u00e1ny"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e9\u05d5\u05d5\u05e8\u05e9\u05d0\u05df"
     ],
     "name:hun_x_preferred":[
         "Kisvars\u00e1ny"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125850281,
-    "wof:lastmodified":1566650495,
+    "wof:lastmodified":1690931077,
     "wof:name":"Kisvars\u00e1ny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

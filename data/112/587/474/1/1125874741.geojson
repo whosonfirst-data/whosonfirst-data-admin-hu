@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tiszaug"
+    ],
     "name:eng_x_preferred":[
         "Tiszaug"
     ],
@@ -32,6 +35,9 @@
         "\u062a\u06cc\u0633\u0627\u0648\u06af"
     ],
     "name:fra_x_preferred":[
+        "Tiszaug"
+    ],
+    "name:gle_x_preferred":[
         "Tiszaug"
     ],
     "name:hrv_x_preferred":[
@@ -55,6 +61,9 @@
     "name:pol_x_preferred":[
         "Tiszaug"
     ],
+    "name:por_x_preferred":[
+        "Tiszaug"
+    ],
     "name:ron_x_preferred":[
         "Tiszaug"
     ],
@@ -65,6 +74,9 @@
         "Tiszaug"
     ],
     "name:slv_x_preferred":[
+        "Tiszaug"
+    ],
+    "name:uzb_x_preferred":[
         "Tiszaug"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125874741,
-    "wof:lastmodified":1566650463,
+    "wof:lastmodified":1690931051,
     "wof:name":"Tiszaug",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

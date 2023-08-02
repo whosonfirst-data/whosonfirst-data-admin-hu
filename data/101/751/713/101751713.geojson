@@ -26,8 +26,17 @@
     "name:ara_x_preferred":[
         "\u0634\u0648\u0628\u0631\u0648\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Sopron"
+    ],
+    "name:arz_x_preferred":[
+        "\u0634\u0648\u0628\u0631\u0648\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u015eopron"
+    ],
+    "name:ban_x_preferred":[
+        "Sopron"
     ],
     "name:bar_x_preferred":[
         "\u00d6denburg"
@@ -101,6 +110,9 @@
         "Sopron"
     ],
     "name:fra_x_preferred":[
+        "Sopron"
+    ],
+    "name:gle_x_preferred":[
         "Sopron"
     ],
     "name:glg_x_preferred":[
@@ -185,6 +197,12 @@
     "name:nor_x_preferred":[
         "Sopron"
     ],
+    "name:oss_x_preferred":[
+        "\u0428\u043e\u043f\u0440\u043e\u043d"
+    ],
+    "name:pms_x_preferred":[
+        "Sopron"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u067e\u0631\u0648\u0646"
     ],
@@ -199,6 +217,9 @@
     ],
     "name:ron_x_preferred":[
         "Sopron"
+    ],
+    "name:rue_x_preferred":[
+        "\u0428\u043e\u043f\u0440\u043e\u043d"
     ],
     "name:rup_x_preferred":[
         "Sopron"
@@ -215,6 +236,9 @@
     "name:slv_x_preferred":[
         "\u0160opron"
     ],
+    "name:smn_x_preferred":[
+        "Sopron"
+    ],
     "name:spa_x_preferred":[
         "Sopron"
     ],
@@ -225,6 +249,9 @@
         "\u0160opron"
     ],
     "name:swe_x_preferred":[
+        "Sopron"
+    ],
+    "name:szl_x_preferred":[
         "Sopron"
     ],
     "name:tat_x_preferred":[
@@ -247,6 +274,12 @@
     ],
     "name:war_x_preferred":[
         "Sopron"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8096\u666e\u6717"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e8\u10dd\u10de\u10e0\u10dd\u10dc\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e9\u05d0\u05e4\u05e8\u05d0\u05df"
@@ -325,7 +358,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1636500619,
+    "wof:lastmodified":1690930883,
     "wof:name":"Sopron",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

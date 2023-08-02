@@ -72,6 +72,9 @@
     "name:ces_x_preferred":[
         "Baranya"
     ],
+    "name:cym_x_preferred":[
+        "Sir Baranya"
+    ],
     "name:dan_x_preferred":[
         "Baranya"
     ],
@@ -109,6 +112,12 @@
     "name:fra_x_preferred":[
         "Baranya"
     ],
+    "name:frr_x_preferred":[
+        "Baranya"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Baranya"
+    ],
     "name:glg_x_preferred":[
         "Baranya"
     ],
@@ -131,7 +140,11 @@
         "Baranya"
     ],
     "name:hun_x_variant":[
-        "Baranya megye"
+        "Baranya megye",
+        "Baranya v\u00e1rmegye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u0561\u0576\u0575\u0561"
     ],
     "name:ind_x_preferred":[
         "Baranya"
@@ -166,10 +179,19 @@
     "name:msa_x_preferred":[
         "Baranya"
     ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043d\u044c\u044f"
+    ],
     "name:nan_x_preferred":[
         "Baranya"
     ],
     "name:nld_x_preferred":[
+        "Baranya"
+    ],
+    "name:nno_x_preferred":[
+        "Baranya"
+    ],
+    "name:nob_x_preferred":[
         "Baranya"
     ],
     "name:oss_x_preferred":[
@@ -243,6 +265,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Baranya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5170\u5c3c\u4e9a\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u862d\u5c3c\u4e9e\u5dde"
@@ -354,7 +379,7 @@
         "wd:id":"Q186195"
     },
     "wof:country":"HU",
-    "wof:geomhash":"29bd07bf9074d4e992d546807de352a5",
+    "wof:geomhash":"2cdf7bb05fe16238b5a6dc000e7d3030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -370,7 +395,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1690930638,
     "wof:name":"Baranya",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

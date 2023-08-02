@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.0229245122,47.4667881852,19.0229245122,47.4667881852",
+    "geom:bbox":"19.022925,47.466788,19.022925,47.466788",
     "geom:latitude":47.466788,
     "geom:longitude":19.022925,
     "iso:country":"HU",
@@ -23,11 +23,23 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0423\u0439\u0431\u0443\u0434\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00fd Bud\u00edn"
+    ],
     "name:deu_x_preferred":[
         "\u00dajbuda"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03b9\u03bc\u03c0\u03bf\u03c5\u03bd\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "\u00dajbuda"
+    ],
+    "name:eng_x_variant":[
+        "Budapest District"
     ],
     "name:epo_x_preferred":[
         "\u00dajbuda"
@@ -51,6 +63,9 @@
     "name:ita_x_preferred":[
         "\u00dajbuda"
     ],
+    "name:myv_x_preferred":[
+        "\u0423\u0439\u0431\u0443\u0434\u0430"
+    ],
     "name:nld_x_preferred":[
         "\u00dajbuda"
     ],
@@ -72,8 +87,14 @@
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u0438\u043c\u043f\u0435\u0448\u0442\u0430 XI \u043e\u043a\u0440\u0443\u0433"
     ],
+    "name:swe_x_preferred":[
+        "\u00dajbuda"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn XI"
+    ],
+    "name:vie_x_variant":[
+        "Qu\u1eadn"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af\u7b2c\u5341\u4e00\u533a"
@@ -92,7 +113,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361715,
-    "wof:geomhash":"f040a03ed67ab4e54724533b5cb93a4f",
+    "wof:geomhash":"2ecb16151ca64dbaca3fef548869d38c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +125,7 @@
         }
     ],
     "wof:id":1108940385,
-    "wof:lastmodified":1566650012,
+    "wof:lastmodified":1690930646,
     "wof:name":"Ujbuda",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -114,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.02292451215026,
-    47.4667881851684,
-    19.02292451215026,
-    47.4667881851684
+    19.022925,
+    47.466788,
+    19.022925,
+    47.466788
 ],
-  "geometry": {"coordinates":[19.02292451215026,47.4667881851684],"type":"Point"}
+  "geometry": {"coordinates":[19.022925,47.466788],"type":"Point"}
 }

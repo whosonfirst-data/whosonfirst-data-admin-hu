@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Telkib\u00e1nya"
+    ],
     "name:deu_x_preferred":[
         "Telkib\u00e1nya"
     ],
@@ -35,6 +38,9 @@
         "\u062a\u0644\u06a9\u06cc\u0628\u0627\u0646\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
+        "Telkib\u00e1nya"
+    ],
+    "name:gle_x_preferred":[
         "Telkib\u00e1nya"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Telkib\u00e1nya"
     ],
+    "name:por_x_preferred":[
+        "Telkib\u00e1nya"
+    ],
     "name:ron_x_preferred":[
         "Telkib\u00e1nya"
     ],
@@ -68,6 +77,9 @@
         "Telkib\u00e1nya"
     ],
     "name:swe_x_preferred":[
+        "Telkib\u00e1nya"
+    ],
+    "name:uzb_x_preferred":[
         "Telkib\u00e1nya"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125809057,
-    "wof:lastmodified":1566650461,
+    "wof:lastmodified":1690931048,
     "wof:name":"Telkib\u00e1nya",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

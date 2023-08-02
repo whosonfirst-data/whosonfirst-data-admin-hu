@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Pilisszentl\u00e1szl\u00f3"
+    ],
     "name:deu_x_preferred":[
         "Pilisszentl\u00e1szl\u00f3"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Pilisszentl\u00e1szl\u00f3"
     ],
+    "name:gle_x_preferred":[
+        "Pilisszentl\u00e1szl\u00f3"
+    ],
     "name:hun_x_preferred":[
         "Pilisszentl\u00e1szl\u00f3"
     ],
@@ -50,6 +56,9 @@
         "Pilisszentl\u00e1szl\u00f3"
     ],
     "name:nld_x_preferred":[
+        "Pilisszentl\u00e1szl\u00f3"
+    ],
+    "name:por_x_preferred":[
         "Pilisszentl\u00e1szl\u00f3"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125808975,
-    "wof:lastmodified":1566650462,
+    "wof:lastmodified":1690931049,
     "wof:name":"Pilisszentl\u00e1szl\u00f3",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

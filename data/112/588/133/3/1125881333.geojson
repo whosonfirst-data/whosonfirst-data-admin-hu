@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kishuta"
+    ],
     "name:deu_x_preferred":[
         "Kishuta"
     ],
@@ -35,6 +38,9 @@
         "\u06a9\u06cc\u0634\u0647\u0648\u062a\u0627"
     ],
     "name:fra_x_preferred":[
+        "Kishuta"
+    ],
+    "name:gle_x_preferred":[
         "Kishuta"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Kishuta"
     ],
+    "name:por_x_preferred":[
+        "Kishuta"
+    ],
     "name:ron_x_preferred":[
         "Kishuta"
     ],
@@ -68,6 +77,9 @@
         "Mal\u00e1 Huta"
     ],
     "name:slv_x_preferred":[
+        "Kishuta"
+    ],
+    "name:uzb_x_preferred":[
         "Kishuta"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125881333,
-    "wof:lastmodified":1566650458,
+    "wof:lastmodified":1690931044,
     "wof:name":"Kishuta",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

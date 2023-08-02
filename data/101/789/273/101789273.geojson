@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
     "geom:area_square_m":329154.330877,
-    "geom:bbox":"19.7185665034,46.7374287256,19.7276555087,46.7453854649",
-    "geom:latitude":46.741518,
-    "geom:longitude":19.722816,
+    "geom:bbox":"19.718567,46.737429,19.727656,46.745385",
+    "geom:latitude":46.741517,
+    "geom:longitude":19.722817,
     "gn:population":1162,
     "iso:country":"HU",
     "lbl:latitude":46.742245,
@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "F\u00fcl\u00f6pjakab"
+    ],
     "name:ceb_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
@@ -35,6 +38,12 @@
     "name:fra_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
+    "name:gle_x_preferred":[
+        "F\u00fcl\u00f6pjakab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05dc\u05e4\u05d9\u05d0\u05e7\u05d1"
+    ],
     "name:hrv_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
@@ -42,6 +51,9 @@
         "F\u00fcl\u00f6pjakab"
     ],
     "name:ita_x_preferred":[
+        "F\u00fcl\u00f6pjakab"
+    ],
+    "name:lmo_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +68,9 @@
     "name:pol_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
+    "name:por_x_preferred":[
+        "F\u00fcl\u00f6pjakab"
+    ],
     "name:ron_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
@@ -65,14 +80,23 @@
     "name:slv_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
+    "name:spa_x_preferred":[
+        "F\u00fcl\u00f6pjakab"
+    ],
     "name:swe_x_preferred":[
         "F\u00fcl\u00f6pjakab"
     ],
     "name:und_x_variant":[
         "F\u00fclopjakabsz\u00e1ll\u00e1s"
     ],
+    "name:uzb_x_preferred":[
+        "F\u00fcl\u00f6pjakab"
+    ],
     "name:vie_x_preferred":[
         "F\u00fcl\u00f6pjakab"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u52d2\u666e\u5c27\u8003\u5e03"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e1cs-Kiskun",
@@ -106,7 +130,7 @@
         "wk:page":"F\u00fcl\u00f6pjakab"
     },
     "wof:country":"HU",
-    "wof:geomhash":"901f884ee88e90bd9fca79fce8489ea8",
+    "wof:geomhash":"995f23e49492fdea2818e998c7887c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +141,7 @@
         }
     ],
     "wof:id":101789273,
-    "wof:lastmodified":1566650369,
+    "wof:lastmodified":1690930978,
     "wof:name":"F\u00fcl\u00f6pjakab",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",
@@ -129,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.71856650339157,
-    46.73742872562082,
-    19.72765550866694,
-    46.74538546488725
+    19.718567,
+    46.737429,
+    19.727656,
+    46.745385
 ],
-  "geometry": {"coordinates":[[[19.72765550866694,46.74010344641499],[19.72716054237515,46.73742872562082],[19.72456383804109,46.73766424327579],[19.72472877690899,46.73855582227401],[19.7234303955434,46.73867355995776],[19.72359532019863,46.73956514043516],[19.71970008067569,46.73991826661444],[19.71986494837421,46.74080985315504],[19.71856650339157,46.74092753292268],[19.71939084234032,46.74538546488725],[19.72328648224982,46.74503234432314],[19.72312153602087,46.74414076643376],[19.72442005084031,46.74402303061834],[19.7240901371091,46.74223987698542],[19.7253886039594,46.74212213012999],[19.7252236364593,46.74123055438639],[19.72652207671581,46.74111279419867],[19.72635709500304,46.74022121993482],[19.72765550866694,46.74010344641499]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[19.727656,46.740103],[19.727161,46.737429],[19.724564,46.737664],[19.724729,46.738556],[19.72343,46.738674],[19.723595,46.739565],[19.7197,46.739918],[19.719865,46.74081],[19.718567,46.740928],[19.719391,46.745385],[19.723286,46.745032],[19.723122,46.744141],[19.72442,46.744023],[19.72409,46.74224],[19.725389,46.742122],[19.725224,46.741231],[19.726522,46.741113],[19.726357,46.740221],[19.727656,46.740103]]],"type":"Polygon"}
 }

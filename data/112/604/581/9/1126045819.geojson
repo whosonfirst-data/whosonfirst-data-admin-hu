@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bakonyszentkir\u00e1ly"
+    ],
     "name:ces_x_preferred":[
         "Bakonyszentkir\u00e1ly"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "Bakonyszentkir\u00e1ly"
     ],
+    "name:gle_x_preferred":[
+        "Bakonyszentkir\u00e1ly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e7\u05d5\u05e0\u05e1\u05e0\u05d8\u05e7\u05d9\u05e8\u05d0\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Bakonyszentkir\u00e1ly"
     ],
     "name:ita_x_preferred":[
+        "Bakonyszentkir\u00e1ly"
+    ],
+    "name:lmo_x_preferred":[
         "Bakonyszentkir\u00e1ly"
     ],
     "name:msa_x_preferred":[
@@ -61,11 +73,17 @@
     "name:slv_x_preferred":[
         "Bakonyszentkir\u00e1ly"
     ],
+    "name:spa_x_preferred":[
+        "Bakonyszentkir\u00e1ly"
+    ],
     "name:vie_x_preferred":[
         "Bakonyszentkir\u00e1ly"
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u79d1\u5c3c\u68ee\u7279\u57fa\u62c9\u4f0a"
+    ],
+    "name:zho_x_variant":[
+        "\u5305\u79d1\u5c3c\u5723\u57fa\u62c9\u4f0a"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1126045819,
-    "wof:lastmodified":1566650450,
+    "wof:lastmodified":1690931033,
     "wof:name":"Bakonyszentkir\u00e1ly",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

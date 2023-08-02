@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Adorj\u00e1nh\u00e1za"
+    ],
     "name:ceb_x_preferred":[
         "Adorj\u00e1nh\u00e1za"
     ],
@@ -43,6 +46,12 @@
     "name:fra_x_preferred":[
         "Adorj\u00e1nh\u00e1za"
     ],
+    "name:gle_x_preferred":[
+        "Adorj\u00e1nh\u00e1za"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05d5\u05e8\u05d9\u05d0\u05e0\u05d4\u05d0\u05d6\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Adorj\u00e1n"
     ],
@@ -50,6 +59,9 @@
         "Adorj\u00e1nh\u00e1za"
     ],
     "name:ita_x_preferred":[
+        "Adorj\u00e1nh\u00e1za"
+    ],
+    "name:lmo_x_preferred":[
         "Adorj\u00e1nh\u00e1za"
     ],
     "name:msa_x_preferred":[
@@ -68,6 +80,9 @@
         "Adorj\u00e1nh\u00e1za"
     ],
     "name:slv_x_preferred":[
+        "Adorj\u00e1nh\u00e1za"
+    ],
+    "name:spa_x_preferred":[
         "Adorj\u00e1nh\u00e1za"
     ],
     "name:srp_x_preferred":[
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125975125,
-    "wof:lastmodified":1566650468,
+    "wof:lastmodified":1690931056,
     "wof:name":"Adorj\u00e1nh\u00e1za",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

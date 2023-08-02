@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ordas"
+    ],
     "name:ces_x_preferred":[
         "Ordas"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ordas"
     ],
+    "name:gle_x_preferred":[
+        "Ordas"
+    ],
     "name:hrv_x_preferred":[
         "Ordas"
     ],
@@ -47,6 +53,9 @@
         "Ordas"
     ],
     "name:ita_x_preferred":[
+        "Ordas"
+    ],
+    "name:lmo_x_preferred":[
         "Ordas"
     ],
     "name:msa_x_preferred":[
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Ordas"
     ],
+    "name:por_x_preferred":[
+        "Ordas"
+    ],
     "name:ron_x_preferred":[
         "Ordas"
     ],
@@ -68,6 +80,12 @@
         "Ordas"
     ],
     "name:slv_x_preferred":[
+        "Ordas"
+    ],
+    "name:spa_x_preferred":[
+        "Ordas"
+    ],
+    "name:uzb_x_preferred":[
         "Ordas"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1125850335,
-    "wof:lastmodified":1566650495,
+    "wof:lastmodified":1690931079,
     "wof:name":"Ordas",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

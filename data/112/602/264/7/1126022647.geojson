@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Vill\u00e1nyk\u00f6vesd"
+    ],
     "name:deu_x_preferred":[
         "Vill\u00e1nyk\u00f6vesd"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Vill\u00e1nyk\u00f6vesd"
     ],
+    "name:gle_x_preferred":[
+        "Vill\u00e1nyk\u00f6vesd"
+    ],
     "name:hrv_x_preferred":[
         "Keve\u0161a"
     ],
@@ -44,6 +50,9 @@
         "Vill\u00e1nyk\u00f6vesd"
     ],
     "name:ita_x_preferred":[
+        "Vill\u00e1nyk\u00f6vesd"
+    ],
+    "name:lmo_x_preferred":[
         "Vill\u00e1nyk\u00f6vesd"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +65,9 @@
         "Vill\u00e1nyk\u00f6vesd"
     ],
     "name:pol_x_preferred":[
+        "Vill\u00e1nyk\u00f6vesd"
+    ],
+    "name:por_x_preferred":[
         "Vill\u00e1nyk\u00f6vesd"
     ],
     "name:ron_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1126022647,
-    "wof:lastmodified":1566650448,
+    "wof:lastmodified":1690931031,
     "wof:name":"Vill\u00e1nyk\u00f6vesd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

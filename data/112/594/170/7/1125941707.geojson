@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "G\u00f6dre"
+    ],
     "name:ceb_x_preferred":[
         "G\u00f6dre"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "G\u00f6dre"
     ],
+    "name:gle_x_preferred":[
+        "G\u00f6dre"
+    ],
     "name:hrv_x_preferred":[
         "\u0110udra"
     ],
@@ -47,6 +53,9 @@
         "G\u00f6dre"
     ],
     "name:ita_x_preferred":[
+        "G\u00f6dre"
+    ],
+    "name:lmo_x_preferred":[
         "G\u00f6dre"
     ],
     "name:msa_x_preferred":[
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "G\u00f6dre"
     ],
+    "name:por_x_preferred":[
+        "G\u00f6dre"
+    ],
     "name:ron_x_preferred":[
         "G\u00f6dre"
     ],
@@ -68,6 +80,9 @@
         "G\u00f6dre"
     ],
     "name:slv_x_preferred":[
+        "G\u00f6dre"
+    ],
+    "name:spa_x_preferred":[
         "G\u00f6dre"
     ],
     "name:swe_x_preferred":[
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":1125941707,
-    "wof:lastmodified":1566650436,
+    "wof:lastmodified":1690931020,
     "wof:name":"G\u00f6dre",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kesz\u00fc"
+    ],
     "name:eng_x_preferred":[
         "Kesz\u00fc"
     ],
@@ -34,6 +37,9 @@
     "name:fra_x_preferred":[
         "Kesz\u00fc"
     ],
+    "name:gle_x_preferred":[
+        "Kesz\u00fc"
+    ],
     "name:hrv_x_preferred":[
         "Kesuj"
     ],
@@ -41,6 +47,9 @@
         "Kesz\u00fc"
     ],
     "name:ita_x_preferred":[
+        "Kesz\u00fc"
+    ],
+    "name:lmo_x_preferred":[
         "Kesz\u00fc"
     ],
     "name:msa_x_preferred":[
@@ -55,6 +64,9 @@
     "name:pol_x_preferred":[
         "Kesz\u00fc"
     ],
+    "name:por_x_preferred":[
+        "Kesz\u00fc"
+    ],
     "name:ron_x_preferred":[
         "Kesz\u00fc"
     ],
@@ -62,6 +74,12 @@
         "Kesz\u00fc"
     ],
     "name:slv_x_preferred":[
+        "Kesz\u00fc"
+    ],
+    "name:spa_x_preferred":[
+        "Kesz\u00fc"
+    ],
+    "name:uzb_x_preferred":[
         "Kesz\u00fc"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":1125816203,
-    "wof:lastmodified":1566650454,
+    "wof:lastmodified":1690931038,
     "wof:name":"Kesz\u00fc",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

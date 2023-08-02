@@ -22,19 +22,40 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kapolcs"
+    ],
+    "name:ces_x_preferred":[
+        "Kapolcs"
+    ],
+    "name:deu_x_preferred":[
+        "Kapolcs"
+    ],
     "name:eng_x_preferred":[
         "Kapolcs"
     ],
     "name:epo_x_preferred":[
         "Kapolcs"
     ],
+    "name:fin_x_preferred":[
+        "Kapolcs"
+    ],
     "name:fra_x_preferred":[
         "Kapolcs"
+    ],
+    "name:gle_x_preferred":[
+        "Kapolcs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e4\u05d5\u05dc\u05e5'"
     ],
     "name:hun_x_preferred":[
         "Kapolcs"
     ],
     "name:ita_x_preferred":[
+        "Kapolcs"
+    ],
+    "name:lmo_x_preferred":[
         "Kapolcs"
     ],
     "name:msa_x_preferred":[
@@ -53,6 +74,9 @@
         "Kapolcs"
     ],
     "name:slv_x_preferred":[
+        "Kapolcs"
+    ],
+    "name:spa_x_preferred":[
         "Kapolcs"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +137,7 @@
         }
     ],
     "wof:id":1125983833,
-    "wof:lastmodified":1566650477,
+    "wof:lastmodified":1690931068,
     "wof:name":"Kapolcs",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tiszakerecseny"
+    ],
     "name:deu_x_preferred":[
         "Tiszakerecseny"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Tiszakerecseny"
+    ],
+    "name:gle_x_preferred":[
+        "Tiszakerecseny"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05e7\u05e8\u05e6'\u05df"
     ],
     "name:hun_x_preferred":[
         "Tiszakerecseny"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125962655,
-    "wof:lastmodified":1566650472,
+    "wof:lastmodified":1690931062,
     "wof:name":"Tiszakerecseny",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

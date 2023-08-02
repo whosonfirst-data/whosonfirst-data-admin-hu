@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00dajdombr\u00e1d"
+    ],
     "name:ceb_x_preferred":[
         "\u00dajdombr\u00e1d"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "\u00dajdombr\u00e1d"
+    ],
+    "name:gle_x_preferred":[
+        "\u00dajdombr\u00e1d"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d3\u05d5\u05de\u05d1\u05e8\u05d0\u05d3"
     ],
     "name:hun_x_preferred":[
         "\u00dajdombr\u00e1d"
@@ -69,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u4f0a\u4e1c\u5e03\u62c9\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u680b\u5e03\u62c9\u5fb7"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125931155,
-    "wof:lastmodified":1566650439,
+    "wof:lastmodified":1690931023,
     "wof:name":"\u00dajdombr\u00e1d",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

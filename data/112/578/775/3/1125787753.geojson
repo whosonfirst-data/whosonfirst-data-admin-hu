@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Csesznek"
+    ],
     "name:bos_x_preferred":[
         "\u010cesneg"
     ],
@@ -52,11 +55,17 @@
     "name:fra_x_preferred":[
         "Csesznek"
     ],
+    "name:gle_x_preferred":[
+        "Csesznek"
+    ],
     "name:glg_x_preferred":[
         "Csesznek"
     ],
     "name:hbs_x_preferred":[
         "\u010cesneg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e1\u05e0\u05e7"
     ],
     "name:hrv_x_preferred":[
         "\u010cesneg"
@@ -136,6 +145,9 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0441\u043d\u0435\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "Csesznek"
+    ],
     "name:vie_x_preferred":[
         "Csesznek"
     ],
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":1125787753,
-    "wof:lastmodified":1566650496,
+    "wof:lastmodified":1690931080,
     "wof:name":"Csesznek",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tabajd"
+    ],
     "name:eng_x_preferred":[
         "Tabajd"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:fra_x_preferred":[
         "Tabajd"
+    ],
+    "name:gle_x_preferred":[
+        "Tabajd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d1\u05d0\u05d9\u05d9\u05d3"
     ],
     "name:hun_x_preferred":[
         "Tabajd"
@@ -47,6 +56,9 @@
         "Tabajd"
     ],
     "name:nld_x_preferred":[
+        "Tabajd"
+    ],
+    "name:por_x_preferred":[
         "Tabajd"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125912541,
-    "wof:lastmodified":1566650474,
+    "wof:lastmodified":1690931064,
     "wof:name":"Tabajd",
     "wof:parent_id":85684879,
     "wof:placetype":"locality",

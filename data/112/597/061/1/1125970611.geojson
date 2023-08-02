@@ -35,6 +35,9 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30dc\u30b4\u30fc\u5cb3"
     ],
+    "name:lld_x_preferred":[
+        "Dobog\u00f3-k\u0151"
+    ],
     "name:nld_x_preferred":[
         "Dobog\u00f3k\u0151"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125970611,
-    "wof:lastmodified":1566650468,
+    "wof:lastmodified":1690931055,
     "wof:name":"Dobog\u00f3k\u0151",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

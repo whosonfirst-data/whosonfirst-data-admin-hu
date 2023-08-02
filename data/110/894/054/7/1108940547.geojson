@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.0140410314,47.4105869998,19.0140410314,47.4105869998",
+    "geom:bbox":"19.014041,47.410587,19.014041,47.410587",
     "geom:latitude":47.410587,
     "geom:longitude":19.014041,
     "iso:country":"HU",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Budat\u00e9t\u00e9ny"
     ],
+    "name:est_x_preferred":[
+        "Budat\u00e9t\u00e9ny"
+    ],
     "name:fra_x_preferred":[
         "Budat\u00e9t\u00e9ny"
     ],
@@ -33,6 +36,9 @@
         "Budat\u00e9teny"
     ],
     "name:hun_x_variant":[
+        "Budat\u00e9t\u00e9ny"
+    ],
+    "name:nld_x_preferred":[
         "Budat\u00e9t\u00e9ny"
     ],
     "src:lbl_centroid":"mz",
@@ -49,7 +55,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361820,
-    "wof:geomhash":"13cd956bc3553de53df5cc8b63547422",
+    "wof:geomhash":"db56a246d53e739a0672d2b913c7de99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108940547,
-    "wof:lastmodified":1566650011,
+    "wof:lastmodified":1690930646,
     "wof:name":"Budateteny",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.01404103142319,
-    47.41058699979373,
-    19.01404103142319,
-    47.41058699979373
+    19.014041,
+    47.410587,
+    19.014041,
+    47.410587
 ],
-  "geometry": {"coordinates":[19.01404103142319,47.41058699979373],"type":"Point"}
+  "geometry": {"coordinates":[19.014041,47.410587],"type":"Point"}
 }

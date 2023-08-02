@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "T\u00faristv\u00e1ndi"
+    ],
+    "name:ces_x_preferred":[
+        "T\u00faristv\u00e1ndi"
+    ],
     "name:deu_x_preferred":[
         "T\u00faristv\u00e1ndi"
     ],
@@ -37,10 +43,19 @@
     "name:fra_x_preferred":[
         "T\u00faristv\u00e1ndi"
     ],
+    "name:gle_x_preferred":[
+        "T\u00faristv\u00e1ndi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05d9\u05e9\u05d8\u05d5\u05d5\u05d0\u05e0\u05d3\u05d9"
+    ],
     "name:hun_x_preferred":[
         "T\u00faristv\u00e1ndi"
     ],
     "name:ita_x_preferred":[
+        "T\u00faristv\u00e1ndi"
+    ],
+    "name:lmo_x_preferred":[
         "T\u00faristv\u00e1ndi"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +74,9 @@
         "T\u00faristv\u00e1ndi"
     ],
     "name:slv_x_preferred":[
+        "T\u00faristv\u00e1ndi"
+    ],
+    "name:spa_x_preferred":[
         "T\u00faristv\u00e1ndi"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125898237,
-    "wof:lastmodified":1566650460,
+    "wof:lastmodified":1690931047,
     "wof:name":"T\u00faristv\u00e1ndi",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

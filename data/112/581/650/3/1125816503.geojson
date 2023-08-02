@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sima"
+    ],
     "name:deu_x_preferred":[
         "Sima"
     ],
@@ -32,6 +35,9 @@
         "Sima"
     ],
     "name:fra_x_preferred":[
+        "Sima"
+    ],
+    "name:gle_x_preferred":[
         "Sima"
     ],
     "name:heb_x_preferred":[
@@ -52,6 +58,9 @@
     "name:pol_x_preferred":[
         "Sima"
     ],
+    "name:por_x_preferred":[
+        "Sima"
+    ],
     "name:ron_x_preferred":[
         "Sima"
     ],
@@ -65,6 +74,9 @@
         "Sima"
     ],
     "name:swe_x_preferred":[
+        "Sima"
+    ],
+    "name:uzb_x_preferred":[
         "Sima"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125816503,
-    "wof:lastmodified":1566650454,
+    "wof:lastmodified":1690931039,
     "wof:name":"Sima",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

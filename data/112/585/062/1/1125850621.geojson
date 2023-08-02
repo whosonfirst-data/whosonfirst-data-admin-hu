@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "L\u00f3cs"
+    ],
     "name:deu_x_preferred":[
         "Losing"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "L\u00f3cs"
     ],
+    "name:gle_x_preferred":[
+        "L\u00f3cs"
+    ],
     "name:hrv_x_preferred":[
         "Lo\u010da"
     ],
@@ -56,6 +62,9 @@
         "L\u00f3cs"
     ],
     "name:nld_x_preferred":[
+        "L\u00f3cs"
+    ],
+    "name:por_x_preferred":[
         "L\u00f3cs"
     ],
     "name:ron_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":1125850621,
-    "wof:lastmodified":1566650494,
+    "wof:lastmodified":1690931076,
     "wof:name":"L\u00f3cs",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

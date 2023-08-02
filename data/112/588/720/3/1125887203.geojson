@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tornaszentandr\u00e1s"
+    ],
     "name:deu_x_preferred":[
         "Tornaszentandr\u00e1s"
     ],
@@ -35,6 +38,9 @@
         "\u062a\u0648\u0631\u0646\u0627\u0633\u0646\u062a\u0627\u0646\u062f\u0631\u0627\u0634"
     ],
     "name:fra_x_preferred":[
+        "Tornaszentandr\u00e1s"
+    ],
+    "name:gle_x_preferred":[
         "Tornaszentandr\u00e1s"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Tornaszentandr\u00e1s"
     ],
+    "name:por_x_preferred":[
+        "Tornaszentandr\u00e1s"
+    ],
     "name:ron_x_preferred":[
         "Tornaszentandr\u00e1s"
     ],
@@ -65,6 +74,9 @@
         "Tornaszentandr\u00e1s"
     ],
     "name:slv_x_preferred":[
+        "Tornaszentandr\u00e1s"
+    ],
+    "name:uzb_x_preferred":[
         "Tornaszentandr\u00e1s"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125887203,
-    "wof:lastmodified":1566650459,
+    "wof:lastmodified":1690931046,
     "wof:name":"Tornaszentandr\u00e1s",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

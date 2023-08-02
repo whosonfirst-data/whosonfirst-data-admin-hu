@@ -27,6 +27,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:ast_x_preferred":[
+        "Csabaszabadi"
+    ],
     "name:eng_x_preferred":[
         "Csabaszabadi"
     ],
@@ -39,10 +42,19 @@
     "name:fra_x_preferred":[
         "Csabaszabadi"
     ],
+    "name:gle_x_preferred":[
+        "Csabaszabadi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d1\u05e1\u05d1\u05d3\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Csabaszabadi"
     ],
     "name:ita_x_preferred":[
+        "Csabaszabadi"
+    ],
+    "name:lmo_x_preferred":[
         "Csabaszabadi"
     ],
     "name:msa_x_preferred":[
@@ -57,6 +69,9 @@
     "name:pol_x_preferred":[
         "Csabaszabadi"
     ],
+    "name:por_x_preferred":[
+        "Csabaszabadi"
+    ],
     "name:ron_x_preferred":[
         "Csabaszabadi"
     ],
@@ -64,6 +79,12 @@
         "Csabaszabadi"
     ],
     "name:slv_x_preferred":[
+        "Csabaszabadi"
+    ],
+    "name:spa_x_preferred":[
+        "Csabaszabadi"
+    ],
+    "name:uzb_x_preferred":[
         "Csabaszabadi"
     ],
     "name:vie_x_preferred":[
@@ -74,6 +95,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e54\u9c8d\u7ecd\u9c8d\u8fea"
+    ],
+    "name:zho_x_variant":[
+        "\u4e54\u5305\u7d22\u5305\u8fea"
     ],
     "qs:gn_adm0_cc":"HU",
     "qs:gn_fcode":"PPL",
@@ -140,7 +164,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345310,
+    "wof:lastmodified":1690930634,
     "wof:name":"Csabaszabadi",
     "wof:parent_id":101751697,
     "wof:placetype":"neighbourhood",

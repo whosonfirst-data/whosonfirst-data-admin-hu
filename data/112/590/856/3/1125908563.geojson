@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "C\u00e1k"
+    ],
     "name:cat_x_preferred":[
         "C\u00e1k"
     ],
@@ -43,6 +46,9 @@
     "name:fra_x_preferred":[
         "C\u00e1k"
     ],
+    "name:gle_x_preferred":[
+        "C\u00e1k"
+    ],
     "name:hrv_x_preferred":[
         "Caka"
     ],
@@ -62,6 +68,9 @@
         "C\u00e1k"
     ],
     "name:oci_x_preferred":[
+        "C\u00e1k"
+    ],
+    "name:por_x_preferred":[
         "C\u00e1k"
     ],
     "name:ron_x_preferred":[
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125908563,
-    "wof:lastmodified":1566650467,
+    "wof:lastmodified":1690931054,
     "wof:name":"C\u00e1k",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

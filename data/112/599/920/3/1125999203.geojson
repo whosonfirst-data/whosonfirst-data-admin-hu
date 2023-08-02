@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nick"
+    ],
     "name:eng_x_preferred":[
         "Nick"
     ],
@@ -34,10 +37,16 @@
     "name:fra_x_preferred":[
         "Nick"
     ],
+    "name:gle_x_preferred":[
+        "Nick"
+    ],
     "name:hun_x_preferred":[
         "Nick"
     ],
     "name:ita_x_preferred":[
+        "Nick"
+    ],
+    "name:lmo_x_preferred":[
         "Nick"
     ],
     "name:msa_x_preferred":[
@@ -49,6 +58,9 @@
     "name:nld_x_preferred":[
         "Nick"
     ],
+    "name:por_x_preferred":[
+        "Nick"
+    ],
     "name:ron_x_preferred":[
         "Nick"
     ],
@@ -56,6 +68,9 @@
         "Nick"
     ],
     "name:slv_x_preferred":[
+        "Nick"
+    ],
+    "name:spa_x_preferred":[
         "Nick"
     ],
     "name:zho_x_preferred":[
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1125999203,
-    "wof:lastmodified":1566650465,
+    "wof:lastmodified":1690931053,
     "wof:name":"Nick",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Monoszl\u00f3"
+    ],
+    "name:ces_x_preferred":[
+        "Monoszl\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Monoszl\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Monoszl\u00f3"
     ],
@@ -33,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "Monoszl\u00f3"
+    ],
+    "name:gle_x_preferred":[
+        "Monoszl\u00f3"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d5\u05e1\u05dc\u05d5"
     ],
     "name:hrv_x_preferred":[
         "Moslavina"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1125920553,
-    "wof:lastmodified":1566650440,
+    "wof:lastmodified":1690931025,
     "wof:name":"Monoszl\u00f3",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

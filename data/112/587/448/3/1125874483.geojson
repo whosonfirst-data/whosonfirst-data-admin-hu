@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ludas"
+    ],
     "name:deu_x_preferred":[
         "Ludas"
     ],
@@ -34,10 +37,19 @@
     "name:fra_x_preferred":[
         "Ludas"
     ],
+    "name:gle_x_preferred":[
+        "Ludas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d3\u05e9"
+    ],
     "name:hun_x_preferred":[
         "Ludas"
     ],
     "name:ita_x_preferred":[
+        "Ludas"
+    ],
+    "name:lmo_x_preferred":[
         "Ludas"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +68,9 @@
         "Ludas"
     ],
     "name:slv_x_preferred":[
+        "Ludas"
+    ],
+    "name:spa_x_preferred":[
         "Ludas"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125874483,
-    "wof:lastmodified":1566650463,
+    "wof:lastmodified":1690931050,
     "wof:name":"Ludas",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

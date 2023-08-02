@@ -75,6 +75,9 @@
     "name:ces_x_preferred":[
         "Heves"
     ],
+    "name:cym_x_preferred":[
+        "Sir Heves"
+    ],
     "name:dan_x_preferred":[
         "Heves"
     ],
@@ -108,6 +111,9 @@
     "name:fra_x_preferred":[
         "Heves"
     ],
+    "name:frr_x_preferred":[
+        "Heves"
+    ],
     "name:glg_x_preferred":[
         "Condado de Heves"
     ],
@@ -130,7 +136,8 @@
         "Heves"
     ],
     "name:hun_x_variant":[
-        "Heves megye"
+        "Heves megye",
+        "Heves v\u00e1rmegye"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0587\u0565\u0577"
@@ -171,14 +178,26 @@
     "name:msa_x_preferred":[
         "Heves"
     ],
+    "name:myv_x_preferred":[
+        "\u0425\u0435\u0432\u0435\u0448"
+    ],
     "name:nan_x_preferred":[
         "Heves"
     ],
     "name:nld_x_preferred":[
         "Heves"
     ],
+    "name:nno_x_preferred":[
+        "Heves"
+    ],
     "name:nob_x_preferred":[
         "Heves Fylke"
+    ],
+    "name:nob_x_variant":[
+        "Heves"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0435\u0432\u0435\u0448"
     ],
     "name:pol_x_preferred":[
         "Komitat Heves"
@@ -251,6 +270,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Heves"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d6b\u7ef4\u4ec0\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u7dad\u4ec0\u5dde"
@@ -362,7 +384,7 @@
         "wd:id":"Q191604"
     },
     "wof:country":"HU",
-    "wof:geomhash":"73dedfd2da922e8234015850fcb349d9",
+    "wof:geomhash":"d0c997bba3c732d57c75ebe8b07fa3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +400,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1690930642,
     "wof:name":"Heves",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

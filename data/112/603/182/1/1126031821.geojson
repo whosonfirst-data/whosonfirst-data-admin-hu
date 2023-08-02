@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "V\u00e1szoly"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00e1szoly"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00e1szoly"
+    ],
     "name:eng_x_preferred":[
         "V\u00e1szoly"
     ],
@@ -33,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "V\u00e1szoly"
+    ],
+    "name:gle_x_preferred":[
+        "V\u00e1szoly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05e1\u05d5\u05d9"
     ],
     "name:hun_x_preferred":[
         "V\u00e1szoly"
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1126031821,
-    "wof:lastmodified":1566650452,
+    "wof:lastmodified":1690931035,
     "wof:name":"V\u00e1szoly",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

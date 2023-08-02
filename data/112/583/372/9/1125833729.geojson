@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Remetesz\u0151l\u0151s"
+    ],
     "name:ceb_x_preferred":[
         "Remetesz\u0151l\u0151s"
     ],
@@ -43,6 +46,12 @@
     "name:fra_x_preferred":[
         "Remetesz\u0151l\u0151s"
     ],
+    "name:gle_x_preferred":[
+        "Remetesz\u0151l\u0151s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05d8\u05e1\u05dc\u05e9"
+    ],
     "name:hun_x_preferred":[
         "Remetesz\u0151l\u0151s"
     ],
@@ -56,6 +65,9 @@
         "Remetesz\u0151l\u0151s"
     ],
     "name:nld_x_preferred":[
+        "Remetesz\u0151l\u0151s"
+    ],
+    "name:por_x_preferred":[
         "Remetesz\u0151l\u0151s"
     ],
     "name:ron_x_preferred":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1125833729,
-    "wof:lastmodified":1566650500,
+    "wof:lastmodified":1690931084,
     "wof:name":"Remetesz\u0151l\u0151s",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

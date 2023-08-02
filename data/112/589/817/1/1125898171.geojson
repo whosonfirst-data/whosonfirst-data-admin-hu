@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "F\u00fcz\u00e9r"
+    ],
     "name:ces_x_preferred":[
         "F\u00fcz\u00e9r"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "F\u00fcz\u00e9r"
     ],
+    "name:gle_x_preferred":[
+        "F\u00fcz\u00e9r"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05d6\u05e8"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "F\u00fcz\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e5\u30bc\u30fc\u30eb"
     ],
     "name:msa_x_preferred":[
         "F\u00fcz\u00e9r"
@@ -56,6 +65,9 @@
         "F\u00fcz\u00e9r"
     ],
     "name:pol_x_preferred":[
+        "F\u00fcz\u00e9r"
+    ],
+    "name:por_x_preferred":[
         "F\u00fcz\u00e9r"
     ],
     "name:ron_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125898171,
-    "wof:lastmodified":1566650459,
+    "wof:lastmodified":1690931046,
     "wof:name":"F\u00fcz\u00e9r",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",
