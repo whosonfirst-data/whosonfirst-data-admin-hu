@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Orf\u0171"
+    ],
     "name:cat_x_preferred":[
         "Orf\u0171"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Orf\u0171"
     ],
+    "name:gle_x_preferred":[
+        "Orf\u0171"
+    ],
     "name:hrv_x_preferred":[
         "Orf\u0171"
     ],
@@ -50,6 +56,9 @@
         "\u0555\u0580\u0586\u0578\u0582"
     ],
     "name:ita_x_preferred":[
+        "Orf\u0171"
+    ],
+    "name:lmo_x_preferred":[
         "Orf\u0171"
     ],
     "name:msa_x_preferred":[
@@ -64,6 +73,9 @@
     "name:pol_x_preferred":[
         "Orf\u0171"
     ],
+    "name:por_x_preferred":[
+        "Orf\u0171"
+    ],
     "name:ron_x_preferred":[
         "Orf\u0171"
     ],
@@ -71,6 +83,9 @@
         "Orf\u0171"
     ],
     "name:slv_x_preferred":[
+        "Orf\u0171"
+    ],
+    "name:spa_x_preferred":[
         "Orf\u0171"
     ],
     "name:und_x_variant":[
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1125808959,
-    "wof:lastmodified":1566650461,
+    "wof:lastmodified":1690931048,
     "wof:name":"Orf\u016f",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

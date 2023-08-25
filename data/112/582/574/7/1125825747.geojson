@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Becske"
+    ],
     "name:eng_x_preferred":[
         "Becske"
     ],
@@ -32,6 +35,9 @@
         "\u0628\u0686\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
+        "Becske"
+    ],
+    "name:gle_x_preferred":[
         "Becske"
     ],
     "name:hun_x_preferred":[
@@ -52,6 +58,9 @@
     "name:pol_x_preferred":[
         "Becske"
     ],
+    "name:por_x_preferred":[
+        "Becske"
+    ],
     "name:ron_x_preferred":[
         "Becske"
     ],
@@ -59,6 +68,9 @@
         "Becske"
     ],
     "name:slv_x_preferred":[
+        "Becske"
+    ],
+    "name:spa_x_preferred":[
         "Becske"
     ],
     "name:swe_x_preferred":[
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1125825747,
-    "wof:lastmodified":1566650493,
+    "wof:lastmodified":1690931074,
     "wof:name":"Becske",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

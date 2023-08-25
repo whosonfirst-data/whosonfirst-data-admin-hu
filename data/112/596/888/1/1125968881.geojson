@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Lip\u00f3t"
+    ],
+    "name:cat_x_preferred":[
+        "Lip\u00f3t"
+    ],
     "name:deu_x_preferred":[
         "Lip\u00f3t"
     ],
@@ -37,11 +43,20 @@
     "name:fra_x_preferred":[
         "Lip\u00f3t"
     ],
+    "name:gle_x_preferred":[
+        "Lip\u00f3t"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e4\u05d5\u05d8"
+    ],
     "name:hun_x_preferred":[
         "Lip\u00f3t"
     ],
     "name:ita_x_preferred":[
         "Lip\u00f3t"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30dd\u30c3\u30c8"
     ],
     "name:msa_x_preferred":[
         "Lip\u00f3t"
@@ -55,6 +70,9 @@
     "name:pol_x_preferred":[
         "Lip\u00f3t"
     ],
+    "name:por_x_preferred":[
+        "Lip\u00f3t"
+    ],
     "name:ron_x_preferred":[
         "Lip\u00f3t"
     ],
@@ -62,6 +80,9 @@
         "Lip\u00f3t"
     ],
     "name:slv_x_preferred":[
+        "Lip\u00f3t"
+    ],
+    "name:spa_x_preferred":[
         "Lip\u00f3t"
     ],
     "name:zho_x_preferred":[
@@ -119,7 +140,7 @@
         }
     ],
     "wof:id":1125968881,
-    "wof:lastmodified":1566650469,
+    "wof:lastmodified":1690931057,
     "wof:name":"Lip\u00f3t",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

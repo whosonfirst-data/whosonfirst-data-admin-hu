@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Doba"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u09ac\u09be"
     ],
@@ -46,6 +49,9 @@
     "name:fra_x_preferred":[
         "Doba"
     ],
+    "name:gle_x_preferred":[
+        "Doba"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d1\u05d4"
     ],
@@ -53,6 +59,9 @@
         "Doba"
     ],
     "name:ita_x_preferred":[
+        "Doba"
+    ],
+    "name:lmo_x_preferred":[
         "Doba"
     ],
     "name:msa_x_preferred":[
@@ -71,6 +80,9 @@
         "Doba"
     ],
     "name:slv_x_preferred":[
+        "Doba"
+    ],
+    "name:spa_x_preferred":[
         "Doba"
     ],
     "name:swe_x_preferred":[
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125816063,
-    "wof:lastmodified":1636500619,
+    "wof:lastmodified":1690931042,
     "wof:name":"Doba",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

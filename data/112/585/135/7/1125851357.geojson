@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Als\u00f3szuha"
+    ],
     "name:ceb_x_preferred":[
         "Als\u00f3szuha"
     ],
@@ -41,6 +44,9 @@
         "\u0627\u0644\u0633\u0648\u0632\u0648\u0647\u0627"
     ],
     "name:fra_x_preferred":[
+        "Als\u00f3szuha"
+    ],
+    "name:gle_x_preferred":[
         "Als\u00f3szuha"
     ],
     "name:heb_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Als\u00f3szuha"
     ],
+    "name:por_x_preferred":[
+        "Als\u00f3szuha"
+    ],
     "name:ron_x_preferred":[
         "Als\u00f3szuha"
     ],
@@ -74,6 +83,9 @@
         "Als\u00f3szuha"
     ],
     "name:swe_x_preferred":[
+        "Als\u00f3szuha"
+    ],
+    "name:uzb_x_preferred":[
         "Als\u00f3szuha"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125851357,
-    "wof:lastmodified":1566650493,
+    "wof:lastmodified":1690931075,
     "wof:name":"Als\u00f3szuha",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

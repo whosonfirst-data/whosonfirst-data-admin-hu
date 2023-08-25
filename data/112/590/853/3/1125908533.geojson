@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bik\u00e1cs"
+    ],
     "name:deu_x_preferred":[
         "Bik\u00e1cs"
     ],
@@ -35,6 +38,9 @@
         "\u0628\u06cc\u06a9\u0627\u0686"
     ],
     "name:fra_x_preferred":[
+        "Bik\u00e1cs"
+    ],
+    "name:gle_x_preferred":[
         "Bik\u00e1cs"
     ],
     "name:hun_x_preferred":[
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1125908533,
-    "wof:lastmodified":1566650467,
+    "wof:lastmodified":1690931055,
     "wof:name":"Bik\u00e1cs",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

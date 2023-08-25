@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kondorfa"
+    ],
     "name:deu_x_preferred":[
         "Kondorfa"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Kondorfa"
     ],
+    "name:gle_x_preferred":[
+        "Kondorfa"
+    ],
     "name:hun_x_preferred":[
         "Kondorfa"
     ],
@@ -50,6 +56,9 @@
         "Kondorfa"
     ],
     "name:nld_x_preferred":[
+        "Kondorfa"
+    ],
+    "name:por_x_preferred":[
         "Kondorfa"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125921399,
-    "wof:lastmodified":1566650441,
+    "wof:lastmodified":1690931027,
     "wof:name":"Kondorfa",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

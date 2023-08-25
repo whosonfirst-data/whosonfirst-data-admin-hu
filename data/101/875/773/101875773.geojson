@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Zagyvasz\u00e1nt\u00f3"
+    ],
     "name:ceb_x_preferred":[
         "Zagyvasz\u00e1nt\u00f3"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:fra_x_preferred":[
         "Zagyvasz\u00e1nt\u00f3"
+    ],
+    "name:gle_x_preferred":[
+        "Zagyvasz\u00e1nt\u00f3"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d2'\u05d5\u05d5\u05e1\u05d0\u05e0\u05d8\u05d5"
     ],
     "name:hun_x_colloquial":[
         "Zagyvaszanto"
@@ -61,6 +70,9 @@
         "Zagyvasz\u00e1nt\u00f3"
     ],
     "name:swe_x_preferred":[
+        "Zagyvasz\u00e1nt\u00f3"
+    ],
+    "name:uzb_x_preferred":[
         "Zagyvasz\u00e1nt\u00f3"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +133,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345325,
+    "wof:lastmodified":1690930723,
     "wof:name":"Zagyvasz\u00e1nt\u00f3",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

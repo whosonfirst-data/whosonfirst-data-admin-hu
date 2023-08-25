@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Csom\u00e1d"
+    ],
     "name:deu_x_preferred":[
         "Csom\u00e1d"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Csom\u00e1d"
     ],
+    "name:gle_x_preferred":[
+        "Csom\u00e1d"
+    ],
     "name:hun_x_preferred":[
         "Csom\u00e1d"
     ],
@@ -50,6 +56,9 @@
         "Csom\u00e1d"
     ],
     "name:nld_x_preferred":[
+        "Csom\u00e1d"
+    ],
+    "name:por_x_preferred":[
         "Csom\u00e1d"
     ],
     "name:ron_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":1125968187,
-    "wof:lastmodified":1566650469,
+    "wof:lastmodified":1690931056,
     "wof:name":"Csom\u00e1d",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "S\u00e1razsad\u00e1ny"
+    ],
     "name:deu_x_preferred":[
         "S\u00e1razsad\u00e1ny"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "S\u00e1razsad\u00e1ny"
     ],
+    "name:gle_x_preferred":[
+        "S\u00e1razsad\u00e1ny"
+    ],
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05e8\u05d6'\u05d3\u05d0\u05df"
     ],
@@ -44,6 +50,9 @@
         "S\u00e1razsad\u00e1ny"
     ],
     "name:ita_x_preferred":[
+        "S\u00e1razsad\u00e1ny"
+    ],
+    "name:lmo_x_preferred":[
         "S\u00e1razsad\u00e1ny"
     ],
     "name:msa_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "S\u00e1razsad\u00e1ny"
     ],
+    "name:por_x_preferred":[
+        "S\u00e1razsad\u00e1ny"
+    ],
     "name:ron_x_preferred":[
         "S\u00e1razsad\u00e1ny"
     ],
@@ -67,8 +79,14 @@
     "name:slv_x_preferred":[
         "S\u00e1razsad\u00e1ny"
     ],
+    "name:spa_x_preferred":[
+        "S\u00e1razsad\u00e1ny"
+    ],
     "name:und_x_variant":[
         "Bodrogzsad\u00e1ny"
+    ],
+    "name:uzb_x_preferred":[
+        "S\u00e1razsad\u00e1ny"
     ],
     "name:vie_x_preferred":[
         "S\u00e1razsad\u00e1ny"
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1126054709,
-    "wof:lastmodified":1566650449,
+    "wof:lastmodified":1690931032,
     "wof:name":"S\u00e1razsad\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

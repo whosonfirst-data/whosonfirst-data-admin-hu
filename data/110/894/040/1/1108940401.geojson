@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.1208859872,47.4357560267,19.1208859872,47.4357560267",
+    "geom:bbox":"19.120886,47.435756,19.120886,47.435756",
     "geom:latitude":47.435756,
     "geom:longitude":19.120886,
     "iso:country":"HU",
@@ -28,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "Pesterzs\u00e9bet"
+    ],
+    "name:eng_x_variant":[
+        "Budapest District"
     ],
     "name:epo_x_preferred":[
         "Pesterzs\u00e9bet"
@@ -71,6 +74,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn XX"
     ],
+    "name:vie_x_variant":[
+        "Qu\u1eadn"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u8fbe\u4f69\u65af\u7b2c\u4e8c\u5341\u533a"
     ],
@@ -91,7 +97,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361724,
-    "wof:geomhash":"bd7538f36191902a02ba42057bb384b3",
+    "wof:geomhash":"5a51dcd33fb10e17b41f6a997ceb6879",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108940401,
-    "wof:lastmodified":1566650008,
+    "wof:lastmodified":1690930645,
     "wof:name":"Pesterzs\u00e9bet",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -113,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.12088598722073,
-    47.43575602672161,
-    19.12088598722073,
-    47.43575602672161
+    19.120886,
+    47.435756,
+    19.120886,
+    47.435756
 ],
-  "geometry": {"coordinates":[19.12088598722073,47.43575602672161],"type":"Point"}
+  "geometry": {"coordinates":[19.120886,47.435756],"type":"Point"}
 }

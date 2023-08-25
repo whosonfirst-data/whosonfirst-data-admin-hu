@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Par\u00e1dsasv\u00e1r"
+    ],
     "name:ceb_x_preferred":[
         "Par\u00e1dsasv\u00e1r"
     ],
@@ -40,11 +43,20 @@
     "name:fra_x_preferred":[
         "Par\u00e1dsasv\u00e1r"
     ],
+    "name:gle_x_preferred":[
+        "Par\u00e1dsasv\u00e1r"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05d3\u05e9\u05e9\u05d5\u05d5\u05d0\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Par\u00e1dsasv\u00e1r"
     ],
     "name:ita_x_preferred":[
         "Par\u00e1dsasv\u00e1r"
+    ],
+    "name:kor_x_preferred":[
+        "\ud37c\ub77c\ub4dc\uc154\uc288\ubc14\ub974"
     ],
     "name:msa_x_preferred":[
         "Par\u00e1dsasv\u00e1r"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":1125938031,
-    "wof:lastmodified":1566650438,
+    "wof:lastmodified":1690931022,
     "wof:name":"Par\u00e1dsasv\u00e1r",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

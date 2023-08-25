@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bodrogkisfalud"
+    ],
     "name:deu_x_preferred":[
         "Bodrogkisfalud"
     ],
@@ -35,6 +38,9 @@
         "\u0628\u0648\u062f\u0631\u0648\u06af\u06a9\u06cc\u0634\u0641\u0627\u0644\u0648\u062f"
     ],
     "name:fra_x_preferred":[
+        "Bodrogkisfalud"
+    ],
+    "name:gle_x_preferred":[
         "Bodrogkisfalud"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Bodrogkisfalud"
     ],
+    "name:por_x_preferred":[
+        "Bodrogkisfalud"
+    ],
     "name:ron_x_preferred":[
         "Bodrogkisfalud"
     ],
@@ -68,6 +77,9 @@
         "Bodrogkisfalud"
     ],
     "name:slv_x_preferred":[
+        "Bodrogkisfalud"
+    ],
+    "name:uzb_x_preferred":[
         "Bodrogkisfalud"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125986713,
-    "wof:lastmodified":1566650478,
+    "wof:lastmodified":1690931070,
     "wof:name":"Bodrogkisfalud",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

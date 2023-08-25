@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Balatonrendes"
+    ],
     "name:ces_x_preferred":[
         "Balatonrendes"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "Balatonrendes"
     ],
+    "name:gle_x_preferred":[
+        "Balatonrendes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05e8\u05e0\u05d3\u05e9"
+    ],
     "name:hun_x_preferred":[
         "Balatonrendes"
     ],
     "name:ita_x_preferred":[
+        "Balatonrendes"
+    ],
+    "name:lmo_x_preferred":[
         "Balatonrendes"
     ],
     "name:msa_x_preferred":[
@@ -61,11 +73,17 @@
     "name:slv_x_preferred":[
         "Balatonrendes"
     ],
+    "name:spa_x_preferred":[
+        "Balatonrendes"
+    ],
     "name:vie_x_preferred":[
         "Balatonrendes"
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u6d1b\u901a\u4f26\u4ee3\u4ec0"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u62c9\u987f\u4f26\u4ee3\u4ec0"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125769837,
-    "wof:lastmodified":1566650493,
+    "wof:lastmodified":1690931074,
     "wof:name":"Balatonrendes",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Algy\u0151"
+    ],
     "name:ceb_x_preferred":[
         "Algy\u0151"
     ],
@@ -38,6 +41,9 @@
         "\u0627\u0644\u06af\u06cc\u0648"
     ],
     "name:fra_x_preferred":[
+        "Algy\u0151"
+    ],
+    "name:gle_x_preferred":[
         "Algy\u0151"
     ],
     "name:hrv_x_preferred":[
@@ -58,13 +64,22 @@
     "name:pol_x_preferred":[
         "Algy\u0151"
     ],
+    "name:por_x_preferred":[
+        "Algy\u0151"
+    ],
     "name:ron_x_preferred":[
         "Algy\u0151"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0434\u044c\u0451"
     ],
     "name:slk_x_preferred":[
         "Algy\u0151"
     ],
     "name:slv_x_preferred":[
+        "Algy\u0151"
+    ],
+    "name:spa_x_preferred":[
         "Algy\u0151"
     ],
     "name:srp_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "Algy\u0151"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u54f2"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":1125815979,
-    "wof:lastmodified":1566650455,
+    "wof:lastmodified":1690931040,
     "wof:name":"Algyo",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

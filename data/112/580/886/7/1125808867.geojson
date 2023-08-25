@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Balatonakali"
+    ],
     "name:aze_x_preferred":[
         "Balatonakali"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fra_x_preferred":[
         "Balatonakali"
+    ],
+    "name:gle_x_preferred":[
+        "Balatonakali"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05d0\u05e7\u05dc\u05d9"
     ],
     "name:hun_x_preferred":[
         "Balatonakali"
@@ -81,6 +90,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u6d1b\u6258\u7459\u8003\u5229"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u62c9\u987f\u5965\u8003\u5229"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":1125808867,
-    "wof:lastmodified":1566650460,
+    "wof:lastmodified":1690931047,
     "wof:name":"Balatonakali",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

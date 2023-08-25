@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Szentgy\u00f6rgyv\u00f6lgy"
+    ],
+    "name:deu_x_preferred":[
+        "Szentgy\u00f6rgyv\u00f6lgy"
+    ],
     "name:eng_x_preferred":[
         "Szentgy\u00f6rgyv\u00f6lgy"
     ],
@@ -32,6 +38,9 @@
         "\u0633\u0646\u062a\u06af\u06cc\u0648\u0631\u06af\u06cc\u0648\u0648\u0644\u06af\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Szentgy\u00f6rgyv\u00f6lgy"
+    ],
+    "name:gle_x_preferred":[
         "Szentgy\u00f6rgyv\u00f6lgy"
     ],
     "name:hun_x_preferred":[
@@ -56,6 +65,12 @@
         "Szentgy\u00f6rgyv\u00f6lgy"
     ],
     "name:slv_x_preferred":[
+        "Szentgy\u00f6rgyv\u00f6lgy"
+    ],
+    "name:spa_x_preferred":[
+        "Szentgy\u00f6rgyv\u00f6lgy"
+    ],
+    "name:uzb_x_preferred":[
         "Szentgy\u00f6rgyv\u00f6lgy"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125945605,
-    "wof:lastmodified":1566650435,
+    "wof:lastmodified":1690931019,
     "wof:name":"Szentgy\u00f6rgyv\u00f6lgy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

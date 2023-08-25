@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Zeng\u0151v\u00e1rkony"
+    ],
     "name:deu_x_preferred":[
         "Zeng\u0151v\u00e1rkony"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Zeng\u0151v\u00e1rkony"
     ],
+    "name:gle_x_preferred":[
+        "Zeng\u0151v\u00e1rkony"
+    ],
     "name:hrv_x_preferred":[
         "Vakonja"
     ],
@@ -44,6 +50,9 @@
         "Zeng\u0151v\u00e1rkony"
     ],
     "name:ita_x_preferred":[
+        "Zeng\u0151v\u00e1rkony"
+    ],
+    "name:lmo_x_preferred":[
         "Zeng\u0151v\u00e1rkony"
     ],
     "name:msa_x_preferred":[
@@ -55,6 +64,9 @@
     "name:pol_x_preferred":[
         "Zeng\u0151v\u00e1rkony"
     ],
+    "name:por_x_preferred":[
+        "Zeng\u0151v\u00e1rkony"
+    ],
     "name:ron_x_preferred":[
         "Zeng\u0151v\u00e1rkony"
     ],
@@ -62,6 +74,9 @@
         "Zeng\u0151v\u00e1rkony"
     ],
     "name:slv_x_preferred":[
+        "Zeng\u0151v\u00e1rkony"
+    ],
+    "name:spa_x_preferred":[
         "Zeng\u0151v\u00e1rkony"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125987625,
-    "wof:lastmodified":1566650475,
+    "wof:lastmodified":1690931065,
     "wof:name":"Zeng\u0151v\u00e1rkony",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

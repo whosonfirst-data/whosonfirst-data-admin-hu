@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "K\u00f3spallag"
+    ],
     "name:deu_x_preferred":[
         "K\u00f3spallag"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "K\u00f3spallag"
     ],
+    "name:gle_x_preferred":[
+        "K\u00f3spallag"
+    ],
     "name:hun_x_preferred":[
         "K\u00f3spallag"
     ],
@@ -50,6 +56,9 @@
         "K\u00f3spallag"
     ],
     "name:nld_x_preferred":[
+        "K\u00f3spallag"
+    ],
+    "name:por_x_preferred":[
         "K\u00f3spallag"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125816235,
-    "wof:lastmodified":1566650456,
+    "wof:lastmodified":1690931041,
     "wof:name":"K\u00f3spallag",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

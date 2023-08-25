@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
     "geom:area_square_m":289297.533758,
-    "geom:bbox":"17.993925401,46.1095108697,18.0065672567,46.1160888018",
+    "geom:bbox":"17.993925,46.109511,18.006567,46.116089",
     "geom:latitude":46.112095,
-    "geom:longitude":18.000059,
+    "geom:longitude":18.000058,
     "gn:population":1132,
     "iso:country":"HU",
     "lbl:latitude":46.111416,
@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "B\u00fckk\u00f6sd"
+    ],
     "name:ceb_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
@@ -35,6 +38,9 @@
     "name:fra_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
+    "name:gle_x_preferred":[
+        "B\u00fckk\u00f6sd"
+    ],
     "name:hrv_x_preferred":[
         "Bike\u0161"
     ],
@@ -43,6 +49,9 @@
         "B\u00fckk\u00f6sd"
     ],
     "name:ita_x_preferred":[
+        "B\u00fckk\u00f6sd"
+    ],
+    "name:lmo_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
     "name:msa_x_preferred":[
@@ -57,6 +66,9 @@
     "name:pol_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
+    "name:por_x_preferred":[
+        "B\u00fckk\u00f6sd"
+    ],
     "name:ron_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
@@ -66,7 +78,13 @@
     "name:slv_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
+    "name:spa_x_preferred":[
+        "B\u00fckk\u00f6sd"
+    ],
     "name:swe_x_preferred":[
+        "B\u00fckk\u00f6sd"
+    ],
+    "name:uzb_x_preferred":[
         "B\u00fckk\u00f6sd"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b42eb4dd8f2a208408fea7b6f8a5be63",
+    "wof:geomhash":"24bb3d98ae0df8801de6b5af79534632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +145,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345327,
+    "wof:lastmodified":1690930749,
     "wof:name":"B\u00fckk\u00f6sd",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",
@@ -139,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.99392540098052,
-    46.10951086970897,
-    18.00656725665993,
-    46.11608880178585
+    17.993925,
+    46.109511,
+    18.006567,
+    46.116089
 ],
-  "geometry": {"coordinates":[[[18.00656725665993,46.1158951850378],[18.00630047945623,46.1141056164879],[18.00501427185839,46.11420242889312],[18.00461421204841,46.11151806501368],[18.00332806327725,46.11161485635802],[18.00306142738913,46.10982527306953],[17.99534469927931,46.11040567358225],[17.9952115159021,46.10951086970897],[17.99392540098052,46.10960754706008],[17.99445808485154,46.11318676558733],[18.0034613898182,46.11250964690566],[18.00399475329812,46.11608880178585],[18.00656725665993,46.1158951850378]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[18.006567,46.115895],[18.0063,46.114106],[18.005014,46.114202],[18.004614,46.111518],[18.003328,46.111615],[18.003061,46.109825],[17.995345,46.110406],[17.995212,46.109511],[17.993925,46.109608],[17.994458,46.113187],[18.003461,46.11251],[18.003995,46.116089],[18.006567,46.115895]]],"type":"Polygon"}
 }

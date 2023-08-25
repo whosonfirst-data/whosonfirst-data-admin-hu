@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "K\u00f6vesk\u00e1l"
+    ],
     "name:ces_x_preferred":[
         "K\u00f6vesk\u00e1l"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "K\u00f6vesk\u00e1l"
     ],
+    "name:gle_x_preferred":[
+        "K\u00f6vesk\u00e1l"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05e9\u05e7\u05d0\u05dc"
+    ],
     "name:hun_x_preferred":[
         "K\u00f6vesk\u00e1l"
     ],
     "name:ita_x_preferred":[
+        "K\u00f6vesk\u00e1l"
+    ],
+    "name:lmo_x_preferred":[
         "K\u00f6vesk\u00e1l"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +71,9 @@
         "K\u00f6vesk\u00e1l"
     ],
     "name:slv_x_preferred":[
+        "K\u00f6vesk\u00e1l"
+    ],
+    "name:spa_x_preferred":[
         "K\u00f6vesk\u00e1l"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1125937973,
-    "wof:lastmodified":1566650437,
+    "wof:lastmodified":1690931021,
     "wof:name":"K\u00f6vesk\u00e1l",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

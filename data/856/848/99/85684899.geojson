@@ -51,6 +51,9 @@
     "name:als_x_preferred":[
         "Pest"
     ],
+    "name:ang_x_preferred":[
+        "Pestscir"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0634\u062a"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:ces_x_preferred":[
         "Pest"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Pest"
     ],
     "name:dan_x_preferred":[
         "Pest"
@@ -114,6 +120,9 @@
     "name:fra_x_preferred":[
         "Pest"
     ],
+    "name:frr_x_preferred":[
+        "Pest"
+    ],
     "name:glg_x_preferred":[
         "Pest"
     ],
@@ -133,7 +142,8 @@
         "Pest"
     ],
     "name:hun_x_variant":[
-        "Pest megye"
+        "Pest megye",
+        "Pest v\u00e1rmegye"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0577\u057f"
@@ -157,6 +167,9 @@
         "\ud398\uc288\ud2b8 \uc8fc",
         "\ud398\uc288\ud2b8\uc8fc"
     ],
+    "name:lat_x_preferred":[
+        "Comitatus Pestiensis"
+    ],
     "name:lav_x_preferred":[
         "Pe\u0161tas me\u0123e"
     ],
@@ -168,6 +181,9 @@
     ],
     "name:msa_x_preferred":[
         "Pest"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0435\u0448\u0442"
     ],
     "name:nan_x_preferred":[
         "Pest"
@@ -183,6 +199,9 @@
     ],
     "name:oci_x_preferred":[
         "Comtat de Pest"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0435\u0448\u0442"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0633\u062a \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -249,6 +268,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Pest"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f69\u65af\u5dde"
     ],
     "name:zea_x_preferred":[
         "Pest"
@@ -362,7 +384,7 @@
         "wd:id":"Q188612"
     },
     "wof:country":"HU",
-    "wof:geomhash":"78df9740711d6a6eeafbc943b03ad27b",
+    "wof:geomhash":"48fed4e33f57fe474dbf2d8847d69a89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +400,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1690930639,
     "wof:name":"Pest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

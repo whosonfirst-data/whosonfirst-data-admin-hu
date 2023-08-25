@@ -57,6 +57,9 @@
     "name:aze_x_preferred":[
         "Zala"
     ],
+    "name:bel_x_preferred":[
+        "\u043c\u0435\u0434\u0437\u044c\u0435 \u0417\u0430\u043b\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b2\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:ces_x_preferred":[
         "Zala"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Zala"
     ],
     "name:dan_x_preferred":[
         "Zala"
@@ -108,6 +114,9 @@
     "name:fra_x_preferred":[
         "Zala"
     ],
+    "name:frr_x_preferred":[
+        "Zala"
+    ],
     "name:glg_x_preferred":[
         "Zala"
     ],
@@ -133,7 +142,8 @@
         "Zala"
     ],
     "name:hun_x_variant":[
-        "Zala megye"
+        "Zala megye",
+        "Zala v\u00e1rmegye"
     ],
     "name:ind_x_preferred":[
         "Zala"
@@ -177,14 +187,26 @@
     "name:msa_x_preferred":[
         "Zala"
     ],
+    "name:myv_x_preferred":[
+        "\u0417\u0430\u043b\u0430"
+    ],
     "name:nan_x_preferred":[
         "Zala"
     ],
     "name:nld_x_preferred":[
         "Zala"
     ],
+    "name:nno_x_preferred":[
+        "Zala"
+    ],
     "name:nob_x_preferred":[
         "Zala Fylke"
+    ],
+    "name:nob_x_variant":[
+        "Zala"
+    ],
+    "name:oss_x_preferred":[
+        "\u0417\u0430\u043b\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u0632\u0627\u0644\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -240,6 +262,9 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c32\u0c3e \u0c15\u0c4c\u0c02\u0c1f\u0c40"
     ],
+    "name:tgk_x_preferred":[
+        "\u0417\u043e\u043b\u043e"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e0b\u0e32\u0e25\u0e48\u0e32"
     ],
@@ -263,6 +288,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Zala"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f50\u6d1b\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u4f50\u6d1b\u5dde"
@@ -374,7 +402,7 @@
         "wd:id":"Q185374"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8d6f6341c63354ba4c38a71b375c46ed",
+    "wof:geomhash":"f03a3a6c34e56d67028f2fc9f063a932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +418,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1690930641,
     "wof:name":"Zala",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

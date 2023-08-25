@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Balf"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dc\u05e3"
+    ],
     "name:hun_x_preferred":[
         "Balf"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0444"
+    ],
+    "name:tgl_x_preferred":[
+        "Balf"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":null,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125943997,
-    "wof:lastmodified":1566650436,
+    "wof:lastmodified":1690931019,
     "wof:name":"Balf",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

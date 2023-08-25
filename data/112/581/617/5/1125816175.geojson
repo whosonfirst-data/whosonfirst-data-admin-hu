@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "J\u00f3svaf\u0151"
+    ],
+    "name:ces_x_preferred":[
+        "J\u00f3svaf\u0151"
+    ],
     "name:deu_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
@@ -35,6 +41,9 @@
         "\u06cc\u0648\u0634\u0648\u0627\u0641\u0648"
     ],
     "name:fra_x_preferred":[
+        "J\u00f3svaf\u0151"
+    ],
+    "name:gle_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
+    "name:por_x_preferred":[
+        "J\u00f3svaf\u0151"
+    ],
     "name:ron_x_preferred":[
         "J\u00f3svaf\u0151"
     ],
@@ -66,6 +78,9 @@
     ],
     "name:slv_x_preferred":[
         "J\u00f3svaf\u0151"
+    ],
+    "name:uzb_x_preferred":[
+        "Josvafo"
     ],
     "name:vie_x_preferred":[
         "J\u00f3svaf\u0151"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1125816175,
-    "wof:lastmodified":1566650453,
+    "wof:lastmodified":1690931037,
     "wof:name":"J\u00f3svaf\u0151",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

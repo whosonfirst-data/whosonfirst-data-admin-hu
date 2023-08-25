@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Palkonya"
+    ],
     "name:ces_x_preferred":[
         "Palkonya"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Palkonya"
     ],
+    "name:gle_x_preferred":[
+        "Palkonya"
+    ],
     "name:hrv_x_preferred":[
         "Plakinja"
     ],
@@ -47,6 +53,9 @@
         "Palkonya"
     ],
     "name:ita_x_preferred":[
+        "Palkonya"
+    ],
+    "name:lmo_x_preferred":[
         "Palkonya"
     ],
     "name:msa_x_preferred":[
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Palkonya"
     ],
+    "name:por_x_preferred":[
+        "Palkonya"
+    ],
     "name:ron_x_preferred":[
         "Palkonya"
     ],
@@ -68,6 +80,9 @@
         "Palkonya"
     ],
     "name:slv_x_preferred":[
+        "Palkonya"
+    ],
+    "name:spa_x_preferred":[
         "Palkonya"
     ],
     "name:und_x_variant":[
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125987269,
-    "wof:lastmodified":1566650479,
+    "wof:lastmodified":1690931071,
     "wof:name":"Palkonya",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

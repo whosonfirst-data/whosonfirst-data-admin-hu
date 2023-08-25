@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nemesb\u00fck"
+    ],
     "name:ceb_x_preferred":[
         "Nemesb\u00fck"
     ],
@@ -35,6 +38,9 @@
         "\u0646\u0645\u0634\u0628\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Nemesb\u00fck"
+    ],
+    "name:gle_x_preferred":[
         "Nemesb\u00fck"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +65,9 @@
         "Nemesb\u00fck"
     ],
     "name:slv_x_preferred":[
+        "Nemesb\u00fck"
+    ],
+    "name:spa_x_preferred":[
         "Nemesb\u00fck"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1126014919,
-    "wof:lastmodified":1566650486,
+    "wof:lastmodified":1690931071,
     "wof:name":"Nemesb\u00fck",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

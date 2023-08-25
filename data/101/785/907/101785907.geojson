@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Tura"
     ],
+    "name:gle_x_preferred":[
+        "Tura"
+    ],
     "name:hbs_x_preferred":[
         "Tura"
     ],
@@ -98,7 +101,13 @@
     "name:slv_x_preferred":[
         "Tura"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0430"
+    ],
     "name:swe_x_preferred":[
+        "Tura"
+    ],
+    "name:szl_x_preferred":[
         "Tura"
     ],
     "name:ukr_x_preferred":[
@@ -168,7 +177,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1636500619,
+    "wof:lastmodified":1690930784,
     "wof:name":"Tura",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

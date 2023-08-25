@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00f3zsva"
+    ],
     "name:deu_x_preferred":[
         "B\u00f3zsva"
     ],
@@ -35,6 +38,9 @@
         "\u0628\u0648\u0698\u0648\u0627"
     ],
     "name:fra_x_preferred":[
+        "B\u00f3zsva"
+    ],
+    "name:gle_x_preferred":[
         "B\u00f3zsva"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "B\u00f3zsva"
     ],
+    "name:por_x_preferred":[
+        "B\u00f3zsva"
+    ],
     "name:ron_x_preferred":[
         "B\u00f3zsva"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Kisb\u00f3zsva"
+    ],
+    "name:uzb_x_preferred":[
+        "Bozsva"
     ],
     "name:vie_x_preferred":[
         "B\u00f3zsva"
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125964729,
-    "wof:lastmodified":1566650471,
+    "wof:lastmodified":1690931060,
     "wof:name":"Nagyb\u00f3zsva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Holl\u00f3k\u0151"
+    ],
+    "name:aze_x_preferred":[
+        "Holloko"
+    ],
+    "name:bos_x_preferred":[
+        "Holl\u00f3k\u0151"
+    ],
     "name:cat_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
     "name:ces_x_preferred":[
         "Holl\u00f3k\u0151"
+    ],
+    "name:chu_x_preferred":[
+        "\u0425\u043e\u043b\u043e\u043a\u0454"
     ],
     "name:deu_x_preferred":[
         "Holl\u00f3k\u0151"
@@ -40,6 +52,9 @@
     "name:epo_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
+    "name:est_x_preferred":[
+        "Holl\u00f3k\u0151"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0644\u0648\u06a9\u0648"
     ],
@@ -47,6 +62,9 @@
         "Holl\u00f3k\u0151"
     ],
     "name:fra_x_preferred":[
+        "Holl\u00f3k\u0151"
+    ],
+    "name:gle_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
     "name:heb_x_preferred":[
@@ -61,6 +79,12 @@
     "name:hun_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u056c\u0578\u056f\u056b\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0578\u056c\u056c\u0578\u0584\u0578\u0582"
+    ],
     "name:ita_x_preferred":[
         "Holl\u00f3k\u0151"
     ],
@@ -73,11 +97,17 @@
     "name:kor_x_preferred":[
         "\ud640\ub85c\ucfa8"
     ],
+    "name:lav_x_preferred":[
+        "Hollok\u0113"
+    ],
     "name:lit_x_preferred":[
         "Holok\u0117"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u043b\u043e\u043a\u0435"
+    ],
+    "name:mlt_x_preferred":[
+        "Holl\u00f3k\u0151"
     ],
     "name:msa_x_preferred":[
         "Holl\u00f3k\u0151"
@@ -179,7 +209,7 @@
         }
     ],
     "wof:id":1125891969,
-    "wof:lastmodified":1566650460,
+    "wof:lastmodified":1690931046,
     "wof:name":"Holl\u00f3k\u0151",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

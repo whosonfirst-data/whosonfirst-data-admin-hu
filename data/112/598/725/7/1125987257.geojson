@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Paloznak"
+    ],
+    "name:ces_x_preferred":[
+        "Paloznak"
+    ],
     "name:eng_x_preferred":[
         "Paloznak"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Paloznak"
+    ],
+    "name:gle_x_preferred":[
+        "Paloznak"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05d6\u05e0\u05e7"
     ],
     "name:hun_x_preferred":[
         "Paloznak"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1125987257,
-    "wof:lastmodified":1566650477,
+    "wof:lastmodified":1690931068,
     "wof:name":"Paloznak",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

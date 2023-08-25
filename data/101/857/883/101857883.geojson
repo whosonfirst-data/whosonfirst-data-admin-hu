@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Cs\u00e1voly"
+    ],
     "name:ceb_x_preferred":[
         "Cs\u00e1voly"
     ],
@@ -42,6 +45,12 @@
     "name:fra_x_preferred":[
         "Cs\u00e1voly"
     ],
+    "name:gle_x_preferred":[
+        "Cs\u00e1voly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05d1\u05d5\u05d9"
+    ],
     "name:hrv_x_preferred":[
         "\u010cavolj"
     ],
@@ -52,6 +61,9 @@
         "Cs\u00e1voly"
     ],
     "name:ita_x_preferred":[
+        "Cs\u00e1voly"
+    ],
+    "name:lmo_x_preferred":[
         "Cs\u00e1voly"
     ],
     "name:msa_x_preferred":[
@@ -66,6 +78,9 @@
     "name:pol_x_preferred":[
         "Cs\u00e1voly"
     ],
+    "name:por_x_preferred":[
+        "Cs\u00e1voly"
+    ],
     "name:ron_x_preferred":[
         "Cs\u00e1voly"
     ],
@@ -75,10 +90,16 @@
     "name:slv_x_preferred":[
         "Cs\u00e1voly"
     ],
+    "name:spa_x_preferred":[
+        "Cs\u00e1voly"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u0432\u043e\u0459"
     ],
     "name:swe_x_preferred":[
+        "Cs\u00e1voly"
+    ],
+    "name:uzb_x_preferred":[
         "Cs\u00e1voly"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +162,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345327,
+    "wof:lastmodified":1690930755,
     "wof:name":"Cs\u00e1voly",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

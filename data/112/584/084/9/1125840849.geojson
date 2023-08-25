@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Asz\u00f3f\u0151"
+    ],
     "name:ceb_x_preferred":[
         "Asz\u00f3f\u0151"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fra_x_preferred":[
         "Asz\u00f3f\u0151"
+    ],
+    "name:gle_x_preferred":[
+        "Asz\u00f3f\u0151"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d5\u05e4\u05d4"
     ],
     "name:hun_x_preferred":[
         "Als\u00f3mozs\u00e1r"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":1125840849,
-    "wof:lastmodified":1566650497,
+    "wof:lastmodified":1690931081,
     "wof:name":"Asz\u00f3f\u0151",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Galgah\u00e9v\u00edz"
+    ],
     "name:ceb_x_preferred":[
         "Galgah\u00e9v\u00edz"
     ],
@@ -40,6 +43,9 @@
     "name:fra_x_preferred":[
         "Galgah\u00e9v\u00edz"
     ],
+    "name:gle_x_preferred":[
+        "Galgah\u00e9v\u00edz"
+    ],
     "name:hun_x_preferred":[
         "Galgah\u00e9v\u00edz"
     ],
@@ -53,6 +59,9 @@
         "Galgah\u00e9v\u00edz"
     ],
     "name:nld_x_preferred":[
+        "Galgah\u00e9v\u00edz"
+    ],
+    "name:por_x_preferred":[
         "Galgah\u00e9v\u00edz"
     ],
     "name:ron_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1125862289,
-    "wof:lastmodified":1566650452,
+    "wof:lastmodified":1690931036,
     "wof:name":"Galgah\u00e9viz",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

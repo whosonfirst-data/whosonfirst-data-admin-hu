@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Reg\u00e9c"
+    ],
     "name:ces_x_preferred":[
         "Reg\u00e9c"
     ],
@@ -38,6 +41,9 @@
         "\u0631\u06af\u062a\u0633"
     ],
     "name:fra_x_preferred":[
+        "Reg\u00e9c"
+    ],
+    "name:gle_x_preferred":[
         "Reg\u00e9c"
     ],
     "name:heb_x_preferred":[
@@ -64,6 +70,9 @@
     "name:pol_x_preferred":[
         "Reg\u00e9c"
     ],
+    "name:por_x_preferred":[
+        "Reg\u00e9c"
+    ],
     "name:ron_x_preferred":[
         "Reg\u00e9c"
     ],
@@ -74,6 +83,9 @@
         "Reg\u00e9c"
     ],
     "name:swe_x_preferred":[
+        "Reg\u00e9c"
+    ],
+    "name:uzb_x_preferred":[
         "Reg\u00e9c"
     ],
     "name:vie_x_preferred":[
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":1125968407,
-    "wof:lastmodified":1566650471,
+    "wof:lastmodified":1690931060,
     "wof:name":"Reg\u00e9c",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

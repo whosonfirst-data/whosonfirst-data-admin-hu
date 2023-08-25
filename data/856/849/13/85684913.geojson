@@ -78,6 +78,9 @@
     "name:chv_x_preferred":[
         "\u041d\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:cym_x_preferred":[
+        "Sir N\u00f3gr\u00e1d"
+    ],
     "name:dan_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
@@ -111,6 +114,9 @@
     "name:fra_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
+    "name:frr_x_preferred":[
+        "N\u00f3gr\u00e1d"
+    ],
     "name:glg_x_preferred":[
         "Condado de N\u00f3gr\u00e1d"
     ],
@@ -133,7 +139,8 @@
         "N\u00f3gr\u00e1d"
     ],
     "name:hun_x_variant":[
-        "N\u00f3gr\u00e1d megye"
+        "N\u00f3gr\u00e1d megye",
+        "N\u00f3gr\u00e1d v\u00e1rmegye"
     ],
     "name:ind_x_preferred":[
         "N\u00f3gr\u00e1d"
@@ -171,6 +178,9 @@
     "name:msa_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
+    "name:myv_x_preferred":[
+        "\u041d\u043e\u0433\u0440\u0430\u0434"
+    ],
     "name:nan_x_preferred":[
         "N\u00f3gr\u00e1d"
     ],
@@ -179,6 +189,9 @@
     ],
     "name:nob_x_preferred":[
         "N\u00f3gr\u00e1d"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0433\u0440\u0430\u0434"
     ],
     "name:pol_x_preferred":[
         "Komitat N\u00f3gr\u00e1d"
@@ -251,6 +264,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han N\u00f3gr\u00e1d"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8bfa\u683c\u62c9\u5fb7\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u8afe\u683c\u62c9\u5fb7\u5dde"
@@ -362,7 +378,7 @@
         "wd:id":"Q194273"
     },
     "wof:country":"HU",
-    "wof:geomhash":"2ad7c58110f4903fb69237e1492bfe2a",
+    "wof:geomhash":"bbcd4316eeb3424caa456d5347e7ea36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +394,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1690930643,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

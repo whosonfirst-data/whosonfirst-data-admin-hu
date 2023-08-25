@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hidegs\u00e9g"
+    ],
     "name:deu_x_preferred":[
         "Kleinandr\u00e4"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:fra_x_preferred":[
         "Hidegs\u00e9g"
+    ],
+    "name:gle_x_preferred":[
+        "Hidegs\u00e9g"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05d3\u05d2\u05e9\u05d2"
     ],
     "name:hrv_x_preferred":[
         "Vede\u0161in"
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Hidegs\u00e9g"
     ],
+    "name:por_x_preferred":[
+        "Hidegs\u00e9g"
+    ],
     "name:ron_x_preferred":[
         "Hidegs\u00e9g"
     ],
@@ -68,6 +80,9 @@
         "Hidegs\u00e9g"
     ],
     "name:slv_x_preferred":[
+        "Hidegs\u00e9g"
+    ],
+    "name:spa_x_preferred":[
         "Hidegs\u00e9g"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":1125962509,
-    "wof:lastmodified":1566650470,
+    "wof:lastmodified":1690931058,
     "wof:name":"Hidegs\u00e9g",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

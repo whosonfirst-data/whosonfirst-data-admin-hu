@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sz\u00f6gliget"
+    ],
     "name:deu_x_preferred":[
         "Sz\u00f6gliget"
     ],
@@ -35,6 +38,9 @@
         "\u0633\u0648\u06af\u0644\u06cc\u06af\u062a"
     ],
     "name:fra_x_preferred":[
+        "Sz\u00f6gliget"
+    ],
+    "name:gle_x_preferred":[
         "Sz\u00f6gliget"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Sz\u00f6gliget"
     ],
+    "name:por_x_preferred":[
+        "Sz\u00f6gliget"
+    ],
     "name:ron_x_preferred":[
         "Sz\u00f6gliget"
     ],
@@ -65,6 +74,9 @@
         "Sz\u00f6gliget"
     ],
     "name:slv_x_preferred":[
+        "Sz\u00f6gliget"
+    ],
+    "name:uzb_x_preferred":[
         "Sz\u00f6gliget"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125998947,
-    "wof:lastmodified":1566650464,
+    "wof:lastmodified":1690931052,
     "wof:name":"Sz\u00f6gliget",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

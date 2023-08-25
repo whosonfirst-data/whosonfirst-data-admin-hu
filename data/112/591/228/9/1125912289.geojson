@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00e1nk"
+    ],
     "name:cat_x_preferred":[
         "B\u00e1nk"
     ],
@@ -40,8 +43,14 @@
     "name:fra_x_preferred":[
         "B\u00e1nk"
     ],
+    "name:gle_x_preferred":[
+        "B\u00e1nk"
+    ],
     "name:glg_x_preferred":[
         "B\u00e1nk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e0\u05e7"
     ],
     "name:hun_x_preferred":[
         "B\u00e1nk"
@@ -59,6 +68,9 @@
         "B\u00e1nk"
     ],
     "name:pol_x_preferred":[
+        "B\u00e1nk"
+    ],
+    "name:por_x_preferred":[
         "B\u00e1nk"
     ],
     "name:ron_x_preferred":[
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1125912289,
-    "wof:lastmodified":1566650472,
+    "wof:lastmodified":1690931062,
     "wof:name":"B\u00e1nk",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

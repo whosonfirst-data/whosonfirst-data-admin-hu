@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tiszasz\u0151l\u0151s"
+    ],
+    "name:ceb_x_preferred":[
+        "Tiszasz\u0151l\u0151s"
+    ],
     "name:eng_x_preferred":[
         "Tiszasz\u0151l\u0151s"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Tiszasz\u0151l\u0151s"
+    ],
+    "name:gle_x_preferred":[
+        "Tiszasz\u0151l\u0151s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e1\u05d4\u05e1\u05dc\u05e9"
     ],
     "name:hun_x_preferred":[
         "Tiszasz\u0151l\u0151s"
@@ -58,11 +70,17 @@
     "name:slv_x_preferred":[
         "Tiszasz\u0151l\u0151s"
     ],
+    "name:swe_x_preferred":[
+        "Tiszasz\u0151l\u0151s"
+    ],
     "name:vie_x_preferred":[
         "Tiszasz\u0151l\u0151s"
     ],
     "name:zho_x_preferred":[
         "\u8482\u7ecd\u745f\u52d2\u4ec0"
+    ],
+    "name:zho_x_variant":[
+        "\u8482\u8428\u745f\u52d2\u4ec0"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":1125835535,
-    "wof:lastmodified":1566650499,
+    "wof:lastmodified":1690931084,
     "wof:name":"Tiszasz\u0151l\u0151s",
     "wof:parent_id":85684891,
     "wof:placetype":"locality",

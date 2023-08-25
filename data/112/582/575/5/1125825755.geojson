@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "F\u00fcz\u00e9rradv\u00e1ny"
+    ],
     "name:deu_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
@@ -32,6 +35,9 @@
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
     "name:fra_x_preferred":[
+        "F\u00fcz\u00e9rradv\u00e1ny"
+    ],
+    "name:gle_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
     "name:heb_x_preferred":[
@@ -53,6 +59,9 @@
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
     "name:pol_x_preferred":[
+        "F\u00fcz\u00e9rradv\u00e1ny"
+    ],
+    "name:por_x_preferred":[
         "F\u00fcz\u00e9rradv\u00e1ny"
     ],
     "name:ron_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":1125825755,
-    "wof:lastmodified":1566650493,
+    "wof:lastmodified":1690931074,
     "wof:name":"F\u00fcz\u00e9rradv\u00e1ny",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

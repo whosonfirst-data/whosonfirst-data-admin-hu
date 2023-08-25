@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Zam\u00e1rdi"
     ],
+    "name:gle_x_preferred":[
+        "Zam\u00e1rdi"
+    ],
     "name:hrv_x_preferred":[
         "Zam\u00e1rdi"
     ],
@@ -73,6 +76,9 @@
     "name:pol_x_preferred":[
         "Zam\u00e1rdi"
     ],
+    "name:por_x_preferred":[
+        "Zam\u00e1rdi"
+    ],
     "name:ron_x_preferred":[
         "Zam\u00e1rdi"
     ],
@@ -87,6 +93,9 @@
     ],
     "name:slv_x_preferred":[
         "Zam\u00e1rdi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043c\u0430\u0440\u0434\u0438"
     ],
     "name:swe_x_preferred":[
         "Zam\u00e1rdi"
@@ -151,7 +160,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345325,
+    "wof:lastmodified":1690930721,
     "wof:name":"Zam\u00e1rdi",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

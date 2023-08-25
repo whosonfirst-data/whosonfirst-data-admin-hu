@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Porva"
+    ],
+    "name:ces_x_preferred":[
+        "Porva"
+    ],
+    "name:deu_x_preferred":[
+        "Porva"
+    ],
     "name:eng_x_preferred":[
         "Porva"
     ],
@@ -34,10 +43,19 @@
     "name:fra_x_preferred":[
         "Porva"
     ],
+    "name:gle_x_preferred":[
+        "Porva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d5\u05d5\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Porva"
     ],
     "name:ita_x_preferred":[
+        "Porva"
+    ],
+    "name:lmo_x_preferred":[
         "Porva"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +74,9 @@
         "Porva"
     ],
     "name:slv_x_preferred":[
+        "Porva"
+    ],
+    "name:spa_x_preferred":[
         "Porva"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":1125816365,
-    "wof:lastmodified":1566650457,
+    "wof:lastmodified":1690931043,
     "wof:name":"Porva",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

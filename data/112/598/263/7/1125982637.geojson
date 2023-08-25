@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Vizsoly"
+    ],
     "name:deu_x_preferred":[
         "Vizsoly"
     ],
@@ -35,6 +38,9 @@
         "\u0648\u06cc\u0698\u0648\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:gle_x_preferred":[
         "Vizsoly"
     ],
     "name:heb_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Vizsoly"
     ],
+    "name:por_x_preferred":[
+        "Vizsoly"
+    ],
     "name:ron_x_preferred":[
         "Vizsoly"
     ],
@@ -68,6 +77,9 @@
         "Vizsoly"
     ],
     "name:swe_x_preferred":[
+        "Vizsoly"
+    ],
+    "name:uzb_x_preferred":[
         "Vizsoly"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125982637,
-    "wof:lastmodified":1566650479,
+    "wof:lastmodified":1690931071,
     "wof:name":"Vizsoly",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",

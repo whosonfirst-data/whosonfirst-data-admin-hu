@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nagylak"
+    ],
+    "name:bar_x_preferred":[
+        "Nagylak"
+    ],
     "name:ces_x_preferred":[
         "Nagylak"
     ],
@@ -38,6 +44,9 @@
         "\u0646\u0627\u06af\u06cc\u0644\u0627\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Nagylak"
+    ],
+    "name:gle_x_preferred":[
         "Nagylak"
     ],
     "name:hun_x_preferred":[
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Nagylak"
     ],
+    "name:por_x_preferred":[
+        "Nagylak"
+    ],
     "name:ron_x_preferred":[
         "N\u0103dlac"
     ],
@@ -70,8 +82,14 @@
     "name:slv_x_preferred":[
         "Nagylak"
     ],
+    "name:uzb_x_preferred":[
+        "Nagylak"
+    ],
     "name:vie_x_preferred":[
         "Nagylak"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5409\u6d1b\u514b"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1125816307,
-    "wof:lastmodified":1566650456,
+    "wof:lastmodified":1690931042,
     "wof:name":"Nagylak",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

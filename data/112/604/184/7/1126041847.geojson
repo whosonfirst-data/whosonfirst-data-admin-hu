@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.4689715,48.476534,21.4689715,48.476534",
+    "geom:bbox":"21.468971,48.476534,21.468971,48.476534",
     "geom:latitude":48.476534,
     "geom:longitude":21.468971,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00f3zsva"
+    ],
     "name:deu_x_preferred":[
         "B\u00f3zsva"
     ],
@@ -33,6 +36,9 @@
         "\u0628\u0648\u0698\u0648\u0627"
     ],
     "name:fra_x_preferred":[
+        "B\u00f3zsva"
+    ],
+    "name:gle_x_preferred":[
         "B\u00f3zsva"
     ],
     "name:heb_x_preferred":[
@@ -56,6 +62,9 @@
     "name:pol_x_preferred":[
         "B\u00f3zsva"
     ],
+    "name:por_x_preferred":[
+        "B\u00f3zsva"
+    ],
     "name:ron_x_preferred":[
         "B\u00f3zsva"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:slv_x_preferred":[
         "B\u00f3zsva"
+    ],
+    "name:uzb_x_preferred":[
+        "Bozsva"
     ],
     "name:vie_x_preferred":[
         "B\u00f3zsva"
@@ -111,7 +123,7 @@
     },
     "wof:country":"HU",
     "wof:created":1497302202,
-    "wof:geomhash":"dc0e34309132b731bef694d12946fc7f",
+    "wof:geomhash":"27ed11df080c5997183ee928d59aab4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1126041847,
-    "wof:lastmodified":1566650451,
+    "wof:lastmodified":1690931034,
     "wof:name":"B\u00f3zsva",
     "wof:parent_id":85684919,
     "wof:placetype":"locality",
@@ -132,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.4689715,
+    21.468971,
     48.476534,
-    21.4689715,
+    21.468971,
     48.476534
 ],
-  "geometry": {"coordinates":[21.4689715,48.476534],"type":"Point"}
+  "geometry": {"coordinates":[21.468971,48.476534],"type":"Point"}
 }

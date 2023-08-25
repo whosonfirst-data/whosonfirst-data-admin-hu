@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Zsira"
+    ],
     "name:cat_x_preferred":[
         "Zsira"
     ],
@@ -46,6 +49,12 @@
     "name:fra_x_preferred":[
         "Zsira"
     ],
+    "name:gle_x_preferred":[
+        "Zsira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d9\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Zsira"
     ],
@@ -68,6 +77,9 @@
         "Zsira"
     ],
     "name:pol_x_preferred":[
+        "Zsira"
+    ],
+    "name:por_x_preferred":[
         "Zsira"
     ],
     "name:ron_x_preferred":[
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":1126022673,
-    "wof:lastmodified":1566650447,
+    "wof:lastmodified":1690931029,
     "wof:name":"Zsira",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

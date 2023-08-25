@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kaposszerdahely"
+    ],
     "name:deu_x_preferred":[
         "Kaposszerdahely"
     ],
@@ -34,10 +37,16 @@
     "name:fra_x_preferred":[
         "Kaposszerdahely"
     ],
+    "name:gle_x_preferred":[
+        "Kaposszerdahely"
+    ],
     "name:hun_x_preferred":[
         "Kaposszerdahely"
     ],
     "name:ita_x_preferred":[
+        "Kaposszerdahely"
+    ],
+    "name:lmo_x_preferred":[
         "Kaposszerdahely"
     ],
     "name:msa_x_preferred":[
@@ -49,6 +58,9 @@
     "name:nld_x_preferred":[
         "Kaposszerdahely"
     ],
+    "name:por_x_preferred":[
+        "Kaposszerdahely"
+    ],
     "name:ron_x_preferred":[
         "Kaposszerdahely"
     ],
@@ -56,6 +68,9 @@
         "Kaposszerdahely"
     ],
     "name:slv_x_preferred":[
+        "Kaposszerdahely"
+    ],
+    "name:spa_x_preferred":[
         "Kaposszerdahely"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125986957,
-    "wof:lastmodified":1566650476,
+    "wof:lastmodified":1690931067,
     "wof:name":"Kaposszerdahely",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

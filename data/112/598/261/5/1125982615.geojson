@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Szentb\u00e9kk\u00e1lla"
+    ],
     "name:ces_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
@@ -40,10 +43,19 @@
     "name:fra_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
+    "name:gle_x_preferred":[
+        "Szentb\u00e9kk\u00e1lla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d1\u05e7\u05d0\u05dc\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
     "name:ita_x_preferred":[
+        "Szentb\u00e9kk\u00e1lla"
+    ],
+    "name:lmo_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
     "name:msa_x_preferred":[
@@ -62,6 +74,9 @@
         "Szentb\u00e9kk\u00e1lla"
     ],
     "name:slv_x_preferred":[
+        "Szentb\u00e9kk\u00e1lla"
+    ],
+    "name:spa_x_preferred":[
         "Szentb\u00e9kk\u00e1lla"
     ],
     "name:und_x_variant":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1125982615,
-    "wof:lastmodified":1566650476,
+    "wof:lastmodified":1690931067,
     "wof:name":"Szentb\u00e9kk\u00e1lla",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

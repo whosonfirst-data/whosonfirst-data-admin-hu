@@ -69,8 +69,14 @@
     "name:cat_x_preferred":[
         "Somogy"
     ],
+    "name:ceb_x_preferred":[
+        "Somogy megye"
+    ],
     "name:ces_x_preferred":[
         "Somogy"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Somogy"
     ],
     "name:dan_x_preferred":[
         "Somogy"
@@ -83,6 +89,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bc\u03cc\u03b3\u03ba\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03cc\u03bc\u03bf\u03c4\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Somogy"
@@ -108,6 +117,9 @@
     "name:fra_x_preferred":[
         "Somogy"
     ],
+    "name:frr_x_preferred":[
+        "Somogy"
+    ],
     "name:glg_x_preferred":[
         "Somogy"
     ],
@@ -130,7 +142,8 @@
         "Somogy"
     ],
     "name:hun_x_variant":[
-        "Somogy megye"
+        "Somogy megye",
+        "Somogy v\u00e1rmegye"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0574\u0578\u0563\u056b"
@@ -156,6 +169,9 @@
     "name:kor_x_variant":[
         "\uc1fc\ubaa8\uc9c0\uc8fc"
     ],
+    "name:lat_x_preferred":[
+        "Comitatus Simigiensis"
+    ],
     "name:lav_x_preferred":[
         "\u0160omo\u0123as me\u0123e"
     ],
@@ -174,14 +190,26 @@
     "name:msa_x_preferred":[
         "Somogy"
     ],
+    "name:myv_x_preferred":[
+        "\u0428\u043e\u043c\u043e\u0434\u044c"
+    ],
     "name:nan_x_preferred":[
         "Somogy"
     ],
     "name:nld_x_preferred":[
         "Somogy"
     ],
+    "name:nno_x_preferred":[
+        "Somogy"
+    ],
     "name:nob_x_preferred":[
         "Saomogy fylke"
+    ],
+    "name:nob_x_variant":[
+        "Somogy"
+    ],
+    "name:oss_x_preferred":[
+        "\u0428\u043e\u043c\u043e\u0434\u044c"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0648\u0645\u0648\u062f \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -199,7 +227,8 @@
         "Somogy"
     ],
     "name:ron_x_variant":[
-        "Jude\u021bul Somogy"
+        "Jude\u021bul Somogy",
+        "jude\u021bul Somogy"
     ],
     "name:rus_x_preferred":[
         "\u0428\u043e\u043c\u043e\u0434\u044c"
@@ -257,6 +286,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Somogy"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ecd\u83ab\u5409\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7d39\u83ab\u5409\u5dde"
@@ -368,7 +400,7 @@
         "wd:id":"Q190522"
     },
     "wof:country":"HU",
-    "wof:geomhash":"ebea565bbb5e0a26e650c548ec401317",
+    "wof:geomhash":"56c8d56dd2e6d21e9e26e50e41b38137",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +416,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1690930637,
     "wof:name":"Somogy",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

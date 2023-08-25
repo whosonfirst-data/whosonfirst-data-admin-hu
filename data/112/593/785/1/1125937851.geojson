@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Balatonf\u0171zf\u0151"
+    ],
     "name:ceb_x_preferred":[
         "Balatonf\u0171zf\u0151"
     ],
@@ -43,6 +46,12 @@
     "name:fra_x_preferred":[
         "Balatonf\u0171zf\u0151"
     ],
+    "name:gle_x_preferred":[
+        "Balatonf\u0171zf\u0151"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05e4\u05d9\u05d6\u05e4\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Balatonf\u0171zf\u0151"
     ],
@@ -61,6 +70,9 @@
     "name:pol_x_preferred":[
         "Balatonf\u0171zf\u0151"
     ],
+    "name:por_x_preferred":[
+        "Balatonf\u0171zf\u0151"
+    ],
     "name:ron_x_preferred":[
         "Balatonf\u0171zf\u0151"
     ],
@@ -75,6 +87,9 @@
     ],
     "name:slv_x_preferred":[
         "Balatonf\u0171zf\u0151"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0442\u043e\u043d\u0444\u0438\u0437\u0444\u0435"
     ],
     "name:swe_x_preferred":[
         "Balatonf\u0171zf\u0151"
@@ -137,7 +152,7 @@
         }
     ],
     "wof:id":1125937851,
-    "wof:lastmodified":1566650438,
+    "wof:lastmodified":1690931022,
     "wof:name":"Balatonf\u016fzf\u0151",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

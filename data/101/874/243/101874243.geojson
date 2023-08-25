@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Dunafalva"
+    ],
+    "name:deu_x_preferred":[
+        "Dunafalva"
+    ],
     "name:eng_x_preferred":[
         "Dunafalva"
     ],
@@ -32,6 +38,12 @@
     "name:fra_x_preferred":[
         "Dunafalva"
     ],
+    "name:gle_x_preferred":[
+        "Dunafalva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05e4\u05dc\u05d5\u05d5\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Topolovac"
     ],
@@ -39,6 +51,9 @@
         "Dunafalva"
     ],
     "name:ita_x_preferred":[
+        "Dunafalva"
+    ],
+    "name:lmo_x_preferred":[
         "Dunafalva"
     ],
     "name:msa_x_preferred":[
@@ -53,6 +68,9 @@
     "name:pol_x_preferred":[
         "Dunafalva"
     ],
+    "name:por_x_preferred":[
+        "Dunafalva"
+    ],
     "name:ron_x_preferred":[
         "Dunafalva"
     ],
@@ -62,10 +80,16 @@
     "name:slv_x_preferred":[
         "Dunafalva"
     ],
+    "name:spa_x_preferred":[
+        "Dunafalva"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0444\u0430\u043b\u0432\u0430"
     ],
     "name:swe_x_preferred":[
+        "Dunafalva"
+    ],
+    "name:uzb_x_preferred":[
         "Dunafalva"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +150,7 @@
         }
     ],
     "wof:id":101874243,
-    "wof:lastmodified":1582345325,
+    "wof:lastmodified":1690930720,
     "wof:name":"Dunafalva",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

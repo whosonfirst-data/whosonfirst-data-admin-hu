@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Feketeerd\u0151"
+    ],
     "name:eng_x_preferred":[
         "Feketeerd\u0151"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "Feketeerd\u0151"
+    ],
+    "name:gle_x_preferred":[
+        "Feketeerd\u0151"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e7\u05d8\u05d0\u05e8\u05d3\u05d4"
     ],
     "name:hun_x_preferred":[
         "Feketeerd\u0151"
@@ -47,6 +56,9 @@
         "Feketeerd\u0151"
     ],
     "name:pol_x_preferred":[
+        "Feketeerd\u0151"
+    ],
+    "name:por_x_preferred":[
         "Feketeerd\u0151"
     ],
     "name:ron_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125786385,
-    "wof:lastmodified":1566650496,
+    "wof:lastmodified":1690931080,
     "wof:name":"Feketeerd\u0151",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

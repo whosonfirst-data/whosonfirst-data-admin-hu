@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Uzsa"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0437\u0441\u0430"
     ],
     "name:ceb_x_preferred":[
+        "Uzsa"
+    ],
+    "name:ces_x_preferred":[
+        "Uzsa"
+    ],
+    "name:deu_x_preferred":[
         "Uzsa"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +49,19 @@
     "name:fra_x_preferred":[
         "Uzsa"
     ],
+    "name:gle_x_preferred":[
+        "Uzsa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d6'\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Uzsa"
     ],
     "name:ita_x_preferred":[
+        "Uzsa"
+    ],
+    "name:lmo_x_preferred":[
         "Uzsa"
     ],
     "name:msa_x_preferred":[
@@ -62,6 +80,9 @@
         "Uzsa"
     ],
     "name:slv_x_preferred":[
+        "Uzsa"
+    ],
+    "name:spa_x_preferred":[
         "Uzsa"
     ],
     "name:swe_x_preferred":[
@@ -127,7 +148,7 @@
         }
     ],
     "wof:id":1125906845,
-    "wof:lastmodified":1566650467,
+    "wof:lastmodified":1690931055,
     "wof:name":"Uzsa-Erd\u00e9sztelep",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

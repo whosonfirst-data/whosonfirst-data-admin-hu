@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00d3b\u00e1nya"
+    ],
     "name:deu_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
+    "name:gle_x_preferred":[
+        "\u00d3b\u00e1nya"
+    ],
     "name:hrv_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
@@ -44,6 +50,9 @@
         "\u00d3b\u00e1nya"
     ],
     "name:ita_x_preferred":[
+        "\u00d3b\u00e1nya"
+    ],
+    "name:lmo_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
     "name:msa_x_preferred":[
@@ -55,6 +64,9 @@
     "name:pol_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
+    "name:por_x_preferred":[
+        "\u00d3b\u00e1nya"
+    ],
     "name:ron_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
@@ -62,6 +74,9 @@
         "\u00d3b\u00e1nya"
     ],
     "name:slv_x_preferred":[
+        "\u00d3b\u00e1nya"
+    ],
+    "name:spa_x_preferred":[
         "\u00d3b\u00e1nya"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125891979,
-    "wof:lastmodified":1566650460,
+    "wof:lastmodified":1690931047,
     "wof:name":"\u00d3b\u00e1nya",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

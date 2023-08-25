@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.090945367,47.4976812235,19.090945367,47.4976812235",
+    "geom:bbox":"19.090945,47.497681,19.090945,47.497681",
     "geom:latitude":47.497681,
     "geom:longitude":19.090945,
     "iso:country":"HU",
@@ -32,6 +32,9 @@
     "name:hun_x_preferred":[
         "Kerepesd\u0171l\u0151"
     ],
+    "name:nld_x_preferred":[
+        "Kerepesd\u0171l\u0151"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -46,7 +49,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361876,
-    "wof:geomhash":"4f28eeb10e1b821ec122c1fcb4021ac8",
+    "wof:geomhash":"47b962ecd0422d7050f25e2e544de89c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108940623,
-    "wof:lastmodified":1566650010,
+    "wof:lastmodified":1690930646,
     "wof:name":"Kerepesdulo",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.09094536699253,
-    47.49768122346486,
-    19.09094536699253,
-    47.49768122346486
+    19.090945,
+    47.497681,
+    19.090945,
+    47.497681
 ],
-  "geometry": {"coordinates":[19.09094536699253,47.49768122346486],"type":"Point"}
+  "geometry": {"coordinates":[19.090945,47.497681],"type":"Point"}
 }

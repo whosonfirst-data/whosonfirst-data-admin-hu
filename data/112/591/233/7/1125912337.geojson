@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hegymagas"
+    ],
+    "name:ces_x_preferred":[
+        "Hegymagas"
+    ],
+    "name:deu_x_preferred":[
+        "Hegymagas"
+    ],
     "name:eng_x_preferred":[
         "Hegymagas"
     ],
@@ -34,10 +43,19 @@
     "name:fra_x_preferred":[
         "Hegymagas"
     ],
+    "name:gle_x_preferred":[
+        "Hegymagas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d2'\u05de\u05d2\u05e9"
+    ],
     "name:hun_x_preferred":[
         "Hegymagas"
     ],
     "name:ita_x_preferred":[
+        "Hegymagas"
+    ],
+    "name:lmo_x_preferred":[
         "Hegymagas"
     ],
     "name:msa_x_preferred":[
@@ -56,6 +74,9 @@
         "Hegymagas"
     ],
     "name:slv_x_preferred":[
+        "Hegymagas"
+    ],
+    "name:spa_x_preferred":[
         "Hegymagas"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":1125912337,
-    "wof:lastmodified":1566650473,
+    "wof:lastmodified":1690931063,
     "wof:name":"Hegymagas",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Lenti"
     ],
+    "name:gle_x_preferred":[
+        "Lenti"
+    ],
     "name:hun_x_preferred":[
         "Lenti"
     ],
@@ -70,6 +73,9 @@
     "name:pol_x_preferred":[
         "Lenti"
     ],
+    "name:por_x_preferred":[
+        "Lenti"
+    ],
     "name:ron_x_preferred":[
         "Lenti"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:slv_x_preferred":[
         "Lentiba"
+    ],
+    "name:spa_x_preferred":[
+        "Lenti"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u043d\u0442\u0438"
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":1126004903,
-    "wof:lastmodified":1566650487,
+    "wof:lastmodified":1690931073,
     "wof:name":"M\u00e1homfa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

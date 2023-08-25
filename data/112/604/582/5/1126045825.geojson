@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Csaroda"
+    ],
     "name:deu_x_preferred":[
         "Csaroda"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "Csaroda"
     ],
+    "name:gle_x_preferred":[
+        "Csaroda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05d5\u05d3\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Csaroda"
     ],
     "name:ita_x_preferred":[
+        "Csaroda"
+    ],
+    "name:lmo_x_preferred":[
         "Csaroda"
     ],
     "name:msa_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1126045825,
-    "wof:lastmodified":1566650451,
+    "wof:lastmodified":1690931034,
     "wof:name":"Csaroda",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

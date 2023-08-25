@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Belv\u00e1rdgyula"
+    ],
     "name:deu_x_preferred":[
         "Belv\u00e1rdgyula"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Belv\u00e1rdgyula"
     ],
+    "name:gle_x_preferred":[
+        "Belv\u00e1rdgyula"
+    ],
     "name:hrv_x_preferred":[
         "Belvar"
     ],
@@ -44,6 +50,9 @@
         "Belv\u00e1rdgyula"
     ],
     "name:ita_x_preferred":[
+        "Belv\u00e1rdgyula"
+    ],
+    "name:lmo_x_preferred":[
         "Belv\u00e1rdgyula"
     ],
     "name:msa_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Belv\u00e1rdgyula"
     ],
+    "name:por_x_preferred":[
+        "Belv\u00e1rdgyula"
+    ],
     "name:ron_x_preferred":[
         "Belv\u00e1rdgyula"
     ],
@@ -67,8 +79,14 @@
     "name:slv_x_preferred":[
         "Belv\u00e1rdgyula"
     ],
+    "name:spa_x_preferred":[
+        "Belv\u00e1rdgyula"
+    ],
     "name:und_x_variant":[
         "Beldv\u00e1rdgyula"
+    ],
+    "name:uzb_x_preferred":[
+        "Belv\u00e1rdgyula"
     ],
     "name:vie_x_preferred":[
         "Belv\u00e1rdgyula"
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1125788169,
-    "wof:lastmodified":1566650495,
+    "wof:lastmodified":1690931079,
     "wof:name":"Belv\u00e1rdgyula",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

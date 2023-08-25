@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Pusztaz\u00e1mor"
+    ],
     "name:deu_x_preferred":[
         "Pusztaz\u00e1mor"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Pusztaz\u00e1mor"
     ],
+    "name:gle_x_preferred":[
+        "Pusztaz\u00e1mor"
+    ],
     "name:hun_x_preferred":[
         "Pusztaz\u00e1mor"
     ],
@@ -50,6 +56,9 @@
         "Pusztaz\u00e1mor"
     ],
     "name:nld_x_preferred":[
+        "Pusztaz\u00e1mor"
+    ],
+    "name:por_x_preferred":[
         "Pusztaz\u00e1mor"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125909401,
-    "wof:lastmodified":1566650467,
+    "wof:lastmodified":1690931054,
     "wof:name":"Pusztaz\u00e1mor",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",

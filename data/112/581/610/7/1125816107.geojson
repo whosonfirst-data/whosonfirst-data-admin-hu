@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Ep\u00f6l"
+    ],
     "name:eng_x_preferred":[
         "Ep\u00f6l"
     ],
@@ -32,6 +35,9 @@
         "\u0627\u067e\u0648\u0644"
     ],
     "name:fra_x_preferred":[
+        "Ep\u00f6l"
+    ],
+    "name:gle_x_preferred":[
         "Ep\u00f6l"
     ],
     "name:hun_x_preferred":[
@@ -47,6 +53,9 @@
         "Ep\u00f6l"
     ],
     "name:nld_x_preferred":[
+        "Ep\u00f6l"
+    ],
+    "name:por_x_preferred":[
         "Ep\u00f6l"
     ],
     "name:ron_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1125816107,
-    "wof:lastmodified":1566650453,
+    "wof:lastmodified":1690931037,
     "wof:name":"Ep\u00f6l",
     "wof:parent_id":85684885,
     "wof:placetype":"locality",

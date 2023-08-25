@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Dobronhegy"
+    ],
+    "name:deu_x_preferred":[
+        "Dobronhegy"
+    ],
     "name:eng_x_preferred":[
         "Dobronhegy"
     ],
@@ -32,6 +38,9 @@
         "\u062f\u0648\u0628\u0631\u0648\u0646\u0647\u06af\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Dobronhegy"
+    ],
+    "name:gle_x_preferred":[
         "Dobronhegy"
     ],
     "name:hun_x_preferred":[
@@ -56,6 +65,12 @@
         "Dobronhegy"
     ],
     "name:slv_x_preferred":[
+        "Dobronhegy"
+    ],
+    "name:spa_x_preferred":[
+        "Dobronhegy"
+    ],
+    "name:uzb_x_preferred":[
         "Dobronhegy"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":1125962441,
-    "wof:lastmodified":1566650469,
+    "wof:lastmodified":1690931057,
     "wof:name":"Dobronhegy",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

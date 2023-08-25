@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Als\u00f3pet\u00e9ny"
+    ],
     "name:ces_x_preferred":[
         "Als\u00f3pet\u00e9ny"
     ],
@@ -32,6 +35,9 @@
         "Als\u00f3pet\u00e9ny"
     ],
     "name:fra_x_preferred":[
+        "Als\u00f3pet\u00e9ny"
+    ],
+    "name:gle_x_preferred":[
         "Als\u00f3pet\u00e9ny"
     ],
     "name:hun_x_preferred":[
@@ -52,6 +58,9 @@
     "name:pol_x_preferred":[
         "Als\u00f3pet\u00e9ny"
     ],
+    "name:por_x_preferred":[
+        "Als\u00f3pet\u00e9ny"
+    ],
     "name:ron_x_preferred":[
         "Als\u00f3pet\u00e9ny"
     ],
@@ -59,6 +68,9 @@
         "Doln\u00e9 Pe\u0165any"
     ],
     "name:slv_x_preferred":[
+        "Als\u00f3pet\u00e9ny"
+    ],
+    "name:spa_x_preferred":[
         "Als\u00f3pet\u00e9ny"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1125986667,
-    "wof:lastmodified":1566650476,
+    "wof:lastmodified":1690931067,
     "wof:name":"Als\u00f3pet\u00e9ny",
     "wof:parent_id":85684913,
     "wof:placetype":"locality",

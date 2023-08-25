@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Csempeszkop\u00e1cs"
+    ],
     "name:deu_x_preferred":[
         "Csempeszkop\u00e1cs"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Csempeszkop\u00e1cs"
     ],
+    "name:gle_x_preferred":[
+        "Csempeszkop\u00e1cs"
+    ],
     "name:hun_x_preferred":[
         "Csempeszkop\u00e1cs"
     ],
@@ -50,6 +56,9 @@
         "Csempeszkop\u00e1cs"
     ],
     "name:nld_x_preferred":[
+        "Csempeszkop\u00e1cs"
+    ],
+    "name:por_x_preferred":[
         "Csempeszkop\u00e1cs"
     ],
     "name:ron_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1126044955,
-    "wof:lastmodified":1566650450,
+    "wof:lastmodified":1690931034,
     "wof:name":"Csempeszkop\u00e1cs",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

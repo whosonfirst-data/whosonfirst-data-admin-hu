@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Fert\u0151szentmikl\u00f3s Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Fert\u0151szentmikl\u00f3s"
+    ],
     "name:deu_x_preferred":[
         "Meidl Airport"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102547559,
-    "wof:lastmodified":1631750003,
+    "wof:lastmodified":1690930623,
     "wof:name":"Fertoszentmiklos Repuloter",
     "wof:parent_id":85684895,
     "wof:placetype":"campus",

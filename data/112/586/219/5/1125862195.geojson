@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "B\u00e1csszentgy\u00f6rgy"
+    ],
     "name:ceb_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
@@ -43,6 +46,12 @@
     "name:fra_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
+    "name:gle_x_preferred":[
+        "B\u00e1csszentgy\u00f6rgy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e6'\u05e1\u05e0\u05d8\u05d2\u05d9\u05d9\u05e8\u05d2'"
+    ],
     "name:hrv_x_preferred":[
         "\u0110uri\u0107"
     ],
@@ -50,6 +59,9 @@
         "B\u00e1csszentgy\u00f6rgy"
     ],
     "name:ita_x_preferred":[
+        "B\u00e1csszentgy\u00f6rgy"
+    ],
+    "name:lmo_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
     "name:mal_x_preferred":[
@@ -67,6 +79,9 @@
     "name:pol_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
+    "name:por_x_preferred":[
+        "B\u00e1csszentgy\u00f6rgy"
+    ],
     "name:ron_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
@@ -79,6 +94,9 @@
     "name:slv_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
     ],
+    "name:spa_x_preferred":[
+        "B\u00e1csszentgy\u00f6rgy"
+    ],
     "name:srp_x_preferred":[
         "\u0402\u0443\u0440\u0438\u045b"
     ],
@@ -87,6 +105,9 @@
     ],
     "name:und_x_variant":[
         "Derdpusta"
+    ],
+    "name:uzb_x_preferred":[
+        "B\u00e1csszentgy\u00f6rgy"
     ],
     "name:vie_x_preferred":[
         "B\u00e1csszentgy\u00f6rgy"
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":1125862195,
-    "wof:lastmodified":1566650452,
+    "wof:lastmodified":1690931036,
     "wof:name":"B\u00e1csszentgy\u00f6rgy",
     "wof:parent_id":85684859,
     "wof:placetype":"locality",

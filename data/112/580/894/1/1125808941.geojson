@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Hegyh\u00e1ts\u00e1l"
+    ],
     "name:deu_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
@@ -37,10 +40,16 @@
     "name:fra_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
+    "name:gle_x_preferred":[
+        "Hegyh\u00e1ts\u00e1l"
+    ],
     "name:hun_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
     "name:ita_x_preferred":[
+        "Hegyh\u00e1ts\u00e1l"
+    ],
+    "name:lmo_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
     "name:msa_x_preferred":[
@@ -52,6 +61,9 @@
     "name:nld_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
+    "name:por_x_preferred":[
+        "Hegyh\u00e1ts\u00e1l"
+    ],
     "name:ron_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
@@ -59,6 +71,9 @@
         "Hegyh\u00e1ts\u00e1l"
     ],
     "name:slv_x_preferred":[
+        "Hegyh\u00e1ts\u00e1l"
+    ],
+    "name:spa_x_preferred":[
         "Hegyh\u00e1ts\u00e1l"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1125808941,
-    "wof:lastmodified":1566650461,
+    "wof:lastmodified":1690931048,
     "wof:name":"Hegyh\u00e1ts\u00e1l",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sz\u0151ke"
+    ],
     "name:deu_x_preferred":[
         "Sz\u0151ke"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_preferred":[
         "Sz\u0151ke"
     ],
+    "name:gle_x_preferred":[
+        "Sz\u0151ke"
+    ],
     "name:hrv_x_preferred":[
         "Suka"
     ],
@@ -44,6 +50,9 @@
         "Sz\u0151ke"
     ],
     "name:ita_x_preferred":[
+        "Sz\u0151ke"
+    ],
+    "name:lmo_x_preferred":[
         "Sz\u0151ke"
     ],
     "name:msa_x_preferred":[
@@ -58,6 +67,9 @@
     "name:pol_x_preferred":[
         "Sz\u0151ke"
     ],
+    "name:por_x_preferred":[
+        "Sz\u0151ke"
+    ],
     "name:ron_x_preferred":[
         "Sz\u0151ke"
     ],
@@ -65,6 +77,9 @@
         "Sz\u0151ke"
     ],
     "name:slv_x_preferred":[
+        "Sz\u0151ke"
+    ],
+    "name:spa_x_preferred":[
         "Sz\u0151ke"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1125987467,
-    "wof:lastmodified":1566650477,
+    "wof:lastmodified":1690931069,
     "wof:name":"Sz\u0151ke",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",

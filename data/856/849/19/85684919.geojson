@@ -82,6 +82,9 @@
     "name:ces_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
+    "name:cym_x_preferred":[
+        "Sir Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
     "name:dan_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
@@ -116,6 +119,9 @@
     "name:fra_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
+    "name:frr_x_preferred":[
+        "Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
     "name:glg_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
@@ -139,7 +145,11 @@
     ],
     "name:hun_x_variant":[
         "Borsod-Aba\u00faj-Zempl\u00e9n megye",
-        "Borsod-Abauj Zemplen"
+        "Borsod-Abauj Zemplen",
+        "Borsod-Aba\u00faj-Zempl\u00e9n v\u00e1rmegye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0580\u0577\u0578\u0564-\u0531\u0562\u0561\u0578\u0582\u0575-\u0536\u0565\u0574\u057a\u056c\u0565\u0576"
     ],
     "name:ind_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
@@ -177,17 +187,29 @@
     "name:msa_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
+    "name:myv_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u043e\u0434-\u0410\u0431\u0430\u0443\u0439-\u0417\u0435\u043c\u043f\u043b\u0435\u043d"
+    ],
     "name:nan_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
     "name:nld_x_preferred":[
         "Borsod-Aba\u00faj-Zempl\u00e9n"
     ],
+    "name:nno_x_preferred":[
+        "Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
     "name:nob_x_preferred":[
         "Borsod Abauj Zemplen Fylke"
     ],
+    "name:nob_x_variant":[
+        "Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
     "name:oci_x_preferred":[
         "Comtat de Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u043e\u0434-\u0410\u0431\u0430\u0443\u0439-\u0417\u0435\u043c\u043f\u043b\u0435\u043d"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0648\u0631\u0633\u0648\u062f \u0627\u0628\u0627\u0624\u0626\u06cc \u0632\u0645\u067e\u0644\u06cc\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -263,6 +285,9 @@
     ],
     "name:war_x_preferred":[
         "Condado han Borsod-Aba\u00faj-Zempl\u00e9n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5305\u5c14\u7ecd\u5fb7-\u5965\u5305\u4e4c\u4f0a-\u66fe\u666e\u4f26\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u5305\u723e\u7d39\u5fb7-\u5967\u5305\u70cf\u4f0a-\u66fe\u666e\u502b\u5dde"
@@ -374,7 +399,7 @@
         "wd:id":"Q188895"
     },
     "wof:country":"HU",
-    "wof:geomhash":"418678becc9a97f278a9f81eb35318eb",
+    "wof:geomhash":"29ba1b8bb0c9c64a91e057c97615baec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +415,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351630,
+    "wof:lastmodified":1690930642,
     "wof:name":"Borsod-Aba\u00faj-Zempl\u00e9n",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

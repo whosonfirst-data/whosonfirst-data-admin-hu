@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "R\u00e1bacsanak"
+    ],
+    "name:ces_x_preferred":[
+        "R\u00e1bacsanak"
+    ],
     "name:eng_x_preferred":[
         "R\u00e1bacsanak"
     ],
@@ -33,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e1bacsanak"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1bacsanak"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05d1\u05e6'\u05e0\u05e7"
     ],
     "name:hun_x_preferred":[
         "R\u00e1bacsanak"
@@ -50,6 +62,9 @@
         "R\u00e1bacsanak"
     ],
     "name:pol_x_preferred":[
+        "R\u00e1bacsanak"
+    ],
+    "name:por_x_preferred":[
         "R\u00e1bacsanak"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +87,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u9c8d\u4e54\u7459\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u5305\u4e54\u7459\u514b"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":1125962617,
-    "wof:lastmodified":1566650470,
+    "wof:lastmodified":1690931058,
     "wof:name":"R\u00e1bacsanak",
     "wof:parent_id":85684895,
     "wof:placetype":"locality",

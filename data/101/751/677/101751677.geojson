@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u0434\u0437\u044c\u043a\u0430\u043d\u0456\u0436\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041d\u0430\u0434\u0437\u044c\u043a\u0430\u043d\u0456\u0436\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0434\u043a\u0430\u043d\u0438\u0436\u0430"
     ],
@@ -81,6 +84,9 @@
     "name:fra_x_preferred":[
         "Nagykanizsa"
     ],
+    "name:gle_x_preferred":[
+        "Nagykanizsa"
+    ],
     "name:glg_x_preferred":[
         "Nagykanizsa"
     ],
@@ -125,6 +131,9 @@
     "name:kor_x_variant":[
         "Nagykanizsa",
         "\ub108\uc9c0\ucee4\ub2c8\uc800"
+    ],
+    "name:lav_x_preferred":[
+        "Na\u0123kani\u017ea"
     ],
     "name:lit_x_preferred":[
         "Nadkani\u017ea"
@@ -219,6 +228,9 @@
     "name:war_x_preferred":[
         "Nagykanizsa"
     ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10d3\u10d9\u10d0\u10dc\u10d8\u10df\u10d0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Nagykanizsa"
     ],
@@ -292,7 +304,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1636500619,
+    "wof:lastmodified":1690930885,
     "wof:name":"Nagykanizsa",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

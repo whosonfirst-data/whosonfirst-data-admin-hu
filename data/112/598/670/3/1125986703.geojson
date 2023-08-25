@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Balatonudvari"
+    ],
     "name:ces_x_preferred":[
         "Balatonudvari"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Balatonudvari"
+    ],
+    "name:gle_x_preferred":[
+        "Balatonudvari"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05d0\u05d5\u05d3\u05d5\u05d5\u05d0\u05e8\u05d9"
     ],
     "name:hun_x_preferred":[
         "Balatonudvari"
@@ -69,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u6d1b\u6258\u52aa\u5fb7\u6c83\u91cc"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u62c9\u987f\u4e4c\u5fb7\u6c83\u91cc"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1125986703,
-    "wof:lastmodified":1566650478,
+    "wof:lastmodified":1690931070,
     "wof:name":"Balatonudvari",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

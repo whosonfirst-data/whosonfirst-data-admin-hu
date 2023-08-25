@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Zalav\u00e1r"
+    ],
     "name:ces_x_preferred":[
         "Zalav\u00e1r"
     ],
@@ -38,6 +41,9 @@
         "\u0632\u0627\u0644\u0627\u0648\u0627\u0631"
     ],
     "name:fra_x_preferred":[
+        "Zalav\u00e1r"
+    ],
+    "name:gle_x_preferred":[
         "Zalav\u00e1r"
     ],
     "name:hun_x_preferred":[
@@ -58,10 +64,19 @@
     "name:ron_x_preferred":[
         "Zalav\u00e1r"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0430\u0432\u0430\u0440"
+    ],
     "name:slk_x_preferred":[
         "Zalav\u00e1r"
     ],
     "name:slv_x_preferred":[
+        "Zalav\u00e1r"
+    ],
+    "name:spa_x_preferred":[
+        "Zalav\u00e1r"
+    ],
+    "name:uzb_x_preferred":[
         "Zalav\u00e1r"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125982643,
-    "wof:lastmodified":1566650478,
+    "wof:lastmodified":1690931070,
     "wof:name":"Zalav\u00e1r",
     "wof:parent_id":85684849,
     "wof:placetype":"locality",

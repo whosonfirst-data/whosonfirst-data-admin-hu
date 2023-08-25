@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.0963240928,47.480745716,19.0963240928,47.480745716",
+    "geom:bbox":"19.096324,47.480746,19.096324,47.480746",
     "geom:latitude":47.480746,
     "geom:longitude":19.096324,
     "iso:country":"HU",
@@ -32,6 +32,9 @@
     "name:hun_x_preferred":[
         "Tisztvisel\u0151telep"
     ],
+    "name:nld_x_preferred":[
+        "Tisztvisel\u0151telep"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -46,7 +49,7 @@
     },
     "wof:country":"HU",
     "wof:created":1491361880,
-    "wof:geomhash":"1590567614ee337f4d4de590ee7208ea",
+    "wof:geomhash":"bcf6ef5035e1239441032fec308d5baf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108940629,
-    "wof:lastmodified":1566650010,
+    "wof:lastmodified":1690930645,
     "wof:name":"Tisztviselotelep",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.09632409284336,
-    47.48074571595121,
-    19.09632409284336,
-    47.48074571595121
+    19.096324,
+    47.480746,
+    19.096324,
+    47.480746
 ],
-  "geometry": {"coordinates":[19.09632409284336,47.48074571595121],"type":"Point"}
+  "geometry": {"coordinates":[19.096324,47.480746],"type":"Point"}
 }

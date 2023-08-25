@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u00c1rp\u00e1dhalom"
+    ],
     "name:ceb_x_preferred":[
         "\u00c1rp\u00e1d-halom"
     ],
@@ -40,10 +43,16 @@
     "name:fra_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
+    "name:gle_x_preferred":[
+        "\u00c1rp\u00e1dhalom"
+    ],
     "name:hun_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
     "name:ita_x_preferred":[
+        "\u00c1rp\u00e1dhalom"
+    ],
+    "name:lmo_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
     "name:msa_x_preferred":[
@@ -55,6 +64,9 @@
     "name:pol_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
+    "name:por_x_preferred":[
+        "\u00c1rp\u00e1dhalom"
+    ],
     "name:ron_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
@@ -64,11 +76,17 @@
     "name:slv_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
+    "name:spa_x_preferred":[
+        "\u00c1rp\u00e1dhalom"
+    ],
     "name:swe_x_preferred":[
         "\u00c1rp\u00e1dhalom"
     ],
     "name:und_x_variant":[
         "Arp\u00e1dhalommajor"
+    ],
+    "name:uzb_x_preferred":[
+        "\u00c1rp\u00e1dhalom"
     ],
     "name:vie_x_preferred":[
         "\u00c1rp\u00e1dhalom"
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1125786377,
-    "wof:lastmodified":1566650496,
+    "wof:lastmodified":1690931079,
     "wof:name":"\u00c1rp\u00e1dhalom",
     "wof:parent_id":85684855,
     "wof:placetype":"locality",

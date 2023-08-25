@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.133240111,47.7836582632,19.133240111,47.7836582632",
+    "geom:bbox":"19.13324,47.783658,19.13324,47.783658",
     "geom:latitude":47.783658,
     "geom:longitude":19.13324,
     "iso:country":"HU",
@@ -64,6 +64,9 @@
         "V\u00e1c"
     ],
     "name:fra_x_preferred":[
+        "V\u00e1c"
+    ],
+    "name:gle_x_preferred":[
         "V\u00e1c"
     ],
     "name:heb_x_preferred":[
@@ -267,7 +270,7 @@
     },
     "wof:country":"HU",
     "wof:created":1499130668,
-    "wof:geomhash":"798b72998917eb81e458fda9feb4f290",
+    "wof:geomhash":"11093c7df267b2b9515bb3d64bb32be4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":1141907003,
-    "wof:lastmodified":1566650830,
+    "wof:lastmodified":1690931086,
     "wof:name":"Vac",
     "wof:parent_id":85684899,
     "wof:placetype":"locality",
@@ -288,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.13324011096665,
-    47.78365826322846,
-    19.13324011096665,
-    47.78365826322846
+    19.13324,
+    47.783658,
+    19.13324,
+    47.783658
 ],
-  "geometry": {"coordinates":[19.13324011096665,47.78365826322846],"type":"Point"}
+  "geometry": {"coordinates":[19.13324,47.783658],"type":"Point"}
 }

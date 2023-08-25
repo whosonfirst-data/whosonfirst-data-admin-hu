@@ -38,6 +38,9 @@
     "name:abk_x_preferred":[
         "\u041c\u0430\u0434\u0438\u0430\u0440\u0442\u04d9\u044b\u043b\u0430"
     ],
+    "name:abk_x_variant":[
+        "\u0412\u0435\u043d\u0433\u0440\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Hongaria"
     ],
@@ -50,14 +53,23 @@
     "name:aka_x_preferred":[
         "Hangari"
     ],
+    "name:aka_x_variant":[
+        "Hungary"
+    ],
     "name:als_x_preferred":[
         "Ungarn"
     ],
     "name:amh_x_preferred":[
         "\u1200\u1295\u130b\u122a"
     ],
+    "name:ami_x_preferred":[
+        "Hungary"
+    ],
     "name:ang_x_preferred":[
         "Ungerland"
+    ],
+    "name:anp_x_preferred":[
+        "\u0939\u0902\u0917\u0930\u0940"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062c\u0631"
@@ -83,6 +95,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0412\u0435\u043d\u0433\u0440\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Magyara"
+    ],
+    "name:awa_x_preferred":[
+        "\u0939\u0902\u0917\u0930\u0940"
     ],
     "name:aym_x_preferred":[
         "Hunkariya"
@@ -203,6 +221,9 @@
     ],
     "name:cym_x_preferred":[
         "Hwngari"
+    ],
+    "name:dag_x_preferred":[
+        "Hungary"
     ],
     "name:dan_x_preferred":[
         "Ungarn"
@@ -339,6 +360,9 @@
     "name:got_x_preferred":[
         "\ud800\udf3f\ud800\udf32\ud800\udf32\ud800\udf30\ud800\udf42\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
     ],
+    "name:gpe_x_preferred":[
+        "Hungary"
+    ],
     "name:grn_x_preferred":[
         "Hungyria"
     ],
@@ -450,6 +474,9 @@
     "name:kaa_x_preferred":[
         "Vengriya"
     ],
+    "name:kab_x_preferred":[
+        "Ma\u01e7ar"
+    ],
     "name:kal_x_preferred":[
         "Ungarni"
     ],
@@ -510,12 +537,16 @@
     "name:krc_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0430\u0440"
     ],
+    "name:krj_x_preferred":[
+        "Unggriya"
+    ],
     "name:kur_x_preferred":[
         "H\u00fbngarya"
     ],
     "name:kur_x_variant":[
         "\u0645\u06d5\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
-        "Macaristan"
+        "Macaristan",
+        "Mecaristan"
     ],
     "name:lad_x_preferred":[
         "Madjaristan"
@@ -542,7 +573,8 @@
         "Ungaja"
     ],
     "name:lij_x_variant":[
-        "Unga\u00efa"
+        "Unga\u00efa",
+        "Ungher\u00eea\u200e"
     ],
     "name:lim_x_preferred":[
         "Hongarie\u00eb"
@@ -558,6 +590,9 @@
     ],
     "name:liv_x_preferred":[
         "Ung\u0101rm\u014d"
+    ],
+    "name:lld_x_preferred":[
+        "Ungaria"
     ],
     "name:lmo_x_preferred":[
         "\u00dcngheria"
@@ -580,6 +615,9 @@
     "name:lzh_x_preferred":[
         "\u5308\u7259\u5229"
     ],
+    "name:mad_x_preferred":[
+        "Hongaria"
+    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d02\u0d17\u0d31\u0d3f"
     ],
@@ -589,8 +627,14 @@
     "name:mdf_x_preferred":[
         "\u0412\u0435\u043d\u0433\u0435\u0440\u043e\u043d\u044c \u043c\u0430\u0441\u0442\u043e\u0440"
     ],
+    "name:mdf_x_variant":[
+        "\u041c\u0430\u0434\u044c\u044f\u0440\u043c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mhr_x_preferred":[
         "\u0412\u0435\u043d\u0433\u0440\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Hungaria"
     ],
     "name:mkd_x_preferred":[
         "\u0423\u043d\u0433\u0430\u0440\u0438\u0458\u0430"
@@ -604,8 +648,14 @@
     "name:mlt_x_preferred":[
         "Ungerija"
     ],
+    "name:mni_x_preferred":[
+        "\uabcd\uabea\uabd2\uabe6\uabd4\uabe4"
+    ],
     "name:mon_x_preferred":[
         "\u0423\u043d\u0433\u0430\u0440"
+    ],
+    "name:mos_x_preferred":[
+        "Hungary"
     ],
     "name:mri_x_preferred":[
         "Hanekeria"
@@ -618,6 +668,9 @@
     ],
     "name:msa_x_variant":[
         "Hungari"
+    ],
+    "name:mwl_x_preferred":[
+        "Hungrie"
     ],
     "name:mya_x_preferred":[
         "\u101f\u1014\u103a\u1002\u1031\u101b\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -733,6 +786,9 @@
     "name:pnb_x_preferred":[
         "\u06be\u0646\u06af\u0631\u06cc"
     ],
+    "name:pnb_x_variant":[
+        "\u06c1\u0646\u06af\u0631\u06cc"
+    ],
     "name:pnt_x_preferred":[
         "\u039f\u03c5\u03b3\u03b3\u03b1\u03c1\u03af\u03b1"
     ],
@@ -788,6 +844,9 @@
     "name:san_x_preferred":[
         "\u0939\u0902\u0917\u0930\u0940"
     ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c5f\u1c5d\u1c5c\u1c6e\u1c68\u1c64"
+    ],
     "name:scn_x_preferred":[
         "Unghir\u00eca"
     ],
@@ -800,11 +859,20 @@
     "name:sgs_x_preferred":[
         "Vengr\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "Hungarya"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1081\u1062\u1004\u103a\u1087\u1075\u1031\u1087\u101b\u102e\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc4\u0db1\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc3\u0db8\u0dd4\u0dc4\u0dcf\u0dab\u0dca\u0da9\u0dd4\u0dc0"
     ],
     "name:sin_x_variant":[
         "\u0dc4\u0db1\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:skr_x_preferred":[
+        "\u06c1\u0646\u06af\u0631\u06cc"
     ],
     "name:slk_x_preferred":[
         "Ma\u010farsko"
@@ -821,11 +889,17 @@
     "name:smn_x_preferred":[
         "Unkari"
     ],
+    "name:smn_x_variant":[
+        "U\u014bgar"
+    ],
     "name:smo_x_preferred":[
         "Hanikeri"
     ],
     "name:smo_x_variant":[
         "Hungary"
+    ],
+    "name:sms_x_preferred":[
+        "Unkar"
     ],
     "name:sna_x_preferred":[
         "Hungary"
@@ -906,6 +980,9 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u0497\u0430\u0440\u0441\u0442\u0430\u043d"
     ],
+    "name:tay_x_preferred":[
+        "Hungary"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c02\u0c17\u0c47\u0c30\u0c3f"
     ],
@@ -933,11 +1010,20 @@
     "name:tir_x_preferred":[
         "\u1200\u1295\u130b\u122a"
     ],
+    "name:tok_x_preferred":[
+        "ma Mosijo"
+    ],
     "name:ton_x_preferred":[
         "Hangakalia"
     ],
+    "name:ton_x_variant":[
+        "Hungakalia"
+    ],
     "name:tpi_x_preferred":[
         "Hangari"
+    ],
+    "name:trv_x_preferred":[
+        "Hungary"
     ],
     "name:tso_x_preferred":[
         "Hungary"
@@ -982,6 +1068,9 @@
     ],
     "name:vec_x_preferred":[
         "Ongar\u00eca"
+    ],
+    "name:vec_x_variant":[
+        "Ungaria"
     ],
     "name:vep_x_preferred":[
         "Mad'jaranma"
@@ -1070,6 +1159,9 @@
     ],
     "name:zul_x_preferred":[
         "i-Hungary"
+    ],
+    "name:zul_x_variant":[
+        "IHungariya"
     ],
     "ne:abbrev":"Hun.",
     "ne:abbrev_len":4,
@@ -1276,7 +1368,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"5839cef64c445e74d37d2510b2f3866a",
+    "wof:geomhash":"a96f715e5108375e21aa33fcd9b769fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1290,7 +1382,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1684351323,
+    "wof:lastmodified":1690930636,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

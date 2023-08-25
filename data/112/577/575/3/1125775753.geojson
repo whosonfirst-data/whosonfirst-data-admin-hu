@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Tarna\u00f6rs"
+    ],
     "name:ceb_x_preferred":[
         "Tarna\u00f6rs"
     ],
@@ -43,6 +46,12 @@
     "name:fra_x_preferred":[
         "Tarna\u00f6rs"
     ],
+    "name:gle_x_preferred":[
+        "Tarna\u00f6rs"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e0\u05d0\u05e8\u05e9"
+    ],
     "name:hun_x_preferred":[
         "Tarna\u00f6rs"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30eb\u30ca-\u30a8\u30eb\u30b7\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud130\ub974\ub108\uc678\ub974\uc2dc"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0440\u043d\u0430\u0435\u0440\u0448"
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1125775753,
-    "wof:lastmodified":1566650498,
+    "wof:lastmodified":1690931082,
     "wof:name":"Tarna\u0151rs",
     "wof:parent_id":85684909,
     "wof:placetype":"locality",

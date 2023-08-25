@@ -51,6 +51,9 @@
     "name:fra_x_preferred":[
         "Orosh\u00e1za"
     ],
+    "name:gle_x_preferred":[
+        "Orosh\u00e1za"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8\u05d5\u05e9\u05d4\u05d6\u05d4"
     ],
@@ -76,6 +79,9 @@
     "name:lit_x_preferred":[
         "Oro\u0161haza"
     ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0440\u043e\u0448\u0433\u0430\u0437\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u043e\u0448\u0445\u0430\u0437\u0430"
     ],
@@ -92,6 +98,9 @@
         "Orosh\u00e1za"
     ],
     "name:pol_x_preferred":[
+        "Orosh\u00e1za"
+    ],
+    "name:por_x_preferred":[
         "Orosh\u00e1za"
     ],
     "name:que_x_preferred":[
@@ -138,6 +147,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6b50\u7f85\u4ec0\u54c8\u4f50"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u7f57\u4ec0\u54c8\u4f50"
     ],
     "qs:a0":"Magyarorsz\u00e1g",
     "qs:a1":"*B\u00e9k\u00e9s",
@@ -193,7 +205,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345327,
+    "wof:lastmodified":1690930754,
     "wof:name":"Orosh\u00e1za",
     "wof:parent_id":85684875,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kemenesszentp\u00e9ter"
+    ],
     "name:ces_x_preferred":[
         "Kemenesszentp\u00e9ter"
     ],
@@ -40,10 +43,19 @@
     "name:fra_x_preferred":[
         "Kemenesszentp\u00e9ter"
     ],
+    "name:gle_x_preferred":[
+        "Kemenesszentp\u00e9ter"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05e0\u05e9\u05e1\u05e0\u05d8\u05e4\u05d8\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Kemenesszentp\u00e9ter"
     ],
     "name:ita_x_preferred":[
+        "Kemenesszentp\u00e9ter"
+    ],
+    "name:lmo_x_preferred":[
         "Kemenesszentp\u00e9ter"
     ],
     "name:msa_x_preferred":[
@@ -64,11 +76,17 @@
     "name:slv_x_preferred":[
         "Kemenesszentp\u00e9ter"
     ],
+    "name:spa_x_preferred":[
+        "Kemenesszentp\u00e9ter"
+    ],
     "name:vie_x_preferred":[
         "Kemenesszentp\u00e9ter"
     ],
     "name:zho_x_preferred":[
         "\u51ef\u8fc8\u5948\u4ec0\u68ee\u7279\u4f69\u6cf0\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u51ef\u8fc8\u5948\u4ec0\u5723\u5f7c\u5f97"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":1125873393,
-    "wof:lastmodified":1566650462,
+    "wof:lastmodified":1690931050,
     "wof:name":"Kemenesszentp\u00e9ter",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

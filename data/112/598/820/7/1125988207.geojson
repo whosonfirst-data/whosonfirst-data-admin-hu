@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Szigliget"
+    ],
     "name:ces_x_preferred":[
         "Szigliget"
     ],
@@ -40,10 +43,19 @@
     "name:fra_x_preferred":[
         "Szigliget"
     ],
+    "name:gle_x_preferred":[
+        "Szigliget"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d2\u05dc\u05d9\u05d2\u05d8"
+    ],
     "name:hun_x_preferred":[
         "Szigliget"
     ],
     "name:ita_x_preferred":[
+        "Szigliget"
+    ],
+    "name:lmo_x_preferred":[
         "Szigliget"
     ],
     "name:msa_x_preferred":[
@@ -61,11 +73,17 @@
     "name:slv_x_preferred":[
         "Szigliget"
     ],
+    "name:spa_x_preferred":[
+        "Szigliget"
+    ],
     "name:vie_x_preferred":[
         "Szigliget"
     ],
     "name:zho_x_preferred":[
         "\u897f\u683c\u5229\u76d6\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u9521\u683c\u5229\u76d6\u7279"
     ],
     "qs_pg:aaroncc":"HU",
     "qs_pg:gn_country":"HU",
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125988207,
-    "wof:lastmodified":1566650475,
+    "wof:lastmodified":1690931066,
     "wof:name":"Szigliget",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

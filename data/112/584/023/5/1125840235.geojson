@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Als\u00f3bog\u00e1t"
+    ],
     "name:aze_x_preferred":[
         "Alsoboqat"
     ],
@@ -46,10 +49,16 @@
     "name:fra_x_preferred":[
         "Als\u00f3bog\u00e1t"
     ],
+    "name:gle_x_preferred":[
+        "Als\u00f3bog\u00e1t"
+    ],
     "name:hun_x_preferred":[
         "Als\u00f3bog\u00e1t"
     ],
     "name:ita_x_preferred":[
+        "Als\u00f3bog\u00e1t"
+    ],
+    "name:lmo_x_preferred":[
         "Als\u00f3bog\u00e1t"
     ],
     "name:msa_x_preferred":[
@@ -61,6 +70,9 @@
     "name:nld_x_preferred":[
         "Als\u00f3bog\u00e1t"
     ],
+    "name:por_x_preferred":[
+        "Als\u00f3bog\u00e1t"
+    ],
     "name:ron_x_preferred":[
         "Als\u00f3bog\u00e1t"
     ],
@@ -68,6 +80,9 @@
         "Als\u00f3bog\u00e1t"
     ],
     "name:slv_x_preferred":[
+        "Als\u00f3bog\u00e1t"
+    ],
+    "name:spa_x_preferred":[
         "Als\u00f3bog\u00e1t"
     ],
     "name:swe_x_preferred":[
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1125840235,
-    "wof:lastmodified":1566650497,
+    "wof:lastmodified":1690931081,
     "wof:name":"Als\u00f3bog\u00e1t",
     "wof:parent_id":85684845,
     "wof:placetype":"locality",

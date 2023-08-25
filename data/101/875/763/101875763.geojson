@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Kapospula"
+    ],
     "name:ces_x_preferred":[
         "Kapospula"
     ],
@@ -33,6 +36,9 @@
         "Kapospula"
     ],
     "name:fra_x_preferred":[
+        "Kapospula"
+    ],
+    "name:gle_x_preferred":[
         "Kapospula"
     ],
     "name:hun_x_preferred":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101875763,
-    "wof:lastmodified":1582345325,
+    "wof:lastmodified":1690930721,
     "wof:name":"Kapospula",
     "wof:parent_id":85684841,
     "wof:placetype":"locality",

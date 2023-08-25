@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Paszab"
+    ],
     "name:deu_x_preferred":[
         "Paszab"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:fra_x_preferred":[
         "Paszab"
+    ],
+    "name:gle_x_preferred":[
+        "Paszab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d1"
     ],
     "name:hun_x_preferred":[
         "Paszab"
@@ -122,7 +131,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1582345325,
+    "wof:lastmodified":1690930723,
     "wof:name":"Paszab",
     "wof:parent_id":85684915,
     "wof:placetype":"locality",

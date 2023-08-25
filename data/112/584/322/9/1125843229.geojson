@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Torm\u00e1sliget"
+    ],
     "name:ceb_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:ces_x_preferred":[
+        "Torm\u00e1sliget"
+    ],
+    "name:deu_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:eng_x_preferred":[
@@ -38,6 +44,9 @@
         "\u062a\u0648\u0631\u0645\u0627\u0634\u0644\u06cc\u06af\u062a"
     ],
     "name:fra_x_preferred":[
+        "Torm\u00e1sliget"
+    ],
+    "name:gle_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:hun_x_preferred":[
@@ -56,6 +65,9 @@
         "Torm\u00e1sliget"
     ],
     "name:pol_x_preferred":[
+        "Torm\u00e1sliget"
+    ],
+    "name:por_x_preferred":[
         "Torm\u00e1sliget"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125843229,
-    "wof:lastmodified":1566650498,
+    "wof:lastmodified":1690931082,
     "wof:name":"Torm\u00e1sliget",
     "wof:parent_id":85684863,
     "wof:placetype":"locality",

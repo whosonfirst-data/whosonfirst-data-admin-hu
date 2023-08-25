@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "P\u00e1padereske"
+    ],
     "name:ces_x_preferred":[
         "P\u00e1padereske"
     ],
@@ -37,10 +40,19 @@
     "name:fra_x_preferred":[
         "P\u00e1padereske"
     ],
+    "name:gle_x_preferred":[
+        "P\u00e1padereske"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e4\u05d3\u05e8\u05e9\u05e7\u05d4"
+    ],
     "name:hun_x_preferred":[
         "P\u00e1padereske"
     ],
     "name:ita_x_preferred":[
+        "P\u00e1padereske"
+    ],
+    "name:lmo_x_preferred":[
         "P\u00e1padereske"
     ],
     "name:msa_x_preferred":[
@@ -59,6 +71,9 @@
         "P\u00e1padereske"
     ],
     "name:slv_x_preferred":[
+        "P\u00e1padereske"
+    ],
+    "name:spa_x_preferred":[
         "P\u00e1padereske"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1125850341,
-    "wof:lastmodified":1566650495,
+    "wof:lastmodified":1690931078,
     "wof:name":"P\u00e1padereske",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

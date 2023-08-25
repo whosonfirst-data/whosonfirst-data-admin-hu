@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Bikal"
+    ],
     "name:deu_x_preferred":[
         "Bikal"
     ],
@@ -35,6 +38,9 @@
         "\u0628\u06cc\u06a9\u0627\u0644"
     ],
     "name:fra_x_preferred":[
+        "Bikal"
+    ],
+    "name:gle_x_preferred":[
         "Bikal"
     ],
     "name:hrv_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Bikal"
     ],
+    "name:por_x_preferred":[
+        "Bikal"
+    ],
     "name:ron_x_preferred":[
         "Bikal"
     ],
@@ -68,6 +77,9 @@
         "Bikal"
     ],
     "name:spa_x_preferred":[
+        "Bikal"
+    ],
+    "name:uzb_x_preferred":[
         "Bikal"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":1125778829,
-    "wof:lastmodified":1566650498,
+    "wof:lastmodified":1690931083,
     "wof:name":"Bikal",
     "wof:parent_id":85684839,
     "wof:placetype":"locality",
