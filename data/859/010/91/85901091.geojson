@@ -12,8 +12,8 @@
     "gn:latitude":47.50207,
     "gn:longitude":19.07218,
     "iso:country":"HU",
-    "lbl:latitude":47.501725,
-    "lbl:longitude":19.070723,
+    "lbl:latitude":47.521766,
+    "lbl:longitude":19.119804,
     "lbl:max_zoom":18.0,
     "mps:latitude":47.521766,
     "mps:longitude":19.119804,
@@ -139,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":229,
     "wof:belongsto":[
         102191581,
@@ -175,7 +175,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1690930634,
+    "wof:lastmodified":1694320461,
     "wof:name":"Erzs\u00e9betv\u00e1ros",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

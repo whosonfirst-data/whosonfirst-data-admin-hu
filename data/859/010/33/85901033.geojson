@@ -12,8 +12,8 @@
     "gn:latitude":47.44696,
     "gn:longitude":19.03652,
     "iso:country":"HU",
-    "lbl:latitude":47.442076,
-    "lbl:longitude":19.042658,
+    "lbl:latitude":47.455951,
+    "lbl:longitude":19.028336,
     "lbl:max_zoom":18.0,
     "mps:latitude":47.455951,
     "mps:longitude":19.028336,
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -143,7 +143,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1690930633,
+    "wof:lastmodified":1694320461,
     "wof:name":"Albertfalva",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",

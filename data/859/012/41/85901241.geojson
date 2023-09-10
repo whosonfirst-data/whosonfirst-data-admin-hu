@@ -11,8 +11,8 @@
     "geom:longitude":19.069137,
     "gn:id":"",
     "iso:country":"HU",
-    "lbl:latitude":47.499814,
-    "lbl:longitude":19.092702,
+    "lbl:latitude":47.490689,
+    "lbl:longitude":19.069268,
     "lbl:max_zoom":18.0,
     "mps:latitude":47.490689,
     "mps:longitude":19.069268,
@@ -216,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237,
@@ -249,7 +249,7 @@
     "wof:lang":[
         "hun"
     ],
-    "wof:lastmodified":1690930627,
+    "wof:lastmodified":1694320461,
     "wof:name":"Pest",
     "wof:parent_id":101751703,
     "wof:placetype":"neighbourhood",
