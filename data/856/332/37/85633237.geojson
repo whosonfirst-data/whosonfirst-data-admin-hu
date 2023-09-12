@@ -22,6 +22,9 @@
     "itu:country_code":[
         "36"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "HU"
     ],
@@ -1368,7 +1371,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"a96f715e5108375e21aa33fcd9b769fc",
+    "wof:geomhash":"5839cef64c445e74d37d2510b2f3866a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1382,7 +1385,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930636,
+    "wof:lastmodified":1694492235,
     "wof:name":"Hungary",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
