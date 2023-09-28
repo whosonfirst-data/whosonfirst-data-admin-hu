@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.824296,
-    "geom:area_square_m":6896797410.941579,
+    "geom:area_square_m":6896797410.941566,
     "geom:bbox":"18.688433,46.944217,20.112707,48.058681",
     "geom:latitude":47.417213,
     "geom:longitude":19.338511,
@@ -172,7 +172,7 @@
         "wd:id":"Q852742"
     },
     "wof:country":"HU",
-    "wof:geomhash":"08393a075ccc629376003b69d91cee8b",
+    "wof:geomhash":"3ffc899a586139aef89cea945690f5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +187,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690931019,
+    "wof:lastmodified":1695884150,
     "wof:name":"Central Hungary",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",

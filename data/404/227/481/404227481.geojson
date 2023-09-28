@@ -171,7 +171,7 @@
         "wd:id":"Q852716"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f601848486d5077fd96f0e79d091d4a9",
+    "wof:geomhash":"8d323448498b7d069ab283d4dcd6cdba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +186,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690931018,
+    "wof:lastmodified":1695884200,
     "wof:name":"Western Transdanubia",
     "wof:parent_id":85633237,
     "wof:placetype":"macroregion",
