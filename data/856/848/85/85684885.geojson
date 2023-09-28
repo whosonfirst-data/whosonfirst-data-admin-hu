@@ -398,12 +398,18 @@
         "gn:id":3049518,
         "gp:id":12577921,
         "hasc:id":"HU.KE",
+        "iso:code":"HU-KE",
         "iso:id":"HU-KE",
+        "qs:local_id":"211",
         "unlc:id":"HU-KE",
         "wd:id":"Q190018"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"a89bc48de5a0c5cc8fd2af5630fb8e7c",
+    "wof:geomhash":"908ac15ac73fe668d4801b76a40dff89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -419,7 +425,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930640,
+    "wof:lastmodified":1695885271,
     "wof:name":"Kom\u00e1rom-Esztergom",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

@@ -395,12 +395,18 @@
         "gn:id":3045226,
         "gp:id":12577924,
         "hasc:id":"HU.SO",
+        "iso:code":"HU-SO",
         "iso:id":"HU-SO",
+        "qs:local_id":"414",
         "unlc:id":"HU-SO",
         "wd:id":"Q190522"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"56c8d56dd2e6d21e9e26e50e41b38137",
+    "wof:geomhash":"ebea565bbb5e0a26e650c548ec401317",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -416,7 +422,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930637,
+    "wof:lastmodified":1695885271,
     "wof:name":"Somogy",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

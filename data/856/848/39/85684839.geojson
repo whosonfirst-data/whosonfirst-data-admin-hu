@@ -374,12 +374,18 @@
         "gn:id":3055399,
         "gp:id":12577912,
         "hasc:id":"HU.BA",
+        "iso:code":"HU-BA",
         "iso:id":"HU-BA",
+        "qs:local_id":"402",
         "unlc:id":"HU-BA",
         "wd:id":"Q186195"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"2cdf7bb05fe16238b5a6dc000e7d3030",
+    "wof:geomhash":"29bd07bf9074d4e992d546807de352a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -395,7 +401,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930638,
+    "wof:lastmodified":1695885271,
     "wof:name":"Baranya",
     "wof:parent_id":404227491,
     "wof:placetype":"region",

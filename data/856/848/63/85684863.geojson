@@ -384,12 +384,18 @@
         "gn:id":3043047,
         "gp:id":12577928,
         "hasc:id":"HU.VA",
+        "iso:code":"HU-VA",
         "iso:id":"HU-VA",
+        "qs:local_id":"318",
         "unlc:id":"HU-VA",
         "wd:id":"Q187677"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"7387478ba9cebc4d79dbea9de05d7792",
+    "wof:geomhash":"e7d177cd9f8625b5b6e20c6a14804ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -405,7 +411,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930639,
+    "wof:lastmodified":1695885271,
     "wof:name":"Vas",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

@@ -373,12 +373,18 @@
         "gn:id":3047348,
         "gp:id":12577922,
         "hasc:id":"HU.NO",
+        "iso:code":"HU-NO",
         "iso:id":"HU-NO",
+        "qs:local_id":"512",
         "unlc:id":"HU-NO",
         "wd:id":"Q194273"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"bbcd4316eeb3424caa456d5347e7ea36",
+    "wof:geomhash":"2ad7c58110f4903fb69237e1492bfe2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +400,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930643,
+    "wof:lastmodified":1695885272,
     "wof:name":"N\u00f3gr\u00e1d",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

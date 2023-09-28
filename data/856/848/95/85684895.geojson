@@ -401,12 +401,18 @@
         "gn:id":3051977,
         "gp:id":12577918,
         "hasc:id":"HU.GS",
+        "iso:code":"HU-GS",
         "iso:id":"HU-GS",
+        "qs:local_id":"308",
         "unlc:id":"HU-SN",
         "wd:id":"Q187753"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"693227c43d18c43c1600dbf3b0addc1e",
+    "wof:geomhash":"dfee02ba47a217000d6cfb19e4930d67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -422,7 +428,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930636,
+    "wof:lastmodified":1695885271,
     "wof:name":"Gyor-Moson-Sopron",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

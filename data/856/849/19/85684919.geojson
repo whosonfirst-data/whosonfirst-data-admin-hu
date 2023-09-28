@@ -394,12 +394,18 @@
         "gn:id":722064,
         "gp:id":12577914,
         "hasc:id":"HU.BZ",
+        "iso:code":"HU-BZ",
         "iso:id":"HU-BZ",
+        "qs:local_id":"505",
         "unlc:id":"HU-BZ",
         "wd:id":"Q188895"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"29ba1b8bb0c9c64a91e057c97615baec",
+    "wof:geomhash":"418678becc9a97f278a9f81eb35318eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -415,7 +421,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930642,
+    "wof:lastmodified":1695885272,
     "wof:name":"Borsod-Aba\u00faj-Zempl\u00e9n",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

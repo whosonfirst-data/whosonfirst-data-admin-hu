@@ -397,12 +397,18 @@
         "gn:id":3042613,
         "gp:id":12577930,
         "hasc:id":"HU.ZA",
+        "iso:code":"HU-ZA",
         "iso:id":"HU-ZA",
+        "qs:local_id":"320",
         "unlc:id":"HU-ZA",
         "wd:id":"Q185374"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"f03a3a6c34e56d67028f2fc9f063a932",
+    "wof:geomhash":"8d6f6341c63354ba4c38a71b375c46ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -418,7 +424,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930641,
+    "wof:lastmodified":1695885271,
     "wof:name":"Zala",
     "wof:parent_id":404227481,
     "wof:placetype":"region",

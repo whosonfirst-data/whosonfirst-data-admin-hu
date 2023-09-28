@@ -388,12 +388,18 @@
         "gn:id":720293,
         "gp:id":12577919,
         "hasc:id":"HU.HB",
+        "iso:code":"HU-HB",
         "iso:id":"HU-HB",
+        "qs:local_id":"609",
         "unlc:id":"HU-HB",
         "wd:id":"Q185368"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"fc82d7c8d03bd1251509ac2d13fa233b",
+    "wof:geomhash":"e42c4c660ae2fa0fcf9a1bc3211ff640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -409,7 +415,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930641,
+    "wof:lastmodified":1695885272,
     "wof:name":"Hajd\u00fa-Bihar",
     "wof:parent_id":404227483,
     "wof:placetype":"region",
