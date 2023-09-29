@@ -395,12 +395,18 @@
         "gn:id":3055744,
         "gp:id":12577911,
         "hasc:id":"HU.BK",
+        "iso:code":"HU-BK",
         "iso:id":"HU-BK",
+        "qs:local_id":"703",
         "unlc:id":"HU-BK",
         "wd:id":"Q181018"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"bca3a7065d57419f30cf9875c9732d81",
+    "wof:geomhash":"4b86308da533b62c587686cadff86fda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -416,7 +422,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930637,
+    "wof:lastmodified":1695885271,
     "wof:name":"B\u00e1cs-Kiskun",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

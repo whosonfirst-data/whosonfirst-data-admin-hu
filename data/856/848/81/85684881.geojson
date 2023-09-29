@@ -803,15 +803,21 @@
         "gn:id":3054638,
         "gp:id":12577915,
         "hasc:id":"HU.BU",
+        "iso:code":"HU-BU",
         "iso:id":"HU-BU",
+        "qs:local_id":"101",
         "unlc:id":"HU-BU",
         "wd:id":"Q1781"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101751703
     ],
     "wof:country":"HU",
-    "wof:geomhash":"a955eeabc3be897d68c39fcd7f2292aa",
+    "wof:geomhash":"851e4d1c102b8cb4a4971f08a42a2bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -827,7 +833,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930638,
+    "wof:lastmodified":1695885271,
     "wof:name":"Budapest",
     "wof:parent_id":404227489,
     "wof:placetype":"region",

@@ -401,12 +401,18 @@
         "gn:id":3053028,
         "gp:id":12577917,
         "hasc:id":"HU.FE",
+        "iso:code":"HU-FE",
         "iso:id":"HU-FE",
+        "qs:local_id":"207",
         "unlc:id":"HU-FE",
         "wd:id":"Q187693"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"74c1065bb05987f749465e8933e7376d",
+    "wof:geomhash":"bbe7d4be70ff2ef95d2ccb2b125a206a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -422,7 +428,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930640,
+    "wof:lastmodified":1695885271,
     "wof:name":"Fej\u00e9r",
     "wof:parent_id":404227479,
     "wof:placetype":"region",

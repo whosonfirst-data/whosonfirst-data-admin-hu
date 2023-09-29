@@ -379,12 +379,18 @@
         "gn:id":720002,
         "gp:id":12577920,
         "hasc:id":"HU.HE",
+        "iso:code":"HU-HE",
         "iso:id":"HU-HE",
+        "qs:local_id":"510",
         "unlc:id":"HU-HE",
         "wd:id":"Q191604"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"d0c997bba3c732d57c75ebe8b07fa3e7",
+    "wof:geomhash":"73dedfd2da922e8234015850fcb349d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +406,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930642,
+    "wof:lastmodified":1695885272,
     "wof:name":"Heves",
     "wof:parent_id":404227477,
     "wof:placetype":"region",

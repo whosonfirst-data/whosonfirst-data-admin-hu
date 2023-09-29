@@ -373,12 +373,18 @@
         "gn:id":722433,
         "gp:id":12577913,
         "hasc:id":"HU.BE",
+        "iso:code":"HU-BE",
         "iso:id":"HU-BE",
+        "qs:local_id":"704",
         "unlc:id":"HU-BE",
         "wd:id":"Q191616"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"abeb6477bc82441e4d4d7420e4d87616",
+    "wof:geomhash":"24186fe8c54ab13271e28a76bb1c1a24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +400,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930637,
+    "wof:lastmodified":1695885271,
     "wof:name":"B\u00e9k\u00e9s",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

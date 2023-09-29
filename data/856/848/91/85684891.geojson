@@ -391,12 +391,18 @@
         "gn:id":719637,
         "gp:id":12577926,
         "hasc:id":"HU.JN",
+        "iso:code":"HU-JN",
         "iso:id":"HU-JN",
+        "qs:local_id":"616",
         "unlc:id":"HU-SK",
         "wd:id":"Q189655"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"c9f9ce36766e01064c36bb690c5f127c",
+    "wof:geomhash":"ec8843415ee081de8cb00830cbcae29a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -412,7 +418,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930638,
+    "wof:lastmodified":1695885271,
     "wof:name":"J\u00e1sz-Nagykun-Szolnok",
     "wof:parent_id":404227483,
     "wof:placetype":"region",

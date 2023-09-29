@@ -465,12 +465,18 @@
         "gn:id":721589,
         "gp:id":12577916,
         "hasc:id":"HU.CS",
+        "iso:code":"HU-CS",
         "iso:id":"HU-CS",
+        "qs:local_id":"706",
         "unlc:id":"HU-CS",
         "wd:id":"Q193031"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"4dbdc924c5cda6c24d69ae2901151d5b",
+    "wof:geomhash":"27b862c9ba2573b716b9887b526d2a28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -486,7 +492,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930639,
+    "wof:lastmodified":1695885271,
     "wof:name":"Csongr\u00e1d",
     "wof:parent_id":404227487,
     "wof:placetype":"region",

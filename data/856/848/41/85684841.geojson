@@ -376,12 +376,18 @@
         "gn:id":3043845,
         "gp:id":12577927,
         "hasc:id":"HU.TO",
+        "iso:code":"HU-TO",
         "iso:id":"HU-TO",
+        "qs:local_id":"417",
         "unlc:id":"HU-TO",
         "wd:id":"Q191625"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HU",
-    "wof:geomhash":"1295fc7a44a7dfec59feae6b29b3c1e5",
+    "wof:geomhash":"a1d35fa4b9e737b7b8eef2475cd2d73e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -397,7 +403,7 @@
     "wof:lang_x_spoken":[
         "hun"
     ],
-    "wof:lastmodified":1690930640,
+    "wof:lastmodified":1695885271,
     "wof:name":"Tolna",
     "wof:parent_id":404227491,
     "wof:placetype":"region",
