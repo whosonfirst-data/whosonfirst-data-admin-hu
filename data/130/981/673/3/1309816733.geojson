@@ -84,7 +84,7 @@
         "wk:page":"Birj%C3%A1n"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8b035e786c3cbcb2f2dda916b036af44",
+    "wof:geomhash":"980f84d8ab867bba50e0b297e38e6244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.37502000000001,
     45.99789000000001
 ],
-  "geometry": {"coordinates":[18.37502000000001,45.99789000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.37502,45.99789],"type":"Point"}
 }

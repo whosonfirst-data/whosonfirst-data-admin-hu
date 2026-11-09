@@ -81,7 +81,7 @@
         "wk:page":"Kercaszomor"
     },
     "wof:country":"HU",
-    "wof:geomhash":"12511ad8ccebc08b76f0f80603e02331",
+    "wof:geomhash":"2abe9d84993fc6699a31eb516ab37322",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.35309,
     46.78899000000001
 ],
-  "geometry": {"coordinates":[16.35309,46.78899000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.35309,46.78899],"type":"Point"}
 }

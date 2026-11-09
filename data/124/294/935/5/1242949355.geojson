@@ -78,7 +78,7 @@
         "wk:page":"Kisbajom"
     },
     "wof:country":"HU",
-    "wof:geomhash":"c5f4077804dec5633b0277d7e97283fa",
+    "wof:geomhash":"ed58d0598040717a74062740e40f7285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.49376,
     46.30654000000001
 ],
-  "geometry": {"coordinates":[17.49376,46.30654000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.49376,46.30654],"type":"Point"}
 }

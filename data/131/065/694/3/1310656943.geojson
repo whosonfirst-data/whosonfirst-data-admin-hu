@@ -81,7 +81,7 @@
         "wk:page":"Bakonys%C3%A1g"
     },
     "wof:country":"HU",
-    "wof:geomhash":"a4d630874dd0825b4433791c20b25089",
+    "wof:geomhash":"12c558fb30674e9dee147f0afb36a85d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.65131000000001,
     47.40048
 ],
-  "geometry": {"coordinates":[17.65131000000001,47.40048],"type":"Point"}
+  "geometry": {"coordinates":[17.65131,47.40048],"type":"Point"}
 }

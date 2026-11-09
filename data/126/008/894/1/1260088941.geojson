@@ -84,7 +84,7 @@
         "wk:page":"Somogyap%C3%A1ti"
     },
     "wof:country":"HU",
-    "wof:geomhash":"50c55851a5e1dddd38261c1f041e936e",
+    "wof:geomhash":"31e8ddc0ee3dae86c06b315202ed6381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.74967000000001,
     46.09125
 ],
-  "geometry": {"coordinates":[17.74967000000001,46.09125],"type":"Point"}
+  "geometry": {"coordinates":[17.74967,46.09125],"type":"Point"}
 }

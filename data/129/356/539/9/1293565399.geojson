@@ -75,7 +75,7 @@
         "wk:page":"Somogyszil"
     },
     "wof:country":"HU",
-    "wof:geomhash":"3eab914854eda5260a00613043b97067",
+    "wof:geomhash":"922a6ade839bce474d0fb442bbe66c36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     17.99817999999999,
     46.51881
 ],
-  "geometry": {"coordinates":[17.99817999999999,46.51881],"type":"Point"}
+  "geometry": {"coordinates":[17.99818,46.51881],"type":"Point"}
 }

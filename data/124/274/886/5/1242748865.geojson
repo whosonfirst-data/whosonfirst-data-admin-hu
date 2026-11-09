@@ -84,7 +84,7 @@
         "wk:page":"Csit%C3%A1r"
     },
     "wof:country":"HU",
-    "wof:geomhash":"d40e7dfa96e12e3f9fb72ab11b68fdf7",
+    "wof:geomhash":"266133f5a0ce70f82dfec6245d97ea78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     19.43067000000001,
     48.0539
 ],
-  "geometry": {"coordinates":[19.43067000000001,48.0539],"type":"Point"}
+  "geometry": {"coordinates":[19.43067,48.0539],"type":"Point"}
 }

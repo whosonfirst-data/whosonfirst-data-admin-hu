@@ -78,7 +78,7 @@
         "wk:page":"Sorkik%C3%A1polna"
     },
     "wof:country":"HU",
-    "wof:geomhash":"4a278ca196e56ea12ded9788dce6ebeb",
+    "wof:geomhash":"c812011931b490ac239571272a2e5265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.70352,
     47.14024000000001
 ],
-  "geometry": {"coordinates":[16.70352,47.14024000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.70352,47.14024],"type":"Point"}
 }

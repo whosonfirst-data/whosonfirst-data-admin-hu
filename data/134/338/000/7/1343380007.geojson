@@ -87,7 +87,7 @@
         "wk:page":"R%C3%A1basebes"
     },
     "wof:country":"HU",
-    "wof:geomhash":"e365aa1f61a8ef8ec605b93de5b45844",
+    "wof:geomhash":"4a40256662d86c23e9131bf937e0c67f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.24227999999999,
     47.44027
 ],
-  "geometry": {"coordinates":[17.24227999999999,47.44027],"type":"Point"}
+  "geometry": {"coordinates":[17.24228,47.44027],"type":"Point"}
 }

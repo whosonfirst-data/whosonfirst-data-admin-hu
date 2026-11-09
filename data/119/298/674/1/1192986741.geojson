@@ -81,7 +81,7 @@
         "wk:page":"Kerkatesk%C3%A1nd"
     },
     "wof:country":"HU",
-    "wof:geomhash":"3464a6f4766c577de3934fa504a2ec0d",
+    "wof:geomhash":"7a34803b01e6ffe7842974170b720dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.57197,
     46.57664000000001
 ],
-  "geometry": {"coordinates":[16.57197,46.57664000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.57197,46.57664],"type":"Point"}
 }

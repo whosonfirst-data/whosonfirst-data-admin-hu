@@ -78,7 +78,7 @@
         "wk:page":"Szamostat%C3%A1rfalva"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8ab9442b5ba950d1c082ce54130c53bf",
+    "wof:geomhash":"143c4de6e2880712c796accd9b724947",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     22.66387000000001,
     47.87575
 ],
-  "geometry": {"coordinates":[22.66387000000001,47.87575],"type":"Point"}
+  "geometry": {"coordinates":[22.66387,47.87575],"type":"Point"}
 }

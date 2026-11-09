@@ -84,7 +84,7 @@
         "wk:page":"V%C3%A1s%C3%A1rosb%C3%A9c"
     },
     "wof:country":"HU",
-    "wof:geomhash":"929ab5b4119205be00ada2a81f6168cd",
+    "wof:geomhash":"03d29b40b1eb3c59a40db02516bc2635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.72423999999999,
     46.18288
 ],
-  "geometry": {"coordinates":[17.72423999999999,46.18288],"type":"Point"}
+  "geometry": {"coordinates":[17.72424,46.18288],"type":"Point"}
 }

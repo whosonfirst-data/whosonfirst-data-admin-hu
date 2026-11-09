@@ -81,7 +81,7 @@
         "wk:page":"Kokad"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8938d6e608d32ac0c3bd8acf90ed1dab",
+    "wof:geomhash":"49eb429d4b868e3b66ca6fdcdbcf14bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     21.93452000000001,
     47.40617
 ],
-  "geometry": {"coordinates":[21.93452000000001,47.40617],"type":"Point"}
+  "geometry": {"coordinates":[21.93452,47.40617],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Mucsfa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"78cdf2c5a3fbc02273302b1d48bf32d2",
+    "wof:geomhash":"928a29023882f36a727c2cfc37dab50b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     18.41961,
     46.35534000000001
 ],
-  "geometry": {"coordinates":[18.41961,46.35534000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.41961,46.35534],"type":"Point"}
 }

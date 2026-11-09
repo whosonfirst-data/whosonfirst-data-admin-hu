@@ -78,7 +78,7 @@
         "wk:page":"Kissziget"
     },
     "wof:country":"HU",
-    "wof:geomhash":"df9022b1fc919cd962dddb5afa2bb2b9",
+    "wof:geomhash":"a2d91c5ba760226f0f2b8c5d8d82f19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.66544,
     46.62269000000001
 ],
-  "geometry": {"coordinates":[16.66544,46.62269000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.66544,46.62269],"type":"Point"}
 }

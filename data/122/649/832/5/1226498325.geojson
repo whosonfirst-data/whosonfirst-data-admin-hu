@@ -78,7 +78,7 @@
         "wk:page":"Csesztreg"
     },
     "wof:country":"HU",
-    "wof:geomhash":"49e97ab4ea7768a7e1c84346c3260d63",
+    "wof:geomhash":"3a02657767407183745f994e15338092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.51529,
     46.71514000000001
 ],
-  "geometry": {"coordinates":[16.51529,46.71514000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.51529,46.71514],"type":"Point"}
 }

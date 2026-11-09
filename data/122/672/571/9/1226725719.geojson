@@ -78,7 +78,7 @@
         "wk:page":"T%C3%BArricse"
     },
     "wof:country":"HU",
-    "wof:geomhash":"6430f82582621a4da523e8dfae134f89",
+    "wof:geomhash":"0bb5aed71b865974530d39887bd9caff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     22.76607000000001,
     47.97387
 ],
-  "geometry": {"coordinates":[22.76607000000001,47.97387],"type":"Point"}
+  "geometry": {"coordinates":[22.76607,47.97387],"type":"Point"}
 }

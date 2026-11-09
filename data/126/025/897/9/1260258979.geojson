@@ -78,7 +78,7 @@
         "wk:page":"Szeny%C3%A9r"
     },
     "wof:country":"HU",
-    "wof:geomhash":"cb8b09a8cffc532687cbf71fecb3d564",
+    "wof:geomhash":"a9f6121ae2424c6dd1bc461c3c578496",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.38332999999999,
     46.46667
 ],
-  "geometry": {"coordinates":[17.38332999999999,46.46667],"type":"Point"}
+  "geometry": {"coordinates":[17.38333,46.46667],"type":"Point"}
 }

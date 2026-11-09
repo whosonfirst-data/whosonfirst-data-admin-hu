@@ -87,7 +87,7 @@
         "wk:page":"Bog%C3%A1dmindszent"
     },
     "wof:country":"HU",
-    "wof:geomhash":"ff5bcf4f91218805b96e235848550042",
+    "wof:geomhash":"a9e96d3947c513f88ac14da69780c4a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.04056,
     45.90694000000001
 ],
-  "geometry": {"coordinates":[18.04056,45.90694000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.04056,45.90694],"type":"Point"}
 }

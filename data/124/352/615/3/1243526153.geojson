@@ -78,7 +78,7 @@
         "wk:page":"Zics"
     },
     "wof:country":"HU",
-    "wof:geomhash":"fef800c6f3085f9fabb652406eaf4475",
+    "wof:geomhash":"e850a8ad79be3a2383d7bf798833f93a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.97649,
     46.67912000000001
 ],
-  "geometry": {"coordinates":[17.97649,46.67912000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.97649,46.67912],"type":"Point"}
 }

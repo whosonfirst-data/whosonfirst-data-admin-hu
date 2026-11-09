@@ -78,7 +78,7 @@
         "wk:page":"Kall%C3%B3sd"
     },
     "wof:country":"HU",
-    "wof:geomhash":"cc8f2686c3cd62d8822eec61581c704f",
+    "wof:geomhash":"6a351c521855e9655d57e606320d0b96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.06401,
     46.87139000000001
 ],
-  "geometry": {"coordinates":[17.06401,46.87139000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.06401,46.87139],"type":"Point"}
 }

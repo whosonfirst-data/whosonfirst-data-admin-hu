@@ -87,7 +87,7 @@
         "wk:page":"S%C3%B3st%C3%B3falva"
     },
     "wof:country":"HU",
-    "wof:geomhash":"cfa7e127bedc735e31eddd5199af181e",
+    "wof:geomhash":"dc641a08119e72fe62d37d8007893be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     21.0,
     48.15
 ],
-  "geometry": {"coordinates":[21.0,48.15],"type":"Point"}
+  "geometry": {"coordinates":[21,48.15],"type":"Point"}
 }

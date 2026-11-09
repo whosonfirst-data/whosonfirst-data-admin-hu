@@ -78,7 +78,7 @@
         "wk:page":"B%C3%A1taap%C3%A1ti"
     },
     "wof:country":"HU",
-    "wof:geomhash":"7f79343978f61eb1d3e8ee38b8c34eea",
+    "wof:geomhash":"8a3566ef98b11b88bada91fa0b777b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     18.6007,
     46.22199000000001
 ],
-  "geometry": {"coordinates":[18.6007,46.22199000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.6007,46.22199],"type":"Point"}
 }

@@ -81,7 +81,7 @@
         "wk:page":"Nagybajcs"
     },
     "wof:country":"HU",
-    "wof:geomhash":"dd8f29e79fb329ae55de5d4a4e0f00ea",
+    "wof:geomhash":"6b3b7f622975ca3fe02ec17136db333a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.68857999999999,
     47.76607
 ],
-  "geometry": {"coordinates":[17.68857999999999,47.76607],"type":"Point"}
+  "geometry": {"coordinates":[17.68858,47.76607],"type":"Point"}
 }

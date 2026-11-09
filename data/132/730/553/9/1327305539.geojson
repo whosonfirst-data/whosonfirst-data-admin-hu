@@ -81,7 +81,7 @@
         "wk:page":"G%C3%A1losfa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"97a0d4f3490a980448c47b86e898b4b8",
+    "wof:geomhash":"7ba46a09ff4e819889e111ca276d2e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.88567999999999,
     46.25631
 ],
-  "geometry": {"coordinates":[17.88567999999999,46.25631],"type":"Point"}
+  "geometry": {"coordinates":[17.88568,46.25631],"type":"Point"}
 }

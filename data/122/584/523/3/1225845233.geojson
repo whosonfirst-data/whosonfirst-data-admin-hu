@@ -84,7 +84,7 @@
         "wk:page":"Pere%2C_Hungary"
     },
     "wof:country":"HU",
-    "wof:geomhash":"b98c6c462535a2a744a5e761eb3e19fd",
+    "wof:geomhash":"96717838964c32cb622624dec1ee40ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     21.11808,
     48.28469000000001
 ],
-  "geometry": {"coordinates":[21.11808,48.28469000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.11808,48.28469],"type":"Point"}
 }

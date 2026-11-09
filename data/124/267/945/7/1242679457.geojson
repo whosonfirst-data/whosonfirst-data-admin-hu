@@ -84,7 +84,7 @@
         "wk:page":"K%C3%B6r%C3%B6snagyhars%C3%A1ny"
     },
     "wof:country":"HU",
-    "wof:geomhash":"73632528a27675d60e1bfb5b9fc2dca6",
+    "wof:geomhash":"63bb69a47097dcb3d95291a5b7a521cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     21.65,
     47.0
 ],
-  "geometry": {"coordinates":[21.65,47.0],"type":"Point"}
+  "geometry": {"coordinates":[21.65,47],"type":"Point"}
 }

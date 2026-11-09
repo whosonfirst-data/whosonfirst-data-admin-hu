@@ -93,7 +93,7 @@
         "wk:page":"R%C3%A1sonys%C3%A1pberencs"
     },
     "wof:country":"HU",
-    "wof:geomhash":"c6931951932269ff22e83ac5bb5ecc85",
+    "wof:geomhash":"ecd954bf591c62969517d9954d77070c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     21.0,
     48.31667
 ],
-  "geometry": {"coordinates":[21.0,48.31667],"type":"Point"}
+  "geometry": {"coordinates":[21,48.31667],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Kistolmacs"
     },
     "wof:country":"HU",
-    "wof:geomhash":"06fa803fd8cff6354f2f6ebf05e64ca3",
+    "wof:geomhash":"58a1c938ced4d9f89fb9f7c06b24f8fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.75215,
     46.48569000000001
 ],
-  "geometry": {"coordinates":[16.75215,46.48569000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.75215,46.48569],"type":"Point"}
 }

@@ -84,7 +84,7 @@
         "wk:page":"Basal%2C_Hungary"
     },
     "wof:country":"HU",
-    "wof:geomhash":"7c5b51bcd5594df9d15e0a2672d964fa",
+    "wof:geomhash":"ef42f8cf2a814c11e5fe86bc34e3fca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.78391000000001,
     46.07343
 ],
-  "geometry": {"coordinates":[17.78391000000001,46.07343],"type":"Point"}
+  "geometry": {"coordinates":[17.78391,46.07343],"type":"Point"}
 }

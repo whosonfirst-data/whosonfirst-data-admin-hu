@@ -87,7 +87,7 @@
         "wk:page":"R%C3%A9pcevis"
     },
     "wof:country":"HU",
-    "wof:geomhash":"a2a32fcc4db9b78ea6c580ffb60e5f72",
+    "wof:geomhash":"c3cd2c5f7a23faa7cd6d3d6173ef5ac9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     16.67147000000001,
     47.44215
 ],
-  "geometry": {"coordinates":[16.67147000000001,47.44215],"type":"Point"}
+  "geometry": {"coordinates":[16.67147,47.44215],"type":"Point"}
 }

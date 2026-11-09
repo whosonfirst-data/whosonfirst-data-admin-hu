@@ -81,7 +81,7 @@
         "wk:page":"Somogyaracs"
     },
     "wof:country":"HU",
-    "wof:geomhash":"7d45c351c9ad3943c23ec432d9cba6db",
+    "wof:geomhash":"cbec1257170a17459ba9839b0c5ffb18",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -104,5 +104,5 @@
     17.39092999999999,
     46.05663
 ],
-  "geometry": {"coordinates":[17.39092999999999,46.05663],"type":"Point"}
+  "geometry": {"coordinates":[17.39093,46.05663],"type":"Point"}
 }

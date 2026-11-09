@@ -81,7 +81,7 @@
         "wk:page":"Fels%C5%91told"
     },
     "wof:country":"HU",
-    "wof:geomhash":"feb35ba6ae21d33ea8de5836bd88525a",
+    "wof:geomhash":"9843ddbed877f2c3f76e33cdf228baa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     19.61047,
     47.97154000000001
 ],
-  "geometry": {"coordinates":[19.61047,47.97154000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.61047,47.97154],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Bodm%C3%A9r"
     },
     "wof:country":"HU",
-    "wof:geomhash":"cced8d1a6c41a077f13072f069fb1946",
+    "wof:geomhash":"011cc5e91a69ebc6259991095d6805ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     18.53502000000001,
     47.45
 ],
-  "geometry": {"coordinates":[18.53502000000001,47.45],"type":"Point"}
+  "geometry": {"coordinates":[18.53502,47.45],"type":"Point"}
 }

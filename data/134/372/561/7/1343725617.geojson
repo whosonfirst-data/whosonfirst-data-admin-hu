@@ -78,7 +78,7 @@
         "wk:page":"Nemeskisfalud"
     },
     "wof:country":"HU",
-    "wof:geomhash":"2db85b17ca62528089000a787a2873b6",
+    "wof:geomhash":"c2c2bbae025c1de471160e72b9a20e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.36667000000001,
     46.44059
 ],
-  "geometry": {"coordinates":[17.36667000000001,46.44059],"type":"Point"}
+  "geometry": {"coordinates":[17.36667,46.44059],"type":"Point"}
 }

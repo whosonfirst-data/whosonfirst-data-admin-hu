@@ -84,7 +84,7 @@
         "wk:page":"P%C3%A1sztori"
     },
     "wof:country":"HU",
-    "wof:geomhash":"43c066b0244288fc442ae42efbef6331",
+    "wof:geomhash":"17d95bb057c87801ca7f354d17b91c09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.27105,
     47.55609000000001
 ],
-  "geometry": {"coordinates":[17.27105,47.55609000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.27105,47.55609],"type":"Point"}
 }

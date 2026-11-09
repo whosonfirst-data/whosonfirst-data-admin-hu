@@ -85,7 +85,7 @@
         "wk:page":"Lispeszentadorj%C3%A1n"
     },
     "wof:country":"HU",
-    "wof:geomhash":"a59a8ccc355fe90f5f5da484b46915be",
+    "wof:geomhash":"eb019296a6332361eb1dccfde38089a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,5 +111,5 @@
     16.70272000000001,
     46.53724
 ],
-  "geometry": {"coordinates":[16.70272000000001,46.53724],"type":"Point"}
+  "geometry": {"coordinates":[16.70272,46.53724],"type":"Point"}
 }

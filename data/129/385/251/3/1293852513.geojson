@@ -87,7 +87,7 @@
         "wk:page":"Vid%2C_Hungary"
     },
     "wof:country":"HU",
-    "wof:geomhash":"7634c30fee741236e2abbd99aab06354",
+    "wof:geomhash":"d43046fbc0152fa76187ef0eeb0c7cd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.33702000000001,
     47.21361
 ],
-  "geometry": {"coordinates":[17.33702000000001,47.21361],"type":"Point"}
+  "geometry": {"coordinates":[17.33702,47.21361],"type":"Point"}
 }

@@ -81,7 +81,7 @@
         "wk:page":"Gy%C3%B6rk%C3%B6ny"
     },
     "wof:country":"HU",
-    "wof:geomhash":"5290f7b36e1629e1d27215f76277bc46",
+    "wof:geomhash":"a26492d354039b424dc0ef1d851aabcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     18.69512000000001,
     46.63372
 ],
-  "geometry": {"coordinates":[18.69512000000001,46.63372],"type":"Point"}
+  "geometry": {"coordinates":[18.69512,46.63372],"type":"Point"}
 }

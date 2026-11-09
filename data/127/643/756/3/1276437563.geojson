@@ -84,7 +84,7 @@
         "wk:page":"T%C3%A9seny"
     },
     "wof:country":"HU",
-    "wof:geomhash":"83555d4797075cdc547d9e3ed33f1b1c",
+    "wof:geomhash":"40b78c832a54b5c3dd15b952310e43af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.04889,
     45.94889000000001
 ],
-  "geometry": {"coordinates":[18.04889,45.94889000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.04889,45.94889],"type":"Point"}
 }

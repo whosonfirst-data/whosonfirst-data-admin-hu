@@ -81,7 +81,7 @@
         "wk:page":"Marcalt%C5%91"
     },
     "wof:country":"HU",
-    "wof:geomhash":"d46f0e8dea1c2a7af994ddd776894868",
+    "wof:geomhash":"43b68935f92c689a1b3f7ebbfe2c9bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.36812999999999,
     47.43342
 ],
-  "geometry": {"coordinates":[17.36812999999999,47.43342],"type":"Point"}
+  "geometry": {"coordinates":[17.36813,47.43342],"type":"Point"}
 }

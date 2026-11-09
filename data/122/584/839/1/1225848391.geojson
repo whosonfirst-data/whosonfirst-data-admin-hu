@@ -87,7 +87,7 @@
         "wk:page":"R%C3%B3zsafa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"3540b62ba231e15835446cee1035e33f",
+    "wof:geomhash":"4b21c59ae983a4111f9dc1b4f82193b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.88837999999999,
     46.02193
 ],
-  "geometry": {"coordinates":[17.88837999999999,46.02193],"type":"Point"}
+  "geometry": {"coordinates":[17.88838,46.02193],"type":"Point"}
 }

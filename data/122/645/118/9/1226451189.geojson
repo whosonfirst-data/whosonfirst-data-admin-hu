@@ -87,7 +87,7 @@
         "wk:page":"Z%C3%A1dor%2C_Hungary"
     },
     "wof:country":"HU",
-    "wof:geomhash":"2ef2fb20ce5062e42689f03a53042d6d",
+    "wof:geomhash":"c01553f76ff63fb4c086e6169122f657",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.65927000000001,
     45.95926
 ],
-  "geometry": {"coordinates":[17.65927000000001,45.95926],"type":"Point"}
+  "geometry": {"coordinates":[17.65927,45.95926],"type":"Point"}
 }

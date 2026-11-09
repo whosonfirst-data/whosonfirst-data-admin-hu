@@ -75,7 +75,7 @@
         "wk:page":"D%C3%B6r%C3%B6ske"
     },
     "wof:country":"HU",
-    "wof:geomhash":"dd01d8f4582e81d7459aa0311423f001",
+    "wof:geomhash":"d08d22e0fe32c3e2b222ff55bc7147d1",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -98,5 +98,5 @@
     16.69804,
     47.01329000000001
 ],
-  "geometry": {"coordinates":[16.69804,47.01329000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.69804,47.01329],"type":"Point"}
 }

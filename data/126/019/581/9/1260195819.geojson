@@ -84,7 +84,7 @@
         "wk:page":"V%C3%A1rad"
     },
     "wof:country":"HU",
-    "wof:geomhash":"62f5cd193b99ffa140e47fb9b2f0e300",
+    "wof:geomhash":"bf9687f7e724a0ef510708473f7c8751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.74581000000001,
     45.9744
 ],
-  "geometry": {"coordinates":[17.74581000000001,45.9744],"type":"Point"}
+  "geometry": {"coordinates":[17.74581,45.9744],"type":"Point"}
 }

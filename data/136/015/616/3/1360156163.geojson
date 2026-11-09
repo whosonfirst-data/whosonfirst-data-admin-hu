@@ -84,7 +84,7 @@
         "wk:page":"Somogybabod"
     },
     "wof:country":"HU",
-    "wof:geomhash":"fe84e21549331e931399a22b011e8135",
+    "wof:geomhash":"55edae4f47dfbdfbece7ee3bc67219d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.79076000000001,
     46.6618
 ],
-  "geometry": {"coordinates":[17.79076000000001,46.6618],"type":"Point"}
+  "geometry": {"coordinates":[17.79076,46.6618],"type":"Point"}
 }

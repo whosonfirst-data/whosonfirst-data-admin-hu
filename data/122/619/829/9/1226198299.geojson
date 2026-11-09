@@ -75,7 +75,7 @@
         "wk:page":"G%C3%A9tye"
     },
     "wof:country":"HU",
-    "wof:geomhash":"3ffd869001d202d480678ef70f899c43",
+    "wof:geomhash":"533d69cd09f90dad96ed8d24e26c6763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     17.06787000000001,
     46.76277
 ],
-  "geometry": {"coordinates":[17.06787000000001,46.76277],"type":"Point"}
+  "geometry": {"coordinates":[17.06787,46.76277],"type":"Point"}
 }

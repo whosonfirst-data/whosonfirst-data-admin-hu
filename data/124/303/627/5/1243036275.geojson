@@ -78,7 +78,7 @@
         "wk:page":"Valkonya"
     },
     "wof:country":"HU",
-    "wof:geomhash":"0b6d92ca3bc034ef2e340deb1323da10",
+    "wof:geomhash":"417e9cd7a7e454c1c6ac2c85b653071b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.80942000000001,
     46.49994
 ],
-  "geometry": {"coordinates":[16.80942000000001,46.49994],"type":"Point"}
+  "geometry": {"coordinates":[16.80942,46.49994],"type":"Point"}
 }

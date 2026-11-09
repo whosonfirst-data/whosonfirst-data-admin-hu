@@ -84,7 +84,7 @@
         "wk:page":"Pereked"
     },
     "wof:country":"HU",
-    "wof:geomhash":"131d6730cbc2dcebe3ceaa52587fb6ab",
+    "wof:geomhash":"ceee78ce5ae4218025221da7c1e15967",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.37648,
     46.09372000000001
 ],
-  "geometry": {"coordinates":[18.37648,46.09372000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.37648,46.09372],"type":"Point"}
 }

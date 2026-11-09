@@ -75,7 +75,7 @@
         "wk:page":"S%C3%BCmegcsehi"
     },
     "wof:country":"HU",
-    "wof:geomhash":"99154ed7ea1d31b32da2843d6d180326",
+    "wof:geomhash":"3b6137dd1acda503a6303b736e4ad4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     17.21526,
     46.94629000000001
 ],
-  "geometry": {"coordinates":[17.21526,46.94629000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.21526,46.94629],"type":"Point"}
 }

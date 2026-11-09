@@ -87,7 +87,7 @@
         "wk:page":"Zsurk"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f01a8fa67f337483a2355b8cc39c935a",
+    "wof:geomhash":"40277f5777acc668666da4e1c3549180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     22.21955,
     48.41184000000001
 ],
-  "geometry": {"coordinates":[22.21955,48.41184000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.21955,48.41184],"type":"Point"}
 }

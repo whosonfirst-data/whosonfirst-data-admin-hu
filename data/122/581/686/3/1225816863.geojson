@@ -81,7 +81,7 @@
         "wk:page":"Osztop%C3%A1n"
     },
     "wof:country":"HU",
-    "wof:geomhash":"98ef6be9e9f841d5aaced08fd8e28f59",
+    "wof:geomhash":"5d634f98e727430065b5c0b6a08ae1a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.66997000000001,
     46.51921
 ],
-  "geometry": {"coordinates":[17.66997000000001,46.51921],"type":"Point"}
+  "geometry": {"coordinates":[17.66997,46.51921],"type":"Point"}
 }

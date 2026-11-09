@@ -84,7 +84,7 @@
         "wk:page":"Nagyt%C3%B3tfalu"
     },
     "wof:country":"HU",
-    "wof:geomhash":"7f1784f08fb8289ba1b0ac9a0622ab9d",
+    "wof:geomhash":"073789f07d49a97e44fd34642d3d3492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     18.34528,
     45.86389000000001
 ],
-  "geometry": {"coordinates":[18.34528,45.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.34528,45.86389],"type":"Point"}
 }

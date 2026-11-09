@@ -98,7 +98,7 @@
         "wk:page":"Ibafa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"869ed52ed20e07a6582b10bf99cebf48",
+    "wof:geomhash":"b4e9b4e0ddcfc305d886610bbcbd6abe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,5 +124,5 @@
     17.91632000000001,
     46.1552
 ],
-  "geometry": {"coordinates":[17.91632000000001,46.1552],"type":"Point"}
+  "geometry": {"coordinates":[17.91632,46.1552],"type":"Point"}
 }

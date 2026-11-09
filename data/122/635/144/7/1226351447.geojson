@@ -87,7 +87,7 @@
         "wk:page":"Okor%C3%A1g"
     },
     "wof:country":"HU",
-    "wof:geomhash":"a94965863c4e966015b9f5db8d5f75eb",
+    "wof:geomhash":"e85fd6fa74de4f98118f2037dbbc5338",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.87512000000001,
     45.92593
 ],
-  "geometry": {"coordinates":[17.87512000000001,45.92593],"type":"Point"}
+  "geometry": {"coordinates":[17.87512,45.92593],"type":"Point"}
 }
