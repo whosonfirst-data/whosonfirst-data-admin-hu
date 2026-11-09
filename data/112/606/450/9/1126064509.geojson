@@ -54,7 +54,7 @@
         102191581,
         85633237,
         404227483,
-        101844979,
+        1175612749,
         85684891
     ],
     "wof:breaches":[],
@@ -70,7 +70,7 @@
         {
             "continent_id":102191581,
             "country_id":85633237,
-            "locality_id":101844979,
+            "locality_id":1175612749,
             "macroregion_id":404227483,
             "neighbourhood_id":1126064509,
             "region_id":85684891
@@ -79,7 +79,7 @@
     "wof:id":1126064509,
     "wof:lastmodified":1566650486,
     "wof:name":"\u00d3sz\u0151l\u0151",
-    "wof:parent_id":101844979,
+    "wof:parent_id":1175612749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-hu",
     "wof:superseded_by":[],
