@@ -87,7 +87,7 @@
         "wk:page":"Bolh%C3%B3"
     },
     "wof:country":"HU",
-    "wof:geomhash":"e9d62cbe02fbe2aa5e22724bb7529292",
+    "wof:geomhash":"d8fa499d837b35cf7d99d56c056a3da1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.29732000000001,
     46.03859
 ],
-  "geometry": {"coordinates":[17.29732000000001,46.03859],"type":"Point"}
+  "geometry": {"coordinates":[17.29732,46.03859],"type":"Point"}
 }

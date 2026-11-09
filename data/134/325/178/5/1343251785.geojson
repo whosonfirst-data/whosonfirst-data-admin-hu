@@ -87,7 +87,7 @@
         "wk:page":"Sz%C3%A1rf%C3%B6ld"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f024c6fbe5fa498bdb6311e072ca5978",
+    "wof:geomhash":"1840bcc71196156bf3074f5dcca27d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.12227,
     47.59269000000001
 ],
-  "geometry": {"coordinates":[17.12227,47.59269000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.12227,47.59269],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Magyaregres"
     },
     "wof:country":"HU",
-    "wof:geomhash":"380433ccd26b6cc79f304a3a1bd1d689",
+    "wof:geomhash":"d9987252f218df8facf302b6f3b95766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.77447,
     46.46064000000001
 ],
-  "geometry": {"coordinates":[17.77447,46.46064000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.77447,46.46064],"type":"Point"}
 }

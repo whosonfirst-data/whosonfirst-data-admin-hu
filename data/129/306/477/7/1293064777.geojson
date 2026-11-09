@@ -84,7 +84,7 @@
         "wk:page":"Szilv%C3%A1sszentm%C3%A1rton"
     },
     "wof:country":"HU",
-    "wof:geomhash":"e74baa6710634377631d187e17142700",
+    "wof:geomhash":"395e6fb1122e68f4f03527e8de6a573a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.71402999999999,
     46.26873
 ],
-  "geometry": {"coordinates":[17.71402999999999,46.26873],"type":"Point"}
+  "geometry": {"coordinates":[17.71403,46.26873],"type":"Point"}
 }

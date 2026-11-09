@@ -84,7 +84,7 @@
         "wk:page":"Zebecke"
     },
     "wof:country":"HU",
-    "wof:geomhash":"79a008871d466d43b0a5774e9e2e3e23",
+    "wof:geomhash":"a83d69055b2121483e2f918212a6cbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     16.68605,
     46.64344000000001
 ],
-  "geometry": {"coordinates":[16.68605,46.64344000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.68605,46.64344],"type":"Point"}
 }

@@ -87,7 +87,7 @@
         "wk:page":"Gagyap%C3%A1ti"
     },
     "wof:country":"HU",
-    "wof:geomhash":"dfa89afcfa218d837ebaa6a4b0ea9545",
+    "wof:geomhash":"d8652b26f6fbff0bbab56bc872eac919",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     21.0,
     48.41667
 ],
-  "geometry": {"coordinates":[21.0,48.41667],"type":"Point"}
+  "geometry": {"coordinates":[21,48.41667],"type":"Point"}
 }

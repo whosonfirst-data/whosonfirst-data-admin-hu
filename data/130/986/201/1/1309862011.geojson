@@ -87,7 +87,7 @@
         "wk:page":"Balatoncsics%C3%B3"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8110f0be1e61de913c77f33ac0a23930",
+    "wof:geomhash":"301da1b92de03dcaf28697331c2ea723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.66878999999999,
     46.92721
 ],
-  "geometry": {"coordinates":[17.66878999999999,46.92721],"type":"Point"}
+  "geometry": {"coordinates":[17.66879,46.92721],"type":"Point"}
 }

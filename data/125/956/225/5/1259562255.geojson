@@ -84,7 +84,7 @@
         "wk:page":"Szalmatercs"
     },
     "wof:country":"HU",
-    "wof:geomhash":"c4d5fd07bbb136390dfc60ac211ccf31",
+    "wof:geomhash":"76606a2817cfd0594a251a45e783054f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     19.63647000000001,
     48.12342
 ],
-  "geometry": {"coordinates":[19.63647000000001,48.12342],"type":"Point"}
+  "geometry": {"coordinates":[19.63647,48.12342],"type":"Point"}
 }

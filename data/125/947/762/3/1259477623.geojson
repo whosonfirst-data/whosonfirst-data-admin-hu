@@ -84,7 +84,7 @@
         "wk:page":"R%C3%A1baszentandr%C3%A1s"
     },
     "wof:country":"HU",
-    "wof:geomhash":"47e98d606bc53c2366fe851bde054cea",
+    "wof:geomhash":"8dae51d9f6452a336f8f73ccf929f5da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.32944,
     47.45914000000001
 ],
-  "geometry": {"coordinates":[17.32944,47.45914000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.32944,47.45914],"type":"Point"}
 }

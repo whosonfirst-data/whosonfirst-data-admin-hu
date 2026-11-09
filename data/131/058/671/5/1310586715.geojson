@@ -42,7 +42,7 @@
         "wk:page":"Bodakajtor"
     },
     "wof:country":"HU",
-    "wof:geomhash":"512dbbd745e453657f77ad72e7fc771d",
+    "wof:geomhash":"8bd1c2a879dc66f27dd5b8a0a2b68934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     18.50837000000001,
     47.07384
 ],
-  "geometry": {"coordinates":[18.50837000000001,47.07384],"type":"Point"}
+  "geometry": {"coordinates":[18.50837,47.07384],"type":"Point"}
 }

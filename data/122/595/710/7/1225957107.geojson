@@ -41,7 +41,7 @@
         "gn:id":3055084
     },
     "wof:country":"HU",
-    "wof:geomhash":"6c10164f7561ef7c757988a958bfb4b1",
+    "wof:geomhash":"d5664fbc4d68f0de062eb9445747627e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     18.42762,
     46.04239000000001
 ],
-  "geometry": {"coordinates":[18.42762,46.04239000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.42762,46.04239],"type":"Point"}
 }

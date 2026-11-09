@@ -82,7 +82,7 @@
         "wk:page":"Muraszemenye"
     },
     "wof:country":"HU",
-    "wof:geomhash":"efbb7dff74996a8244ca52fd1ed4efdc",
+    "wof:geomhash":"bc55e56426237c2d3c46afcfb55b02b3",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -105,5 +105,5 @@
     16.61667000000001,
     46.46667
 ],
-  "geometry": {"coordinates":[16.61667000000001,46.46667],"type":"Point"}
+  "geometry": {"coordinates":[16.61667,46.46667],"type":"Point"}
 }

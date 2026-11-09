@@ -84,7 +84,7 @@
         "wk:page":"Nyalka"
     },
     "wof:country":"HU",
-    "wof:geomhash":"d31d775463d845e5bb86ebe838577af9",
+    "wof:geomhash":"10266fa859808aa4b24678af00ba53a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.80832000000001,
     47.54357
 ],
-  "geometry": {"coordinates":[17.80832000000001,47.54357],"type":"Point"}
+  "geometry": {"coordinates":[17.80832,47.54357],"type":"Point"}
 }

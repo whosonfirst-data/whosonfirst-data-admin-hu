@@ -84,7 +84,7 @@
         "wk:page":"Helesfa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"14e8b3e99ca30ffed30d9db44314c20c",
+    "wof:geomhash":"c1895bd8c525eeb0a797d42c00d198a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.97602000000001,
     46.08978
 ],
-  "geometry": {"coordinates":[17.97602000000001,46.08978],"type":"Point"}
+  "geometry": {"coordinates":[17.97602,46.08978],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"H%C3%A1cs"
     },
     "wof:country":"HU",
-    "wof:geomhash":"e1379e4543e6cf3f3b8639ecd4ba9087",
+    "wof:geomhash":"42408b02cc0950151b7e10d701cb12f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     17.68782999999999,
     46.64652
 ],
-  "geometry": {"coordinates":[17.68782999999999,46.64652],"type":"Point"}
+  "geometry": {"coordinates":[17.68783,46.64652],"type":"Point"}
 }

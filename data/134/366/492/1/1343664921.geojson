@@ -81,7 +81,7 @@
         "wk:page":"S%C3%B3svertike"
     },
     "wof:country":"HU",
-    "wof:geomhash":"d8006b0ac91d70305ceb7744ea860da3",
+    "wof:geomhash":"bd381f3ab46ff03348f12072940114e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.8599,
     45.83537000000001
 ],
-  "geometry": {"coordinates":[17.8599,45.83537000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.8599,45.83537],"type":"Point"}
 }

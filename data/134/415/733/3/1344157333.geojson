@@ -90,7 +90,7 @@
         "wk:page":"P%C3%A1nyok"
     },
     "wof:country":"HU",
-    "wof:geomhash":"5083e2fc8a4514c5d0b73141945cc981",
+    "wof:geomhash":"59836f476ee1b04b9f2e93e7868ac06e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     21.36667000000001,
     48.53333
 ],
-  "geometry": {"coordinates":[21.36667000000001,48.53333],"type":"Point"}
+  "geometry": {"coordinates":[21.36667,48.53333],"type":"Point"}
 }

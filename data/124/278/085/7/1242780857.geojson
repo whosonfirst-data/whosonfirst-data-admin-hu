@@ -87,7 +87,7 @@
         "wk:page":"Dencsh%C3%A1za"
     },
     "wof:country":"HU",
-    "wof:geomhash":"9105ccf0cb932555f3e3586e5e60030d",
+    "wof:geomhash":"e56d143095a17bd9f4c22ae404bd1986",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.83591000000001,
     45.993
 ],
-  "geometry": {"coordinates":[17.83591000000001,45.993],"type":"Point"}
+  "geometry": {"coordinates":[17.83591,45.993],"type":"Point"}
 }

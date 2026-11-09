@@ -87,7 +87,7 @@
         "wk:page":"Magyarlukafa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"8be800e6229b1231dc22864b6b6e0394",
+    "wof:geomhash":"b86e902a830dc423cf765a2018415aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.75672999999999,
     46.16895
 ],
-  "geometry": {"coordinates":[17.75672999999999,46.16895],"type":"Point"}
+  "geometry": {"coordinates":[17.75673,46.16895],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Herm%C3%A1nszeg"
     },
     "wof:country":"HU",
-    "wof:geomhash":"6991ca38cec677ad3588aacc2c800771",
+    "wof:geomhash":"a6987e2f5cdeae372e962d7f0eabe7db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     22.62775,
     47.90564000000001
 ],
-  "geometry": {"coordinates":[22.62775,47.90564000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.62775,47.90564],"type":"Point"}
 }

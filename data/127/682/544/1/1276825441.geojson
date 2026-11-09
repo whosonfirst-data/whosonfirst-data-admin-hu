@@ -82,7 +82,7 @@
         "wk:page":"K%C3%B6csk"
     },
     "wof:country":"HU",
-    "wof:geomhash":"0b620994a5b72cd5fe254e18cc08148b",
+    "wof:geomhash":"8132572b95497130d03f4360c2e963de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,5 +108,5 @@
     17.08617000000001,
     47.1878
 ],
-  "geometry": {"coordinates":[17.08617000000001,47.1878],"type":"Point"}
+  "geometry": {"coordinates":[17.08617,47.1878],"type":"Point"}
 }

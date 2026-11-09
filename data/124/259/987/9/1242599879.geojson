@@ -81,7 +81,7 @@
         "wk:page":"Kir%C3%A1lyhegyes"
     },
     "wof:country":"HU",
-    "wof:geomhash":"faa874effd5ac932fd1622cc5026b4ff",
+    "wof:geomhash":"3b75132dbb3ca9f9398693bcef2170a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     20.61667000000001,
     46.26667
 ],
-  "geometry": {"coordinates":[20.61667000000001,46.26667],"type":"Point"}
+  "geometry": {"coordinates":[20.61667,46.26667],"type":"Point"}
 }

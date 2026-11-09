@@ -84,7 +84,7 @@
         "wk:page":"Kat%C3%A1dfa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"084f57e396e194e485693adfd8304bc9",
+    "wof:geomhash":"2cccf72cabbe4554b14bcbc1bef40e95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.86997000000001,
     45.99791
 ],
-  "geometry": {"coordinates":[17.86997000000001,45.99791],"type":"Point"}
+  "geometry": {"coordinates":[17.86997,45.99791],"type":"Point"}
 }

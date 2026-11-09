@@ -78,7 +78,7 @@
         "wk:page":"Rinyaszentkir%C3%A1ly"
     },
     "wof:country":"HU",
-    "wof:geomhash":"1109a4ad97bb65e8951972671343203f",
+    "wof:geomhash":"42d4bfd7196917fd1ead5cc06cbc106a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.38721,
     46.15244000000001
 ],
-  "geometry": {"coordinates":[17.38721,46.15244000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.38721,46.15244],"type":"Point"}
 }

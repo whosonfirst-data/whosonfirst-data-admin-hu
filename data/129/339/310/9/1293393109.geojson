@@ -87,7 +87,7 @@
         "wk:page":"Feked"
     },
     "wof:country":"HU",
-    "wof:geomhash":"dbaf86b7c2bc58ad3ddc3b775c40b047",
+    "wof:geomhash":"af2c7aeef9c96791766b930b471946ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.55877000000001,
     46.16191
 ],
-  "geometry": {"coordinates":[18.55877000000001,46.16191],"type":"Point"}
+  "geometry": {"coordinates":[18.55877,46.16191],"type":"Point"}
 }

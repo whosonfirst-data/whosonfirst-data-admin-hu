@@ -78,7 +78,7 @@
         "wk:page":"Szentgy%C3%B6rgyv%C3%A1r"
     },
     "wof:country":"HU",
-    "wof:geomhash":"1f3b7572593929bc155c0a03a29c5a8d",
+    "wof:geomhash":"00711a46b8fa4265cf3ba9772d0d87ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.13065,
     46.75794000000001
 ],
-  "geometry": {"coordinates":[17.13065,46.75794000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.13065,46.75794],"type":"Point"}
 }

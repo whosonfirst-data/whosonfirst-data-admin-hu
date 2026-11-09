@@ -78,7 +78,7 @@
         "wk:page":"Nagyd%C3%A9m"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f3ca861be448f2fcc07824f510b2c34a",
+    "wof:geomhash":"177f35c3f540bf609d53e5c71588e9b0",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -101,5 +101,5 @@
     17.67307000000001,
     47.43895
 ],
-  "geometry": {"coordinates":[17.67307000000001,47.43895],"type":"Point"}
+  "geometry": {"coordinates":[17.67307,47.43895],"type":"Point"}
 }

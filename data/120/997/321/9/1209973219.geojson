@@ -90,7 +90,7 @@
         "wk:page":"Peresznye"
     },
     "wof:country":"HU",
-    "wof:geomhash":"3883d8a3fa2ef35fd9bfa0a94a3d7826",
+    "wof:geomhash":"d858033eeffe8d31e301cd481ad9a1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     16.65114,
     47.42384000000001
 ],
-  "geometry": {"coordinates":[16.65114,47.42384000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.65114,47.42384],"type":"Point"}
 }

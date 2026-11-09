@@ -78,7 +78,7 @@
         "wk:page":"V%C3%A1cegres"
     },
     "wof:country":"HU",
-    "wof:geomhash":"6911904cf69e5825292d22fa448d6579",
+    "wof:geomhash":"af6e701e7dd3b669bebd0d006ccf3f84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     19.36619,
     47.67619000000001
 ],
-  "geometry": {"coordinates":[19.36619,47.67619000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.36619,47.67619],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Bels%C5%91s%C3%A1rd"
     },
     "wof:country":"HU",
-    "wof:geomhash":"09fe7964762947e131b0e84ad1cdefd0",
+    "wof:geomhash":"3224c595d55e84b0d7d41222ccec0ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.47166,
     46.64344000000001
 ],
-  "geometry": {"coordinates":[16.47166,46.64344000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.47166,46.64344],"type":"Point"}
 }

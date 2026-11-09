@@ -78,7 +78,7 @@
         "wk:page":"Ramocsa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"a883698ec9330eef1c012d0dbb91df09",
+    "wof:geomhash":"2a1a720c5e49e17e296d68ba6f4da54f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     16.44569,
     46.77634000000001
 ],
-  "geometry": {"coordinates":[16.44569,46.77634000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.44569,46.77634],"type":"Point"}
 }

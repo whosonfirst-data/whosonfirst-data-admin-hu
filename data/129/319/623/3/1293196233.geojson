@@ -84,7 +84,7 @@
         "wk:page":"Edve"
     },
     "wof:country":"HU",
-    "wof:geomhash":"a505b7e55bd43ccf942f9597dcc47551",
+    "wof:geomhash":"bbb13b9145bc3a21644d47f854abc00a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     17.13332999999999,
     47.45
 ],
-  "geometry": {"coordinates":[17.13332999999999,47.45],"type":"Point"}
+  "geometry": {"coordinates":[17.13333,47.45],"type":"Point"}
 }

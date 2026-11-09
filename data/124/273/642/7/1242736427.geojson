@@ -75,7 +75,7 @@
         "wk:page":"S%C3%B3tony"
     },
     "wof:country":"HU",
-    "wof:geomhash":"6d98f6ef63e761ab3b79f56b94a35efe",
+    "wof:geomhash":"84b65f158476bc34a0616f1b2ebce182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.95502,
     47.19967000000001
 ],
-  "geometry": {"coordinates":[16.95502,47.19967000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.95502,47.19967],"type":"Point"}
 }

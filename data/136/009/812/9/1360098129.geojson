@@ -87,7 +87,7 @@
         "wk:page":"Szentd%C3%A9nes"
     },
     "wof:country":"HU",
-    "wof:geomhash":"fcb65a5bf73c8c8a2052e5fd5278ca16",
+    "wof:geomhash":"505b8ff88fba3b9cd868848e7815a74e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     17.92711,
     46.00709000000001
 ],
-  "geometry": {"coordinates":[17.92711,46.00709000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.92711,46.00709],"type":"Point"}
 }

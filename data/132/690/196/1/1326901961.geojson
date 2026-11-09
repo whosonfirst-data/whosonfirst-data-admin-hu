@@ -81,7 +81,7 @@
         "wk:page":"Kiskorp%C3%A1d"
     },
     "wof:country":"HU",
-    "wof:geomhash":"4ac8e1bfba00b38cedbfc64bdc09ad3b",
+    "wof:geomhash":"01fd6b5a8302a56be154b959aa5e02f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.61257999999999,
     46.34895
 ],
-  "geometry": {"coordinates":[17.61257999999999,46.34895],"type":"Point"}
+  "geometry": {"coordinates":[17.61258,46.34895],"type":"Point"}
 }

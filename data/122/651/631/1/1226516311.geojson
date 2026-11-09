@@ -75,7 +75,7 @@
         "wk:page":"Szakad%C3%A1t"
     },
     "wof:country":"HU",
-    "wof:geomhash":"875c2f2ac4727df5f9d0ab02939e360b",
+    "wof:geomhash":"563665fd16392e9c5e92ab97a98d3bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     18.47317,
     46.53749000000001
 ],
-  "geometry": {"coordinates":[18.47317,46.53749000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47317,46.53749],"type":"Point"}
 }

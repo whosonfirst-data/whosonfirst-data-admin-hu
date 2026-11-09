@@ -81,7 +81,7 @@
         "wk:page":"B%C3%A9rbaltav%C3%A1r"
     },
     "wof:country":"HU",
-    "wof:geomhash":"ded42582480e988ca423b71c4667a700",
+    "wof:geomhash":"9cc74d1a6a872d8f238dd3269b5d3539",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.96198,
     47.00729000000001
 ],
-  "geometry": {"coordinates":[16.96198,47.00729000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.96198,47.00729],"type":"Point"}
 }

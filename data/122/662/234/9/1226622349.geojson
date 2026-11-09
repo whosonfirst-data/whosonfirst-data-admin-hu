@@ -78,7 +78,7 @@
         "wk:page":"Bodrog_%28village%29"
     },
     "wof:country":"HU",
-    "wof:geomhash":"d3254195f405d0f1e597903746ab6804",
+    "wof:geomhash":"38ade83612d99856f3ee93cd1bf7db11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.65038999999999,
     46.49437
 ],
-  "geometry": {"coordinates":[17.65038999999999,46.49437],"type":"Point"}
+  "geometry": {"coordinates":[17.65039,46.49437],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"H%C3%A1romfa"
     },
     "wof:country":"HU",
-    "wof:geomhash":"280f80878ac9c65a1676bf48f55c87e5",
+    "wof:geomhash":"f8edc8b8bc32e74256888cae07bca41a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.32692999999999,
     46.11035
 ],
-  "geometry": {"coordinates":[17.32692999999999,46.11035],"type":"Point"}
+  "geometry": {"coordinates":[17.32693,46.11035],"type":"Point"}
 }

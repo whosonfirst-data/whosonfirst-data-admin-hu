@@ -87,7 +87,7 @@
         "wk:page":"Hegyh%C3%A1tmar%C3%B3c"
     },
     "wof:country":"HU",
-    "wof:geomhash":"aab0aa002ea7b884a4762f311fad31a0",
+    "wof:geomhash":"03ed6dfe79752b50f1e874e6fbf9c917",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     18.33657,
     46.31124000000001
 ],
-  "geometry": {"coordinates":[18.33657,46.31124000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.33657,46.31124],"type":"Point"}
 }

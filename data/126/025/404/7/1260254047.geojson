@@ -78,7 +78,7 @@
         "wk:page":"Szentg%C3%A1losk%C3%A9r"
     },
     "wof:country":"HU",
-    "wof:geomhash":"c07e280141b13dd740b69e7c12f3575a",
+    "wof:geomhash":"50234be109bdace3459149edab8a14c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.88377999999999,
     46.5041
 ],
-  "geometry": {"coordinates":[17.88377999999999,46.5041],"type":"Point"}
+  "geometry": {"coordinates":[17.88378,46.5041],"type":"Point"}
 }

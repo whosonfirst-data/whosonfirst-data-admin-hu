@@ -38,7 +38,7 @@
     "wof:concordances":{},
     "wof:country":"HU",
     "wof:created":1491361790,
-    "wof:geomhash":"d024a46fe4a3d844f21d58c9e5cbbd94",
+    "wof:geomhash":"69a7553fda1fc481b49baa529ec795c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,5 +65,5 @@
     18.98557383875522,
     47.49236529946729
 ],
-  "geometry": {"coordinates":[18.98557383875522,47.49236529946729],"type":"Point"}
+  "geometry": {"coordinates":[18.985574,47.492365],"type":"Point"}
 }

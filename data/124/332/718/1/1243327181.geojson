@@ -78,7 +78,7 @@
         "wk:page":"Zim%C3%A1ny"
     },
     "wof:country":"HU",
-    "wof:geomhash":"1eb013bedcfc655a5b8cd249879fd515",
+    "wof:geomhash":"74d019c4e169403ea8f75a7051176c85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.90911000000001,
     46.42453
 ],
-  "geometry": {"coordinates":[17.90911000000001,46.42453],"type":"Point"}
+  "geometry": {"coordinates":[17.90911,46.42453],"type":"Point"}
 }

@@ -78,7 +78,7 @@
         "wk:page":"Visnye"
     },
     "wof:country":"HU",
-    "wof:geomhash":"1ccd3ac7f418144ec7ab4e3f47c363e9",
+    "wof:geomhash":"fce0a98cfba0ad44d79d8453545300ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.67628999999999,
     46.19106
 ],
-  "geometry": {"coordinates":[17.67628999999999,46.19106],"type":"Point"}
+  "geometry": {"coordinates":[17.67629,46.19106],"type":"Point"}
 }

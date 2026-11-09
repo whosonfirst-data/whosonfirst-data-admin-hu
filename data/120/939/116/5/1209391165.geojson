@@ -78,7 +78,7 @@
         "wk:page":"B%C3%BCss%C3%BC"
     },
     "wof:country":"HU",
-    "wof:geomhash":"f1874c3d3b08d7e0b0d5c147f09053ea",
+    "wof:geomhash":"3ae9263f701e80679a38613d6ac0309c",
     "wof:hierarchy":[
         {
             "country_id":85633237,
@@ -101,5 +101,5 @@
     17.96447000000001,
     46.46111
 ],
-  "geometry": {"coordinates":[17.96447000000001,46.46111],"type":"Point"}
+  "geometry": {"coordinates":[17.96447,46.46111],"type":"Point"}
 }

@@ -81,7 +81,7 @@
         "wk:page":"Zalagy%C3%B6m%C3%B6r%C5%91"
     },
     "wof:country":"HU",
-    "wof:geomhash":"6798855fe469f02645fa23da423cb495",
+    "wof:geomhash":"f00310b7edb53414bc6ae3baac3d24df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.22712000000001,
     47.01918
 ],
-  "geometry": {"coordinates":[17.22712000000001,47.01918],"type":"Point"}
+  "geometry": {"coordinates":[17.22712,47.01918],"type":"Point"}
 }

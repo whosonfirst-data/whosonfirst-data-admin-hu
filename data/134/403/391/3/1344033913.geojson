@@ -81,7 +81,7 @@
         "wk:page":"Somogycsics%C3%B3"
     },
     "wof:country":"HU",
-    "wof:geomhash":"681c39a4e21e7288c2c2c289953dc3d2",
+    "wof:geomhash":"69e8d553a426b21147b403798a94b93f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.13332999999999,
     46.31057
 ],
-  "geometry": {"coordinates":[17.13332999999999,46.31057],"type":"Point"}
+  "geometry": {"coordinates":[17.13333,46.31057],"type":"Point"}
 }

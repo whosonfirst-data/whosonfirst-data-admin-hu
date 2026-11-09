@@ -81,7 +81,7 @@
         "wk:page":"Farkasgyep%C5%B1"
     },
     "wof:country":"HU",
-    "wof:geomhash":"6797345805b32e9d37ad043c062cd2bb",
+    "wof:geomhash":"2952bbdf75dca9d68e89bcdaf37595b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.63332999999999,
     47.2
 ],
-  "geometry": {"coordinates":[17.63332999999999,47.2],"type":"Point"}
+  "geometry": {"coordinates":[17.63333,47.2],"type":"Point"}
 }

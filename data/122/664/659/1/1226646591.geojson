@@ -87,7 +87,7 @@
         "wk:page":"Szak%C3%A1csi"
     },
     "wof:country":"HU",
-    "wof:geomhash":"83375d4592f301aca1aaa8375b53b944",
+    "wof:geomhash":"b9228d74a77ff931f518f8fcaaf0cd56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     20.86667000000001,
     48.38333
 ],
-  "geometry": {"coordinates":[20.86667000000001,48.38333],"type":"Point"}
+  "geometry": {"coordinates":[20.86667,48.38333],"type":"Point"}
 }
