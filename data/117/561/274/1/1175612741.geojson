@@ -115,7 +115,6 @@
     "wd:wordcount":117,
     "wof:belongsto":[
         102191581,
-        101844917,
         85633237,
         85684859,
         404227487
@@ -135,7 +134,6 @@
         {
             "continent_id":102191581,
             "country_id":85633237,
-            "locality_id":101844917,
             "macroregion_id":404227487,
             "region_id":85684859
         }
