@@ -11,8 +11,8 @@
     "geom:longitude":19.001719,
     "gn:id":"",
     "iso:country":"HU",
-    "lbl:latitude":47.514678,
-    "lbl:longitude":18.988626,
+    "lbl:latitude":47.509778,
+    "lbl:longitude":19.002765,
     "lbl:max_zoom":18.0,
     "mps:latitude":47.5098,
     "mps:longitude":19.002785,
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         85633237,
